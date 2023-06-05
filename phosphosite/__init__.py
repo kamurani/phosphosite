@@ -14,6 +14,9 @@ PDB_DIR         = STRUCTURE_DIR / 'alphafold' / 'pdb' # PDB format structures fr
 SEQUENCE_DIR    = DATA_DIR / 'sequence'
 
 
+AF_VERSION = 3
+
+
 if __name__ == '__main__':
     print(f"PROJECT_ROOT_DIR: {PROJECT_ROOT_DIR}")
     print(f"DATA_DIR: {DATA_DIR}")
