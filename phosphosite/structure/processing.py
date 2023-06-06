@@ -11,6 +11,8 @@ from typing import Union, List, Tuple, Dict, Optional
 from tqdm import tqdm 
 from pathlib import Path
 
+import numba
+
 
 af_out_format = "AF-{uniprot_id}-F1-model_v{af_version}.{extension}"
 
@@ -131,3 +133,45 @@ def process_af_data(
     alphafold_annotation = alphafold_annotation.join(str_oh)
 
     return(alphafold_annotation)
+
+
+@numba.njit
+def get_3d_dist(
+    coordinate_array_1: np.ndarray,
+    coordinate_array_2: np.ndarray,
+    idx_1: int,
+    idx_2: int
+) -> float:
+    """
+    Function to get the distance between two coordinates in 3D space.
+    Input are two coordinate arrays and two respective indices that specify
+    for which points in the coordinate arrays the distance should be calculated.
+
+    Parameters
+    ----------
+    coordinate_array_1 : np.ndarray
+        Array of 3D coordinates.
+        Must be 3d, e.g. np.float64[:,3]
+    coordinate_array_2 : np.ndarray
+        Array of 3D coordinates.
+        Must be 3d, e.g. np.float64[:,3]
+    idx_1 : int
+        Integer to select an index in coordinate_array_1.
+    idx_2 : int
+        Integer to select an index in coordinate_array_2.
+
+    Returns
+    -------
+    : float
+        Distance between the two selected 3D coordinates.
+    """
+    dist = np.sqrt(
+        (
+            coordinate_array_1[idx_1, 0] - coordinate_array_2[idx_2, 0]
+        )**2 + (
+            coordinate_array_1[idx_1, 1] - coordinate_array_2[idx_2, 1]
+        )**2 + (
+            coordinate_array_1[idx_1, 2] - coordinate_array_2[idx_2, 2]
+        )**2
+    )
+    return(dist)

@@ -14,6 +14,88 @@ from pathlib import Path
 
 import pandas as pd 
 import numpy as np
+import re
+
+from phosphosite import PSP_DATASET_DIR
+
+
+
+def load_dataset_file(
+    filepath: Union[str, Path],
+) -> pd.DataFrame:
+    """Load the PhosphoSitePlus phosphorylation dataset."""
+    if not Path(filepath).exists():
+        raise ValueError(f"Filepath {filepath} does not exist.")
+    
+    
+    compression = "gzip" if str(filepath).endswith(".gz") else None
+    dataset = pd.read_csv(
+        filepath,
+        sep="\t",
+        skiprows=3,
+        compression=compression,
+        low_memory=False,
+    )
+    return dataset
+
+def get_phosphorylation_dataset(
+    filepath: Union[str, Path] = PSP_DATASET_DIR / "Phosphorylation_site_dataset.gz",
+    handle_isoforms: str = "remove", # "canonical", "keep"
+) -> pd.DataFrame:
+    """Load the PhosphoSitePlus phosphorylation dataset."""
+    phosphorylation = load_dataset_file(filepath)
+
+    if handle_isoforms not in ["keep", "remove", "canonical"]:
+        raise ValueError(f"handle_isoforms must be one of ['keep', 'remove', 'canonical'], got {handle_isoforms}")
+    if handle_isoforms == "canonical":
+        raise NotImplementedError("canonical isoform handling not yet implemented")
+    elif handle_isoforms == "keep":
+        pass
+    elif handle_isoforms == "remove":
+        # Remove isoforms from phosphorylation dataset.
+        # Turn {protein_id}-1 into {protein_id}
+        old_total = len(phosphorylation[phosphorylation["ACC_ID"].str.contains("-")])
+        # Count number of isoforms in ACC_ID column. 
+        isoform1count = phosphorylation["ACC_ID"].str.split("-").str[1].value_counts().to_dict()[str(1)]
+
+        # For all instances of {protein_id}-1 in ACC_ID column, 
+        # replace with {protein_id}.
+        phosphorylation["ACC_ID"] = phosphorylation["ACC_ID"].str.replace(
+            re.compile(r"-1$"),
+            "",
+        )
+        new_total = len(phosphorylation[phosphorylation["ACC_ID"].str.contains("-")])
+        assert new_total == old_total - isoform1count
+
+        # Now remove all rows containing dash. 
+        phosphorylation = phosphorylation[~phosphorylation["ACC_ID"].str.contains("-")]
+
+    return phosphorylation
+
+
+    
+
+
+"""Filter pd.Series of protein ids for isoforms."""
+def filter_isoforms(
+    method: str = "canonical", # "remove", "keep"
+
+) -> pd.Series:
+    """Filter pd.Series of protein ids for isoforms."""
+    
+    if method not in ["keep", "remove", "canonical"]:
+        raise ValueError(f"method must be one of ['keep', 'remove', 'canonical'], got {method}")
+    if method == "canonical":
+        pass 
+
+    # TODO
+        
+
+
+phosphorylation = get_phosphorylation_dataset()
+
+
+
 
 """
 TODO: 
@@ -361,3 +443,4 @@ def get_psp_regulatory_sites(
         pass # Keep all isoforms as is
 
     return df
+

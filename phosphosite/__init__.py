@@ -6,6 +6,8 @@ from pathlib import Path
 PROJECT_ROOT_DIR = Path(__file__).resolve().parent.parent
 PHOSPHOSITE_DIR = PROJECT_ROOT_DIR / 'phosphosite'
 DATA_DIR        = PROJECT_ROOT_DIR / 'data'
+DATASET_DIR     = PROJECT_ROOT_DIR / 'datasets'
+PSP_DATASET_DIR = DATASET_DIR / 'psp'
 
 STRUCTURE_DIR   = DATA_DIR / 'structures'
 CIF_DIR         = STRUCTURE_DIR / 'alphafold' / 'cif'

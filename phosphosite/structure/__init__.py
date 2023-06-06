@@ -34,7 +34,54 @@ class StructureLoader(object):
         return self.structure_dir / self.get_filename(uniprot_id)
     
     def get_structure(self, uniprot_id: str) -> Path:
+        """Return Path to structure file for given uniprot_id.
+        
+        Parameters
+        ----------
+        uniprot_id : str
+            Uniprot ID of protein.
+        
+        Returns
+        -------
+        Path
+            Path to structure file.
+
+        Raises
+        ------
+        ValueError
+            If structure file does not exist.
+        """
         filepath = self.get_filepath(uniprot_id)
         if not filepath.exists():
             raise ValueError(f"Filepath {filepath} does not exist.")
         return filepath
+
+    def protein_id_exists(self, uniprot_id: str) -> bool:
+        """Check if structure file exists for given uniprot_id.
+
+        Parameters
+        ----------
+        uniprot_id : str
+            Uniprot ID of protein.
+        
+        Returns
+        -------
+        bool
+            `True` if structure file exists, `False` otherwise.
+        """
+        return self.get_filepath(uniprot_id).exists()
+
+    def get_existing_ids(
+        self, 
+        ids: Union[str, List[str]] = None,
+    ) -> List[str]:
+        """Returns intersection of given ids and existing ids."""
+        if ids is not None:
+            if isinstance(ids, str): ids = [ids]
+            return [
+                uniprot_id
+                for uniprot_id in ids
+                if self.protein_id_exists(uniprot_id)
+            ]
+        else:
+            return [filepath.stem for filepath in self.structure_dir.glob(f"*.{self.extension}")]
