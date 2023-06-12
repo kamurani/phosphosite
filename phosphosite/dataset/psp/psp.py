@@ -73,8 +73,6 @@ def get_phosphorylation_dataset(
     return phosphorylation
 
 
-    
-
 
 """Filter pd.Series of protein ids for isoforms."""
 def filter_isoforms(
