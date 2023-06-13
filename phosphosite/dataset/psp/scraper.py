@@ -1,11 +1,19 @@
 """Web scraping PhosphoSitePlus for phosphorylation data."""
+# %%
+# Phosphosite
+# Author: Cam İmran <c.mcmenamie@unsw.edu.au>
+# License: MIT
+# Project Website: https://github.com/kamurani/phosphosite
+# Code Repository: https://github.com/kamurani/phosphosite
+
+# Modified from James Rosse <j.rosse@student.unsw.edu.au>
+# Data Source: https://www.phosphosite.org 
 
 import json
 import requests
 import pandas as pd 
 
 from bs4 import BeautifulSoup
-
 
 """Extracts modifications from PhosphoSitePlus."""
 def get_psp_mods(
@@ -36,12 +44,10 @@ def get_psp_mods(
     response = requests.get(url) 
     html = response.content
     soup = BeautifulSoup(html, "html.parser") 
-
     ptms_param = soup.find('param', id = 'PTMsites') # PTMS are stored in the div class 'data container' under the param id 'PTMsites'. 
     if not ptms_param:
         if verbose: print(f'No PTMS found for {uniprot_id}')
         return None
-
     ptms = ptms_param['value'] # This is a json string
     try:
         modifications = json.loads(ptms) # Converts json string to list of dicts
@@ -50,7 +56,6 @@ def get_psp_mods(
 
     # DATA EXTRACTION AND TABLE CREATION. 
     # Relevant information about each modification is extracted and
-    # outputted as a pandas data frame.
-  
+    # formatted as a dataframe.
     df = pd.DataFrame.from_dict(modifications)
     return df
