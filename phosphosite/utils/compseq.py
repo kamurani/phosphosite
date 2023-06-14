@@ -13,12 +13,17 @@ from typing import Union
 from pathlib import Path
 from typing import Dict, List, Tuple, Union
 
+from phosphosite import DATA_DIR 
+DEFAULT_COMPSEQ_PATH = DATA_DIR / "compseq" / "scgr4_human.composition" 
+
 COMPSEQ_OUTPUT_SKIP = 26
+
+
 
 
 """Parse and load data from a `compseq` output file."""
 def parse_compseq_output(
-    file_path: Union[str, Path], 
+    file_path: Union[str, Path] = DEFAULT_COMPSEQ_PATH,
 
 ) -> pd.DataFrame: 
     """Parse compseq file.
