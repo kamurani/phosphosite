@@ -150,6 +150,9 @@ def get_triplet_dict(
         A dictionary containing the triplet data.          
         Note: the values are obtained from summing the individual triplet values. 
     """
+    if amino_acids is None or len(amino_acids) == 0:
+        amino_acids = get_all_amino_acids(df)
+
     triplets = []
     for res in centre_residue:
         for aa_prev in amino_acids:
@@ -184,10 +187,11 @@ def get_all_amino_acids(
     str
         A string containing all unique residues in the dataframe.
     """
-    triplets = df.columns
+    triplets = list(df.columns)
     if remove_other:
         triplets.remove("Other")
     amino_acids = []
     for i in [0, 1, 2]:
         amino_acids += list(set([t[i] for t in triplets]))
     amino_acids = sorted(list(set(amino_acids)))
+    return "".join(amino_acids)
