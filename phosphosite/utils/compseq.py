@@ -15,9 +15,27 @@ from typing import Dict, List, Tuple, Union
 
 from phosphosite import DATA_DIR 
 DEFAULT_COMPSEQ_PATH = DATA_DIR / "compseq" / "scgr4_human.composition" 
+AA_BACKGROUND_PATH = DATA_DIR / "compseq" / "aa_background.composition" 
+
+DEFAULT_COMPSEQ_PATH
+
 
 COMPSEQ_OUTPUT_SKIP = 26
 
+
+def get_background_df(
+    file_path: Union[str, Path] = AA_BACKGROUND_PATH,
+) -> pd.DataFrame:
+    """"Get background amino acid frequencies as a DataFrame.
+    
+    Parameters
+    ----------
+    file_path : Union[str, Path], optional
+        The path to the background amino acid frequencies file, by default AA_BACKGROUND_PATH
+
+    """
+    df = parse_compseq_output(file_path)
+    return df
 
 
 
