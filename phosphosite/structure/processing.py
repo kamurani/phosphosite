@@ -6,13 +6,11 @@ import shutil
 import Bio.PDB.MMCIF2Dict
 import pandas as pd
 import numpy as np 
+import numba
 
 from typing import Union, List, Tuple, Dict, Optional
 from tqdm import tqdm 
 from pathlib import Path
-
-import numba
-
 
 af_out_format = "AF-{uniprot_id}-F1-model_v{af_version}.{extension}"
 
