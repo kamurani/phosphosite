@@ -1,4 +1,6 @@
 """Loading and annotation of structure files from AlphaFold and PDB."""
+import Bio 
+import gzip
 
 from pathlib import Path
 from typing import Union, List, Tuple, Dict, Optional
@@ -85,3 +87,38 @@ class StructureLoader(object):
             ]
         else:
             return [filepath.stem for filepath in self.structure_dir.glob(f"*.{self.extension}")]
+
+    def parse_structure(
+        self,
+        uniprot_id: str,
+    ) -> Bio.PDB.MMCIF2Dict.MMCIF2Dict:
+        """Parse structure file for given uniprot_id.
+        
+        Parameters
+        ----------
+        uniprot_id : str
+            Uniprot ID of protein.
+        
+        Returns
+        -------
+        Bio.PDB.MMCIF2Dict.MMCIF2Dict
+            Structure file parsed as a dictionary.
+
+        Raises
+        ------
+        ValueError
+            If structure file has an unrecognized extension.
+        
+        """
+
+        # get path to structure file.
+        filepath: Path = self.get_structure(uniprot_id)
+        if filepath.name.endswith("cif"):
+            structure = Bio.PDB.MMCIF2Dict.MMCIF2Dict(filepath)
+        elif filepath.name.endswith("cif.gz"):
+            with gzip.open(filepath, "rt") as infile: 
+                structure = Bio.PDB.MMCIF2Dict.MMCIF2Dict(infile)
+        else: 
+            raise ValueError(f"File '{filepath}' has an unrecognized extension.")
+
+        return structure
