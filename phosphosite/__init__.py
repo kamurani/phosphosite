@@ -20,6 +20,8 @@ NOTEBOOK_DIR    = PROJECT_ROOT_DIR / 'notebooks'
 
 UNIPROT_DATA_DIR = NOTEBOOK_DIR / "bubble" / "uniprot"  
 
+PHOSPHOSITE_PREDICT_DIR = NOTEBOOK_DIR / "phosphosite_prediction"
+
 CONFIG_FILE_PATH = NOTEBOOK_DIR / "config.yml"
 
 import yaml 
