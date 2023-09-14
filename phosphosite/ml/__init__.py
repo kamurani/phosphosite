@@ -1,6 +1,40 @@
-
+"""ML utilities."""
 
 import torch
+from torchmetrics import Accuracy
+accuracy = Accuracy(task="binary")
+
+def calculate_masked_accuracy(
+    input: torch.Tensor,
+    target: torch.Tensor,
+    mask: torch.Tensor,
+) -> torch.Tensor:
+    """
+    Calculate the accuracy of the model's predictions.
+
+    Only considers the predictions for the masked residues, 
+    i.e. where the mask is 1.0.
+
+    Parameters
+    ----------
+    input : torch.Tensor
+        The model's predictions.
+    target : torch.Tensor
+        The target values.
+    mask : torch.Tensor
+        The mask tensor.
+
+    Returns
+    -------
+    torch.Tensor
+        The accuracy.
+
+    """
+    # Get indexes where mask is 1.0
+    mask_idx = torch.where(mask == 1)
+    acc = accuracy(input[mask_idx], target[mask_idx])
+    return acc
+    
 
 
 class MaskedMSELoss(torch.nn.Module):
