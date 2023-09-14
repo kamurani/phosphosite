@@ -76,14 +76,14 @@ class PhosphoGAT(pl.LightningModule):
 
         self.convolutions = PyGSequential(
             "x, edge_index", [
-                #(nn.Dropout(dropout), "x, edge_index -> x"), # Dropout before the conv layers? Hmm.
-                #(nn.Dropout(dropout), "x -> x"),
+                # Dropout before the conv layers? Hmm.
+                (nn.Dropout(dropout), "x -> x"),
                 (self.conv1, "x, edge_index -> x"),
-                #nn.SELU(),
-                #nn.Dropout(dropout),
+                nn.SELU(),
+                nn.Dropout(dropout),
                 (self.conv2, "x, edge_index -> x"),
+                nn.SELU(),
             ]
-            
         )
         # After the conv layers, we should ideally have a learnt representation of the structural / sequence 
         # information of the protein per each site. We can then apply the fully connected layer to each
@@ -134,7 +134,7 @@ class PhosphoGAT(pl.LightningModule):
 
         x = self.convolutions(x, edge_index)
         #pooled = global_add_pool(x, batch)
-        return x
+       
         # Apply fully connected layers to each node
         x = self.classifier(x)
         return x
