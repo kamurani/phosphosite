@@ -32,6 +32,9 @@ def make_motif_df(
     prev_col: str = "prev",
     next_col: str = "next",
     nearest_col: str = "nearest_node",
+    sep: str = "-",
+
+    orient: str = "triplet",
 ) -> pd.DataFrame:
     """Return a dataframe with the counts of each residue for each motif.
 
@@ -45,7 +48,16 @@ def make_motif_df(
         Column name for the next residue, by default "next"
     nearest_col : str, optional 
         Column name for the nearest residue, by default "nearest_node"
-
+    sep : str, optional
+        Separator between prev and next, by default "-"
+    orient : str, optional
+        How to orient the rows of the dataframe.  By default uses unique
+        triplets. Options are:
+        - "triplet": prev-site-next, nearest
+        - "prev": prev-site, nearest 
+        - "next": site-next, nearest
+    
+        
     Returns
     -------
     pd.DataFrame
@@ -63,31 +75,87 @@ def make_motif_df(
 
     df["nearest_res"] = df[nearest_col].apply(lambda x: get_residue(x))
 
+    # TODO: utilise "nearest_res" relative position (weighted count?)
+
     # Turn prev and next into just residue. 
 
     for col in [prev_col, next_col]:
         df[col] = df[col].apply(lambda x: get_residue(x) if x is not np.nan else x)
-    # For each combination of (prev, next); count the number of times each nearest_res occurs. 
-    motif_counts = df.groupby([prev_col, next_col, "nearest_res"]).size().reset_index(name="count")
-    # Collapse to one row per combination of (prev, next), and a column for each nearest_res.  
-    # If NaN, replace with 0.
     
-    motif_counts = motif_counts.pivot_table(
-        index=[prev_col, next_col],
-        columns="nearest_res",
-        values="count",
-        fill_value=0,
-    ).reset_index()
-    motif_counts
-    # Make the prev and next columns into a single column and use as the index.
-    motif_counts["motif"] = motif_counts.apply(
-        lambda row: f"{row[prev_col]}-{row[next_col]}",
-        axis=1,
-    )
-    motif_counts = motif_counts.set_index("motif")
+    if orient == "triplet":
+        # For each combination of (prev, next); count the number of times each nearest_res occurs. 
+        motif_counts = df.groupby([prev_col, next_col, "nearest_res"]).size().reset_index(name="count")
+        motif_counts = df.groupby([prev_col, next_col, "nearest_res"]).size().reset_index(name="count")
 
-    # Drop the prev and next columns.
-    motif_counts = motif_counts.drop(columns=[prev_col, next_col])
+        # Collapse to one row per combination of (prev, next), and a column for each nearest_res.  
+        # If NaN, replace with 0.
+        
+        motif_counts = motif_counts.pivot_table(
+            index=[prev_col, next_col],
+            columns="nearest_res",
+            values="count",
+            fill_value=0,
+        ).reset_index()
+        # Make the prev and next columns into a single column and use as the index.
+        motif_counts["motif"] = motif_counts.apply(
+            lambda row: f"{row[prev_col]}{sep}{row[next_col]}",
+            axis=1,
+        )
+        motif_counts = motif_counts.set_index("motif")
+
+        # Drop the prev and next columns.
+        motif_counts = motif_counts.drop(columns=[prev_col, next_col])
+
+    elif orient == "prev":
+
+        # For each combination of (prev, next); count the number of times each nearest_res occurs. 
+        motif_counts = df.groupby([prev_col, "nearest_res"]).size().reset_index(name="count")
+       
+
+        # Collapse to one row per combination of (prev, next), and a column for each nearest_res.  
+        # If NaN, replace with 0.
+        
+        motif_counts = motif_counts.pivot_table(
+            index=[prev_col],
+            columns="nearest_res",
+            values="count",
+            fill_value=0,
+        ).reset_index()
+        # Make the prev and next columns into a single column and use as the index.
+        motif_counts["motif"] = motif_counts.apply(
+            lambda row: f"{row[prev_col]}{sep}X",
+            axis=1,
+        )
+        motif_counts = motif_counts.set_index("motif")
+
+        # Drop the prev and next columns.
+        motif_counts = motif_counts.drop(columns=[prev_col])
+    
+    elif orient == "next":
+
+        # For each combination of (prev, next); count the number of times each nearest_res occurs. 
+        motif_counts = df.groupby([next_col, "nearest_res"]).size().reset_index(name="count")
+       
+
+        # Collapse to one row per combination of (prev, next), and a column for each nearest_res.  
+        # If NaN, replace with 0.
+        
+        motif_counts = motif_counts.pivot_table(
+            index=[next_col],
+            columns="nearest_res",
+            values="count",
+            fill_value=0,
+        ).reset_index()
+        # Make the prev and next columns into a single column and use as the index.
+        motif_counts["motif"] = motif_counts.apply(
+            lambda row: f"X{sep}{row[next_col]}",
+            axis=1,
+        )
+        motif_counts = motif_counts.set_index("motif")
+
+        # Drop the prev and next columns.
+        motif_counts = motif_counts.drop(columns=[next_col])
+    
     return motif_counts
 
 

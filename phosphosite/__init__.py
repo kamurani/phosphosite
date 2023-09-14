@@ -13,9 +13,12 @@ STRUCTURE_DIR   = DATA_DIR / 'structures'
 CIF_DIR         = STRUCTURE_DIR / 'alphafold' / 'cif'
 PAE_DIR         = STRUCTURE_DIR / 'alphafold' / 'pae'
 PDB_DIR         = STRUCTURE_DIR / 'alphafold' / 'pdb' # PDB format structures from AF database.
-SEQUENCE_DIR    = DATA_DIR / 'sequence'
+SEQUENCE_DIR    = DATA_DIR / 'sequences'
+UNIPROT_SEQUENCE_PATH = DATA_DIR / "uniprot" / "sequences.fasta"
 
-NOTEBOOK_DIR    = PROJECT_ROOT_DIR / 'notebooks'
+NOTEBOOK_DIR    = PROJECT_ROOT_DIR / 'notebooks' 
+
+UNIPROT_DATA_DIR = NOTEBOOK_DIR / "bubble" / "uniprot"  
 
 CONFIG_FILE_PATH = NOTEBOOK_DIR / "config.yml"
 
@@ -45,7 +48,25 @@ AF_HUMAN_CIF = USER_STRUCTURE_DIR
 
 
 AF_VERSION = 3
-DEFAULT_RADIUS = 6.0
+DEFAULT_RADIUS = 8.0#6.0
+
+
+# Atoms 
+REF_ATOM_DICT = {
+    "S": "OG",
+    "T": "OG1",
+    "Y": "OH",
+}
+GAMMA_OXYGEN_CODES = list(REF_ATOM_DICT.values())
+
+
+
+"""ML training / saved models"""
+SAVED_MODEL_DIR = PROJECT_ROOT_DIR / "train" / "saved_models"
+
+PER_RESIDUE_EMBEDDING_PATH = DATA_DIR / "sequence_embeddings" / "per-residue.h5"
+
+
 
 if __name__ == '__main__':
     print(f"PROJECT_ROOT_DIR: {PROJECT_ROOT_DIR}")

@@ -1,5 +1,5 @@
 """Loading and annotation of structure files from AlphaFold and PDB."""
-import Bio 
+import Bio.PDB
 import gzip
 
 from pathlib import Path

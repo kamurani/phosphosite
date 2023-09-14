@@ -23,10 +23,11 @@ def plot_heatmap(
     df: pd.DataFrame,
     aspect: str = None,
     title: str = f"Motif counts for nearest residues (R={DEFAULT_RADIUS}Å)",
-    colour: str = "viridis",
+    colour: str = "viridis", # "plasma" 
     height: int = 800,
     filepath: Path = None,
     show: bool = False,
+    range_color: Tuple[float, float] = None,
 ):
     """Plot heatmap.
     
@@ -42,6 +43,7 @@ def plot_heatmap(
         #labels=label_dict,
         title=title,
         aspect=aspect,
+        range_color=range_color,
         
     )
     fig.update_xaxes(
