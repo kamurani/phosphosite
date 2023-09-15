@@ -1,0 +1,423 @@
+ID   SC5AA_HUMAN             Reviewed;         596 AA.
+AC   A0PJK1; A8MUC9; B4DPI0; B7WPR4; Q6P5X0; Q8IXM4; Q96LQ1;
+DT   13-NOV-2007, integrated into UniProtKB/Swiss-Prot.
+DT   13-NOV-2007, sequence version 2.
+DT   28-JUN-2023, entry version 134.
+DE   RecName: Full=Sodium/mannose cotransporter SLC5A10 {ECO:0000305|PubMed:22212718, ECO:0000305|PubMed:24573086};
+DE   AltName: Full=Sodium/glucose cotransporter 5;
+DE            Short=Na(+)/glucose cotransporter 5;
+DE   AltName: Full=Solute carrier family 5 member 10;
+GN   Name=SLC5A10; Synonyms=SGLT5 {ECO:0000303|PubMed:24573086};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 4 AND 5).
+RC   TISSUE=Kidney;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 3-596 (ISOFORM 2), AND NUCLEOTIDE SEQUENCE [LARGE
+RP   SCALE MRNA] OF 6-596 (ISOFORM 1).
+RC   TISSUE=Brain, and Colon;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-141; SER-145 AND THR-148, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [5]
+RP   FUNCTION (ISOFORMS 1 AND 2), TRANSPORT ACTIVITY (ISOFORM 1),
+RP   BIOPHYSICOCHEMICAL PROPERTIES (ISOFORM 1), TISSUE SPECIFICITY (ISOFORMS 1;
+RP   2; 4 AND 5), AND ALTERNATIVE SPLICING (ISOFORMS 1; 2; 4 AND 5).
+RX   PubMed=22212718; DOI=10.1016/j.febslet.2011.12.027;
+RA   Grempler R., Augustin R., Froehner S., Hildebrandt T., Simon E., Mark M.,
+RA   Eickelmann P.;
+RT   "Functional characterisation of human SGLT-5 as a novel kidney-specific
+RT   sodium-dependent sugar transporter.";
+RL   FEBS Lett. 586:248-253(2012).
+RN   [6]
+RP   FUNCTION (ISOFORM 1), AND TRANSPORT ACTIVITY (ISOFORM 1).
+RX   PubMed=23451068; DOI=10.1371/journal.pone.0056681;
+RA   Fukuzawa T., Fukazawa M., Ueda O., Shimada H., Kito A., Kakefuda M.,
+RA   Kawase Y., Wada N.A., Goto C., Fukushima N., Jishage K., Honda K.,
+RA   King G.L., Kawabe Y.;
+RT   "SGLT5 reabsorbs fructose in the kidney but its deficiency paradoxically
+RT   exacerbates hepatic steatosis induced by fructose.";
+RL   PLoS ONE 8:e56681-e56681(2013).
+RN   [7]
+RP   FUNCTION (ISOFORM 1), TRANSPORT ACTIVITY (ISOFORM 1), AND ACTIVITY
+RP   REGULATION (ISOFORM 1).
+RX   PubMed=24573086; DOI=10.1152/ajpcell.00027.2014;
+RA   Ghezzi C., Gorraitz E., Hirayama B.A., Loo D.D., Grempler R., Mayoux E.,
+RA   Wright E.M.;
+RT   "Fingerprints of hSGLT5 sugar and cation selectivity.";
+RL   Am. J. Physiol. 306:C864-C870(2014).
+CC   -!- FUNCTION: [Isoform 1]: Electrogenic Na+-coupled sugar symporter that
+CC       actively transports D-mannose or D-fructose at the plasma membrane,
+CC       with a Na+ to sugar coupling ratio of 1:1. Transporter activity is
+CC       driven by a transmembrane Na+ electrochemical gradient set by the
+CC       Na+/K+ pump. Exclusively recognizes sugar substrates having a pyranose
+CC       ring with an axial hydroxyl group on carbon 2 (PubMed:24573086,
+CC       PubMed:22212718, PubMed:23451068). Has likely evolved to enable renal
+CC       reabsorption of D-mannose, an important constituent of oligosaccharide
+CC       chains of glycoproteins. Contributes to dietary D-fructose reabsorption
+CC       from glomerular filtrate across the brush border of the kidney
+CC       (PubMed:22212718, PubMed:23451068). {ECO:0000269|PubMed:22212718,
+CC       ECO:0000269|PubMed:23451068, ECO:0000269|PubMed:24573086}.
+CC   -!- FUNCTION: [Isoform 2]: Appears to have no transporter activity.
+CC       {ECO:0000269|PubMed:22212718}.
+CC   -!- CATALYTIC ACTIVITY: [Isoform 1]:
+CC       Reaction=D-mannose(out) + Na(+)(out) = D-mannose(in) + Na(+)(in);
+CC         Xref=Rhea:RHEA:72907, ChEBI:CHEBI:4208, ChEBI:CHEBI:29101;
+CC         Evidence={ECO:0000269|PubMed:22212718, ECO:0000269|PubMed:24573086};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:72908;
+CC         Evidence={ECO:0000250|UniProtKB:Q5SWY8};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 1]:
+CC       Reaction=D-fructopyranose(out) + Na(+)(out) = D-fructopyranose(in) +
+CC         Na(+)(in); Xref=Rhea:RHEA:72915, ChEBI:CHEBI:29101,
+CC         ChEBI:CHEBI:37714; Evidence={ECO:0000269|PubMed:22212718,
+CC         ECO:0000269|PubMed:23451068};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:72916;
+CC         Evidence={ECO:0000250|UniProtKB:Q5SWY8};
+CC   -!- ACTIVITY REGULATION: [Isoform 1]: Inhibited by phlorizin.
+CC       {ECO:0000269|PubMed:24573086}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES: [Isoform 1]:
+CC       Kinetic parameters:
+CC         KM=0.45 mM for D-mannose {ECO:0000269|PubMed:22212718};
+CC         KM=0.62 mM for D-fructopyranose {ECO:0000269|PubMed:22212718};
+CC   -!- SUBCELLULAR LOCATION: Apical cell membrane
+CC       {ECO:0000250|UniProtKB:Q5SWY8}; Multi-pass membrane protein
+CC       {ECO:0000255}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=1; Synonyms=IF2;
+CC         IsoId=A0PJK1-1; Sequence=Displayed;
+CC       Name=2; Synonyms=IF3;
+CC         IsoId=A0PJK1-2; Sequence=VSP_029417;
+CC       Name=3;
+CC         IsoId=A0PJK1-3; Sequence=VSP_029416, VSP_029417, VSP_029418,
+CC                                  VSP_029419;
+CC       Name=4; Synonyms=IF1;
+CC         IsoId=A0PJK1-4; Sequence=VSP_029418;
+CC       Name=5; Synonyms=IF4;
+CC         IsoId=A0PJK1-5; Sequence=VSP_045061;
+CC   -!- TISSUE SPECIFICITY: Predominantly expressed at high levels in kidney.
+CC       Very low expression is detected in testes.
+CC       {ECO:0000269|PubMed:22212718}.
+CC   -!- TISSUE SPECIFICITY: [Isoform 1]: Expressed in kidney.
+CC       {ECO:0000269|PubMed:22212718}.
+CC   -!- TISSUE SPECIFICITY: [Isoform 2]: The most abundant isoform expressed in
+CC       kidney. {ECO:0000269|PubMed:22212718}.
+CC   -!- TISSUE SPECIFICITY: [Isoform 4]: Expressed in kidney.
+CC       {ECO:0000269|PubMed:22212718}.
+CC   -!- TISSUE SPECIFICITY: [Isoform 5]: Expressed in kidney.
+CC       {ECO:0000269|PubMed:22212718}.
+CC   -!- SIMILARITY: Belongs to the sodium:solute symporter (SSF) (TC 2.A.21)
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB71619.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK057946; BAB71619.1; ALT_SEQ; mRNA.
+DR   EMBL; AK298345; BAG60592.1; -; mRNA.
+DR   EMBL; AC003957; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC090286; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC034380; AAH34380.1; -; mRNA.
+DR   EMBL; BC039868; AAH39868.1; -; mRNA.
+DR   EMBL; BC062617; AAH62617.1; -; mRNA.
+DR   CCDS; CCDS11201.2; -. [A0PJK1-4]
+DR   CCDS; CCDS42275.1; -. [A0PJK1-1]
+DR   CCDS; CCDS59277.1; -. [A0PJK1-5]
+DR   CCDS; CCDS59278.1; -. [A0PJK1-2]
+DR   CCDS; CCDS74008.1; -. [A0PJK1-3]
+DR   RefSeq; NP_001035915.1; NM_001042450.2. [A0PJK1-1]
+DR   RefSeq; NP_001257577.1; NM_001270648.1. [A0PJK1-2]
+DR   RefSeq; NP_001257578.1; NM_001270649.1. [A0PJK1-5]
+DR   RefSeq; NP_001269346.1; NM_001282417.1. [A0PJK1-3]
+DR   RefSeq; NP_689564.3; NM_152351.4. [A0PJK1-4]
+DR   AlphaFoldDB; A0PJK1; -.
+DR   SMR; A0PJK1; -.
+DR   BioGRID; 125922; 6.
+DR   STRING; 9606.ENSP00000379008; -.
+DR   DrugCentral; A0PJK1; -.
+DR   TCDB; 2.A.21.3.15; the solute:sodium symporter (sss) family.
+DR   GlyCosmos; A0PJK1; 2 sites, No reported glycans.
+DR   GlyGen; A0PJK1; 2 sites.
+DR   iPTMnet; A0PJK1; -.
+DR   PhosphoSitePlus; A0PJK1; -.
+DR   BioMuta; SLC5A10; -.
+DR   jPOST; A0PJK1; -.
+DR   MassIVE; A0PJK1; -.
+DR   PaxDb; A0PJK1; -.
+DR   PeptideAtlas; A0PJK1; -.
+DR   ProteomicsDB; 4787; -.
+DR   ProteomicsDB; 57; -. [A0PJK1-1]
+DR   ProteomicsDB; 58; -. [A0PJK1-2]
+DR   ProteomicsDB; 59; -. [A0PJK1-3]
+DR   ProteomicsDB; 60; -. [A0PJK1-4]
+DR   Antibodypedia; 13581; 109 antibodies from 26 providers.
+DR   DNASU; 125206; -.
+DR   Ensembl; ENST00000317977.10; ENSP00000324346.6; ENSG00000154025.16. [A0PJK1-3]
+DR   Ensembl; ENST00000395643.6; ENSP00000379005.2; ENSG00000154025.16. [A0PJK1-2]
+DR   Ensembl; ENST00000395645.4; ENSP00000379007.3; ENSG00000154025.16. [A0PJK1-1]
+DR   Ensembl; ENST00000395647.6; ENSP00000379008.2; ENSG00000154025.16. [A0PJK1-4]
+DR   Ensembl; ENST00000417251.6; ENSP00000401875.2; ENSG00000154025.16. [A0PJK1-5]
+DR   GeneID; 125206; -.
+DR   KEGG; hsa:125206; -.
+DR   MANE-Select; ENST00000395645.4; ENSP00000379007.3; NM_001042450.4; NP_001035915.1.
+DR   UCSC; uc002gur.3; human. [A0PJK1-1]
+DR   AGR; HGNC:23155; -.
+DR   CTD; 125206; -.
+DR   DisGeNET; 125206; -.
+DR   GeneCards; SLC5A10; -.
+DR   HGNC; HGNC:23155; SLC5A10.
+DR   HPA; ENSG00000154025; Tissue enriched (kidney).
+DR   MIM; 618636; gene.
+DR   neXtProt; NX_A0PJK1; -.
+DR   OpenTargets; ENSG00000154025; -.
+DR   PharmGKB; PA134940254; -.
+DR   VEuPathDB; HostDB:ENSG00000154025; -.
+DR   eggNOG; KOG2349; Eukaryota.
+DR   GeneTree; ENSGT00940000159416; -.
+DR   HOGENOM; CLU_018808_9_2_1; -.
+DR   InParanoid; A0PJK1; -.
+DR   OMA; IWEQIFV; -.
+DR   OrthoDB; 74094at2759; -.
+DR   PhylomeDB; A0PJK1; -.
+DR   TreeFam; TF352855; -.
+DR   PathwayCommons; A0PJK1; -.
+DR   Reactome; R-HSA-189200; Cellular hexose transport.
+DR   BioGRID-ORCS; 125206; 21 hits in 1146 CRISPR screens.
+DR   ChiTaRS; SLC5A10; human.
+DR   GenomeRNAi; 125206; -.
+DR   Pharos; A0PJK1; Tbio.
+DR   PRO; PR:A0PJK1; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; A0PJK1; protein.
+DR   Bgee; ENSG00000154025; Expressed in kidney epithelium and 89 other tissues.
+DR   Genevisible; A0PJK1; HS.
+DR   GO; GO:0016324; C:apical plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0140930; F:fructose:sodium symporter activity; IDA:UniProtKB.
+DR   GO; GO:0005412; F:glucose:sodium symporter activity; IBA:GO_Central.
+DR   GO; GO:0140929; F:mannose:sodium symporter activity; IDA:UniProtKB.
+DR   GO; GO:0015370; F:solute:sodium symporter activity; TAS:Reactome.
+DR   GO; GO:0008645; P:hexose transmembrane transport; TAS:Reactome.
+DR   CDD; cd11489; SLC5sbd_SGLT5; 1.
+DR   Gene3D; 1.20.1730.10; Sodium/glucose cotransporter; 1.
+DR   InterPro; IPR038377; Na/Glc_symporter_sf.
+DR   InterPro; IPR001734; Na/solute_symporter.
+DR   InterPro; IPR018212; Na/solute_symporter_CS.
+DR   PANTHER; PTHR11819:SF128; SODIUM/GLUCOSE COTRANSPORTER 5; 1.
+DR   PANTHER; PTHR11819; SOLUTE CARRIER FAMILY 5; 1.
+DR   Pfam; PF00474; SSF; 1.
+DR   PROSITE; PS00457; NA_SOLUT_SYMP_2; 1.
+DR   PROSITE; PS50283; NA_SOLUT_SYMP_3; 1.
+DR   TIGRFAMs; TIGR00813; sss; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Glycoprotein; Ion transport; Membrane;
+KW   Phosphoprotein; Reference proteome; Sodium; Sodium transport;
+KW   Sugar transport; Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN           1..596
+FT                   /note="Sodium/mannose cotransporter SLC5A10"
+FT                   /id="PRO_0000311211"
+FT   TOPO_DOM        1..15
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        16..36
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        37..72
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        73..93
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        94..99
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        100..120
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        121..149
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        150..170
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        171..173
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        174..194
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        195..200
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        201..221
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        222..264
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        265..285
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        286..300
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        301..321
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        322..355
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        356..376
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        377..409
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        410..430
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        431..443
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        444..464
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        465..471
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        472..492
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        493..513
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        514..534
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        535..575
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        576..596
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         141
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         145
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         148
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   CARBOHYD        4
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        96
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         1..56
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_029416"
+FT   VAR_SEQ         187..213
+FT                   /note="Missing (in isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_029417"
+FT   VAR_SEQ         327
+FT                   /note="P -> PGAHVYEERHQVSVSRT (in isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_029418"
+FT   VAR_SEQ         328..363
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_045061"
+FT   VAR_SEQ         414
+FT                   /note="R -> RTGIPSTPPAPQSRLSFLLPETPPLERYLLGLVVMDLW (in
+FT                   isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_029419"
+FT   VARIANT         522
+FT                   /note="A -> V (in dbSNP:rs12604020)"
+FT                   /id="VAR_052493"
+SQ   SEQUENCE   596 AA;  64342 MW;  73D104A9F8065926 CRC64;
+     MAANSTSDLH TPGTQLSVAD IIVITVYFAL NVAVGIWSSC RASRNTVNGY FLAGRDMTWW
+     PIGASLFASS EGSGLFIGLA GSGAAGGLAV AGFEWNATYV LLALAWVFVP IYISSEIVTL
+     PEYIQKRYGG QRIRMYLSVL SLLLSVFTKI SLDLYAGALF VHICLGWNFY LSTILTLGIT
+     ALYTIAGGLA AVIYTDALQT LIMVVGAVIL TIKAFDQIGG YGQLEAAYAQ AIPSRTIANT
+     TCHLPRTDAM HMFRDPHTGD LPWTGMTFGL TIMATWYWCT DQVIVQRSLS ARDLNHAKAG
+     SILASYLKML PMGLIIMPGM ISRALFPDDV GCVVPSECLR ACGAEVGCSN IAYPKLVMEL
+     MPIGLRGLMI AVMLAALMSS LTSIFNSSST LFTMDIWRRL RPRSGERELL LVGRLVIVAL
+     IGVSVAWIPV LQDSNSGQLF IYMQSVTSSL APPVTAVFVL GVFWRRANEQ GAFWGLIAGL
+     VVGATRLVLE FLNPAPPCGE PDTRPAVLGS IHYLHFAVAL FALSGAVVVA GSLLTPPPQS
+     VQIENLTWWT LAQDVPLGTK AGDGQTPQKH AFWARVCGFN AILLMCVNIF FYAYFA
+//

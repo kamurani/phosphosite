@@ -1,0 +1,464 @@
+ID   HECW2_HUMAN             Reviewed;        1572 AA.
+AC   Q9P2P5; B8ZZB4; Q17RT5; Q68DF8; Q9NPS9;
+DT   20-FEB-2007, integrated into UniProtKB/Swiss-Prot.
+DT   20-FEB-2007, sequence version 2.
+DT   28-JUN-2023, entry version 167.
+DE   RecName: Full=E3 ubiquitin-protein ligase HECW2;
+DE            EC=2.3.2.26;
+DE   AltName: Full=HECT, C2 and WW domain-containing protein 2;
+DE   AltName: Full=HECT-type E3 ubiquitin transferase HECW2;
+DE   AltName: Full=NEDD4-like E3 ubiquitin-protein ligase 2;
+GN   Name=HECW2; Synonyms=KIAA1301, NEDL2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=10718198; DOI=10.1093/dnares/7.1.65;
+RA   Nagase T., Kikuno R., Ishikawa K., Hirosawa M., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XVI. The
+RT   complete sequences of 150 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:65-73(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 1352-1572 (ISOFORM 1).
+RC   TISSUE=Uterus;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Heart, and Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   FUNCTION, INTERACTION WITH TP73, AND TISSUE SPECIFICITY.
+RX   PubMed=12890487; DOI=10.1016/s0006-291x(03)01347-0;
+RA   Miyazaki K., Ozaki T., Kato C., Hanamoto T., Fujita T., Irino S.,
+RA   Watanabe K., Nakagawa T., Nakagawara A.;
+RT   "A novel HECT-type E3 ubiquitin ligase, NEDL2, stabilizes p73 and enhances
+RT   its transcriptional activity.";
+RL   Biochem. Biophys. Res. Commun. 308:106-113(2003).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [9]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH FZR1, AND UBIQUITINATION.
+RX   PubMed=24163370; DOI=10.1074/jbc.m113.472076;
+RA   Lu L., Hu S., Wei R., Qiu X., Lu K., Fu Y., Li H., Xing G., Li D., Peng R.,
+RA   He F., Zhang L.;
+RT   "The HECT type ubiquitin ligase NEDL2 is degraded by anaphase-promoting
+RT   complex/cyclosome (APC/C)-Cdh1, and its tight regulation maintains the
+RT   metaphase to anaphase transition.";
+RL   J. Biol. Chem. 288:35637-35650(2013).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-48; SER-852 AND SER-909, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1175, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [12]
+RP   INVOLVEMENT IN NDHSAL, AND VARIANTS NDHSAL GLN-1191; VAL-1193; TRP-1330 AND
+RP   GLY-1445.
+RX   PubMed=27389779; DOI=10.1136/jmedgenet-2016-103943;
+RA   Berko E.R., Cho M.T., Eng C., Shao Y., Sweetser D.A., Waxler J.,
+RA   Robin N.H., Brewer F., Donkervoort S., Mohassel P., Boennemann C.G.,
+RA   Bialer M., Moore C., Wolfe L.A., Tifft C.J., Shen Y., Retterer K.,
+RA   Millan F., Chung W.K.;
+RT   "De novo missense variants in HECW2 are associated with neurodevelopmental
+RT   delay and hypotonia.";
+RL   J. Med. Genet. 54:84-86(2017).
+CC   -!- FUNCTION: E3 ubiquitin-protein ligase that mediates ubiquitination of
+CC       TP73. Acts to stabilize TP73 and enhance activation of transcription by
+CC       TP73 (PubMed:12890487). Involved in the regulation of mitotic
+CC       metaphase/anaphase transition (PubMed:24163370).
+CC       {ECO:0000269|PubMed:12890487, ECO:0000269|PubMed:24163370}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-cysteine +
+CC         [acceptor protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-
+CC         cysteine + N(6)-ubiquitinyl-[acceptor protein]-L-lysine.;
+CC         EC=2.3.2.26;
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC   -!- SUBUNIT: Interacts with TP73 (PubMed:12890487). Interacts with FZR1
+CC       (PubMed:24163370). {ECO:0000269|PubMed:12890487,
+CC       ECO:0000269|PubMed:24163370}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Cytoplasm, cytoskeleton,
+CC       spindle {ECO:0000269|PubMed:24163370}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9P2P5-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9P2P5-2; Sequence=VSP_059106, VSP_059107, VSP_059108;
+CC   -!- TISSUE SPECIFICITY: Predominantly expressed in adult brain, lung and
+CC       heart. {ECO:0000269|PubMed:12890487}.
+CC   -!- PTM: Ubiquitinated and degraded during mitotic exit by APC/C-Cdh1.
+CC       {ECO:0000269|PubMed:24163370}.
+CC   -!- DISEASE: Neurodevelopmental disorder with hypotonia, seizures, and
+CC       absent language (NDHSAL) [MIM:617268]: A neurodevelopmental disorder
+CC       characterized by severely delayed psychomotor development, absent
+CC       speech, epilepsy, encephalopathy, hypotonia, dystonia/dyskinesia, and
+CC       macrocephaly. Brain imaging show cerebral atrophy, enlarged ventricles,
+CC       and white matter abnormalities. {ECO:0000269|PubMed:27389779}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- MISCELLANEOUS: [Isoform 2]: May be produced at very low levels due to a
+CC       premature stop codon in the mRNA, leading to nonsense-mediated mRNA
+CC       decay. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA92539.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAH18262.1; Type=Erroneous translation; Note=Wrong choice of CDS.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB037722; BAA92539.1; ALT_INIT; mRNA.
+DR   EMBL; AL390186; CAB99103.1; -; mRNA.
+DR   EMBL; CR749424; CAH18262.1; ALT_SEQ; mRNA.
+DR   EMBL; AC020571; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC068544; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC073905; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC074090; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC093379; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC117194; AAI17195.1; -; mRNA.
+DR   EMBL; BC117198; AAI17199.1; -; mRNA.
+DR   CCDS; CCDS33354.1; -. [Q9P2P5-1]
+DR   PIR; T51886; T51886.
+DR   RefSeq; NP_065811.1; NM_020760.2. [Q9P2P5-1]
+DR   RefSeq; XP_016860052.1; XM_017004563.1.
+DR   PDB; 2LFE; NMR; -; A=43-162.
+DR   PDBsum; 2LFE; -.
+DR   AlphaFoldDB; Q9P2P5; -.
+DR   SMR; Q9P2P5; -.
+DR   BioGRID; 121581; 320.
+DR   IntAct; Q9P2P5; 13.
+DR   MINT; Q9P2P5; -.
+DR   STRING; 9606.ENSP00000260983; -.
+DR   GlyGen; Q9P2P5; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9P2P5; -.
+DR   PhosphoSitePlus; Q9P2P5; -.
+DR   BioMuta; HECW2; -.
+DR   DMDM; 126215718; -.
+DR   EPD; Q9P2P5; -.
+DR   jPOST; Q9P2P5; -.
+DR   MassIVE; Q9P2P5; -.
+DR   MaxQB; Q9P2P5; -.
+DR   PaxDb; Q9P2P5; -.
+DR   PeptideAtlas; Q9P2P5; -.
+DR   ProteomicsDB; 83874; -. [Q9P2P5-1]
+DR   ProteomicsDB; 83875; -. [Q9P2P5-2]
+DR   Antibodypedia; 34059; 207 antibodies from 26 providers.
+DR   DNASU; 57520; -.
+DR   Ensembl; ENST00000260983.8; ENSP00000260983.2; ENSG00000138411.13. [Q9P2P5-1]
+DR   Ensembl; ENST00000644256.1; ENSP00000494649.1; ENSG00000138411.13. [Q9P2P5-1]
+DR   Ensembl; ENST00000644978.2; ENSP00000495418.1; ENSG00000138411.13. [Q9P2P5-1]
+DR   Ensembl; ENST00000647236.1; ENSP00000494800.1; ENSG00000138411.13. [Q9P2P5-2]
+DR   GeneID; 57520; -.
+DR   KEGG; hsa:57520; -.
+DR   MANE-Select; ENST00000644978.2; ENSP00000495418.1; NM_001348768.2; NP_001335697.1.
+DR   UCSC; uc002utl.2; human. [Q9P2P5-1]
+DR   AGR; HGNC:29853; -.
+DR   CTD; 57520; -.
+DR   DisGeNET; 57520; -.
+DR   GeneCards; HECW2; -.
+DR   HGNC; HGNC:29853; HECW2.
+DR   HPA; ENSG00000138411; Low tissue specificity.
+DR   MalaCards; HECW2; -.
+DR   MIM; 617245; gene.
+DR   MIM; 617268; phenotype.
+DR   neXtProt; NX_Q9P2P5; -.
+DR   OpenTargets; ENSG00000138411; -.
+DR   PharmGKB; PA134925001; -.
+DR   VEuPathDB; HostDB:ENSG00000138411; -.
+DR   eggNOG; KOG0940; Eukaryota.
+DR   GeneTree; ENSGT00940000155466; -.
+DR   HOGENOM; CLU_002173_14_0_1; -.
+DR   InParanoid; Q9P2P5; -.
+DR   OMA; TAGQHRE; -.
+DR   OrthoDB; 5480520at2759; -.
+DR   PhylomeDB; Q9P2P5; -.
+DR   TreeFam; TF313938; -.
+DR   PathwayCommons; Q9P2P5; -.
+DR   Reactome; R-HSA-983168; Antigen processing: Ubiquitination & Proteasome degradation.
+DR   SignaLink; Q9P2P5; -.
+DR   SIGNOR; Q9P2P5; -.
+DR   UniPathway; UPA00143; -.
+DR   BioGRID-ORCS; 57520; 16 hits in 1191 CRISPR screens.
+DR   ChiTaRS; HECW2; human.
+DR   GenomeRNAi; 57520; -.
+DR   Pharos; Q9P2P5; Tbio.
+DR   PRO; PR:Q9P2P5; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; Q9P2P5; protein.
+DR   Bgee; ENSG00000138411; Expressed in left ventricle myocardium and 165 other tissues.
+DR   ExpressionAtlas; Q9P2P5; baseline and differential.
+DR   Genevisible; Q9P2P5; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0072686; C:mitotic spindle; IDA:UniProtKB.
+DR   GO; GO:0061630; F:ubiquitin protein ligase activity; IBA:GO_Central.
+DR   GO; GO:2000650; P:negative regulation of sodium ion transmembrane transporter activity; IBA:GO_Central.
+DR   GO; GO:0016567; P:protein ubiquitination; IBA:GO_Central.
+DR   GO; GO:0048814; P:regulation of dendrite morphogenesis; IBA:GO_Central.
+DR   GO; GO:0030071; P:regulation of mitotic metaphase/anaphase transition; IMP:UniProtKB.
+DR   CDD; cd08691; C2_NEDL1-like; 1.
+DR   CDD; cd00078; HECTc; 1.
+DR   CDD; cd00201; WW; 2.
+DR   Gene3D; 2.20.70.10; -; 2.
+DR   Gene3D; 2.60.40.2840; -; 1.
+DR   Gene3D; 2.60.40.150; C2 domain; 1.
+DR   Gene3D; 3.30.2160.10; Hect, E3 ligase catalytic domain; 1.
+DR   Gene3D; 3.30.2410.10; Hect, E3 ligase catalytic domain; 1.
+DR   Gene3D; 3.90.1750.10; Hect, E3 ligase catalytic domains; 1.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR035892; C2_domain_sf.
+DR   InterPro; IPR037795; C2_HECW.
+DR   InterPro; IPR000569; HECT_dom.
+DR   InterPro; IPR035983; Hect_E3_ubiquitin_ligase.
+DR   InterPro; IPR040524; HECW1_helix.
+DR   InterPro; IPR032348; HECW_N.
+DR   InterPro; IPR001202; WW_dom.
+DR   InterPro; IPR036020; WW_dom_sf.
+DR   PANTHER; PTHR11254:SF127; E3 UBIQUITIN-PROTEIN LIGASE HECW2; 1.
+DR   PANTHER; PTHR11254; HECT DOMAIN UBIQUITIN-PROTEIN LIGASE; 1.
+DR   Pfam; PF00168; C2; 1.
+DR   Pfam; PF00632; HECT; 1.
+DR   Pfam; PF18436; HECW1_helix; 1.
+DR   Pfam; PF16562; HECW_N; 1.
+DR   Pfam; PF00397; WW; 1.
+DR   SMART; SM00239; C2; 1.
+DR   SMART; SM00119; HECTc; 1.
+DR   SMART; SM00456; WW; 2.
+DR   SUPFAM; SSF49562; C2 domain (Calcium/lipid-binding domain, CaLB); 1.
+DR   SUPFAM; SSF56204; Hect, E3 ligase catalytic domain; 1.
+DR   SUPFAM; SSF51045; WW domain; 2.
+DR   PROSITE; PS50004; C2; 1.
+DR   PROSITE; PS50237; HECT; 1.
+DR   PROSITE; PS01159; WW_DOMAIN_1; 2.
+DR   PROSITE; PS50020; WW_DOMAIN_2; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Coiled coil; Cytoplasm; Cytoskeleton;
+KW   Disease variant; Phosphoprotein; Reference proteome; Repeat; Transferase;
+KW   Ubl conjugation; Ubl conjugation pathway.
+FT   CHAIN           1..1572
+FT                   /note="E3 ubiquitin-protein ligase HECW2"
+FT                   /id="PRO_0000277667"
+FT   DOMAIN          167..301
+FT                   /note="C2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   DOMAIN          807..840
+FT                   /note="WW 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00224"
+FT   DOMAIN          985..1018
+FT                   /note="WW 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00224"
+FT   DOMAIN          1237..1572
+FT                   /note="HECT"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00104"
+FT   REGION          341..452
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          489..796
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          737..1068
+FT                   /note="Interaction with TP73"
+FT                   /evidence="ECO:0000269|PubMed:12890487"
+FT   REGION          1024..1069
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1161..1187
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          847..874
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        382..413
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        430..452
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        510..534
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        563..627
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        641..672
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        691..707
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        775..796
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1163..1181
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        1540
+FT                   /note="Glycyl thioester intermediate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00104"
+FT   MOD_RES         48
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         852
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         909
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1175
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   VAR_SEQ         1..131
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_059106"
+FT   VAR_SEQ         191..213
+FT                   /note="DLRAVGLKKGMFFNPDPYLKMSI -> ARKEEQFPHLCPPRAGETVYYHQ
+FT                   (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_059107"
+FT   VAR_SEQ         214..1572
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_059108"
+FT   VARIANT         1191
+FT                   /note="R -> Q (in NDHSAL; dbSNP:rs878854416)"
+FT                   /evidence="ECO:0000269|PubMed:27389779"
+FT                   /id="VAR_077905"
+FT   VARIANT         1193
+FT                   /note="F -> V (in NDHSAL; dbSNP:rs878854422)"
+FT                   /evidence="ECO:0000269|PubMed:27389779"
+FT                   /id="VAR_077906"
+FT   VARIANT         1330
+FT                   /note="R -> W (in NDHSAL; dbSNP:rs878854417)"
+FT                   /evidence="ECO:0000269|PubMed:27389779"
+FT                   /id="VAR_077907"
+FT   VARIANT         1445
+FT                   /note="E -> G (in NDHSAL; dbSNP:rs878854424)"
+FT                   /evidence="ECO:0000269|PubMed:27389779"
+FT                   /id="VAR_077908"
+FT   CONFLICT        1074
+FT                   /note="Q -> H (in Ref. 2; CAH18262)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          60..64
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   STRAND          66..69
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   STRAND          76..81
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   STRAND          91..96
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   STRAND          117..123
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   STRAND          133..144
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   TURN            145..148
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   STRAND          149..153
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+FT   STRAND          157..160
+FT                   /evidence="ECO:0007829|PDB:2LFE"
+SQ   SEQUENCE   1572 AA;  175769 MW;  DCFF0146ADFAF8BE CRC64;
+     MASSAREHLL FVRRRNPQMR YTLSPENLQS LAAQSSMPEN MTLQRANSDT DLVTSESRSS
+     LTASMYEYTL GQAQNLIIFW DIKEEVDPSD WIGLYHIDEN SPANFWDSKN RGVTGTQKGQ
+     IVWRIEPGPY FMEPEIKICF KYYHGISGAL RATTPCITVK NPAVMMGAEG MEGGASGNLH
+     SRKLVSFTLS DLRAVGLKKG MFFNPDPYLK MSIQPGKKSS FPTCAHHGQE RRSTIISNTT
+     NPIWHREKYS FFALLTDVLE IEIKDKFAKS RPIIKRFLGK LTIPVQRLLE RQAIGDQMLS
+     YNLGRRLPAD HVSGYLQFKV EVTSSVHEDA SPEAVGTILG VNSVNGDLGS PSDDEDMPGS
+     HHDSQVCSNG PVSEDSAADG TPKHSFRTSS TLEIDTEELT STSSRTSPPR GRQDSLNDYL
+     DAIEHNGHSR PGTATCSERS MGASPKLRSS FPTDTRLNAM LHIDSDEEDH EFQQDLGYPS
+     SLEEEGGLIM FSRASRADDG SLTSQTKLED NPVENEEAST HEAASFEDKP ENLPELAESS
+     LPAGPAPEEG EGGPEPQPSA DQGSAELCGS QEVDQPTSGA DTGTSDASGG SRRAVSETES
+     LDQGSEPSQV SSETEPSDPA RTESVSEAST RPEGESDLEC ADSSCNESVT TQLSSVDTRC
+     SSLESARFPE TPAFSSQEEE DGACAAEPTS SGPAEGSQES VCTAGSLPVV QVPSGEDEGP
+     GAESATVPDQ EELGEVWQRR GSLEGAAAAA ESPPQEEGSA GEAQGTCEGA TAQEEGATGG
+     SQANGHQPLR SLPSVRQDVS RYQRVDEALP PNWEARIDSH GRIFYVDHVN RTTTWQRPTA
+     PPAPQVLQRS NSIQQMEQLN RRYQSIRRTM TNERPEENTN AIDGAGEEAD FHQASADFRR
+     ENILPHSTSR SRITLLLQSP PVKFLISPEF FTVLHSNPSA YRMFTNNTCL KHMITKVRRD
+     THHFERYQHN RDLVGFLNMF ANKQLELPRG WEMKHDHQGK AFFVDHNSRT TTFIDPRLPL
+     QSSRPTSALV HRQHLTRQRS HSAGEVGEDS RHAGPPVLPR PSSTFNTVSR PQYQDMVPVA
+     YNDKIVAFLR QPNIFEILQE RQPDLTRNHS LREKIQFIRT EGTPGLVRLS SDADLVMLLS
+     LFEEEIMSYV PPHALLHPSY CQSPRGSPVS SPQNSPGTQR ANARAPAPYK RDFEAKLRNF
+     YRKLETKGYG QGPGKLKLII RRDHLLEDAF NQIMGYSRKD LQRNKLYVTF VGEEGLDYSG
+     PSREFFFLVS RELFNPYYGL FEYSANDTYT VQISPMSAFV DNHHEWFRFS GRILGLALIH
+     QYLLDAFFTR PFYKALLRIL CDLSDLEYLD EEFHQSLQWM KDNDIHDILD LTFTVNEEVF
+     GQITERELKP GGANIPVTEK NKKEYIERMV KWRIERGVVQ QTESLVRGFY EVVDARLVSV
+     FDARELELVI AGTAEIDLSD WRNNTEYRGG YHDNHIVIRW FWAAVERFNN EQRLRLLQFV
+     TGTSSIPYEG FASLRGSNGP RRFCVEKWGK ITALPRAHTC FNRLDLPPYP SFSMLYEKLL
+     TAVEETSTFG LE
+//

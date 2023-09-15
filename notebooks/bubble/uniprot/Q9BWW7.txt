@@ -1,0 +1,176 @@
+ID   SCRT1_HUMAN             Reviewed;         348 AA.
+AC   Q9BWW7; A8MX66; Q96C52;
+DT   13-APR-2004, integrated into UniProtKB/Swiss-Prot.
+DT   23-FEB-2022, sequence version 2.
+DT   28-JUN-2023, entry version 155.
+DE   RecName: Full=Transcriptional repressor scratch 1;
+DE   AltName: Full=Scratch homolog 1 zinc finger protein;
+DE            Short=SCRT;
+DE            Short=Scratch 1;
+DE            Short=hScrt;
+GN   Name=SCRT1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, SUBCELLULAR LOCATION, TISSUE
+RP   SPECIFICITY, INTERACTION WITH E-BOX MOTIF, AND VARIANT SER-133.
+RC   TISSUE=Brain;
+RX   PubMed=11274425; DOI=10.1073/pnas.051014098;
+RA   Nakakura E.K., Watkins D.N., Schuebel K.E., Sriuranpong V., Borges M.W.,
+RA   Nelkin B.D., Ball D.W.;
+RT   "Mammalian scratch: a neural-specific snail family transcriptional
+RT   repressor.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:4010-4015(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 185-348.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Transcriptional repressor that binds E-box motif CAGGTG. Can
+CC       modulate the action of basic helix-loop-helix (bHLH) transcription
+CC       factors, critical for neuronal differentiation.
+CC       {ECO:0000269|PubMed:11274425}.
+CC   -!- SUBUNIT: Interacts (via SNAG domain) with LIMD1 (via LIM domains), WTIP
+CC       (via LIM domains) and AJUBA (via LIM domains). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11274425}.
+CC   -!- TISSUE SPECIFICITY: Brain specific. {ECO:0000269|PubMed:11274425}.
+CC   -!- DOMAIN: The N-terminal non zinc-finger region mediates the repressor
+CC       activity.
+CC   -!- SIMILARITY: Belongs to the snail C2H2-type zinc-finger protein family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY014996; AAK01467.1; -; mRNA.
+DR   EMBL; CH471162; EAW82125.1; -; Genomic_DNA.
+DR   EMBL; BC014675; AAH14675.1; -; mRNA.
+DR   CCDS; CCDS6421.1; -.
+DR   RefSeq; NP_112599.2; NM_031309.5.
+DR   AlphaFoldDB; Q9BWW7; -.
+DR   SMR; Q9BWW7; -.
+DR   BioGRID; 123667; 25.
+DR   STRING; 9606.ENSP00000455711; -.
+DR   iPTMnet; Q9BWW7; -.
+DR   PhosphoSitePlus; Q9BWW7; -.
+DR   BioMuta; SCRT1; -.
+DR   DMDM; 46397014; -.
+DR   jPOST; Q9BWW7; -.
+DR   MassIVE; Q9BWW7; -.
+DR   PaxDb; Q9BWW7; -.
+DR   PeptideAtlas; Q9BWW7; -.
+DR   ProteomicsDB; 79334; -.
+DR   Antibodypedia; 59727; 30 antibodies from 14 providers.
+DR   DNASU; 83482; -.
+DR   Ensembl; ENST00000569446.3; ENSP00000455711.1; ENSG00000261678.3.
+DR   Ensembl; ENST00000645782.2; ENSP00000496266.1; ENSG00000284923.2.
+DR   GeneID; 83482; -.
+DR   KEGG; hsa:83482; -.
+DR   MANE-Select; ENST00000569446.3; ENSP00000455711.1; NM_031309.6; NP_112599.2.
+DR   UCSC; uc033ccm.1; human.
+DR   AGR; HGNC:15950; -.
+DR   CTD; 83482; -.
+DR   DisGeNET; 83482; -.
+DR   GeneCards; SCRT1; -.
+DR   HGNC; HGNC:15950; SCRT1.
+DR   HPA; ENSG00000261678; Tissue enriched (brain).
+DR   MIM; 605858; gene.
+DR   neXtProt; NX_Q9BWW7; -.
+DR   OpenTargets; ENSG00000261678; -.
+DR   PharmGKB; PA35015; -.
+DR   VEuPathDB; HostDB:ENSG00000261678; -.
+DR   eggNOG; KOG2462; Eukaryota.
+DR   GeneTree; ENSGT00940000154491; -.
+DR   HOGENOM; CLU_002678_42_3_1; -.
+DR   InParanoid; Q9BWW7; -.
+DR   OMA; RCHKAFA; -.
+DR   OrthoDB; 658032at2759; -.
+DR   PhylomeDB; Q9BWW7; -.
+DR   TreeFam; TF315515; -.
+DR   PathwayCommons; Q9BWW7; -.
+DR   BioGRID-ORCS; 83482; 46 hits in 1164 CRISPR screens.
+DR   GenomeRNAi; 83482; -.
+DR   Pharos; Q9BWW7; Tbio.
+DR   PRO; PR:Q9BWW7; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; Q9BWW7; protein.
+DR   Bgee; ENSG00000261678; Expressed in primary visual cortex and 34 other tissues.
+DR   Genevisible; Q9BWW7; HS.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; NAS:UniProtKB.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:NTNU_SB.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IBA:GO_Central.
+DR   GO; GO:2001222; P:regulation of neuron migration; IEA:Ensembl.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 4.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24388:SF60; TRANSCRIPTIONAL REPRESSOR SCRATCH 1; 1.
+DR   PANTHER; PTHR24388; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF00096; zf-C2H2; 4.
+DR   Pfam; PF13912; zf-C2H2_6; 1.
+DR   SMART; SM00355; ZnF_C2H2; 5.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 3.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 4.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 4.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat; Repressor;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..348
+FT                   /note="Transcriptional repressor scratch 1"
+FT                   /id="PRO_0000047036"
+FT   ZN_FING         191..213
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         222..244
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         248..270
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         276..298
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         304..327
+FT                   /note="C2H2-type 5; atypical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          1..20
+FT                   /note="SNAG domain"
+FT                   /evidence="ECO:0000250"
+FT   REGION          130..189
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VARIANT         133
+FT                   /note="A -> S (in dbSNP:rs7013127)"
+FT                   /evidence="ECO:0000269|PubMed:11274425"
+FT                   /id="VAR_045990"
+SQ   SEQUENCE   348 AA;  35554 MW;  D3BB51709C7795DA CRC64;
+     MPRSFLVKKV KLDAFSSADL ESAYGRARSD LGAPLHDKGY LSDYVGPSSV YDGDAEAALL
+     KGPSPEPMYA AAVRGELGPA AAGSAPPPTP RPELATAAGG YINGDAAVSE GYAADAFFIT
+     DGRSRRKASN AGAAAAPSTA SAAAPDGDAG GGGGAGGRSL GSGPGGRGGT RAGAGTEARA
+     GPGAAGAGGR HACGECGKTY ATSSNLSRHK QTHRSLDSQL ARRCPTCGKV YVSMPAMAMH
+     LLTHDLRHKC GVCGKAFSRP WLLQGHMRSH TGEKPFGCAH CGKAFADRSN LRAHMQTHSA
+     FKHFQCKRCK KSFALKSYLN KHYESACFKG GAGGPAAPAP PQLSPVQA
+//

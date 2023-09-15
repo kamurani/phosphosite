@@ -1,0 +1,285 @@
+ID   NPAS3_HUMAN             Reviewed;         933 AA.
+AC   Q8IXF0; Q86US6; Q86US7; Q8IXF2; Q9BY81; Q9H323; Q9Y4L8;
+DT   28-NOV-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2003, sequence version 1.
+DT   28-JUN-2023, entry version 178.
+DE   RecName: Full=Neuronal PAS domain-containing protein 3;
+DE            Short=Neuronal PAS3;
+DE   AltName: Full=Basic-helix-loop-helix-PAS protein MOP6;
+DE   AltName: Full=Class E basic helix-loop-helix protein 12;
+DE            Short=bHLHe12;
+DE   AltName: Full=Member of PAS protein 6;
+DE   AltName: Full=PAS domain-containing protein 6;
+GN   Name=NPAS3; Synonyms=BHLHE12, MOP6, PASD6;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2 AND 3).
+RC   TISSUE=Fetal brain;
+RA   Ohe N., Saito K., Kaneko H.;
+RT   "Splicing variants of human NPAS3.";
+RL   Submitted (FEB-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 4).
+RA   Thomas R.S., Bradfield C.A.;
+RT   "Cloning and chromosomal localization of MOP6.";
+RL   Submitted (JUN-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 4 AND 5), SUBCELLULAR LOCATION, AND
+RP   CHROMOSOMAL TRANSLOCATION.
+RC   TISSUE=Fetal brain;
+RX   PubMed=12746393; DOI=10.1136/jmg.40.5.325;
+RA   Kamnasaran D., Muir W.J., Ferguson-Smith M.A., Cox D.W.;
+RT   "Disruption of the neuronal PAS3 gene in a family affected with
+RT   schizophrenia.";
+RL   J. Med. Genet. 40:325-332(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 58-933 (ISOFORM 6).
+RG   The European IMAGE consortium;
+RL   Submitted (JUN-1999) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: May play a broad role in neurogenesis. May control regulatory
+CC       pathways relevant to schizophrenia and to psychotic illness (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Efficient DNA binding requires dimerization with another bHLH
+CC       protein. Interacts with ARNT; forms a heterodimer that binds core DNA
+CC       sequence 5'-[AG]CGTG-3' within the hypoxia response element (HRE) of
+CC       target gene promoters (By similarity). {ECO:0000250|UniProtKB:Q9QZQ0}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|PROSITE-ProRule:PRU00981,
+CC       ECO:0000269|PubMed:12746393}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1; Synonyms=long form;
+CC         IsoId=Q8IXF0-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8IXF0-2; Sequence=VSP_009085;
+CC       Name=3; Synonyms=NPAS3v;
+CC         IsoId=Q8IXF0-3; Sequence=VSP_009085, VSP_009087;
+CC       Name=4;
+CC         IsoId=Q8IXF0-4; Sequence=VSP_009085, VSP_009086;
+CC       Name=5;
+CC         IsoId=Q8IXF0-5; Sequence=VSP_009084, VSP_009086, VSP_009088,
+CC                                  VSP_009089;
+CC       Name=6;
+CC         IsoId=Q8IXF0-6; Sequence=VSP_009088, VSP_009089;
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed in the adult brain.
+CC   -!- DISEASE: Note=A chromosomal aberration involving NPAS3 is found in a
+CC       family with schizophrenia. Translocation t(9;14)(q34;q13).
+CC       {ECO:0000269|PubMed:12746393}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB055962; BAC53756.1; -; mRNA.
+DR   EMBL; AB054575; BAB21221.1; -; mRNA.
+DR   EMBL; AB054576; BAC53754.1; -; mRNA.
+DR   EMBL; AF164438; AAG35180.1; -; mRNA.
+DR   EMBL; AY157302; AAO17043.1; -; mRNA.
+DR   EMBL; AY157303; AAO17044.1; -; mRNA.
+DR   EMBL; AL079281; CAB45154.1; -; mRNA.
+DR   CCDS; CCDS53891.1; -. [Q8IXF0-1]
+DR   CCDS; CCDS53892.1; -. [Q8IXF0-3]
+DR   CCDS; CCDS55912.1; -. [Q8IXF0-2]
+DR   CCDS; CCDS9645.1; -. [Q8IXF0-4]
+DR   RefSeq; NP_001158221.1; NM_001164749.1. [Q8IXF0-1]
+DR   RefSeq; NP_001159365.1; NM_001165893.1. [Q8IXF0-2]
+DR   RefSeq; NP_071406.1; NM_022123.2. [Q8IXF0-4]
+DR   RefSeq; NP_775182.1; NM_173159.2. [Q8IXF0-3]
+DR   AlphaFoldDB; Q8IXF0; -.
+DR   SMR; Q8IXF0; -.
+DR   BioGRID; 122040; 7.
+DR   IntAct; Q8IXF0; 5.
+DR   MINT; Q8IXF0; -.
+DR   STRING; 9606.ENSP00000348460; -.
+DR   GlyCosmos; Q8IXF0; 3 sites, 1 glycan.
+DR   GlyGen; Q8IXF0; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; Q8IXF0; -.
+DR   PhosphoSitePlus; Q8IXF0; -.
+DR   BioMuta; NPAS3; -.
+DR   DMDM; 38604888; -.
+DR   EPD; Q8IXF0; -.
+DR   MassIVE; Q8IXF0; -.
+DR   PaxDb; Q8IXF0; -.
+DR   PeptideAtlas; Q8IXF0; -.
+DR   ProteomicsDB; 70984; -. [Q8IXF0-1]
+DR   ProteomicsDB; 70985; -. [Q8IXF0-2]
+DR   ProteomicsDB; 70986; -. [Q8IXF0-3]
+DR   ProteomicsDB; 70987; -. [Q8IXF0-4]
+DR   Antibodypedia; 136; 137 antibodies from 27 providers.
+DR   DNASU; 64067; -.
+DR   Ensembl; ENST00000346562.6; ENSP00000319610.5; ENSG00000151322.20. [Q8IXF0-4]
+DR   Ensembl; ENST00000356141.9; ENSP00000348460.4; ENSG00000151322.20. [Q8IXF0-1]
+DR   Ensembl; ENST00000357798.9; ENSP00000350446.5; ENSG00000151322.20. [Q8IXF0-3]
+DR   Ensembl; ENST00000547068.5; ENSP00000449542.1; ENSG00000151322.20. [Q8IXF0-5]
+DR   Ensembl; ENST00000548645.5; ENSP00000448916.1; ENSG00000151322.20. [Q8IXF0-2]
+DR   GeneID; 64067; -.
+DR   KEGG; hsa:64067; -.
+DR   MANE-Select; ENST00000356141.9; ENSP00000348460.4; NM_001164749.2; NP_001158221.1.
+DR   UCSC; uc001wrs.4; human. [Q8IXF0-1]
+DR   AGR; HGNC:19311; -.
+DR   CTD; 64067; -.
+DR   DisGeNET; 64067; -.
+DR   GeneCards; NPAS3; -.
+DR   HGNC; HGNC:19311; NPAS3.
+DR   HPA; ENSG00000151322; Tissue enhanced (brain).
+DR   MIM; 609430; gene.
+DR   neXtProt; NX_Q8IXF0; -.
+DR   OpenTargets; ENSG00000151322; -.
+DR   PharmGKB; PA134968746; -.
+DR   VEuPathDB; HostDB:ENSG00000151322; -.
+DR   eggNOG; KOG3558; Eukaryota.
+DR   GeneTree; ENSGT00940000158051; -.
+DR   InParanoid; Q8IXF0; -.
+DR   OrthoDB; 5396877at2759; -.
+DR   PhylomeDB; Q8IXF0; -.
+DR   TreeFam; TF317772; -.
+DR   PathwayCommons; Q8IXF0; -.
+DR   SignaLink; Q8IXF0; -.
+DR   BioGRID-ORCS; 64067; 13 hits in 1167 CRISPR screens.
+DR   ChiTaRS; NPAS3; human.
+DR   GenomeRNAi; 64067; -.
+DR   Pharos; Q8IXF0; Tbio.
+DR   PRO; PR:Q8IXF0; -.
+DR   Proteomes; UP000005640; Chromosome 14.
+DR   RNAct; Q8IXF0; protein.
+DR   Bgee; ENSG00000151322; Expressed in endothelial cell and 164 other tissues.
+DR   ExpressionAtlas; Q8IXF0; baseline and differential.
+DR   Genevisible; Q8IXF0; HS.
+DR   GO; GO:0000785; C:chromatin; ISA:NTNU_SB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; ISA:NTNU_SB.
+DR   GO; GO:0046982; F:protein heterodimerization activity; ISS:UniProtKB.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0045893; P:positive regulation of DNA-templated transcription; ISS:UniProtKB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd19732; bHLH-PAS_NPAS3_PASD6; 1.
+DR   CDD; cd00130; PAS; 2.
+DR   Gene3D; 4.10.280.10; Helix-loop-helix DNA-binding domain; 1.
+DR   Gene3D; 3.30.450.20; PAS domain; 2.
+DR   InterPro; IPR011598; bHLH_dom.
+DR   InterPro; IPR036638; HLH_DNA-bd_sf.
+DR   InterPro; IPR000014; PAS.
+DR   InterPro; IPR035965; PAS-like_dom_sf.
+DR   InterPro; IPR013767; PAS_fold.
+DR   InterPro; IPR013655; PAS_fold_3.
+DR   PANTHER; PTHR23043; HYPOXIA-INDUCIBLE FACTOR 1 ALPHA; 1.
+DR   PANTHER; PTHR23043:SF30; NEURONAL PAS DOMAIN-CONTAINING PROTEIN 3; 1.
+DR   Pfam; PF00989; PAS; 1.
+DR   Pfam; PF08447; PAS_3; 1.
+DR   SMART; SM00353; HLH; 1.
+DR   SMART; SM00091; PAS; 2.
+DR   SUPFAM; SSF47459; HLH, helix-loop-helix DNA-binding domain; 1.
+DR   SUPFAM; SSF55785; PYP-like sensor domain (PAS domain); 2.
+DR   PROSITE; PS50888; BHLH; 1.
+DR   PROSITE; PS50112; PAS; 2.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Chromosomal rearrangement; DNA-binding; Nucleus;
+KW   Reference proteome; Repeat; Transcription; Transcription regulation.
+FT   CHAIN           1..933
+FT                   /note="Neuronal PAS domain-containing protein 3"
+FT                   /id="PRO_0000127408"
+FT   DOMAIN          51..104
+FT                   /note="bHLH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00981"
+FT   DOMAIN          147..217
+FT                   /note="PAS 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00140"
+FT   DOMAIN          319..389
+FT                   /note="PAS 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00140"
+FT   DOMAIN          363..406
+FT                   /note="PAC"
+FT   REGION          1..24
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          53..64
+FT                   /note="DNA-binding"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9QZQ0"
+FT   REGION          215..253
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          452..549
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          562..641
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          657..725
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          742..780
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        225..253
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        456..506
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        520..541
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        567..592
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        596..612
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        657..690
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         1..102
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:12746393"
+FT                   /id="VSP_009084"
+FT   VAR_SEQ         18..47
+FT                   /note="Missing (in isoform 2, isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:12746393, ECO:0000303|Ref.1,
+FT                   ECO:0000303|Ref.2"
+FT                   /id="VSP_009085"
+FT   VAR_SEQ         128
+FT                   /note="K -> KGIQMWKSELCMRKTPCE (in isoform 3)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_009087"
+FT   VAR_SEQ         129..130
+FT                   /note="Missing (in isoform 4 and isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:12746393, ECO:0000303|Ref.2"
+FT                   /id="VSP_009086"
+FT   VAR_SEQ         246..257
+FT                   /note="ESTSPSLLTTDN -> VCFPPASDQFLL (in isoform 5 and
+FT                   isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:12746393, ECO:0000303|Ref.4"
+FT                   /id="VSP_009088"
+FT   VAR_SEQ         258..933
+FT                   /note="Missing (in isoform 5 and isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:12746393, ECO:0000303|Ref.4"
+FT                   /id="VSP_009089"
+FT   CONFLICT        65
+FT                   /note="G -> E (in Ref. 4; CAB45154)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        79..81
+FT                   /note="PLP -> LS (in Ref. 4; CAB45154)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        552
+FT                   /note="A -> P (in Ref. 3; AAO17043)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   933 AA;  100805 MW;  3215AC657CEDD9A9 CRC64;
+     MAPTKPSFQQ DPSRRERITA QHPLPNQSEC RKIYRYDGIY CESTYQNLQA LRKEKSRDAA
+     RSRRGKENFE FYELAKLLPL PAAITSQLDK ASIIRLTISY LKMRDFANQG DPPWNLRMEG
+     PPPNTSVKVI GAQRRRSPSA LAIEVFEAHL GSHILQSLDG FVFALNQEGK FLYISETVSI
+     YLGLSQVELT GSSVFDYVHP GDHVEMAEQL GMKLPPGRGL LSQGTAEDGA SSASSSSQSE
+     TPEPVESTSP SLLTTDNTLE RSFFIRMKST LTKRGVHIKS SGYKVIHITG RLRLRVSLSH
+     GRTVPSQIMG LVVVAHALPP PTINEVRIDC HMFVTRVNMD LNIIYCENRI SDYMDLTPVD
+     IVGKRCYHFI HAEDVEGIRH SHLDLLNKGQ CVTKYYRWMQ KNGGYIWIQS SATIAINAKN
+     ANEKNIIWVN YLLSNPEYKD TPMDIAQLPH LPEKTSESSE TSDSESDSKD TSGITEDNEN
+     SKSDEKGNQS ENSEDPEPDR KKSGNACDND MNCNDDGHSS SNPDSRDSDD SFEHSDFENP
+     KAGEDGFGAL GAMQIKVERY VESESDLRLQ NCESLTSDSA KDSDSAGEAG AQASSKHQKR
+     KKRRKRQKGG SASRRRLSSA SSPGGLDAGL VEPPRLLSSP NSASVLKIKT EISEPINFDN
+     DSSIWNYPPN REISRNESPY SMTKPPSSEH FPSPQGGGGG GGGGGGLHVA IPDSVLTPPG
+     ADGAAARKTQ FGASATAALA PVASDPLSPP LSASPRDKHP GNGGGGGGGG GGAGGGGPSA
+     SNSLLYTGDL EALQRLQAGN VVLPLVHRVT GTLAATSTAA QRVYTTGTIR YAPAEVTLAM
+     QSNLLPNAHA VNFVDVNSPG FGLDPKTPME MLYHHVHRLN MSGPFGGAVS AASLTQMPAG
+     NVFTTAEGLF STLPFPVYSN GIHAAQTLER KED
+//

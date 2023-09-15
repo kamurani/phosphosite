@@ -1,0 +1,188 @@
+ID   ZN121_HUMAN             Reviewed;         390 AA.
+AC   P58317;
+DT   18-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   10-JUL-2007, sequence version 2.
+DT   28-JUN-2023, entry version 166.
+DE   RecName: Full=Zinc finger protein 121;
+DE   AltName: Full=Zinc finger protein 20;
+GN   Name=ZNF121; Synonyms=ZNF20;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 96-390.
+RX   PubMed=8468057; DOI=10.1006/geno.1993.1116;
+RA   Chen H., Kalaitsidaki M., Warren A.C., Avramopoulos D., Antonarakis S.E.;
+RT   "A novel zinc finger cDNA with a polymorphic pentanucleotide repeat
+RT   (ATTTT)n maps on human chromosome 19p.";
+RL   Genomics 15:621-625(1993).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- INTERACTION:
+CC       P58317; Q9H257-2: CARD9; NbExp=3; IntAct=EBI-1228269, EBI-11530605;
+CC       P58317; Q14145: KEAP1; NbExp=3; IntAct=EBI-1228269, EBI-751001;
+CC       P58317; P60410: KRTAP10-8; NbExp=3; IntAct=EBI-1228269, EBI-10171774;
+CC       P58317; Q9NYW8: RBAK; NbExp=3; IntAct=EBI-1228269, EBI-1210429;
+CC       P58317; Q8WV44: TRIM41; NbExp=3; IntAct=EBI-1228269, EBI-725997;
+CC       P58317; Q9Y2P0: ZNF835; NbExp=3; IntAct=EBI-1228269, EBI-5667516;
+CC       P58317; Q96EG3: ZNF837; NbExp=3; IntAct=EBI-1228269, EBI-11962574;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC008759; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; M99593; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS32902.1; -.
+DR   CCDS; CCDS77228.1; -.
+DR   PIR; A46017; A46017.
+DR   RefSeq; NP_001008727.1; NM_001008727.3.
+DR   RefSeq; NP_001295198.1; NM_001308269.1.
+DR   RefSeq; XP_016882728.1; XM_017027239.1.
+DR   AlphaFoldDB; P58317; -.
+DR   SMR; P58317; -.
+DR   BioGRID; 113474; 46.
+DR   IntAct; P58317; 24.
+DR   STRING; 9606.ENSP00000326967; -.
+DR   iPTMnet; P58317; -.
+DR   PhosphoSitePlus; P58317; -.
+DR   BioMuta; ZNF121; -.
+DR   DMDM; 152031766; -.
+DR   EPD; P58317; -.
+DR   jPOST; P58317; -.
+DR   MassIVE; P58317; -.
+DR   MaxQB; P58317; -.
+DR   PaxDb; P58317; -.
+DR   PeptideAtlas; P58317; -.
+DR   ProteomicsDB; 57059; -.
+DR   Antibodypedia; 25051; 52 antibodies from 15 providers.
+DR   DNASU; 7675; -.
+DR   Ensembl; ENST00000320451.7; ENSP00000326967.5; ENSG00000197961.12.
+DR   Ensembl; ENST00000586602.5; ENSP00000468643.1; ENSG00000197961.12.
+DR   GeneID; 7675; -.
+DR   KEGG; hsa:7675; -.
+DR   MANE-Select; ENST00000320451.7; ENSP00000326967.5; NM_001008727.5; NP_001008727.1.
+DR   UCSC; uc010dwt.3; human.
+DR   AGR; HGNC:12904; -.
+DR   CTD; 7675; -.
+DR   DisGeNET; 7675; -.
+DR   GeneCards; ZNF121; -.
+DR   HGNC; HGNC:12904; ZNF121.
+DR   HPA; ENSG00000197961; Low tissue specificity.
+DR   MIM; 194628; gene.
+DR   neXtProt; NX_P58317; -.
+DR   OpenTargets; ENSG00000197961; -.
+DR   PharmGKB; PA37493; -.
+DR   VEuPathDB; HostDB:ENSG00000197961; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000163151; -.
+DR   HOGENOM; CLU_002678_44_0_1; -.
+DR   InParanoid; P58317; -.
+DR   OMA; HAVSVQM; -.
+DR   OrthoDB; 4747146at2759; -.
+DR   PhylomeDB; P58317; -.
+DR   TreeFam; TF341966; -.
+DR   PathwayCommons; P58317; -.
+DR   SignaLink; P58317; -.
+DR   BioGRID-ORCS; 7675; 8 hits in 1148 CRISPR screens.
+DR   ChiTaRS; ZNF121; human.
+DR   GenomeRNAi; 7675; -.
+DR   Pharos; P58317; Tdark.
+DR   PRO; PR:P58317; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; P58317; protein.
+DR   Bgee; ENSG00000197961; Expressed in skin of hip and 187 other tissues.
+DR   ExpressionAtlas; P58317; baseline and differential.
+DR   Genevisible; P58317; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 10.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23226; ZINC FINGER AND SCAN DOMAIN-CONTAINING; 1.
+DR   PANTHER; PTHR23226:SF344; ZINC FINGER PROTEIN 829; 1.
+DR   Pfam; PF00096; zf-C2H2; 9.
+DR   SMART; SM00355; ZnF_C2H2; 9.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 6.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 9.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 10.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..390
+FT                   /note="Zinc finger protein 121"
+FT                   /id="PRO_0000047408"
+FT   ZN_FING         88..110
+FT                   /note="C2H2-type 1; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         116..138
+FT                   /note="C2H2-type 2; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         144..166
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         172..194
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         200..222
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         228..250
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         256..278
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         284..306
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         312..334
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         340..362
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         368..390
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   CONFLICT        96..97
+FT                   /note="AF -> NS (in Ref. 2; M99593)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        212
+FT                   /note="R -> C (in Ref. 2; M99593)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   390 AA;  44694 MW;  5E824D279B5235EE CRC64;
+     MAEIHNGGEL CDFMENGEIF SEHSCLNAHM GTENTGDTYD CDEYGENFPM LHNSAPAGET
+     LSVLNQCRKA FSLPPNVHQR TWIGDKSFEY SDCEEAFVDQ SHLQANRITH NGETLYEQKQ
+     CGRAFTYSTS HAVSVKMHTV EKPYECKECG KFFRYSSYLN SHMRTHTGEK PYECKECGKC
+     FTVSSHLVEH VRIHTGEKPY QCKECGRAFA GRSGLTKHVR IHTGEKPYEC NECGKAYNRF
+     YLLTEHFKTH TEEKPFECKV CGKSFRSSSC LKNHFRIHTG IKPYKCKECG KAFTVSSSLH
+     NHVKIHTGEK PYECKDCGKA FATSSQLIEH IRTHTGEKPY ICKECGKTFR ASSHLQKHVR
+     IHTGEKPYIC NECGKAYNRF YLLTKHLKTH
+//

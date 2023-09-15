@@ -1,0 +1,257 @@
+ID   HXC10_HUMAN             Reviewed;         342 AA.
+AC   Q9NYD6; O15219; O15220; Q9BVD5;
+DT   21-FEB-2001, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2002, sequence version 2.
+DT   28-JUN-2023, entry version 185.
+DE   RecName: Full=Homeobox protein Hox-C10;
+DE   AltName: Full=Homeobox protein Hox-3I;
+GN   Name=HOXC10; Synonyms=HOX3I;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=10835276; DOI=10.1006/jmbi.2000.3782;
+RA   de Stanchina E., Gabellini D., Norio P., Giacca M., Peverali F.A., Riva S.,
+RA   Falaschi A., Biamonti G.;
+RT   "Selection of homeotic proteins for binding to a human DNA replication
+RT   origin.";
+RL   J. Mol. Biol. 299:667-680(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Cervix;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 94-106 AND 258-297.
+RX   PubMed=9357979; DOI=10.1016/s0014-5793(97)01118-6;
+RA   Flagiello D., Gibaud A., Dutrillaux B., Poupon M.-F., Malfoy B.;
+RT   "Distinct patterns of all-trans retinoic acid dependent expression of HOXB
+RT   and HOXC homeogenes in human embryonal and small-cell lung carcinoma cell
+RT   lines.";
+RL   FEBS Lett. 415:263-267(1997).
+RN   [4]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-189, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-8 AND SER-189, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [7]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-254, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [8]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-254, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25772364; DOI=10.1016/j.celrep.2015.02.033;
+RA   Hendriks I.A., Treffers L.W., Verlaan-de Vries M., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "SUMO-2 orchestrates chromatin modifiers in response to DNA damage.";
+RL   Cell Rep. 10:1778-1791(2015).
+RN   [9]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-106; LYS-195 AND LYS-254, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: Sequence-specific transcription factor which is part of a
+CC       developmental regulatory system that provides cells with specific
+CC       positional identities on the anterior-posterior axis.
+CC   -!- INTERACTION:
+CC       Q9NYD6; Q9UK80: USP21; NbExp=3; IntAct=EBI-1188075, EBI-373242;
+CC   -!- SUBCELLULAR LOCATION: Nucleus.
+CC   -!- SIMILARITY: Belongs to the Abd-B homeobox family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF255675; AAF67759.1; -; mRNA.
+DR   EMBL; BC001293; AAH01293.1; -; mRNA.
+DR   EMBL; X99684; CAA67999.1; -; mRNA.
+DR   EMBL; X99685; CAA68000.1; -; mRNA.
+DR   CCDS; CCDS8868.1; -.
+DR   PIR; B60941; B60941.
+DR   RefSeq; NP_059105.2; NM_017409.3.
+DR   AlphaFoldDB; Q9NYD6; -.
+DR   SMR; Q9NYD6; -.
+DR   BioGRID; 109466; 21.
+DR   IntAct; Q9NYD6; 9.
+DR   STRING; 9606.ENSP00000307321; -.
+DR   GlyCosmos; Q9NYD6; 1 site, 1 glycan.
+DR   GlyGen; Q9NYD6; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; Q9NYD6; -.
+DR   PhosphoSitePlus; Q9NYD6; -.
+DR   BioMuta; HOXC10; -.
+DR   jPOST; Q9NYD6; -.
+DR   MassIVE; Q9NYD6; -.
+DR   MaxQB; Q9NYD6; -.
+DR   PaxDb; Q9NYD6; -.
+DR   PeptideAtlas; Q9NYD6; -.
+DR   ProteomicsDB; 83216; -.
+DR   Antibodypedia; 15311; 497 antibodies from 34 providers.
+DR   DNASU; 3226; -.
+DR   Ensembl; ENST00000303460.5; ENSP00000307321.4; ENSG00000180818.5.
+DR   GeneID; 3226; -.
+DR   KEGG; hsa:3226; -.
+DR   MANE-Select; ENST00000303460.5; ENSP00000307321.4; NM_017409.4; NP_059105.2.
+DR   UCSC; uc001sen.4; human.
+DR   AGR; HGNC:5122; -.
+DR   CTD; 3226; -.
+DR   DisGeNET; 3226; -.
+DR   GeneCards; HOXC10; -.
+DR   HGNC; HGNC:5122; HOXC10.
+DR   HPA; ENSG00000180818; Tissue enriched (skeletal).
+DR   MIM; 605560; gene.
+DR   neXtProt; NX_Q9NYD6; -.
+DR   OpenTargets; ENSG00000180818; -.
+DR   PharmGKB; PA29397; -.
+DR   VEuPathDB; HostDB:ENSG00000180818; -.
+DR   eggNOG; KOG0487; Eukaryota.
+DR   GeneTree; ENSGT00940000160855; -.
+DR   HOGENOM; CLU_057871_0_0_1; -.
+DR   InParanoid; Q9NYD6; -.
+DR   OMA; QGMYMQS; -.
+DR   OrthoDB; 728401at2759; -.
+DR   PhylomeDB; Q9NYD6; -.
+DR   TreeFam; TF317819; -.
+DR   PathwayCommons; Q9NYD6; -.
+DR   SignaLink; Q9NYD6; -.
+DR   SIGNOR; Q9NYD6; -.
+DR   BioGRID-ORCS; 3226; 135 hits in 1170 CRISPR screens.
+DR   GeneWiki; HOXC10; -.
+DR   GenomeRNAi; 3226; -.
+DR   Pharos; Q9NYD6; Tbio.
+DR   PRO; PR:Q9NYD6; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; Q9NYD6; protein.
+DR   Bgee; ENSG00000180818; Expressed in gastrocnemius and 116 other tissues.
+DR   ExpressionAtlas; Q9NYD6; baseline and differential.
+DR   Genevisible; Q9NYD6; HS.
+DR   GO; GO:0000785; C:chromatin; ISA:NTNU_SB.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; ISA:NTNU_SB.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:0009952; P:anterior/posterior pattern specification; IEA:Ensembl.
+DR   GO; GO:0030326; P:embryonic limb morphogenesis; IEA:Ensembl.
+DR   GO; GO:0120163; P:negative regulation of cold-induced thermogenesis; IMP:YuBioLab.
+DR   GO; GO:0050905; P:neuromuscular process; IEA:Ensembl.
+DR   GO; GO:0008284; P:positive regulation of cell population proliferation; TAS:ProtInc.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:NTNU_SB.
+DR   GO; GO:0009954; P:proximal/distal pattern formation; IEA:Ensembl.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0001501; P:skeletal system development; IEA:Ensembl.
+DR   GO; GO:0021520; P:spinal cord motor neuron cell fate specification; IEA:Ensembl.
+DR   CDD; cd00086; homeodomain; 1.
+DR   Gene3D; 1.10.10.60; Homeodomain-like; 1.
+DR   InterPro; IPR009057; Homeobox-like_sf.
+DR   InterPro; IPR017970; Homeobox_CS.
+DR   InterPro; IPR001356; Homeobox_dom.
+DR   InterPro; IPR020479; Homeobox_metazoa.
+DR   InterPro; IPR046333; HXA10/ABDB-like.
+DR   PANTHER; PTHR45874; HOMEOBOX PROTEIN ABDOMINAL-B; 1.
+DR   PANTHER; PTHR45874:SF2; HOMEOBOX PROTEIN HOX-C10; 1.
+DR   Pfam; PF00046; Homeodomain; 1.
+DR   PRINTS; PR00024; HOMEOBOX.
+DR   SMART; SM00389; HOX; 1.
+DR   SUPFAM; SSF46689; Homeodomain-like; 1.
+DR   PROSITE; PS00027; HOMEOBOX_1; 1.
+DR   PROSITE; PS50071; HOMEOBOX_2; 1.
+PE   1: Evidence at protein level;
+KW   Developmental protein; DNA-binding; Homeobox; Isopeptide bond; Nucleus;
+KW   Phosphoprotein; Reference proteome; Transcription;
+KW   Transcription regulation; Ubl conjugation.
+FT   CHAIN           1..342
+FT                   /note="Homeobox protein Hox-C10"
+FT                   /id="PRO_0000200190"
+FT   DNA_BIND        268..327
+FT                   /note="Homeobox"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00108"
+FT   REGION          1..29
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          187..271
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        200..225
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        227..255
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         8
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         189
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   CROSSLNK        106
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        195
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        254
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:25772364, ECO:0007744|PubMed:28112733"
+FT   CONFLICT        118
+FT                   /note="K -> N (in Ref. 1; AAF67759)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        265
+FT                   /note="A -> G (in Ref. 3; CAA68000)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        271
+FT                   /note="Missing (in Ref. 3; CAA68000)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   342 AA;  38073 MW;  BD8127FD43C2A37B CRC64;
+     MTCPRNVTPN SYAEPLAAPG GGERYSRSAG MYMQSGSDFN CGVMRGCGLA PSLSKRDEGS
+     SPSLALNTYP SYLSQLDSWG DPKAAYRLEQ PVGRPLSSCS YPPSVKEENV CCMYSAEKRA
+     KSGPEAALYS HPLPESCLGE HEVPVPSYYR ASPSYSALDK TPHCSGANDF EAPFEQRASL
+     NPRAEHLESP QLGGKVSFPE TPKSDSQTPS PNEIKTEQSL AGPKGSPSES EKERAKAADS
+     SPDTSDNEAK EEIKAENTTG NWLTAKSGRK KRCPYTKHQT LELEKEFLFN MYLTRERRLE
+     ISKTINLTDR QVKIWFQNRR MKLKKMNREN RIRELTSNFN FT
+//

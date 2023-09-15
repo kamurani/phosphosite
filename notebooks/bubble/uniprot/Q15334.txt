@@ -1,0 +1,401 @@
+ID   L2GL1_HUMAN             Reviewed;        1064 AA.
+AC   Q15334; A7MBM7; O00188; Q58F11; Q86UK6;
+DT   18-APR-2006, integrated into UniProtKB/Swiss-Prot.
+DT   22-SEP-2009, sequence version 3.
+DT   28-JUN-2023, entry version 181.
+DE   RecName: Full=Lethal(2) giant larvae protein homolog 1;
+DE            Short=LLGL;
+DE   AltName: Full=DLG4;
+DE   AltName: Full=Hugl-1;
+DE   AltName: Full=Human homolog to the D-lgl gene protein;
+GN   Name=LLGL1; Synonyms=DLG4, HUGL, HUGL1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], SUBCELLULAR LOCATION, TISSUE SPECIFICITY,
+RP   INTERACTION WITH MYOSIN II HEAVY CHAIN, AND VARIANTS GLY-148 AND HIS-550.
+RC   TISSUE=Brain;
+RX   PubMed=7542763;
+RA   Strand D.J., Unger S., Corvi R., Hartenstein K., Schenkel H., Kalmes A.,
+RA   Merdes G., Neumann B., Kreig-Schneider F., Coy J.F., Poustka A., Schwab M.,
+RA   Mechler B.;
+RT   "A human homologue of the Drosophila tumour suppressor gene l(2)gl maps to
+RT   17p11.2-12 and codes for a cytoskeletal protein that associates with
+RT   nonmuscle myosin II heavy chain.";
+RL   Oncogene 11:291-301(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT GLY-148.
+RC   TISSUE=Brain;
+RX   PubMed=8565641; DOI=10.1159/000134167;
+RA   Koyama K., Fukushima Y., Inazawa J., Tomotsune D., Takahashi N.,
+RA   Nakamura Y.;
+RT   "The human homologue of the murine Llglh gene (LLGL) maps within the Smith-
+RT   Magenis syndrome region in 17p11.2.";
+RL   Cytogenet. Cell Genet. 72:78-82(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT GLY-148.
+RC   TISSUE=Fetal brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   INTERACTION WITH PARD6B/PAR-6 AND PRKCI/APKC, SUBCELLULAR LOCATION, AND
+RP   PHOSPHORYLATION AT SER-663.
+RX   PubMed=12725730; DOI=10.1016/s0960-9822(03)00244-6;
+RA   Yamanaka T., Horikoshi Y., Sugiyama Y., Ishiyama C., Suzuki A., Hirose T.,
+RA   Iwamatsu A., Shinohara A., Ohno S.;
+RT   "Mammalian Lgl forms a protein complex with PAR-6 and aPKC independently of
+RT   PAR-3 to regulate epithelial cell polarity.";
+RL   Curr. Biol. 13:734-743(2003).
+RN   [5]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=15735678; DOI=10.1038/sj.onc.1208520;
+RA   Schimanski C.C., Schmitz G., Kashyap A., Bosserhoff A.K., Bataille F.,
+RA   Schafer S.C., Lehr H.A., Berger M.R., Galle P.R., Strand S., Strand D.;
+RT   "Reduced expression of Hugl-1, the human homologue of Drosophila tumour
+RT   suppressor gene lgl, contributes to progression of colorectal cancer.";
+RL   Oncogene 24:3100-3109(2005).
+RN   [6]
+RP   FUNCTION, TISSUE SPECIFICITY, AND INVOLVEMENT IN COLORECTAL CANCER AND
+RP   MELANOMA.
+RX   PubMed=16170365; DOI=10.1038/sj.onc.1209008;
+RA   Kuphal S., Wallner S., Schimanski C.C., Bataille F., Hofer P., Strand S.,
+RA   Strand D., Bosserhoff A.K.;
+RT   "Expression of Hugl-1 is strongly reduced in malignant melanoma.";
+RL   Oncogene 25:103-110(2006).
+RN   [7]
+RP   INTERACTION WITH DCAF1.
+RX   PubMed=20644714; DOI=10.1371/journal.pbio.1000422;
+RA   Tamori Y., Bialucha C.U., Tian A.G., Kajita M., Huang Y.C., Norman M.,
+RA   Harrison N., Poulton J., Ivanovitch K., Disch L., Liu T., Deng W.M.,
+RA   Fujita Y.;
+RT   "Involvement of Lgl and Mahjong/VprBP in cell competition.";
+RL   PLoS Biol. 8:E1000422-E1000422(2010).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+CC   -!- FUNCTION: Cortical cytoskeleton protein found in a complex involved in
+CC       maintaining cell polarity and epithelial integrity. Involved in the
+CC       regulation of mitotic spindle orientation, proliferation,
+CC       differentiation and tissue organization of neuroepithelial cells.
+CC       Involved in axonogenesis through RAB10 activation thereby regulating
+CC       vesicular membrane trafficking toward the axonal plasma membrane.
+CC       {ECO:0000269|PubMed:15735678, ECO:0000269|PubMed:16170365}.
+CC   -!- SUBUNIT: Associated with nonmuscle myosin II heavy chain. Interacts
+CC       with PRKCI/aPKC, PARD6B/Par-6 and PARD6A. Interacts with STX4A (By
+CC       similarity). Interacts with RAB10 (GDP-bound form); the interaction is
+CC       direct and promotes RAB10 association with membranes and activation
+CC       through competition with the Rab inhibitor GDI1 (By similarity).
+CC       Interacts with DCAF1. {ECO:0000250, ECO:0000269|PubMed:12725730,
+CC       ECO:0000269|PubMed:20644714, ECO:0000269|PubMed:7542763}.
+CC   -!- SUBCELLULAR LOCATION: Early endosome membrane {ECO:0000250}. Golgi
+CC       apparatus, trans-Golgi network membrane {ECO:0000250}. Golgi apparatus
+CC       membrane {ECO:0000250}. Cell projection, axon {ECO:0000250}. Cytoplasm,
+CC       cytoskeleton {ECO:0000269|PubMed:12725730, ECO:0000269|PubMed:7542763}.
+CC       Note=Localized to the lateral membrane during the polarization and
+CC       formation cell-cell contacts. Enriched in developing axons (By
+CC       similarity). {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Expressed in brain, kidney, and muscle but is
+CC       barely seen in heart and placenta. Down-regulated or lost in all cell
+CC       lines and in most of the tumor samples analyzed. Loss was associated
+CC       with advanced stage of the disease. {ECO:0000269|PubMed:15735678,
+CC       ECO:0000269|PubMed:16170365, ECO:0000269|PubMed:7542763}.
+CC   -!- PTM: Phosphorylated at least at Ser-663 by PRKCI.
+CC       {ECO:0000269|PubMed:12725730}.
+CC   -!- MISCELLANEOUS: Down-regulation of LLGL1 is associated with the
+CC       progression of colorectal cancer and melanoma. Located within the
+CC       Smith-Magenis syndrome region on chromosome 17; deleted in patients
+CC       with this syndrome.
+CC   -!- MISCELLANEOUS: Expression increases cell adhesion and decreases cell
+CC       migration. Substitutes for Drosophila l(2)gl tumor suppressor function
+CC       in vivo.
+CC   -!- SIMILARITY: Belongs to the WD repeat L(2)GL family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA19516.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X86371; CAA60130.1; -; mRNA.
+DR   EMBL; D50550; BAA19516.1; ALT_FRAME; mRNA.
+DR   EMBL; BC028037; AAH28037.1; -; mRNA.
+DR   EMBL; BC151838; AAI51839.1; -; mRNA.
+DR   CCDS; CCDS32586.1; -.
+DR   PIR; I38171; I38171.
+DR   RefSeq; NP_004131.3; NM_004140.3.
+DR   AlphaFoldDB; Q15334; -.
+DR   SMR; Q15334; -.
+DR   BioGRID; 110183; 154.
+DR   ComplexPortal; CPX-6188; Scribble cell polarity complex, DLG5-LLGL1-SCRIB variant.
+DR   ComplexPortal; CPX-6189; Scribble cell polarity complex, DLG4-LLGL1-SCRIB variant.
+DR   ComplexPortal; CPX-6190; Scribble cell polarity complex, DLG3-LLGL1-SCRIB variant.
+DR   ComplexPortal; CPX-6191; Scribble cell polarity complex, DLG2-LLGL1-SCRIB variant.
+DR   ComplexPortal; CPX-6192; Scribble cell polarity complex, DLG1-LLGL1-SCRIB variant.
+DR   CORUM; Q15334; -.
+DR   IntAct; Q15334; 52.
+DR   MINT; Q15334; -.
+DR   STRING; 9606.ENSP00000321537; -.
+DR   GlyCosmos; Q15334; 1 site, 2 glycans.
+DR   GlyGen; Q15334; 1 site, 2 O-linked glycans (1 site).
+DR   iPTMnet; Q15334; -.
+DR   PhosphoSitePlus; Q15334; -.
+DR   SwissPalm; Q15334; -.
+DR   BioMuta; LLGL1; -.
+DR   DMDM; 259016343; -.
+DR   EPD; Q15334; -.
+DR   jPOST; Q15334; -.
+DR   MassIVE; Q15334; -.
+DR   MaxQB; Q15334; -.
+DR   PaxDb; Q15334; -.
+DR   PeptideAtlas; Q15334; -.
+DR   ProteomicsDB; 60533; -.
+DR   Antibodypedia; 13463; 223 antibodies from 26 providers.
+DR   DNASU; 3996; -.
+DR   Ensembl; ENST00000316843.9; ENSP00000321537.4; ENSG00000131899.12.
+DR   Ensembl; ENST00000640494.2; ENSP00000492144.1; ENSG00000284137.2.
+DR   GeneID; 3996; -.
+DR   KEGG; hsa:3996; -.
+DR   MANE-Select; ENST00000316843.9; ENSP00000321537.4; NM_004140.4; NP_004131.4.
+DR   UCSC; uc002gsp.4; human.
+DR   AGR; HGNC:6628; -.
+DR   CTD; 3996; -.
+DR   DisGeNET; 3996; -.
+DR   GeneCards; LLGL1; -.
+DR   HGNC; HGNC:6628; LLGL1.
+DR   HPA; ENSG00000131899; Tissue enhanced (brain).
+DR   MIM; 600966; gene.
+DR   neXtProt; NX_Q15334; -.
+DR   OpenTargets; ENSG00000131899; -.
+DR   PharmGKB; PA30396; -.
+DR   VEuPathDB; HostDB:ENSG00000131899; -.
+DR   eggNOG; KOG1983; Eukaryota.
+DR   GeneTree; ENSGT00950000182906; -.
+DR   HOGENOM; CLU_005214_0_0_1; -.
+DR   InParanoid; Q15334; -.
+DR   OMA; HACTILI; -.
+DR   OrthoDB; 415950at2759; -.
+DR   PhylomeDB; Q15334; -.
+DR   TreeFam; TF314585; -.
+DR   PathwayCommons; Q15334; -.
+DR   SignaLink; Q15334; -.
+DR   SIGNOR; Q15334; -.
+DR   BioGRID-ORCS; 3996; 19 hits in 1160 CRISPR screens.
+DR   ChiTaRS; LLGL1; human.
+DR   GeneWiki; LLGL1; -.
+DR   GenomeRNAi; 3996; -.
+DR   Pharos; Q15334; Tbio.
+DR   PRO; PR:Q15334; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q15334; protein.
+DR   Bgee; ENSG00000131899; Expressed in C1 segment of cervical spinal cord and 93 other tissues.
+DR   ExpressionAtlas; Q15334; baseline and differential.
+DR   Genevisible; Q15334; HS.
+DR   GO; GO:0005912; C:adherens junction; NAS:ComplexPortal.
+DR   GO; GO:0030424; C:axon; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030864; C:cortical actin cytoskeleton; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005856; C:cytoskeleton; TAS:ProtInc.
+DR   GO; GO:0031901; C:early endosome membrane; ISS:UniProtKB.
+DR   GO; GO:0000137; C:Golgi cis cisterna; ISS:UniProtKB.
+DR   GO; GO:0000139; C:Golgi membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0032588; C:trans-Golgi network membrane; ISS:UniProtKB.
+DR   GO; GO:0005096; F:GTPase activator activity; ISS:UniProtKB.
+DR   GO; GO:0045159; F:myosin II binding; IBA:GO_Central.
+DR   GO; GO:0019901; F:protein kinase binding; IDA:UniProtKB.
+DR   GO; GO:0005198; F:structural molecule activity; TAS:ProtInc.
+DR   GO; GO:0007409; P:axonogenesis; ISS:UniProtKB.
+DR   GO; GO:0030866; P:cortical actin cytoskeleton organization; IDA:UniProtKB.
+DR   GO; GO:0051294; P:establishment of spindle orientation; IBA:GO_Central.
+DR   GO; GO:0045197; P:establishment or maintenance of epithelial cell apical/basal polarity; NAS:ComplexPortal.
+DR   GO; GO:0006887; P:exocytosis; IEA:UniProtKB-KW.
+DR   GO; GO:0006893; P:Golgi to plasma membrane transport; ISS:UniProtKB.
+DR   GO; GO:0065003; P:protein-containing complex assembly; IDA:UniProtKB.
+DR   GO; GO:0032878; P:regulation of establishment or maintenance of cell polarity; IBA:GO_Central.
+DR   GO; GO:0008593; P:regulation of Notch signaling pathway; IBA:GO_Central.
+DR   GO; GO:0050708; P:regulation of protein secretion; IBA:GO_Central.
+DR   Gene3D; 2.130.10.10; YVTN repeat-like/Quinoprotein amine dehydrogenase; 1.
+DR   InterPro; IPR000664; Lethal2_giant.
+DR   InterPro; IPR013577; LLGL2.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   PANTHER; PTHR10241; LETHAL 2 GIANT LARVAE PROTEIN; 1.
+DR   PANTHER; PTHR10241:SF21; LETHAL(2) GIANT LARVAE PROTEIN HOMOLOG 1; 1.
+DR   Pfam; PF08366; LLGL; 1.
+DR   Pfam; PF00400; WD40; 1.
+DR   PRINTS; PR00962; LETHAL2GIANT.
+DR   SMART; SM00320; WD40; 5.
+DR   SUPFAM; SSF50978; WD40 repeat-like; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 2.
+DR   PROSITE; PS50082; WD_REPEATS_2; 1.
+PE   1: Evidence at protein level;
+KW   Cell projection; Cytoplasm; Cytoskeleton; Endosome; Exocytosis;
+KW   Golgi apparatus; Membrane; Phosphoprotein; Reference proteome; Repeat;
+KW   WD repeat.
+FT   CHAIN           1..1064
+FT                   /note="Lethal(2) giant larvae protein homolog 1"
+FT                   /id="PRO_0000232725"
+FT   REPEAT          38..71
+FT                   /note="WD 1"
+FT   REPEAT          78..119
+FT                   /note="WD 2"
+FT   REPEAT          139..176
+FT                   /note="WD 3"
+FT   REPEAT          200..234
+FT                   /note="WD 4"
+FT   REPEAT          240..272
+FT                   /note="WD 5"
+FT   REPEAT          290..332
+FT                   /note="WD 6"
+FT   REPEAT          340..374
+FT                   /note="WD 7"
+FT   REPEAT          396..474
+FT                   /note="WD 8"
+FT   REPEAT          518..593
+FT                   /note="WD 9"
+FT   REPEAT          602..663
+FT                   /note="WD 10"
+FT   REPEAT          723..783
+FT                   /note="WD 11"
+FT   REPEAT          792..844
+FT                   /note="WD 12"
+FT   REPEAT          849..902
+FT                   /note="WD 13"
+FT   REPEAT          916..939
+FT                   /note="WD 14"
+FT   REGION          966..1010
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        966..983
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         663
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:12725730"
+FT   MOD_RES         958
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q80Y17"
+FT   MOD_RES         967
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q80Y17"
+FT   MOD_RES         985
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q80Y17"
+FT   VARIANT         148
+FT                   /note="S -> G (in dbSNP:rs2290505)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:7542763, ECO:0000269|PubMed:8565641"
+FT                   /id="VAR_058710"
+FT   VARIANT         550
+FT                   /note="Q -> H (in dbSNP:rs1063683)"
+FT                   /evidence="ECO:0000269|PubMed:7542763"
+FT                   /id="VAR_058711"
+FT   CONFLICT        5
+FT                   /note="R -> P (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        152
+FT                   /note="A -> G (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        159
+FT                   /note="S -> SS (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        194
+FT                   /note="A -> D (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        206
+FT                   /note="R -> Q (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        216
+FT                   /note="S -> D (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        223
+FT                   /note="W -> R (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        226..227
+FT                   /note="AS -> SR (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        337..338
+FT                   /note="TS -> HF (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        400
+FT                   /note="H -> Y (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        486
+FT                   /note="A -> S (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        580
+FT                   /note="P -> L (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        588
+FT                   /note="Q -> L (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        590
+FT                   /note="R -> C (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        624..629
+FT                   /note="FDYQRK -> L (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        686
+FT                   /note="Q -> L (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        781..782
+FT                   /note="EV -> KE (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        782
+FT                   /note="V -> L (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        799
+FT                   /note="Missing (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        818
+FT                   /note="D -> H (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        860
+FT                   /note="V -> VV (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        871
+FT                   /note="E -> R (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        894
+FT                   /note="Missing (in Ref. 2; BAA19516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        898
+FT                   /note="Q -> E (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        945
+FT                   /note="P -> G (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1060..1064
+FT                   /note="AILIK -> CI (in Ref. 1; CAA60130)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1064 AA;  115418 MW;  9318D6736934E4D5 CRC64;
+     MMKFRFRRQG ADPQREKLKQ ELFAFNKTVE HGFPNQPSAL AFDPELRIMA IGTRSGAVKI
+     YGAPGVEFTG LHRDAATVTQ MHFLTGQGRL LSLLDDSSLH LWEIVHHNGC AHLEEALSFQ
+     LPSRPGFDGA SAPLSLTRVT VVLLVAASDI AALGTEGSSV FFLDVTTLTL LEGQTLAPGE
+     VLRSVPDDYR CGKALGPVES LQGHLRDPTK ILIGYSRGLL VIWNQASQCV DHIFLGNQQL
+     ESLCWGRDSS TVVSSHSDGS YAVWSVDAGS FPTLQPTVAT TPYGPFPCKA INKILWRNCE
+     SGGHFIIFSG GMPRASYGDR HCVSVLRAET LVTLDFTSRI IDFFTVHSTR PEDEFDDPQA
+     LAVLLEEELV VLDLQTPGWP AVPAPYLAPL HSSAITCSAH VASVPAKLWA RIVSAGEQQS
+     PQPVSSALSW PITGGRNLAQ EPSQRGLLLT GHEDGTVRFW DASGVALRPL YKLSTAGLFQ
+     TDCEHADSLA QAAEDDWPPF RKVGCFDPYS DDPRLGVQKV ALCKYTAQMV VAGTAGQVLV
+     LELSDVPVEQ AVSVAIIDLL QDREGFTWKG HERLSPRTGP LPWPAGFQPR VLVQCLPPAA
+     VTAVTLHTEW SLVAFGTSHG FGLFDYQRKS PVLARCTLHP NDSLAMEGPL SRVKSLKKSL
+     RQSFRRIRKS RVSGKKRAAN ASSKLQEANA QLAEQACPHD VEMTPVQRRI EPRSADDSLS
+     GVVRCLYFAD TFLRDGAHHG PTMWAGTNSG SVFAYALEVP AAAVGGEKRP EQAVEAVLGK
+     EVQLMHRAPV VAIAVLDGRG RPLPEPYEAS RDLAQAPDMQ GGHAVLIASE EQFKVFTLPK
+     VSAKTKFKLT AHEGCRVRKV ALATFASVAC EDYAETCLAC LTNLGDVHVF SVPGLRPQVH
+     YSCIRKEDIS GIASCVFTRH GQGFYLISPS EFERFSLSAR NITEPLCSLD INWPRDATQA
+     SYRIRESPKL SQANGTPSIL LAPQSLDGSP DPAHSMGPDT PEPPEAALSP MSIDSATSAD
+     TTLDTTGDVT VEDVKDFLGS SEESEKNLRN LAEDEAHACA ILIK
+//

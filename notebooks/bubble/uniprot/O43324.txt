@@ -1,0 +1,383 @@
+ID   MCA3_HUMAN              Reviewed;         174 AA.
+AC   O43324; C9JLK5; Q5THS2;
+DT   18-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1998, sequence version 1.
+DT   28-JUN-2023, entry version 200.
+DE   RecName: Full=Eukaryotic translation elongation factor 1 epsilon-1;
+DE   AltName: Full=Aminoacyl tRNA synthetase complex-interacting multifunctional protein 3;
+DE   AltName: Full=Elongation factor p18;
+DE   AltName: Full=Multisynthase complex auxiliary component p18 {ECO:0000303|PubMed:19131329};
+GN   Name=EEF1E1; Synonyms=AIMP3, P18 {ECO:0000303|PubMed:15680327};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Testis;
+RA   Motegi H., Noda T., Shiba K.;
+RT   "Cloning of cDNA for human p18 from human testis.";
+RL   Submitted (FEB-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Umbilical cord blood;
+RX   PubMed=9653160; DOI=10.1073/pnas.95.14.8175;
+RA   Mao M., Fu G., Wu J.-S., Zhang Q.-H., Zhou J., Kan L.-X., Huang Q.-H.,
+RA   He K.-L., Gu B.-W., Han Z.-G., Shen Y., Gu J., Yu Y.-P., Xu S.-H.,
+RA   Wang Y.-X., Chen S.-J., Chen Z.;
+RT   "Identification of genes expressed in human CD34(+) hematopoietic
+RT   stem/progenitor cells by expressed sequence tags and efficient full-length
+RT   cDNA cloning.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:8175-8180(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Brain cortex, and Urinary bladder;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 2-12 AND 79-88, CLEAVAGE OF INITIATOR METHIONINE,
+RP   ACETYLATION AT ALA-2, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Cervix carcinoma, and Ovarian carcinoma;
+RA   Bienvenut W.V., Calvo F., Lilla S., von Kriegsheim A., Lempens A.,
+RA   Kolch W.;
+RL   Submitted (DEC-2008) to UniProtKB.
+RN   [7]
+RP   INTERACTION WITH ATM, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=15680327; DOI=10.1016/j.cell.2004.11.054;
+RA   Park B.-J., Kang J.W., Lee S.W., Choi S.-J., Shin Y.K., Ahn Y.H.,
+RA   Choi Y.H., Choi D., Lee K.S., Kim S.;
+RT   "The haploinsufficient tumor suppressor p18 upregulates p53 via
+RT   interactions with ATM/ATR.";
+RL   Cell 120:209-221(2005).
+RN   [8]
+RP   SUBUNIT, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=19131329; DOI=10.1074/jbc.m809636200;
+RA   Kaminska M., Havrylenko S., Decottignies P., Gillet S., Le Marechal P.,
+RA   Negrutskii B., Mirande M.;
+RT   "Dissection of the structural organization of the aminoacyl-tRNA synthetase
+RT   complex.";
+RL   J. Biol. Chem. 284:6053-6060(2009).
+RN   [9]
+RP   SUBCELLULAR LOCATION, AND SUBUNIT.
+RX   PubMed=19289464; DOI=10.1074/jbc.m900480200;
+RA   Kaminska M., Havrylenko S., Decottignies P., Le Marechal P., Negrutskii B.,
+RA   Mirande M.;
+RT   "Dynamic Organization of Aminoacyl-tRNA Synthetase Complexes in the
+RT   Cytoplasm of Human Cells.";
+RL   J. Biol. Chem. 284:13746-13754(2009).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-138, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS), DOMAIN ARCHITECTURE, AND COILED-COIL
+RP   DOMAIN.
+RX   PubMed=18343821; DOI=10.1074/jbc.m800859200;
+RA   Kim K.J., Park M.C., Choi S.J., Oh Y.S., Choi E.C., Cho H.J., Kim M.H.,
+RA   Kim S.H., Kim D.W., Kim S., Kang B.S.;
+RT   "Determination of three-dimensional structure and residues of the novel
+RT   tumor suppressor AIMP3/p18 required for the interaction with ATM.";
+RL   J. Biol. Chem. 283:14032-14040(2008).
+RN   [13] {ECO:0007744|PDB:4BVX, ECO:0007744|PDB:5BMU}
+RP   X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) OF 1-169 IN COMPLEX WITH MARS1,
+RP   SUBUNIT, INTERACTION WITH MARS1 AND EPRS1, AND MUTAGENESIS OF ALA-69;
+RP   GLN-73 AND ARG-144.
+RX   PubMed=26472928; DOI=10.1074/jbc.m115.690867;
+RA   Cho H.Y., Maeng S.J., Cho H.J., Choi Y.S., Chung J.M., Lee S., Kim H.K.,
+RA   Kim J.H., Eom C.Y., Kim Y.G., Guo M., Jung H.S., Kang B.S., Kim S.;
+RT   "Assembly of Multi-tRNA Synthetase Complex via Heterotetrameric Glutathione
+RT   Transferase-homology Domains.";
+RL   J. Biol. Chem. 290:29313-29328(2015).
+CC   -!- FUNCTION: Positive modulator of ATM response to DNA damage.
+CC       {ECO:0000250|UniProtKB:Q9D1M4}.
+CC   -!- SUBUNIT: Part of a multisubunit complex that groups tRNA ligases for
+CC       Arg (RARS1), Asp (DARS1), Gln (QARS1), Ile (IARS1), Leu (LARS1), Lys
+CC       (KARS1), Met (MARS1) the bifunctional ligase for Glu and Pro (EPRS1)
+CC       and the auxiliary subunits AIMP1/p43, AIMP2/p38 and EEF1E1/p18
+CC       (PubMed:19131329, PubMed:19289464). Can interact simultaneously with
+CC       MARS1 and EPRS1 (PubMed:26472928). Forms a linear complex that contains
+CC       MARS1, EEF1E1, EPRS1 and AIMP2 that is at the core of the multisubunit
+CC       complex (PubMed:26472928). Interacts with ATM and ATR. The interaction
+CC       with ATM, which takes place independently of TP53, is induced by DNA
+CC       damage that may occur during genotoxic stress or cell growth. The
+CC       interaction with ATR is enhanced by UV irradiation.
+CC       {ECO:0000269|PubMed:15680327, ECO:0000269|PubMed:19131329,
+CC       ECO:0000269|PubMed:19289464, ECO:0000269|PubMed:26472928}.
+CC   -!- INTERACTION:
+CC       O43324; Q13137: CALCOCO2; NbExp=3; IntAct=EBI-1048486, EBI-739580;
+CC       O43324; Q9BTE0: NAT9; NbExp=4; IntAct=EBI-1048486, EBI-711919;
+CC       O43324; PRO_0000038593 [P04591]: gag; Xeno; NbExp=4; IntAct=EBI-1048486, EBI-6179719;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:15680327}.
+CC       Cytoplasm, cytosol {ECO:0000269|PubMed:19289464}. Nucleus
+CC       {ECO:0000269|PubMed:15680327}. Note=Cytoplasmic under growth arrest
+CC       conditions. Translocated into the nucleus when growth resumes (S phase)
+CC       and following DNA damage.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=O43324-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O43324-2; Sequence=VSP_045088;
+CC   -!- TISSUE SPECIFICITY: Down-regulated in various cancer tissues.
+CC       {ECO:0000269|PubMed:15680327}.
+CC   -!- INDUCTION: By DNA damaging agents such as UV, adriamycin, actinomycin-D
+CC       and cisplatin.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB011079; BAA24926.1; -; mRNA.
+DR   EMBL; AF054186; AAC39916.1; -; mRNA.
+DR   EMBL; BT007306; AAP35970.1; -; mRNA.
+DR   EMBL; AL355499; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL023694; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL451187; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC005291; AAH05291.1; -; mRNA.
+DR   EMBL; CK002875; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS4507.1; -. [O43324-1]
+DR   CCDS; CCDS47370.1; -. [O43324-2]
+DR   RefSeq; NP_001129122.1; NM_001135650.1. [O43324-2]
+DR   RefSeq; NP_004271.1; NM_004280.4. [O43324-1]
+DR   PDB; 2UZ8; X-ray; 2.00 A; A/B=1-174.
+DR   PDB; 4BL7; X-ray; 1.89 A; B=1-174.
+DR   PDB; 4BVX; X-ray; 1.60 A; B=1-169.
+DR   PDB; 4BVY; X-ray; 1.99 A; B=1-174.
+DR   PDB; 5BMU; X-ray; 2.60 A; A/C/E/G=1-169.
+DR   PDB; 5Y6L; X-ray; 2.90 A; B=1-174.
+DR   PDBsum; 2UZ8; -.
+DR   PDBsum; 4BL7; -.
+DR   PDBsum; 4BVX; -.
+DR   PDBsum; 4BVY; -.
+DR   PDBsum; 5BMU; -.
+DR   PDBsum; 5Y6L; -.
+DR   AlphaFoldDB; O43324; -.
+DR   SMR; O43324; -.
+DR   BioGRID; 114898; 124.
+DR   ComplexPortal; CPX-2469; Multiaminoacyl-tRNA synthetase complex.
+DR   CORUM; O43324; -.
+DR   DIP; DIP-50581N; -.
+DR   IntAct; O43324; 43.
+DR   MINT; O43324; -.
+DR   STRING; 9606.ENSP00000369038; -.
+DR   GlyGen; O43324; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; O43324; -.
+DR   PhosphoSitePlus; O43324; -.
+DR   SwissPalm; O43324; -.
+DR   BioMuta; EEF1E1; -.
+DR   EPD; O43324; -.
+DR   jPOST; O43324; -.
+DR   MassIVE; O43324; -.
+DR   MaxQB; O43324; -.
+DR   PaxDb; O43324; -.
+DR   PeptideAtlas; O43324; -.
+DR   ProteomicsDB; 10721; -.
+DR   ProteomicsDB; 48904; -. [O43324-1]
+DR   TopDownProteomics; O43324-1; -. [O43324-1]
+DR   TopDownProteomics; O43324-2; -. [O43324-2]
+DR   Antibodypedia; 24724; 230 antibodies from 31 providers.
+DR   DNASU; 9521; -.
+DR   Ensembl; ENST00000379715.10; ENSP00000369038.5; ENSG00000124802.12. [O43324-1]
+DR   Ensembl; ENST00000429723.6; ENSP00000414363.2; ENSG00000124802.12. [O43324-2]
+DR   GeneID; 9521; -.
+DR   KEGG; hsa:9521; -.
+DR   MANE-Select; ENST00000379715.10; ENSP00000369038.5; NM_004280.5; NP_004271.1.
+DR   UCSC; uc003mxz.4; human. [O43324-1]
+DR   AGR; HGNC:3212; -.
+DR   CTD; 9521; -.
+DR   DisGeNET; 9521; -.
+DR   GeneCards; EEF1E1; -.
+DR   HGNC; HGNC:3212; EEF1E1.
+DR   HPA; ENSG00000124802; Low tissue specificity.
+DR   MIM; 609206; gene.
+DR   neXtProt; NX_O43324; -.
+DR   OpenTargets; ENSG00000124802; -.
+DR   PharmGKB; PA27648; -.
+DR   VEuPathDB; HostDB:ENSG00000124802; -.
+DR   eggNOG; KOG0867; Eukaryota.
+DR   GeneTree; ENSGT00390000003564; -.
+DR   HOGENOM; CLU_098079_0_0_1; -.
+DR   InParanoid; O43324; -.
+DR   OMA; NWATGTH; -.
+DR   OrthoDB; 2950728at2759; -.
+DR   PhylomeDB; O43324; -.
+DR   TreeFam; TF326005; -.
+DR   PathwayCommons; O43324; -.
+DR   Reactome; R-HSA-2408522; Selenoamino acid metabolism.
+DR   Reactome; R-HSA-379716; Cytosolic tRNA aminoacylation.
+DR   SignaLink; O43324; -.
+DR   SIGNOR; O43324; -.
+DR   BioGRID-ORCS; 9521; 74 hits in 1153 CRISPR screens.
+DR   EvolutionaryTrace; O43324; -.
+DR   GeneWiki; EEF1E1; -.
+DR   GenomeRNAi; 9521; -.
+DR   Pharos; O43324; Tbio.
+DR   PRO; PR:O43324; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; O43324; protein.
+DR   Bgee; ENSG00000124802; Expressed in pons and 206 other tissues.
+DR   ExpressionAtlas; O43324; baseline and differential.
+DR   Genevisible; O43324; HS.
+DR   GO; GO:0017101; C:aminoacyl-tRNA synthetase multienzyme complex; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:1990830; P:cellular response to leukemia inhibitory factor; IEA:Ensembl.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; ISS:UniProtKB.
+DR   GO; GO:0043065; P:positive regulation of apoptotic process; ISS:UniProtKB.
+DR   GO; GO:2001235; P:positive regulation of apoptotic signaling pathway; IEA:Ensembl.
+DR   GO; GO:2000774; P:positive regulation of cellular senescence; IDA:BHF-UCL.
+DR   GO; GO:0043517; P:positive regulation of DNA damage response, signal transduction by p53 class mediator; ISS:UniProtKB.
+DR   GO; GO:0006412; P:translation; IEA:UniProtKB-KW.
+DR   CDD; cd10305; GST_C_AIMP3; 1.
+DR   Gene3D; 1.20.1050.10; -; 1.
+DR   Gene3D; 3.40.30.90; -; 1.
+DR   InterPro; IPR042450; EEF1E1.
+DR   InterPro; IPR010987; Glutathione-S-Trfase_C-like.
+DR   InterPro; IPR036282; Glutathione-S-Trfase_C_sf.
+DR   InterPro; IPR004046; GST_C.
+DR   PANTHER; PTHR44490; EUKARYOTIC TRANSLATION ELONGATION FACTOR 1 EPSILON-1; 1.
+DR   PANTHER; PTHR44490:SF1; EUKARYOTIC TRANSLATION ELONGATION FACTOR 1 EPSILON-1; 1.
+DR   Pfam; PF00043; GST_C; 1.
+DR   SUPFAM; SSF47616; GST C-terminal domain-like; 1.
+DR   PROSITE; PS50405; GST_CTER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Coiled coil; Cytoplasm;
+KW   Direct protein sequencing; Nucleus; Protein biosynthesis;
+KW   Reference proteome.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT   CHAIN           2..174
+FT                   /note="Eukaryotic translation elongation factor 1 epsilon-
+FT                   1"
+FT                   /id="PRO_0000221132"
+FT   DOMAIN          50..173
+FT                   /note="GST C-terminal"
+FT   REGION          2..56
+FT                   /note="N-terminal"
+FT   REGION          57..63
+FT                   /note="Linker"
+FT   REGION          64..152
+FT                   /note="C-terminal"
+FT   COILED          153..169
+FT                   /evidence="ECO:0000269|PubMed:18343821"
+FT   MOD_RES         2
+FT                   /note="N-acetylalanine"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT   MOD_RES         138
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   VAR_SEQ         129..174
+FT                   /note="VDLTVQEKEKYLNVSRWFCHIQHYPGIRQHLSSVVFIKNRLYTNSH -> IR
+FT                   KLRHTEVGN (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_045088"
+FT   MUTAGEN         69
+FT                   /note="A->R: Disrupts interaction with MARS1."
+FT                   /evidence="ECO:0000269|PubMed:26472928"
+FT   MUTAGEN         73
+FT                   /note="Q->R: Disrupts interaction with MARS1."
+FT                   /evidence="ECO:0000269|PubMed:26472928"
+FT   MUTAGEN         144
+FT                   /note="R->A: Disrupts interaction with EPRS1."
+FT                   /evidence="ECO:0000269|PubMed:26472928"
+FT   HELIX           3..14
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   STRAND          22..25
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   TURN            26..29
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   STRAND          30..34
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   STRAND          36..39
+FT                   /evidence="ECO:0007829|PDB:5BMU"
+FT   STRAND          40..43
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   HELIX           44..54
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   HELIX           58..61
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   HELIX           65..80
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   TURN            81..84
+FT                   /evidence="ECO:0007829|PDB:4BVY"
+FT   HELIX           85..101
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   HELIX           102..104
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   STRAND          110..112
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   HELIX           115..128
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   HELIX           133..138
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   HELIX           140..151
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+FT   TURN            153..155
+FT                   /evidence="ECO:0007829|PDB:4BVX"
+SQ   SEQUENCE   174 AA;  19811 MW;  58AAE4BD9E1684E2 CRC64;
+     MAAAAELSLL EKSLGLSKGN KYSAQGERQI PVLQTNNGPS LTGLTTIAAH LVKQANKEYL
+     LGSTAEEKAI VQQWLEYRVT QVDGHSSKND IHTLLKDLNS YLEDKVYLTG YNFTLADILL
+     YYGLHRFIVD LTVQEKEKYL NVSRWFCHIQ HYPGIRQHLS SVVFIKNRLY TNSH
+//

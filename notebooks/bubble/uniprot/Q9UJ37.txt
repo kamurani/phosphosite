@@ -1,0 +1,326 @@
+ID   SIA7B_HUMAN             Reviewed;         374 AA.
+AC   Q9UJ37; Q12971;
+DT   11-JUL-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   28-JUN-2023, entry version 172.
+DE   RecName: Full=Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2;
+DE            EC=2.4.3.3 {ECO:0000269|PubMed:10742600, ECO:0000269|PubMed:29251719};
+DE   AltName: Full=GalNAc alpha-2,6-sialyltransferase II;
+DE   AltName: Full=ST6GalNAc II {ECO:0000303|PubMed:10742600};
+DE            Short=ST6GalNAcII {ECO:0000303|PubMed:29251719};
+DE   AltName: Full=SThM;
+DE   AltName: Full=Sialyltransferase 7B;
+DE            Short=SIAT7-B;
+GN   Name=ST6GALNAC2; Synonyms=SIAT7B, SIATL1, STHM;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, CATALYTIC ACTIVITY, PATHWAY,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, AND TISSUE SPECIFICITY.
+RX   PubMed=10742600; DOI=10.1016/s0304-4165(00)00020-9;
+RA   Samyn-Petit B., Krzewinski-Recchi M.A., Steelant W.F.A., Delannoy P.,
+RA   Harduin-Lepers A.;
+RT   "Molecular cloning and functional expression of human ST6GalNAc II.
+RT   Molecular expression in various human cultured cells.";
+RL   Biochim. Biophys. Acta 1474:201-211(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Mammary gland;
+RA   Sotiropoulou G., Anisowicz A., Sager R.;
+RT   "Isolation and cloning from human mammary epithelial cells of a complete
+RT   cDNA sequence homologous to other known sialyltransferases.";
+RL   Submitted (SEP-1994) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5] {ECO:0007744|PDB:6APJ, ECO:0007744|PDB:6APL}
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) IN COMPLEX WITH CMP, FUNCTION,
+RP   CATALYTIC ACTIVITY, PATHWAY, BIOPHYSICOCHEMICAL PROPERTIES, GLYCOSYLATION
+RP   AT ASN-85; ASN-130 AND ASN-161, AND DISULFIDE BONDS.
+RX   PubMed=29251719; DOI=10.1038/nchembio.2539;
+RA   Moremen K.W., Ramiah A., Stuart M., Steel J., Meng L., Forouhar F.,
+RA   Moniz H.A., Gahlay G., Gao Z., Chapla D., Wang S., Yang J.Y.,
+RA   Prabhakar P.K., Johnson R., Rosa M.D., Geisler C., Nairn A.V.,
+RA   Seetharaman J., Wu S.C., Tong L., Gilbert H.J., LaBaer J., Jarvis D.L.;
+RT   "Expression system for structural and functional studies of human
+RT   glycosylation enzymes.";
+RL   Nat. Chem. Biol. 14:156-162(2018).
+RN   [6]
+RP   INVOLVEMENT IN IGA NEPHROPATHY.
+RX   PubMed=19357720; DOI=10.1038/ki.2009.99;
+RA   Zhu L., Tang W., Li G., Lv J., Ding J., Yu L., Zhao M., Li Y., Zhang X.,
+RA   Shen Y., Zhang H., Wang H.;
+RT   "Interaction between variants of two glycosyltransferase genes in IgA
+RT   nephropathy.";
+RL   Kidney Int. 76:190-198(2009).
+CC   -!- FUNCTION: Catalyzes the transfer of N-acetylneuraminyl groups onto
+CC       glycan chains in glycoproteins (PubMed:10742600, PubMed:29251719).
+CC       Shows a preference for N-acetylgalactosamine (GalNAc) residues already
+CC       modified by the addition of galactose or galactose followed by sialic
+CC       acid in alpha-2,3 linkage (PubMed:10742600).
+CC       {ECO:0000269|PubMed:10742600, ECO:0000269|PubMed:29251719}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a beta-D-galactosyl-(1->3)-N-acetyl-alpha-D-galactosaminyl
+CC         derivative + CMP-N-acetyl-beta-neuraminate = a beta-D-galactosyl-
+CC         (1->3)-[N-acetyl-alpha-neuraminyl-(2->6)]-N-acetyl-alpha-D-
+CC         galactosaminyl derivative + CMP + H(+); Xref=Rhea:RHEA:11136,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:57812, ChEBI:CHEBI:60377,
+CC         ChEBI:CHEBI:133470, ChEBI:CHEBI:140764; EC=2.4.3.3;
+CC         Evidence={ECO:0000269|PubMed:10742600, ECO:0000269|PubMed:29251719};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:11137;
+CC         Evidence={ECO:0000269|PubMed:10742600, ECO:0000269|PubMed:29251719};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=130 uM for CMP-N-acetylneuraminate {ECO:0000269|PubMed:10742600};
+CC         KM=104 uM for CMP-N-acetylneuraminate {ECO:0000269|PubMed:29251719};
+CC   -!- PATHWAY: Protein modification; protein glycosylation.
+CC       {ECO:0000269|PubMed:10742600, ECO:0000269|PubMed:29251719}.
+CC   -!- SUBCELLULAR LOCATION: Golgi apparatus membrane {ECO:0000305}; Single-
+CC       pass type II membrane protein {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Expressed in skeletal muscle, heart, kidney,
+CC       placenta, lung and leukocytes. {ECO:0000269|PubMed:10742600}.
+CC   -!- MISCELLANEOUS: Aberrant O-galactosylation of IgA1 molecules plays a
+CC       role in the development and progression of IgA nephropathy (IgAN).
+CC       Genetic interactions of C1GALT1 and ST6GALNAC2 variants influence IgA1
+CC       O-glycosylation, disease predisposition, and disease severity, and may
+CC       contribute to the polygenic nature of IgAN.
+CC   -!- SIMILARITY: Belongs to the glycosyltransferase 29 family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Functional Glycomics Gateway - GTase; Note=ST6GalNAc
+CC       II;
+CC       URL="http://www.functionalglycomics.org/glycomics/molecule/jsp/glycoEnzyme/viewGlycoEnzyme.jsp?gbpId=gt_hum_631";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ251053; CAB61434.1; -; mRNA.
+DR   EMBL; U14550; AAA52228.1; -; mRNA.
+DR   EMBL; BT019972; AAV38775.1; -; mRNA.
+DR   EMBL; BC040455; AAH40455.1; -; mRNA.
+DR   CCDS; CCDS11747.1; -.
+DR   RefSeq; NP_006447.2; NM_006456.2.
+DR   PDB; 6APJ; X-ray; 3.10 A; A/B/C/D/E/F=1-374.
+DR   PDB; 6APL; X-ray; 2.35 A; A/B/C/D/E/F=1-374.
+DR   PDBsum; 6APJ; -.
+DR   PDBsum; 6APL; -.
+DR   AlphaFoldDB; Q9UJ37; -.
+DR   SMR; Q9UJ37; -.
+DR   BioGRID; 115856; 3.
+DR   IntAct; Q9UJ37; 1.
+DR   MINT; Q9UJ37; -.
+DR   STRING; 9606.ENSP00000225276; -.
+DR   CAZy; GT29; Glycosyltransferase Family 29.
+DR   GlyCosmos; Q9UJ37; 4 sites, 1 glycan.
+DR   GlyGen; Q9UJ37; 4 sites, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9UJ37; -.
+DR   PhosphoSitePlus; Q9UJ37; -.
+DR   BioMuta; ST6GALNAC2; -.
+DR   DMDM; 21759448; -.
+DR   EPD; Q9UJ37; -.
+DR   MassIVE; Q9UJ37; -.
+DR   MaxQB; Q9UJ37; -.
+DR   PaxDb; Q9UJ37; -.
+DR   PeptideAtlas; Q9UJ37; -.
+DR   ProteomicsDB; 84582; -.
+DR   Antibodypedia; 32441; 114 antibodies from 20 providers.
+DR   DNASU; 10610; -.
+DR   Ensembl; ENST00000225276.10; ENSP00000225276.4; ENSG00000070731.11.
+DR   GeneID; 10610; -.
+DR   KEGG; hsa:10610; -.
+DR   MANE-Select; ENST00000225276.10; ENSP00000225276.4; NM_006456.3; NP_006447.2.
+DR   UCSC; uc002jsg.5; human.
+DR   AGR; HGNC:10867; -.
+DR   CTD; 10610; -.
+DR   DisGeNET; 10610; -.
+DR   GeneCards; ST6GALNAC2; -.
+DR   HGNC; HGNC:10867; ST6GALNAC2.
+DR   HPA; ENSG00000070731; Low tissue specificity.
+DR   MIM; 610137; gene.
+DR   neXtProt; NX_Q9UJ37; -.
+DR   OpenTargets; ENSG00000070731; -.
+DR   PharmGKB; PA35769; -.
+DR   VEuPathDB; HostDB:ENSG00000070731; -.
+DR   eggNOG; KOG2692; Eukaryota.
+DR   GeneTree; ENSGT00940000160433; -.
+DR   HOGENOM; CLU_032020_0_0_1; -.
+DR   InParanoid; Q9UJ37; -.
+DR   OMA; MGSPHWK; -.
+DR   OrthoDB; 5348004at2759; -.
+DR   PhylomeDB; Q9UJ37; -.
+DR   TreeFam; TF354325; -.
+DR   BRENDA; 2.4.99.3; 2681.
+DR   PathwayCommons; Q9UJ37; -.
+DR   Reactome; R-HSA-4085001; Sialic acid metabolism.
+DR   Reactome; R-HSA-9683673; Maturation of protein 3a.
+DR   Reactome; R-HSA-9694548; Maturation of spike protein.
+DR   Reactome; R-HSA-9694719; Maturation of protein 3a.
+DR   Reactome; R-HSA-977068; Termination of O-glycan biosynthesis.
+DR   SignaLink; Q9UJ37; -.
+DR   UniPathway; UPA00378; -.
+DR   BioGRID-ORCS; 10610; 7 hits in 1137 CRISPR screens.
+DR   ChiTaRS; ST6GALNAC2; human.
+DR   GeneWiki; ST6GALNAC2; -.
+DR   GenomeRNAi; 10610; -.
+DR   Pharos; Q9UJ37; Tbio.
+DR   PRO; PR:Q9UJ37; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q9UJ37; protein.
+DR   Bgee; ENSG00000070731; Expressed in tibial nerve and 98 other tissues.
+DR   ExpressionAtlas; Q9UJ37; baseline and differential.
+DR   Genevisible; Q9UJ37; HS.
+DR   GO; GO:0000139; C:Golgi membrane; TAS:Reactome.
+DR   GO; GO:0001665; F:alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0008373; F:sialyltransferase activity; TAS:Reactome.
+DR   GO; GO:0016266; P:O-glycan processing; TAS:Reactome.
+DR   GO; GO:0006486; P:protein glycosylation; IDA:UniProtKB.
+DR   GO; GO:0006493; P:protein O-linked glycosylation; IDA:UniProtKB.
+DR   GO; GO:1990743; P:protein sialylation; IDA:UniProtKB.
+DR   GO; GO:0019082; P:viral protein processing; TAS:Reactome.
+DR   Gene3D; 3.90.1480.20; Glycosyl transferase family 29; 1.
+DR   InterPro; IPR001675; Glyco_trans_29.
+DR   InterPro; IPR038578; GT29-like_sf.
+DR   InterPro; IPR012163; Sialyl_trans.
+DR   PANTHER; PTHR45941; -; 1.
+DR   PANTHER; PTHR45941:SF5; ALPHA-N-ACETYLGALACTOSAMINIDE ALPHA-2,6-SIALYLTRANSFERASE 2; 1.
+DR   Pfam; PF00777; Glyco_transf_29; 1.
+DR   PIRSF; PIRSF005557; Sialyl_trans; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Disulfide bond; Glycoprotein; Glycosyltransferase;
+KW   Golgi apparatus; Membrane; Reference proteome; Signal-anchor; Transferase;
+KW   Transmembrane; Transmembrane helix.
+FT   CHAIN           1..374
+FT                   /note="Alpha-N-acetylgalactosaminide alpha-2,6-
+FT                   sialyltransferase 2"
+FT                   /id="PRO_0000149272"
+FT   TOPO_DOM        1..7
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        8..28
+FT                   /note="Helical; Signal-anchor for type II membrane protein"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        29..374
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         156
+FT                   /ligand="CMP-N-acetyl-beta-neuraminate"
+FT                   /ligand_id="ChEBI:CHEBI:57812"
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APL"
+FT   BINDING         179
+FT                   /ligand="CMP-N-acetyl-beta-neuraminate"
+FT                   /ligand_id="ChEBI:CHEBI:57812"
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APL"
+FT   BINDING         304
+FT                   /ligand="CMP-N-acetyl-beta-neuraminate"
+FT                   /ligand_id="ChEBI:CHEBI:57812"
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APL"
+FT   BINDING         336
+FT                   /ligand="CMP-N-acetyl-beta-neuraminate"
+FT                   /ligand_id="ChEBI:CHEBI:57812"
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APL"
+FT   CARBOHYD        85
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APL"
+FT   CARBOHYD        130
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APL"
+FT   CARBOHYD        161
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APL"
+FT   DISULFID        66..148
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APJ, ECO:0007744|PDB:6APL"
+FT   DISULFID        151..317
+FT                   /evidence="ECO:0000269|PubMed:29251719,
+FT                   ECO:0007744|PDB:6APJ, ECO:0007744|PDB:6APL"
+FT   CONFLICT        11
+FT                   /note="L -> V (in Ref. 2; AAA52228)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           70..76
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           78..81
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           94..96
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           99..105
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           110..112
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           119..128
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           132..135
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   STRAND          150..154
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           158..160
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   TURN            161..163
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           166..171
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   STRAND          172..180
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   TURN            184..186
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           187..190
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   STRAND          195..199
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           201..210
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   TURN            212..215
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   STRAND          226..229
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           234..245
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   TURN            253..256
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           259..263
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   TURN            269..271
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   STRAND          272..275
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           277..286
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           305..316
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   STRAND          318..324
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   HELIX           328..332
+FT                   /evidence="ECO:0007829|PDB:6APL"
+FT   STRAND          339..341
+FT                   /evidence="ECO:0007829|PDB:6APJ"
+FT   HELIX           353..365
+FT                   /evidence="ECO:0007829|PDB:6APL"
+SQ   SEQUENCE   374 AA;  41939 MW;  E0BD439E4C6BB427 CRC64;
+     MGLPRGSFFW LLLLLTAACS GLLFALYFSA VQRYPGPAAG ARDTTSFEAF FQSKASNSWT
+     GKGQACRHLL HLAIQRHPHF RGLFNLSIPV LLWGDLFTPA LWDRLSQHKA PYGWRGLSHQ
+     VIASTLSLLN GSESAKLFAP PRDTPPKCIR CAVVGNGGIL NGSRQGPNID AHDYVFRLNG
+     AVIKGFERDV GTKTSFYGFT VNTMKNSLVS YWNLGFTSVP QGQDLQYIFI PSDIRDYVML
+     RSAILGVPVP EGLDKGDRPH AYFGPEASAS KFKLLHPDFI SYLTERFLKS KLINTHFGDL
+     YMPSTGALML LTALHTCDQV SAYGFITSNY WKFSDHYFER KMKPLIFYAN HDLSLEAALW
+     RDLHKAGILQ LYQR
+//

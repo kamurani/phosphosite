@@ -1,0 +1,301 @@
+ID   DDX43_HUMAN             Reviewed;         648 AA.
+AC   Q9NXZ2; B4E0C8; Q6NXR1;
+DT   25-OCT-2005, integrated into UniProtKB/Swiss-Prot.
+DT   17-APR-2007, sequence version 2.
+DT   28-JUN-2023, entry version 171.
+DE   RecName: Full=Probable ATP-dependent RNA helicase DDX43;
+DE            EC=3.6.4.13;
+DE   AltName: Full=Cancer/testis antigen 13;
+DE            Short=CT13;
+DE   AltName: Full=DEAD box protein 43;
+DE   AltName: Full=DEAD box protein HAGE;
+DE   AltName: Full=Helical antigen;
+GN   Name=DDX43; Synonyms=HAGE;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), VARIANTS GLU-625 AND ARG-629, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=10919659;
+RA   Martelange V.M.F., De Smet C., De Plaen E., Lurquin C., Boon T.;
+RT   "Identification on a human sarcoma of two new genes with tumor-specific
+RT   expression.";
+RL   Cancer Res. 60:3848-3855(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANTS GLU-625
+RP   AND ARG-629.
+RC   TISSUE=Testis;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Thymus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.13;
+CC   -!- INTERACTION:
+CC       Q9NXZ2; A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-10316543, EBI-3867333;
+CC       Q9NXZ2; P60410: KRTAP10-8; NbExp=3; IntAct=EBI-10316543, EBI-10171774;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9NXZ2-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9NXZ2-2; Sequence=VSP_056955, VSP_056956;
+CC   -!- TISSUE SPECIFICITY: Expressed in testis. Expressed in many tumors of
+CC       various histological types at a level that is 100-fold higher than the
+CC       level observed in normal tissues except testis.
+CC       {ECO:0000269|PubMed:10919659}.
+CC   -!- SIMILARITY: Belongs to the DEAD box helicase family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/40288/DDX43";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ278110; CAB92442.1; -; mRNA.
+DR   EMBL; AL136751; CAB66685.1; -; mRNA.
+DR   EMBL; AK303324; BAG64390.1; -; mRNA.
+DR   EMBL; AC019205; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC066938; AAH66938.1; -; mRNA.
+DR   CCDS; CCDS4977.1; -. [Q9NXZ2-1]
+DR   RefSeq; NP_061135.2; NM_018665.2. [Q9NXZ2-1]
+DR   AlphaFoldDB; Q9NXZ2; -.
+DR   SMR; Q9NXZ2; -.
+DR   BioGRID; 120690; 21.
+DR   IntAct; Q9NXZ2; 6.
+DR   MINT; Q9NXZ2; -.
+DR   STRING; 9606.ENSP00000359361; -.
+DR   GlyGen; Q9NXZ2; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9NXZ2; -.
+DR   PhosphoSitePlus; Q9NXZ2; -.
+DR   BioMuta; DDX43; -.
+DR   DMDM; 145559466; -.
+DR   EPD; Q9NXZ2; -.
+DR   MassIVE; Q9NXZ2; -.
+DR   MaxQB; Q9NXZ2; -.
+DR   PaxDb; Q9NXZ2; -.
+DR   PeptideAtlas; Q9NXZ2; -.
+DR   ProteomicsDB; 5666; -.
+DR   ProteomicsDB; 83146; -. [Q9NXZ2-1]
+DR   Antibodypedia; 31333; 159 antibodies from 25 providers.
+DR   DNASU; 55510; -.
+DR   Ensembl; ENST00000370336.5; ENSP00000359361.4; ENSG00000080007.8. [Q9NXZ2-1]
+DR   GeneID; 55510; -.
+DR   KEGG; hsa:55510; -.
+DR   MANE-Select; ENST00000370336.5; ENSP00000359361.4; NM_018665.3; NP_061135.2.
+DR   UCSC; uc003pgw.4; human. [Q9NXZ2-1]
+DR   AGR; HGNC:18677; -.
+DR   CTD; 55510; -.
+DR   DisGeNET; 55510; -.
+DR   GeneCards; DDX43; -.
+DR   HGNC; HGNC:18677; DDX43.
+DR   HPA; ENSG00000080007; Group enriched (placenta, testis).
+DR   MIM; 606286; gene.
+DR   neXtProt; NX_Q9NXZ2; -.
+DR   OpenTargets; ENSG00000080007; -.
+DR   PharmGKB; PA134988734; -.
+DR   VEuPathDB; HostDB:ENSG00000080007; -.
+DR   eggNOG; KOG0336; Eukaryota.
+DR   GeneTree; ENSGT00940000164259; -.
+DR   HOGENOM; CLU_003041_16_8_1; -.
+DR   InParanoid; Q9NXZ2; -.
+DR   OMA; GESITFM; -.
+DR   OrthoDB; 5477821at2759; -.
+DR   PhylomeDB; Q9NXZ2; -.
+DR   TreeFam; TF312949; -.
+DR   PathwayCommons; Q9NXZ2; -.
+DR   SignaLink; Q9NXZ2; -.
+DR   BioGRID-ORCS; 55510; 15 hits in 1148 CRISPR screens.
+DR   ChiTaRS; DDX43; human.
+DR   GeneWiki; DDX43; -.
+DR   GenomeRNAi; 55510; -.
+DR   Pharos; Q9NXZ2; Tbio.
+DR   PRO; PR:Q9NXZ2; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q9NXZ2; protein.
+DR   Bgee; ENSG00000080007; Expressed in oocyte and 113 other tissues.
+DR   Genevisible; Q9NXZ2; HS.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0003723; F:RNA binding; IBA:GO_Central.
+DR   GO; GO:0003724; F:RNA helicase activity; IBA:GO_Central.
+DR   CDD; cd17958; DEADc_DDX43_DDX53; 1.
+DR   CDD; cd22430; KH-I_DDX43_DDX53; 1.
+DR   CDD; cd18787; SF2_C_DEAD; 1.
+DR   Gene3D; 3.30.1370.10; K Homology domain, type 1; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR004087; KH_dom.
+DR   InterPro; IPR004088; KH_dom_type_1.
+DR   InterPro; IPR036612; KH_dom_type_1_sf.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR000629; RNA-helicase_DEAD-box_CS.
+DR   InterPro; IPR014014; RNA_helicase_DEAD_Q_motif.
+DR   PANTHER; PTHR47958; ATP-DEPENDENT RNA HELICASE DBP3; 1.
+DR   PANTHER; PTHR47958:SF17; ATP-DEPENDENT RNA HELICASE DDX43-RELATED; 1.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF00013; KH_1; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SMART; SM00322; KH; 1.
+DR   SUPFAM; SSF54791; Eukaryotic type KH-domain (KH-domain type I); 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS00039; DEAD_ATP_HELICASE; 1.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+DR   PROSITE; PS50084; KH_TYPE_1; 1.
+DR   PROSITE; PS51195; Q_MOTIF; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; ATP-binding; Helicase; Hydrolase; Nucleotide-binding;
+KW   Reference proteome; RNA-binding.
+FT   CHAIN           1..648
+FT                   /note="Probable ATP-dependent RNA helicase DDX43"
+FT                   /id="PRO_0000054972"
+FT   DOMAIN          67..128
+FT                   /note="KH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00117"
+FT   DOMAIN          273..448
+FT                   /note="Helicase ATP-binding"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   DOMAIN          460..621
+FT                   /note="Helicase C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00542"
+FT   REGION          1..60
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          628..648
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           242..270
+FT                   /note="Q motif"
+FT   MOTIF           396..399
+FT                   /note="DEAD box"
+FT   BINDING         286..293
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   VAR_SEQ         190..195
+FT                   /note="DLPPIK -> GKKILI (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_056955"
+FT   VAR_SEQ         196..648
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_056956"
+FT   VARIANT         625
+FT                   /note="K -> E (in dbSNP:rs311686)"
+FT                   /evidence="ECO:0000269|PubMed:10919659,
+FT                   ECO:0000269|PubMed:11230166"
+FT                   /id="VAR_057234"
+FT   VARIANT         629
+FT                   /note="Q -> R (in dbSNP:rs311685)"
+FT                   /evidence="ECO:0000269|PubMed:10919659,
+FT                   ECO:0000269|PubMed:11230166"
+FT                   /id="VAR_057235"
+FT   CONFLICT        60
+FT                   /note="A -> D (in Ref. 5; AAH66938)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   648 AA;  72844 MW;  4E09F15D36EFC3E3 CRC64;
+     MSHHGGAPKA STWVVASRRS STVSRAPERR PAEELNRTGP EGYSVGRGGR WRGTSRPPEA
+     VAAGHEELPL CFALKSHFVG AVIGRGGSKI KNIQSTTNTT IQIIQEQPES LVKIFGSKAM
+     QTKAKAVIDN FVKKLEENYN SECGIDTAFQ PSVGKDGSTD NNVVAGDRPL IDWDQIREEG
+     LKWQKTKWAD LPPIKKNFYK ESTATSAMSK VEADSWRKEN FNITWDDLKD GEKRPIPNPT
+     CTFDDAFQCY PEVMENIKKA GFQKPTPIQS QAWPIVLQGI DLIGVAQTGT GKTLCYLMPG
+     FIHLVLQPSL KGQRNRPGML VLTPTRELAL QVEGECCKYS YKGLRSVCVY GGGNRDEQIE
+     ELKKGVDIII ATPGRLNDLQ MSNFVNLKNI TYLVLDEADK MLDMGFEPQI MKILLDVRPD
+     RQTVMTSATW PHSVHRLAQS YLKEPMIVYV GTLDLVAVSS VKQNIIVTTE EEKWSHMQTF
+     LQSMSSTDKV IVFVSRKAVA DHLSSDLILG NISVESLHGD REQRDREKAL ENFKTGKVRI
+     LIATDLASRG LDVHDVTHVY NFDFPRNIEE YVHRIGRTGR AGRTGVSITT LTRNDWRVAS
+     ELINILERAN QSIPEELVSM AERFKAHQQK REMERKMERP QGRPKKFH
+//

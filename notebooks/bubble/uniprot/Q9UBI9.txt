@@ -1,0 +1,204 @@
+ID   HDC_HUMAN               Reviewed;         543 AA.
+AC   Q9UBI9;
+DT   01-MAR-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   28-JUN-2023, entry version 141.
+DE   RecName: Full=Headcase protein homolog;
+DE            Short=hHDC;
+GN   Name=HECA; Synonyms=HDC;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000312|EMBL:CAB94782.1};
+RN   [1] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA], TISSUE SPECIFICITY, AND
+RP   CHROMOSOMAL LOCATION.
+RX   PubMed=11696983; DOI=10.3109/10425170109041340;
+RA   Makino N., Yamato T., Inoue H., Furukawa T., Abe T., Yokoyama T.,
+RA   Yatsuoka T., Fukushige S., Orikasa S., Takahashi T., Horii A.;
+RT   "Isolation and characterization of the human gene homologous to the
+RT   Drosophila headcase (hdc) gene in chromosome bands 6q23-q24, a region of
+RT   common deletion in human pancreatic cancer.";
+RL   DNA Seq. 11:547-553(2001).
+RN   [2] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-264 AND SER-268, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-264 AND SER-268, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+CC   -!- FUNCTION: May play an important role in some human cancers. May be part
+CC       of the regulatory mechanism in the development of epithelial tube
+CC       networks such as the circulatory system and lungs.
+CC       {ECO:0000303|PubMed:11696983}.
+CC   -!- TISSUE SPECIFICITY: Expressed in all tissues examined. Highest levels
+CC       are in the spleen, thymus, peripheral blood and heart. Lowest in the
+CC       kidney and pancreas. {ECO:0000269|PubMed:11696983}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB033496; BAA85333.1; -; Genomic_DNA.
+DR   EMBL; AB033492; BAA85322.1; -; mRNA.
+DR   EMBL; AL031772; CAB94782.1; -; Genomic_DNA.
+DR   EMBL; BC070068; AAH70068.1; -; mRNA.
+DR   CCDS; CCDS5194.1; -.
+DR   RefSeq; NP_057301.1; NM_016217.2.
+DR   AlphaFoldDB; Q9UBI9; -.
+DR   BioGRID; 119682; 10.
+DR   STRING; 9606.ENSP00000356630; -.
+DR   GlyCosmos; Q9UBI9; 2 sites, 1 glycan.
+DR   GlyGen; Q9UBI9; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q9UBI9; -.
+DR   PhosphoSitePlus; Q9UBI9; -.
+DR   BioMuta; HECA; -.
+DR   DMDM; 44887986; -.
+DR   EPD; Q9UBI9; -.
+DR   jPOST; Q9UBI9; -.
+DR   MassIVE; Q9UBI9; -.
+DR   MaxQB; Q9UBI9; -.
+DR   PaxDb; Q9UBI9; -.
+DR   PeptideAtlas; Q9UBI9; -.
+DR   ProteomicsDB; 83976; -.
+DR   Antibodypedia; 33083; 87 antibodies from 15 providers.
+DR   DNASU; 51696; -.
+DR   Ensembl; ENST00000367658.3; ENSP00000356630.2; ENSG00000112406.5.
+DR   GeneID; 51696; -.
+DR   KEGG; hsa:51696; -.
+DR   MANE-Select; ENST00000367658.3; ENSP00000356630.2; NM_016217.3; NP_057301.1.
+DR   UCSC; uc003qin.4; human.
+DR   AGR; HGNC:21041; -.
+DR   CTD; 51696; -.
+DR   DisGeNET; 51696; -.
+DR   GeneCards; HECA; -.
+DR   HGNC; HGNC:21041; HECA.
+DR   HPA; ENSG00000112406; Low tissue specificity.
+DR   MIM; 607977; gene.
+DR   neXtProt; NX_Q9UBI9; -.
+DR   OpenTargets; ENSG00000112406; -.
+DR   PharmGKB; PA134977625; -.
+DR   VEuPathDB; HostDB:ENSG00000112406; -.
+DR   eggNOG; KOG3816; Eukaryota.
+DR   GeneTree; ENSGT00500000044928; -.
+DR   HOGENOM; CLU_027672_0_0_1; -.
+DR   InParanoid; Q9UBI9; -.
+DR   OMA; NNEHCPH; -.
+DR   OrthoDB; 2948947at2759; -.
+DR   PhylomeDB; Q9UBI9; -.
+DR   TreeFam; TF315512; -.
+DR   PathwayCommons; Q9UBI9; -.
+DR   SignaLink; Q9UBI9; -.
+DR   BioGRID-ORCS; 51696; 13 hits in 1157 CRISPR screens.
+DR   ChiTaRS; HECA; human.
+DR   GenomeRNAi; 51696; -.
+DR   Pharos; Q9UBI9; Tbio.
+DR   PRO; PR:Q9UBI9; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q9UBI9; protein.
+DR   Bgee; ENSG00000112406; Expressed in amniotic fluid and 212 other tissues.
+DR   Genevisible; Q9UBI9; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:HGNC.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:HGNC.
+DR   GO; GO:0045930; P:negative regulation of mitotic cell cycle; IDA:HGNC.
+DR   GO; GO:0030323; P:respiratory tube development; NAS:UniProtKB.
+DR   InterPro; IPR026066; Headcase.
+DR   InterPro; IPR031947; Headcase_mid.
+DR   PANTHER; PTHR13425; HEADCASE PROTEIN; 1.
+DR   PANTHER; PTHR13425:SF3; HEADCASE PROTEIN HOMOLOG; 1.
+DR   Pfam; PF16002; Headcase; 1.
+DR   Pfam; PF15353; HECA; 1.
+PE   1: Evidence at protein level;
+KW   Developmental protein; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..543
+FT                   /note="Headcase protein homolog"
+FT                   /id="PRO_0000083934"
+FT   REGION          1..26
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          197..283
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        197..228
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        235..249
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         264
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332"
+FT   MOD_RES         268
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332"
+SQ   SEQUENCE   543 AA;  58837 MW;  A161B7F4C57EF0D1 CRC64;
+     MPNPKNSKGG RKNKRANSSG DEQENGAGAL AAAGAAGAAA GGALAAAAGC GAAAAGAPGA
+     GGAAGAGGAG TGAANAAAAA GAAAAGDAKN EAPCATPLIC SFGRPVDLEK DDYQKVVCNN
+     EHCPCSTWMH LQCFYEWESS ILVQFNCIGR ARSWNEKQCR QNMWTKKGYD LAFRFCSCRC
+     GQGHLKKDTD WYQVKRMQDE KKKKSGSEKN TGRPPGEAAE EAKKCRPPNK PQKGPSHDLP
+     RRHSMDRQNS QEKAVGAAAY GARSPGGSPG QSPPTGYSIL SPAHFSGPRS SRYLGEFLKN
+     AIHLEPHKKA MAGGHVFRNA HFDYSPAGLA VHRGGHFDTP VQFLRRLDLS ELLTHIPRHK
+     LNTFHVRMED DAQVGQGEDL RKFILAALSA SHRNVVNCAL CHRALPVFEQ FPLVDGTLFL
+     SPSRHDEIEY DVPCHLQGRL MHLYAVCVDC LEGVHKIICI KCKSRWDGSW HQLGTMYTYD
+     ILAASPCCQA RLNCKHCGKP VIDVRIGMQY FSEYSNVQQC PHCGNLDYHF VKPFSSFKVL
+     EAY
+//

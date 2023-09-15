@@ -1,0 +1,929 @@
+ID   PTPRS_HUMAN             Reviewed;        1948 AA.
+AC   Q13332; O75255; O75870; Q15718; Q16341; Q2M3R7;
+DT   19-JUL-2003, integrated into UniProtKB/Swiss-Prot.
+DT   11-JAN-2011, sequence version 3.
+DT   28-JUN-2023, entry version 214.
+DE   RecName: Full=Receptor-type tyrosine-protein phosphatase S;
+DE            Short=R-PTP-S;
+DE            EC=3.1.3.48 {ECO:0000269|PubMed:8524829, ECO:0000305|PubMed:8992885};
+DE   AltName: Full=Receptor-type tyrosine-protein phosphatase sigma;
+DE            Short=R-PTP-sigma;
+DE   Flags: Precursor;
+GN   Name=PTPRS;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), CATALYTIC ACTIVITY, FUNCTION,
+RP   INTERACTION WITH PPFIA1, ALTERNATIVE SPLICING, TISSUE SPECIFICITY, AND
+RP   VARIANT ARG-1457.
+RC   TISSUE=Fetal brain;
+RX   PubMed=8524829; DOI=10.1073/pnas.92.25.11686;
+RA   Pulido R., Serra-Pages C., Tang M., Streuli M.;
+RT   "The LAR/PTP delta/PTP sigma subfamily of transmembrane protein-tyrosine-
+RT   phosphatases: multiple human LAR, PTP delta, and PTP sigma isoforms are
+RT   expressed in a tissue-specific manner and associate with the LAR-
+RT   interacting protein LIP.1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:11686-11690(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), CATALYTIC ACTIVITY, TISSUE
+RP   SPECIFICITY, ALTERNATIVE SPLICING, AND VARIANT ARG-1457.
+RX   PubMed=8992885; DOI=10.1002/jbmr.5650110415;
+RA   Endo N., Rutledge S.J., Opas E.E., Vogel R., Rodan G.A., Schmidt A.;
+RT   "Human protein tyrosine phosphatase-sigma: alternative splicing and
+RT   inhibition by bisphosphonates.";
+RL   J. Bone Miner. Res. 11:535-543(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANT ARG-1457.
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3), AND VARIANT ARG-1457.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1503-1589.
+RX   PubMed=1370651;
+RA   Adachi M., Sekiya M., Arimura Y., Takekawa M., Itoh F., Hinoda Y., Imai K.,
+RA   Yachi A.;
+RT   "Protein-tyrosine phosphatase expression in pre-B cell NALM-6.";
+RL   Cancer Res. 52:737-740(1992).
+RN   [7]
+RP   INTERACTION WITH PPFIA1; PPFIA2 AND PPFIA3.
+RX   PubMed=9624153; DOI=10.1074/jbc.273.25.15611;
+RA   Serra-Pages C., Medley Q.G., Tang M., Hart A., Streuli M.;
+RT   "Liprins, a family of LAR transmembrane protein-tyrosine phosphatase-
+RT   interacting proteins.";
+RL   J. Biol. Chem. 273:15611-15620(1998).
+RN   [8]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-733.
+RC   TISSUE=Plasma;
+RX   PubMed=16335952; DOI=10.1021/pr0502065;
+RA   Liu T., Qian W.-J., Gritsenko M.A., Camp D.G. II, Monroe M.E., Moore R.J.,
+RA   Smith R.D.;
+RT   "Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+RT   hydrazide chemistry, and mass spectrometry.";
+RL   J. Proteome Res. 4:2070-2080(2005).
+RN   [9]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-733.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [10]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-733.
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19349973; DOI=10.1038/nbt.1532;
+RA   Wollscheid B., Bausch-Fluck D., Henderson C., O'Brien R., Bibel M.,
+RA   Schiess R., Aebersold R., Watts J.D.;
+RT   "Mass-spectrometric identification and relative quantification of N-linked
+RT   cell surface glycoproteins.";
+RL   Nat. Biotechnol. 27:378-386(2009).
+RN   [11]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=26231120; DOI=10.1016/j.immuni.2015.07.009;
+RA   Bunin A., Sisirak V., Ghosh H.S., Grajkowska L.T., Hou Z.E., Miron M.,
+RA   Yang C., Ceribelli M., Uetani N., Chaperot L., Plumas J., Hendriks W.,
+RA   Tremblay M.L., Haecker H., Staudt L.M., Green P.H., Bhagat G., Reizis B.;
+RT   "Protein tyrosine phosphatase PTPRS is an inhibitory receptor on human and
+RT   murine plasmacytoid dendritic cells.";
+RL   Immunity 43:277-288(2015).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 1365-1948.
+RX   PubMed=18058037; DOI=10.1007/s10969-007-9036-1;
+RA   Almo S.C., Bonanno J.B., Sauder J.M., Emtage S., Dilorenzo T.P.,
+RA   Malashkevich V., Wasserman S.R., Swaminathan S., Eswaramoorthy S.,
+RA   Agarwal R., Kumaran D., Madegowda M., Ragumani S., Patskovsky Y.,
+RA   Alvarado J., Ramagopal U.A., Faber-Barata J., Chance M.R., Sali A.,
+RA   Fiser A., Zhang Z.Y., Lawrence D.S., Burley S.K.;
+RT   "Structural genomics of protein phosphatases.";
+RL   J. Struct. Funct. Genomics 8:121-140(2007).
+RN   [13] {ECO:0007744|PDB:2YD2, ECO:0007744|PDB:2YD3, ECO:0007744|PDB:2YD9}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 30-235, FUNCTION, AND DISULFIDE
+RP   BONDS.
+RX   PubMed=21454754; DOI=10.1126/science.1200840;
+RA   Coles C.H., Shen Y., Tenney A.P., Siebold C., Sutton G.C., Lu W.,
+RA   Gallagher J.T., Jones E.Y., Flanagan J.G., Aricescu A.R.;
+RT   "Proteoglycan-specific molecular switch for RPTPsigma clustering and
+RT   neuronal extension.";
+RL   Science 332:484-488(2011).
+RN   [14] {ECO:0007744|PDB:4BPC}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 1367-1948, AND ACTIVE SITE.
+RX   PubMed=23820885; DOI=10.1007/s10059-013-0033-x;
+RA   Jeon T.J., Chien P.N., Chun H.J., Ryu S.E.;
+RT   "Structure of the catalytic domain of protein tyrosine phosphatase sigma in
+RT   the sulfenic acid form.";
+RL   Mol. Cells 36:55-61(2013).
+RN   [15] {ECO:0007744|PDB:4PBX}
+RP   X-RAY CRYSTALLOGRAPHY (3.15 ANGSTROMS) OF 30-614, STRUCTURE BY ELECTRON
+RP   MICROSCOPY, INTERACTION WITH NTRK3, GLYCOSYLATION AT ASN-263 AND ASN-308,
+RP   DISULFIDE BONDS, AND MUTAGENESIS OF ARG-97; ARG-100; TYR-233 AND
+RP   241-ARG-ARG-242.
+RX   PubMed=25385546; DOI=10.1038/ncomms6209;
+RA   Coles C.H., Mitakidis N., Zhang P., Elegheert J., Lu W., Stoker A.W.,
+RA   Nakagawa T., Craig A.M., Jones E.Y., Aricescu A.R.;
+RT   "Structural basis for extracellular cis and trans RPTPsigma signal
+RT   competition in synaptogenesis.";
+RL   Nat. Commun. 5:5209-5209(2014).
+RN   [16]
+RP   VARIANT [LARGE SCALE ANALYSIS] MET-996.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Cell surface receptor that binds to glycosaminoglycans,
+CC       including chondroitin sulfate proteoglycans and heparan sulfate
+CC       proteoglycan (PubMed:21454754). Binding to chondroitin sulfate and
+CC       heparan sulfate proteoglycans has opposite effects on PTPRS
+CC       oligomerization and regulation of neurite outgrowth. Contributes to the
+CC       inhibition of neurite and axonal outgrowth by chondroitin sulfate
+CC       proteoglycans, also after nerve transection. Plays a role in
+CC       stimulating neurite outgrowth in response to the heparan sulfate
+CC       proteoglycan GPC2. Required for normal brain development, especially
+CC       for normal development of the pituitary gland and the olfactory bulb.
+CC       Functions as tyrosine phosphatase (PubMed:8524829). Mediates
+CC       dephosphorylation of NTRK1, NTRK2 and NTRK3 (By similarity). Plays a
+CC       role in down-regulation of signaling cascades that lead to the
+CC       activation of Akt and MAP kinases (By similarity). Down-regulates TLR9-
+CC       mediated activation of NF-kappa-B, as well as production of TNF,
+CC       interferon alpha and interferon beta (PubMed:26231120).
+CC       {ECO:0000250|UniProtKB:B0V2N1, ECO:0000250|UniProtKB:F1NWE3,
+CC       ECO:0000269|PubMed:21454754, ECO:0000269|PubMed:26231120,
+CC       ECO:0000269|PubMed:8524829}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + O-phospho-L-tyrosyl-[protein] = L-tyrosyl-[protein] +
+CC         phosphate; Xref=Rhea:RHEA:10684, Rhea:RHEA-COMP:10136, Rhea:RHEA-
+CC         COMP:10137, ChEBI:CHEBI:15377, ChEBI:CHEBI:43474, ChEBI:CHEBI:46858,
+CC         ChEBI:CHEBI:82620; EC=3.1.3.48; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU10044, ECO:0000269|PubMed:8524829,
+CC         ECO:0000305|PubMed:8992885};
+CC   -!- SUBUNIT: Binding to large heparan sulfate proteoglycan structures
+CC       promotes oligomerization. Binding to chondroitin sulfate proteoglycan
+CC       does not lead to oligomerization (By similarity). Interacts (via Ig-
+CC       like domains) with NTRK3 (PubMed:25385546). Interacts (via Ig-like
+CC       domains) with NTRK1, but does not form detectable complexes with NTRK2
+CC       (By similarity). Interacts with PPFIA1, PPFIA2 and PPFIA3
+CC       (PubMed:8524829, PubMed:9624153). {ECO:0000250|UniProtKB:B0V2N1,
+CC       ECO:0000250|UniProtKB:Q64605, ECO:0000269|PubMed:8524829,
+CC       ECO:0000269|PubMed:9624153}.
+CC   -!- INTERACTION:
+CC       Q13332; Q16849: PTPRN; NbExp=5; IntAct=EBI-711536, EBI-728153;
+CC       Q13332-6; Q9Y5Q9: GTF3C3; NbExp=3; IntAct=EBI-25906956, EBI-1054873;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:26231120};
+CC       Single-pass type I membrane protein {ECO:0000305}. Cell projection,
+CC       axon {ECO:0000250|UniProtKB:B0V2N1}. Perikaryon
+CC       {ECO:0000250|UniProtKB:B0V2N1}. Cytoplasmic vesicle, secretory vesicle,
+CC       synaptic vesicle membrane {ECO:0000250|UniProtKB:Q64605}. Synapse,
+CC       synaptosome {ECO:0000250|UniProtKB:Q64605}. Postsynaptic density
+CC       {ECO:0000250|UniProtKB:Q64605}. Cell projection, neuron projection
+CC       {ECO:0000250|UniProtKB:B0V2N1}. Cell projection, growth cone
+CC       {ECO:0000250|UniProtKB:B0V2N1}. Note=Is rapidly internalized when
+CC       dendritic cells are stimulated with the TLR9 ligand cytidine-phosphate-
+CC       guanosine (CpG) (PubMed:26231120). Detected in a punctate pattern along
+CC       neurites and axon growth cones (By similarity).
+CC       {ECO:0000250|UniProtKB:B0V2N1, ECO:0000269|PubMed:26231120}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=7;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=1; Synonyms=PTPS;
+CC         IsoId=Q13332-1; Sequence=Displayed;
+CC       Name=PTPS-MEA;
+CC         IsoId=Q13332-2; Sequence=VSP_050021;
+CC       Name=PTPS-MEB;
+CC         IsoId=Q13332-3; Sequence=VSP_050022, VSP_050026, VSP_050027;
+CC       Name=PTPS-MEC;
+CC         IsoId=Q13332-4; Sequence=VSP_050024;
+CC       Name=PTPS-F4-7;
+CC         IsoId=Q13332-5; Sequence=VSP_050023, VSP_050025;
+CC       Name=2;
+CC         IsoId=Q13332-6; Sequence=VSP_050021, VSP_050022, VSP_050024,
+CC                                  VSP_050026, VSP_050027;
+CC       Name=3;
+CC         IsoId=Q13332-7; Sequence=VSP_050021, VSP_050022, VSP_050023,
+CC                                  VSP_050025, VSP_050026, VSP_050027;
+CC   -!- TISSUE SPECIFICITY: Detected in peripheral blood plasmacytoid dendritic
+CC       cells (at protein level) (PubMed:26231120). Detected in all tissues
+CC       tested except for placenta and liver (PubMed:8524829, PubMed:8992885).
+CC       Detected in peripheral blood plasmacytoid dendritic cells
+CC       (PubMed:26231120). {ECO:0000269|PubMed:26231120,
+CC       ECO:0000269|PubMed:8524829, ECO:0000269|PubMed:8992885}.
+CC   -!- PTM: A cleavage occurs, separating the extracellular domain from the
+CC       transmembrane segment. This process called 'ectodomain shedding' is
+CC       thought to be involved in receptor desensitization, signal transduction
+CC       and/or membrane localization (By similarity). {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the protein-tyrosine phosphatase family.
+CC       Receptor class 2A subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAC50567.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U35234; AAC50299.1; -; mRNA.
+DR   EMBL; U40317; AAC50567.1; ALT_FRAME; mRNA.
+DR   EMBL; AC005335; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC005790; AAC62832.1; -; Genomic_DNA.
+DR   EMBL; AC005338; AAC27825.1; -; Genomic_DNA.
+DR   EMBL; AC005788; AAC62834.1; -; Genomic_DNA.
+DR   EMBL; AC118535; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471139; EAW69176.1; -; Genomic_DNA.
+DR   EMBL; BC104812; AAI04813.1; -; mRNA.
+DR   EMBL; BC143287; AAI43288.1; -; mRNA.
+DR   EMBL; S78080; AAB21146.2; -; mRNA.
+DR   CCDS; CCDS12139.1; -. [Q13332-7]
+DR   CCDS; CCDS12140.1; -. [Q13332-6]
+DR   CCDS; CCDS45930.1; -. [Q13332-1]
+DR   RefSeq; NP_002841.3; NM_002850.3. [Q13332-1]
+DR   RefSeq; NP_570923.2; NM_130853.2. [Q13332-7]
+DR   RefSeq; NP_570924.2; NM_130854.2. [Q13332-6]
+DR   RefSeq; NP_570925.2; NM_130855.2.
+DR   RefSeq; XP_005259663.1; XM_005259606.2.
+DR   RefSeq; XP_005259666.1; XM_005259609.1.
+DR   RefSeq; XP_016882554.1; XM_017027065.1. [Q13332-2]
+DR   RefSeq; XP_016882555.1; XM_017027066.1. [Q13332-2]
+DR   RefSeq; XP_016882556.1; XM_017027067.1. [Q13332-2]
+DR   PDB; 2FH7; X-ray; 2.00 A; A=1365-1948.
+DR   PDB; 2YD2; X-ray; 2.55 A; A=30-244.
+DR   PDB; 2YD3; X-ray; 2.30 A; A=30-235.
+DR   PDB; 2YD9; X-ray; 2.60 A; A=30-334.
+DR   PDB; 4BPC; X-ray; 2.10 A; A=1367-1948.
+DR   PDB; 4PBX; X-ray; 3.15 A; A=30-614.
+DR   PDBsum; 2FH7; -.
+DR   PDBsum; 2YD2; -.
+DR   PDBsum; 2YD3; -.
+DR   PDBsum; 2YD9; -.
+DR   PDBsum; 4BPC; -.
+DR   PDBsum; 4PBX; -.
+DR   AlphaFoldDB; Q13332; -.
+DR   SMR; Q13332; -.
+DR   BioGRID; 111766; 137.
+DR   IntAct; Q13332; 52.
+DR   MINT; Q13332; -.
+DR   STRING; 9606.ENSP00000349932; -.
+DR   BindingDB; Q13332; -.
+DR   ChEMBL; CHEMBL2396508; -.
+DR   DrugBank; DB00630; Alendronic acid.
+DR   DrugBank; DB01077; Etidronic acid.
+DR   GuidetoPHARMACOLOGY; 1866; -.
+DR   DEPOD; PTPRS; -.
+DR   GlyCosmos; Q13332; 4 sites, No reported glycans.
+DR   GlyGen; Q13332; 4 sites.
+DR   iPTMnet; Q13332; -.
+DR   PhosphoSitePlus; Q13332; -.
+DR   BioMuta; PTPRS; -.
+DR   DMDM; 317373519; -.
+DR   EPD; Q13332; -.
+DR   jPOST; Q13332; -.
+DR   MassIVE; Q13332; -.
+DR   MaxQB; Q13332; -.
+DR   PaxDb; Q13332; -.
+DR   PeptideAtlas; Q13332; -.
+DR   ProteomicsDB; 59320; -. [Q13332-1]
+DR   ProteomicsDB; 59321; -. [Q13332-2]
+DR   ProteomicsDB; 59322; -. [Q13332-3]
+DR   ProteomicsDB; 59323; -. [Q13332-4]
+DR   ProteomicsDB; 59324; -. [Q13332-5]
+DR   ProteomicsDB; 59325; -. [Q13332-6]
+DR   ProteomicsDB; 59326; -. [Q13332-7]
+DR   ABCD; Q13332; 1 sequenced antibody.
+DR   Antibodypedia; 23795; 246 antibodies from 28 providers.
+DR   DNASU; 5802; -.
+DR   Ensembl; ENST00000262963.11; ENSP00000262963.8; ENSG00000105426.19. [Q13332-1]
+DR   Ensembl; ENST00000587303.5; ENSP00000467537.1; ENSG00000105426.19. [Q13332-1]
+DR   Ensembl; ENST00000588012.5; ENSP00000465443.1; ENSG00000105426.19. [Q13332-6]
+DR   Ensembl; ENST00000592099.5; ENSP00000467398.1; ENSG00000105426.19. [Q13332-7]
+DR   GeneID; 5802; -.
+DR   KEGG; hsa:5802; -.
+DR   MANE-Select; ENST00000262963.11; ENSP00000262963.8; NM_002850.4; NP_002841.3.
+DR   UCSC; uc002mbv.3; human. [Q13332-1]
+DR   AGR; HGNC:9681; -.
+DR   CTD; 5802; -.
+DR   DisGeNET; 5802; -.
+DR   GeneCards; PTPRS; -.
+DR   HGNC; HGNC:9681; PTPRS.
+DR   HPA; ENSG00000105426; Low tissue specificity.
+DR   MIM; 601576; gene.
+DR   neXtProt; NX_Q13332; -.
+DR   OpenTargets; ENSG00000105426; -.
+DR   PharmGKB; PA34026; -.
+DR   VEuPathDB; HostDB:ENSG00000105426; -.
+DR   eggNOG; KOG4228; Eukaryota.
+DR   GeneTree; ENSGT00940000153617; -.
+DR   HOGENOM; CLU_001645_4_2_1; -.
+DR   InParanoid; Q13332; -.
+DR   OMA; CEERCKV; -.
+DR   OrthoDB; 2875525at2759; -.
+DR   PhylomeDB; Q13332; -.
+DR   TreeFam; TF312900; -.
+DR   BRENDA; 3.1.3.48; 2681.
+DR   PathwayCommons; Q13332; -.
+DR   Reactome; R-HSA-3000178; ECM proteoglycans.
+DR   Reactome; R-HSA-388844; Receptor-type tyrosine-protein phosphatases.
+DR   Reactome; R-HSA-8849932; Synaptic adhesion-like molecules.
+DR   Reactome; R-HSA-9034015; Signaling by NTRK3 (TRKC).
+DR   SignaLink; Q13332; -.
+DR   SIGNOR; Q13332; -.
+DR   BioGRID-ORCS; 5802; 5 hits in 1179 CRISPR screens.
+DR   ChiTaRS; PTPRS; human.
+DR   EvolutionaryTrace; Q13332; -.
+DR   GeneWiki; PTPRS; -.
+DR   GenomeRNAi; 5802; -.
+DR   Pharos; Q13332; Tchem.
+DR   PRO; PR:Q13332; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q13332; protein.
+DR   Bgee; ENSG00000105426; Expressed in cortical plate and 97 other tissues.
+DR   ExpressionAtlas; Q13332; baseline and differential.
+DR   Genevisible; Q13332; HS.
+DR   GO; GO:0030424; C:axon; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0098978; C:glutamatergic synapse; IEA:Ensembl.
+DR   GO; GO:0030426; C:growth cone; IEA:UniProtKB-SubCell.
+DR   GO; GO:0043204; C:perikaryon; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0098839; C:postsynaptic density membrane; ISS:UniProtKB.
+DR   GO; GO:0042734; C:presynaptic membrane; IEA:Ensembl.
+DR   GO; GO:0098685; C:Schaffer collateral - CA1 synapse; IEA:Ensembl.
+DR   GO; GO:0030672; C:synaptic vesicle membrane; ISS:UniProtKB.
+DR   GO; GO:0035374; F:chondroitin sulfate binding; ISS:UniProtKB.
+DR   GO; GO:0043395; F:heparan sulfate proteoglycan binding; ISS:UniProtKB.
+DR   GO; GO:0008201; F:heparin binding; ISS:UniProtKB.
+DR   GO; GO:0004721; F:phosphoprotein phosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0004725; F:protein tyrosine phosphatase activity; ISS:UniProtKB.
+DR   GO; GO:0021549; P:cerebellum development; IEA:Ensembl.
+DR   GO; GO:0021987; P:cerebral cortex development; IEA:Ensembl.
+DR   GO; GO:0022038; P:corpus callosum development; IEA:Ensembl.
+DR   GO; GO:0090557; P:establishment of endothelial intestinal barrier; IEA:Ensembl.
+DR   GO; GO:0021766; P:hippocampus development; IEA:Ensembl.
+DR   GO; GO:0050804; P:modulation of chemical synaptic transmission; IEA:Ensembl.
+DR   GO; GO:0030517; P:negative regulation of axon extension; ISS:UniProtKB.
+DR   GO; GO:0048681; P:negative regulation of axon regeneration; ISS:UniProtKB.
+DR   GO; GO:0048671; P:negative regulation of collateral sprouting; ISS:UniProtKB.
+DR   GO; GO:0061000; P:negative regulation of dendritic spine development; ISS:UniProtKB.
+DR   GO; GO:0032687; P:negative regulation of interferon-alpha production; IMP:UniProtKB.
+DR   GO; GO:0032688; P:negative regulation of interferon-beta production; IMP:UniProtKB.
+DR   GO; GO:0010977; P:negative regulation of neuron projection development; ISS:UniProtKB.
+DR   GO; GO:0034164; P:negative regulation of toll-like receptor 9 signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0035335; P:peptidyl-tyrosine dephosphorylation; ISS:UniProtKB.
+DR   GO; GO:0006470; P:protein dephosphorylation; IDA:UniProtKB.
+DR   GO; GO:0099151; P:regulation of postsynaptic density assembly; IEA:Ensembl.
+DR   GO; GO:0021510; P:spinal cord development; IEA:Ensembl.
+DR   GO; GO:0099560; P:synaptic membrane adhesion; IDA:SynGO.
+DR   GO; GO:0099537; P:trans-synaptic signaling; IEA:Ensembl.
+DR   CDD; cd00063; FN3; 8.
+DR   CDD; cd05738; IgI_2_RPTP_IIa_LAR_like; 1.
+DR   CDD; cd05739; IgI_3_RPTP_IIa_LAR_like; 1.
+DR   CDD; cd14627; R-PTP-S-2; 1.
+DR   CDD; cd14625; R-PTPc-S-1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 11.
+DR   Gene3D; 3.90.190.10; Protein tyrosine phosphatase superfamily; 2.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR036116; FN3_sf.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR013098; Ig_I-set.
+DR   InterPro; IPR003599; Ig_sub.
+DR   InterPro; IPR003598; Ig_sub2.
+DR   InterPro; IPR029021; Prot-tyrosine_phosphatase-like.
+DR   InterPro; IPR000242; PTP_cat.
+DR   InterPro; IPR016130; Tyr_Pase_AS.
+DR   InterPro; IPR003595; Tyr_Pase_cat.
+DR   InterPro; IPR000387; Tyr_Pase_dom.
+DR   PANTHER; PTHR46957; CYTOKINE RECEPTOR; 1.
+DR   PANTHER; PTHR46957:SF1; PHOSPHATIDYLINOSITOL PHOSPHATASE PTPRQ; 1.
+DR   Pfam; PF00041; fn3; 7.
+DR   Pfam; PF07679; I-set; 2.
+DR   Pfam; PF13927; Ig_3; 1.
+DR   Pfam; PF00102; Y_phosphatase; 2.
+DR   PRINTS; PR00014; FNTYPEIII.
+DR   PRINTS; PR00700; PRTYPHPHTASE.
+DR   SMART; SM00060; FN3; 8.
+DR   SMART; SM00409; IG; 3.
+DR   SMART; SM00408; IGc2; 3.
+DR   SMART; SM00194; PTPc; 2.
+DR   SMART; SM00404; PTPc_motif; 2.
+DR   SUPFAM; SSF52799; (Phosphotyrosine protein) phosphatases II; 2.
+DR   SUPFAM; SSF49265; Fibronectin type III; 5.
+DR   SUPFAM; SSF48726; Immunoglobulin; 3.
+DR   PROSITE; PS50853; FN3; 8.
+DR   PROSITE; PS50835; IG_LIKE; 3.
+DR   PROSITE; PS00383; TYR_PHOSPHATASE_1; 2.
+DR   PROSITE; PS50056; TYR_PHOSPHATASE_2; 2.
+DR   PROSITE; PS50055; TYR_PHOSPHATASE_PTP; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell adhesion; Cell membrane;
+KW   Cell projection; Cytoplasmic vesicle; Disulfide bond; Glycoprotein;
+KW   Heparin-binding; Hydrolase; Immunoglobulin domain; Membrane;
+KW   Protein phosphatase; Receptor; Reference proteome; Repeat; Signal; Synapse;
+KW   Synaptosome; Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..29
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           30..1948
+FT                   /note="Receptor-type tyrosine-protein phosphatase S"
+FT                   /id="PRO_0000025462"
+FT   TOPO_DOM        30..1282
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        1283..1303
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1304..1948
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          33..123
+FT                   /note="Ig-like C2-type 1"
+FT   DOMAIN          135..233
+FT                   /note="Ig-like C2-type 2"
+FT   DOMAIN          245..327
+FT                   /note="Ig-like C2-type 3"
+FT   DOMAIN          334..424
+FT                   /note="Fibronectin type-III 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          429..523
+FT                   /note="Fibronectin type-III 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          527..616
+FT                   /note="Fibronectin type-III 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          621..718
+FT                   /note="Fibronectin type-III 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          723..831
+FT                   /note="Fibronectin type-III 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          832..930
+FT                   /note="Fibronectin type-III 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          931..1033
+FT                   /note="Fibronectin type-III 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1036..1120
+FT                   /note="Fibronectin type-III 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1393..1648
+FT                   /note="Tyrosine-protein phosphatase 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00160"
+FT   DOMAIN          1680..1939
+FT                   /note="Tyrosine-protein phosphatase 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00160"
+FT   REGION          68..72
+FT                   /note="Important for binding to glycosaminoglycan chains"
+FT                   /evidence="ECO:0000250|UniProtKB:B0V2N1"
+FT   REGION          700..724
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1311..1340
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        1589
+FT                   /note="Phosphocysteine intermediate"
+FT                   /evidence="ECO:0000305|PubMed:23820885"
+FT   ACT_SITE        1880
+FT                   /note="Phosphocysteine intermediate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1557
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1589..1595
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1633
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   SITE            1197..1198
+FT                   /note="Cleavage"
+FT                   /evidence="ECO:0000250"
+FT   CARBOHYD        263
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:25385546,
+FT                   ECO:0007744|PDB:4PBX"
+FT   CARBOHYD        308
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:25385546,
+FT                   ECO:0007744|PDB:4PBX"
+FT   CARBOHYD        733
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16335952,
+FT                   ECO:0000269|PubMed:19159218, ECO:0000269|PubMed:19349973"
+FT   CARBOHYD        940
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        54..107
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:21454754, ECO:0000269|PubMed:25385546,
+FT                   ECO:0007744|PDB:2YD2, ECO:0007744|PDB:2YD3,
+FT                   ECO:0007744|PDB:2YD9, ECO:0007744|PDB:4PBX"
+FT   DISULFID        156..216
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0007744|PDB:2YD2, ECO:0007744|PDB:2YD3,
+FT                   ECO:0007744|PDB:2YD9, ECO:0007744|PDB:4PBX"
+FT   DISULFID        266..311
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0007744|PDB:2YD2, ECO:0007744|PDB:2YD3,
+FT                   ECO:0007744|PDB:2YD9, ECO:0007744|PDB:4PBX"
+FT   VAR_SEQ         190..198
+FT                   /note="Missing (in isoform PTPS-MEA, isoform 2 and isoform
+FT                   3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:8992885"
+FT                   /id="VSP_050021"
+FT   VAR_SEQ         236..239
+FT                   /note="Missing (in isoform PTPS-MEB, isoform 2 and isoform
+FT                   3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:8992885"
+FT                   /id="VSP_050022"
+FT   VAR_SEQ         617..1034
+FT                   /note="Missing (in isoform PTPS-F4-7 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_050023"
+FT   VAR_SEQ         784..792
+FT                   /note="Missing (in isoform PTPS-MEC and isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:8992885"
+FT                   /id="VSP_050024"
+FT   VAR_SEQ         1035
+FT                   /note="V -> I (in isoform PTPS-F4-7 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_050025"
+FT   VAR_SEQ         1350..1365
+FT                   /note="Missing (in isoform PTPS-MEB, isoform 2 and isoform
+FT                   3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:8992885"
+FT                   /id="VSP_050026"
+FT   VAR_SEQ         1366
+FT                   /note="S -> G (in isoform PTPS-MEB, isoform 2 and isoform
+FT                   3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:8992885"
+FT                   /id="VSP_050027"
+FT   VARIANT         996
+FT                   /note="T -> M (in a colorectal cancer sample; somatic
+FT                   mutation; dbSNP:rs775778266)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035649"
+FT   VARIANT         1457
+FT                   /note="C -> R (in dbSNP:rs4807697)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:8524829, ECO:0000269|PubMed:8992885,
+FT                   ECO:0000269|Ref.4"
+FT                   /id="VAR_047277"
+FT   MUTAGEN         97
+FT                   /note="R->A: Abolishes interaction with NTRK3; when
+FT                   associated with A-100."
+FT                   /evidence="ECO:0000269|PubMed:25385546"
+FT   MUTAGEN         100
+FT                   /note="R->A: Abolishes interaction with NTRK3; when
+FT                   associated with A-97."
+FT                   /evidence="ECO:0000269|PubMed:25385546"
+FT   MUTAGEN         233
+FT                   /note="Y->S: Abolishes interaction with NTRK3."
+FT                   /evidence="ECO:0000269|PubMed:25385546"
+FT   MUTAGEN         241..242
+FT                   /note="RR->AA: Decreases interaction with NTRK3."
+FT                   /evidence="ECO:0000269|PubMed:25385546"
+FT   CONFLICT        48
+FT                   /note="G -> R (in Ref. 2; AAC50567)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        428..429
+FT                   /note="SA -> RP (in Ref. 2; AAC50567)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        742..745
+FT                   /note="RSPA -> LGPV (in Ref. 1; AAC50299)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        765..766
+FT                   /note="GA -> RR (in Ref. 2; AAC50567)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        768
+FT                   /note="A -> G (in Ref. 1; AAC50299)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        910
+FT                   /note="R -> P (in Ref. 2; AAC50567)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        995
+FT                   /note="L -> V (in Ref. 1; AAC50299)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1195..1196
+FT                   /note="SL -> TV (in Ref. 1; AAC50299)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1310..1313
+FT                   /note="Missing (in Ref. 3; AAC62834)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1431
+FT                   /note="S -> F (in Ref. 1; AAC50299)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1546
+FT                   /note="E -> D (in Ref. 6; AAB21146)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1587
+FT                   /note="V -> A (in Ref. 6; AAB21146)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1705
+FT                   /note="N -> K (in Ref. 2; AAC50567)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          31..37
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          42..45
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          50..60
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          63..68
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   TURN            69..71
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          75..83
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   HELIX           84..86
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          88..93
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   TURN            98..101
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          103..111
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          114..125
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   HELIX           127..129
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          136..139
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          144..147
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          152..154
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          157..159
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          165..170
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   HELIX           177..179
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   TURN            180..182
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          183..186
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          201..205
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   HELIX           208..210
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          212..220
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          223..226
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          230..235
+FT                   /evidence="ECO:0007829|PDB:2YD3"
+FT   STRAND          243..249
+FT                   /evidence="ECO:0007829|PDB:2YD9"
+FT   STRAND          254..256
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          262..272
+FT                   /evidence="ECO:0007829|PDB:2YD9"
+FT   STRAND          275..280
+FT                   /evidence="ECO:0007829|PDB:2YD9"
+FT   STRAND          288..290
+FT                   /evidence="ECO:0007829|PDB:2YD9"
+FT   STRAND          293..300
+FT                   /evidence="ECO:0007829|PDB:2YD9"
+FT   STRAND          307..315
+FT                   /evidence="ECO:0007829|PDB:2YD9"
+FT   STRAND          318..327
+FT                   /evidence="ECO:0007829|PDB:2YD9"
+FT   STRAND          339..343
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          348..351
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          361..370
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          377..382
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          384..389
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          397..405
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          410..413
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          417..420
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          431..441
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          443..448
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          457..466
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   HELIX           472..474
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          475..479
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          482..488
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          496..507
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          516..524
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          529..537
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          540..546
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          554..562
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   TURN            563..565
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          569..573
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          577..581
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          589..598
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          601..605
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   STRAND          609..612
+FT                   /evidence="ECO:0007829|PDB:4PBX"
+FT   HELIX           1375..1377
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1378..1398
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1409..1412
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1414..1416
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1417..1419
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1429..1431
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1432..1434
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1442..1445
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1446..1454
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1457..1464
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1469..1471
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1472..1481
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1486..1489
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1493..1495
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1507..1513
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1516..1525
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1527..1538
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1545..1552
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1557..1560
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1562..1564
+FT                   /evidence="ECO:0007829|PDB:4BPC"
+FT   HELIX           1565..1577
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1585..1594
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1595..1612
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1617..1625
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1635..1650
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1658..1660
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1661..1668
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1676..1678
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1679..1685
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1698..1701
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1703..1705
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1706..1708
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1718..1720
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1728..1730
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1731..1734
+FT                   /evidence="ECO:0007829|PDB:4BPC"
+FT   STRAND          1737..1741
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1744..1746
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1750..1753
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1758..1760
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1761..1770
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1775..1778
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1782..1784
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1796..1798
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1800..1802
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1805..1814
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1816..1827
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1828..1830
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1833..1841
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1846..1848
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1854..1869
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1876..1884
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1885..1903
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   STRAND          1904..1906
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1908..1915
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   TURN            1916..1918
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+FT   HELIX           1926..1941
+FT                   /evidence="ECO:0007829|PDB:2FH7"
+SQ   SEQUENCE   1948 AA;  217041 MW;  E8BFA76CA410C457 CRC64;
+     MAPTWGPGMV SVVGPMGLLV VLLVGGCAAE EPPRFIKEPK DQIGVSGGVA SFVCQATGDP
+     KPRVTWNKKG KKVNSQRFET IEFDESAGAV LRIQPLRTPR DENVYECVAQ NSVGEITVHA
+     KLTVLREDQL PSGFPNIDMG PQLKVVERTR TATMLCAASG NPDPEITWFK DFLPVDPSAS
+     NGRIKQLRSE TFESTPIRGA LQIESSEETD QGKYECVATN SAGVRYSSPA NLYVRELREV
+     RRVAPRFSIL PMSHEIMPGG NVNITCVAVG SPMPYVKWMQ GAEDLTPEDD MPVGRNVLEL
+     TDVKDSANYT CVAMSSLGVI EAVAQITVKS LPKAPGTPMV TENTATSITI TWDSGNPDPV
+     SYYVIEYKSK SQDGPYQIKE DITTTRYSIG GLSPNSEYEI WVSAVNSIGQ GPPSESVVTR
+     TGEQAPASAP RNVQARMLSA TTMIVQWEEP VEPNGLIRGY RVYYTMEPEH PVGNWQKHNV
+     DDSLLTTVGS LLEDETYTVR VLAFTSVGDG PLSDPIQVKT QQGVPGQPMN LRAEARSETS
+     ITLSWSPPRQ ESIIKYELLF REGDHGREVG RTFDPTTSYV VEDLKPNTEY AFRLAARSPQ
+     GLGAFTPVVR QRTLQSKPSA PPQDVKCVSV RSTAILVSWR PPPPETHNGA LVGYSVRYRP
+     LGSEDPEPKE VNGIPPTTTQ ILLEALEKWT QYRITTVAHT EVGPGPESSP VVVRTDEDVP
+     SAPPRKVEAE ALNATAIRVL WRSPAPGRQH GQIRGYQVHY VRMEGAEARG PPRIKDVMLA
+     DAQWETDDTA EYEMVITNLQ PETAYSITVA AYTMKGDGAR SKPKVVVTKG AVLGRPTLSV
+     QQTPEGSLLA RWEPPAGTAE DQVLGYRLQF GREDSTPLAT LEFPPSEDRY TASGVHKGAT
+     YVFRLAARSR GGLGEEAAEV LSIPEDTPRG HPQILEAAGN ASAGTVLLRW LPPVPAERNG
+     AIVKYTVAVR EAGALGPARE TELPAAAEPG AENALTLQGL KPDTAYDLQV RAHTRRGPGP
+     FSPPVRYRTF LRDQVSPKNF KVKMIMKTSV LLSWEFPDNY NSPTPYKIQY NGLTLDVDGR
+     TTKKLITHLK PHTFYNFVLT NRGSSLGGLQ QTVTAWTAFN LLNGKPSVAP KPDADGFIMV
+     YLPDGQSPVP VQSYFIVMVP LRKSRGGQFL TPLGSPEDMD LEELIQDISR LQRRSLRHSR
+     QLEVPRPYIA ARFSVLPPTF HPGDQKQYGG FDNRGLEPGH RYVLFVLAVL QKSEPTFAAS
+     PFSDPFQLDN PDPQPIVDGE EGLIWVIGPV LAVVFIICIV IAILLYKNKP DSKRKDSEPR
+     TKCLLNNADL APHHPKDPVE MRRINFQTPD SGLRSPLREP GFHFESMLSH PPIPIADMAE
+     HTERLKANDS LKLSQEYESI DPGQQFTWEH SNLEVNKPKN RYANVIAYDH SRVILQPIEG
+     IMGSDYINAN YVDGYRCQNA YIATQGPLPE TFGDFWRMVW EQRSATIVMM TRLEEKSRIK
+     CDQYWPNRGT ETYGFIQVTL LDTIELATFC VRTFSLHKNG SSEKREVRQF QFTAWPDHGV
+     PEYPTPFLAF LRRVKTCNPP DAGPIVVHCS AGVGRTGCFI VIDAMLERIK PEKTVDVYGH
+     VTLMRSQRNY MVQTEDQYSF IHEALLEAVG CGNTEVPARS LYAYIQKLAQ VEPGEHVTGM
+     ELEFKRLANS KAHTSRFISA NLPCNKFKNR LVNIMPYEST RVCLQPIRGV EGSDYINASF
+     IDGYRQQKAY IATQGPLAET TEDFWRMLWE NNSTIVVMLT KLREMGREKC HQYWPAERSA
+     RYQYFVVDPM AEYNMPQYIL REFKVTDARD GQSRTVRQFQ FTDWPEQGVP KSGEGFIDFI
+     GQVHKTKEQF GQDGPISVHC SAGVGRTGVF ITLSIVLERM RYEGVVDIFQ TVKMLRTQRP
+     AMVQTEDEYQ FCYQAALEYL GSFDHYAT
+//

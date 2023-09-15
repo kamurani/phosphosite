@@ -1,0 +1,365 @@
+ID   DHX29_HUMAN             Reviewed;        1369 AA.
+AC   Q7Z478; O75549; Q63HN0; Q63HN3; Q8IWW2; Q8N3A1; Q9UMH2;
+DT   11-JUL-2006, integrated into UniProtKB/Swiss-Prot.
+DT   11-JUL-2006, sequence version 2.
+DT   28-JUN-2023, entry version 173.
+DE   RecName: Full=ATP-dependent RNA helicase DHX29 {ECO:0000255|HAMAP-Rule:MF_03068};
+DE            EC=3.6.4.13 {ECO:0000255|HAMAP-Rule:MF_03068};
+DE   AltName: Full=DEAH box protein 29 {ECO:0000255|HAMAP-Rule:MF_03068};
+DE   AltName: Full=Nucleic acid helicase DDXx;
+GN   Name=DHX29 {ECO:0000255|HAMAP-Rule:MF_03068}; Synonyms=DDX29;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Abdelhaleem M.M.;
+RT   "Identification of a new member of the DDx subfamily of helicases.";
+RL   Submitted (MAY-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT HIS-630.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 57-1369.
+RC   TISSUE=Amygdala, Fetal kidney, and Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 561-1369.
+RA   Bassi M.T., Banfi S., Riboni M., Ballabio A., Borsani G.;
+RL   Submitted (JUL-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1119-1369.
+RC   TISSUE=Brain;
+RA   Yu W., Gibbs R.A.;
+RL   Submitted (JUN-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-192 AND SER-200, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=16964243; DOI=10.1038/nbt1240;
+RA   Beausoleil S.A., Villen J., Gerber S.A., Rush J., Gygi S.P.;
+RT   "A probability-based approach for high-throughput protein phosphorylation
+RT   analysis and site localization.";
+RL   Nat. Biotechnol. 24:1285-1292(2006).
+RN   [7]
+RP   FUNCTION, RIBOSOME-BINDING, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=19109895; DOI=10.1016/j.cell.2008.10.037;
+RA   Pisareva V.P., Pisarev A.V., Komar A.A., Hellen C.U.T., Pestova T.V.;
+RT   "Translation initiation on mammalian mRNAs with structured 5'UTRs requires
+RT   DExH-box protein DHX29.";
+RL   Cell 135:1237-1250(2008).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-192 AND SER-200, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-71 AND SER-200, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-200, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-200, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [15]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (11.6 ANGSTROMS) IN COMPLEX WITH THE 43S
+RP   PRE-INITIATION COMPLEX, FUNCTION, AND SUBUNIT.
+RX   PubMed=23706745; DOI=10.1016/j.cell.2013.04.036;
+RA   Hashem Y., des Georges A., Dhote V., Langlois R., Liao H.Y.,
+RA   Grassucci R.A., Hellen C.U., Pestova T.V., Frank J.;
+RT   "Structure of the mammalian ribosomal 43S preinitiation complex bound to
+RT   the scanning factor DHX29.";
+RL   Cell 153:1108-1119(2013).
+CC   -!- FUNCTION: ATP-binding RNA helicase involved in translation initiation.
+CC       Part of the 43S pre-initiation complex that is required for efficient
+CC       initiation on mRNAs of higher eukaryotes with structured 5'-UTRs by
+CC       promoting efficient NTPase-dependent 48S complex formation.
+CC       Specifically binds to the 40S ribosome near the mRNA entrance. Does not
+CC       possess a processive helicase activity. {ECO:0000255|HAMAP-
+CC       Rule:MF_03068, ECO:0000269|PubMed:19109895,
+CC       ECO:0000269|PubMed:23706745}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.13;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03068};
+CC   -!- SUBUNIT: Part of the 43S pre-initiation complex (PIC) that contains at
+CC       least Met-tRNA, EIF1, EIF1A (EIF1AX or EIF1AY), EIF2S1, EIF2S2, EIF2S3,
+CC       EIF3A, EIF3B, EIF3C, EIF3D, EIF3E, EIF3F, EIF3G, EIF3H, EIF3I, EIF3J,
+CC       EIF3K, EIF3L, EIF3M, DHX29 and the 40S ribosomal subunit.
+CC       {ECO:0000255|HAMAP-Rule:MF_03068, ECO:0000269|PubMed:23706745}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_03068}.
+CC   -!- SIMILARITY: Belongs to the DEAD box helicase family. DEAH subfamily.
+CC       {ECO:0000255|HAMAP-Rule:MF_03068}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY036974; AAK64516.1; -; mRNA.
+DR   EMBL; BC056219; AAH56219.1; -; mRNA.
+DR   EMBL; AL834496; CAD39154.1; -; mRNA.
+DR   EMBL; BX648101; CAH56172.1; -; mRNA.
+DR   EMBL; BX648269; CAH56153.1; -; mRNA.
+DR   EMBL; AL079292; CAB45191.1; -; mRNA.
+DR   EMBL; AF070639; AAC25394.1; -; mRNA.
+DR   CCDS; CCDS34158.1; -.
+DR   RefSeq; NP_001332893.1; NM_001345964.1.
+DR   RefSeq; NP_001332894.1; NM_001345965.1.
+DR   RefSeq; NP_061903.2; NM_019030.3.
+DR   AlphaFoldDB; Q7Z478; -.
+DR   SMR; Q7Z478; -.
+DR   BioGRID; 120001; 145.
+DR   IntAct; Q7Z478; 30.
+DR   MINT; Q7Z478; -.
+DR   STRING; 9606.ENSP00000251636; -.
+DR   BindingDB; Q7Z478; -.
+DR   ChEMBL; CHEMBL4105909; -.
+DR   GlyGen; Q7Z478; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q7Z478; -.
+DR   PhosphoSitePlus; Q7Z478; -.
+DR   BioMuta; DHX29; -.
+DR   DMDM; 110278938; -.
+DR   EPD; Q7Z478; -.
+DR   jPOST; Q7Z478; -.
+DR   MassIVE; Q7Z478; -.
+DR   MaxQB; Q7Z478; -.
+DR   PaxDb; Q7Z478; -.
+DR   PeptideAtlas; Q7Z478; -.
+DR   ProteomicsDB; 69161; -.
+DR   Antibodypedia; 11081; 113 antibodies from 22 providers.
+DR   DNASU; 54505; -.
+DR   Ensembl; ENST00000251636.10; ENSP00000251636.5; ENSG00000067248.11.
+DR   GeneID; 54505; -.
+DR   KEGG; hsa:54505; -.
+DR   MANE-Select; ENST00000251636.10; ENSP00000251636.5; NM_019030.4; NP_061903.2.
+DR   UCSC; uc003jpx.4; human.
+DR   AGR; HGNC:15815; -.
+DR   CTD; 54505; -.
+DR   DisGeNET; 54505; -.
+DR   GeneCards; DHX29; -.
+DR   HGNC; HGNC:15815; DHX29.
+DR   HPA; ENSG00000067248; Low tissue specificity.
+DR   MIM; 612720; gene.
+DR   neXtProt; NX_Q7Z478; -.
+DR   OpenTargets; ENSG00000067248; -.
+DR   PharmGKB; PA27215; -.
+DR   VEuPathDB; HostDB:ENSG00000067248; -.
+DR   eggNOG; KOG0920; Eukaryota.
+DR   GeneTree; ENSGT00940000157286; -.
+DR   HOGENOM; CLU_001832_1_4_1; -.
+DR   InParanoid; Q7Z478; -.
+DR   OMA; SWFANMS; -.
+DR   OrthoDB; 1095660at2759; -.
+DR   PhylomeDB; Q7Z478; -.
+DR   TreeFam; TF324744; -.
+DR   PathwayCommons; Q7Z478; -.
+DR   SignaLink; Q7Z478; -.
+DR   BioGRID-ORCS; 54505; 122 hits in 1178 CRISPR screens.
+DR   ChiTaRS; DHX29; human.
+DR   GenomeRNAi; 54505; -.
+DR   Pharos; Q7Z478; Tbio.
+DR   PRO; PR:Q7Z478; -.
+DR   Proteomes; UP000005640; Chromosome 5.
+DR   RNAct; Q7Z478; protein.
+DR   Bgee; ENSG00000067248; Expressed in esophagus squamous epithelium and 212 other tissues.
+DR   ExpressionAtlas; Q7Z478; baseline and differential.
+DR   Genevisible; Q7Z478; HS.
+DR   GO; GO:0022627; C:cytosolic small ribosomal subunit; IDA:CACAO.
+DR   GO; GO:0016282; C:eukaryotic 43S preinitiation complex; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-UniRule.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0045296; F:cadherin binding; HDA:BHF-UCL.
+DR   GO; GO:0004386; F:helicase activity; IBA:GO_Central.
+DR   GO; GO:0017111; F:ribonucleoside triphosphate phosphatase activity; IMP:CACAO.
+DR   GO; GO:0043024; F:ribosomal small subunit binding; IDA:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0003724; F:RNA helicase activity; IEA:UniProtKB-UniRule.
+DR   GO; GO:0008494; F:translation activator activity; IMP:CACAO.
+DR   GO; GO:0003743; F:translation initiation factor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0001731; P:formation of translation preinitiation complex; IMP:CACAO.
+DR   GO; GO:0045948; P:positive regulation of translational initiation; IEA:UniProtKB-UniRule.
+DR   GO; GO:0042255; P:ribosome assembly; IMP:CACAO.
+DR   CDD; cd17975; DEXHc_DHX29; 1.
+DR   CDD; cd18791; SF2_C_RHA; 1.
+DR   Gene3D; 1.20.120.1080; -; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   HAMAP; MF_03068; DHX29; 1.
+DR   InterPro; IPR011709; DEAD-box_helicase_OB_fold.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR034730; DHX29.
+DR   InterPro; IPR002464; DNA/RNA_helicase_DEAH_CS.
+DR   InterPro; IPR007502; Helicase-assoc_dom.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR18934; ATP-DEPENDENT RNA HELICASE; 1.
+DR   PANTHER; PTHR18934:SF145; ATP-DEPENDENT RNA HELICASE DHX29; 1.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF04408; HA2; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF07717; OB_NTP_bind; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00847; HA2; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS00690; DEAH_ATP_HELICASE; 1.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+PE   1: Evidence at protein level;
+KW   ATP-binding; Coiled coil; Cytoplasm; Helicase; Hydrolase;
+KW   Initiation factor; Nucleotide-binding; Phosphoprotein;
+KW   Protein biosynthesis; Reference proteome.
+FT   CHAIN           1..1369
+FT                   /note="ATP-dependent RNA helicase DHX29"
+FT                   /id="PRO_0000245535"
+FT   DOMAIN          582..755
+FT                   /note="Helicase ATP-binding"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03068"
+FT   DOMAIN          849..1026
+FT                   /note="Helicase C-terminal"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03068"
+FT   REGION          27..75
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          176..226
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          502..526
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          222..256
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03068"
+FT   COILED          283..310
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03068"
+FT   COILED          492..519
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03068"
+FT   MOTIF           702..705
+FT                   /note="DEAH box"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03068"
+FT   COMPBIAS        186..205
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        208..226
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         595..602
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03068"
+FT   MOD_RES         71
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         192
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:16964243,
+FT                   ECO:0007744|PubMed:18669648"
+FT   MOD_RES         200
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:16964243,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   VARIANT         309
+FT                   /note="D -> A (in dbSNP:rs35874395)"
+FT                   /id="VAR_052180"
+FT   VARIANT         630
+FT                   /note="P -> H (in dbSNP:rs17854904)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_026985"
+FT   CONFLICT        121
+FT                   /note="A -> D (in Ref. 3; CAH56172)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        185
+FT                   /note="K -> E (in Ref. 3; CAH56153)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        356
+FT                   /note="D -> G (in Ref. 1; AAK64516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        885
+FT                   /note="D -> G (in Ref. 3; CAH56172)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1369 AA;  155236 MW;  F720A77D224C7F59 CRC64;
+     MGGKNKKHKA PAAAVVRAAV SASRAKSAEA GIAGEAQSKK PVSRPATAAA AAAGSREPRV
+     KQGPKIYSFN STNDSSGPAN LDKSILKVVI NNKLEQRIIG VINEHKKQNN DKGMISGRLT
+     AKKLQDLYMA LQAFSFKTKD IEDAMTNTLL YGGDLHSALD WLCLNLSDDA LPEGFSQEFE
+     EQQPKSRPKF QSPQIQATIS PPLQPKTKTY EEDPKSKPKK EEKNMEVNMK EWILRYAEQQ
+     NEEEKNENSK SLEEEEKFDP NERYLHLAAK LLDAKEQAAT FKLEKNKQGQ KEAQEKIRKF
+     QREMETLEDH PVFNPAMKIS HQQNERKKPP VATEGESALN FNLFEKSAAA TEEEKDKKKE
+     PHDVRNFDYT ARSWTGKSPK QFLIDWVRKN LPKSPNPSFE KVPVGRYWKC RVRVIKSEDD
+     VLVVCPTILT EDGMQAQHLG ATLALYRLVK GQSVHQLLPP TYRDVWLEWS DAEKKREELN
+     KMETNKPRDL FIAKLLNKLK QQQQQQQQHS ENKRENSEDP EESWENLVSD EDFSALSLES
+     ANVEDLEPVR NLFRKLQSTP KYQKLLKERQ QLPVFKHRDS IVETLKRHRV VVVAGETGSG
+     KSTQVPHFLL EDLLLNEWEA SKCNIVCTQP RRISAVSLAN RVCDELGCEN GPGGRNSLCG
+     YQIRMESRAC ESTRLLYCTT GVLLRKLQED GLLSNVSHVI VDEVHERSVQ SDFLLIILKE
+     ILQKRSDLHL ILMSATVDSE KFSTYFTHCP ILRISGRSYP VEVFHLEDII EETGFVLEKD
+     SEYCQKFLEE EEEVTINVTS KAGGIKKYQE YIPVQTGAHA DLNPFYQKYS SRTQHAILYM
+     NPHKINLDLI LELLAYLDKS PQFRNIEGAV LIFLPGLAHI QQLYDLLSND RRFYSERYKV
+     IALHSILSTQ DQAAAFTLPP PGVRKIVLAT NIAETGITIP DVVFVIDTGR TKENKYHESS
+     QMSSLVETFV SKASALQRQG RAGRVRDGFC FRMYTRERFE GFMDYSVPEI LRVPLEELCL
+     HIMKCNLGSP EDFLSKALDP PQLQVISNAM NLLRKIGACE LNEPKLTPLG QHLAALPVNV
+     KIGKMLIFGA IFGCLDPVAT LAAVMTEKSP FTTPIGRKDE ADLAKSALAM ADSDHLTIYN
+     AYLGWKKARQ EGGYRSEITY CRRNFLNRTS LLTLEDVKQE LIKLVKAAGF SSSTTSTSWE
+     GNRASQTLSF QEIALLKAVL VAGLYDNVGK IIYTKSVDVT EKLACIVETA QGKAQVHPSS
+     VNRDLQTHGW LLYQEKIRYA RVYLRETTLI TPFPVLLFGG DIEVQHRERL LSIDGWIYFQ
+     APVKIAVIFK QLRVLIDSVL RKKLENPKMS LENDKILQII TELIKTENN
+//

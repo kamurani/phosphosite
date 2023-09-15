@@ -1,0 +1,227 @@
+ID   ZN696_HUMAN             Reviewed;         374 AA.
+AC   Q9H7X3; A0AVE2;
+DT   02-MAY-2006, integrated into UniProtKB/Swiss-Prot.
+DT   04-NOV-2008, sequence version 2.
+DT   28-JUN-2023, entry version 164.
+DE   RecName: Full=Zinc finger protein 696;
+GN   Name=ZNF696;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Mammary gland;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- INTERACTION:
+CC       Q9H7X3; Q13137: CALCOCO2; NbExp=3; IntAct=EBI-11090299, EBI-739580;
+CC       Q9H7X3; O95273: CCNDBP1; NbExp=3; IntAct=EBI-11090299, EBI-748961;
+CC       Q9H7X3; O60729: CDC14B; NbExp=3; IntAct=EBI-11090299, EBI-970231;
+CC       Q9H7X3; Q8NHQ1: CEP70; NbExp=3; IntAct=EBI-11090299, EBI-739624;
+CC       Q9H7X3; A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-11090299, EBI-3867333;
+CC       Q9H7X3; Q92997: DVL3; NbExp=3; IntAct=EBI-11090299, EBI-739789;
+CC       Q9H7X3; A6NEM1: GOLGA6L9; NbExp=3; IntAct=EBI-11090299, EBI-5916454;
+CC       Q9H7X3; P28799: GRN; NbExp=3; IntAct=EBI-11090299, EBI-747754;
+CC       Q9H7X3; Q07627: KRTAP1-1; NbExp=3; IntAct=EBI-11090299, EBI-11959885;
+CC       Q9H7X3; Q8IUG1: KRTAP1-3; NbExp=3; IntAct=EBI-11090299, EBI-11749135;
+CC       Q9H7X3; P60370: KRTAP10-5; NbExp=3; IntAct=EBI-11090299, EBI-10172150;
+CC       Q9H7X3; P60371: KRTAP10-6; NbExp=3; IntAct=EBI-11090299, EBI-12012928;
+CC       Q9H7X3; P60409: KRTAP10-7; NbExp=5; IntAct=EBI-11090299, EBI-10172290;
+CC       Q9H7X3; P60410: KRTAP10-8; NbExp=3; IntAct=EBI-11090299, EBI-10171774;
+CC       Q9H7X3; P60411: KRTAP10-9; NbExp=3; IntAct=EBI-11090299, EBI-10172052;
+CC       Q9H7X3; P59991: KRTAP12-2; NbExp=3; IntAct=EBI-11090299, EBI-10176379;
+CC       Q9H7X3; P60328: KRTAP12-3; NbExp=3; IntAct=EBI-11090299, EBI-11953334;
+CC       Q9H7X3; Q9BYP8: KRTAP17-1; NbExp=3; IntAct=EBI-11090299, EBI-11988175;
+CC       Q9H7X3; Q9BQ66: KRTAP4-12; NbExp=3; IntAct=EBI-11090299, EBI-739863;
+CC       Q9H7X3; P26371: KRTAP5-9; NbExp=3; IntAct=EBI-11090299, EBI-3958099;
+CC       Q9H7X3; Q9BYQ4: KRTAP9-2; NbExp=3; IntAct=EBI-11090299, EBI-1044640;
+CC       Q9H7X3; Q99750: MDFI; NbExp=3; IntAct=EBI-11090299, EBI-724076;
+CC       Q9H7X3; Q9UJV3-2: MID2; NbExp=3; IntAct=EBI-11090299, EBI-10172526;
+CC       Q9H7X3; Q5JR59-3: MTUS2; NbExp=3; IntAct=EBI-11090299, EBI-11522433;
+CC       Q9H7X3; Q5VU43-2: PDE4DIP; NbExp=3; IntAct=EBI-11090299, EBI-9640281;
+CC       Q9H7X3; P78317: RNF4; NbExp=5; IntAct=EBI-11090299, EBI-2340927;
+CC       Q9H7X3; Q7Z699: SPRED1; NbExp=3; IntAct=EBI-11090299, EBI-5235340;
+CC       Q9H7X3; Q16623: STX1A; NbExp=3; IntAct=EBI-11090299, EBI-712466;
+CC       Q9H7X3; Q6N022: TENM4; NbExp=3; IntAct=EBI-11090299, EBI-12827077;
+CC       Q9H7X3; Q8WV44: TRIM41; NbExp=3; IntAct=EBI-11090299, EBI-725997;
+CC       Q9H7X3; Q2TAL6: VWC2; NbExp=3; IntAct=EBI-11090299, EBI-11957238;
+CC       Q9H7X3; O76024: WFS1; NbExp=3; IntAct=EBI-11090299, EBI-720609;
+CC       Q9H7X3; Q8TF50: ZNF526; NbExp=3; IntAct=EBI-11090299, EBI-11035148;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK024191; BAB14850.1; -; mRNA.
+DR   EMBL; CH471162; EAW82267.1; -; Genomic_DNA.
+DR   EMBL; BC126317; AAI26318.1; -; mRNA.
+DR   CCDS; CCDS6399.1; -.
+DR   RefSeq; NP_112157.2; NM_030895.2.
+DR   AlphaFoldDB; Q9H7X3; -.
+DR   SMR; Q9H7X3; -.
+DR   BioGRID; 123015; 70.
+DR   IntAct; Q9H7X3; 46.
+DR   STRING; 9606.ENSP00000328515; -.
+DR   iPTMnet; Q9H7X3; -.
+DR   PhosphoSitePlus; Q9H7X3; -.
+DR   BioMuta; ZNF696; -.
+DR   DMDM; 212276484; -.
+DR   EPD; Q9H7X3; -.
+DR   jPOST; Q9H7X3; -.
+DR   MassIVE; Q9H7X3; -.
+DR   MaxQB; Q9H7X3; -.
+DR   PaxDb; Q9H7X3; -.
+DR   PeptideAtlas; Q9H7X3; -.
+DR   ProteomicsDB; 81154; -.
+DR   Antibodypedia; 27868; 108 antibodies from 18 providers.
+DR   DNASU; 79943; -.
+DR   Ensembl; ENST00000330143.8; ENSP00000328515.3; ENSG00000185730.8.
+DR   GeneID; 79943; -.
+DR   KEGG; hsa:79943; -.
+DR   MANE-Select; ENST00000330143.8; ENSP00000328515.3; NM_030895.3; NP_112157.2.
+DR   UCSC; uc003yxy.5; human.
+DR   AGR; HGNC:25872; -.
+DR   CTD; 79943; -.
+DR   GeneCards; ZNF696; -.
+DR   HGNC; HGNC:25872; ZNF696.
+DR   HPA; ENSG00000185730; Low tissue specificity.
+DR   neXtProt; NX_Q9H7X3; -.
+DR   OpenTargets; ENSG00000185730; -.
+DR   PharmGKB; PA142670494; -.
+DR   VEuPathDB; HostDB:ENSG00000185730; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000163493; -.
+DR   HOGENOM; CLU_002678_3_0_1; -.
+DR   InParanoid; Q9H7X3; -.
+DR   OMA; CGLSFKC; -.
+DR   OrthoDB; 4721975at2759; -.
+DR   PhylomeDB; Q9H7X3; -.
+DR   TreeFam; TF337055; -.
+DR   PathwayCommons; Q9H7X3; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q9H7X3; -.
+DR   BioGRID-ORCS; 79943; 24 hits in 1179 CRISPR screens.
+DR   ChiTaRS; ZNF696; human.
+DR   GenomeRNAi; 79943; -.
+DR   Pharos; Q9H7X3; Tdark.
+DR   PRO; PR:Q9H7X3; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; Q9H7X3; protein.
+DR   Bgee; ENSG00000185730; Expressed in tendon of biceps brachii and 155 other tissues.
+DR   ExpressionAtlas; Q9H7X3; baseline and differential.
+DR   Genevisible; Q9H7X3; HS.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 9.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23235:SF110; -; 1.
+DR   PANTHER; PTHR23235; KRUEPPEL-LIKE TRANSCRIPTION FACTOR; 1.
+DR   Pfam; PF00096; zf-C2H2; 8.
+DR   SMART; SM00355; ZnF_C2H2; 9.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 5.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 9.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 9.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..374
+FT                   /note="Zinc finger protein 696"
+FT                   /id="PRO_0000233278"
+FT   ZN_FING         125..147
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         153..175
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         181..203
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         209..231
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         237..259
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         265..287
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         293..315
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         321..343
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         349..371
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          30..119
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CONFLICT        312
+FT                   /note="R -> C (in Ref. 1; BAB14850)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   374 AA;  40575 MW;  68AE7E35A33FD6FE CRC64;
+     MEPGGEPTGA KESSTLMESL AAVKAAFLAQ APSGSRSAEV QAAQSTEPAA EAGAPEGEGH
+     RGGPPRALGS LGLCENQEAR ERPGGSPRGP VTSEKTGGQS GLESDVPPNA GPGAEGGGSW
+     KGRPFPCGAC GRSFKCSSDA AKHRSIHSGE KPYECSDCGK AFIHSSHVVR HQRAHSGERP
+     YACAECGKAF GQSFNLLRHQ RVHTGEKPYA CADCGKAFGQ RSDAAKHRRT HTGERLYACG
+     ECGKRFLHSS NVVRHRRTHH GENPYECREC GQAFSQSSNL LQHQRVHTGE RPFACQDCGR
+     AFSRSSFLRE HRRIHTGEKP HQCGHCGRAF RALSGFFRHQ RLHTGEKPFR CTECGRAFRL
+     SFHLIQHRRV HGAE
+//

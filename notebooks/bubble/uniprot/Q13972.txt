@@ -1,0 +1,379 @@
+ID   RGRF1_HUMAN             Reviewed;        1273 AA.
+AC   Q13972; F8VPA5; H0YKF2; J3KQP9; Q16027;
+DT   21-FEB-2001, integrated into UniProtKB/Swiss-Prot.
+DT   16-APR-2014, sequence version 2.
+DT   28-JUN-2023, entry version 208.
+DE   RecName: Full=Ras-specific guanine nucleotide-releasing factor 1;
+DE            Short=Ras-GRF1;
+DE   AltName: Full=Guanine nucleotide-releasing protein;
+DE            Short=GNRP;
+DE   AltName: Full=Ras-specific nucleotide exchange factor CDC25;
+GN   Name=RASGRF1; Synonyms=CDC25, GNRP, GRF1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=7828890; DOI=10.1016/0378-1119(94)90671-8;
+RA   Wei W., Das B., Park W., Broek D.;
+RT   "Cloning and analysis of human cDNAs encoding a 140-kDa brain guanine
+RT   nucleotide-exchange factor, Cdc25GEF, which regulates the function of
+RT   Ras.";
+RL   Gene 151:279-284(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RX   PubMed=7684828;
+RA   Schweighoffer F., Faure M., Fath I., Chevallier-Multon M.C., Apiou F.,
+RA   Dutrillaux B., Sturani E., Jacquet M., Tocque B.;
+RT   "Identification of a human guanine nucleotide-releasing factor (H-GRF55)
+RT   specific for Ras proteins.";
+RL   Oncogene 8:1477-1485(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16572171; DOI=10.1038/nature04601;
+RA   Zody M.C., Garber M., Sharpe T., Young S.K., Rowen L., O'Neill K.,
+RA   Whittaker C.A., Kamal M., Chang J.L., Cuomo C.A., Dewar K.,
+RA   FitzGerald M.G., Kodira C.D., Madan A., Qin S., Yang X., Abbasi N.,
+RA   Abouelleil A., Arachchi H.M., Baradarani L., Birditt B., Bloom S.,
+RA   Bloom T., Borowsky M.L., Burke J., Butler J., Cook A., DeArellano K.,
+RA   DeCaprio D., Dorris L. III, Dors M., Eichler E.E., Engels R., Fahey J.,
+RA   Fleetwood P., Friedman C., Gearin G., Hall J.L., Hensley G., Johnson E.,
+RA   Jones C., Kamat A., Kaur A., Locke D.P., Madan A., Munson G., Jaffe D.B.,
+RA   Lui A., Macdonald P., Mauceli E., Naylor J.W., Nesbitt R., Nicol R.,
+RA   O'Leary S.B., Ratcliffe A., Rounsley S., She X., Sneddon K.M.B.,
+RA   Stewart S., Sougnez C., Stone S.M., Topham K., Vincent D., Wang S.,
+RA   Zimmer A.R., Birren B.W., Hood L., Lander E.S., Nusbaum C.;
+RT   "Analysis of the DNA sequence and duplication history of human chromosome
+RT   15.";
+RL   Nature 440:671-675(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 115-1273 (ISOFORM 3).
+RC   TISSUE=Brain;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1045-1273 (ISOFORM 1).
+RX   PubMed=1379731; DOI=10.1073/pnas.89.15.7100;
+RA   Wei W., Mosteller R.D., Sanyal P., Gonzales E., McKinney D., Dasgupta C.,
+RA   Li P., Liu B.-X., Broek D.;
+RT   "Identification of a mammalian gene structurally and functionally related
+RT   to the CDC25 gene of Saccharomyces cerevisiae.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:7100-7104(1992).
+RN   [7]
+RP   OLIGOMERIZATION, AND INTERACTION WITH RASGRF2.
+RX   PubMed=10373510; DOI=10.1128/mcb.19.7.4611;
+RA   Anborgh P.H., Qian X., Papageorge A.G., Vass W.C., DeClue J.E., Lowy D.R.;
+RT   "Ras-specific exchange factor GRF: oligomerization through its Dbl homology
+RT   domain and calcium-dependent activation of Raf.";
+RL   Mol. Cell. Biol. 19:4611-4622(1999).
+RN   [8]
+RP   PHOSPHORYLATION, AND FUNCTION.
+RX   PubMed=11389730; DOI=10.1046/j.1432-1327.2001.02230.x;
+RA   Giglione C., Gonfloni S., Parmeggiani A.;
+RT   "Differential actions of p60c-Src and Lck kinases on the Ras regulators
+RT   p120-GAP and GDP/GTP exchange factor CDC25Mm.";
+RL   Eur. J. Biochem. 268:3275-3283(2001).
+CC   -!- FUNCTION: Promotes the exchange of Ras-bound GDP by GTP.
+CC       {ECO:0000269|PubMed:11389730}.
+CC   -!- SUBUNIT: Homooligomer and heterooligomer with RASGRF2. Interacts with
+CC       USP8, thereby regulating its stability (By similarity). {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q13972-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q13972-2; Sequence=VSP_012032;
+CC       Name=3;
+CC         IsoId=Q13972-3; Sequence=VSP_054072, VSP_054073;
+CC   -!- DOMAIN: The DH (DBL-homology) domain mediates interaction with RASGRF2.
+CC   -!- PTM: Phosphorylated by PLK2, leading to ubiquitination and degradation
+CC       by the proteasome. {ECO:0000250}.
+CC   -!- PTM: Ubiquitinated and degraded following phosphorylation by PLK2.
+CC       {ECO:0000250}.
+CC   -!- PTM: Phosphorylated by SRC and LCK. Phosphorylation by LCK increases
+CC       its capacity to stimulate the GDP/GTP exchange on Ras, whereas its
+CC       phosphorylation by SRC seems not to have an effect on stimulation
+CC       activity. {ECO:0000269|PubMed:11389730}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/43453/RASGRF1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L26584; AAA58417.1; -; mRNA.
+DR   EMBL; S62035; AAB26881.1; -; mRNA.
+DR   EMBL; AC011944; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC104231; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471136; EAW99141.1; -; Genomic_DNA.
+DR   EMBL; AK226101; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; M91815; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS10309.1; -. [Q13972-1]
+DR   CCDS; CCDS42065.1; -. [Q13972-2]
+DR   CCDS; CCDS45320.1; -. [Q13972-3]
+DR   PIR; A38985; A38985.
+DR   RefSeq; NP_002882.3; NM_002891.4. [Q13972-1]
+DR   RefSeq; NP_722522.1; NM_153815.2. [Q13972-2]
+DR   AlphaFoldDB; Q13972; -.
+DR   SMR; Q13972; -.
+DR   BioGRID; 111858; 13.
+DR   IntAct; Q13972; 8.
+DR   MINT; Q13972; -.
+DR   STRING; 9606.ENSP00000405963; -.
+DR   ChEMBL; CHEMBL5468; -.
+DR   GlyConnect; 2067; 1 N-Linked glycan (1 site).
+DR   GlyCosmos; Q13972; 1 site, 2 glycans.
+DR   GlyGen; Q13972; 1 site, 2 N-linked glycans (1 site).
+DR   iPTMnet; Q13972; -.
+DR   PhosphoSitePlus; Q13972; -.
+DR   BioMuta; RASGRF1; -.
+DR   DMDM; 13124259; -.
+DR   CPTAC; non-CPTAC-5436; -.
+DR   CPTAC; non-CPTAC-5437; -.
+DR   CPTAC; non-CPTAC-5438; -.
+DR   jPOST; Q13972; -.
+DR   MassIVE; Q13972; -.
+DR   PaxDb; Q13972; -.
+DR   PeptideAtlas; Q13972; -.
+DR   ProteomicsDB; 28264; -.
+DR   ProteomicsDB; 59779; -. [Q13972-1]
+DR   ProteomicsDB; 59780; -. [Q13972-2]
+DR   Antibodypedia; 4170; 364 antibodies from 33 providers.
+DR   DNASU; 5923; -.
+DR   Ensembl; ENST00000394745.3; ENSP00000378228.3; ENSG00000058335.16. [Q13972-2]
+DR   Ensembl; ENST00000419573.7; ENSP00000405963.3; ENSG00000058335.16. [Q13972-1]
+DR   Ensembl; ENST00000558480.7; ENSP00000452781.2; ENSG00000058335.16. [Q13972-3]
+DR   GeneID; 5923; -.
+DR   KEGG; hsa:5923; -.
+DR   MANE-Select; ENST00000558480.7; ENSP00000452781.2; NM_001145648.3; NP_001139120.1. [Q13972-3]
+DR   UCSC; uc002beo.4; human. [Q13972-1]
+DR   AGR; HGNC:9875; -.
+DR   CTD; 5923; -.
+DR   DisGeNET; 5923; -.
+DR   GeneCards; RASGRF1; -.
+DR   HGNC; HGNC:9875; RASGRF1.
+DR   HPA; ENSG00000058335; Group enriched (brain, lung, retina).
+DR   MIM; 606600; gene.
+DR   neXtProt; NX_Q13972; -.
+DR   OpenTargets; ENSG00000058335; -.
+DR   PharmGKB; PA34238; -.
+DR   VEuPathDB; HostDB:ENSG00000058335; -.
+DR   eggNOG; KOG3417; Eukaryota.
+DR   GeneTree; ENSGT00940000157599; -.
+DR   HOGENOM; CLU_003405_0_1_1; -.
+DR   InParanoid; Q13972; -.
+DR   OMA; SCNTNGY; -.
+DR   OrthoDB; 68574at2759; -.
+DR   PhylomeDB; Q13972; -.
+DR   TreeFam; TF317296; -.
+DR   PathwayCommons; Q13972; -.
+DR   Reactome; R-HSA-442982; Ras activation upon Ca2+ influx through NMDA receptor.
+DR   Reactome; R-HSA-5673001; RAF/MAP kinase cascade.
+DR   SignaLink; Q13972; -.
+DR   SIGNOR; Q13972; -.
+DR   BioGRID-ORCS; 5923; 9 hits in 1150 CRISPR screens.
+DR   ChiTaRS; RASGRF1; human.
+DR   GenomeRNAi; 5923; -.
+DR   Pharos; Q13972; Tbio.
+DR   PRO; PR:Q13972; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q13972; protein.
+DR   Bgee; ENSG00000058335; Expressed in C1 segment of cervical spinal cord and 117 other tissues.
+DR   Genevisible; Q13972; HS.
+DR   GO; GO:0005829; C:cytosol; ISS:HGNC-UCL.
+DR   GO; GO:0030426; C:growth cone; ISS:HGNC-UCL.
+DR   GO; GO:0043005; C:neuron projection; NAS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0035254; F:glutamate receptor binding; IEA:Ensembl.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IMP:BHF-UCL.
+DR   GO; GO:0090630; P:activation of GTPase activity; ISS:HGNC-UCL.
+DR   GO; GO:0007616; P:long-term memory; NAS:UniProtKB.
+DR   GO; GO:0031175; P:neuron projection development; ISS:HGNC-UCL.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; ISS:HGNC-UCL.
+DR   GO; GO:0046579; P:positive regulation of Ras protein signal transduction; ISS:UniProtKB.
+DR   GO; GO:0007265; P:Ras protein signal transduction; IBA:GO_Central.
+DR   GO; GO:0048168; P:regulation of neuronal synaptic plasticity; IEA:Ensembl.
+DR   GO; GO:2000310; P:regulation of NMDA receptor activity; IEA:Ensembl.
+DR   GO; GO:0035020; P:regulation of Rac protein signal transduction; ISS:HGNC-UCL.
+DR   GO; GO:0046578; P:regulation of Ras protein signal transduction; ISS:HGNC-UCL.
+DR   GO; GO:0048167; P:regulation of synaptic plasticity; ISS:UniProtKB.
+DR   GO; GO:0034976; P:response to endoplasmic reticulum stress; IMP:BHF-UCL.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   GO; GO:0044342; P:type B pancreatic cell proliferation; IEA:Ensembl.
+DR   CDD; cd13261; PH_RasGRF1_2; 1.
+DR   CDD; cd00155; RasGEF; 1.
+DR   CDD; cd06224; REM; 1.
+DR   CDD; cd00160; RhoGEF; 1.
+DR   Gene3D; 1.20.900.10; Dbl homology (DH) domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 2.
+DR   Gene3D; 1.10.840.10; Ras guanine-nucleotide exchange factors catalytic domain; 1.
+DR   Gene3D; 1.20.870.10; Son of sevenless (SoS) protein Chain: S domain 1; 2.
+DR   InterPro; IPR035899; DBL_dom_sf.
+DR   InterPro; IPR000219; DH-domain.
+DR   InterPro; IPR001331; GDS_CDC24_CS.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR008937; Ras-like_GEF.
+DR   InterPro; IPR000651; Ras-like_Gua-exchang_fac_N.
+DR   InterPro; IPR019804; Ras_G-nucl-exch_fac_CS.
+DR   InterPro; IPR023578; Ras_GEF_dom_sf.
+DR   InterPro; IPR001895; RASGEF_cat_dom.
+DR   InterPro; IPR036964; RASGEF_cat_dom_sf.
+DR   PANTHER; PTHR23113; GUANINE NUCLEOTIDE EXCHANGE FACTOR; 1.
+DR   PANTHER; PTHR23113:SF193; RAS-SPECIFIC GUANINE NUCLEOTIDE-RELEASING FACTOR 1; 1.
+DR   Pfam; PF00169; PH; 2.
+DR   Pfam; PF00617; RasGEF; 1.
+DR   Pfam; PF00618; RasGEF_N; 1.
+DR   Pfam; PF00621; RhoGEF; 1.
+DR   SMART; SM00233; PH; 2.
+DR   SMART; SM00147; RasGEF; 1.
+DR   SMART; SM00229; RasGEFN; 2.
+DR   SMART; SM00325; RhoGEF; 1.
+DR   SUPFAM; SSF48065; DBL homology domain (DH-domain); 1.
+DR   SUPFAM; SSF50729; PH domain-like; 2.
+DR   SUPFAM; SSF48366; Ras GEF; 1.
+DR   PROSITE; PS00741; DH_1; 1.
+DR   PROSITE; PS50010; DH_2; 1.
+DR   PROSITE; PS50096; IQ; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 2.
+DR   PROSITE; PS00720; RASGEF; 1.
+DR   PROSITE; PS50009; RASGEF_CAT; 1.
+DR   PROSITE; PS50212; RASGEF_NTER; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Guanine-nucleotide releasing factor; Phosphoprotein;
+KW   Reference proteome; Repeat; Ubl conjugation.
+FT   CHAIN           1..1273
+FT                   /note="Ras-specific guanine nucleotide-releasing factor 1"
+FT                   /id="PRO_0000068880"
+FT   DOMAIN          22..129
+FT                   /note="PH 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          204..229
+FT                   /note="IQ"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00116"
+FT   DOMAIN          240..426
+FT                   /note="DH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00062"
+FT   DOMAIN          467..584
+FT                   /note="PH 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          644..761
+FT                   /note="N-terminal Ras-GEF"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00135"
+FT   DOMAIN          1038..1270
+FT                   /note="Ras-GEF"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00168"
+FT   REGION          724..754
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          809..874
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        737..754
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        851..874
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         577
+FT                   /note="Phosphoserine; by PLK2"
+FT                   /evidence="ECO:0000250|UniProtKB:P28818"
+FT   MOD_RES         626
+FT                   /note="Phosphoserine; by PLK2"
+FT                   /evidence="ECO:0000250|UniProtKB:P28818"
+FT   MOD_RES         758
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P27671"
+FT   MOD_RES         779
+FT                   /note="Phosphoserine; by PLK2"
+FT                   /evidence="ECO:0000250|UniProtKB:P28818"
+FT   MOD_RES         800
+FT                   /note="Phosphoserine; by PLK2"
+FT                   /evidence="ECO:0000250|UniProtKB:P28818"
+FT   VAR_SEQ         1..784
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:7684828"
+FT                   /id="VSP_012032"
+FT   VAR_SEQ         610..622
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_054072"
+FT   VAR_SEQ         705..707
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_054073"
+FT   CONFLICT        1053
+FT                   /note="V -> A (in Ref. 6; M91815)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1111
+FT                   /note="E -> G (in Ref. 6; M91815)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1134
+FT                   /note="S -> C (in Ref. 6; M91815)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1273 AA;  145234 MW;  B629AEAFDC7E500A CRC64;
+     MQKGIRLNDG HVASLGLLAR KDGTRKGYLS KRSSDNTKWQ TKWFALLQNL LFYFESDSSS
+     RPSGLYLLEG CVCDRAPSPK PALSAKEPLE KQHYFTVNFS HENQKALELR TEDAKDCDEW
+     VAAIAHASYR TLATEHEALM QKYLHLLQIV ETEKTVAKQL RQQIEDGEIE IERLKAEITS
+     LLKDNERIQS TQTVAPNDED SDIKKIKKVQ SFLRGWLCRR KWKTIIQDYI RSPHADSMRK
+     RNQVVFSMLE AEAEYVQQLH ILVNNFLRPL RMAASSKKPP ITHDDVSSIF LNSETIMFLH
+     QIFYQGLKAR ISSWPTLVLA DLFDILLPML NIYQEFVRNH QYSLQILAHC KQNRDFDKLL
+     KHYEAKPDCE ERTLETFLTY PMFQIPRYIL TLHELLAHTP HEHVERNSLD YAKSKLEELS
+     RIMHDEVSET ENIRKNLAIE RMIIEGCEIL LDTSQTFVRQ GSLIQVPMSE KGKITRGRLG
+     SLSLKKEGER QCFLFSKHLI ICTRGSGGKL HLTKNGVISL IDCTLLEEPE STEEEAKGSG
+     QDIDHLDFKI GVEPKDSPPF TVILVASSRQ EKAAWTSDIS QCVDNIRCNG LMMNAFEENS
+     KVTVPQMIKR TREGTREAEM SRSDASLYCD DVDIRFSKTM NSCKVLQIRY ASVERLLERL
+     TDLRFLSIDF LNTFLHSYRV FTTAIVVLDK LITIYKKPIS AIPARWLRSL ELLFASGQNN
+     KLLYGEPPKS PRATRKFSSP PPLSITKTSS PSRRRKLSLN IPIITGGKAL DLAALSCNSN
+     GYTSMYSAMS PFSKATLDTS KLYVSSSFTN KIPDEGDTTP EKPEDPSALS KQSSEVSMRE
+     ESDIDQNQSD DGDTETSPTK SPTTPKSVKN KNSSEFPLFS YNNGVVMTSC RELDNNRSAL
+     SAASAFAIAT AGANEGTPNK EKYRRMSLAS AGFPPDQRNG DKEFVIRRAA TNRVLNVLRH
+     WVSKHSQDFE TNDELKCKVI GFLEEVMHDP ELLTQERKAA ANIIRTLTQE DPGDNQITLE
+     EITQMAEGVK AEPFENHSAL EIAEQLTLLD HLVFKKIPYE EFFGQGWMKL EKNERTPYIM
+     KTTKHFNDIS NLIASEIIRN EDINARVSAI EKWVAVADIC RCLHNYNAVL EITSSMNRSA
+     IFRLKKTWLK VSKQTKALID KLQKLVSSEG RFKNLREALK NCDPPCVPYL GMYLTDLAFI
+     EEGTPNYTED GLVNFSKMRM ISHIIREIRQ FQQTAYKIEH QAKVTQYLLD QSFVMDEESL
+     YESSLRIEPK LPT
+//

@@ -1,0 +1,241 @@
+ID   DDX49_HUMAN             Reviewed;         483 AA.
+AC   Q9Y6V7; E7ENA0; Q53FJ1; Q9BVQ8;
+DT   27-SEP-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   28-JUN-2023, entry version 177.
+DE   RecName: Full=Probable ATP-dependent RNA helicase DDX49;
+DE            EC=3.6.4.13;
+DE   AltName: Full=DEAD box protein 49;
+GN   Name=DDX49;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Synovial cell;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Cervix, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.13;
+CC   -!- INTERACTION:
+CC       Q9Y6V7; O75459: PAGE1; NbExp=3; IntAct=EBI-719274, EBI-2559100;
+CC       Q9Y6V7; Q16623: STX1A; NbExp=3; IntAct=EBI-719274, EBI-712466;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9Y6V7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9Y6V7-2; Sequence=VSP_056367, VSP_056368, VSP_056369;
+CC   -!- SIMILARITY: Belongs to the DEAD box helicase family. DDX49/DBP8
+CC       subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK223294; BAD97014.1; -; mRNA.
+DR   EMBL; AC002985; AAB81544.1; -; Genomic_DNA.
+DR   EMBL; CH471106; EAW84758.1; -; Genomic_DNA.
+DR   EMBL; BC000979; AAH00979.2; -; mRNA.
+DR   EMBL; BC002674; AAH02674.1; -; mRNA.
+DR   CCDS; CCDS12390.1; -. [Q9Y6V7-1]
+DR   RefSeq; NP_061943.2; NM_019070.4. [Q9Y6V7-1]
+DR   AlphaFoldDB; Q9Y6V7; -.
+DR   SMR; Q9Y6V7; -.
+DR   BioGRID; 120040; 70.
+DR   IntAct; Q9Y6V7; 15.
+DR   MINT; Q9Y6V7; -.
+DR   STRING; 9606.ENSP00000247003; -.
+DR   iPTMnet; Q9Y6V7; -.
+DR   PhosphoSitePlus; Q9Y6V7; -.
+DR   SwissPalm; Q9Y6V7; -.
+DR   BioMuta; DDX49; -.
+DR   DMDM; 74753527; -.
+DR   EPD; Q9Y6V7; -.
+DR   jPOST; Q9Y6V7; -.
+DR   MassIVE; Q9Y6V7; -.
+DR   MaxQB; Q9Y6V7; -.
+DR   PaxDb; Q9Y6V7; -.
+DR   PeptideAtlas; Q9Y6V7; -.
+DR   ProteomicsDB; 79228; -.
+DR   ProteomicsDB; 86799; -. [Q9Y6V7-1]
+DR   Antibodypedia; 15208; 153 antibodies from 23 providers.
+DR   DNASU; 54555; -.
+DR   Ensembl; ENST00000247003.9; ENSP00000247003.3; ENSG00000105671.12. [Q9Y6V7-1]
+DR   GeneID; 54555; -.
+DR   KEGG; hsa:54555; -.
+DR   MANE-Select; ENST00000247003.9; ENSP00000247003.3; NM_019070.5; NP_061943.2.
+DR   UCSC; uc002nkq.3; human. [Q9Y6V7-1]
+DR   AGR; HGNC:18684; -.
+DR   CTD; 54555; -.
+DR   DisGeNET; 54555; -.
+DR   GeneCards; DDX49; -.
+DR   HGNC; HGNC:18684; DDX49.
+DR   HPA; ENSG00000105671; Low tissue specificity.
+DR   neXtProt; NX_Q9Y6V7; -.
+DR   OpenTargets; ENSG00000105671; -.
+DR   PharmGKB; PA134956171; -.
+DR   VEuPathDB; HostDB:ENSG00000105671; -.
+DR   eggNOG; KOG0333; Eukaryota.
+DR   eggNOG; KOG0340; Eukaryota.
+DR   GeneTree; ENSGT00730000111231; -.
+DR   HOGENOM; CLU_003041_1_1_1; -.
+DR   InParanoid; Q9Y6V7; -.
+DR   OMA; GRQMEEW; -.
+DR   OrthoDB; 149428at2759; -.
+DR   PhylomeDB; Q9Y6V7; -.
+DR   TreeFam; TF320511; -.
+DR   PathwayCommons; Q9Y6V7; -.
+DR   Reactome; R-HSA-6790901; rRNA modification in the nucleus and cytosol.
+DR   Reactome; R-HSA-6791226; Major pathway of rRNA processing in the nucleolus and cytosol.
+DR   SignaLink; Q9Y6V7; -.
+DR   BioGRID-ORCS; 54555; 766 hits in 1155 CRISPR screens.
+DR   ChiTaRS; DDX49; human.
+DR   GenomeRNAi; 54555; -.
+DR   Pharos; Q9Y6V7; Tbio.
+DR   PRO; PR:Q9Y6V7; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q9Y6V7; protein.
+DR   Bgee; ENSG00000105671; Expressed in cortical plate and 192 other tissues.
+DR   ExpressionAtlas; Q9Y6V7; baseline and differential.
+DR   Genevisible; Q9Y6V7; HS.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0003724; F:RNA helicase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030307; P:positive regulation of cell growth; IMP:CACAO.
+DR   GO; GO:0044357; P:regulation of rRNA stability; IMP:CACAO.
+DR   GO; GO:0006364; P:rRNA processing; IBA:GO_Central.
+DR   CDD; cd17955; DEADc_DDX49; 1.
+DR   CDD; cd18787; SF2_C_DEAD; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR000629; RNA-helicase_DEAD-box_CS.
+DR   InterPro; IPR014014; RNA_helicase_DEAD_Q_motif.
+DR   PANTHER; PTHR47959:SF1; ATP-DEPENDENT RNA HELICASE DBPA; 1.
+DR   PANTHER; PTHR47959; ATP-DEPENDENT RNA HELICASE RHLE-RELATED; 1.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS00039; DEAD_ATP_HELICASE; 1.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+DR   PROSITE; PS51195; Q_MOTIF; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; ATP-binding; Helicase; Hydrolase; Nucleotide-binding;
+KW   Reference proteome; RNA-binding.
+FT   CHAIN           1..483
+FT                   /note="Probable ATP-dependent RNA helicase DDX49"
+FT                   /id="PRO_0000055052"
+FT   DOMAIN          33..207
+FT                   /note="Helicase ATP-binding"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   DOMAIN          218..382
+FT                   /note="Helicase C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00542"
+FT   REGION          444..483
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           2..30
+FT                   /note="Q motif"
+FT   MOTIF           152..155
+FT                   /note="DEAD box"
+FT   BINDING         46..53
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   VAR_SEQ         1..107
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_056367"
+FT   VAR_SEQ         312..361
+FT                   /note="LDIPTVQVVINHNTPGLPKIYIHRVGRTARAGRQGQAITLVTQYDIHLVH
+FT                   -> ADQPPLPPGAWTSLRYRWSSTTTPPGSPRSTSTESAGRPVQGGRVRPSRW (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_056368"
+FT   VAR_SEQ         362..483
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_056369"
+FT   VARIANT         222
+FT                   /note="R -> H (in dbSNP:rs35802425)"
+FT                   /id="VAR_033858"
+FT   VARIANT         296
+FT                   /note="S -> A (in dbSNP:rs35614860)"
+FT                   /id="VAR_033859"
+FT   VARIANT         413
+FT                   /note="R -> W (in dbSNP:rs16995781)"
+FT                   /id="VAR_052167"
+FT   CONFLICT        35
+FT                   /note="A -> V (in Ref. 1; BAD97014)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   483 AA;  54226 MW;  2B46DD6A992B2532 CRC64;
+     MAGFAELGLS SWLVEQCRQL GLKQPTPVQL GCIPAILEGR DCLGCAKTGS GKTAAFVLPI
+     LQKLSEDPYG IFCLVLTPTR ELAYQIAEQF RVLGKPLGLK DCIIVGGMDM VAQALELSRK
+     PHVVIATPGR LADHLRSSNT FSIKKIRFLV MDEADRLLEQ GCTDFTVDLE AILAAVPARR
+     QTLLFSATLT DTLRELQGLA TNQPFFWEAQ APVSTVEQLD QRYLLVPEKV KDAYLVHLIQ
+     RFQDEHEDWS IIIFTNTCKT CQILCMMLRK FSFPTVALHS MMKQKERFAA LAKFKSSIYR
+     ILIATDVASR GLDIPTVQVV INHNTPGLPK IYIHRVGRTA RAGRQGQAIT LVTQYDIHLV
+     HAIEEQIKKK LEEFSVEEAE VLQILTQVNV VRRECEIKLE AAHFDEKKEI NKRKQLILEG
+     KDPDLEAKRK AELAKIKQKN RRFKEKVEET LKRQKAGRAG HKGRPPRTPS GSHSGPVPSQ
+     GLV
+//

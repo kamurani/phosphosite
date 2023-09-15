@@ -1,0 +1,249 @@
+ID   ZNF14_HUMAN             Reviewed;         642 AA.
+AC   P17017; B9EGA4; Q9ULZ5;
+DT   01-AUG-1990, integrated into UniProtKB/Swiss-Prot.
+DT   30-NOV-2010, sequence version 3.
+DT   28-JUN-2023, entry version 200.
+DE   RecName: Full=Zinc finger protein 14;
+DE   AltName: Full=Gonadotropin-inducible ovary transcription repressor 4;
+DE            Short=GIOT-4;
+DE   AltName: Full=Zinc finger protein KOX6;
+GN   Name=ZNF14; Synonyms=GIOT4, KOX6;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT SER-274.
+RC   TISSUE=Ovary;
+RA   Okada T., Mizutani T., Miyamoto K.;
+RT   "Identification and characterization of novel zinc finger proteins in the
+RT   human ovary.";
+RL   Submitted (DEC-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 391-446.
+RC   TISSUE=Lymphoid tissue;
+RX   PubMed=2288909;
+RA   Thiesen H.-J.;
+RT   "Multiple genes encoding zinc finger domains are expressed in human T
+RT   cells.";
+RL   New Biol. 2:363-374(1990).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB021644; BAA86990.1; -; mRNA.
+DR   EMBL; AC011458; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471106; EAW84858.1; -; Genomic_DNA.
+DR   EMBL; BC136323; AAI36324.1; -; mRNA.
+DR   EMBL; X52337; CAA36563.1; -; mRNA.
+DR   CCDS; CCDS12409.1; -.
+DR   PIR; I37974; I37974.
+DR   RefSeq; NP_066358.2; NM_021030.2.
+DR   AlphaFoldDB; P17017; -.
+DR   SMR; P17017; -.
+DR   BioGRID; 113393; 9.
+DR   STRING; 9606.ENSP00000340514; -.
+DR   GlyGen; P17017; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P17017; -.
+DR   PhosphoSitePlus; P17017; -.
+DR   BioMuta; ZNF14; -.
+DR   DMDM; 313104250; -.
+DR   EPD; P17017; -.
+DR   jPOST; P17017; -.
+DR   MassIVE; P17017; -.
+DR   MaxQB; P17017; -.
+DR   PaxDb; P17017; -.
+DR   PeptideAtlas; P17017; -.
+DR   ProteomicsDB; 53414; -.
+DR   Antibodypedia; 28563; 65 antibodies from 17 providers.
+DR   DNASU; 7561; -.
+DR   Ensembl; ENST00000344099.4; ENSP00000340514.2; ENSG00000105708.9.
+DR   GeneID; 7561; -.
+DR   KEGG; hsa:7561; -.
+DR   MANE-Select; ENST00000344099.4; ENSP00000340514.2; NM_021030.3; NP_066358.2.
+DR   UCSC; uc002nnk.2; human.
+DR   AGR; HGNC:12924; -.
+DR   CTD; 7561; -.
+DR   DisGeNET; 7561; -.
+DR   GeneCards; ZNF14; -.
+DR   HGNC; HGNC:12924; ZNF14.
+DR   HPA; ENSG00000105708; Low tissue specificity.
+DR   MIM; 194556; gene.
+DR   neXtProt; NX_P17017; -.
+DR   OpenTargets; ENSG00000105708; -.
+DR   PharmGKB; PA37511; -.
+DR   VEuPathDB; HostDB:ENSG00000105708; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00950000182755; -.
+DR   HOGENOM; CLU_002678_44_3_1; -.
+DR   InParanoid; P17017; -.
+DR   OMA; PCKCKAV; -.
+DR   OrthoDB; 4318861at2759; -.
+DR   PhylomeDB; P17017; -.
+DR   TreeFam; TF343410; -.
+DR   PathwayCommons; P17017; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   BioGRID-ORCS; 7561; 85 hits in 1141 CRISPR screens.
+DR   ChiTaRS; ZNF14; human.
+DR   GenomeRNAi; 7561; -.
+DR   Pharos; P17017; Tdark.
+DR   PRO; PR:P17017; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; P17017; protein.
+DR   Bgee; ENSG00000105708; Expressed in secondary oocyte and 193 other tissues.
+DR   Genevisible; P17017; HS.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 19.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23226:SF298; PLURIPOTENCY-ASSOCIATED TRANSCRIPT 25-RELATED; 1.
+DR   PANTHER; PTHR23226; ZINC FINGER AND SCAN DOMAIN-CONTAINING; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 12.
+DR   Pfam; PF13912; zf-C2H2_6; 3.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 18.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 11.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 17.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 19.
+PE   2: Evidence at transcript level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..642
+FT                   /note="Zinc finger protein 14"
+FT                   /id="PRO_0000047337"
+FT   DOMAIN          4..76
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         103..125
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         141..163
+FT                   /note="C2H2-type 2; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         169..191
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         197..217
+FT                   /note="C2H2-type 4; atypical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         223..245
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         251..273
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         279..301
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         307..329
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         335..357
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         363..385
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         391..413
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         419..441
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         447..469
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         475..497
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         503..525
+FT                   /note="C2H2-type 15"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         531..553
+FT                   /note="C2H2-type 16"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         559..581
+FT                   /note="C2H2-type 17"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         587..609
+FT                   /note="C2H2-type 18"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         615..637
+FT                   /note="C2H2-type 19"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   VARIANT         274
+FT                   /note="T -> S (in dbSNP:rs12973901)"
+FT                   /evidence="ECO:0000269|Ref.1"
+FT                   /id="VAR_054791"
+FT   VARIANT         379
+FT                   /note="R -> Q (in dbSNP:rs3752153)"
+FT                   /id="VAR_057381"
+SQ   SEQUENCE   642 AA;  75353 MW;  806374FBDC480CE3 CRC64;
+     MDSVSFEDVA VNFTLEEWAL LDSSQKKLYE DVMQETFKNL VCLGKKWEDQ DIEDDHRNQG
+     KNRRCHMVER LCESRRGSKC GETTSQMPNV NINKETFTGA KPHECSFCGR DFIHHSSLNR
+     HMRSHTGQKP NEYQEYEKQP CKCKAVGKTF SYHHCFRKHE RTHTGVKPYE CKQCGKAFIY
+     YQPFQRHERT HAGQKPYECK QCGKTFIYYQ SFQKHAHTGK KPYECKQCGK AFICYQSFQR
+     HKRTHTGEKP YECKQCGKAF SCPTYFRTHE RTHTGEKPYK CKECGKAFSF LSSFRRHKRT
+     HSGEKPYECK ECGKAFFYSA SFRAHVIIHT GARPYKCKEC GKAFNSSNSC RVHERTHIGE
+     KPYECKRCGK SFSWSISLRL HERTHTGEKP YECKQCHKTF SFSSSLREHE TTHTGEKPYE
+     CKQCGKTFSF SSSLQRHERT HNAEKPYECK QCGKAFRCSS YFRIHERSHT GEKPYECKQC
+     GKVFIRSSSF RLHERTHTGE KPYECKLCGK TFSFSSSLRE HEKIHTGNKP FECKQCGKAF
+     LRSSQIRLHE RTHTGEKPYQ CKQCGKAFIS SSKFRMHERT HTGEKPYRCK QCGKAFRFSS
+     SVRIHERSHT GEKPYECKQC GKAFISSSHF RLHERTHMGE KV
+//

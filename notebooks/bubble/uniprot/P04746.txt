@@ -1,0 +1,660 @@
+ID   AMYP_HUMAN              Reviewed;         511 AA.
+AC   P04746; B9EJG1; Q9UBH3;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 2.
+DT   28-JUN-2023, entry version 225.
+DE   RecName: Full=Pancreatic alpha-amylase;
+DE            Short=PA;
+DE            EC=3.2.1.1 {ECO:0000269|PubMed:10091666, ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019, ECO:0000269|PubMed:11914097};
+DE   AltName: Full=1,4-alpha-D-glucan glucanohydrolase;
+DE   Flags: Precursor;
+GN   Name=AMY2A;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6610603; DOI=10.1016/0378-1119(84)90265-8;
+RA   Nakamura Y., Ogawa M., Nishide T., Emi M., Kosaki G., Himeno S.,
+RA   Matsubara K.;
+RT   "Corrected sequences of cDNAs for human salivary and pancreatic alpha-
+RT   amylases.";
+RL   Gene 28:263-270(1984).
+RN   [2]
+RP   ERRATUM OF PUBMED:6610603, AND SEQUENCE REVISION.
+RA   Nakamura Y., Ogawa M., Nishide T., Emi M., Kosaki G., Himeno S.,
+RA   Matsubara K.;
+RL   Gene 50:371-372(1986).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Pancreas;
+RX   PubMed=2450054; DOI=10.1016/0378-1119(87)90213-7;
+RA   Horii A., Emi M., Tomita N., Nishide T., Ogawa M., Mori T., Matsubara K.;
+RT   "Primary structure of human pancreatic alpha-amylase gene: its comparison
+RT   with human salivary alpha-amylase gene.";
+RL   Gene 60:57-64(1987).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Pancreas;
+RX   PubMed=6336237;
+RA   Wise R.J., Karn R.C., Larsen S.H., Hodes M.E., Gardell S.J., Rutter W.J.;
+RT   "A complementary DNA sequence that predicts a human pancreatic amylase
+RT   primary structure consistent with the electrophoretic mobility of the
+RT   common isozyme, Amy2 A.";
+RL   Mol. Biol. Med. 2:307-322(1984).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Pancreas;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-56.
+RX   PubMed=3260028; DOI=10.1093/nar/16.10.4724;
+RA   Groot P.C., Bleeker M.J., Pronk J.C., Arwert F., Mager W.H., Planta R.J.,
+RA   Eriksson A.W., Frants R.R.;
+RT   "Human pancreatic amylase is encoded by two different genes.";
+RL   Nucleic Acids Res. 16:4724-4724(1988).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-56.
+RX   PubMed=2452973; DOI=10.1128/mcb.8.3.1197-1205.1988;
+RA   Gumucio D.L., Wiebauer K., Caldwell R.M., Samuelson L.C., Meisler M.H.;
+RT   "Concerted evolution of human amylase genes.";
+RL   Mol. Cell. Biol. 8:1197-1205(1988).
+RN   [8]
+RP   SUBUNIT, AND INTERACTION WITH THE SEA ANEMONE INHIBITOR HELIANTHAMIDE.
+RX   PubMed=27066537; DOI=10.1021/acscentsci.5b00399;
+RA   Tysoe C., Williams L.K., Keyzers R., Nguyen N.T., Tarling C., Wicki J.,
+RA   Goddard-Borger E.D., Aguda A.H., Perry S., Foster L.J., Andersen R.J.,
+RA   Brayer G.D., Withers S.G.;
+RT   "Potent human alpha-amylase inhibition by the beta-defensin-like protein
+RT   helianthamide.";
+RL   ACS Cent. Sci. 2:154-161(2016).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=8193143; DOI=10.1021/bi00186a031;
+RA   Qian M., Haser R., Buisson G., Duee E., Payan F.;
+RT   "The active center of a mammalian alpha-amylase. Structure of the complex
+RT   of a pancreatic alpha-amylase with a carbohydrate inhibitor refined to 2.2-
+RT   A resolution.";
+RL   Biochemistry 33:6284-6294(1994).
+RN   [10] {ECO:0000312|PDB:1HNY}
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 17-511 IN COMPLEX WITH CALCIUM AND
+RP   CHLORIDE, COFACTOR, DISULFIDE BONDS, PYROGLUTAMATE FORMATION AT GLN-16, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=8528071; DOI=10.1002/pro.5560040908;
+RA   Brayer G.D., Luo Y., Withers S.G.;
+RT   "The structure of human pancreatic alpha-amylase at 1.8-A resolution and
+RT   comparisons with related enzymes.";
+RL   Protein Sci. 4:1730-1742(1995).
+RN   [11] {ECO:0000312|PDB:1BSI}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 17-511 IN COMPLEX WITH CALCIUM
+RP   AND CHLORIDE, CATALYTIC ACTIVITY, COFACTOR, DISULFIDE BONDS, GLYCOSYLATION
+RP   AT ASN-476, MUTAGENESIS OF ASP-212, AND ACTIVE SITE.
+RX   PubMed=10091666; DOI=10.1110/ps.8.3.635;
+RA   Rydberg E.H., Sidhu G., Vo H.C., Hewitt J., Cote H.C.F., Wang Y., Numao S.,
+RA   MacGillivray R.T.A., Overall C.M., Brayer G.D., Withers S.G.;
+RT   "Cloning, mutagenesis, and structural analysis of human pancreatic alpha-
+RT   amylase expressed in Pichia pastoris.";
+RL   Protein Sci. 8:635-643(1999).
+RN   [12] {ECO:0000312|PDB:1CPU, ECO:0000312|PDB:2CPU, ECO:0000312|PDB:3CPU}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 17-511 IN COMPLEX WITH SUBSTRATE
+RP   ANALOGS; CALCIUM AND CHLORIDE, CATALYTIC ACTIVITY, MUTAGENESIS OF ASP-212;
+RP   GLU-248 AND ASP-315, ACTIVE SITE, DISULFIDE BONDS, GLYCOSYLATION AT
+RP   ASN-476, AND COFACTOR.
+RX   PubMed=10769135; DOI=10.1021/bi9921182;
+RA   Brayer G.D., Sidhu G., Maurus R., Rydberg E.H., Braun C., Wang Y.,
+RA   Nguyen N.T., Overall C.M., Withers S.G.;
+RT   "Subsite mapping of the human pancreatic alpha-amylase active site through
+RT   structural, kinetic, and mutagenesis techniques.";
+RL   Biochemistry 39:4778-4791(2000).
+RN   [13] {ECO:0000312|PDB:1KB3, ECO:0000312|PDB:1KGU, ECO:0000312|PDB:1KGW, ECO:0000312|PDB:1KGX}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 16-511 IN COMPLEX WITH CALCIUM,
+RP   MUTAGENESIS OF ARG-210; ASN-313 AND ARG-352, DISULFIDE BONDS, PYROGLUTAMATE
+RP   FORMATION AT GLN-16, GLYCOSYLATION AT ASN-476, COFACTOR, CATALYTIC
+RP   ACTIVITY, AND ACTIVE SITE.
+RX   PubMed=11772019; DOI=10.1021/bi0115636;
+RA   Numao S., Maurus R., Sidhu G., Wang Y., Overall C.M., Brayer G.D.,
+RA   Withers S.G.;
+RT   "Probing the role of the chloride ion in the mechanism of human pancreatic
+RT   alpha-amylase.";
+RL   Biochemistry 41:215-225(2002).
+RN   [14] {ECO:0000312|PDB:1KBB, ECO:0000312|PDB:1KBK}
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 16-511 IN COMPLEX WITH CALCIUM AND
+RP   CHLORIDE, MUTAGENESIS OF ASP-212; GLU-248 AND ASP-315, DISULFIDE BONDS,
+RP   PYROGLUTAMATE FORMATION AT GLN-16, COFACTOR, AND ACTIVE SITE.
+RX   PubMed=11914097; DOI=10.1021/bi011821z;
+RA   Rydberg E.H., Li C., Maurus R., Overall C.M., Brayer G.D., Withers S.G.;
+RT   "Mechanistic analyses of catalysis in human pancreatic alpha-amylase:
+RT   detailed kinetic and structural studies of mutants of three conserved
+RT   carboxylic acids.";
+RL   Biochemistry 41:4492-4502(2002).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Endohydrolysis of (1->4)-alpha-D-glucosidic linkages in
+CC         polysaccharides containing three or more (1->4)-alpha-linked D-
+CC         glucose units.; EC=3.2.1.1; Evidence={ECO:0000269|PubMed:10091666,
+CC         ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+CC         ECO:0000269|PubMed:11914097};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000269|PubMed:10091666, ECO:0000269|PubMed:10769135,
+CC         ECO:0000269|PubMed:11772019, ECO:0000269|PubMed:11914097,
+CC         ECO:0000269|PubMed:8528071};
+CC       Note=Binds 1 Ca(2+) ion per subunit. {ECO:0000269|PubMed:10091666,
+CC       ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+CC       ECO:0000269|PubMed:11914097, ECO:0000269|PubMed:8528071};
+CC   -!- COFACTOR:
+CC       Name=chloride; Xref=ChEBI:CHEBI:17996;
+CC         Evidence={ECO:0000269|PubMed:10091666, ECO:0000269|PubMed:10769135,
+CC         ECO:0000269|PubMed:11772019, ECO:0000269|PubMed:11914097,
+CC         ECO:0000269|PubMed:8528071};
+CC       Note=Binds 1 Cl(-) ion per subunit. {ECO:0000269|PubMed:10091666,
+CC       ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+CC       ECO:0000269|PubMed:11914097, ECO:0000269|PubMed:8528071};
+CC   -!- SUBUNIT: Monomer. Binds to the sea anemone inhibitor helianthamide
+CC       (PubMed:27066537). {ECO:0000269|PubMed:27066537}.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P04746-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P04746-2; Sequence=VSP_055822, VSP_055823;
+CC   -!- TISSUE SPECIFICITY: Detected in pancreas (at protein level).
+CC       {ECO:0000269|PubMed:8528071}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Amylase entry;
+CC       URL="https://en.wikipedia.org/wiki/Amylase";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M18785; AAA52280.1; -; Genomic_DNA.
+DR   EMBL; M18714; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M18716; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M18718; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M18720; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M18722; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M18724; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M18726; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M18783; AAA52280.1; JOINED; Genomic_DNA.
+DR   EMBL; M28443; AAA51724.1; -; mRNA.
+DR   EMBL; BC007060; AAH07060.1; -; mRNA.
+DR   EMBL; BC146997; AAI46998.1; -; mRNA.
+DR   EMBL; M18669; AAA51723.1; -; Genomic_DNA.
+DR   EMBL; X07056; CAA30099.1; -; Genomic_DNA.
+DR   CCDS; CCDS783.1; -. [P04746-1]
+DR   PIR; A29614; ALHUP.
+DR   RefSeq; NP_000690.1; NM_000699.3. [P04746-1]
+DR   PDB; 1B2Y; X-ray; 3.20 A; A=16-511.
+DR   PDB; 1BSI; X-ray; 2.00 A; A=17-511.
+DR   PDB; 1CPU; X-ray; 2.00 A; A=16-511.
+DR   PDB; 1HNY; X-ray; 1.80 A; A=17-511.
+DR   PDB; 1KB3; X-ray; 2.10 A; A=16-511.
+DR   PDB; 1KBB; X-ray; 1.90 A; A=16-511.
+DR   PDB; 1KBK; X-ray; 1.90 A; A=16-511.
+DR   PDB; 1KGU; X-ray; 2.00 A; A=16-511.
+DR   PDB; 1KGW; X-ray; 2.10 A; A=16-511.
+DR   PDB; 1KGX; X-ray; 2.00 A; A=16-511.
+DR   PDB; 1U2Y; X-ray; 1.95 A; A=16-511.
+DR   PDB; 1U30; X-ray; 1.90 A; A=16-511.
+DR   PDB; 1U33; X-ray; 1.95 A; A=16-511.
+DR   PDB; 1XCW; X-ray; 2.00 A; A=16-511.
+DR   PDB; 1XCX; X-ray; 1.90 A; A=16-511.
+DR   PDB; 1XD0; X-ray; 2.00 A; A=16-511.
+DR   PDB; 1XD1; X-ray; 2.20 A; A=16-511.
+DR   PDB; 1XGZ; X-ray; 2.00 A; A=16-511.
+DR   PDB; 1XH0; X-ray; 2.00 A; A=16-511.
+DR   PDB; 1XH1; X-ray; 2.03 A; A=16-511.
+DR   PDB; 1XH2; X-ray; 2.20 A; A=16-511.
+DR   PDB; 2CPU; X-ray; 2.00 A; A=17-511.
+DR   PDB; 2QMK; X-ray; 2.30 A; A=16-511.
+DR   PDB; 2QV4; X-ray; 1.97 A; A=16-511.
+DR   PDB; 3BAI; X-ray; 1.90 A; A=16-511.
+DR   PDB; 3BAJ; X-ray; 2.10 A; A=16-511.
+DR   PDB; 3BAK; X-ray; 1.90 A; A=16-511.
+DR   PDB; 3BAW; X-ray; 2.00 A; A=16-511.
+DR   PDB; 3BAX; X-ray; 1.90 A; A=16-511.
+DR   PDB; 3BAY; X-ray; 1.99 A; A=16-511.
+DR   PDB; 3CPU; X-ray; 2.00 A; A=17-511.
+DR   PDB; 3IJ7; X-ray; 2.00 A; A=17-511.
+DR   PDB; 3IJ8; X-ray; 1.43 A; A=17-511.
+DR   PDB; 3IJ9; X-ray; 1.85 A; A=17-511.
+DR   PDB; 3OLD; X-ray; 2.00 A; A=16-511.
+DR   PDB; 3OLE; X-ray; 1.55 A; A=16-511.
+DR   PDB; 3OLG; X-ray; 2.30 A; A=16-511.
+DR   PDB; 3OLI; X-ray; 1.50 A; A=16-511.
+DR   PDB; 4GQQ; X-ray; 1.35 A; A=17-511.
+DR   PDB; 4GQR; X-ray; 1.20 A; A=17-511.
+DR   PDB; 4W93; X-ray; 1.35 A; A=17-511.
+DR   PDB; 4X9Y; X-ray; 1.07 A; A=17-511.
+DR   PDB; 5E0F; X-ray; 1.40 A; A=17-511.
+DR   PDB; 5EMY; X-ray; 1.23 A; A=17-511.
+DR   PDB; 5KEZ; X-ray; 1.83 A; A=17-511.
+DR   PDB; 5TD4; X-ray; 2.30 A; A=17-511.
+DR   PDB; 5U3A; X-ray; 0.95 A; A=16-511.
+DR   PDB; 5VA9; X-ray; 2.55 A; A/B=16-511.
+DR   PDB; 6OBX; X-ray; 1.30 A; A=17-511.
+DR   PDB; 6OCN; X-ray; 1.15 A; A=16-511.
+DR   PDB; 6Z8L; X-ray; 1.40 A; A=16-511.
+DR   PDBsum; 1B2Y; -.
+DR   PDBsum; 1BSI; -.
+DR   PDBsum; 1CPU; -.
+DR   PDBsum; 1HNY; -.
+DR   PDBsum; 1KB3; -.
+DR   PDBsum; 1KBB; -.
+DR   PDBsum; 1KBK; -.
+DR   PDBsum; 1KGU; -.
+DR   PDBsum; 1KGW; -.
+DR   PDBsum; 1KGX; -.
+DR   PDBsum; 1U2Y; -.
+DR   PDBsum; 1U30; -.
+DR   PDBsum; 1U33; -.
+DR   PDBsum; 1XCW; -.
+DR   PDBsum; 1XCX; -.
+DR   PDBsum; 1XD0; -.
+DR   PDBsum; 1XD1; -.
+DR   PDBsum; 1XGZ; -.
+DR   PDBsum; 1XH0; -.
+DR   PDBsum; 1XH1; -.
+DR   PDBsum; 1XH2; -.
+DR   PDBsum; 2CPU; -.
+DR   PDBsum; 2QMK; -.
+DR   PDBsum; 2QV4; -.
+DR   PDBsum; 3BAI; -.
+DR   PDBsum; 3BAJ; -.
+DR   PDBsum; 3BAK; -.
+DR   PDBsum; 3BAW; -.
+DR   PDBsum; 3BAX; -.
+DR   PDBsum; 3BAY; -.
+DR   PDBsum; 3CPU; -.
+DR   PDBsum; 3IJ7; -.
+DR   PDBsum; 3IJ8; -.
+DR   PDBsum; 3IJ9; -.
+DR   PDBsum; 3OLD; -.
+DR   PDBsum; 3OLE; -.
+DR   PDBsum; 3OLG; -.
+DR   PDBsum; 3OLI; -.
+DR   PDBsum; 4GQQ; -.
+DR   PDBsum; 4GQR; -.
+DR   PDBsum; 4W93; -.
+DR   PDBsum; 4X9Y; -.
+DR   PDBsum; 5E0F; -.
+DR   PDBsum; 5EMY; -.
+DR   PDBsum; 5KEZ; -.
+DR   PDBsum; 5TD4; -.
+DR   PDBsum; 5U3A; -.
+DR   PDBsum; 5VA9; -.
+DR   PDBsum; 6OBX; -.
+DR   PDBsum; 6OCN; -.
+DR   PDBsum; 6Z8L; -.
+DR   AlphaFoldDB; P04746; -.
+DR   SMR; P04746; -.
+DR   BioGRID; 106776; 19.
+DR   IntAct; P04746; 6.
+DR   STRING; 9606.ENSP00000481450; -.
+DR   BindingDB; P04746; -.
+DR   ChEMBL; CHEMBL2045; -.
+DR   DrugBank; DB03439; 4,6-dideoxy-4-amino-alpha-D-glucose.
+DR   DrugBank; DB03495; 4,6-Dideoxy-4-{[4,5,6-Trihydroxy-3-(Hydroxymethyl)Cyclohex-2-En-1-Yl]Amino}-Alpha-D-Lyxo-Hexopyranosyl-(1->4)-Alpha-D-Threo-Hexopyranosyl-(1->6)-Alpha-L-Threo-Hexopyranose.
+DR   DrugBank; DB04618; 4,6-DIDEOXY-4-{[4-[(4-O-HEXOPYRANOSYLHEXOPYRANOSYL)OXY]-5,6-DIHYDROXY-3-(HYDROXYMETHYL)CYCLOHEX-2-EN-1-YL]AMINO}HEXOPYRANOSYL-(1->4)HEXOPYRANOSYL-(1->4)HEXOPYRANOSE.
+DR   DrugBank; DB02889; 4-O-(4,6-Dideoxy-4-{[4,5,6-Trihydroxy-3-(Hydroxymethyl)Cyclohex-2-En-1-Yl]Amino}-Beta-D-Lyxo-Hexopyranosyl)-Alpha-D-Erythro-Hexopyranose.
+DR   DrugBank; DB04453; 4-O-(4,6-Dideoxy-4-{[4-[(4-O-Hexopyranosylhexopyranosyl)Oxy]-5,6-Dihydroxy-3-(Hydroxymethyl)Cyclohex-2-En-1-Yl]Amino}Hexopyranosyl)Hexopyranose.
+DR   DrugBank; DB03092; 5-Hydroxymethyl-Chonduritol.
+DR   DrugBank; DB00284; Acarbose.
+DR   DrugBank; DB03971; Acarbose Derived Hexasaccharide.
+DR   DrugBank; DB03773; alpha-D-quinovopyranose.
+DR   DrugBank; DB02379; Beta-D-Glucose.
+DR   DrugBank; DB00702; Icodextrin.
+DR   DrugBank; DB01922; Maltosyl-Alpha (1,4)-D-Gluconhydroximo-1,5-Lactam.
+DR   DrugBank; DB00491; Miglitol.
+DR   DrugBank; DB02218; N-[4-hydroxymethyl-cyclohexan-6-yl-1,2,3-triol]-4,6-dideoxy-4-aminoglucopyranoside.
+DR   DrugBank; DB03088; Pidolic acid.
+DR   DrugCentral; P04746; -.
+DR   CAZy; GH13; Glycoside Hydrolase Family 13.
+DR   GlyCosmos; P04746; 1 site, No reported glycans.
+DR   GlyGen; P04746; 2 sites.
+DR   iPTMnet; P04746; -.
+DR   PhosphoSitePlus; P04746; -.
+DR   BioMuta; AMY2A; -.
+DR   DMDM; 113803; -.
+DR   jPOST; P04746; -.
+DR   MassIVE; P04746; -.
+DR   MaxQB; P04746; -.
+DR   PaxDb; P04746; -.
+DR   PeptideAtlas; P04746; -.
+DR   PRIDE; P04746; -.
+DR   ProteomicsDB; 51742; -. [P04746-1]
+DR   Antibodypedia; 34943; 452 antibodies from 31 providers.
+DR   DNASU; 279; -.
+DR   Ensembl; ENST00000414303.7; ENSP00000397582.2; ENSG00000243480.8. [P04746-1]
+DR   GeneID; 279; -.
+DR   KEGG; hsa:279; -.
+DR   MANE-Select; ENST00000414303.7; ENSP00000397582.2; NM_000699.4; NP_000690.1.
+DR   UCSC; uc001dut.4; human. [P04746-1]
+DR   AGR; HGNC:477; -.
+DR   CTD; 279; -.
+DR   DisGeNET; 279; -.
+DR   GeneCards; AMY2A; -.
+DR   HGNC; HGNC:477; AMY2A.
+DR   HPA; ENSG00000243480; Tissue enriched (pancreas).
+DR   MIM; 104650; gene.
+DR   neXtProt; NX_P04746; -.
+DR   OpenTargets; ENSG00000243480; -.
+DR   PharmGKB; PA24784; -.
+DR   VEuPathDB; HostDB:ENSG00000243480; -.
+DR   eggNOG; KOG2212; Eukaryota.
+DR   GeneTree; ENSGT00940000154802; -.
+DR   HOGENOM; CLU_013336_2_1_1; -.
+DR   InParanoid; P04746; -.
+DR   OMA; EHREVWS; -.
+DR   OrthoDB; 3249969at2759; -.
+DR   PhylomeDB; P04746; -.
+DR   TreeFam; TF312850; -.
+DR   BRENDA; 3.2.1.1; 2681.
+DR   PathwayCommons; P04746; -.
+DR   Reactome; R-HSA-189085; Digestion of dietary carbohydrate.
+DR   SABIO-RK; P04746; -.
+DR   SignaLink; P04746; -.
+DR   BioGRID-ORCS; 279; 26 hits in 1045 CRISPR screens.
+DR   ChiTaRS; AMY2A; human.
+DR   EvolutionaryTrace; P04746; -.
+DR   GeneWiki; AMY2A; -.
+DR   GenomeRNAi; 279; -.
+DR   Pharos; P04746; Tclin.
+DR   PRO; PR:P04746; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; P04746; protein.
+DR   Bgee; ENSG00000243480; Expressed in body of pancreas and 88 other tissues.
+DR   ExpressionAtlas; P04746; baseline and differential.
+DR   Genevisible; P04746; HS.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProtKB.
+DR   GO; GO:0004556; F:alpha-amylase activity; IDA:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0031404; F:chloride ion binding; IDA:UniProtKB.
+DR   GO; GO:0016052; P:carbohydrate catabolic process; IDA:UniProtKB.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; NAS:ProtInc.
+DR   GO; GO:0044245; P:polysaccharide digestion; TAS:Reactome.
+DR   CDD; cd11317; AmyAc_bac_euk_AmyA; 1.
+DR   Gene3D; 3.20.20.80; Glycosidases; 1.
+DR   Gene3D; 2.60.40.1180; Golgi alpha-mannosidase II; 1.
+DR   InterPro; IPR006048; A-amylase/branching_C.
+DR   InterPro; IPR031319; A-amylase_C.
+DR   InterPro; IPR006046; Alpha_amylase.
+DR   InterPro; IPR006047; Glyco_hydro_13_cat_dom.
+DR   InterPro; IPR013780; Glyco_hydro_b.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR43447; ALPHA-AMYLASE; 1.
+DR   PANTHER; PTHR43447:SF50; ALPHA-AMYLASE 1A-RELATED; 1.
+DR   Pfam; PF00128; Alpha-amylase; 1.
+DR   Pfam; PF02806; Alpha-amylase_C; 1.
+DR   PRINTS; PR00110; ALPHAAMYLASE.
+DR   SMART; SM00642; Aamy; 1.
+DR   SMART; SM00632; Aamy_C; 1.
+DR   SUPFAM; SSF51445; (Trans)glycosidases; 1.
+DR   SUPFAM; SSF51011; Glycosyl hydrolase domain; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium; Carbohydrate metabolism;
+KW   Chloride; Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Metal-binding; Pyrrolidone carboxylic acid; Reference proteome; Secreted;
+KW   Signal.
+FT   SIGNAL          1..15
+FT   CHAIN           16..511
+FT                   /note="Pancreatic alpha-amylase"
+FT                   /id="PRO_0000001397"
+FT   ACT_SITE        212
+FT                   /note="Nucleophile"
+FT                   /evidence="ECO:0000305|PubMed:10091666,
+FT                   ECO:0000305|PubMed:10769135, ECO:0000305|PubMed:11914097"
+FT   ACT_SITE        248
+FT                   /note="Proton donor"
+FT                   /evidence="ECO:0000305|PubMed:10091666,
+FT                   ECO:0000305|PubMed:10769135, ECO:0000305|PubMed:11772019,
+FT                   ECO:0000305|PubMed:11914097"
+FT   BINDING         115
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   BINDING         173
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   BINDING         182
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   BINDING         210
+FT                   /ligand="chloride"
+FT                   /ligand_id="ChEBI:CHEBI:17996"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   BINDING         216
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   BINDING         313
+FT                   /ligand="chloride"
+FT                   /ligand_id="ChEBI:CHEBI:17996"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   BINDING         352
+FT                   /ligand="chloride"
+FT                   /ligand_id="ChEBI:CHEBI:17996"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   SITE            315
+FT                   /note="Transition state stabilizer"
+FT                   /evidence="ECO:0000305|PubMed:10091666,
+FT                   ECO:0000305|PubMed:10769135, ECO:0000305|PubMed:11914097"
+FT   MOD_RES         16
+FT                   /note="Pyrrolidone carboxylic acid"
+FT                   /evidence="ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071"
+FT   CARBOHYD        476
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019"
+FT   DISULFID        43..101
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   DISULFID        85..130
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   DISULFID        156..175
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   DISULFID        393..399
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   DISULFID        465..477
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:10769135, ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:8528071, ECO:0007744|PDB:1HNY"
+FT   VAR_SEQ         250..265
+FT                   /note="IDLGGEPIKSSDYFGN -> HQYLYAYKISSYSLEN (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_055822"
+FT   VAR_SEQ         266..511
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_055823"
+FT   MUTAGEN         210
+FT                   /note="R->A,Q: Abolishes chloride binding; strongly reduces
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:11772019"
+FT   MUTAGEN         212
+FT                   /note="D->A,N: Abolishes activity."
+FT                   /evidence="ECO:0000269|PubMed:10091666,
+FT                   ECO:0000269|PubMed:11772019, ECO:0000269|PubMed:11914097"
+FT   MUTAGEN         248
+FT                   /note="E->A,Q: Reduces activity."
+FT                   /evidence="ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:11914097"
+FT   MUTAGEN         313
+FT                   /note="N->S: Reduces affinity for chloride; reduces
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:11772019"
+FT   MUTAGEN         315
+FT                   /note="D->A,N: Strongly reduces activity."
+FT                   /evidence="ECO:0000269|PubMed:11772019,
+FT                   ECO:0000269|PubMed:11914097"
+FT   MUTAGEN         352
+FT                   /note="R->A: Abolishes chloride binding; has only slight
+FT                   effect on activity."
+FT                   /evidence="ECO:0000269|PubMed:11772019"
+FT   STRAND          27..31
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           36..45
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            46..51
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          54..57
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            67..70
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           73..77
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          78..80
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           91..103
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          107..112
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          115..119
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          124..126
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          128..130
+FT                   /evidence="ECO:0007829|PDB:1KGW"
+FT   TURN            136..139
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            142..145
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           148..150
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            153..155
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          158..162
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           169..174
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           177..179
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          180..183
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           188..204
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          208..211
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           214..216
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           219..226
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            234..236
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          244..247
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          253..256
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           259..262
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            263..265
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          266..269
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           271..282
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           284..286
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           289..294
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           297..299
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           304..306
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          307..309
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           316..318
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          319..321
+FT                   /evidence="ECO:0007829|PDB:4X9Y"
+FT   HELIX           324..326
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           330..332
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           333..345
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          348..355
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          363..366
+FT                   /evidence="ECO:0007829|PDB:1KBK"
+FT   TURN            369..372
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          375..378
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           400..402
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           404..415
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            416..418
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          421..426
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          428..436
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            437..439
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          440..445
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          447..449
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          451..456
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          461..465
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   TURN            467..469
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          476..479
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          481..484
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          488..494
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          498..500
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   STRAND          502..506
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+FT   HELIX           507..509
+FT                   /evidence="ECO:0007829|PDB:5U3A"
+SQ   SEQUENCE   511 AA;  57707 MW;  A77B1A34EACB3C2A CRC64;
+     MKFFLLLFTI GFCWAQYSPN TQQGRTSIVH LFEWRWVDIA LECERYLAPK GFGGVQVSPP
+     NENVAIYNPF RPWWERYQPV SYKLCTRSGN EDEFRNMVTR CNNVGVRIYV DAVINHMCGN
+     AVSAGTSSTC GSYFNPGSRD FPAVPYSGWD FNDGKCKTGS GDIENYNDAT QVRDCRLTGL
+     LDLALEKDYV RSKIAEYMNH LIDIGVAGFR LDASKHMWPG DIKAILDKLH NLNSNWFPAG
+     SKPFIYQEVI DLGGEPIKSS DYFGNGRVTE FKYGAKLGTV IRKWNGEKMS YLKNWGEGWG
+     FVPSDRALVF VDNHDNQRGH GAGGASILTF WDARLYKMAV GFMLAHPYGF TRVMSSYRWP
+     RQFQNGNDVN DWVGPPNNNG VIKEVTINPD TTCGNDWVCE HRWRQIRNMV IFRNVVDGQP
+     FTNWYDNGSN QVAFGRGNRG FIVFNNDDWS FSLTLQTGLP AGTYCDVISG DKINGNCTGI
+     KIYVSDDGKA HFSISNSAED PFIAIHAESK L
+//

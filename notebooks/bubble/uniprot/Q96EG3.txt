@@ -1,0 +1,229 @@
+ID   ZN837_HUMAN             Reviewed;         531 AA.
+AC   Q96EG3;
+DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   19-SEP-2006, sequence version 2.
+DT   28-JUN-2023, entry version 159.
+DE   RecName: Full=Zinc finger protein 837;
+GN   Name=ZNF837;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=B-cell;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: May be involved in transcriptional regulation. {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q96EG3; Q8TBE0: BAHD1; NbExp=3; IntAct=EBI-11962574, EBI-742750;
+CC       Q96EG3; Q9BUH8: BEGAIN; NbExp=3; IntAct=EBI-11962574, EBI-742722;
+CC       Q96EG3; Q9BWT7: CARD10; NbExp=3; IntAct=EBI-11962574, EBI-3866279;
+CC       Q96EG3; Q8NEC5: CATSPER1; NbExp=3; IntAct=EBI-11962574, EBI-744545;
+CC       Q96EG3; Q86Z20: CCDC125; NbExp=3; IntAct=EBI-11962574, EBI-11977221;
+CC       Q96EG3; O95273: CCNDBP1; NbExp=3; IntAct=EBI-11962574, EBI-748961;
+CC       Q96EG3; Q16543: CDC37; NbExp=3; IntAct=EBI-11962574, EBI-295634;
+CC       Q96EG3; Q9UKJ5: CHIC2; NbExp=3; IntAct=EBI-11962574, EBI-741528;
+CC       Q96EG3; P49760: CLK2; NbExp=3; IntAct=EBI-11962574, EBI-750020;
+CC       Q96EG3; A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-11962574, EBI-3867333;
+CC       Q96EG3; Q6P158: DHX57; NbExp=3; IntAct=EBI-11962574, EBI-1051531;
+CC       Q96EG3; Q92997: DVL3; NbExp=3; IntAct=EBI-11962574, EBI-739789;
+CC       Q96EG3; O95967: EFEMP2; NbExp=3; IntAct=EBI-11962574, EBI-743414;
+CC       Q96EG3; Q96KQ7: EHMT2; NbExp=3; IntAct=EBI-11962574, EBI-744366;
+CC       Q96EG3; A1L4K1: FSD2; NbExp=3; IntAct=EBI-11962574, EBI-5661036;
+CC       Q96EG3; A6NEM1: GOLGA6L9; NbExp=3; IntAct=EBI-11962574, EBI-5916454;
+CC       Q96EG3; Q9NWQ4-1: GPATCH2L; NbExp=3; IntAct=EBI-11962574, EBI-11959863;
+CC       Q96EG3; A0A024R8L2: hCG_1987119; NbExp=3; IntAct=EBI-11962574, EBI-14103818;
+CC       Q96EG3; P49639: HOXA1; NbExp=5; IntAct=EBI-11962574, EBI-740785;
+CC       Q96EG3; Q5VWX1: KHDRBS2; NbExp=3; IntAct=EBI-11962574, EBI-742808;
+CC       Q96EG3; Q07627: KRTAP1-1; NbExp=3; IntAct=EBI-11962574, EBI-11959885;
+CC       Q96EG3; Q8IUG1: KRTAP1-3; NbExp=3; IntAct=EBI-11962574, EBI-11749135;
+CC       Q96EG3; P60409: KRTAP10-7; NbExp=3; IntAct=EBI-11962574, EBI-10172290;
+CC       Q96EG3; P60410: KRTAP10-8; NbExp=3; IntAct=EBI-11962574, EBI-10171774;
+CC       Q96EG3; P60411: KRTAP10-9; NbExp=3; IntAct=EBI-11962574, EBI-10172052;
+CC       Q96EG3; P60328: KRTAP12-3; NbExp=3; IntAct=EBI-11962574, EBI-11953334;
+CC       Q96EG3; Q9BYQ6: KRTAP4-11; NbExp=3; IntAct=EBI-11962574, EBI-10302392;
+CC       Q96EG3; Q9BQ66: KRTAP4-12; NbExp=3; IntAct=EBI-11962574, EBI-739863;
+CC       Q96EG3; Q9BYR2: KRTAP4-5; NbExp=3; IntAct=EBI-11962574, EBI-11993254;
+CC       Q96EG3; P26371: KRTAP5-9; NbExp=3; IntAct=EBI-11962574, EBI-3958099;
+CC       Q96EG3; Q99750: MDFI; NbExp=3; IntAct=EBI-11962574, EBI-724076;
+CC       Q96EG3; Q5JR59-3: MTUS2; NbExp=3; IntAct=EBI-11962574, EBI-11522433;
+CC       Q96EG3; P0DPK4: NOTCH2NLC; NbExp=3; IntAct=EBI-11962574, EBI-22310682;
+CC       Q96EG3; Q92824-2: PCSK5; NbExp=3; IntAct=EBI-11962574, EBI-11956269;
+CC       Q96EG3; Q5T6S3: PHF19; NbExp=3; IntAct=EBI-11962574, EBI-2339674;
+CC       Q96EG3; Q03181-2: PPARD; NbExp=3; IntAct=EBI-11962574, EBI-10223258;
+CC       Q96EG3; O75864: PPP1R37; NbExp=3; IntAct=EBI-11962574, EBI-5235692;
+CC       Q96EG3; Q8WWY3: PRPF31; NbExp=3; IntAct=EBI-11962574, EBI-1567797;
+CC       Q96EG3; Q15415: RBMY1J; NbExp=3; IntAct=EBI-11962574, EBI-8642021;
+CC       Q96EG3; Q6UXX9-2: RSPO2; NbExp=3; IntAct=EBI-11962574, EBI-12009390;
+CC       Q96EG3; Q7Z698: SPRED2; NbExp=6; IntAct=EBI-11962574, EBI-7082156;
+CC       Q96EG3; O43609: SPRY1; NbExp=3; IntAct=EBI-11962574, EBI-3866665;
+CC       Q96EG3; Q8N8B7-2: TCEANC; NbExp=3; IntAct=EBI-11962574, EBI-11955057;
+CC       Q96EG3; Q63HR2: TNS2; NbExp=3; IntAct=EBI-11962574, EBI-949753;
+CC       Q96EG3; Q8WV44: TRIM41; NbExp=3; IntAct=EBI-11962574, EBI-725997;
+CC       Q96EG3; Q8IZ69: TRMT2A; NbExp=3; IntAct=EBI-11962574, EBI-2515774;
+CC       Q96EG3; Q7KZS0: UBE2I; NbExp=3; IntAct=EBI-11962574, EBI-10180829;
+CC       Q96EG3; Q6EMK4: VASN; NbExp=3; IntAct=EBI-11962574, EBI-10249550;
+CC       Q96EG3; Q2TAL6: VWC2; NbExp=3; IntAct=EBI-11962574, EBI-11957238;
+CC       Q96EG3; O43167: ZBTB24; NbExp=3; IntAct=EBI-11962574, EBI-744471;
+CC       Q96EG3; P10074: ZBTB48; NbExp=3; IntAct=EBI-11962574, EBI-744864;
+CC       Q96EG3; Q96BR9: ZBTB8A; NbExp=3; IntAct=EBI-11962574, EBI-742740;
+CC       Q96EG3; P58317: ZNF121; NbExp=3; IntAct=EBI-11962574, EBI-1228269;
+CC       Q96EG3; Q15973: ZNF124; NbExp=6; IntAct=EBI-11962574, EBI-2555767;
+CC       Q96EG3; P49910: ZNF165; NbExp=3; IntAct=EBI-11962574, EBI-741694;
+CC       Q96EG3; P17021: ZNF17; NbExp=3; IntAct=EBI-11962574, EBI-1105334;
+CC       Q96EG3; O95125: ZNF202; NbExp=3; IntAct=EBI-11962574, EBI-751960;
+CC       Q96EG3; P15622-3: ZNF250; NbExp=3; IntAct=EBI-11962574, EBI-10177272;
+CC       Q96EG3; Q9NSD4: ZNF275; NbExp=3; IntAct=EBI-11962574, EBI-17263125;
+CC       Q96EG3; Q96PQ6: ZNF317; NbExp=3; IntAct=EBI-11962574, EBI-1210473;
+CC       Q96EG3; Q9Y3S2: ZNF330; NbExp=6; IntAct=EBI-11962574, EBI-373456;
+CC       Q96EG3; Q9H9D4: ZNF408; NbExp=3; IntAct=EBI-11962574, EBI-347633;
+CC       Q96EG3; Q8TAU3: ZNF417; NbExp=6; IntAct=EBI-11962574, EBI-740727;
+CC       Q96EG3; Q8WTR7: ZNF473; NbExp=3; IntAct=EBI-11962574, EBI-751409;
+CC       Q96EG3; Q6ZNH5: ZNF497; NbExp=3; IntAct=EBI-11962574, EBI-10486136;
+CC       Q96EG3; Q96C55: ZNF524; NbExp=3; IntAct=EBI-11962574, EBI-10283126;
+CC       Q96EG3; Q8TF50: ZNF526; NbExp=3; IntAct=EBI-11962574, EBI-11035148;
+CC       Q96EG3; Q9H707: ZNF552; NbExp=6; IntAct=EBI-11962574, EBI-2555731;
+CC       Q96EG3; Q96SQ5: ZNF587; NbExp=3; IntAct=EBI-11962574, EBI-6427977;
+CC       Q96EG3; Q9UID6: ZNF639; NbExp=3; IntAct=EBI-11962574, EBI-947476;
+CC       Q96EG3; Q5T619: ZNF648; NbExp=3; IntAct=EBI-11962574, EBI-11985915;
+CC       Q96EG3; Q8N720: ZNF655; NbExp=3; IntAct=EBI-11962574, EBI-625509;
+CC       Q96EG3; Q96H86: ZNF764; NbExp=3; IntAct=EBI-11962574, EBI-745775;
+CC       Q96EG3; Q3KQV3: ZNF792; NbExp=3; IntAct=EBI-11962574, EBI-10240849;
+CC       Q96EG3; Q9Y2P0: ZNF835; NbExp=3; IntAct=EBI-11962574, EBI-5667516;
+CC       Q96EG3; Q96EG3: ZNF837; NbExp=3; IntAct=EBI-11962574, EBI-11962574;
+CC       Q96EG3; Q9UGI0: ZRANB1; NbExp=3; IntAct=EBI-11962574, EBI-527853;
+CC       Q96EG3; Q9Y5A6: ZSCAN21; NbExp=3; IntAct=EBI-11962574, EBI-10281938;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; BC012365; AAH12365.2; -; mRNA.
+DR   CCDS; CCDS46216.1; -.
+DR   RefSeq; NP_612475.1; NM_138466.1.
+DR   RefSeq; XP_016881731.1; XM_017026242.1.
+DR   AlphaFoldDB; Q96EG3; -.
+DR   SMR; Q96EG3; -.
+DR   BioGRID; 125504; 79.
+DR   IntAct; Q96EG3; 78.
+DR   STRING; 9606.ENSP00000405699; -.
+DR   GlyGen; Q96EG3; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q96EG3; -.
+DR   PhosphoSitePlus; Q96EG3; -.
+DR   BioMuta; ZNF837; -.
+DR   DMDM; 121946273; -.
+DR   jPOST; Q96EG3; -.
+DR   MassIVE; Q96EG3; -.
+DR   MaxQB; Q96EG3; -.
+DR   PaxDb; Q96EG3; -.
+DR   PeptideAtlas; Q96EG3; -.
+DR   ProteomicsDB; 76406; -.
+DR   Antibodypedia; 33337; 40 antibodies from 12 providers.
+DR   DNASU; 116412; -.
+DR   Ensembl; ENST00000427624.2; ENSP00000405699.1; ENSG00000152475.7.
+DR   Ensembl; ENST00000597582.2; ENSP00000471478.1; ENSG00000152475.7.
+DR   GeneID; 116412; -.
+DR   KEGG; hsa:116412; -.
+DR   MANE-Select; ENST00000597582.2; ENSP00000471478.1; NM_138466.2; NP_612475.1.
+DR   UCSC; uc002qsl.5; human.
+DR   AGR; HGNC:25164; -.
+DR   CTD; 116412; -.
+DR   GeneCards; ZNF837; -.
+DR   HGNC; HGNC:25164; ZNF837.
+DR   HPA; ENSG00000152475; Low tissue specificity.
+DR   neXtProt; NX_Q96EG3; -.
+DR   OpenTargets; ENSG00000152475; -.
+DR   PharmGKB; PA162410789; -.
+DR   VEuPathDB; HostDB:ENSG00000152475; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000165357; -.
+DR   HOGENOM; CLU_002678_84_0_1; -.
+DR   InParanoid; Q96EG3; -.
+DR   OMA; CGDCSER; -.
+DR   OrthoDB; 4728594at2759; -.
+DR   PhylomeDB; Q96EG3; -.
+DR   TreeFam; TF337005; -.
+DR   PathwayCommons; Q96EG3; -.
+DR   SignaLink; Q96EG3; -.
+DR   BioGRID-ORCS; 116412; 18 hits in 1174 CRISPR screens.
+DR   GenomeRNAi; 116412; -.
+DR   Pharos; Q96EG3; Tdark.
+DR   PRO; PR:Q96EG3; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q96EG3; protein.
+DR   Bgee; ENSG00000152475; Expressed in right uterine tube and 87 other tissues.
+DR   Genevisible; Q96EG3; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 8.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24409:SF295; AZ2-RELATED; 1.
+DR   PANTHER; PTHR24409; ZINC FINGER PROTEIN 142; 1.
+DR   Pfam; PF00096; zf-C2H2; 7.
+DR   SMART; SM00355; ZnF_C2H2; 8.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 4.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 8.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 8.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..531
+FT                   /note="Zinc finger protein 837"
+FT                   /id="PRO_0000321906"
+FT   ZN_FING         271..293
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         299..321
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         363..385
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         391..413
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         419..441
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         447..469
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         475..497
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         503..525
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          1..101
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        21..45
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VARIANT         153
+FT                   /note="Q -> R (in dbSNP:rs7256940)"
+FT                   /id="VAR_039373"
+FT   VARIANT         242
+FT                   /note="A -> T (in dbSNP:rs7255596)"
+FT                   /id="VAR_061979"
+SQ   SEQUENCE   531 AA;  58078 MW;  40329D17EDD39737 CRC64;
+     MEAPAQKAGQ GGLPKADAQG ASGAREKRPE EPRPLEEDRA GSRPTQKGDL RGAAGGRTTP
+     PGGGSRGCSL GVSPGPGTRH SAGTRPLVRE PCGPTSSQNP ELVIPEGLQA REGPCRSPAR
+     GGDCSRNSCL AWHRGAPAGE TPPVCDPCPE RIQNHPRTQL CEVHTDCWPC QPGTGAPTCP
+     RTPKPTSRGR NPLVEQPRAC ACGEAFAWRA LRIPQERLQA TEEPRPCARC GKRFRPNQQQ
+     QAGKSPPVCP ECGQTSRPRP IVPDPPAQRL YACDECGKAF TRTSSLLQHQ RIHTGERPYE
+     CAECGKAFVR CSGLYRHQKT HSAERHRRGP VLARRAFRLG CPPCGDYSER SPRRGSGAGE
+     KPYECADCAK AFGLFSHLVE HRRVHTGEKP YACPECGKAF NQRSNLSRHQ RTHSSAKPYA
+     CPLCEKAFKG RSGLVQHQRA HTGERPYGCS ECGKTFRGCS ELRQHERLHS GEKPYICRDC
+     GKAFVRNCSL VRHLRTHTGE RPYACGDCGR AFSQRSNLNE HRKRHGGRAA P
+//

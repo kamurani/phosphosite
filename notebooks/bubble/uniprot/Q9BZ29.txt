@@ -1,0 +1,597 @@
+ID   DOCK9_HUMAN             Reviewed;        2069 AA.
+AC   Q9BZ29; B3KX25; E9PFM9; Q5JUD4; Q5JUD6; Q5T2Q1; Q5TAN8; Q9BZ25; Q9BZ26;
+AC   Q9BZ27; Q9BZ28; Q9UPU4;
+DT   19-OCT-2002, integrated into UniProtKB/Swiss-Prot.
+DT   19-OCT-2002, sequence version 2.
+DT   28-JUN-2023, entry version 182.
+DE   RecName: Full=Dedicator of cytokinesis protein 9 {ECO:0000305};
+DE   AltName: Full=Cdc42 guanine nucleotide exchange factor zizimin-1 {ECO:0000305};
+DE            Short=Zizimin-1 {ECO:0000305};
+GN   Name=DOCK9 {ECO:0000312|HGNC:HGNC:14132};
+GN   Synonyms=KIAA1058, ZIZ1 {ECO:0000305};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE (ISOFORM 1), FUNCTION, INTERACTION WITH CDC42, GEF
+RP   ACTIVITY, AND TISSUE SPECIFICITY.
+RX   PubMed=12172552; DOI=10.1038/ncb835;
+RA   Meller N., Irani-Tehrani M., Kiosses W.B., Del Pozo M.A., Schwartz M.A.;
+RT   "Zizimin1, a novel Cdc42 activator, reveals a new GEF domain for Rho
+RT   proteins.";
+RL   Nat. Cell Biol. 4:639-647(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=10470851; DOI=10.1093/dnares/6.3.197;
+RA   Kikuno R., Nagase T., Ishikawa K., Hirosawa M., Miyajima N., Tanaka A.,
+RA   Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIV. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 6:197-205(1999).
+RN   [3]
+RP   SEQUENCE REVISION.
+RX   PubMed=12168954; DOI=10.1093/dnares/9.3.99;
+RA   Nakajima D., Okazaki N., Yamakawa H., Kikuno R., Ohara O., Nagase T.;
+RT   "Construction of expression-ready cDNA clones for KIAA genes: manual
+RT   curation of 330 KIAA cDNA clones.";
+RL   DNA Res. 9:99-106(2002).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 5).
+RC   TISSUE=Uterus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ISOFORMS 1; 2; 3 AND 4).
+RX   PubMed=15057823; DOI=10.1038/nature02379;
+RA   Dunham A., Matthews L.H., Burton J., Ashurst J.L., Howe K.L.,
+RA   Ashcroft K.J., Beare D.M., Burford D.C., Hunt S.E., Griffiths-Jones S.,
+RA   Jones M.C., Keenan S.J., Oliver K., Scott C.E., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Andrews D.T., Ashwell R.I.S., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Bannerjee R., Barlow K.F., Bates K., Beasley H., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burrill W., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M.E., Clark S.Y., Clarke G., Clee C.M., Clegg S.C.,
+RA   Cobley V., Collins J.E., Corby N., Coville G.J., Deloukas P., Dhami P.,
+RA   Dunham I., Dunn M., Earthrowl M.E., Ellington A.G., Faulkner L.,
+RA   Frankish A.G., Frankland J., French L., Garner P., Garnett J.,
+RA   Gilbert J.G.R., Gilson C.J., Ghori J., Grafham D.V., Gribble S.M.,
+RA   Griffiths C., Hall R.E., Hammond S., Harley J.L., Hart E.A., Heath P.D.,
+RA   Howden P.J., Huckle E.J., Hunt P.J., Hunt A.R., Johnson C., Johnson D.,
+RA   Kay M., Kimberley A.M., King A., Laird G.K., Langford C.J., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Lloyd C., Loveland J.E., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., McLaren S.J., McMurray A., Milne S.,
+RA   Moore M.J.F., Nickerson T., Palmer S.A., Pearce A.V., Peck A.I., Pelan S.,
+RA   Phillimore B., Porter K.M., Rice C.M., Searle S., Sehra H.K., Shownkeen R.,
+RA   Skuce C.D., Smith M., Steward C.A., Sycamore N., Tester J., Thomas D.W.,
+RA   Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Wilming L., Wray P.W., Wright M.W., Young L.,
+RA   Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Beck S., Bentley D.R.,
+RA   Rogers J., Ross M.T.;
+RT   "The DNA sequence and analysis of human chromosome 13.";
+RL   Nature 428:522-528(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1551-2069 (ISOFORM 4).
+RC   TISSUE=Eye;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NOMENCLATURE, AND GEF ACTIVITY.
+RX   PubMed=12432077; DOI=10.1242/jcs.00219;
+RA   Cote J.-F., Vuori K.;
+RT   "Identification of an evolutionarily conserved superfamily of DOCK180-
+RT   related proteins with guanine nucleotide exchange activity.";
+RL   J. Cell Sci. 115:4901-4913(2002).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-1241, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=16964243; DOI=10.1038/nbt1240;
+RA   Beausoleil S.A., Villen J., Gerber S.A., Rush J., Gygi S.P.;
+RT   "A probability-based approach for high-throughput protein phosphorylation
+RT   analysis and site localization.";
+RL   Nat. Biotechnol. 24:1285-1292(2006).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-21, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1235 AND THR-1241, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-21; SER-32; SER-927; SER-1255
+RP   AND SER-1264, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-167 AND SER-170, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [14]
+RP   STRUCTURE BY NMR OF 165-301.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of pleckstrin homology domain from human KIAA1058
+RT   protein.";
+RL   Submitted (NOV-2004) to the PDB data bank.
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1605-2069 IN COMPLEX WITH CDC42,
+RP   FUNCTION, AND SUBUNIT.
+RX   PubMed=19745154; DOI=10.1126/science.1174468;
+RA   Yang J., Zhang Z., Roe S.M., Marshall C.J., Barford D.;
+RT   "Activation of Rho GTPases by DOCK exchange factors is mediated by a
+RT   nucleotide sensor.";
+RL   Science 325:1398-1402(2009).
+CC   -!- FUNCTION: Guanine nucleotide-exchange factor (GEF) that activates CDC42
+CC       by exchanging bound GDP for free GTP. Overexpression induces filopodia
+CC       formation. {ECO:0000269|PubMed:12172552, ECO:0000269|PubMed:19745154}.
+CC   -!- SUBUNIT: Homodimer (Probable). Interacts preferentially with
+CC       nucleotide-depleted CDC42. {ECO:0000269|PubMed:12172552,
+CC       ECO:0000269|PubMed:19745154, ECO:0000305}.
+CC   -!- INTERACTION:
+CC       Q9BZ29; Q15796: SMAD2; NbExp=3; IntAct=EBI-2695893, EBI-1040141;
+CC       Q9BZ29; P84022: SMAD3; NbExp=3; IntAct=EBI-2695893, EBI-347161;
+CC   -!- SUBCELLULAR LOCATION: Endomembrane system {ECO:0000305}.
+CC       Note=Associated with membranes. {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=1;
+CC         IsoId=Q9BZ29-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BZ29-5; Sequence=VSP_017128;
+CC       Name=3;
+CC         IsoId=Q9BZ29-3; Sequence=VSP_004024;
+CC       Name=4;
+CC         IsoId=Q9BZ29-4; Sequence=VSP_007709, VSP_007710;
+CC       Name=5;
+CC         IsoId=Q9BZ29-6; Sequence=VSP_017128, VSP_045683, VSP_045684;
+CC   -!- TISSUE SPECIFICITY: Widely expressed, with highest expression in heart
+CC       and placenta. Expressed at intermediate level in kidney, brain, lung
+CC       and skeletal muscle. {ECO:0000269|PubMed:12172552}.
+CC   -!- DOMAIN: The DOCKER domain is necessary and sufficient for the GEF
+CC       activity.
+CC   -!- MISCELLANEOUS: 'Zizim' means 'spike' in Hebrew. {ECO:0000305}.
+CC   -!- MISCELLANEOUS: [Isoform 4]: Produced by exon skipping that results in a
+CC       frameshift. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the DOCK family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00983}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA83010.2; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF527605; AAM90306.1; -; mRNA.
+DR   EMBL; AB028981; BAA83010.2; ALT_INIT; mRNA.
+DR   EMBL; AK126492; BAG54337.1; -; mRNA.
+DR   EMBL; AL139084; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL161420; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL391122; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC043506; AAH43506.1; -; mRNA.
+DR   CCDS; CCDS45062.1; -. [Q9BZ29-5]
+DR   CCDS; CCDS45063.1; -. [Q9BZ29-6]
+DR   CCDS; CCDS91829.1; -. [Q9BZ29-1]
+DR   RefSeq; NP_001123520.1; NM_001130048.1. [Q9BZ29-5]
+DR   RefSeq; NP_001123521.1; NM_001130049.1.
+DR   RefSeq; NP_001123522.1; NM_001130050.1. [Q9BZ29-6]
+DR   RefSeq; NP_001305778.1; NM_001318849.1.
+DR   RefSeq; NP_056111.1; NM_015296.2. [Q9BZ29-1]
+DR   PDB; 1WG7; NMR; -; A=165-301.
+DR   PDB; 2WM9; X-ray; 2.20 A; A=1605-2067.
+DR   PDB; 2WMN; X-ray; 2.39 A; A=1605-2067.
+DR   PDB; 2WMO; X-ray; 2.20 A; A=1605-2067.
+DR   PDBsum; 1WG7; -.
+DR   PDBsum; 2WM9; -.
+DR   PDBsum; 2WMN; -.
+DR   PDBsum; 2WMO; -.
+DR   AlphaFoldDB; Q9BZ29; -.
+DR   SMR; Q9BZ29; -.
+DR   BioGRID; 116930; 57.
+DR   IntAct; Q9BZ29; 28.
+DR   MINT; Q9BZ29; -.
+DR   STRING; 9606.ENSP00000365643; -.
+DR   GlyGen; Q9BZ29; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9BZ29; -.
+DR   PhosphoSitePlus; Q9BZ29; -.
+DR   BioMuta; DOCK9; -.
+DR   DMDM; 24212635; -.
+DR   EPD; Q9BZ29; -.
+DR   jPOST; Q9BZ29; -.
+DR   MassIVE; Q9BZ29; -.
+DR   MaxQB; Q9BZ29; -.
+DR   PaxDb; Q9BZ29; -.
+DR   PeptideAtlas; Q9BZ29; -.
+DR   ProteomicsDB; 20137; -.
+DR   ProteomicsDB; 79758; -. [Q9BZ29-1]
+DR   ProteomicsDB; 79759; -. [Q9BZ29-3]
+DR   ProteomicsDB; 79760; -. [Q9BZ29-4]
+DR   ProteomicsDB; 79761; -. [Q9BZ29-5]
+DR   Antibodypedia; 25029; 72 antibodies from 17 providers.
+DR   DNASU; 23348; -.
+DR   Ensembl; ENST00000376460.5; ENSP00000365643.1; ENSG00000088387.22. [Q9BZ29-5]
+DR   Ensembl; ENST00000627024.2; ENSP00000487551.1; ENSG00000088387.22. [Q9BZ29-6]
+DR   Ensembl; ENST00000652315.1; ENSP00000498761.1; ENSG00000088387.22. [Q9BZ29-1]
+DR   GeneID; 23348; -.
+DR   KEGG; hsa:23348; -.
+DR   UCSC; uc058xyj.1; human. [Q9BZ29-1]
+DR   AGR; HGNC:14132; -.
+DR   CTD; 23348; -.
+DR   DisGeNET; 23348; -.
+DR   GeneCards; DOCK9; -.
+DR   HGNC; HGNC:14132; DOCK9.
+DR   HPA; ENSG00000088387; Tissue enhanced (brain).
+DR   MIM; 607325; gene.
+DR   neXtProt; NX_Q9BZ29; -.
+DR   OpenTargets; ENSG00000088387; -.
+DR   PharmGKB; PA134877754; -.
+DR   VEuPathDB; HostDB:ENSG00000088387; -.
+DR   eggNOG; KOG1997; Eukaryota.
+DR   GeneTree; ENSGT00940000155972; -.
+DR   InParanoid; Q9BZ29; -.
+DR   OrthoDB; 5480873at2759; -.
+DR   PhylomeDB; Q9BZ29; -.
+DR   TreeFam; TF313629; -.
+DR   PathwayCommons; Q9BZ29; -.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   Reactome; R-HSA-983231; Factors involved in megakaryocyte development and platelet production.
+DR   SignaLink; Q9BZ29; -.
+DR   BioGRID-ORCS; 23348; 10 hits in 1155 CRISPR screens.
+DR   ChiTaRS; DOCK9; human.
+DR   EvolutionaryTrace; Q9BZ29; -.
+DR   GeneWiki; Dock9; -.
+DR   GenomeRNAi; 23348; -.
+DR   Pharos; Q9BZ29; Tbio.
+DR   PRO; PR:Q9BZ29; -.
+DR   Proteomes; UP000005640; Chromosome 13.
+DR   RNAct; Q9BZ29; protein.
+DR   Bgee; ENSG00000088387; Expressed in calcaneal tendon and 205 other tissues.
+DR   ExpressionAtlas; Q9BZ29; baseline and differential.
+DR   Genevisible; Q9BZ29; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0012505; C:endomembrane system; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0045296; F:cadherin binding; HDA:BHF-UCL.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; ISS:UniProtKB.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; ISS:UniProtKB.
+DR   GO; GO:0007264; P:small GTPase mediated signal transduction; IEA:InterPro.
+DR   CDD; cd08697; C2_Dock-D; 1.
+DR   CDD; cd11698; DHR2_DOCK9; 1.
+DR   CDD; cd13267; PH_DOCK-D; 1.
+DR   Gene3D; 1.20.58.740; -; 1.
+DR   Gene3D; 1.25.40.410; -; 1.
+DR   Gene3D; 2.60.40.150; C2 domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR037809; C2_Dock-D.
+DR   InterPro; IPR027007; C2_DOCK-type_domain.
+DR   InterPro; IPR035892; C2_domain_sf.
+DR   InterPro; IPR026791; DOCK.
+DR   InterPro; IPR021816; DOCK_C/D_N.
+DR   InterPro; IPR043161; DOCK_C_lobe_A.
+DR   InterPro; IPR043162; DOCK_C_lobe_C.
+DR   InterPro; IPR027357; DOCKER_dom.
+DR   InterPro; IPR046769; DOCKER_Lobe_A.
+DR   InterPro; IPR046770; DOCKER_Lobe_B.
+DR   InterPro; IPR046773; DOCKER_Lobe_C.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   PANTHER; PTHR23317; DEDICATOR OF CYTOKINESIS DOCK; 1.
+DR   PANTHER; PTHR23317:SF77; DEDICATOR OF CYTOKINESIS PROTEIN 9; 1.
+DR   Pfam; PF06920; DHR-2_Lobe_A; 1.
+DR   Pfam; PF20422; DHR-2_Lobe_B; 1.
+DR   Pfam; PF20421; DHR-2_Lobe_C; 1.
+DR   Pfam; PF14429; DOCK-C2; 1.
+DR   Pfam; PF11878; DOCK_C-D_N; 1.
+DR   Pfam; PF00169; PH; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SUPFAM; SSF48371; ARM repeat; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   PROSITE; PS51650; C2_DOCK; 1.
+DR   PROSITE; PS51651; DOCKER; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Coiled coil;
+KW   Guanine-nucleotide releasing factor; Membrane; Phosphoprotein;
+KW   Reference proteome; Repeat.
+FT   CHAIN           1..2069
+FT                   /note="Dedicator of cytokinesis protein 9"
+FT                   /id="PRO_0000189999"
+FT   DOMAIN          174..281
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          640..818
+FT                   /note="C2 DOCK-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00983"
+FT   DOMAIN          1605..2069
+FT                   /note="DOCKER"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00984"
+FT   REGION          290..313
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1241..1282
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1693..2069
+FT                   /note="Interaction with CDC42"
+FT                   /evidence="ECO:0000269|PubMed:12172552"
+FT   COILED          1948..1982
+FT                   /evidence="ECO:0000255"
+FT   COILED          2034..2067
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        290..306
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         21
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         32
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         167
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         170
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         433
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BIK4"
+FT   MOD_RES         443
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BIK4"
+FT   MOD_RES         927
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1235
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         1241
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:16964243,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         1255
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1261
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BIK4"
+FT   MOD_RES         1264
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1..43
+FT                   /note="MSQPPLLPASAETRKFTRALSKPGTAAELRQSVSEVVRGSVLL -> MQADK
+FT                   CRTSSRSVKKELVIESPLQYKDAAQGEVEAESPGPVP (in isoform 2 and
+FT                   isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:10470851,
+FT                   ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_017128"
+FT   VAR_SEQ         1234..1254
+FT                   /note="ASPYTTSTPNINSVRNADSRG -> GNAPCSCGLLSTITLKVSWSQ (in
+FT                   isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_045683"
+FT   VAR_SEQ         1255..2069
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_045684"
+FT   VAR_SEQ         1355..1378
+FT                   /note="RTGMMHARLQQLGSLDNSLTFNHS -> SVRKISSVLGISVDNG (in
+FT                   isoform 3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_004024"
+FT   VAR_SEQ         1791..1804
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_007709"
+FT   VAR_SEQ         2068..2069
+FT                   /note="LG -> ICPLEEKTSVLPNSLHIFNAISGTPTSTMVHGMTSSSSVV (in
+FT                   isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_007710"
+FT   VARIANT         455
+FT                   /note="A -> T (in dbSNP:rs56010605)"
+FT                   /id="VAR_062000"
+FT   VARIANT         1416
+FT                   /note="K -> E (in dbSNP:rs16955934)"
+FT                   /id="VAR_053067"
+FT   CONFLICT        170
+FT                   /note="S -> P (in Ref. 4; BAG54337)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        296
+FT                   /note="S -> P (in Ref. 4; BAG54337)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          178..183
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   HELIX           190..194
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   STRAND          198..206
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   STRAND          208..210
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   STRAND          212..220
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   STRAND          227..230
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   TURN            232..234
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   STRAND          248..252
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   STRAND          254..256
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   STRAND          258..262
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   HELIX           266..291
+FT                   /evidence="ECO:0007829|PDB:1WG7"
+FT   HELIX           1610..1628
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1631..1651
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1677..1679
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1682..1685
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   TURN            1686..1688
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1690..1695
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1708..1710
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1711..1727
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1731..1733
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1734..1738
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   TURN            1739..1741
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1742..1747
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1751..1774
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1781..1788
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1808..1810
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1814..1820
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1825..1840
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1842..1844
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1845..1848
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1856..1858
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1863..1873
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1877..1882
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1887..1889
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1890..1902
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1904..1909
+FT                   /evidence="ECO:0007829|PDB:2WMO"
+FT   TURN            1912..1914
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1916..1929
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1931..1945
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1947..1967
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1973..1984
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   STRAND          1987..1989
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           1993..1999
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           2013..2037
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   TURN            2041..2043
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+FT   HELIX           2044..2064
+FT                   /evidence="ECO:0007829|PDB:2WM9"
+SQ   SEQUENCE   2069 AA;  236446 MW;  95073CD751745AAE CRC64;
+     MSQPPLLPAS AETRKFTRAL SKPGTAAELR QSVSEVVRGS VLLAKPKLIE PLDYENVIVQ
+     KKTQILNDCL REMLLFPYDD FQTAILRRQG RYICSTVPAK AEEEAQSLFV TECIKTYNSD
+     WHLVNYKYED YSGEFRQLPN KVVKLDKLPV HVYEVDEEVD KDEDAASLGS QKGGITKHGW
+     LYKGNMNSAI SVTMRSFKRR FFHLIQLGDG SYNLNFYKDE KISKEPKGSI FLDSCMGVVQ
+     NNKVRRFAFE LKMQDKSSYL LAADSEVEME EWITILNKIL QLNFEAAMQE KRNGDSHEDD
+     EQSKLEGSGS GLDSYLPELA KSAREAEIKL KSESRVKLFY LDPDAQKLDF SSAEPEVKSF
+     EEKFGKRILV KCNDLSFNLQ CCVAENEEGP TTNVEPFFVT LSLFDIKYNR KISADFHVDL
+     NHFSVRQMLA TTSPALMNGS GQSPSVLKGI LHEAAMQYPK QGIFSVTCPH PDIFLVARIE
+     KVLQGSITHC AEPYMKSSDS SKVAQKVLKN AKQACQRLGQ YRMPFAWAAR TLFKDASGNL
+     DKNARFSAIY RQDSNKLSND DMLKLLADFR KPEKMAKLPV ILGNLDITID NVSSDFPNYV
+     NSSYIPTKQF ETCSKTPITF EVEEFVPCIP KHTQPYTIYT NHLYVYPKYL KYDSQKSFAK
+     ARNIAICIEF KDSDEEDSQP LKCIYGRPGG PVFTRSAFAA VLHHHQNPEF YDEIKIELPT
+     QLHEKHHLLL TFFHVSCDNS SKGSTKKRDV VETQVGYSWL PLLKDGRVVT SEQHIPVSAN
+     LPSGYLGYQE LGMGRHYGPE IKWVDGGKPL LKISTHLVST VYTQDQHLHN FFQYCQKTES
+     GAQALGNELV KYLKSLHAME GHVMIAFLPT ILNQLFRVLT RATQEEVAVN VTRVIIHVVA
+     QCHEEGLESH LRSYVKYAYK AEPYVASEYK TVHEELTKSM TTILKPSADF LTSNKLLKYS
+     WFFFDVLIKS MAQHLIENSK VKLLRNQRFP ASYHHAVETV VNMLMPHITQ KFRDNPEASK
+     NANHSLAVFI KRCFTFMDRG FVFKQINNYI SCFAPGDPKT LFEYKFEFLR VVCNHEHYIP
+     LNLPMPFGKG RIQRYQDLQL DYSLTDEFCR NHFLVGLLLR EVGTALQEFR EVRLIAISVL
+     KNLLIKHSFD DRYASRSHQA RIATLYLPLF GLLIENVQRI NVRDVSPFPV NAGMTVKDES
+     LALPAVNPLV TPQKGSTLDN SLHKDLLGAI SGIASPYTTS TPNINSVRNA DSRGSLISTD
+     SGNSLPERNS EKSNSLDKHQ QSSTLGNSVV RCDKLDQSEI KSLLMCFLYI LKSMSDDALF
+     TYWNKASTSE LMDFFTISEV CLHQFQYMGK RYIARTGMMH ARLQQLGSLD NSLTFNHSYG
+     HSDADVLHQS LLEANIATEV CLTALDTLSL FTLAFKNQLL ADHGHNPLMK KVFDVYLCFL
+     QKHQSETALK NVFTALRSLI YKFPSTFYEG RADMCAALCY EILKCCNSKL SSIRTEASQL
+     LYFLMRNNFD YTGKKSFVRT HLQVIISVSQ LIADVVGIGG TRFQQSLSII NNCANSDRLI
+     KHTSFSSDVK DLTKRIRTVL MATAQMKEHE NDPEMLVDLQ YSLAKSYAST PELRKTWLDS
+     MARIHVKNGD LSEAAMCYVH VTALVAEYLT RKEAVQWEPP LLPHSHSACL RRSRGGVFRQ
+     GCTAFRVITP NIDEEASMME DVGMQDVHFN EDVLMELLEQ CADGLWKAER YELIADIYKL
+     IIPIYEKRRD FERLAHLYDT LHRAYSKVTE VMHSGRRLLG TYFRVAFFGQ AAQYQFTDSE
+     TDVEGFFEDE DGKEYIYKEP KLTPLSEISQ RLLKLYSDKF GSENVKMIQD SGKVNPKDLD
+     SKYAYIQVTH VIPFFDEKEL QERKTEFERS HNIRRFMFEM PFTQTGKRQG GVEEQCKRRT
+     ILTAIHCFPY VKKRIPVMYQ HHTDLNPIEV AIDEMSKKVA ELRQLCSSAE VDMIKLQLKL
+     QGSVSVQVNA GPLAYARAFL DDTNTKRYPD NKVKLLKEVF RQFVEACGQA LAVNERLIKE
+     DQLEYQEEMK ANYREMAKEL SEIMHEQLG
+//

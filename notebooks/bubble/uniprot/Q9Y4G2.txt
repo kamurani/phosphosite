@@ -1,0 +1,514 @@
+ID   PKHM1_HUMAN             Reviewed;        1056 AA.
+AC   Q9Y4G2; Q6P2R5; Q8TEL9; Q9NPP5; Q9NYA0;
+DT   13-NOV-2007, integrated into UniProtKB/Swiss-Prot.
+DT   13-NOV-2007, sequence version 3.
+DT   28-JUN-2023, entry version 166.
+DE   RecName: Full=Pleckstrin homology domain-containing family M member 1 {ECO:0000305};
+DE            Short=PH domain-containing family M member 1;
+DE   AltName: Full=162 kDa adapter protein;
+DE            Short=AP162;
+GN   Name=PLEKHM1 {ECO:0000312|HGNC:HGNC:29017}; Synonyms=KIAA0356;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Brain;
+RX   PubMed=9205841; DOI=10.1093/dnares/4.2.141;
+RA   Nagase T., Ishikawa K., Nakajima D., Ohira M., Seki N., Miyajima N.,
+RA   Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. VII. The
+RT   complete sequences of 100 new cDNA clones from brain which can code for
+RT   large proteins in vitro.";
+RL   DNA Res. 4:141-150(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 82-1056, TISSUE SPECIFICITY, FUNCTION, AND
+RP   INTERACTION WITH SIALYL-LEX POSITIVE MUCIN.
+RC   TISSUE=Colon carcinoma;
+RX   PubMed=12820725; DOI=10.1023/a:1022256610674;
+RA   Hartel-Schenk S., Gratchev A., Hanski M.-L., Ogorek D., Trendelenburg G.,
+RA   Hummel M., Hoepfner M., Scheruebl H., Zeitz M., Hanski C.;
+RT   "Novel adapter protein AP162 connects a sialyl-Le(x)-positive mucin with an
+RT   apoptotic signal transduction pathway.";
+RL   Glycoconj. J. 18:915-923(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 425-1056.
+RC   TISSUE=Spleen;
+RA   Jikuya H., Takano J., Nomura N., Kikuno R., Nagase T., Ohara O.;
+RT   "The nucleotide sequence of a long cDNA clone isolated from human spleen.";
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 528-832.
+RG   The European IMAGE consortium;
+RL   Submitted (JUL-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   FUNCTION, INTERACTION WITH RAB7, SUBCELLULAR LOCATION, AND MUTAGENESIS OF
+RP   CYS-1021; CYS-1024; HIS-1029 AND CYS-1032.
+RX   PubMed=20943950; DOI=10.1091/mbc.e10-06-0495;
+RA   Tabata K., Matsunaga K., Sakane A., Sasaki T., Noda T., Yoshimori T.;
+RT   "Rubicon and PLEKHM1 negatively regulate the endocytic/autophagic pathway
+RT   via a novel Rab7-binding domain.";
+RL   Mol. Biol. Cell 21:4162-4172(2010).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-432, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [9]
+RP   FUNCTION (MICROBIAL INFECTION), INTERACTION WITH RAB7A; VPS41 AND
+RP   S.TYPHIMURIUM SIFA, SUBCELLULAR LOCATION, AND MUTAGENESIS OF
+RP   720-LYS--LEU-722; GLU-729 AND ARG-769.
+RX   PubMed=25500191; DOI=10.1016/j.chom.2014.11.011;
+RA   McEwan D.G., Richter B., Claudi B., Wigge C., Wild P., Farhan H.,
+RA   McGourty K., Coxon F.P., Franz-Wachtel M., Perdu B., Akutsu M.,
+RA   Habermann A., Kirchof A., Helfrich M.H., Odgren P.R., Van Hul W.,
+RA   Frangakis A.S., Rajalingam K., Macek B., Holden D.W., Bumann D., Dikic I.;
+RT   "PLEKHM1 regulates Salmonella-containing vacuole biogenesis and
+RT   infection.";
+RL   Cell Host Microbe 17:58-71(2015).
+RN   [10]
+RP   FUNCTION, INTERACTION WITH VPS41; VPS11; VPS39; GABARAP; GABARAPL;
+RP   GABARAPL2; MAP1LC3A; MAP1LC3B AND MAP1LC3C, SUBUNIT, SUBCELLULAR LOCATION,
+RP   AND DOMAIN.
+RX   PubMed=25498145; DOI=10.1016/j.molcel.2014.11.006;
+RA   McEwan D.G., Popovic D., Gubas A., Terawaki S., Suzuki H., Stadel D.,
+RA   Coxon F.P., Miranda de Stegmann D., Bhogaraju S., Maddi K., Kirchof A.,
+RA   Gatti E., Helfrich M.H., Wakatsuki S., Behrends C., Pierre P., Dikic I.;
+RT   "PLEKHM1 regulates autophagosome-lysosome fusion through HOPS complex and
+RT   LC3/GABARAP proteins.";
+RL   Mol. Cell 57:39-54(2015).
+RN   [11]
+RP   FUNCTION, INTERACTION WITH ARL8A; ARL8B; RAB7A; VPS41; VPS11; VPS18 AND
+RP   VPS33A, SUBCELLULAR LOCATION, AND MUTAGENESIS OF HIS-60; HIS-63 AND
+RP   119-ARG--ARG-123.
+RX   PubMed=28325809; DOI=10.1083/jcb.201607085;
+RA   Marwaha R., Arya S.B., Jagga D., Kaur H., Tuli A., Sharma M.;
+RT   "The Rab7 effector PLEKHM1 binds Arl8b to promote cargo traffic to
+RT   lysosomes.";
+RL   J. Cell Biol. 216:1051-1070(2017).
+RN   [12]
+RP   INVOLVEMENT IN OPTB6.
+RX   PubMed=17404618; DOI=10.1172/jci30328;
+RA   van Wesenbeeck L., Odgren P.R., Coxon F.P., Frattini A., Moens P.,
+RA   Perdu B., MacKay C.A., Van Hul E., Timmermanns J.-P., Vanhoenacker F.,
+RA   Jacobs R., Peruzzi B., Teti A., Helfrich M.H., Rogers M.J., Villa A.,
+RA   Van Hul W.;
+RT   "Involvement of PLEKHM1 in osteoclastic vesicular transport and
+RT   osteopetrosis in incisors absent rats and humans.";
+RL   J. Clin. Invest. 117:919-930(2007).
+RN   [13]
+RP   INVOLVEMENT IN OPTA3, AND VARIANT OPTA3 CYS-714.
+RX   PubMed=17997709; DOI=10.1359/jbmr.071107;
+RA   Del Fattore A., Fornari R., Van Wesenbeeck L., de Freitas F.,
+RA   Timmermans J.P., Peruzzi B., Cappariello A., Rucci N., Spera G.,
+RA   Helfrich M.H., Van Hul W., Migliaccio S., Teti A.;
+RT   "A new heterozygous mutation (R714C) of the osteopetrosis gene, pleckstrin
+RT   homolog domain containing family M (with run domain) member 1 (PLEKHM1),
+RT   impairs vesicular acidification and increases TRACP secretion in
+RT   osteoclasts.";
+RL   J. Bone Miner. Res. 23:380-391(2008).
+RN   [14]
+RP   INVOLVEMENT IN OPTA3.
+RX   PubMed=27291868; DOI=10.1002/jbmr.2885;
+RA   Bo T., Yan F., Guo J., Lin X., Zhang H., Guan Q., Wang H., Fang L., Gao L.,
+RA   Zhao J., Xu C.;
+RT   "Characterization of a Relatively Malignant Form of Osteopetrosis Caused by
+RT   a Novel Mutation in the PLEKHM1 Gene.";
+RL   J. Bone Miner. Res. 31:1979-1987(2016).
+CC   -!- FUNCTION: Acts as a multivalent adapter protein that regulates Rab7-
+CC       dependent and HOPS complex-dependent fusion events in the endolysosomal
+CC       system and couples autophagic and the endocytic trafficking pathways.
+CC       Acts as a dual effector of RAB7A and ARL8B that simultaneously binds
+CC       these GTPases, bringing about clustering and fusion of late endosomes
+CC       and lysosomes (PubMed:25498145, PubMed:28325809). Required for late
+CC       stages of endolysosomal maturation, facilitating both endocytosis-
+CC       mediated degradation of growth factor receptors and autophagosome
+CC       clearance. Interaction with Arl8b is a crucial factor in the terminal
+CC       maturation of autophagosomes and to mediate autophagosome-lysosome
+CC       fusion (PubMed:25498145). Positively regulates lysosome peripheral
+CC       distribution and ruffled border formation in osteoclasts (By
+CC       similarity). May be involved in negative regulation of endocytic
+CC       transport from early endosome to late endosome/lysosome implicating its
+CC       association with Rab7 (PubMed:20943950). May have a role in sialyl-lex-
+CC       mediated transduction of apoptotic signals (PubMed:12820725). Involved
+CC       in bone resorption (By similarity). {ECO:0000250|UniProtKB:Q5PQS0,
+CC       ECO:0000250|UniProtKB:Q7TSI1, ECO:0000269|PubMed:12820725,
+CC       ECO:0000269|PubMed:20943950, ECO:0000269|PubMed:25498145,
+CC       ECO:0000269|PubMed:28325809}.
+CC   -!- FUNCTION: (Microbial infection) In case of infection contributes to
+CC       Salmonella typhimurium pathogenesis by supporting the integrity of the
+CC       Salmonella-containing vacuole (SCV) probably in concert with the HOPS
+CC       complex and Rab7. {ECO:0000269|PubMed:25500191}.
+CC   -!- SUBUNIT: Interacts (via N- and C-terminus) with RAB7A (GTP-bound form)
+CC       (PubMed:20943950, PubMed:25500191, PubMed:28325809). Simultaneously
+CC       interacts with RAB7A and ARL8B; bringing about clustering and fusion of
+CC       late endosomes and lysosomes (PubMed:28325809). Interacts (via RUN
+CC       domain) with ARL8B (GTP-bound form); the interaction is required for
+CC       PLEKHM1 localization to lysosomes and for ARL8B function in delivery
+CC       and degradation of endocytic and autophagic cargo in lysosomes
+CC       (PubMed:28325809). PLEKHM1 and PLEKHM2 compete for interaction with
+CC       ARL8B (PubMed:28325809). Interacts with ARL8A; the interaction is
+CC       weaker than with ARL8B (PubMed:28325809). Interacts with VPS41, VPS11,
+CC       VPS18, VPS33A and VPS39; indicative for an association with the HOPS
+CC       complex; the interactions with, at least, VPS41, VPS11, VPS18 and
+CC       VPS33A require ARL8B (PubMed:25500191, PubMed:25498145,
+CC       PubMed:28325809). Interacts with GABARAP, GABARAPL, GABARAPL2,
+CC       MAP1LC3A, MAP1LC3B and MAP1LC3C (PubMed:25498145). Interacts with
+CC       PAFAH1B (By similarity). Interacts (via N- and C-terminus) with NDEL1
+CC       (By similarity). Interacts (via C-terminus) with MAP3K7 (By
+CC       similarity). Interacts (via N- and C-terminus) with FAM98A (By
+CC       similarity). Interacts (via C-terminus) with DEF8; this interaction is
+CC       weak but increased in a RAB7A-dependent manner (By similarity). In
+CC       colon carcinoma and breast carcinoma cells, it interacts with sialyl-
+CC       lex-positive protein (PubMed:12820725). {ECO:0000250|UniProtKB:Q7TSI1,
+CC       ECO:0000269|PubMed:12820725, ECO:0000269|PubMed:20943950,
+CC       ECO:0000269|PubMed:25498145, ECO:0000269|PubMed:28325809}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with Salmonella typhimurium
+CC       sifA. {ECO:0000269|PubMed:25500191}.
+CC   -!- INTERACTION:
+CC       Q9Y4G2; Q96BM9: ARL8A; NbExp=2; IntAct=EBI-473814, EBI-4401082;
+CC       Q9Y4G2; Q9NVJ2: ARL8B; NbExp=20; IntAct=EBI-473814, EBI-718376;
+CC       Q9Y4G2; O95166: GABARAP; NbExp=2; IntAct=EBI-473814, EBI-712001;
+CC       Q9Y4G2; P42345: MTOR; NbExp=6; IntAct=EBI-473814, EBI-359260;
+CC       Q9Y4G2; P51149: RAB7A; NbExp=11; IntAct=EBI-473814, EBI-1056089;
+CC       Q9Y4G2; Q96JC1: VPS39; NbExp=5; IntAct=EBI-473814, EBI-1050197;
+CC       Q9Y4G2; P49754: VPS41; NbExp=9; IntAct=EBI-473814, EBI-2130459;
+CC       Q9Y4G2; P18067: RAB7A; Xeno; NbExp=9; IntAct=EBI-473814, EBI-7991906;
+CC       Q9Y4G2; A0A0D6GID3: sifA; Xeno; NbExp=5; IntAct=EBI-473814, EBI-30861778;
+CC   -!- SUBCELLULAR LOCATION: Autolysosome membrane
+CC       {ECO:0000269|PubMed:25498145}. Endosome membrane
+CC       {ECO:0000269|PubMed:20943950}. Late endosome membrane
+CC       {ECO:0000269|PubMed:28325809}. Lysosome membrane
+CC       {ECO:0000269|PubMed:25498145, ECO:0000269|PubMed:25500191,
+CC       ECO:0000269|PubMed:28325809}. Note=In case of infection colocalizes
+CC       with Salmonella typhimurium sifA in proximity of Salmonella-containing
+CC       vacuole (SCV) (PubMed:25500191). {ECO:0000269|PubMed:25498145,
+CC       ECO:0000269|PubMed:25500191}.
+CC   -!- TISSUE SPECIFICITY: Expressed in placenta, liver, prostate, thymus,
+CC       spleen, ovary, colon, colon carcinoma and peripheral blood lymphocytes
+CC       (PBL). Weakly expressed in brain, lung, kidney, and testis. No
+CC       expression in heart, skeletal muscle, pancreas and small intestine.
+CC       Predominantly expressed in the breast carcinoma cell line MCF-7.
+CC       {ECO:0000269|PubMed:12820725, ECO:0000269|PubMed:9205841}.
+CC   -!- DOMAIN: The LIR (LC3-interacting region) motif mediates the interaction
+CC       with ATG8 family proteins GABARAP, GABARAPL, GABARAPL2, and LC3A/B/C.
+CC       {ECO:0000269|PubMed:25498145}.
+CC   -!- DISEASE: Osteopetrosis, autosomal recessive 6 (OPTB6) [MIM:611497]: A
+CC       rare genetic disease characterized by abnormally dense bone, due to
+CC       defective resorption of immature bone. Osteopetrosis occurs in two
+CC       forms: a severe autosomal recessive form occurring in utero, infancy,
+CC       or childhood, and a benign autosomal dominant form occurring in
+CC       adolescence or adulthood. Recessive osteopetrosis commonly manifests in
+CC       early infancy with macrocephaly, feeding difficulties, evolving
+CC       blindness and deafness, bone marrow failure, severe anemia, and
+CC       hepatosplenomegaly. Deafness and blindness are generally thought to
+CC       represent effects of pressure on nerves. {ECO:0000269|PubMed:17404618}.
+CC       Note=The disease is caused by variants affecting the gene represented
+CC       in this entry.
+CC   -!- DISEASE: Osteopetrosis, autosomal dominant 3 (OPTA3) [MIM:618107]: A
+CC       form of osteopetrosis, a rare genetic disease characterized by
+CC       abnormally dense bone, due to defective resorption of immature bone.
+CC       Osteopetrosis occurs in two forms: a severe autosomal recessive form
+CC       occurring in utero, infancy, or childhood, and an autosomal dominant
+CC       form occurring in adolescence or adulthood. OPTA3 is characterized by
+CC       typical features of osteopetrosis such as fractures after minor trauma,
+CC       early tooth loss, anemia, hepatosplenomegaly, and a generalized
+CC       increase in bone mineral density. Some patients exhibit localized
+CC       osteosclerosis and generalized osteopenia.
+CC       {ECO:0000269|PubMed:17997709, ECO:0000269|PubMed:27291868}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- MISCELLANEOUS: Sialyl-lex is a carcinoma associated antigen.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA20813.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAB91652.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB002354; BAA20813.2; ALT_INIT; mRNA.
+DR   EMBL; BC064361; AAH64361.1; -; mRNA.
+DR   EMBL; AJ002220; CAB91652.1; ALT_INIT; mRNA.
+DR   EMBL; AK074103; BAB84929.1; -; mRNA.
+DR   EMBL; AL389948; CAB97526.1; -; mRNA.
+DR   CCDS; CCDS32671.1; -.
+DR   RefSeq; NP_055613.1; NM_014798.2.
+DR   RefSeq; XP_006722264.1; XM_006722201.3.
+DR   RefSeq; XP_011523825.1; XM_011525523.2.
+DR   RefSeq; XP_011523826.1; XM_011525524.1.
+DR   RefSeq; XP_016880940.1; XM_017025451.1.
+DR   RefSeq; XP_016880942.1; XM_017025453.1.
+DR   PDB; 5DPR; X-ray; 2.50 A; A/B/C/D=627-638.
+DR   PDB; 5DPS; X-ray; 2.00 A; A/B/C=627-638.
+DR   PDB; 5DPT; X-ray; 2.90 A; A/B=627-638.
+DR   PDB; 5DPW; X-ray; 2.19 A; B/D/F/H/J/L/N/P=629-642.
+DR   PDBsum; 5DPR; -.
+DR   PDBsum; 5DPS; -.
+DR   PDBsum; 5DPT; -.
+DR   PDBsum; 5DPW; -.
+DR   AlphaFoldDB; Q9Y4G2; -.
+DR   SMR; Q9Y4G2; -.
+DR   BioGRID; 115178; 54.
+DR   IntAct; Q9Y4G2; 50.
+DR   MINT; Q9Y4G2; -.
+DR   STRING; 9606.ENSP00000389913; -.
+DR   GlyCosmos; Q9Y4G2; 2 sites, 1 glycan.
+DR   GlyGen; Q9Y4G2; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q9Y4G2; -.
+DR   PhosphoSitePlus; Q9Y4G2; -.
+DR   BioMuta; PLEKHM1; -.
+DR   DMDM; 160419247; -.
+DR   EPD; Q9Y4G2; -.
+DR   jPOST; Q9Y4G2; -.
+DR   MassIVE; Q9Y4G2; -.
+DR   MaxQB; Q9Y4G2; -.
+DR   PaxDb; Q9Y4G2; -.
+DR   PeptideAtlas; Q9Y4G2; -.
+DR   ProteomicsDB; 86202; -.
+DR   Antibodypedia; 30012; 148 antibodies from 27 providers.
+DR   DNASU; 9842; -.
+DR   Ensembl; ENST00000430334.8; ENSP00000389913.3; ENSG00000225190.12.
+DR   Ensembl; ENST00000446609.7; ENSP00000394344.3; ENSG00000225190.12.
+DR   Ensembl; ENST00000613787.3; ENSP00000479066.1; ENSG00000277111.3.
+DR   Ensembl; ENST00000617688.2; ENSP00000483820.1; ENSG00000276358.2.
+DR   GeneID; 9842; -.
+DR   KEGG; hsa:9842; -.
+DR   MANE-Select; ENST00000430334.8; ENSP00000389913.3; NM_014798.3; NP_055613.1.
+DR   UCSC; uc002ija.4; human.
+DR   AGR; HGNC:29017; -.
+DR   CTD; 9842; -.
+DR   DisGeNET; 9842; -.
+DR   GeneCards; PLEKHM1; -.
+DR   HGNC; HGNC:29017; PLEKHM1.
+DR   HPA; ENSG00000225190; Tissue enhanced (esophagus).
+DR   MalaCards; PLEKHM1; -.
+DR   MIM; 611466; gene.
+DR   MIM; 611497; phenotype.
+DR   MIM; 618107; phenotype.
+DR   neXtProt; NX_Q9Y4G2; -.
+DR   OpenTargets; ENSG00000225190; -.
+DR   Orphanet; 210110; Intermediate osteopetrosis.
+DR   PharmGKB; PA134906881; -.
+DR   VEuPathDB; HostDB:ENSG00000225190; -.
+DR   eggNOG; KOG1829; Eukaryota.
+DR   GeneTree; ENSGT00940000155111; -.
+DR   HOGENOM; CLU_011318_0_0_1; -.
+DR   InParanoid; Q9Y4G2; -.
+DR   OMA; HVLNCDL; -.
+DR   OrthoDB; 126314at2759; -.
+DR   PhylomeDB; Q9Y4G2; -.
+DR   TreeFam; TF317067; -.
+DR   PathwayCommons; Q9Y4G2; -.
+DR   SignaLink; Q9Y4G2; -.
+DR   BioGRID-ORCS; 9842; 58 hits in 1153 CRISPR screens.
+DR   ChiTaRS; PLEKHM1; human.
+DR   GeneWiki; PLEKHM1; -.
+DR   GenomeRNAi; 9842; -.
+DR   Pharos; Q9Y4G2; Tbio.
+DR   PRO; PR:Q9Y4G2; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q9Y4G2; protein.
+DR   Bgee; ENSG00000225190; Expressed in lower esophagus mucosa and 93 other tissues.
+DR   ExpressionAtlas; Q9Y4G2; baseline and differential.
+DR   Genevisible; Q9Y4G2; HS.
+DR   GO; GO:0044754; C:autolysosome; IDA:UniProtKB.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:HPA.
+DR   GO; GO:0031902; C:late endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005764; C:lysosome; IDA:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0061909; P:autophagosome-lysosome fusion; IMP:UniProtKB.
+DR   GO; GO:1902774; P:late endosome to lysosome transport; IMP:UniProtKB.
+DR   GO; GO:0032418; P:lysosome localization; IDA:UniProtKB.
+DR   GO; GO:0045780; P:positive regulation of bone resorption; ISS:UniProtKB.
+DR   GO; GO:1900029; P:positive regulation of ruffle assembly; ISS:UniProtKB.
+DR   GO; GO:0015031; P:protein transport; IEA:UniProtKB-KW.
+DR   CDD; cd13321; PH_PLEKHM1; 1.
+DR   CDD; cd17679; RUN_PLEKHM1; 1.
+DR   Gene3D; 1.20.58.900; -; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR002219; PE/DAG-bd.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR042827; PLEKHM1_PH.
+DR   InterPro; IPR025258; RH_dom.
+DR   InterPro; IPR004012; Run_dom.
+DR   InterPro; IPR037213; Run_dom_sf.
+DR   InterPro; IPR047326; RUN_PLEKHM1.
+DR   PANTHER; PTHR12326; PLECKSTRIN HOMOLOGY DOMAIN CONTAINING PROTEIN; 1.
+DR   PANTHER; PTHR12326:SF5; PLECKSTRIN HOMOLOGY DOMAIN-CONTAINING FAMILY M MEMBER 1; 1.
+DR   Pfam; PF02759; RUN; 1.
+DR   Pfam; PF13901; zf-RING_9; 1.
+DR   SMART; SM00109; C1; 1.
+DR   SMART; SM01175; DUF4206; 1.
+DR   SMART; SM00233; PH; 2.
+DR   SMART; SM00593; RUN; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 2.
+DR   SUPFAM; SSF140741; RUN domain-like; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+DR   PROSITE; PS50826; RUN; 1.
+DR   PROSITE; PS50081; ZF_DAG_PE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Autophagy; Cytoplasmic vesicle; Disease variant; Endosome;
+KW   Lysosome; Membrane; Metal-binding; Osteopetrosis; Phosphoprotein;
+KW   Protein transport; Reference proteome; Repeat; Transport; Zinc;
+KW   Zinc-finger.
+FT   CHAIN           1..1056
+FT                   /note="Pleckstrin homology domain-containing family M
+FT                   member 1"
+FT                   /id="PRO_0000309335"
+FT   DOMAIN          41..183
+FT                   /note="RUN"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00178"
+FT   DOMAIN          534..625
+FT                   /note="PH 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          683..777
+FT                   /note="PH 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   ZN_FING         986..1040
+FT                   /note="Phorbol-ester/DAG-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00226"
+FT   REGION          215..245
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          277..303
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          360..422
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          451..483
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          654..1056
+FT                   /note="Interaction with RAB7A"
+FT                   /evidence="ECO:0000269|PubMed:25500191"
+FT   MOTIF           632..638
+FT                   /note="LIR"
+FT                   /evidence="ECO:0000305"
+FT   COMPBIAS        218..238
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        385..412
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         219
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q7TSI1"
+FT   MOD_RES         432
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         435
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q7TSI1"
+FT   MOD_RES         490
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q7TSI1"
+FT   VARIANT         377
+FT                   /note="R -> H (in dbSNP:rs1859059)"
+FT                   /id="VAR_036932"
+FT   VARIANT         714
+FT                   /note="R -> C (in OPTA3; unknown pathological significance;
+FT                   dbSNP:rs559224144)"
+FT                   /evidence="ECO:0000269|PubMed:17997709"
+FT                   /id="VAR_081102"
+FT   MUTAGEN         60
+FT                   /note="H->A: Strongly reduces interaction with ARL8B. No
+FT                   effect on interaction with RAB7A. No effect on late
+FT                   endosome and lysosome clustering. Loss of interaction with
+FT                   ARL8B as well as late endosome and lysosome clustering;
+FT                   when associated with 119-A--A-123."
+FT                   /evidence="ECO:0000269|PubMed:28325809"
+FT   MUTAGEN         63
+FT                   /note="H->A: No effect on interaction with ARL8B. No effect
+FT                   on interaction with RAB7A."
+FT                   /evidence="ECO:0000269|PubMed:28325809"
+FT   MUTAGEN         119..123
+FT                   /note="RAWLR->AAWLA: Reduces interaction with ARL8B. No
+FT                   effect on interaction with RAB7A. Loss of interaction with
+FT                   ARL8B as well as late endosome and lysosome clustering;
+FT                   when associated with A-60."
+FT                   /evidence="ECO:0000269|PubMed:28325809"
+FT   MUTAGEN         720..722
+FT                   /note="Missing: Disrupts interaction with RAB7A."
+FT                   /evidence="ECO:0000269|PubMed:25500191"
+FT   MUTAGEN         729
+FT                   /note="E->A: Disrupts interaction with RAB7A."
+FT                   /evidence="ECO:0000269|PubMed:25500191"
+FT   MUTAGEN         769
+FT                   /note="R->A: Disrupts interaction with RAB7A."
+FT                   /evidence="ECO:0000269|PubMed:25500191"
+FT   MUTAGEN         1021
+FT                   /note="C->G: Disrupts interaction with Rab7 and no
+FT                   localization to endososmal membranes; when associated with
+FT                   G-1024, L-1029 and G-1032."
+FT                   /evidence="ECO:0000269|PubMed:20943950"
+FT   MUTAGEN         1024
+FT                   /note="C->G: Disrupts interaction with Rab7 and no
+FT                   localization to endososmal membranes; when associated with
+FT                   G-1021, L-1029 and G-1032."
+FT                   /evidence="ECO:0000269|PubMed:20943950"
+FT   MUTAGEN         1029
+FT                   /note="H->L: Disrupts interaction with Rab7 and no
+FT                   localization to endososmal membranes; when associated with
+FT                   G-1021, G-1024 and G-1032."
+FT                   /evidence="ECO:0000269|PubMed:20943950"
+FT   MUTAGEN         1032
+FT                   /note="C->G: Disrupts interaction with Rab7and no
+FT                   localization to endososmal membranes; when associated with
+FT                   G-1021, G-1024 and L-1029."
+FT                   /evidence="ECO:0000269|PubMed:20943950"
+FT   CONFLICT        429..436
+FT                   /note="VVSSPTSP -> GLRPVSAR (in Ref. 4; BAB84929)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        817
+FT                   /note="A -> G (in Ref. 4; BAB84929)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          635..637
+FT                   /evidence="ECO:0007829|PDB:5DPW"
+SQ   SEQUENCE   1056 AA;  117443 MW;  24004093CFA89079 CRC64;
+     MLSVVENGLD PQAAIPVIKK KLVGSVKALQ KQYVSLDTVV TSEDGDANTM CSALEAVFIH
+     GLHAKHIRAE AGGKRKKSAH QKPLPQPVFW PLLKAVTHKH IISELEHLTF VNTDVGRCRA
+     WLRLALNDGL MECYLKLLLQ EQARLHEYYQ PTALLRDAEE GEFLLSFLQG LTSLSFELSY
+     KSAILNEWTL TPLALSGLCP LSELDPLSTS GAELQRKESL DSISHSSGSE DIEVHHSGHK
+     IRRNQKLTAS SLSLDTASSS QLSCSLNSDS CLLQENGSKS PDHCEEPMSC DSDLGTANAE
+     DSDRSLQEVL LEFSKAQVNS VPTNGLSQET EIPTPQASLS LHGLNTSTYL HCEAPAEPLP
+     AQAASGTQDG VHVQEPRPQA PSPLDLQQPV ESTSGQQPSS TVSETAREVG QGNGLQKAQA
+     HDGAGLKLVV SSPTSPKNKS WISEDDFYRP SREQPLESAS DHPIASYRGT PGSRPGLHRH
+     FSQEPRKNCS LGALDQACVP SPGRRQAQAA PSQGHKSFRV VHRRQMGLSN PFRGLMKLGT
+     VERRGAMGIW KELFCELSPL EFRLYLSNEE HTCVENCSLL RCESVGPAHS DGRFELVFSG
+     KKLALRASSQ DEAEDWLDRV REALQKVRPQ QEDEWVNVQY PDQPEEPPEA PQGCLSPSDL
+     LSEPAALQGT QFDWSSAQVP EPDAIKESLL YLYMDRTWMP YIFSLSLEAL KCFRIRNNEK
+     MLSDSHGVET IRDILPDTSL GGPSFFKIIT AKAVLKLQAG NAEEAALWRD LVRKVLASYL
+     ETAEEAVTLG GSLDENCQEV LKFATRENGF LLQYLVAIPM EKGLDSQGCF CAGCSRQIGF
+     SFVRPKLCAF SGLYYCDICH QDDASVIPAR IIHNWDLTKR PICRQALKFL TQIRAQPLIN
+     LQMVNASLYE HVERMHLIGR RREQLKLLGD YLGLCRSGAL KELSKRLNHR NYLLESPHRF
+     SVADLQQIAD GVYEGFLKAL IEFASQHVYH CDLCTQRGFI CQICQHHDII FPFEFDTTVR
+     CAECKTVFHQ SCQAVVKKGC PRCARRRKYQ EQNIFA
+//

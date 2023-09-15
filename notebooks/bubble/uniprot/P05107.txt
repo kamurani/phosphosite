@@ -1,0 +1,1081 @@
+ID   ITB2_HUMAN              Reviewed;         769 AA.
+AC   P05107; B3KTS8; D3DSM1; Q16418; Q53HS5; Q9UD72;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   28-JUN-2023, entry version 264.
+DE   RecName: Full=Integrin beta-2;
+DE   AltName: Full=Cell surface adhesion glycoproteins LFA-1/CR3/p150,95 subunit beta;
+DE   AltName: Full=Complement receptor C3 subunit beta;
+DE   AltName: CD_antigen=CD18;
+DE   Flags: Precursor;
+GN   Name=ITGB2; Synonyms=CD18, MFI7;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT HIS-354.
+RX   PubMed=3028646; DOI=10.1016/0092-8674(87)90246-7;
+RA   Kishimoto T.K., O'Connor K., Lee A., Roberts T.M., Springer T.A.;
+RT   "Cloning of the beta subunit of the leukocyte adhesion proteins: homology
+RT   to an extracellular matrix receptor defines a novel supergene family.";
+RL   Cell 48:681-690(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT HIS-354.
+RX   PubMed=1683838; DOI=10.1016/0014-5793(91)81351-8;
+RA   Weitzman J.B., Wells C.E., Wright A.H., Clark P.A., Law S.K.A.;
+RT   "The gene organisation of the human beta 2 integrin subunit (CD18).";
+RL   FEBS Lett. 294:97-103(1991).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT HIS-354.
+RC   TISSUE=Synovial cell;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT HIS-354.
+RC   TISSUE=Adipose tissue;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10830953; DOI=10.1038/35012518;
+RA   Hattori M., Fujiyama A., Taylor T.D., Watanabe H., Yada T., Park H.-S.,
+RA   Toyoda A., Ishii K., Totoki Y., Choi D.-K., Groner Y., Soeda E., Ohki M.,
+RA   Takagi T., Sakaki Y., Taudien S., Blechschmidt K., Polley A., Menzel U.,
+RA   Delabar J., Kumpf K., Lehmann R., Patterson D., Reichwald K., Rump A.,
+RA   Schillhabel M., Schudy A., Zimmermann W., Rosenthal A., Kudoh J.,
+RA   Shibuya K., Kawasaki K., Asakawa S., Shintani A., Sasaki T., Nagamine K.,
+RA   Mitsuyama S., Antonarakis S.E., Minoshima S., Shimizu N., Nordsiek G.,
+RA   Hornischer K., Brandt P., Scharfe M., Schoen O., Desario A., Reichelt J.,
+RA   Kauer G., Bloecker H., Ramser J., Beck A., Klages S., Hennig S.,
+RA   Riesselmann L., Dagand E., Wehrmeyer S., Borzym K., Gardiner K.,
+RA   Nizetic D., Francis F., Lehrach H., Reinhardt R., Yaspo M.-L.;
+RT   "The DNA sequence of human chromosome 21.";
+RL   Nature 405:311-319(2000).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANT HIS-354.
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT HIS-354.
+RC   TISSUE=Muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 9-769, PARTIAL PROTEIN SEQUENCE,
+RP   PYROGLUTAMATE FORMATION AT GLN-23, AND VARIANT HIS-354.
+RC   TISSUE=Spleen;
+RX   PubMed=2954816; DOI=10.1002/j.1460-2075.1987.tb04838.x;
+RA   Law S.K.A., Gagnon J., Hildreth J.E., Wells C.E., Willis A.C., Wong A.J.;
+RT   "The primary structure of the beta-subunit of the cell surface adhesion
+RT   glycoproteins LFA-1, CR3 and p150,95 and its relationship to the
+RT   fibronectin receptor.";
+RL   EMBO J. 6:915-919(1987).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 124-199, AND VARIANT LAD1 LEU-178.
+RC   TISSUE=Lymphoblast;
+RX   PubMed=7509236; DOI=10.1002/humu.1380020606;
+RA   Ohashi Y., Yambe T., Tsuchiya S., Kikuchi H., Konno T.;
+RT   "Familial genetic defect in a case of leukocyte adhesion deficiency.";
+RL   Hum. Mutat. 2:458-467(1993).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 347-355, VARIANTS LAD1 SER-351 AND TRP-586,
+RP   AND VARIANT HIS-354.
+RX   PubMed=1346613; DOI=10.1016/s0021-9258(19)50738-4;
+RA   Nelson C., Rabb H., Arnaout M.A.;
+RT   "Genetic cause of leukocyte adhesion molecule deficiency. Abnormal splicing
+RT   and a missense mutation in a conserved region of CD18 impair cell surface
+RT   expression of beta 2 integrins.";
+RL   J. Biol. Chem. 267:3351-3357(1992).
+RN   [11]
+RP   INTERACTION WITH COPS5.
+RX   PubMed=10766246; DOI=10.1038/35007098;
+RA   Bianchi E., Denti S., Granata A., Bossi G., Geginat J., Villa A., Rogge L.,
+RA   Pardi R.;
+RT   "Integrin LFA-1 interacts with the transcriptional co-activator JAB1 to
+RT   modulate AP-1 activity.";
+RL   Nature 404:617-621(2000).
+RN   [12]
+RP   PHOSPHORYLATION AT SER-745; SER-756; THR-758 AND THR-760.
+RX   PubMed=11700305; DOI=10.1074/jbc.m106856200;
+RA   Fagerholm S., Morrice N., Gahmberg C.G., Cohen P.;
+RT   "Phosphorylation of the cytoplasmic domain of the integrin CD18 chain by
+RT   protein kinase C isoforms in leukocytes.";
+RL   J. Biol. Chem. 277:1728-1738(2002).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=11812992; DOI=10.1038/ni755;
+RA   Ostermann G., Weber K.S., Zernecke A., Schroeder A., Weber C.;
+RT   "JAM-1 is a ligand of the beta(2) integrin LFA-1 involved in
+RT   transendothelial migration of leukocytes.";
+RL   Nat. Immunol. 3:151-158(2002).
+RN   [14]
+RP   INTERACTION WITH RANBP9.
+RX   PubMed=14722085; DOI=10.1074/jbc.m313515200;
+RA   Denti S., Sirri A., Cheli A., Rogge L., Innamorati G., Putignano S.,
+RA   Fabbri M., Pardi R., Bianchi E.;
+RT   "RanBPM is a phosphoprotein that associates with the plasma membrane and
+RT   interacts with the integrin LFA-1.";
+RL   J. Biol. Chem. 279:13027-13034(2004).
+RN   [15]
+RP   FUNCTION.
+RX   PubMed=15356110; DOI=10.4049/jimmunol.173.6.3653;
+RA   Barber D.F., Faure M., Long E.O.;
+RT   "LFA-1 contributes an early signal for NK cell cytotoxicity.";
+RL   J. Immunol. 173:3653-3659(2004).
+RN   [16]
+RP   PHOSPHORYLATION AT THR-758, AND MUTAGENESIS OF THR-758.
+RX   PubMed=16301335; DOI=10.1083/jcb.200504016;
+RA   Fagerholm S.C., Hilden T.J., Nurmi S.M., Gahmberg C.G.;
+RT   "Specific integrin alpha and beta chain phosphorylations regulate LFA-1
+RT   activation through affinity-dependent and -independent mechanisms.";
+RL   J. Cell Biol. 171:705-715(2005).
+RN   [17]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-212.
+RC   TISSUE=Plasma;
+RX   PubMed=16335952; DOI=10.1021/pr0502065;
+RA   Liu T., Qian W.-J., Gritsenko M.A., Camp D.G. II, Monroe M.E., Moore R.J.,
+RA   Smith R.D.;
+RT   "Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+RT   hydrazide chemistry, and mass spectrometry.";
+RL   J. Proteome Res. 4:2070-2080(2005).
+RN   [18]
+RP   FUNCTION DURING LUNG INJURY.
+RX   PubMed=18587400; DOI=10.1038/ni.1628;
+RA   Xu J., Gao X.-P., Ramchandran R., Zhao Y.-Y., Vogel S.M., Malik A.B.;
+RT   "Nonmuscle myosin light-chain kinase mediates neutrophil transmigration in
+RT   sepsis-induced lung inflammation by activating beta2 integrins.";
+RL   Nat. Immunol. 9:880-886(2008).
+RN   [19]
+RP   INTERACTION WITH FLNA.
+RX   PubMed=19828450; DOI=10.1074/jbc.m109.060954;
+RA   Ithychanda S.S., Hsu D., Li H., Yan L., Liu D.D., Liu D., Das M.,
+RA   Plow E.F., Qin J.;
+RT   "Identification and characterization of multiple similar ligand-binding
+RT   repeats in filamin: implication on filamin-mediated receptor clustering and
+RT   cross-talk.";
+RL   J. Biol. Chem. 284:35113-35121(2009).
+RN   [20]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-50 AND ASN-212.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [21]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-50; ASN-116 AND ASN-212.
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19349973; DOI=10.1038/nbt.1532;
+RA   Wollscheid B., Bausch-Fluck D., Henderson C., O'Brien R., Bibel M.,
+RA   Schiess R., Aebersold R., Watts J.D.;
+RT   "Mass-spectrometric identification and relative quantification of N-linked
+RT   cell surface glycoproteins.";
+RL   Nat. Biotechnol. 27:378-386(2009).
+RN   [22]
+RP   FUNCTION, IDENTIFICATION IN A COMPLEX WITH CD177 AND ITGAM, SUBCELLULAR
+RP   LOCATION, TISSUE SPECIFICITY, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=21193407; DOI=10.1074/jbc.m110.171256;
+RA   Jerke U., Rolle S., Dittmar G., Bayat B., Santoso S., Sporbert A., Luft F.,
+RA   Kettritz R.;
+RT   "Complement receptor Mac-1 is an adaptor for NB1 (CD177)-mediated PR3-ANCA
+RT   neutrophil activation.";
+RL   J. Biol. Chem. 286:7070-7081(2011).
+RN   [23]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=23775590; DOI=10.1007/s10495-013-0873-z;
+RA   Kristof E., Zahuczky G., Katona K., Doro Z., Nagy E., Fesues L.;
+RT   "Novel role of ICAM3 and LFA-1 in the clearance of apoptotic neutrophils by
+RT   human macrophages.";
+RL   Apoptosis 18:1235-1251(2013).
+RN   [24]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [25]
+RP   INTERACTION WITH THBD.
+RX   PubMed=27055590; DOI=10.1016/j.bbrc.2016.04.007;
+RA   Kawamoto E., Okamoto T., Takagi Y., Honda G., Suzuki K., Imai H.,
+RA   Shimaoka M.;
+RT   "LFA-1 and Mac-1 integrins bind to the serine/threonine-rich domain of
+RT   thrombomodulin.";
+RL   Biochem. Biophys. Res. Commun. 473:1005-1012(2016).
+RN   [26]
+RP   FUNCTION, IDENTIFICATION IN A COMPLEX WITH CD177 AND ITGAM, SUBCELLULAR
+RP   LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=28807980; DOI=10.1182/blood-2017-03-768507;
+RA   Bai M., Grieshaber-Bouyer R., Wang J., Schmider A.B., Wilson Z.S., Zeng L.,
+RA   Halyabar O., Godin M.D., Nguyen H.N., Levescot A., Cunin P., Lefort C.T.,
+RA   Soberman R.J., Nigrovic P.A.;
+RT   "CD177 modulates human neutrophil migration through activation-mediated
+RT   integrin and chemoreceptor regulation.";
+RL   Blood 130:2092-2100(2017).
+RN   [27]
+RP   FUNCTION.
+RX   PubMed=29100055; DOI=10.1016/j.molcel.2017.10.003;
+RA   Swaim C.D., Scott A.F., Canadeo L.A., Huibregtse J.M.;
+RT   "Extracellular ISG15 signals cytokine secretion through the LFA-1 integrin
+RT   receptor.";
+RL   Mol. Cell 68:581-590(2017).
+RN   [28]
+RP   X-RAY CRYSTALLOGRAPHY (3.5 ANGSTROMS) OF 23-699 IN COMPLEX WITH ITGAX,
+RP   GLYCOSYLATION AT ASN-116, DISULFIDE BONDS, CALCIUM-BINDING SITES, AND
+RP   SUBUNIT.
+RX   PubMed=20033057; DOI=10.1038/emboj.2009.367;
+RA   Xie C., Zhu J., Chen X., Mi L., Nishida N., Springer T.A.;
+RT   "Structure of an integrin with an alphaI domain, complement receptor type
+RT   4.";
+RL   EMBO J. 29:666-679(2010).
+RN   [29]
+RP   VARIANTS LAD1 THR-196 AND CYS-593.
+RX   PubMed=1968911; DOI=10.1172/jci114529;
+RA   Arnaout M.A., Dana N., Gupta S.K., Tenen D.G., Fathallah D.M.;
+RT   "Point mutations impairing cell surface expression of the common beta
+RT   subunit (CD18) in a patient with leukocyte adhesion molecule (Leu-CAM)
+RT   deficiency.";
+RL   J. Clin. Invest. 85:977-981(1990).
+RN   [30]
+RP   VARIANTS LAD1 PRO-149 AND ARG-169.
+RX   PubMed=1694220; DOI=10.1084/jem.172.1.335;
+RA   Wardlaw A.J., Hibbs M.L., Stacker S.A., Springer T.A.;
+RT   "Distinct mutations in two patients with leukocyte adhesion deficiency and
+RT   their functional correlates.";
+RL   J. Exp. Med. 172:335-345(1990).
+RN   [31]
+RP   VARIANT LAD1 ASN-128.
+RX   PubMed=1590804; DOI=10.1016/s0006-291x(05)80047-6;
+RA   Matsuura S., Kishi F., Tsukahara M., Nunoi H., Matsuda I., Kobayashi K.,
+RA   Kajii T.;
+RT   "Leukocyte adhesion deficiency: identification of novel mutations in two
+RT   Japanese patients with a severe form.";
+RL   Biochem. Biophys. Res. Commun. 184:1460-1467(1992).
+RN   [32]
+RP   VARIANT LAD1 ARG-169.
+RX   PubMed=1352501; DOI=10.1002/eji.1830220730;
+RA   Corbi A., Vara A., Ursa A., Rodriguez M.C.G., Fontan G., Sanchez-Madrid F.;
+RT   "Molecular basis for a severe case of leukocyte adhesion deficiency.";
+RL   Eur. J. Immunol. 22:1877-1881(1992).
+RN   [33]
+RP   VARIANT LAD1 LEU-178.
+RX   PubMed=1347532; DOI=10.1016/s0021-9258(18)42791-3;
+RA   Back L.L., Kwok W.W., Hickstein D.D.;
+RT   "Identification of two molecular defects in a child with leukocyte
+RT   adherence deficiency.";
+RL   J. Biol. Chem. 267:5482-5487(1992).
+RN   [34]
+RP   VARIANT LAD1 SER-284.
+RX   PubMed=7686755; DOI=10.1006/bbrc.1993.1712;
+RA   Back L.A., Kerkering M., Baker D., Bauer T.R., Embree L.J., Hickstein D.D.;
+RT   "A point mutation associated with leukocyte adhesion deficiency type 1 of
+RT   moderate severity.";
+RL   Biochem. Biophys. Res. Commun. 193:912-918(1993).
+RN   [35]
+RP   VARIANTS LAD1 PRO-138 AND ARG-273.
+RX   PubMed=9884339; DOI=10.1172/jci3312;
+RA   Hogg N., Stewart M.P., Scarth S.L., Newton R., Shaw J.M., Law S.K.A.,
+RA   Klein N.;
+RT   "A novel leukocyte adhesion deficiency caused by expressed but
+RT   nonfunctional beta2 integrins Mac-1 and LFA-1.";
+RL   J. Clin. Invest. 103:97-106(1999).
+RN   [36]
+RP   VARIANT LAD1 VAL-300.
+RX   PubMed=20529581;
+RA   Li L., Jin Y.Y., Cao R.M., Chen T.X.;
+RT   "A novel point mutation in CD18 causing leukocyte adhesion deficiency in a
+RT   Chinese patient.";
+RL   Chin. Med. J. 123:1278-1282(2010).
+RN   [37]
+RP   VARIANTS LAD1 TYR-128; THR-239 AND ALA-716.
+RX   PubMed=20549317; DOI=10.1007/s10875-010-9433-2;
+RA   Parvaneh N., Mamishi S., Rezaei A., Rezaei N., Tamizifar B., Parvaneh L.,
+RA   Sherkat R., Ghalehbaghi B., Kashef S., Chavoshzadeh Z., Isaeian A.,
+RA   Ashrafi F., Aghamohammadi A.;
+RT   "Characterization of 11 new cases of leukocyte adhesion deficiency type 1
+RT   with seven novel mutations in the ITGB2 gene.";
+RL   J. Clin. Immunol. 30:756-760(2010).
+CC   -!- FUNCTION: Integrin ITGAL/ITGB2 is a receptor for ICAM1, ICAM2, ICAM3
+CC       and ICAM4. Integrin ITGAL/ITGB2 is also a receptor for the secreted
+CC       form of ubiquitin-like protein ISG15; the interaction is mediated by
+CC       ITGAL (PubMed:29100055). Integrins ITGAM/ITGB2 and ITGAX/ITGB2 are
+CC       receptors for the iC3b fragment of the third complement component and
+CC       for fibrinogen. Integrin ITGAX/ITGB2 recognizes the sequence G-P-R in
+CC       fibrinogen alpha-chain. Integrin ITGAM/ITGB2 recognizes P1 and P2
+CC       peptides of fibrinogen gamma chain. Integrin ITGAM/ITGB2 is also a
+CC       receptor for factor X. Integrin ITGAD/ITGB2 is a receptor for ICAM3 and
+CC       VCAM1. Contributes to natural killer cell cytotoxicity
+CC       (PubMed:15356110). Involved in leukocyte adhesion and transmigration of
+CC       leukocytes including T-cells and neutrophils (PubMed:11812992,
+CC       PubMed:28807980). Triggers neutrophil transmigration during lung injury
+CC       through PTK2B/PYK2-mediated activation (PubMed:18587400). Integrin
+CC       ITGAL/ITGB2 in association with ICAM3, contributes to apoptotic
+CC       neutrophil phagocytosis by macrophages (PubMed:23775590). In
+CC       association with alpha subunit ITGAM/CD11b, required for CD177-PRTN3-
+CC       mediated activation of TNF primed neutrophils (PubMed:21193407).
+CC       {ECO:0000269|PubMed:11812992, ECO:0000269|PubMed:15356110,
+CC       ECO:0000269|PubMed:18587400, ECO:0000269|PubMed:21193407,
+CC       ECO:0000269|PubMed:23775590, ECO:0000269|PubMed:28807980,
+CC       ECO:0000269|PubMed:29100055}.
+CC   -!- SUBUNIT: Heterodimer of an alpha and a beta subunit (PubMed:20033057).
+CC       The ITGB2 beta subunit associates with the ITGAL, ITGAM, ITGAX or ITGAD
+CC       alpha subunits. Found in a complex with CD177 and ITGAM/CD11b
+CC       (PubMed:21193407, PubMed:28807980). Interacts with FGR (By similarity).
+CC       Interacts with COPS5 and RANBP9 (PubMed:10766246, PubMed:14722085).
+CC       Interacts with FLNA (via filamin repeats 4, 9, 12, 17, 19, 21, and 23)
+CC       (PubMed:19828450). Interacts with THBD (PubMed:27055590).
+CC       {ECO:0000250|UniProtKB:P11835, ECO:0000269|PubMed:10766246,
+CC       ECO:0000269|PubMed:14722085, ECO:0000269|PubMed:19828450,
+CC       ECO:0000269|PubMed:20033057, ECO:0000269|PubMed:21193407,
+CC       ECO:0000269|PubMed:27055590, ECO:0000269|PubMed:28807980}.
+CC   -!- INTERACTION:
+CC       P05107; P00519: ABL1; NbExp=4; IntAct=EBI-300173, EBI-375543;
+CC       P05107; Q6UY14-3: ADAMTSL4; NbExp=3; IntAct=EBI-300173, EBI-10173507;
+CC       P05107; Q9BQE5: APOL2; NbExp=3; IntAct=EBI-300173, EBI-4290634;
+CC       P05107; A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-300173, EBI-3867333;
+CC       P05107; Q3SYB3: FOXD4L6; NbExp=3; IntAct=EBI-300173, EBI-6425864;
+CC       P05107; P20702: ITGAX; NbExp=3; IntAct=EBI-300173, EBI-2568308;
+CC       P05107; Q14145: KEAP1; NbExp=3; IntAct=EBI-300173, EBI-751001;
+CC       P05107; Q15323: KRT31; NbExp=3; IntAct=EBI-300173, EBI-948001;
+CC       P05107; P60410: KRTAP10-8; NbExp=3; IntAct=EBI-300173, EBI-10171774;
+CC       P05107; Q8TAF8: LHFPL5; NbExp=3; IntAct=EBI-300173, EBI-2820517;
+CC       P05107; Q9GZW8: MS4A7; NbExp=3; IntAct=EBI-300173, EBI-721391;
+CC       P05107; Q9H2K0: MTIF3; NbExp=3; IntAct=EBI-300173, EBI-3923617;
+CC       P05107; Q7Z3S9: NOTCH2NLA; NbExp=7; IntAct=EBI-300173, EBI-945833;
+CC       P05107; P0DPK4: NOTCH2NLC; NbExp=3; IntAct=EBI-300173, EBI-22310682;
+CC       P05107; P35241: RDX; NbExp=2; IntAct=EBI-300173, EBI-2514878;
+CC       P05107; Q9UN30-2: SCML1; NbExp=3; IntAct=EBI-300173, EBI-12137487;
+CC       P05107; Q15582: TGFBI; NbExp=2; IntAct=EBI-300173, EBI-10236573;
+CC       P05107; Q9Y4G6: TLN2; NbExp=5; IntAct=EBI-300173, EBI-1220811;
+CC       P05107; Q96CE8: TM4SF18; NbExp=3; IntAct=EBI-300173, EBI-13351685;
+CC       P05107; O75841: UPK1B; NbExp=3; IntAct=EBI-300173, EBI-12237619;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:21193407,
+CC       ECO:0000269|PubMed:28807980}; Single-pass type I membrane protein
+CC       {ECO:0000305}. Membrane raft {ECO:0000269|PubMed:21193407}; Single-pass
+CC       type I membrane protein {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Leukocytes (PubMed:23775590). Expressed in
+CC       neutrophils (at protein level) (PubMed:21193407, PubMed:28807980).
+CC       {ECO:0000269|PubMed:21193407, ECO:0000269|PubMed:23775590,
+CC       ECO:0000269|PubMed:28807980}.
+CC   -!- PTM: Both Ser-745 and Ser-756 become phosphorylated when T-cells are
+CC       exposed to phorbol esters (PubMed:11700305). Phosphorylation on Thr-758
+CC       (but not on Ser-756) allows interaction with 14-3-3 proteins
+CC       (PubMed:11700305, PubMed:16301335). {ECO:0000269|PubMed:11700305,
+CC       ECO:0000269|PubMed:16301335}.
+CC   -!- DISEASE: Leukocyte adhesion deficiency 1 (LAD1) [MIM:116920]: LAD1
+CC       patients have recurrent bacterial infections and their leukocytes are
+CC       deficient in a wide range of adhesion-dependent functions.
+CC       {ECO:0000269|PubMed:1346613, ECO:0000269|PubMed:1347532,
+CC       ECO:0000269|PubMed:1352501, ECO:0000269|PubMed:1590804,
+CC       ECO:0000269|PubMed:1694220, ECO:0000269|PubMed:1968911,
+CC       ECO:0000269|PubMed:20529581, ECO:0000269|PubMed:20549317,
+CC       ECO:0000269|PubMed:7509236, ECO:0000269|PubMed:7686755,
+CC       ECO:0000269|PubMed:9884339}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the integrin beta chain family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAD96225.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=ITGB2base; Note=ITGB2 mutation db;
+CC       URL="http://structure.bmc.lu.se/idbase/ITGB2base/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M15395; AAA59490.1; -; mRNA.
+DR   EMBL; X64072; CAA45427.1; -; Genomic_DNA.
+DR   EMBL; X64073; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64074; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64075; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64076; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64077; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64078; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64079; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64080; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64081; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64082; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X64083; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X63924; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X63925; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; X63926; CAA45427.1; JOINED; Genomic_DNA.
+DR   EMBL; AK095992; BAG53190.1; -; mRNA.
+DR   EMBL; AK222505; BAD96225.1; ALT_INIT; mRNA.
+DR   EMBL; AL163300; CAB90553.1; -; Genomic_DNA.
+DR   EMBL; CH471079; EAX09381.1; -; Genomic_DNA.
+DR   EMBL; CH471079; EAX09382.1; -; Genomic_DNA.
+DR   EMBL; CH471079; EAX09385.1; -; Genomic_DNA.
+DR   EMBL; BC005861; AAH05861.1; -; mRNA.
+DR   EMBL; Y00057; CAA68266.1; -; mRNA.
+DR   EMBL; S81234; AAB21404.1; -; mRNA.
+DR   CCDS; CCDS13716.1; -.
+DR   PIR; A25967; IJHULM.
+DR   RefSeq; NP_000202.3; NM_000211.4.
+DR   RefSeq; NP_001120963.2; NM_001127491.2.
+DR   RefSeq; NP_001290167.1; NM_001303238.1.
+DR   PDB; 1L3Y; NMR; -; A=535-574.
+DR   PDB; 1YUK; X-ray; 1.80 A; A=23-125, B=365-482.
+DR   PDB; 2JF1; X-ray; 2.20 A; T=735-769.
+DR   PDB; 2P26; X-ray; 1.75 A; A=23-535.
+DR   PDB; 2P28; X-ray; 2.20 A; A=23-122, B=362-574.
+DR   PDB; 2V7D; X-ray; 2.50 A; P/Q/R/S=755-764.
+DR   PDB; 3K6S; X-ray; 3.50 A; B/D/F/H=23-699.
+DR   PDB; 3K71; X-ray; 3.95 A; B/D/F/H=23-699.
+DR   PDB; 3K72; X-ray; 3.70 A; B/D=23-699.
+DR   PDB; 4NEH; X-ray; 2.75 A; B=23-695.
+DR   PDB; 4NEN; X-ray; 2.90 A; B=23-696.
+DR   PDB; 5E6R; X-ray; 2.90 A; B=23-482.
+DR   PDB; 5E6S; X-ray; 2.15 A; B/D/F=23-482.
+DR   PDB; 5E6U; X-ray; 2.50 A; B=23-482.
+DR   PDB; 5E6V; X-ray; 1.80 A; A=24-482.
+DR   PDB; 5E6W; X-ray; 2.20 A; A=23-118, A=362-574.
+DR   PDB; 5E6X; X-ray; 1.75 A; A=23-535.
+DR   PDB; 5ES4; X-ray; 3.30 A; B/D/F/H=23-696.
+DR   PDB; 5XR1; NMR; -; A=752-763.
+DR   PDB; 5ZAZ; NMR; -; A=689-739.
+DR   PDB; 7P2D; X-ray; 3.20 A; B=23-482.
+DR   PDBsum; 1L3Y; -.
+DR   PDBsum; 1YUK; -.
+DR   PDBsum; 2JF1; -.
+DR   PDBsum; 2P26; -.
+DR   PDBsum; 2P28; -.
+DR   PDBsum; 2V7D; -.
+DR   PDBsum; 3K6S; -.
+DR   PDBsum; 3K71; -.
+DR   PDBsum; 3K72; -.
+DR   PDBsum; 4NEH; -.
+DR   PDBsum; 4NEN; -.
+DR   PDBsum; 5E6R; -.
+DR   PDBsum; 5E6S; -.
+DR   PDBsum; 5E6U; -.
+DR   PDBsum; 5E6V; -.
+DR   PDBsum; 5E6W; -.
+DR   PDBsum; 5E6X; -.
+DR   PDBsum; 5ES4; -.
+DR   PDBsum; 5XR1; -.
+DR   PDBsum; 5ZAZ; -.
+DR   PDBsum; 7P2D; -.
+DR   AlphaFoldDB; P05107; -.
+DR   BMRB; P05107; -.
+DR   SMR; P05107; -.
+DR   BioGRID; 109895; 61.
+DR   ComplexPortal; CPX-1825; Integrin alphaL-beta2 complex.
+DR   ComplexPortal; CPX-1826; Integrin alphaM-beta2 complex.
+DR   ComplexPortal; CPX-1827; Integrin alphaX-beta2 complex.
+DR   ComplexPortal; CPX-1828; Integrin alphaD-beta2 complex.
+DR   CORUM; P05107; -.
+DR   DIP; DIP-478N; -.
+DR   ELM; P05107; -.
+DR   IntAct; P05107; 36.
+DR   MINT; P05107; -.
+DR   STRING; 9606.ENSP00000380948; -.
+DR   BindingDB; P05107; -.
+DR   ChEMBL; CHEMBL3631; -.
+DR   DrugCentral; P05107; -.
+DR   GuidetoPHARMACOLOGY; 2456; -.
+DR   GlyConnect; 1415; 7 N-Linked glycans (3 sites).
+DR   GlyCosmos; P05107; 6 sites, 7 glycans.
+DR   GlyGen; P05107; 12 sites, 7 N-linked glycans (3 sites), 1 O-linked glycan (1 site).
+DR   iPTMnet; P05107; -.
+DR   PhosphoSitePlus; P05107; -.
+DR   BioMuta; ITGB2; -.
+DR   DMDM; 124056465; -.
+DR   EPD; P05107; -.
+DR   jPOST; P05107; -.
+DR   MassIVE; P05107; -.
+DR   MaxQB; P05107; -.
+DR   PaxDb; P05107; -.
+DR   PeptideAtlas; P05107; -.
+DR   PRIDE; P05107; -.
+DR   ProteomicsDB; 51793; -.
+DR   ABCD; P05107; 55 sequenced antibodies.
+DR   Antibodypedia; 1501; 2173 antibodies from 50 providers.
+DR   DNASU; 3689; -.
+DR   Ensembl; ENST00000302347.10; ENSP00000303242.6; ENSG00000160255.19.
+DR   Ensembl; ENST00000355153.8; ENSP00000347279.4; ENSG00000160255.19.
+DR   Ensembl; ENST00000397850.6; ENSP00000380948.2; ENSG00000160255.19.
+DR   Ensembl; ENST00000397852.5; ENSP00000380950.1; ENSG00000160255.19.
+DR   Ensembl; ENST00000397857.5; ENSP00000380955.1; ENSG00000160255.19.
+DR   GeneID; 3689; -.
+DR   KEGG; hsa:3689; -.
+DR   UCSC; uc002zgd.4; human.
+DR   AGR; HGNC:6155; -.
+DR   CTD; 3689; -.
+DR   DisGeNET; 3689; -.
+DR   GeneCards; ITGB2; -.
+DR   HGNC; HGNC:6155; ITGB2.
+DR   HPA; ENSG00000160255; Tissue enhanced (bone marrow, lymphoid tissue).
+DR   MalaCards; ITGB2; -.
+DR   MIM; 116920; phenotype.
+DR   MIM; 600065; gene.
+DR   neXtProt; NX_P05107; -.
+DR   Orphanet; 99842; Leukocyte adhesion deficiency type I.
+DR   PharmGKB; PA29955; -.
+DR   VEuPathDB; HostDB:ENSG00000160255; -.
+DR   eggNOG; KOG1226; Eukaryota.
+DR   HOGENOM; CLU_011772_2_1_1; -.
+DR   InParanoid; P05107; -.
+DR   OrthoDB; 5475862at2759; -.
+DR   PhylomeDB; P05107; -.
+DR   TreeFam; TF105392; -.
+DR   PathwayCommons; P05107; -.
+DR   Reactome; R-HSA-166016; Toll Like Receptor 4 (TLR4) Cascade.
+DR   Reactome; R-HSA-198933; Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell.
+DR   Reactome; R-HSA-202733; Cell surface interactions at the vascular wall.
+DR   Reactome; R-HSA-216083; Integrin cell surface interactions.
+DR   Reactome; R-HSA-6785807; Interleukin-4 and Interleukin-13 signaling.
+DR   Reactome; R-HSA-6798695; Neutrophil degranulation.
+DR   SignaLink; P05107; -.
+DR   SIGNOR; P05107; -.
+DR   BioGRID-ORCS; 3689; 16 hits in 1146 CRISPR screens.
+DR   ChiTaRS; ITGB2; human.
+DR   EvolutionaryTrace; P05107; -.
+DR   GeneWiki; CD18; -.
+DR   GenomeRNAi; 3689; -.
+DR   Pharos; P05107; Tclin.
+DR   PRO; PR:P05107; -.
+DR   Proteomes; UP000005640; Chromosome 21.
+DR   RNAct; P05107; protein.
+DR   Bgee; ENSG00000160255; Expressed in granulocyte and 163 other tissues.
+DR   ExpressionAtlas; P05107; baseline and differential.
+DR   Genevisible; P05107; HS.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0009897; C:external side of plasma membrane; NAS:ARUK-UCL.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:1903561; C:extracellular vesicle; HDA:UniProtKB.
+DR   GO; GO:0101003; C:ficolin-1-rich granule membrane; TAS:Reactome.
+DR   GO; GO:0005925; C:focal adhesion; IBA:GO_Central.
+DR   GO; GO:0034687; C:integrin alphaL-beta2 complex; IDA:UniProtKB.
+DR   GO; GO:0034688; C:integrin alphaM-beta2 complex; ISS:ARUK-UCL.
+DR   GO; GO:0034689; C:integrin alphaX-beta2 complex; TAS:ARUK-UCL.
+DR   GO; GO:0008305; C:integrin complex; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0044853; C:plasma membrane raft; IDA:UniProtKB.
+DR   GO; GO:0043235; C:receptor complex; IDA:MGI.
+DR   GO; GO:0035579; C:specific granule membrane; TAS:Reactome.
+DR   GO; GO:0070821; C:tertiary granule membrane; TAS:Reactome.
+DR   GO; GO:0001540; F:amyloid-beta binding; ISS:ARUK-UCL.
+DR   GO; GO:0050839; F:cell adhesion molecule binding; IMP:UniProtKB.
+DR   GO; GO:0001851; F:complement component C3b binding; ISS:ARUK-UCL.
+DR   GO; GO:0031072; F:heat shock protein binding; IPI:CAFA.
+DR   GO; GO:0030369; F:ICAM-3 receptor activity; IMP:UniProtKB.
+DR   GO; GO:0005178; F:integrin binding; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0019901; F:protein kinase binding; IPI:UniProtKB.
+DR   GO; GO:0097242; P:amyloid-beta clearance; ISS:ARUK-UCL.
+DR   GO; GO:0006915; P:apoptotic process; NAS:UniProtKB.
+DR   GO; GO:0007155; P:cell adhesion; IDA:UniProtKB.
+DR   GO; GO:0098609; P:cell-cell adhesion; ISS:BHF-UCL.
+DR   GO; GO:0098742; P:cell-cell adhesion via plasma-membrane adhesion molecules; NAS:ARUK-UCL.
+DR   GO; GO:0007267; P:cell-cell signaling; NAS:UniProtKB.
+DR   GO; GO:0007160; P:cell-matrix adhesion; IMP:UniProtKB.
+DR   GO; GO:0071404; P:cellular response to low-density lipoprotein particle stimulus; ISS:UniProtKB.
+DR   GO; GO:0035987; P:endodermal cell differentiation; IEP:UniProtKB.
+DR   GO; GO:0034113; P:heterotypic cell-cell adhesion; IMP:UniProtKB.
+DR   GO; GO:0006954; P:inflammatory response; NAS:UniProtKB.
+DR   GO; GO:0007229; P:integrin-mediated signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0007159; P:leukocyte cell-cell adhesion; IDA:UniProtKB.
+DR   GO; GO:0001774; P:microglial cell activation; NAS:ARUK-UCL.
+DR   GO; GO:0045963; P:negative regulation of dopamine metabolic process; NAS:ARUK-UCL.
+DR   GO; GO:0030593; P:neutrophil chemotaxis; IDA:UniProtKB.
+DR   GO; GO:1990266; P:neutrophil migration; IMP:UniProtKB.
+DR   GO; GO:0006911; P:phagocytosis, engulfment; ISS:ARUK-UCL.
+DR   GO; GO:1904996; P:positive regulation of leukocyte adhesion to vascular endothelial cell; ISS:UniProtKB.
+DR   GO; GO:1901216; P:positive regulation of neuron death; NAS:ARUK-UCL.
+DR   GO; GO:0043315; P:positive regulation of neutrophil degranulation; IGI:UniProtKB.
+DR   GO; GO:2000363; P:positive regulation of prostaglandin-E synthase activity; NAS:ARUK-UCL.
+DR   GO; GO:0090314; P:positive regulation of protein targeting to membrane; NAS:ARUK-UCL.
+DR   GO; GO:0032930; P:positive regulation of superoxide anion generation; IGI:UniProtKB.
+DR   GO; GO:0043113; P:receptor clustering; IMP:UniProtKB.
+DR   GO; GO:0031623; P:receptor internalization; ISS:UniProtKB.
+DR   GO; GO:0006898; P:receptor-mediated endocytosis; ISS:ARUK-UCL.
+DR   GO; GO:0008360; P:regulation of cell shape; NAS:UniProtKB.
+DR   GO; GO:0050730; P:regulation of peptidyl-tyrosine phosphorylation; IDA:UniProtKB.
+DR   DisProt; DP01848; -.
+DR   Gene3D; 6.20.50.10; -; 1.
+DR   Gene3D; 1.20.5.100; Cytochrome c1, transmembrane anchor, C-terminal; 1.
+DR   Gene3D; 2.10.25.10; Laminin; 4.
+DR   Gene3D; 3.30.1680.10; ligand-binding face of the semaphorins, domain 2; 1.
+DR   Gene3D; 2.60.40.1510; ntegrin, alpha v. Chain A, domain 3; 1.
+DR   Gene3D; 3.40.50.410; von Willebrand factor, type A domain; 1.
+DR   InterPro; IPR015439; Integrin_b-2_sf.
+DR   InterPro; IPR033760; Integrin_beta_N.
+DR   InterPro; IPR015812; Integrin_bsu.
+DR   InterPro; IPR014836; Integrin_bsu_cyt_dom.
+DR   InterPro; IPR012896; Integrin_bsu_tail.
+DR   InterPro; IPR036349; Integrin_bsu_tail_dom_sf.
+DR   InterPro; IPR002369; Integrin_bsu_VWA.
+DR   InterPro; IPR032695; Integrin_dom_sf.
+DR   InterPro; IPR016201; PSI.
+DR   InterPro; IPR036465; vWFA_dom_sf.
+DR   PANTHER; PTHR10082; INTEGRIN BETA SUBUNIT; 1.
+DR   PANTHER; PTHR10082:SF15; INTEGRIN BETA-2; 1.
+DR   Pfam; PF08725; Integrin_b_cyt; 1.
+DR   Pfam; PF07965; Integrin_B_tail; 1.
+DR   Pfam; PF00362; Integrin_beta; 1.
+DR   Pfam; PF17205; PSI_integrin; 1.
+DR   PIRSF; PIRSF002512; Integrin_B; 1.
+DR   PRINTS; PR01186; INTEGRINB.
+DR   SMART; SM00187; INB; 1.
+DR   SMART; SM01241; Integrin_b_cyt; 1.
+DR   SMART; SM01242; Integrin_B_tail; 1.
+DR   SMART; SM00423; PSI; 1.
+DR   SUPFAM; SSF57196; EGF/Laminin; 2.
+DR   SUPFAM; SSF69687; Integrin beta tail domain; 1.
+DR   SUPFAM; SSF69179; Integrin domains; 1.
+DR   SUPFAM; SSF103575; Plexin repeat; 1.
+DR   SUPFAM; SSF53300; vWA-like; 1.
+DR   PROSITE; PS00022; EGF_1; 2.
+DR   PROSITE; PS01186; EGF_2; 3.
+DR   PROSITE; PS00243; INTEGRIN_BETA; 3.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell adhesion; Cell membrane; Direct protein sequencing;
+KW   Disease variant; Disulfide bond; Glycoprotein; Integrin; Membrane;
+KW   Metal-binding; Phagocytosis; Phosphoprotein; Pyrrolidone carboxylic acid;
+KW   Receptor; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..22
+FT   CHAIN           23..769
+FT                   /note="Integrin beta-2"
+FT                   /id="PRO_0000016341"
+FT   TOPO_DOM        23..700
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        701..723
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        724..769
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          124..363
+FT                   /note="VWFA"
+FT   REPEAT          449..496
+FT                   /note="I"
+FT   REPEAT          497..540
+FT                   /note="II"
+FT   REPEAT          541..581
+FT                   /note="III"
+FT   REPEAT          582..617
+FT                   /note="IV"
+FT   REGION          449..617
+FT                   /note="Cysteine-rich tandem repeats"
+FT   MOTIF           397..399
+FT                   /note="Cell attachment site"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         138
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT   BINDING         141
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT   BINDING         142
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT   BINDING         347
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT   MOD_RES         23
+FT                   /note="Pyrrolidone carboxylic acid"
+FT                   /evidence="ECO:0000305|PubMed:2954816"
+FT   MOD_RES         745
+FT                   /note="Phosphoserine; by PKC"
+FT                   /evidence="ECO:0000269|PubMed:11700305"
+FT   MOD_RES         756
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:11700305"
+FT   MOD_RES         758
+FT                   /note="Phosphothreonine; by PKC; in vitro"
+FT                   /evidence="ECO:0000269|PubMed:11700305,
+FT                   ECO:0000269|PubMed:16301335"
+FT   MOD_RES         759
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         760
+FT                   /note="Phosphothreonine; by PKC/PRKCA; in vitro"
+FT                   /evidence="ECO:0000269|PubMed:11700305"
+FT   CARBOHYD        50
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218,
+FT                   ECO:0000269|PubMed:19349973"
+FT   CARBOHYD        116
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19349973,
+FT                   ECO:0000269|PubMed:20033057"
+FT   CARBOHYD        212
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16335952,
+FT                   ECO:0000269|PubMed:19159218, ECO:0000269|PubMed:19349973"
+FT   CARBOHYD        254
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        501
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        642
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        25..43
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        33..447
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        36..62
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        46..73
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        191..198
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        246..286
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        386..400
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        420..445
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        449..467
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        459..470
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        472..481
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        483..514
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        497..512
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        506..517
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        519..534
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        536..559
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        541..557
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        549..562
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        564..573
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        575..598
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        582..596
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        590..601
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        603..612
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        615..618
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        622..662
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        628..647
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        631..643
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   DISULFID        670..695
+FT                   /evidence="ECO:0000269|PubMed:20033057"
+FT   VARIANT         128
+FT                   /note="D -> N (in LAD1; dbSNP:rs137852615)"
+FT                   /evidence="ECO:0000269|PubMed:1590804"
+FT                   /id="VAR_003984"
+FT   VARIANT         128
+FT                   /note="D -> Y (in LAD1; dbSNP:rs137852615)"
+FT                   /evidence="ECO:0000269|PubMed:20549317"
+FT                   /id="VAR_065661"
+FT   VARIANT         138
+FT                   /note="S -> P (in LAD1; dbSNP:rs137852617)"
+FT                   /evidence="ECO:0000269|PubMed:9884339"
+FT                   /id="VAR_013402"
+FT   VARIANT         149
+FT                   /note="L -> P (in LAD1; dbSNP:rs137852611)"
+FT                   /evidence="ECO:0000269|PubMed:1694220"
+FT                   /id="VAR_003985"
+FT   VARIANT         169
+FT                   /note="G -> R (in LAD1; dbSNP:rs137852612)"
+FT                   /evidence="ECO:0000269|PubMed:1352501,
+FT                   ECO:0000269|PubMed:1694220"
+FT                   /id="VAR_003986"
+FT   VARIANT         178
+FT                   /note="P -> L (in LAD1; dbSNP:rs137852614)"
+FT                   /evidence="ECO:0000269|PubMed:1347532,
+FT                   ECO:0000269|PubMed:7509236"
+FT                   /id="VAR_003987"
+FT   VARIANT         196
+FT                   /note="K -> T (in LAD1; dbSNP:rs137852610)"
+FT                   /evidence="ECO:0000269|PubMed:1968911"
+FT                   /id="VAR_003988"
+FT   VARIANT         239
+FT                   /note="A -> T (in LAD1; dbSNP:rs179363873)"
+FT                   /evidence="ECO:0000269|PubMed:20549317"
+FT                   /id="VAR_065662"
+FT   VARIANT         273
+FT                   /note="G -> R (in LAD1; dbSNP:rs137852618)"
+FT                   /evidence="ECO:0000269|PubMed:9884339"
+FT                   /id="VAR_013403"
+FT   VARIANT         284
+FT                   /note="G -> S (in LAD1; dbSNP:rs137852616)"
+FT                   /evidence="ECO:0000269|PubMed:7686755"
+FT                   /id="VAR_003989"
+FT   VARIANT         300
+FT                   /note="D -> V (in LAD1; dbSNP:rs179363874)"
+FT                   /evidence="ECO:0000269|PubMed:20529581"
+FT                   /id="VAR_065663"
+FT   VARIANT         351
+FT                   /note="N -> S (in LAD1; dbSNP:rs137852613)"
+FT                   /evidence="ECO:0000269|PubMed:1346613"
+FT                   /id="VAR_003990"
+FT   VARIANT         354
+FT                   /note="Q -> H (in dbSNP:rs235330)"
+FT                   /evidence="ECO:0000269|PubMed:1346613,
+FT                   ECO:0000269|PubMed:14702039, ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:1683838, ECO:0000269|PubMed:2954816,
+FT                   ECO:0000269|PubMed:3028646, ECO:0000269|Ref.4,
+FT                   ECO:0000269|Ref.6"
+FT                   /id="VAR_030035"
+FT   VARIANT         586
+FT                   /note="R -> W (in LAD1; dbSNP:rs5030672)"
+FT                   /evidence="ECO:0000269|PubMed:1346613"
+FT                   /id="VAR_003991"
+FT   VARIANT         593
+FT                   /note="R -> C (in LAD1; dbSNP:rs137852609)"
+FT                   /evidence="ECO:0000269|PubMed:1968911"
+FT                   /id="VAR_003992"
+FT   VARIANT         716
+FT                   /note="G -> A (in LAD1; dbSNP:rs179363872)"
+FT                   /evidence="ECO:0000269|PubMed:20549317"
+FT                   /id="VAR_065664"
+FT   MUTAGEN         758
+FT                   /note="T->A: Abolishes phosphorylation. Reduces COS cell
+FT                   adhesion to ICAM1."
+FT                   /evidence="ECO:0000269|PubMed:16301335"
+FT   CONFLICT        199
+FT                   /note="Q -> P (in Ref. 8; CAA68266)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        279
+FT                   /note="L -> P (in Ref. 4; BAD96225)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        526
+FT                   /note="G -> C (in Ref. 3; BAG53190)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        630
+FT                   /note="E -> K (in Ref. 3; BAG53190)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           33..37
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          44..46
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   HELIX           49..51
+FT                   /evidence="ECO:0007829|PDB:2P28"
+FT   STRAND          54..56
+FT                   /evidence="ECO:0007829|PDB:5E6R"
+FT   HELIX           58..61
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   HELIX           65..70
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   HELIX           75..77
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          84..88
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          91..94
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          96..99
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          101..107
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          113..119
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          121..123
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          127..134
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           137..139
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           140..146
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           150..160
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          161..163
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          165..171
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   TURN            177..179
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           184..188
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          196..198
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   STRAND          203..212
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           214..222
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          230..234
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           236..245
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           247..250
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          254..265
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           272..276
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          289..292
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   HELIX           294..297
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           304..313
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          316..322
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           324..326
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           327..331
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           333..336
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          337..339
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          341..344
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   HELIX           352..364
+FT                   /evidence="ECO:0007829|PDB:5E6S"
+FT   STRAND          365..371
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          378..385
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          387..389
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          391..402
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          409..419
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          424..430
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          437..443
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          452..454
+FT                   /evidence="ECO:0007829|PDB:3K6S"
+FT   HELIX           458..461
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          462..466
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          469..472
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          476..478
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          483..487
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   HELIX           490..495
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          498..500
+FT                   /evidence="ECO:0007829|PDB:2P28"
+FT   HELIX           505..508
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          509..513
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          516..519
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          528..531
+FT                   /evidence="ECO:0007829|PDB:2P26"
+FT   STRAND          536..539
+FT                   /evidence="ECO:0007829|PDB:2P28"
+FT   STRAND          544..550
+FT                   /evidence="ECO:0007829|PDB:1L3Y"
+FT   TURN            552..554
+FT                   /evidence="ECO:0007829|PDB:2P28"
+FT   STRAND          555..558
+FT                   /evidence="ECO:0007829|PDB:2P28"
+FT   STRAND          561..564
+FT                   /evidence="ECO:0007829|PDB:2P28"
+FT   STRAND          568..570
+FT                   /evidence="ECO:0007829|PDB:2P28"
+FT   STRAND          575..577
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   TURN            580..582
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   TURN            590..592
+FT                   /evidence="ECO:0007829|PDB:5ES4"
+FT   STRAND          593..597
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   STRAND          600..603
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   TURN            609..611
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   STRAND          616..618
+FT                   /evidence="ECO:0007829|PDB:4NEN"
+FT   HELIX           622..624
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   HELIX           626..634
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   HELIX           637..639
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   TURN            640..642
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   HELIX           643..646
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   STRAND          650..655
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   STRAND          658..665
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   STRAND          667..669
+FT                   /evidence="ECO:0007829|PDB:5ES4"
+FT   STRAND          671..679
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   TURN            680..683
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   STRAND          684..689
+FT                   /evidence="ECO:0007829|PDB:4NEH"
+FT   HELIX           702..734
+FT                   /evidence="ECO:0007829|PDB:5ZAZ"
+FT   STRAND          754..762
+FT                   /evidence="ECO:0007829|PDB:2JF1"
+SQ   SEQUENCE   769 AA;  84782 MW;  EB9F3C3DF338B4E1 CRC64;
+     MLGLRPPLLA LVGLLSLGCV LSQECTKFKV SSCRECIESG PGCTWCQKLN FTGPGDPDSI
+     RCDTRPQLLM RGCAADDIMD PTSLAETQED HNGGQKQLSP QKVTLYLRPG QAAAFNVTFR
+     RAKGYPIDLY YLMDLSYSML DDLRNVKKLG GDLLRALNEI TESGRIGFGS FVDKTVLPFV
+     NTHPDKLRNP CPNKEKECQP PFAFRHVLKL TNNSNQFQTE VGKQLISGNL DAPEGGLDAM
+     MQVAACPEEI GWRNVTRLLV FATDDGFHFA GDGKLGAILT PNDGRCHLED NLYKRSNEFD
+     YPSVGQLAHK LAENNIQPIF AVTSRMVKTY EKLTEIIPKS AVGELSEDSS NVVQLIKNAY
+     NKLSSRVFLD HNALPDTLKV TYDSFCSNGV THRNQPRGDC DGVQINVPIT FQVKVTATEC
+     IQEQSFVIRA LGFTDIVTVQ VLPQCECRCR DQSRDRSLCH GKGFLECGIC RCDTGYIGKN
+     CECQTQGRSS QELEGSCRKD NNSIICSGLG DCVCGQCLCH TSDVPGKLIY GQYCECDTIN
+     CERYNGQVCG GPGRGLCFCG KCRCHPGFEG SACQCERTTE GCLNPRRVEC SGRGRCRCNV
+     CECHSGYQLP LCQECPGCPS PCGKYISCAE CLKFEKGPFG KNCSAACPGL QLSNNPVKGR
+     TCKERDSEGC WVAYTLEQQD GMDRYLIYVD ESRECVAGPN IAAIVGGTVA GIVLIGILLL
+     VIWKALIHLS DLREYRRFEK EKLKSQWNND NPLFKSATTT VMNPKFAES
+//

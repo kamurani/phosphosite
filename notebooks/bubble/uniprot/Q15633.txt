@@ -1,0 +1,567 @@
+ID   TRBP2_HUMAN             Reviewed;         366 AA.
+AC   Q15633; Q12878; Q8WY32; Q8WY33; Q9BRY2;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   14-OCT-2008, sequence version 3.
+DT   28-JUN-2023, entry version 205.
+DE   RecName: Full=RISC-loading complex subunit TARBP2 {ECO:0000255|HAMAP-Rule:MF_03034};
+DE   AltName: Full=TAR RNA-binding protein 2;
+DE   AltName: Full=Trans-activation-responsive RNA-binding protein;
+GN   Name=TARBP2 {ECO:0000255|HAMAP-Rule:MF_03034}; Synonyms=TRBP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), FUNCTION (MICROBIAL
+RP   INFECTION), AND VARIANT PHE-251.
+RX   PubMed=2011739; DOI=10.1126/science.2011739;
+RA   Gatignol A., Buckler-White A.J., Berkhout B., Jeang K.T.;
+RT   "Characterization of a human TAR RNA-binding protein that activates the
+RT   HIV-1 LTR.";
+RL   Science 251:1597-1600(1991).
+RN   [2]
+RP   SEQUENCE REVISION.
+RA   Gatignol A., Duarte M.;
+RL   Submitted (APR-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT PHE-251.
+RX   PubMed=7774957; DOI=10.1016/0888-7543(95)80110-8;
+RA   Kozak C.A., Gatignol A., Graham K., Jeang K.T., McBride O.W.;
+RT   "Genetic mapping in human and mouse of the locus encoding TRBP, a protein
+RT   that binds the TAR region of the human immunodeficiency virus (HIV-1).";
+RL   Genomics 25:66-72(1995).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-74, AND ALTERNATIVE PROMOTER USAGE.
+RX   PubMed=11641396; DOI=10.1074/jbc.m104645200;
+RA   Bannwarth S., Talakoub L., Letourneur F., Duarte M., Purcell D.F.,
+RA   Hiscott J., Gatignol A.;
+RT   "Organization of the human tarbp2 gene reveals two promoters that are
+RT   repressed in an astrocytic cell line.";
+RL   J. Biol. Chem. 276:48803-48813(2001).
+RN   [8]
+RP   CHARACTERIZATION OF RNA-BINDING.
+RX   PubMed=8455607; DOI=10.1128/mcb.13.4.2193-2202.1993;
+RA   Gatignol A., Buckler C., Jeang K.T.;
+RT   "Relatedness of an RNA-binding motif in human immunodeficiency virus type 1
+RT   TAR RNA-binding protein TRBP to human P1/dsI kinase and Drosophila
+RT   staufen.";
+RL   Mol. Cell. Biol. 13:2193-2202(1993).
+RN   [9]
+RP   FUNCTION (MICROBIAL INFECTION), SELF-ASSOCIATION, AND INTERACTION WITH
+RP   EIF2AK2.
+RX   PubMed=11438532; DOI=10.1074/jbc.m103584200;
+RA   Daher A., Longuet M., Dorin D., Bois F., Segeral E., Bannwarth S.,
+RA   Battisti P.-L., Purcell D.F., Benarous R., Vaquero C., Meurs E.F.,
+RA   Gatignol A.;
+RT   "Two dimerization domains in the trans-activation response RNA-binding
+RT   protein (TRBP) individually reverse the protein kinase R inhibition of HIV-
+RT   1 long terminal repeat expression.";
+RL   J. Biol. Chem. 276:33899-33905(2001).
+RN   [10]
+RP   FUNCTION (MICROBIAL INFECTION).
+RX   PubMed=12475984; DOI=10.1074/jbc.m208954200;
+RA   Dorin D., Bonnet M.C., Bannwarth S., Gatignol A., Meurs E.F., Vaquero C.;
+RT   "The TAR RNA-binding protein, TRBP, stimulates the expression of TAR-
+RT   containing RNAs in vitro and in vivo independently of its ability to
+RT   inhibit the dsRNA-dependent kinase PKR.";
+RL   J. Biol. Chem. 278:4440-4448(2003).
+RN   [11]
+RP   FUNCTION, AND INTERACTION WITH DICER1 AND AGO2.
+RX   PubMed=16271387; DOI=10.1016/j.cell.2005.10.022;
+RA   Gregory R.I., Chendrimada T.P., Cooch N., Shiekhattar R.;
+RT   "Human RISC couples microRNA biogenesis and posttranscriptional gene
+RT   silencing.";
+RL   Cell 123:631-640(2005).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, FUNCTION, SELF-ASSOCIATION, AND
+RP   INTERACTION WITH DICER1.
+RX   PubMed=16142218; DOI=10.1038/sj.embor.7400509;
+RA   Haase A.D., Jaskiewicz L., Zhang H., Laine S., Sack R., Gatignol A.,
+RA   Filipowicz W.;
+RT   "TRBP, a regulator of cellular PKR and HIV-1 virus expression, interacts
+RT   with Dicer and functions in RNA silencing.";
+RL   EMBO Rep. 6:961-967(2005).
+RN   [13]
+RP   FUNCTION, AND INTERACTION WITH DICER1 AND AGO2.
+RX   PubMed=16357216; DOI=10.1101/gad.1384005;
+RA   Maniataki E., Mourelatos Z.;
+RT   "A human, ATP-independent, RISC assembly machine fueled by pre-miRNA.";
+RL   Genes Dev. 19:2979-2990(2005).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, FUNCTION, INTERACTION WITH DICER1 AND
+RP   AGO2, AND RNA-BINDING.
+RX   PubMed=15973356; DOI=10.1038/nature03868;
+RA   Chendrimada T.P., Gregory R.I., Kumaraswamy E., Norman J., Cooch N.,
+RA   Nishikura K., Shiekhattar R.;
+RT   "TRBP recruits the Dicer complex to Ago2 for microRNA processing and gene
+RT   silencing.";
+RL   Nature 436:740-744(2005).
+RN   [15]
+RP   FUNCTION, INTERACTION WITH DICER1; AGO2 AND PRKRA, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=16424907; DOI=10.1038/sj.emboj.7600942;
+RA   Lee Y., Hur I., Park S.-Y., Kim Y.-K., Suh M.R., Kim V.N.;
+RT   "The role of PACT in the RNA silencing pathway.";
+RL   EMBO J. 25:522-532(2006).
+RN   [16]
+RP   FUNCTION, SELF-ASSOCIATION, INTERACTION WITH DICER1 AND PRKRA, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=17452327; DOI=10.1074/jbc.m611768200;
+RA   Kok K.H., Ng M.-H., Ching Y.-P., Jin D.-Y.;
+RT   "Human TRBP and PACT directly interact with each other and associate with
+RT   dicer to facilitate the production of small interfering RNA.";
+RL   J. Biol. Chem. 282:17649-17657(2007).
+RN   [17]
+RP   INTERACTION WITH DHX9.
+RX   PubMed=17531811; DOI=10.1016/j.molcel.2007.04.016;
+RA   Robb G.B., Rana T.M.;
+RT   "RNA helicase A interacts with RISC in human cells and functions in RISC
+RT   loading.";
+RL   Mol. Cell 26:523-537(2007).
+RN   [18]
+RP   INTERACTION WITH DICER1; AGO2; EIF6; RPL7A AND MOV10, AND ASSOCIATION WITH
+RP   THE 60S RIBOSOME.
+RX   PubMed=17507929; DOI=10.1038/nature05841;
+RA   Chendrimada T.P., Finn K.J., Ji X., Baillat D., Gregory R.I.,
+RA   Liebhaber S.A., Pasquinelli A.E., Shiekhattar R.;
+RT   "MicroRNA silencing through RISC recruitment of eIF6.";
+RL   Nature 447:823-828(2007).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [20]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, FUNCTION, AND INTERACTION WITH DICER1
+RP   AND AGO2.
+RX   PubMed=18178619; DOI=10.1073/pnas.0710869105;
+RA   MacRae I.J., Ma E., Zhou M., Robinson C.V., Doudna J.A.;
+RT   "In vitro reconstitution of the human RISC-loading complex.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:512-517(2008).
+RN   [21]
+RP   SELF-ASSOCIATION, INTERACTION WITH EIF2AK2 AND PRKRA, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=18421256; DOI=10.4161/rna.5.2.6069;
+RA   Laraki G., Clerzius G., Daher A., Melendez-Pena C., Daniels S.,
+RA   Gatignol A.;
+RT   "Interactions between the double-stranded RNA-binding proteins TRBP and
+RT   PACT define the Medipal domain that mediates protein-protein
+RT   interactions.";
+RL   RNA Biol. 5:92-103(2008).
+RN   [22]
+RP   RETRACTED PAPER.
+RX   PubMed=19219043; DOI=10.1038/ng.317;
+RA   Melo S.A., Ropero S., Moutinho C., Aaltonen L.A., Yamamoto H., Calin G.A.,
+RA   Rossi S., Fernandez A.F., Carneiro F., Oliveira C., Ferreira B., Liu C.-G.,
+RA   Villanueva A., Capella G., Schwartz S. Jr., Shiekhattar R., Esteller M.;
+RT   "A TARBP2 mutation in human cancer impairs microRNA processing and DICER1
+RT   function.";
+RL   Nat. Genet. 41:365-370(2009).
+RN   [23]
+RP   RETRACTION NOTICE OF PUBMED:19219043 NOTICE FOR PUBMED:19219043.
+RX   PubMed=26813765; DOI=10.1038/ng0216-221;
+RA   Melo S.A., Ropero S., Moutinho C., Aaltonen L.A., Yamamoto H., Calin G.A.,
+RA   Rossi S., Fernandez A.F., Carneiro F., Oliveira C., Ferreira B., Liu C.-G.,
+RA   Villanueva A., Capella G., Schwartz S. Jr., Shiekhattar R., Esteller M.;
+RT   "Retraction: A TARBP2 mutation in human cancer impairs microRNA processing
+RT   and DICER1 function.";
+RL   Nat. Genet. 48:221-221(2016).
+RN   [24]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [25]
+RP   INTERACTION WITH EBOLAVIRUS VP30 (MICROBIAL INFECTION), AND INTERACTION
+RP   WITH EBOLAVIRUS VP35 (MICROBIAL INFECTION).
+RX   PubMed=21228243; DOI=10.1128/jvi.01160-10;
+RA   Fabozzi G., Nabel C.S., Dolan M.A., Sullivan N.J.;
+RT   "Ebolavirus proteins suppress the effects of small interfering RNA by
+RT   direct interaction with the mammalian RNA interference pathway.";
+RL   J. Virol. 85:2512-2523(2011).
+RN   [26]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-152, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [27]
+RP   FUNCTION (MICROBIAL INFECTION).
+RX   PubMed=30626973; DOI=10.1038/s41586-018-0841-4;
+RA   Ringeard M., Marchand V., Decroly E., Motorin Y., Bennasser Y.;
+RT   "FTSJ3 is an RNA 2'-O-methyltransferase recruited by HIV to avoid innate
+RT   immune sensing.";
+RL   Nature 565:500-504(2019).
+RN   [28]
+RP   STRUCTURE BY NMR OF 150-225.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the second DSRBD of TAR RNA-binding protein 2.";
+RL   Submitted (NOV-2005) to the PDB data bank.
+CC   -!- FUNCTION: Required for formation of the RNA induced silencing complex
+CC       (RISC). Component of the RISC loading complex (RLC), also known as the
+CC       micro-RNA (miRNA) loading complex (miRLC), which is composed of DICER1,
+CC       AGO2 and TARBP2. Within the RLC/miRLC, DICER1 and TARBP2 are required
+CC       to process precursor miRNAs (pre-miRNAs) to mature miRNAs and then load
+CC       them onto AGO2. AGO2 bound to the mature miRNA constitutes the minimal
+CC       RISC and may subsequently dissociate from DICER1 and TARBP2. May also
+CC       play a role in the production of short interfering RNAs (siRNAs) from
+CC       double-stranded RNA (dsRNA) by DICER1. {ECO:0000255|HAMAP-
+CC       Rule:MF_03034, ECO:0000269|PubMed:15973356,
+CC       ECO:0000269|PubMed:16142218, ECO:0000269|PubMed:16271387,
+CC       ECO:0000269|PubMed:16357216, ECO:0000269|PubMed:16424907,
+CC       ECO:0000269|PubMed:17452327, ECO:0000269|PubMed:18178619}.
+CC   -!- FUNCTION: (Microbial infection) Binds to the HIV-1 TAR RNA which is
+CC       located in the long terminal repeat (LTR) of HIV-1, and stimulates
+CC       translation of TAR-containing RNAs (PubMed:2011739, PubMed:11438532,
+CC       PubMed:12475984). This is achieved in part at least by binding to and
+CC       inhibiting EIF2AK2/PKR, thereby reducing phosphorylation and inhibition
+CC       of EIF2S1/eIF-2-alpha (PubMed:11438532). May also promote translation
+CC       of TAR-containing RNAs independently of EIF2AK2/PKR (PubMed:12475984).
+CC       Mediates recruitment of FTSJ3 methyltransferase to HIV-1 RNA, leading
+CC       to 2'-O-methylation of the viral genome, allowing HIV-1 to escape the
+CC       innate immune system (PubMed:30626973). {ECO:0000269|PubMed:11438532,
+CC       ECO:0000269|PubMed:12475984, ECO:0000269|PubMed:2011739,
+CC       ECO:0000269|PubMed:30626973}.
+CC   -!- SUBUNIT: Self-associates. Component of the RISC loading complex (RLC),
+CC       or micro-RNA (miRNA) loading complex (miRLC), which is composed of
+CC       DICER1, AGO2 and TARBP2. Note that the trimeric RLC/miRLC is also
+CC       referred to as RISC. Interacts with EIF2AK2/PKR and inhibits its
+CC       protein kinase activity. Interacts with DHX9 and PRKRA. Interacts with
+CC       DICER1, AGO2, MOV10, EIF6 and RPL7A (60S ribosome subunit); they form a
+CC       large RNA-induced silencing complex (RISC) (PubMed:17507929).
+CC       {ECO:0000255|HAMAP-Rule:MF_03034, ECO:0000269|PubMed:11438532,
+CC       ECO:0000269|PubMed:15973356, ECO:0000269|PubMed:16142218,
+CC       ECO:0000269|PubMed:16271387, ECO:0000269|PubMed:16357216,
+CC       ECO:0000269|PubMed:16424907, ECO:0000269|PubMed:17452327,
+CC       ECO:0000269|PubMed:17507929, ECO:0000269|PubMed:17531811,
+CC       ECO:0000269|PubMed:18178619, ECO:0000269|PubMed:18421256}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with FTSJ3; forms a complex
+CC       with FTSJ3 and HIV-1 TAR RNA. {ECO:0000269|PubMed:30626973}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with ebolavirus VP30; this
+CC       interaction, which occurs only in the presence of siRNA, prevents
+CC       TARBP2 binding to DICER1 and thus allows the virus to counteract host
+CC       RNA silencing. {ECO:0000269|PubMed:21228243}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with ebolavirus VP35; this
+CC       interaction prevents TARBP2 binding to DICER1 and thus allows the virus
+CC       to counteract host RNA silencing. {ECO:0000269|PubMed:21228243}.
+CC   -!- INTERACTION:
+CC       Q15633; P55265-1: ADAR; NbExp=2; IntAct=EBI-978581, EBI-6913056;
+CC       Q15633; P55265-5: ADAR; NbExp=3; IntAct=EBI-978581, EBI-6913210;
+CC       Q15633; P78563-4: ADARB1; NbExp=3; IntAct=EBI-978581, EBI-12002366;
+CC       Q15633; Q9UKV8: AGO2; NbExp=12; IntAct=EBI-978581, EBI-528269;
+CC       Q15633; Q9UPY3: DICER1; NbExp=25; IntAct=EBI-978581, EBI-395506;
+CC       Q15633; Q9UPY3-1: DICER1; NbExp=5; IntAct=EBI-978581, EBI-15569571;
+CC       Q15633; P19525: EIF2AK2; NbExp=2; IntAct=EBI-978581, EBI-640775;
+CC       Q15633; Q96T60: PNKP; NbExp=3; IntAct=EBI-978581, EBI-1045072;
+CC       Q15633; O75569: PRKRA; NbExp=13; IntAct=EBI-978581, EBI-713955;
+CC       Q15633; Q96SI9: STRBP; NbExp=3; IntAct=EBI-978581, EBI-740355;
+CC       Q15633; Q15633: TARBP2; NbExp=5; IntAct=EBI-978581, EBI-978581;
+CC       Q15633; Q15560: TCEA2; NbExp=3; IntAct=EBI-978581, EBI-710310;
+CC       Q15633; Q8N8B7: TCEANC; NbExp=3; IntAct=EBI-978581, EBI-954696;
+CC       Q15633; Q8N8B7-2: TCEANC; NbExp=3; IntAct=EBI-978581, EBI-11955057;
+CC       Q15633; Q9HA38: ZMAT3; NbExp=3; IntAct=EBI-978581, EBI-2548480;
+CC       Q15633; Q9H898-2: ZMAT4; NbExp=3; IntAct=EBI-978581, EBI-11529334;
+CC       Q15633; Q9UL40: ZNF346; NbExp=6; IntAct=EBI-978581, EBI-2462313;
+CC       Q15633; P0DTC9: N; Xeno; NbExp=5; IntAct=EBI-978581, EBI-25475856;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Cytoplasm, perinuclear region.
+CC       Nucleus.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative promoter usage; Named isoforms=2;
+CC       Name=1; Synonyms=TRBP2;
+CC         IsoId=Q15633-1; Sequence=Displayed;
+CC       Name=2; Synonyms=TRBP1;
+CC         IsoId=Q15633-2; Sequence=VSP_035584;
+CC   -!- SIMILARITY: Belongs to the TARBP2 family. {ECO:0000255|HAMAP-
+CC       Rule:MF_03034}.
+CC   -!- CAUTION: A paper describing truncating mutations of TARBP2 in tumor
+CC       cells and resultant effects on DICER1 stability and miRNA processing
+CC       has been retracted, due to concerns of image duplication in some of the
+CC       figures. {ECO:0000305|PubMed:19219043, ECO:0000305|PubMed:26813765}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M60801; AAA36765.1; -; mRNA.
+DR   EMBL; U08998; AAB50581.2; -; mRNA.
+DR   EMBL; BT007140; AAP35804.1; -; mRNA.
+DR   EMBL; CH471054; EAW96720.1; -; Genomic_DNA.
+DR   EMBL; BC005860; AAH05860.1; -; mRNA.
+DR   EMBL; AF281068; AAL55730.1; -; Genomic_DNA.
+DR   EMBL; AF281068; AAL55731.1; -; Genomic_DNA.
+DR   CCDS; CCDS41791.1; -. [Q15633-2]
+DR   CCDS; CCDS8861.1; -. [Q15633-1]
+DR   PIR; G01420; G01420.
+DR   RefSeq; NP_004169.3; NM_004178.4. [Q15633-2]
+DR   RefSeq; NP_599150.1; NM_134323.1. [Q15633-1]
+DR   RefSeq; NP_599151.2; NM_134324.2. [Q15633-2]
+DR   RefSeq; XP_005269171.1; XM_005269114.1.
+DR   RefSeq; XP_005269172.1; XM_005269115.2. [Q15633-2]
+DR   PDB; 2CPN; NMR; -; A=150-225.
+DR   PDB; 3ADL; X-ray; 2.20 A; A=161-231.
+DR   PDB; 3LLH; X-ray; 2.14 A; A/B=22-105.
+DR   PDB; 4WYQ; X-ray; 3.20 A; B/E=289-363.
+DR   PDB; 5N8L; NMR; -; A=16-227.
+DR   PDB; 5N8M; NMR; -; A=16-227.
+DR   PDB; 5ZAK; EM; 4.40 A; B=1-366.
+DR   PDB; 5ZAL; EM; 4.70 A; B=1-366.
+DR   PDB; 5ZAM; EM; 5.70 A; B=1-366.
+DR   PDB; 6ZBK; X-ray; 1.49 A; B=262-366.
+DR   PDBsum; 2CPN; -.
+DR   PDBsum; 3ADL; -.
+DR   PDBsum; 3LLH; -.
+DR   PDBsum; 4WYQ; -.
+DR   PDBsum; 5N8L; -.
+DR   PDBsum; 5N8M; -.
+DR   PDBsum; 5ZAK; -.
+DR   PDBsum; 5ZAL; -.
+DR   PDBsum; 5ZAM; -.
+DR   PDBsum; 6ZBK; -.
+DR   AlphaFoldDB; Q15633; -.
+DR   BMRB; Q15633; -.
+DR   SMR; Q15633; -.
+DR   BioGRID; 112758; 163.
+DR   ComplexPortal; CPX-134; RISC-loading complex, TARBP2 variant.
+DR   CORUM; Q15633; -.
+DR   DIP; DIP-29665N; -.
+DR   IntAct; Q15633; 60.
+DR   MINT; Q15633; -.
+DR   STRING; 9606.ENSP00000266987; -.
+DR   BindingDB; Q15633; -.
+DR   ChEMBL; CHEMBL2098; -.
+DR   GlyGen; Q15633; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q15633; -.
+DR   PhosphoSitePlus; Q15633; -.
+DR   BioMuta; TARBP2; -.
+DR   DMDM; 209572714; -.
+DR   EPD; Q15633; -.
+DR   jPOST; Q15633; -.
+DR   MassIVE; Q15633; -.
+DR   MaxQB; Q15633; -.
+DR   PaxDb; Q15633; -.
+DR   PeptideAtlas; Q15633; -.
+DR   ProteomicsDB; 60666; -. [Q15633-1]
+DR   ProteomicsDB; 60667; -. [Q15633-2]
+DR   Antibodypedia; 15253; 453 antibodies from 35 providers.
+DR   DNASU; 6895; -.
+DR   Ensembl; ENST00000266987.7; ENSP00000266987.2; ENSG00000139546.11. [Q15633-1]
+DR   Ensembl; ENST00000394357.6; ENSP00000377885.2; ENSG00000139546.11. [Q15633-2]
+DR   Ensembl; ENST00000456234.6; ENSP00000416077.2; ENSG00000139546.11. [Q15633-2]
+DR   GeneID; 6895; -.
+DR   KEGG; hsa:6895; -.
+DR   MANE-Select; ENST00000266987.7; ENSP00000266987.2; NM_134323.2; NP_599150.1.
+DR   UCSC; uc001sdo.4; human. [Q15633-1]
+DR   AGR; HGNC:11569; -.
+DR   CTD; 6895; -.
+DR   DisGeNET; 6895; -.
+DR   GeneCards; TARBP2; -.
+DR   HGNC; HGNC:11569; TARBP2.
+DR   HPA; ENSG00000139546; Low tissue specificity.
+DR   MIM; 605053; gene.
+DR   neXtProt; NX_Q15633; -.
+DR   OpenTargets; ENSG00000139546; -.
+DR   PharmGKB; PA36334; -.
+DR   VEuPathDB; HostDB:ENSG00000139546; -.
+DR   eggNOG; KOG3732; Eukaryota.
+DR   GeneTree; ENSGT00940000157748; -.
+DR   HOGENOM; CLU_048292_2_0_1; -.
+DR   InParanoid; Q15633; -.
+DR   OMA; GYSCTWD; -.
+DR   OrthoDB; 3130057at2759; -.
+DR   PhylomeDB; Q15633; -.
+DR   TreeFam; TF315953; -.
+DR   PathwayCommons; Q15633; -.
+DR   Reactome; R-HSA-203927; MicroRNA (miRNA) biogenesis.
+DR   Reactome; R-HSA-426486; Small interfering RNA (siRNA) biogenesis.
+DR   SignaLink; Q15633; -.
+DR   SIGNOR; Q15633; -.
+DR   BioGRID-ORCS; 6895; 13 hits in 1158 CRISPR screens.
+DR   EvolutionaryTrace; Q15633; -.
+DR   GeneWiki; TARBP2; -.
+DR   GenomeRNAi; 6895; -.
+DR   Pharos; Q15633; Tchem.
+DR   PRO; PR:Q15633; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; Q15633; protein.
+DR   Bgee; ENSG00000139546; Expressed in right hemisphere of cerebellum and 132 other tissues.
+DR   ExpressionAtlas; Q15633; baseline and differential.
+DR   Genevisible; Q15633; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016442; C:RISC complex; IDA:UniProtKB.
+DR   GO; GO:0070578; C:RISC-loading complex; IDA:UniProtKB.
+DR   GO; GO:0003725; F:double-stranded RNA binding; IDA:BHF-UCL.
+DR   GO; GO:0019899; F:enzyme binding; IPI:BHF-UCL.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0035198; F:miRNA binding; IEA:UniProtKB-UniRule.
+DR   GO; GO:0070883; F:pre-miRNA binding; IDA:BHF-UCL.
+DR   GO; GO:0036002; F:pre-mRNA binding; TAS:BHF-UCL.
+DR   GO; GO:0042803; F:protein homodimerization activity; IPI:UniProtKB.
+DR   GO; GO:0035197; F:siRNA binding; IDA:UniProtKB.
+DR   GO; GO:0098795; P:global gene silencing by mRNA cleavage; IMP:UniProtKB.
+DR   GO; GO:0035196; P:miRNA processing; IDA:UniProtKB.
+DR   GO; GO:0035264; P:multicellular organism growth; IEA:Ensembl.
+DR   GO; GO:0050689; P:negative regulation of defense response to virus by host; IDA:UniProtKB.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; TAS:UniProtKB.
+DR   GO; GO:0061351; P:neural precursor cell proliferation; IEA:Ensembl.
+DR   GO; GO:0051149; P:positive regulation of muscle cell differentiation; IEA:Ensembl.
+DR   GO; GO:0045727; P:positive regulation of translation; IEA:Ensembl.
+DR   GO; GO:0045070; P:positive regulation of viral genome replication; IDA:UniProtKB.
+DR   GO; GO:0031054; P:pre-miRNA processing; IDA:UniProtKB.
+DR   GO; GO:1903798; P:regulation of miRNA processing; IEA:Ensembl.
+DR   GO; GO:0070920; P:regulation of regulatory ncRNA processing; IBA:GO_Central.
+DR   GO; GO:0070921; P:regulation of siRNA processing; IEA:InterPro.
+DR   GO; GO:0046782; P:regulation of viral transcription; IDA:UniProtKB.
+DR   GO; GO:0070922; P:RISC complex assembly; IDA:UniProtKB.
+DR   GO; GO:0007338; P:single fertilization; IEA:Ensembl.
+DR   GO; GO:0030422; P:siRNA processing; IDA:UniProtKB.
+DR   GO; GO:0043403; P:skeletal muscle tissue regeneration; IEA:Ensembl.
+DR   GO; GO:0007286; P:spermatid development; IEA:Ensembl.
+DR   CDD; cd19890; DSRM_TARBP2_rpt1; 1.
+DR   CDD; cd10844; DSRM_TARBP2_rpt2; 1.
+DR   CDD; cd19893; DSRM_TARBP2_rpt3; 1.
+DR   Gene3D; 3.30.160.20; -; 3.
+DR   HAMAP; MF_03034; TRBP2; 1.
+DR   InterPro; IPR014720; dsRBD_dom.
+DR   InterPro; IPR028605; TRBP2.
+DR   InterPro; IPR044469; TRBP2_DSRM_1.
+DR   InterPro; IPR044470; TRBP2_DSRM_2.
+DR   InterPro; IPR044471; TRBP2_DSRM_3.
+DR   PANTHER; PTHR46205; LOQUACIOUS, ISOFORM B; 1.
+DR   PANTHER; PTHR46205:SF1; RISC-LOADING COMPLEX SUBUNIT TARBP2; 1.
+DR   Pfam; PF00035; dsrm; 2.
+DR   SMART; SM00358; DSRM; 3.
+DR   SUPFAM; SSF54768; dsRNA-binding domain-like; 3.
+DR   PROSITE; PS50137; DS_RBD; 3.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative promoter usage; Cytoplasm; Nucleus;
+KW   Phosphoprotein; Reference proteome; Repeat; RNA-binding;
+KW   RNA-mediated gene silencing; Translation regulation.
+FT   CHAIN           1..366
+FT                   /note="RISC-loading complex subunit TARBP2"
+FT                   /id="PRO_0000065622"
+FT   DOMAIN          30..97
+FT                   /note="DRBM 1"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03034"
+FT   DOMAIN          159..227
+FT                   /note="DRBM 2"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03034"
+FT   DOMAIN          293..361
+FT                   /note="DRBM 3"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03034"
+FT   REGION          22..105
+FT                   /note="Sufficient for interaction with PRKRA"
+FT   REGION          152..234
+FT                   /note="Sufficient for interaction with PRKRA"
+FT   REGION          228..366
+FT                   /note="Sufficient for interaction with DICER1"
+FT   REGION          287..366
+FT                   /note="Sufficient for interaction with PRKRA"
+FT   MOD_RES         152
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   VAR_SEQ         1..21
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:2011739"
+FT                   /id="VSP_035584"
+FT   VARIANT         251
+FT                   /note="S -> F (in dbSNP:rs1126500)"
+FT                   /evidence="ECO:0000269|PubMed:2011739,
+FT                   ECO:0000269|PubMed:7774957"
+FT                   /id="VAR_046992"
+FT   CONFLICT        144
+FT                   /note="P -> A (in Ref. 1; AAA36765)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           21..25
+FT                   /evidence="ECO:0007829|PDB:5N8L"
+FT   HELIX           31..41
+FT                   /evidence="ECO:0007829|PDB:3LLH"
+FT   STRAND          47..53
+FT                   /evidence="ECO:0007829|PDB:3LLH"
+FT   STRAND          57..59
+FT                   /evidence="ECO:0007829|PDB:5N8L"
+FT   STRAND          62..68
+FT                   /evidence="ECO:0007829|PDB:3LLH"
+FT   STRAND          71..79
+FT                   /evidence="ECO:0007829|PDB:3LLH"
+FT   HELIX           80..95
+FT                   /evidence="ECO:0007829|PDB:3LLH"
+FT   HELIX           161..170
+FT                   /evidence="ECO:0007829|PDB:3ADL"
+FT   STRAND          177..185
+FT                   /evidence="ECO:0007829|PDB:3ADL"
+FT   STRAND          187..189
+FT                   /evidence="ECO:0007829|PDB:2CPN"
+FT   STRAND          191..198
+FT                   /evidence="ECO:0007829|PDB:3ADL"
+FT   STRAND          201..209
+FT                   /evidence="ECO:0007829|PDB:3ADL"
+FT   HELIX           210..226
+FT                   /evidence="ECO:0007829|PDB:3ADL"
+FT   HELIX           265..270
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   HELIX           274..281
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   HELIX           285..289
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   HELIX           291..293
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   HELIX           294..305
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   STRAND          309..316
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   STRAND          323..329
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   STRAND          331..333
+FT                   /evidence="ECO:0007829|PDB:4WYQ"
+FT   STRAND          335..343
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+FT   HELIX           344..364
+FT                   /evidence="ECO:0007829|PDB:6ZBK"
+SQ   SEQUENCE   366 AA;  39039 MW;  768BA11751DA4912 CRC64;
+     MSEEEQGSGT TTGCGLPSIE QMLAANPGKT PISLLQEYGT RIGKTPVYDL LKAEGQAHQP
+     NFTFRVTVGD TSCTGQGPSK KAAKHKAAEV ALKHLKGGSM LEPALEDSSS FSPLDSSLPE
+     DIPVFTAAAA ATPVPSVVLT RSPPMELQPP VSPQQSECNP VGALQELVVQ KGWRLPEYTV
+     TQESGPAHRK EFTMTCRVER FIEIGSGTSK KLAKRNAAAK MLLRVHTVPL DARDGNEVEP
+     DDDHFSIGVG SRLDGLRNRG PGCTWDSLRN SVGEKILSLR SCSLGSLGAL GPACCRVLSE
+     LSEEQAFHVS YLDIEELSLS GLCQCLVELS TQPATVCHGS ATTREAARGE AARRALQYLK
+     IMAGSK
+//

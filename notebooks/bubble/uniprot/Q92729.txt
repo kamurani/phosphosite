@@ -1,0 +1,650 @@
+ID   PTPRU_HUMAN             Reviewed;        1446 AA.
+AC   Q92729; A6H8L1; O00197; P78399; Q59HA4; Q5SYU4; Q5SYU5; Q92735; Q92850;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   05-MAY-2009, sequence version 2.
+DT   28-JUN-2023, entry version 207.
+DE   RecName: Full=Receptor-type tyrosine-protein phosphatase U;
+DE            Short=R-PTP-U;
+DE            EC=3.1.3.48;
+DE   AltName: Full=Pancreatic carcinoma phosphatase 2;
+DE            Short=PCP-2;
+DE   AltName: Full=Protein-tyrosine phosphatase J;
+DE            Short=PTP-J;
+DE            Short=hPTP-J;
+DE   AltName: Full=Protein-tyrosine phosphatase pi;
+DE            Short=PTP pi;
+DE   AltName: Full=Protein-tyrosine phosphatase receptor omicron;
+DE            Short=PTP-RO;
+DE   AltName: Full=Receptor-type protein-tyrosine phosphatase psi;
+DE            Short=R-PTP-psi;
+DE   Flags: Precursor;
+GN   Name=PTPRU; Synonyms=FMI, PCP2, PTPRO;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND TISSUE SPECIFICITY.
+RC   TISSUE=Mammary gland;
+RX   PubMed=8870675; DOI=10.1042/bj3190249;
+RA   Crossland S., Smith P.D., Crompton M.R.;
+RT   "Molecular cloning and characterization of PTP pi, a novel receptor-like
+RT   protein-tyrosine phosphatase.";
+RL   Biochem. J. 319:249-254(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), CATALYTIC ACTIVITY, GLYCOSYLATION,
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RC   TISSUE=Pancreas;
+RX   PubMed=8700514;
+RA   Wang H.-Y., Lian Z., Lerch M.M., Chen Z., Xie W., Ullrich A.;
+RT   "Characterization of PCP-2, a novel receptor protein tyrosine phosphatase
+RT   of the MAM domain family.";
+RL   Oncogene 12:2555-2562(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), TISSUE SPECIFICITY, AND INDUCTION.
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=9070223; DOI=10.1006/bbrc.1997.6004;
+RA   Wang B., Kishihara K., Zhang D., Hara H., Nomoto K.;
+RT   "Molecular cloning and characterization of a novel human receptor protein
+RT   tyrosine phosphatase gene, hPTP-J: down-regulation of gene expression by
+RT   PMA and calcium ionophore in Jurkat T lymphoma cells.";
+RL   Biochem. Biophys. Res. Commun. 231:77-81(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 4), TISSUE SPECIFICITY, AND
+RP   DEVELOPMENTAL STAGE.
+RC   TISSUE=Brain;
+RX   PubMed=9434160; DOI=10.1016/s0378-1119(97)00420-4;
+RA   Avraham S., London R., Tulloch G.A., Ellis M., Fu Y., Jiang S., White R.A.,
+RA   Painter C., Steinberger A.A., Avraham H.;
+RT   "Characterization and chromosomal localization of PTPRO, a novel receptor
+RT   protein tyrosine phosphatase, expressed in hematopoietic stem cells.";
+RL   Gene 204:5-16(1997).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 2).
+RA   Banville D., Masson S., L'Abbe D., Stocco R., Shen S.-H.;
+RT   "Cloning and expression of R-PTP-psi, a novel receptor protein tyrosine
+RT   phosphatase related to the homophilic binding R-PTP-kappa and -mu.";
+RL   Submitted (JUN-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 194-1446 (ISOFORM 2).
+RC   TISSUE=Brain;
+RA   Totoki Y., Toyoda A., Takeda T., Sakaki Y., Tanaka A., Yokoyama S.,
+RA   Ohara O., Nagase T., Kikuno R.F.;
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   INDUCTION.
+RX   PubMed=10395944; DOI=10.1016/s0167-4889(99)00064-6;
+RA   Wang B., Kishihara K., Zhang D., Sakamoto T., Nomoto K.;
+RT   "Transcriptional regulation of a receptor protein tyrosine phosphatase gene
+RT   hPTP-J by PKC-mediated signaling pathways in Jurkat and Molt-4 T lymphoma
+RT   cells.";
+RL   Biochim. Biophys. Acta 1450:331-340(1999).
+RN   [11]
+RP   FUNCTION, INTERACTION WITH KIT, PHOSPHORYLATION, PROTEOLYTIC PROCESSING,
+RP   AND INDUCTION BY PHORBOL ESTER.
+RX   PubMed=10397721;
+RA   Taniguchi Y., London R., Schinkmann K., Jiang S., Avraham H.;
+RT   "The receptor protein tyrosine phosphatase, PTP-RO, is upregulated during
+RT   megakaryocyte differentiation and is associated with the c-Kit receptor.";
+RL   Blood 94:539-549(1999).
+RN   [12]
+RP   FUNCTION, INTERACTION WITH CTNNB1, INDUCTION, AND MUTAGENESIS OF CYS-1085
+RP   AND CYS-1380.
+RX   PubMed=12501215; DOI=10.1021/bi026095u;
+RA   Yan H.-X., He Y.-Q., Dong H., Zhang P., Zeng J.-Z., Cao H.-F., Wu M.-C.,
+RA   Wang H.-Y.;
+RT   "Physical and functional interaction between receptor-like protein tyrosine
+RT   phosphatase PCP-2 and beta-catenin.";
+RL   Biochemistry 41:15854-15860(2002).
+RN   [13]
+RP   FUNCTION, INTERACTION WITH CTNNB1, AND MUTAGENESIS OF CYS-1085 AND
+RP   CYS-1380.
+RX   PubMed=16574648; DOI=10.1074/jbc.m602607200;
+RA   Yan H.-X., Yang W., Zhang R., Chen L., Tang L., Zhai B., Liu S.-Q.,
+RA   Cao H.-F., Man X.-B., Wu H.-P., Wu M.-C., Wang H.-Y.;
+RT   "Protein-tyrosine phosphatase PCP-2 inhibits beta-catenin signaling and
+RT   increases E-cadherin-dependent cell adhesion.";
+RL   J. Biol. Chem. 281:15423-15433(2006).
+RN   [14]
+RP   INTERACTION WITH AP3B1.
+RX   PubMed=17622474; DOI=10.1111/j.1745-7270.2007.00303.x;
+RA   Dong H., Yuan H., Jin W., Shen Y., Xu X., Wang H.-Y.;
+RT   "Involvement of beta3A subunit of adaptor protein-3 in intracellular
+RT   trafficking of receptor-like protein tyrosine phosphatase PCP-2.";
+RL   Acta Biochim. Biophys. Sin. 39:540-546(2007).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-848 AND SER-853, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-853, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [17]
+RP   VARIANTS [LARGE SCALE ANALYSIS] TYR-830; TRP-835 AND CYS-856.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Tyrosine-protein phosphatase which dephosphorylates CTNNB1.
+CC       Regulates CTNNB1 function both in cell adhesion and signaling. May
+CC       function in cell proliferation and migration and play a role in the
+CC       maintenance of epithelial integrity. May play a role in
+CC       megakaryocytopoiesis. {ECO:0000269|PubMed:10397721,
+CC       ECO:0000269|PubMed:12501215, ECO:0000269|PubMed:16574648}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + O-phospho-L-tyrosyl-[protein] = L-tyrosyl-[protein] +
+CC         phosphate; Xref=Rhea:RHEA:10684, Rhea:RHEA-COMP:10136, Rhea:RHEA-
+CC         COMP:10137, ChEBI:CHEBI:15377, ChEBI:CHEBI:43474, ChEBI:CHEBI:46858,
+CC         ChEBI:CHEBI:82620; EC=3.1.3.48; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU10044, ECO:0000269|PubMed:8700514};
+CC   -!- SUBUNIT: Forms homooligomeric complexes which mediate cell homotypic
+CC       adhesion (Probable). Interacts (via the cytoplasmic juxtamembrane
+CC       domain) with CTNNB1; may mediate interaction with the cadherin/catenin
+CC       adhesion complex. Interacts with KIT. May interact with AP3B1.
+CC       {ECO:0000269|PubMed:10397721, ECO:0000269|PubMed:12501215,
+CC       ECO:0000269|PubMed:16574648, ECO:0000269|PubMed:17622474, ECO:0000305}.
+CC   -!- INTERACTION:
+CC       Q92729; P10721: KIT; NbExp=2; IntAct=EBI-7052301, EBI-1379503;
+CC   -!- SUBCELLULAR LOCATION: Cell junction {ECO:0000269|PubMed:8700514}. Cell
+CC       membrane {ECO:0000269|PubMed:8700514}; Single-pass type I membrane
+CC       protein {ECO:0000269|PubMed:8700514}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q92729-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q92729-2; Sequence=VSP_037082;
+CC       Name=3;
+CC         IsoId=Q92729-3; Sequence=VSP_037082, VSP_037084;
+CC       Name=4; Synonyms=PTPRO;
+CC         IsoId=Q92729-4; Sequence=VSP_037082, VSP_037083, VSP_037085;
+CC   -!- TISSUE SPECIFICITY: High levels in brain, pancreas, and skeletal
+CC       muscle; less in colon, kidney, liver, stomach, and uterus; not
+CC       expressed in placenta and spleen. Also detected in heart, prostate,
+CC       lung, thymus, testis and ovary. Ubiquitously expressed in brain.
+CC       Expressed by hematopoietic stem cells. {ECO:0000269|PubMed:8700514,
+CC       ECO:0000269|PubMed:8870675, ECO:0000269|PubMed:9070223,
+CC       ECO:0000269|PubMed:9434160}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed in fetal brain, lung and kidney.
+CC       {ECO:0000269|PubMed:9434160}.
+CC   -!- INDUCTION: Up-regulated upon cell contact (at protein level). Down-
+CC       regulated by phorbol ester (at protein level) and calcium ionophore but
+CC       up-regulated by phorbol ester in megakaryocytic cells
+CC       (PubMed:10397721). {ECO:0000269|PubMed:10395944,
+CC       ECO:0000269|PubMed:10397721, ECO:0000269|PubMed:12501215,
+CC       ECO:0000269|PubMed:9070223}.
+CC   -!- PTM: The extracellular domain is proteolytically processed through
+CC       cleavage within the fibronectin type-III 4 domain (By similarity). In
+CC       addition to the 190 kDa full-length protein, proteolytic products of
+CC       100 kDa, 80 kDa and 73 kDa are observed. {ECO:0000250,
+CC       ECO:0000269|PubMed:10397721}.
+CC   -!- PTM: N-glycosylated. {ECO:0000269|PubMed:8700514}.
+CC   -!- PTM: Phosphorylated on tyrosine residues upon activation of KIT with
+CC       stem cell factor (SCF). The 73 kDa proteolytic product is not
+CC       phosphorylated. {ECO:0000269|PubMed:10397721}.
+CC   -!- SIMILARITY: Belongs to the protein-tyrosine phosphatase family.
+CC       Receptor class 2B subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA65016.1; Type=Miscellaneous discrepancy; Note=Several sequencing problems.; Evidence={ECO:0000305};
+CC       Sequence=CAA65832.1; Type=Miscellaneous discrepancy; Note=Several sequencing problems.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X95712; CAA65016.1; ALT_SEQ; mRNA.
+DR   EMBL; X97198; CAA65832.1; ALT_SEQ; mRNA.
+DR   EMBL; U73727; AAB51343.1; -; mRNA.
+DR   EMBL; U71075; AAC51938.1; -; mRNA.
+DR   EMBL; U60289; AAB07074.1; -; Genomic_DNA.
+DR   EMBL; AL645859; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL590729; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL049570; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471059; EAX07651.1; -; Genomic_DNA.
+DR   EMBL; CH471059; EAX07652.1; -; Genomic_DNA.
+DR   EMBL; BC146655; AAI46656.1; -; mRNA.
+DR   EMBL; AB208855; BAD92092.1; -; mRNA.
+DR   CCDS; CCDS334.1; -. [Q92729-1]
+DR   CCDS; CCDS335.1; -. [Q92729-2]
+DR   CCDS; CCDS44098.2; -. [Q92729-4]
+DR   CCDS; CCDS53290.1; -. [Q92729-3]
+DR   PIR; JC5290; JC5290.
+DR   PIR; S72441; S72441.
+DR   RefSeq; NP_001181930.1; NM_001195001.1. [Q92729-3]
+DR   RefSeq; NP_005695.3; NM_005704.4. [Q92729-1]
+DR   RefSeq; NP_573438.3; NM_133177.3. [Q92729-4]
+DR   RefSeq; NP_573439.2; NM_133178.3. [Q92729-2]
+DR   PDB; 6SUB; X-ray; 1.72 A; A=871-1153.
+DR   PDB; 6SUC; X-ray; 1.97 A; A=871-1153.
+DR   PDBsum; 6SUB; -.
+DR   PDBsum; 6SUC; -.
+DR   AlphaFoldDB; Q92729; -.
+DR   SMR; Q92729; -.
+DR   BioGRID; 115386; 155.
+DR   IntAct; Q92729; 22.
+DR   MINT; Q92729; -.
+DR   STRING; 9606.ENSP00000334941; -.
+DR   ChEMBL; CHEMBL1961785; -.
+DR   DEPOD; PTPRU; -.
+DR   GlyCosmos; Q92729; 3 sites, No reported glycans.
+DR   GlyGen; Q92729; 5 sites, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q92729; -.
+DR   PhosphoSitePlus; Q92729; -.
+DR   BioMuta; PTPRU; -.
+DR   DMDM; 229462800; -.
+DR   EPD; Q92729; -.
+DR   jPOST; Q92729; -.
+DR   MassIVE; Q92729; -.
+DR   MaxQB; Q92729; -.
+DR   PaxDb; Q92729; -.
+DR   PeptideAtlas; Q92729; -.
+DR   ProteomicsDB; 75416; -. [Q92729-1]
+DR   ProteomicsDB; 75417; -. [Q92729-2]
+DR   ProteomicsDB; 75418; -. [Q92729-3]
+DR   ProteomicsDB; 75419; -. [Q92729-4]
+DR   Antibodypedia; 31032; 45 antibodies from 17 providers.
+DR   DNASU; 10076; -.
+DR   Ensembl; ENST00000345512.7; ENSP00000334941.5; ENSG00000060656.20. [Q92729-1]
+DR   Ensembl; ENST00000373779.8; ENSP00000362884.3; ENSG00000060656.20. [Q92729-2]
+DR   Ensembl; ENST00000428026.6; ENSP00000392332.2; ENSG00000060656.20. [Q92729-3]
+DR   Ensembl; ENST00000460170.2; ENSP00000432906.1; ENSG00000060656.20. [Q92729-4]
+DR   GeneID; 10076; -.
+DR   KEGG; hsa:10076; -.
+DR   MANE-Select; ENST00000373779.8; ENSP00000362884.3; NM_133178.4; NP_573439.2. [Q92729-2]
+DR   UCSC; uc001bru.4; human. [Q92729-1]
+DR   AGR; HGNC:9683; -.
+DR   CTD; 10076; -.
+DR   DisGeNET; 10076; -.
+DR   GeneCards; PTPRU; -.
+DR   HGNC; HGNC:9683; PTPRU.
+DR   HPA; ENSG00000060656; Low tissue specificity.
+DR   MIM; 602454; gene.
+DR   neXtProt; NX_Q92729; -.
+DR   OpenTargets; ENSG00000060656; -.
+DR   PharmGKB; PA34028; -.
+DR   VEuPathDB; HostDB:ENSG00000060656; -.
+DR   eggNOG; KOG4228; Eukaryota.
+DR   GeneTree; ENSGT00940000157151; -.
+DR   HOGENOM; CLU_001645_0_2_1; -.
+DR   InParanoid; Q92729; -.
+DR   OMA; WEQVRSH; -.
+DR   OrthoDB; 2875525at2759; -.
+DR   PhylomeDB; Q92729; -.
+DR   TreeFam; TF312900; -.
+DR   BRENDA; 3.1.3.48; 2681.
+DR   PathwayCommons; Q92729; -.
+DR   Reactome; R-HSA-1433557; Signaling by SCF-KIT.
+DR   SignaLink; Q92729; -.
+DR   BioGRID-ORCS; 10076; 14 hits in 1158 CRISPR screens.
+DR   ChiTaRS; PTPRU; human.
+DR   GeneWiki; PTPRU; -.
+DR   GenomeRNAi; 10076; -.
+DR   Pharos; Q92729; Tbio.
+DR   PRO; PR:Q92729; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q92729; protein.
+DR   Bgee; ENSG00000060656; Expressed in endocervix and 165 other tissues.
+DR   Genevisible; Q92729; HS.
+DR   GO; GO:0005911; C:cell-cell junction; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0008013; F:beta-catenin binding; IPI:UniProtKB.
+DR   GO; GO:0004725; F:protein tyrosine phosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0005001; F:transmembrane receptor protein tyrosine phosphatase activity; NAS:UniProtKB.
+DR   GO; GO:0031100; P:animal organ regeneration; IEA:Ensembl.
+DR   GO; GO:0007155; P:cell adhesion; NAS:UniProtKB.
+DR   GO; GO:0030154; P:cell differentiation; IEA:UniProtKB-KW.
+DR   GO; GO:0034109; P:homotypic cell-cell adhesion; IEA:Ensembl.
+DR   GO; GO:0090090; P:negative regulation of canonical Wnt signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0030336; P:negative regulation of cell migration; IDA:UniProtKB.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; IDA:UniProtKB.
+DR   GO; GO:2000049; P:positive regulation of cell-cell adhesion mediated by cadherin; IDA:UniProtKB.
+DR   GO; GO:0006470; P:protein dephosphorylation; IDA:UniProtKB.
+DR   GO; GO:0034394; P:protein localization to cell surface; IDA:UniProtKB.
+DR   GO; GO:0051384; P:response to glucocorticoid; IEA:Ensembl.
+DR   GO; GO:0007185; P:transmembrane receptor protein tyrosine phosphatase signaling pathway; NAS:UniProtKB.
+DR   CDD; cd00063; FN3; 3.
+DR   CDD; cd06263; MAM; 1.
+DR   CDD; cd14632; R-PTPc-U-1; 1.
+DR   CDD; cd14637; R-PTPc-U-2; 1.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 4.
+DR   Gene3D; 3.90.190.10; Protein tyrosine phosphatase superfamily; 2.
+DR   InterPro; IPR013320; ConA-like_dom_sf.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR036116; FN3_sf.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR000998; MAM_dom.
+DR   InterPro; IPR029021; Prot-tyrosine_phosphatase-like.
+DR   InterPro; IPR000242; PTP_cat.
+DR   InterPro; IPR016130; Tyr_Pase_AS.
+DR   InterPro; IPR003595; Tyr_Pase_cat.
+DR   InterPro; IPR000387; Tyr_Pase_dom.
+DR   PANTHER; PTHR24051:SF10; PROTEIN-TYROSINE-PHOSPHATASE-RELATED; 1.
+DR   PANTHER; PTHR24051; SUSHI DOMAIN-CONTAINING PROTEIN 1; 1.
+DR   Pfam; PF00041; fn3; 2.
+DR   Pfam; PF00629; MAM; 1.
+DR   Pfam; PF00102; Y_phosphatase; 2.
+DR   PRINTS; PR00020; MAMDOMAIN.
+DR   PRINTS; PR00700; PRTYPHPHTASE.
+DR   SMART; SM00060; FN3; 3.
+DR   SMART; SM00137; MAM; 1.
+DR   SMART; SM00194; PTPc; 2.
+DR   SMART; SM00404; PTPc_motif; 2.
+DR   SUPFAM; SSF52799; (Phosphotyrosine protein) phosphatases II; 2.
+DR   SUPFAM; SSF49899; Concanavalin A-like lectins/glucanases; 1.
+DR   SUPFAM; SSF49265; Fibronectin type III; 2.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   PROSITE; PS50853; FN3; 3.
+DR   PROSITE; PS00740; MAM_1; 1.
+DR   PROSITE; PS50060; MAM_2; 1.
+DR   PROSITE; PS00383; TYR_PHOSPHATASE_1; 2.
+DR   PROSITE; PS50056; TYR_PHOSPHATASE_2; 2.
+DR   PROSITE; PS50055; TYR_PHOSPHATASE_PTP; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell adhesion; Cell junction;
+KW   Cell membrane; Differentiation; Disulfide bond; Glycoprotein; Hydrolase;
+KW   Immunoglobulin domain; Membrane; Phosphoprotein; Protein phosphatase;
+KW   Receptor; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..18
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           19..1446
+FT                   /note="Receptor-type tyrosine-protein phosphatase U"
+FT                   /id="PRO_0000371658"
+FT   TOPO_DOM        19..749
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        750..770
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        771..1446
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          25..188
+FT                   /note="MAM"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00128"
+FT   DOMAIN          190..275
+FT                   /note="Ig-like C2-type"
+FT   DOMAIN          288..383
+FT                   /note="Fibronectin type-III 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          386..484
+FT                   /note="Fibronectin type-III 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          485..591
+FT                   /note="Fibronectin type-III 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          592..674
+FT                   /note="Fibronectin type-III 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          888..1144
+FT                   /note="Tyrosine-protein phosphatase 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00160"
+FT   DOMAIN          1176..1439
+FT                   /note="Tyrosine-protein phosphatase 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00160"
+FT   REGION          771..887
+FT                   /note="Mediates interaction with CTNNB1"
+FT                   /evidence="ECO:0000250"
+FT   REGION          833..861
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        833..847
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        1085
+FT                   /note="Phosphocysteine intermediate"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        1380
+FT                   /note="Phosphocysteine intermediate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1053
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         1085..1091
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1129
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         848
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         853
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         863
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:B1AUH1"
+FT   MOD_RES         865
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:B1AUH1"
+FT   CARBOHYD        75
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        410
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        685
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        210..264
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         774..783
+FT                   /note="Missing (in isoform 2, isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:8700514, ECO:0000303|PubMed:9070223,
+FT                   ECO:0000303|PubMed:9434160, ECO:0000303|Ref.9"
+FT                   /id="VSP_037082"
+FT   VAR_SEQ         950
+FT                   /note="D -> DIRINRE (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:9434160"
+FT                   /id="VSP_037083"
+FT   VAR_SEQ         993..995
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_037084"
+FT   VAR_SEQ         1329..1330
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:9434160"
+FT                   /id="VSP_037085"
+FT   VARIANT         60
+FT                   /note="T -> N (in dbSNP:rs35332573)"
+FT                   /id="VAR_055075"
+FT   VARIANT         471
+FT                   /note="R -> L (in dbSNP:rs35745442)"
+FT                   /id="VAR_055076"
+FT   VARIANT         830
+FT                   /note="H -> Y (in a colorectal cancer sample; somatic
+FT                   mutation)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035650"
+FT   VARIANT         835
+FT                   /note="R -> W (in a colorectal cancer sample; somatic
+FT                   mutation; dbSNP:rs558954146)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035651"
+FT   VARIANT         856
+FT                   /note="R -> C (in a colorectal cancer sample; somatic
+FT                   mutation; dbSNP:rs763868325)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035652"
+FT   VARIANT         940
+FT                   /note="N -> S (in dbSNP:rs2235937)"
+FT                   /id="VAR_055077"
+FT   MUTAGEN         1085
+FT                   /note="C->S: Loss of phosphatase activity toward CTNNB1.
+FT                   Loss of the inhibitory effect on CTNNB1 transcriptional
+FT                   activity without effect on interaction with CTNNB1; when
+FT                   associated with S-1380."
+FT                   /evidence="ECO:0000269|PubMed:12501215,
+FT                   ECO:0000269|PubMed:16574648"
+FT   MUTAGEN         1380
+FT                   /note="C->S: No effect on phosphatase activity toward
+FT                   CTNNB1. Loss of the inhibitory effect on CTNNB1
+FT                   transcriptional activity without effect on interaction with
+FT                   CTNNB1; when associated with S-1085."
+FT                   /evidence="ECO:0000269|PubMed:12501215,
+FT                   ECO:0000269|PubMed:16574648"
+FT   CONFLICT        359..360
+FT                   /note="LT -> S (in Ref. 4; AAC51938)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        401
+FT                   /note="T -> A (in Ref. 4; AAC51938)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        715
+FT                   /note="E -> D (in Ref. 3; AAB51343)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        840..841
+FT                   /note="SG -> GW (in Ref. 4; AAC51938)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1215
+FT                   /note="P -> A (in Ref. 5; AAB07074)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1245
+FT                   /note="A -> R (in Ref. 4; AAC51938)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1399
+FT                   /note="M -> I (in Ref. 4; AAC51938)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1436
+FT                   /note="A -> V (in Ref. 5; AAB07074)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           876..878
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   HELIX           879..900
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          946..949
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          952..954
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          958..961
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   HELIX           966..968
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   HELIX           969..978
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          983..986
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          990..992
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          1004..1009
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          1012..1021
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          1023..1034
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          1041..1048
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          1053..1056
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   HELIX           1061..1073
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          1081..1084
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   HELIX           1091..1108
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   STRAND          1109..1111
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   HELIX           1113..1123
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+FT   HELIX           1131..1144
+FT                   /evidence="ECO:0007829|PDB:6SUB"
+SQ   SEQUENCE   1446 AA;  162423 MW;  76F9BD6EFABE8663 CRC64;
+     MARAQALVLA LTFQLCAPET ETPAAGCTFE EASDPAVPCE YSQAQYDDFQ WEQVRIHPGT
+     RAPADLPHGS YLMVNTSQHA PGQRAHVIFQ SLSENDTHCV QFSYFLYSRD GHSPGTLGVY
+     VRVNGGPLGS AVWNMTGSHG RQWHQAELAV STFWPNEYQV LFEALISPDR RGYMGLDDIL
+     LLSYPCAKAP HFSRLGDVEV NAGQNASFQC MAAGRAAEAE RFLLQRQSGA LVPAAGVRHI
+     SHRRFLATFP LAAVSRAEQD LYRCVSQAPR GAGVSNFAEL IVKEPPTPIA PPQLLRAGPT
+     YLIIQLNTNS IIGDGPIVRK EIEYRMARGP WAEVHAVSLQ TYKLWHLDPD TEYEISVLLT
+     RPGDGGTGRP GPPLISRTKC AEPMRAPKGL AFAEIQARQL TLQWEPLGYN VTRCHTYTVS
+     LCYHYTLGSS HNQTIRECVK TEQGVSRYTI KNLLPYRNVH VRLVLTNPEG RKEGKEVTFQ
+     TDEDVPSGIA AESLTFTPLE DMIFLKWEEP QEPNGLITQY EISYQSIESS DPAVNVPGPR
+     RTISKLRNET YHVFSNLHPG TTYLFSVRAR TGKGFGQAAL TEITTNISAP SFDYADMPSP
+     LGESENTITV LLRPAQGRGA PISVYQVIVE EERARRLRRE PGGQDCFPVP LTFEAALARG
+     LVHYFGAELA ASSLPEAMPF TVGDNQTYRG FWNPPLEPRK AYLIYFQAAS HLKGETRLNC
+     IRIARKAACK ESKRPLEVSQ RSEEMGLILG ICAGGLAVLI LLLGAIIVII RKGRDHYAYS
+     YYPKPVNMTK ATVNYRQEKT HMMSAVDRSF TDQSTLQEDE RLGLSFMDTH GYSTRGDQRS
+     GGVTEASSLL GGSPRRPCGR KGSPYHTGQL HPAVRVADLL QHINQMKTAE GYGFKQEYES
+     FFEGWDATKK KDKVKGSRQE PMPAYDRHRV KLHPMLGDPN ADYINANYID GYHRSNHFIA
+     TQGPKPEMVY DFWRMVWQEH CSSIVMITKL VEVGRVKCSR YWPEDSDTYG DIKIMLVKTE
+     TLAEYVVRTF ALERRGYSAR HEVRQFHFTA WPEHGVPYHA TGLLAFIRRV KASTPPDAGP
+     IVIHCSAGTG RTGCYIVLDV MLDMAECEGV VDIYNCVKTL CSRRVNMIQT EEQYIFIHDA
+     ILEACLCGET TIPVSEFKAT YKEMIRIDPQ SNSSQLREEF QTLNSVTPPL DVEECSIALL
+     PRNRDKNRSM DVLPPDRCLP FLISTDGDSN NYINAALTDS YTRSAAFIVT LHPLQSTTPD
+     FWRLVYDYGC TSIVMLNQLN QSNSAWPCLQ YWPEPGRQQY GLMEVEFMSG TADEDLVARV
+     FRVQNISRLQ EGHLLVRHFQ FLRWSAYRDT PDSKKAFLHL LAEVDKWQAE SGDGRTIVHC
+     LNGGGRSGTF CACATVLEMI RCHNLVDVFF AAKTLRNYKP NMVETMDQYH FCYDVALEYL
+     EGLESR
+//

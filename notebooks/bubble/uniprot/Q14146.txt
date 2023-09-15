@@ -1,0 +1,190 @@
+ID   URB2_HUMAN              Reviewed;        1524 AA.
+AC   Q14146; Q5VYC9;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   14-OCT-2008, sequence version 2.
+DT   28-JUN-2023, entry version 158.
+DE   RecName: Full=Unhealthy ribosome biogenesis protein 2 homolog;
+GN   Name=URB2; Synonyms=KIAA0133;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Bone marrow;
+RX   PubMed=8590280; DOI=10.1093/dnares/2.4.167;
+RA   Nagase T., Seki N., Tanaka A., Ishikawa K., Nomura N.;
+RT   "Prediction of the coding sequences of unidentified human genes. IV. The
+RT   coding sequences of 40 new genes (KIAA0121-KIAA0160) deduced by analysis of
+RT   cDNA clones from human cell line KG-1.";
+RL   DNA Res. 2:167-174(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND SUBCELLULAR LOCATION [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=15635413; DOI=10.1038/nature03207;
+RA   Andersen J.S., Lam Y.W., Leung A.K.L., Ong S.-E., Lyon C.E., Lamond A.I.,
+RA   Mann M.;
+RT   "Nucleolar proteome dynamics.";
+RL   Nature 433:77-83(2005).
+CC   -!- FUNCTION: Essential for hematopietic stem cell development through the
+CC       regulation of p53/TP53 pathway. {ECO:0000250|UniProtKB:B0V0U5}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus, nucleolus {ECO:0000269|PubMed:15635413}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA09482.3; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D50923; BAA09482.3; ALT_INIT; mRNA.
+DR   EMBL; AL354983; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL121990; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC114559; AAI14560.1; -; mRNA.
+DR   EMBL; BC114963; AAI14964.1; -; mRNA.
+DR   CCDS; CCDS31052.1; -.
+DR   RefSeq; NP_001300950.1; NM_001314021.1.
+DR   RefSeq; NP_055592.2; NM_014777.3.
+DR   AlphaFoldDB; Q14146; -.
+DR   BioGRID; 115155; 112.
+DR   IntAct; Q14146; 30.
+DR   STRING; 9606.ENSP00000258243; -.
+DR   CarbonylDB; Q14146; -.
+DR   iPTMnet; Q14146; -.
+DR   PhosphoSitePlus; Q14146; -.
+DR   SwissPalm; Q14146; -.
+DR   BioMuta; URB2; -.
+DR   DMDM; 209572635; -.
+DR   EPD; Q14146; -.
+DR   jPOST; Q14146; -.
+DR   MassIVE; Q14146; -.
+DR   MaxQB; Q14146; -.
+DR   PaxDb; Q14146; -.
+DR   PeptideAtlas; Q14146; -.
+DR   ProteomicsDB; 59850; -.
+DR   Antibodypedia; 1890; 81 antibodies from 18 providers.
+DR   DNASU; 9816; -.
+DR   Ensembl; ENST00000258243.7; ENSP00000258243.2; ENSG00000135763.10.
+DR   GeneID; 9816; -.
+DR   KEGG; hsa:9816; -.
+DR   MANE-Select; ENST00000258243.7; ENSP00000258243.2; NM_014777.4; NP_055592.2.
+DR   UCSC; uc001hts.1; human.
+DR   AGR; HGNC:28967; -.
+DR   CTD; 9816; -.
+DR   DisGeNET; 9816; -.
+DR   GeneCards; URB2; -.
+DR   HGNC; HGNC:28967; URB2.
+DR   HPA; ENSG00000135763; Low tissue specificity.
+DR   MIM; 619372; gene.
+DR   neXtProt; NX_Q14146; -.
+DR   OpenTargets; ENSG00000135763; -.
+DR   PharmGKB; PA164727496; -.
+DR   VEuPathDB; HostDB:ENSG00000135763; -.
+DR   eggNOG; ENOG502QWBH; Eukaryota.
+DR   GeneTree; ENSGT00390000009258; -.
+DR   HOGENOM; CLU_251606_0_0_1; -.
+DR   InParanoid; Q14146; -.
+DR   OMA; DYNHYHK; -.
+DR   OrthoDB; 2904121at2759; -.
+DR   PhylomeDB; Q14146; -.
+DR   TreeFam; TF328770; -.
+DR   PathwayCommons; Q14146; -.
+DR   SignaLink; Q14146; -.
+DR   BioGRID-ORCS; 9816; 602 hits in 1158 CRISPR screens.
+DR   ChiTaRS; URB2; human.
+DR   GenomeRNAi; 9816; -.
+DR   Pharos; Q14146; Tbio.
+DR   PRO; PR:Q14146; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q14146; protein.
+DR   Bgee; ENSG00000135763; Expressed in gastrocnemius and 125 other tissues.
+DR   ExpressionAtlas; Q14146; baseline and differential.
+DR   Genevisible; Q14146; HS.
+DR   GO; GO:0016235; C:aggresome; IDA:HPA.
+DR   GO; GO:0030496; C:midbody; IDA:HGNC.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:1901796; P:regulation of signal transduction by p53 class mediator; ISS:UniProtKB.
+DR   GO; GO:0042254; P:ribosome biogenesis; IBA:GO_Central.
+DR   InterPro; IPR018849; Urb2/Npa2_C.
+DR   PANTHER; PTHR15682; UNHEALTHY RIBOSOME BIOGENESIS PROTEIN 2 HOMOLOG; 1.
+DR   PANTHER; PTHR15682:SF2; UNHEALTHY RIBOSOME BIOGENESIS PROTEIN 2 HOMOLOG; 1.
+DR   Pfam; PF10441; Urb2; 1.
+PE   1: Evidence at protein level;
+KW   Nucleus; Reference proteome.
+FT   CHAIN           1..1524
+FT                   /note="Unhealthy ribosome biogenesis protein 2 homolog"
+FT                   /id="PRO_0000050720"
+FT   VARIANT         778
+FT                   /note="V -> G (in dbSNP:rs3811473)"
+FT                   /id="VAR_034031"
+FT   VARIANT         1400
+FT                   /note="V -> M (in dbSNP:rs12142450)"
+FT                   /id="VAR_046975"
+SQ   SEQUENCE   1524 AA;  170544 MW;  D27CFF42B0892679 CRC64;
+     MAAVYSGISL KLKSKTTSWE DKLKLAHFAW ISHQCFLPNK EQVLLDWARQ SLVAFYKKKL
+     ELKEDIVERL WIYIDNILHS RKLQNLLKNG KTINLQISLV KIINERVAEF SLSGSQRNIC
+     AVLRCCQGIL STPALAVIYT AKQELMVALL SQLCWSACRQ PEGAVVAQLF EVIHLALGHY
+     LLILQQQVNP RRAFGDVTAH LLQPCLVLRH LLSGGTWTQA GQGQLRQVLS RDIRSQIEAM
+     FRGGIFQPEL LSSYKEGLLD QQQGDVKTGA MKNLLAPMDT VLNRLVDAGY CAASLHTSVV
+     ANSVALLYKL FLDSYFKEGN QLLCFQVLPR LFGCLKISHL QEEQSKALST SDWTTELLVV
+     EQLLNSVANN NIYNIAADRI RHEEAQFRFY RHVAELLINH AQAPIPAWFR CLKTLISLNH
+     LILEPDLDDL LASAWIDAEV TEFRTKKAQE ALIRTVFQTY AKLRQVPRLF EEVLGVICRP
+     AAEALRQPVL ASGPSTVLSA CLLELPPSQI LDTWSLVLEK FQSLVLPYLQ SDADMALKSL
+     SLSLLLHCIM FNMRSLDSST PLPIVRRTQC MMERMMRELV QPLLALLPDT PGPEPELWLQ
+     KVSDSVLLLS YTWAQVDAMF SLNCSQYHSM SGPLIGVALE ISNLPSLLPG VKTQHWKKIE
+     KFTAQFSSLG TYCLEQLYLQ KMKRTLMQTS FRSEGAIQSL RCDAAFIIGS GRKSLNQRTT
+     ASWDGQVGMV SGLTYPVAHW HLIVSNLTIL ISYLCPDDVG YLASVLLRTL PMGKAQEVSI
+     DEEAYITLEK ISKAFLHSPL FPEMQSLHSA FLTCVTTSCS SILCSGAQRD SGLVSQQLPW
+     LFEKDHMVVG HWENRFAKAG PEGIEPRGEI AQNLLSLVKS DFPIQLEGEQ LESILGLLEV
+     ISALQLDSLL PPYHVHYFLV LLSMAVTKLG CSCSSSLALK FLTTCYQLLG YLQKGKSARS
+     VFKIMYGSDI FEVVLTSLFR ASSRFLIEMD DPAWLEFLQV IGTFLEELMQ MLIQMKLSLV
+     LNFRKITAFL SSSKPYTEAA SSKQLENQNP QGRQLLLVSL TRLCHVLGPF LKEQKLGQEA
+     PAALSELLQQ VVLQTGAVLQ LCSVPGARGW RLPSVLISSV STLLEADLGQ HCRDGGADIS
+     QGSDRTLLSH VALYQGVYSQ ILLELPALAG HDQSFQAALQ FLTLFFLAPE LHPKKDSVFT
+     SMFHSVRRVL ADPEIPVQVT QDIEPHLGAL FTQMLEVGTT EDLRLVMQCI LQGLDVSNMW
+     KADVQAVVSA VTLLRLLLNC PLSGEKASLL WRACPQIVTA LTLLNREASQ EQPVSLTVVG
+     PVLDVLAALL RQGEEAIGNP HHVSLAFSIL LTVPLDHLKP LEYGSVFPRL HNVLFSILQC
+     HPKVMLKAIP SFLNSFNRLV FSVMREGRQK DKGSIDDLPT VLKCARLVER MYSHIAARAE
+     EFAVFSPFMV AQYVLEVQKV TLYPAVKSLL QEGIYLILDL CIEPDVQFLR ASLQPGMRDI
+     FKELYNDYLK YHKAKHEGEK RYTA
+//

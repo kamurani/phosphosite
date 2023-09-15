@@ -1,0 +1,565 @@
+ID   MCE1_HUMAN              Reviewed;         597 AA.
+AC   O60942; E1P513; E1P514; O43483; O60257; O60351; Q5TCW8; Q8WUM8;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   28-JUN-2023, entry version 206.
+DE   RecName: Full=mRNA-capping enzyme;
+DE   AltName: Full=HCAP1;
+DE   AltName: Full=HCE;
+DE   Includes:
+DE     RecName: Full=mRNA 5'-triphosphate monophosphatase;
+DE              EC=3.6.1.74 {ECO:0000269|PubMed:9473487};
+DE     AltName: Full=mRNA 5'-phosphatase;
+DE   Includes:
+DE     RecName: Full=mRNA guanylyltransferase;
+DE              EC=2.7.7.50 {ECO:0000269|PubMed:9473487};
+DE     AltName: Full=GTP--RNA guanylyltransferase;
+DE              Short=GTase;
+GN   Name=RNGTT; Synonyms=CAP1A;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=9371772; DOI=10.1073/pnas.94.24.12898;
+RA   Yue Z., Maldonado E., Pillutla R., Cho H., Reinberg D., Shatkin A.J.;
+RT   "Mammalian capping enzyme complements mutant Saccharomyces cerevisiae
+RT   lacking mRNA guanylyltransferase and selectively binds the elongating form
+RT   of RNA polymerase II.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:12898-12903(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2 AND 3), MUTAGENESIS OF LYS-294;
+RP   ARG-299; GLU-345; LYS-458 AND LYS-460, AND FUNCTION.
+RX   PubMed=9512541; DOI=10.1093/nar/26.7.1700;
+RA   Yamada-Okabe T., Doi R., Shimmi O., Arisawa M., Yamada-Okabe H.;
+RT   "Isolation and characterization of a human cDNA for mRNA 5'-capping
+RT   enzyme.";
+RL   Nucleic Acids Res. 26:1700-1706(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 4), FUNCTION, AND CATALYTIC
+RP   ACTIVITY.
+RC   TISSUE=Colon adenocarcinoma;
+RX   PubMed=9473487; DOI=10.1006/bbrc.1997.8038;
+RA   Tsukamoto T., Shibagaki Y., Murakoshi T., Suzuki M., Nakamura A., Gotoh H.,
+RA   Mizumoto K.;
+RT   "Cloning and characterization of two human cDNAs encoding the mRNA capping
+RT   enzyme.";
+RL   Biochem. Biophys. Res. Commun. 243:101-108(1998).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT HIS-594.
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   INTERACTION WITH RNMT.
+RX   PubMed=9705270; DOI=10.1074/jbc.273.34.21443;
+RA   Pillutla R.C., Yue Z., Maldonado E., Shatkin A.J.;
+RT   "Recombinant human mRNA cap methyltransferase binds capping enzyme/RNA
+RT   polymerase IIo complexes.";
+RL   J. Biol. Chem. 273:21443-21446(1998).
+RN   [8]
+RP   INTERACTION WITH SUPT5H.
+RX   PubMed=10421630; DOI=10.1101/gad.13.14.1774;
+RA   Wen Y., Shatkin A.J.;
+RT   "Transcription elongation factor hSPT5 stimulates mRNA capping.";
+RL   Genes Dev. 13:1774-1779(1999).
+RN   [9]
+RP   INTERACTION WITH HIV-1 TAT (MICROBIAL INFECTION).
+RX   PubMed=11278368; DOI=10.1074/jbc.m007901200;
+RA   Chiu Y.-L., Coronel E., Ho C.K., Shuman S., Rana T.M.;
+RT   "HIV-1 Tat protein interacts with mammalian capping enzyme and stimulates
+RT   capping of TAR RNA.";
+RL   J. Biol. Chem. 276:12959-12966(2001).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (3.01 ANGSTROMS) OF 229-567, CATALYTIC ACTIVITY,
+RP   FUNCTION, MUTAGENESIS OF GLU-234; LYS-458; LYS-460; ARG-528; ARG-530;
+RP   ASP-532 AND LYS-533, AND ACTIVE SITE.
+RX   PubMed=21636784; DOI=10.1073/pnas.1106610108;
+RA   Chu C., Das K., Tyminski J.R., Bauman J.D., Guan R., Qiu W.,
+RA   Montelione G.T., Arnold E., Shatkin A.J.;
+RT   "Structure of the guanylyltransferase domain of human mRNA capping
+RT   enzyme.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:10104-10108(2011).
+CC   -!- FUNCTION: Bifunctional mRNA-capping enzyme exhibiting RNA 5'-
+CC       triphosphate monophosphatase activity in the N-terminal part and mRNA
+CC       guanylyltransferase activity in the C-terminal part. Catalyzes the
+CC       first two steps of cap formation: by removing the gamma-phosphate from
+CC       the 5'-triphosphate end of nascent mRNA to yield a diphosphate end, and
+CC       by transferring the GMP moiety of GTP to the 5'-diphosphate terminus of
+CC       RNA via a covalent enzyme-GMP reaction intermediate.
+CC       {ECO:0000269|PubMed:21636784, ECO:0000269|PubMed:9473487,
+CC       ECO:0000269|PubMed:9512541}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a 5'-end triphospho-ribonucleoside in mRNA + H2O = a 5'-end
+CC         diphospho-ribonucleoside in mRNA + H(+) + phosphate;
+CC         Xref=Rhea:RHEA:67004, Rhea:RHEA-COMP:17164, Rhea:RHEA-COMP:17165,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:43474,
+CC         ChEBI:CHEBI:167616, ChEBI:CHEBI:167618; EC=3.6.1.74;
+CC         Evidence={ECO:0000269|PubMed:9473487};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:67005;
+CC         Evidence={ECO:0000305|PubMed:9473487};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a 5'-end diphospho-ribonucleoside in mRNA + GTP + H(+) = a 5'-
+CC         end (5'-triphosphoguanosine)-(ribonucleoside) in mRNA + diphosphate;
+CC         Xref=Rhea:RHEA:67012, Rhea:RHEA-COMP:17165, Rhea:RHEA-COMP:17166,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:33019, ChEBI:CHEBI:37565,
+CC         ChEBI:CHEBI:167616, ChEBI:CHEBI:167617; EC=2.7.7.50;
+CC         Evidence={ECO:0000269|PubMed:9473487};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:67013;
+CC         Evidence={ECO:0000305|PubMed:9473487};
+CC   -!- SUBUNIT: Interacts with POLR2A (via C-terminus); this enhances
+CC       guanylyltransferase activity. Binds (via GTase domain) to the
+CC       elongating phosphorylated form of RNA polymerase II; can form direct
+CC       interactions with the phosphorylated POLR2A C-terminal domain and
+CC       indirect interactions via bound RNA (By similarity). Interacts with
+CC       SUPT5H and RNMT. Interacts with HIV-1 Tat. {ECO:0000250,
+CC       ECO:0000269|PubMed:10421630, ECO:0000269|PubMed:9705270}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with HIV-1 Tat.
+CC       {ECO:0000269|PubMed:11278368}.
+CC   -!- INTERACTION:
+CC       O60942; Q92624: APPBP2; NbExp=3; IntAct=EBI-1237132, EBI-743771;
+CC       O60942; P16333-1: NCK1; NbExp=2; IntAct=EBI-1237132, EBI-15578122;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1; Synonyms=HCE1, HCAP1A;
+CC         IsoId=O60942-1; Sequence=Displayed;
+CC       Name=2; Synonyms=HCE1A;
+CC         IsoId=O60942-2; Sequence=VSP_003202;
+CC       Name=3; Synonyms=HCE1B;
+CC         IsoId=O60942-3; Sequence=VSP_003202, VSP_003203;
+CC       Name=4; Synonyms=HCAP1B;
+CC         IsoId=O60942-4; Sequence=VSP_003204;
+CC   -!- TISSUE SPECIFICITY: Isoform 1 and isoform 4 (at a lesser extent) are
+CC       expressed in cerebrum, cerebellum, thyroid, lung, heart, liver, kidney,
+CC       spleen, large intestine, testis, skin and muscle.
+CC   -!- MISCELLANEOUS: Isoform 2 to isoform 4 lack mRNA 5'-guanylyltransferase
+CC       activity due to disruptions of the GTase domain.
+CC   -!- SIMILARITY: In the N-terminal section; belongs to the non-receptor
+CC       class of the protein-tyrosine phosphatase family. {ECO:0000305}.
+CC   -!- SIMILARITY: In the C-terminal section; belongs to the eukaryotic GTase
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF025654; AAB91559.1; -; mRNA.
+DR   EMBL; AB009022; BAA25894.1; -; mRNA.
+DR   EMBL; AB009023; BAA25895.1; -; mRNA.
+DR   EMBL; AB009024; BAA25896.1; -; mRNA.
+DR   EMBL; AB012142; BAA25198.1; -; mRNA.
+DR   EMBL; AB012143; BAA25199.1; -; mRNA.
+DR   EMBL; AL079342; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL096868; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL133408; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL445530; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471051; EAW48566.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW48567.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW48569.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW48570.1; -; Genomic_DNA.
+DR   EMBL; BC019954; AAH19954.1; -; mRNA.
+DR   CCDS; CCDS5017.1; -. [O60942-1]
+DR   CCDS; CCDS69153.1; -. [O60942-2]
+DR   PIR; JC5936; JC5936.
+DR   PIR; JC5937; JC5937.
+DR   RefSeq; NP_001273355.1; NM_001286426.1. [O60942-2]
+DR   RefSeq; NP_001273357.1; NM_001286428.1.
+DR   RefSeq; NP_003791.3; NM_003800.4. [O60942-1]
+DR   PDB; 2C46; X-ray; 1.60 A; A/B/C/D=1-219.
+DR   PDB; 3S24; X-ray; 3.01 A; A/B/C/D/E/F/G=229-567.
+DR   PDBsum; 2C46; -.
+DR   PDBsum; 3S24; -.
+DR   AlphaFoldDB; O60942; -.
+DR   SMR; O60942; -.
+DR   BioGRID; 114270; 129.
+DR   DIP; DIP-61014N; -.
+DR   IntAct; O60942; 27.
+DR   MINT; O60942; -.
+DR   STRING; 9606.ENSP00000358497; -.
+DR   DEPOD; RNGTT; -.
+DR   GlyGen; O60942; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; O60942; -.
+DR   MetOSite; O60942; -.
+DR   PhosphoSitePlus; O60942; -.
+DR   BioMuta; RNGTT; -.
+DR   EPD; O60942; -.
+DR   jPOST; O60942; -.
+DR   MassIVE; O60942; -.
+DR   MaxQB; O60942; -.
+DR   PaxDb; O60942; -.
+DR   PeptideAtlas; O60942; -.
+DR   ProteomicsDB; 49688; -. [O60942-1]
+DR   ProteomicsDB; 49689; -. [O60942-2]
+DR   ProteomicsDB; 49690; -. [O60942-3]
+DR   ProteomicsDB; 49691; -. [O60942-4]
+DR   Antibodypedia; 1158; 187 antibodies from 30 providers.
+DR   DNASU; 8732; -.
+DR   Ensembl; ENST00000369475.7; ENSP00000358487.4; ENSG00000111880.16. [O60942-2]
+DR   Ensembl; ENST00000369485.9; ENSP00000358497.4; ENSG00000111880.16. [O60942-1]
+DR   Ensembl; ENST00000538899.2; ENSP00000442609.2; ENSG00000111880.16. [O60942-3]
+DR   GeneID; 8732; -.
+DR   KEGG; hsa:8732; -.
+DR   MANE-Select; ENST00000369485.9; ENSP00000358497.4; NM_003800.5; NP_003791.3.
+DR   UCSC; uc003pmr.4; human. [O60942-1]
+DR   AGR; HGNC:10073; -.
+DR   CTD; 8732; -.
+DR   DisGeNET; 8732; -.
+DR   GeneCards; RNGTT; -.
+DR   HGNC; HGNC:10073; RNGTT.
+DR   HPA; ENSG00000111880; Low tissue specificity.
+DR   MIM; 603512; gene.
+DR   neXtProt; NX_O60942; -.
+DR   OpenTargets; ENSG00000111880; -.
+DR   PharmGKB; PA34446; -.
+DR   VEuPathDB; HostDB:ENSG00000111880; -.
+DR   eggNOG; KOG2386; Eukaryota.
+DR   GeneTree; ENSGT00940000156953; -.
+DR   HOGENOM; CLU_021710_3_0_1; -.
+DR   InParanoid; O60942; -.
+DR   OMA; FWDIWMS; -.
+DR   OrthoDB; 49440at2759; -.
+DR   PhylomeDB; O60942; -.
+DR   TreeFam; TF314914; -.
+DR   BioCyc; MetaCyc:HS03479-MON; -.
+DR   BRENDA; 2.7.7.50; 2681.
+DR   BRENDA; 3.6.1.74; 2681.
+DR   PathwayCommons; O60942; -.
+DR   Reactome; R-HSA-167160; RNA Pol II CTD phosphorylation and interaction with CE during HIV infection.
+DR   Reactome; R-HSA-72086; mRNA Capping.
+DR   Reactome; R-HSA-77075; RNA Pol II CTD phosphorylation and interaction with CE.
+DR   SignaLink; O60942; -.
+DR   SIGNOR; O60942; -.
+DR   BioGRID-ORCS; 8732; 835 hits in 1154 CRISPR screens.
+DR   ChiTaRS; RNGTT; human.
+DR   EvolutionaryTrace; O60942; -.
+DR   GeneWiki; RNGTT; -.
+DR   GenomeRNAi; 8732; -.
+DR   Pharos; O60942; Tbio.
+DR   PRO; PR:O60942; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; O60942; protein.
+DR   Bgee; ENSG00000111880; Expressed in cardia of stomach and 201 other tissues.
+DR   Genevisible; O60942; HS.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; TAS:ProtInc.
+DR   GO; GO:0005524; F:ATP binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0050355; F:inorganic triphosphate phosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0140818; F:mRNA 5'-phosphatase activity; IEA:InterPro.
+DR   GO; GO:0004484; F:mRNA guanylyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0004651; F:polynucleotide 5'-phosphatase activity; TAS:Reactome.
+DR   GO; GO:0008138; F:protein tyrosine/serine/threonine phosphatase activity; IEA:InterPro.
+DR   GO; GO:0008192; F:RNA guanylyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0006370; P:7-methylguanosine mRNA capping; IDA:UniProtKB.
+DR   GO; GO:0006470; P:protein dephosphorylation; IEA:InterPro.
+DR   GO; GO:0006396; P:RNA processing; IDA:UniProtKB.
+DR   CDD; cd07895; Adenylation_mRNA_capping; 1.
+DR   CDD; cd17664; Mce1_N; 1.
+DR   Gene3D; 3.30.1490.430; -; 1.
+DR   Gene3D; 3.30.470.30; DNA ligase/mRNA capping enzyme; 1.
+DR   Gene3D; 2.40.50.140; Nucleic acid-binding proteins; 1.
+DR   Gene3D; 3.90.190.10; Protein tyrosine phosphatase superfamily; 1.
+DR   InterPro; IPR000340; Dual-sp_phosphatase_cat-dom.
+DR   InterPro; IPR017074; mRNA_cap_enz_bifunc.
+DR   InterPro; IPR001339; mRNA_cap_enzyme_adenylation.
+DR   InterPro; IPR013846; mRNA_cap_enzyme_C.
+DR   InterPro; IPR012340; NA-bd_OB-fold.
+DR   InterPro; IPR029021; Prot-tyrosine_phosphatase-like.
+DR   InterPro; IPR016130; Tyr_Pase_AS.
+DR   InterPro; IPR000387; Tyr_Pase_dom.
+DR   InterPro; IPR020422; TYR_PHOSPHATASE_DUAL_dom.
+DR   PANTHER; PTHR10367; MRNA-CAPPING ENZYME; 1.
+DR   PANTHER; PTHR10367:SF17; MRNA-CAPPING ENZYME; 1.
+DR   Pfam; PF00782; DSPc; 1.
+DR   Pfam; PF03919; mRNA_cap_C; 1.
+DR   Pfam; PF01331; mRNA_cap_enzyme; 1.
+DR   PIRSF; PIRSF036958; mRNA_capping_HCE; 1.
+DR   SUPFAM; SSF52799; (Phosphotyrosine protein) phosphatases II; 1.
+DR   SUPFAM; SSF56091; DNA ligase/mRNA capping enzyme, catalytic domain; 1.
+DR   SUPFAM; SSF50249; Nucleic acid-binding proteins; 1.
+DR   PROSITE; PS00383; TYR_PHOSPHATASE_1; 1.
+DR   PROSITE; PS50056; TYR_PHOSPHATASE_2; 1.
+DR   PROSITE; PS50054; TYR_PHOSPHATASE_DUAL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; GTP-binding; Host-virus interaction;
+KW   Hydrolase; mRNA capping; mRNA processing; Multifunctional enzyme;
+KW   Nucleotide-binding; Nucleotidyltransferase; Nucleus; Protein phosphatase;
+KW   Reference proteome; Transferase.
+FT   CHAIN           1..597
+FT                   /note="mRNA-capping enzyme"
+FT                   /id="PRO_0000210108"
+FT   DOMAIN          25..183
+FT                   /note="Tyrosine-protein phosphatase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00160"
+FT   REGION          1..212
+FT                   /note="TPase"
+FT   REGION          181..220
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          229..597
+FT                   /note="GTase"
+FT   REGION          330..386
+FT                   /note="Interaction with POLR2A"
+FT                   /evidence="ECO:0000250"
+FT   REGION          570..597
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        192..207
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        583..597
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        126
+FT                   /note="Phosphocysteine intermediate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00160"
+FT   ACT_SITE        294
+FT                   /note="N6-GMP-lysine intermediate"
+FT                   /evidence="ECO:0000269|PubMed:21636784"
+FT   BINDING         299
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         315
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         343..345
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         458..460
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         528..533
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         424..446
+FT                   /note="Missing (in isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:9512541"
+FT                   /id="VSP_003202"
+FT   VAR_SEQ         481..597
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:9512541"
+FT                   /id="VSP_003203"
+FT   VAR_SEQ         504..597
+FT                   /note="TKELKQYDNKIIECKFENNSWVFMRQRTDKSFPNAYNTAMAVCNSISNPVTK
+FT                   EMLFEFIDRCTAASQGQKRKHHLDPDTELMPPPPPKRPRPLT -> CLFIFSVLFLDVL
+FT                   LSGIHQNLANNNQHIKISCSSTLGG (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:9473487"
+FT                   /id="VSP_003204"
+FT   VARIANT         594
+FT                   /note="R -> H (in dbSNP:rs17856595)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_046481"
+FT   MUTAGEN         234
+FT                   /note="E->A: No effect on GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:21636784"
+FT   MUTAGEN         294
+FT                   /note="K->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:9512541"
+FT   MUTAGEN         299
+FT                   /note="R->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:9512541"
+FT   MUTAGEN         345
+FT                   /note="E->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:9512541"
+FT   MUTAGEN         458
+FT                   /note="K->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:21636784,
+FT                   ECO:0000269|PubMed:9512541"
+FT   MUTAGEN         460
+FT                   /note="K->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:21636784,
+FT                   ECO:0000269|PubMed:9512541"
+FT   MUTAGEN         528
+FT                   /note="R->A: Strongly reduced GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:21636784"
+FT   MUTAGEN         530
+FT                   /note="R->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:21636784"
+FT   MUTAGEN         532
+FT                   /note="D->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:21636784"
+FT   MUTAGEN         533
+FT                   /note="K->A: Loss of GTase activity."
+FT                   /evidence="ECO:0000269|PubMed:21636784"
+FT   CONFLICT        30
+FT                   /note="M -> I (in Ref. 1; AAB91559)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        212
+FT                   /note="P -> T (in Ref. 6; AAH19954)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        484
+FT                   /note="Q -> P (in Ref. 1; AAB91559)"
+FT                   /evidence="ECO:0000305"
+FT   TURN            21..23
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   STRAND          24..27
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           33..38
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           41..43
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           47..57
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   STRAND          60..66
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           77..80
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   TURN            81..83
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   STRAND          85..88
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           100..110
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   STRAND          120..125
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   STRAND          127..130
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           131..143
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           149..159
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           167..177
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   HELIX           180..182
+FT                   /evidence="ECO:0007829|PDB:2C46"
+FT   STRAND          232..235
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          241..243
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           247..261
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          265..267
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          270..275
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   TURN            278..280
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           281..285
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          289..295
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          298..304
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          306..308
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          310..314
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          319..324
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          339..351
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          354..367
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           372..374
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           377..387
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           389..394
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   TURN            395..397
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          398..401
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   TURN            403..405
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          406..412
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           418..424
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          437..446
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          451..459
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           462..464
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          466..476
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          484..490
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          498..501
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           507..509
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          512..520
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   STRAND          523..529
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           539..550
+FT                   /evidence="ECO:0007829|PDB:3S24"
+FT   HELIX           555..563
+FT                   /evidence="ECO:0007829|PDB:3S24"
+SQ   SEQUENCE   597 AA;  68557 MW;  51CEEC1B190603DE CRC64;
+     MAHNKIPPRW LNCPRRGQPV AGRFLPLKTM LGPRYDSQVA EENRFHPSML SNYLKSLKVK
+     MGLLVDLTNT SRFYDRNDIE KEGIKYIKLQ CKGHGECPTT ENTETFIRLC ERFNERNPPE
+     LIGVHCTHGF NRTGFLICAF LVEKMDWSIE AAVATFAQAR PPGIYKGDYL KELFRRYGDI
+     EEAPPPPLLP DWCFEDDEDE DEDEDGKKES EPGSSASFGK RRKERLKLGA IFLEGVTVKG
+     VTQVTTQPKL GEVQQKCHQF CGWEGSGFPG AQPVSMDKQN IKLLDLKPYK VSWKADGTRY
+     MMLIDGTNEV FMIDRDNSVF HVSNLEFPFR KDLRMHLSNT LLDGEMIIDR VNGQAVPRYL
+     IYDIIKFNSQ PVGDCDFNVR LQCIEREIIS PRHEKMKTGL IDKTQEPFSV RNKPFFDICT
+     SRKLLEGNFA KEVSHEMDGL IFQPTGKYKP GRCDDILKWK PPSLNSVDFR LKITRMGGEG
+     LLPQNVGLLY VGGYERPFAQ IKVTKELKQY DNKIIECKFE NNSWVFMRQR TDKSFPNAYN
+     TAMAVCNSIS NPVTKEMLFE FIDRCTAASQ GQKRKHHLDP DTELMPPPPP KRPRPLT
+//

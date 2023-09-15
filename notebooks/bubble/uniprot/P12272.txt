@@ -1,0 +1,502 @@
+ID   PTHR_HUMAN              Reviewed;         177 AA.
+AC   P12272; Q15251; Q6FH74;
+DT   01-OCT-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1989, sequence version 1.
+DT   28-JUN-2023, entry version 227.
+DE   RecName: Full=Parathyroid hormone-related protein;
+DE            Short=PTH-rP;
+DE            Short=PTHrP;
+DE   AltName: Full=Parathyroid hormone-like protein;
+DE            Short=PLP;
+DE   Contains:
+DE     RecName: Full=PTHrP[1-36];
+DE   Contains:
+DE     RecName: Full=PTHrP[38-94];
+DE   Contains:
+DE     RecName: Full=Osteostatin;
+DE     AltName: Full=PTHrP[107-139];
+DE   Flags: Precursor;
+GN   Name=PTHLH; Synonyms=PTHRP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PARTIAL PROTEIN SEQUENCE.
+RX   PubMed=3616618; DOI=10.1126/science.3616618;
+RA   Suva L.J., Winslow G.A., Wettenhall R.E.H., Hammonds R.G., Moseley J.M.,
+RA   Diefenbach-Jagger H., Rodda C.P., Kemp B.E., Rodriguez H., Chen E.Y.,
+RA   Hudson P.J., Martin T.J., Wood W.I.;
+RT   "A parathyroid hormone-related protein implicated in malignant
+RT   hypercalcemia: cloning and expression.";
+RL   Science 237:893-896(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2829195; DOI=10.1073/pnas.85.2.597;
+RA   Mangin M., Webb A.C., Dreyer B.E., Posillico J.T., Ikeda K., Weir E.C.,
+RA   Stewart A.F., Bander N.H., Milstone L., Barton D.E., Francke U.,
+RA   Broadus A.E.;
+RT   "Identification of a cDNA encoding a parathyroid hormone-like peptide from
+RT   a human tumor associated with humoral hypercalcemia of malignancy.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:597-601(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2708388; DOI=10.1016/s0021-9258(18)83294-x;
+RA   Yasuda T., Banville D., Hendy G.N., Goltzman D.;
+RT   "Characterization of the human parathyroid hormone-like peptide gene.
+RT   Functional and evolutionary aspects.";
+RL   J. Biol. Chem. 264:7720-7725(1989).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RX   PubMed=3290897; DOI=10.1073/pnas.85.13.4605;
+RA   Thiede M.A., Strewler G.J., Nissenson R.A., Rosenblatt M., Rodan G.A.;
+RT   "Human renal carcinoma expresses two messages encoding a parathyroid
+RT   hormone-like peptide: evidence for the alternative splicing of a single-
+RT   copy gene.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:4605-4609(1988).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE OF 1-33.
+RC   TISSUE=Liver;
+RX   PubMed=2744490; DOI=10.1016/0378-1119(89)90363-6;
+RA   Suva L.J., Mather K.A., Gillespie M.T., Webb G.C., Ng K.W., Winslow G.A.,
+RA   Wood W.I., Martin T.J., Hudson P.J.;
+RT   "Structure of the 5' flanking region of the gene encoding human
+RT   parathyroid-hormone-related protein (PTHrP).";
+RL   Gene 77:95-105(1989).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 37-52.
+RX   PubMed=2885845; DOI=10.1073/pnas.84.14.5048;
+RA   Moseley J.M., Kubota M., Diefenbach-Jagger H., Wettenhall R.E.H.,
+RA   Kemp B.E., Suva L.J., Rodda C.P., Ebeling P.R., Hudson P.J., Zajac J.D.,
+RA   Martin T.J.;
+RT   "Parathyroid hormone-related protein purified from a human lung cancer cell
+RT   line.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84:5048-5052(1987).
+RN   [10]
+RP   ALTERNATIVE SPLICING (ISOFORM 3).
+RX   PubMed=2928340; DOI=10.1073/pnas.86.7.2408;
+RA   Mangin M., Ikeda K., Dreyer B.E., Broadus A.E.;
+RT   "Isolation and characterization of the human parathyroid hormone-like
+RT   peptide gene.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:2408-2412(1989).
+RN   [11]
+RP   CHARACTERIZATION OF OSTEOSTATIN ACTIVITY.
+RX   PubMed=1915066; DOI=10.1210/endo-129-4-1762;
+RA   Fenton A.J., Kemp B.E., Kent G.N., Moseley J.M., Zheng M.H., Rowe D.J.,
+RA   Britto J.M., Martin T.J., Nicholson G.C.;
+RT   "A carboxyl-terminal peptide from the parathyroid hormone-related protein
+RT   inhibits bone resorption by osteoclasts.";
+RL   Endocrinology 129:1762-1768(1991).
+RN   [12]
+RP   CHARACTERIZATION OF OSTEOSTATIN ACTIVITY.
+RX   PubMed=1954916; DOI=10.1210/endo-129-6-3424;
+RA   Fenton A.J., Kemp B.E., Hammonds R.G., Mitchelhill K., Moseley J.M.,
+RA   Martin T.J., Nicholson G.C.;
+RT   "A potent inhibitor of osteoclastic bone resorption within a highly
+RT   conserved pentapeptide region of parathyroid hormone-related protein;
+RT   PTHrP107-111.";
+RL   Endocrinology 129:3424-3426(1991).
+RN   [13]
+RP   CHARACTERIZATION OF OSTEOSTATIN ACTIVITY.
+RX   PubMed=9144344; DOI=10.1359/jbmr.1997.12.5.778;
+RA   Martinez M.E., Garcia-Ocana A., Sanchez M., Medina S., del Campo T.,
+RA   Valin A., Sanchez-Cabezudo M.J., Esbrit P.;
+RT   "C-terminal parathyroid hormone-related protein inhibits proliferation and
+RT   differentiation of human osteoblast-like cells.";
+RL   J. Bone Miner. Res. 12:778-785(1997).
+RN   [14]
+RP   CHARACTERIZATION OF OSTEOSTATIN ACTIVITY.
+RX   PubMed=9048639; DOI=10.1210/endo.138.3.4990;
+RA   Cornish J., Callon K.E., Nicholson G.C., Reid I.R.;
+RT   "Parathyroid hormone-related protein-(107-139) inhibits bone resorption in
+RT   vivo.";
+RL   Endocrinology 138:1299-1304(1997).
+RN   [15]
+RP   NUCLEOCYTOPLASMIC SHUTTLING.
+RX   PubMed=12852260; DOI=10.1016/s0083-6729(03)01010-0;
+RA   Jans D.A., Thomas R.J., Gillespie M.T.;
+RT   "Parathyroid hormone-related protein (PTHrP): a nucleocytoplasmic shuttling
+RT   protein with distinct paracrine and intracrine roles.";
+RL   Vitam. Horm. 66:345-384(2003).
+RN   [16]
+RP   NUCLEAR LOCALIZATION SIGNAL.
+RX   PubMed=11401507; DOI=10.1006/bbrc.2001.4607;
+RA   Lam M.H., Hu W., Xiao C.Y., Gillespie M.T., Jans D.A.;
+RT   "Molecular dissection of the importin beta1-recognized nuclear targeting
+RT   signal of parathyroid hormone-related protein.";
+RL   Biochem. Biophys. Res. Commun. 282:629-634(2001).
+RN   [17]
+RP   REVIEW.
+RX   PubMed=12538599; DOI=10.1210/en.2002-220818;
+RA   Fiaschi-Taesch N.M., Stewart A.F.;
+RT   "Minireview: parathyroid hormone-related protein as an intracrine factor
+RT   -- trafficking mechanisms and functional consequences.";
+RL   Endocrinology 144:407-411(2003).
+RN   [18]
+RP   FUNCTION.
+RX   PubMed=20637541; DOI=10.1016/j.canlet.2010.06.009;
+RA   Mula R.V., Bhatia V., Falzon M.;
+RT   "PTHrP promotes colon cancer cell migration and invasion in an integrin
+RT   alpha6beta4-dependent manner through activation of Rac1.";
+RL   Cancer Lett. 298:119-127(2010).
+RN   [19]
+RP   STRUCTURE BY NMR OF 37-70.
+RX   PubMed=10050767; DOI=10.1016/s0014-5793(98)01658-5;
+RA   Weidler M., Marx U.C., Seidel G., Schafer W., Hoffmann E., Esswein A.,
+RA   Rosch P.;
+RT   "The structure of human parathyroid hormone-related protein(1-34) in near-
+RT   physiological solution.";
+RL   FEBS Lett. 444:239-244(1999).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 103-130.
+RX   PubMed=12504010; DOI=10.1016/s1097-2765(02)00727-x;
+RA   Cingolani G., Bednenko J., Gillespie M.T., Gerace L.;
+RT   "Molecular basis for the recognition of a nonclassical nuclear localization
+RT   signal by importin beta.";
+RL   Mol. Cell 10:1345-1353(2002).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (1.94 ANGSTROMS) OF 48-70 IN COMPLEX WITH PTH1R,
+RP   INTERACTION WITH PTH1R, AND MUTAGENESIS OF ARG-57; PHE-59; LEU-60; LEU-63;
+RP   ILE-64 AND HIS-68.
+RX   PubMed=19674967; DOI=10.1074/jbc.m109.022905;
+RA   Pioszak A.A., Parker N.R., Gardella T.J., Xu H.E.;
+RT   "Structural basis for parathyroid hormone-related protein binding to the
+RT   parathyroid hormone receptor and design of conformation-selective
+RT   peptides.";
+RL   J. Biol. Chem. 284:28382-28391(2009).
+RN   [22]
+RP   VARIANT [LARGE SCALE ANALYSIS] THR-169.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+RN   [23]
+RP   VARIANTS BDE2 PRO-44 AND PRO-60.
+RX   PubMed=20170896; DOI=10.1016/j.ajhg.2010.01.023;
+RA   Klopocki E., Hennig B.P., Dathe K., Koll R., de Ravel T., Baten E.,
+RA   Blom E., Gillerot Y., Weigel J.F., Krueger G., Hiort O., Seemann P.,
+RA   Mundlos S.;
+RT   "Deletion and point mutations of PTHLH cause brachydactyly type E.";
+RL   Am. J. Hum. Genet. 86:434-439(2010).
+CC   -!- FUNCTION: Neuroendocrine peptide which is a critical regulator of
+CC       cellular and organ growth, development, migration, differentiation and
+CC       survival and of epithelial calcium ion transport. Regulates
+CC       endochondral bone development and epithelial-mesenchymal interactions
+CC       during the formation of the mammary glands and teeth. Required for
+CC       skeletal homeostasis. Promotes mammary mesenchyme differentiation and
+CC       bud outgrowth by modulating mesenchymal cell responsiveness to BMPs.
+CC       Up-regulates BMPR1A expression in the mammary mesenchyme and this
+CC       increases the sensitivity of these cells to BMPs and allows them to
+CC       respond to BMP4 in a paracrine and/or autocrine fashion. BMP4 signaling
+CC       in the mesenchyme, in turn, triggers epithelial outgrowth and augments
+CC       MSX2 expression, which causes the mammary mesenchyme to inhibit hair
+CC       follicle formation within the nipple sheath (By similarity). Promotes
+CC       colon cancer cell migration and invasion in an integrin alpha-6/beta-1-
+CC       dependent manner through activation of Rac1. {ECO:0000250,
+CC       ECO:0000269|PubMed:20637541}.
+CC   -!- FUNCTION: Osteostatin is a potent inhibitor of osteoclastic bone
+CC       resorption. {ECO:0000269|PubMed:20637541}.
+CC   -!- SUBUNIT: PTHrP interacts with PTH1R (via N-terminal extracellular
+CC       domain). {ECO:0000269|PubMed:19674967}.
+CC   -!- INTERACTION:
+CC       P12272; Q03431: PTH1R; NbExp=4; IntAct=EBI-2372758, EBI-2860297;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Secreted.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=1;
+CC         IsoId=P12272-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P12272-2; Sequence=VSP_004534;
+CC       Name=3;
+CC         IsoId=P12272-3; Sequence=VSP_004535;
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. Also expressed in the mammary gland.
+CC   -!- PTM: There are 3 principal secretory forms, called PTHrP[1-36],
+CC       PTHrP[38-94], and osteostatin (PTHrP[107-139]) arising from
+CC       endoproteolytic cleavage of the initial translation product. Each of
+CC       these secretory forms is believed to have one or more of its own
+CC       receptors that mediates the normal paracrine, autocrine and endocrine
+CC       actions.
+CC   -!- DISEASE: Brachydactyly E2 (BDE2) [MIM:613382]: A form of brachydactyly.
+CC       Brachydactyly defines a group of inherited malformations characterized
+CC       by shortening of the digits due to abnormal development of the
+CC       phalanges and/or the metacarpals. Brachydactyly type E is characterized
+CC       by shortening of the fingers mainly in the metacarpals and metatarsals.
+CC       Wide variability in the number of digits affected occurs from person to
+CC       person, even in the same family. Some individuals are moderately short
+CC       of stature. In brachydactyly type E2 variable combinations of
+CC       metacarpals are involved, with shortening also of the first and third
+CC       distal and the second and fifth middle phalanges.
+CC       {ECO:0000269|PubMed:20170896}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the parathyroid hormone family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/41897/PTHLH";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M17183; AAA60221.1; -; Genomic_DNA.
+DR   EMBL; X14304; CAA32480.1; -; Genomic_DNA.
+DR   EMBL; J03580; AAA60216.1; ALT_SEQ; mRNA.
+DR   EMBL; M24349; AAA60358.1; -; Genomic_DNA.
+DR   EMBL; M24348; AAA60358.1; JOINED; Genomic_DNA.
+DR   EMBL; M24350; AAA60359.1; -; Genomic_DNA.
+DR   EMBL; M24348; AAA60359.1; JOINED; Genomic_DNA.
+DR   EMBL; M24349; AAA60359.1; JOINED; Genomic_DNA.
+DR   EMBL; M24351; AAA60360.1; -; Genomic_DNA.
+DR   EMBL; M24348; AAA60360.1; JOINED; Genomic_DNA.
+DR   EMBL; M24349; AAA60360.1; JOINED; Genomic_DNA.
+DR   EMBL; CR541882; CAG46680.1; -; mRNA.
+DR   EMBL; CH471094; EAW96573.1; -; Genomic_DNA.
+DR   EMBL; BC005961; AAH05961.1; -; mRNA.
+DR   EMBL; J03802; AAA60218.1; -; mRNA.
+DR   EMBL; M34071; AAA60217.1; -; mRNA.
+DR   CCDS; CCDS44853.1; -. [P12272-1]
+DR   CCDS; CCDS8715.1; -. [P12272-2]
+DR   PIR; A33360; PTHU2L.
+DR   PIR; C33360; PTHU3L.
+DR   RefSeq; NP_002811.1; NM_002820.2. [P12272-2]
+DR   RefSeq; NP_945315.1; NM_198964.1. [P12272-2]
+DR   RefSeq; NP_945316.1; NM_198965.1. [P12272-1]
+DR   RefSeq; NP_945317.1; NM_198966.1. [P12272-1]
+DR   RefSeq; XP_011519076.1; XM_011520774.2.
+DR   RefSeq; XP_011519077.1; XM_011520775.2.
+DR   RefSeq; XP_016875163.1; XM_017019674.1.
+DR   RefSeq; XP_016875164.1; XM_017019675.1. [P12272-1]
+DR   PDB; 1BZG; NMR; -; A=37-70.
+DR   PDB; 1M5N; X-ray; 2.90 A; Q=103-130.
+DR   PDB; 3FFD; X-ray; 2.00 A; P=37-144.
+DR   PDB; 3H3G; X-ray; 1.94 A; B=48-70.
+DR   PDB; 7UZO; X-ray; 1.30 A; B=51-72.
+DR   PDB; 7VVJ; EM; 3.20 A; P=37-72.
+DR   PDB; 8HAF; EM; 3.25 A; P=37-72.
+DR   PDBsum; 1BZG; -.
+DR   PDBsum; 1M5N; -.
+DR   PDBsum; 3FFD; -.
+DR   PDBsum; 3H3G; -.
+DR   PDBsum; 7UZO; -.
+DR   PDBsum; 7VVJ; -.
+DR   PDBsum; 8HAF; -.
+DR   AlphaFoldDB; P12272; -.
+DR   BMRB; P12272; -.
+DR   SMR; P12272; -.
+DR   BioGRID; 111716; 17.
+DR   IntAct; P12272; 3.
+DR   MINT; P12272; -.
+DR   STRING; 9606.ENSP00000441765; -.
+DR   ChEMBL; CHEMBL3712869; -.
+DR   GlyCosmos; P12272; 1 site, 1 glycan.
+DR   GlyGen; P12272; 3 sites, 2 O-linked glycans (3 sites).
+DR   iPTMnet; P12272; -.
+DR   PhosphoSitePlus; P12272; -.
+DR   BioMuta; PTHLH; -.
+DR   DMDM; 131542; -.
+DR   MassIVE; P12272; -.
+DR   PaxDb; P12272; -.
+DR   PeptideAtlas; P12272; -.
+DR   ProteomicsDB; 52842; -. [P12272-1]
+DR   ProteomicsDB; 52843; -. [P12272-2]
+DR   ProteomicsDB; 52844; -. [P12272-3]
+DR   ABCD; P12272; 4 sequenced antibodies.
+DR   Antibodypedia; 3662; 478 antibodies from 36 providers.
+DR   CPTC; P12272; 2 antibodies.
+DR   DNASU; 5744; -.
+DR   Ensembl; ENST00000201015.8; ENSP00000201015.4; ENSG00000087494.16. [P12272-2]
+DR   Ensembl; ENST00000395868.7; ENSP00000379209.3; ENSG00000087494.16. [P12272-2]
+DR   Ensembl; ENST00000395872.5; ENSP00000379213.1; ENSG00000087494.16. [P12272-1]
+DR   Ensembl; ENST00000535992.5; ENSP00000440613.1; ENSG00000087494.16. [P12272-2]
+DR   Ensembl; ENST00000538310.1; ENSP00000441890.1; ENSG00000087494.16. [P12272-3]
+DR   Ensembl; ENST00000539239.5; ENSP00000441571.1; ENSG00000087494.16. [P12272-1]
+DR   Ensembl; ENST00000545234.6; ENSP00000441765.1; ENSG00000087494.16. [P12272-1]
+DR   GeneID; 5744; -.
+DR   KEGG; hsa:5744; -.
+DR   MANE-Select; ENST00000545234.6; ENSP00000441765.1; NM_198965.2; NP_945316.1.
+DR   UCSC; uc001ril.4; human. [P12272-1]
+DR   AGR; HGNC:9607; -.
+DR   CTD; 5744; -.
+DR   DisGeNET; 5744; -.
+DR   GeneCards; PTHLH; -.
+DR   HGNC; HGNC:9607; PTHLH.
+DR   HPA; ENSG00000087494; Tissue enhanced (parathyroid).
+DR   MalaCards; PTHLH; -.
+DR   MIM; 168470; gene.
+DR   MIM; 613382; phenotype.
+DR   neXtProt; NX_P12272; -.
+DR   OpenTargets; ENSG00000087494; -.
+DR   Orphanet; 93387; Brachydactyly type E.
+DR   PharmGKB; PA33952; -.
+DR   VEuPathDB; HostDB:ENSG00000087494; -.
+DR   eggNOG; ENOG502S3J9; Eukaryota.
+DR   GeneTree; ENSGT00390000004933; -.
+DR   InParanoid; P12272; -.
+DR   OMA; LQRWFFA; -.
+DR   OrthoDB; 5317161at2759; -.
+DR   PhylomeDB; P12272; -.
+DR   TreeFam; TF332953; -.
+DR   PathwayCommons; P12272; -.
+DR   Reactome; R-HSA-373080; Class B/2 (Secretin family receptors).
+DR   Reactome; R-HSA-418555; G alpha (s) signalling events.
+DR   SignaLink; P12272; -.
+DR   SIGNOR; P12272; -.
+DR   BioGRID-ORCS; 5744; 8 hits in 1156 CRISPR screens.
+DR   EvolutionaryTrace; P12272; -.
+DR   GeneWiki; Parathyroid_hormone-related_protein; -.
+DR   GenomeRNAi; 5744; -.
+DR   Pharos; P12272; Tbio.
+DR   PRO; PR:P12272; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; P12272; protein.
+DR   Bgee; ENSG00000087494; Expressed in periodontal ligament and 139 other tissues.
+DR   ExpressionAtlas; P12272; baseline and differential.
+DR   Genevisible; P12272; HS.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ProtInc.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; TAS:ProtInc.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005179; F:hormone activity; IBA:GO_Central.
+DR   GO; GO:0051428; F:peptide hormone receptor binding; IDA:UniProtKB.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G protein-coupled receptor signaling pathway; IDA:MGI.
+DR   GO; GO:0030282; P:bone mineralization; IEA:InterPro.
+DR   GO; GO:0046058; P:cAMP metabolic process; TAS:ProtInc.
+DR   GO; GO:0007267; P:cell-cell signaling; TAS:ProtInc.
+DR   GO; GO:0008544; P:epidermis development; TAS:ProtInc.
+DR   GO; GO:0007565; P:female pregnancy; TAS:ProtInc.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; TAS:ProtInc.
+DR   GO; GO:0061182; P:negative regulation of chondrocyte development; IDA:MGI.
+DR   GO; GO:0032331; P:negative regulation of chondrocyte differentiation; IDA:MGI.
+DR   GO; GO:0002076; P:osteoblast development; IBA:GO_Central.
+DR   GO; GO:0008284; P:positive regulation of cell population proliferation; TAS:ProtInc.
+DR   GO; GO:0032330; P:regulation of chondrocyte differentiation; IBA:GO_Central.
+DR   GO; GO:0010468; P:regulation of gene expression; IDA:MGI.
+DR   GO; GO:0001501; P:skeletal system development; IDA:MGI.
+DR   DisProt; DP00138; -.
+DR   IDEAL; IID00194; -.
+DR   InterPro; IPR003626; PTH-rel.
+DR   InterPro; IPR001415; PTH/PTH-rel.
+DR   PANTHER; PTHR17223; PARATHYROID HORMONE-RELATED; 1.
+DR   PANTHER; PTHR17223:SF0; PARATHYROID HORMONE-RELATED PROTEIN; 1.
+DR   Pfam; PF01279; Parathyroid; 1.
+DR   SMART; SM00087; PTH; 1.
+DR   PROSITE; PS00335; PARATHYROID; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium;
+KW   Cleavage on pair of basic residues; Cytoplasm; Direct protein sequencing;
+KW   Disease variant; Hormone; Nucleus; Reference proteome; Secreted; Signal.
+FT   SIGNAL          1..24
+FT                   /evidence="ECO:0000255"
+FT   PROPEP          25..34
+FT                   /id="PRO_0000023224"
+FT   CHAIN           37..177
+FT                   /note="Parathyroid hormone-related protein"
+FT                   /id="PRO_0000023225"
+FT   PEPTIDE         37..72
+FT                   /note="PTHrP[1-36]"
+FT                   /id="PRO_0000023226"
+FT   PEPTIDE         74..130
+FT                   /note="PTHrP[38-94]"
+FT                   /id="PRO_0000023227"
+FT   PEPTIDE         143..175
+FT                   /note="Osteostatin"
+FT                   /id="PRO_0000023228"
+FT   REGION          57..68
+FT                   /note="Important for receptor binding"
+FT   REGION          74..177
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           108..129
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000269|PubMed:11401507"
+FT   COMPBIAS        74..92
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        124..140
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         176..177
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:3290897"
+FT                   /id="VSP_004534"
+FT   VAR_SEQ         176..177
+FT                   /note="RH -> TALLWGLKKKKENNRRTHHMQLMISLFKSPLLLL (in isoform
+FT                   3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_004535"
+FT   VARIANT         44
+FT                   /note="L -> P (in BDE2; dbSNP:rs267606986)"
+FT                   /evidence="ECO:0000269|PubMed:20170896"
+FT                   /id="VAR_063711"
+FT   VARIANT         60
+FT                   /note="L -> P (in BDE2; dbSNP:rs267606985)"
+FT                   /evidence="ECO:0000269|PubMed:20170896"
+FT                   /id="VAR_063712"
+FT   VARIANT         169
+FT                   /note="S -> T (in a breast cancer sample; somatic
+FT                   mutation)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_036433"
+FT   MUTAGEN         57
+FT                   /note="R->A: Strongly reduced affinity for PTH1R."
+FT                   /evidence="ECO:0000269|PubMed:19674967"
+FT   MUTAGEN         59
+FT                   /note="F->A: Reduced affinity for PTH1R."
+FT                   /evidence="ECO:0000269|PubMed:19674967"
+FT   MUTAGEN         60
+FT                   /note="L->A,K: Strongly reduced affinity for PTH1R."
+FT                   /evidence="ECO:0000269|PubMed:19674967"
+FT   MUTAGEN         63
+FT                   /note="L->A: Reduced affinity for PTH1R."
+FT                   /evidence="ECO:0000269|PubMed:19674967"
+FT   MUTAGEN         64
+FT                   /note="I->A: Reduced affinity for PTH1R."
+FT                   /evidence="ECO:0000269|PubMed:19674967"
+FT   MUTAGEN         68
+FT                   /note="H->A: Reduced affinity for PTH1R."
+FT                   /evidence="ECO:0000269|PubMed:19674967"
+FT   HELIX           41..44
+FT                   /evidence="ECO:0007829|PDB:1BZG"
+FT   HELIX           52..67
+FT                   /evidence="ECO:0007829|PDB:7UZO"
+FT   STRAND          114..116
+FT                   /evidence="ECO:0007829|PDB:1M5N"
+FT   HELIX           117..119
+FT                   /evidence="ECO:0007829|PDB:1M5N"
+SQ   SEQUENCE   177 AA;  20194 MW;  449FDFEE954C51DB CRC64;
+     MQRRLVQQWS VAVFLLSYAV PSCGRSVEGL SRRLKRAVSE HQLLHDKGKS IQDLRRRFFL
+     HHLIAEIHTA EIRATSEVSP NSKPSPNTKN HPVRFGSDDE GRYLTQETNK VETYKEQPLK
+     TPGKKKKGKP GKRKEQEKKK RRTRSAWLDS GVTGSGLEGD HLSDTSTTSL ELDSRRH
+//

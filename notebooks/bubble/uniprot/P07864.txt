@@ -1,0 +1,319 @@
+ID   LDHC_HUMAN              Reviewed;         332 AA.
+AC   P07864; D3DQY4; Q6GSG8; Q7Z7J4;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   28-JUN-2023, entry version 212.
+DE   RecName: Full=L-lactate dehydrogenase C chain;
+DE            Short=LDH-C;
+DE            EC=1.1.1.27;
+DE   AltName: Full=Cancer/testis antigen 32;
+DE            Short=CT32;
+DE   AltName: Full=LDH testis subunit;
+DE   AltName: Full=LDH-X;
+GN   Name=LDHC; Synonyms=LDH3, LDHX;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=2440048; DOI=10.1073/pnas.84.15.5311;
+RA   Millan J.L., Driscoll C.E., Goldberg E.;
+RT   "Epitopes of human testis-specific lactate dehydrogenase deduced from a
+RT   cDNA sequence.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84:5311-5315(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2930531; DOI=10.1016/0006-291x(89)90033-8;
+RA   Takano T., Li S.S.-L.;
+RT   "Human testicular lactate dehydrogenase-C gene is interrupted by six
+RT   introns at positions homologous to those of LDH-A (muscle) and LDH-B
+RT   (heart) genes.";
+RL   Biochem. Biophys. Res. Commun. 159:579-583(1989).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Wu K., Li S.S.-L.;
+RT   "Human testicular lactate dehydrogenase-C gene: cDNA sequence and putative
+RT   alternative splicing at the 5' noncoding region.";
+RL   J. Genet. Mol. Biol. 1:72-76(1990).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND POSSIBLE FUNCTION.
+RC   TISSUE=Testis;
+RX   PubMed=14985855; DOI=10.1007/s00109-004-0526-3;
+RA   Wang H., Zhou Z., Xu M., Li J., Xiao J., Xu Z.-Y., Sha J.;
+RT   "A spermatogenesis-related gene expression profile in human spermatozoa and
+RT   its potential clinical applications.";
+RL   J. Mol. Med. 82:317-324(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-301, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+CC   -!- FUNCTION: Possible role in sperm motility.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(S)-lactate + NAD(+) = H(+) + NADH + pyruvate;
+CC         Xref=Rhea:RHEA:23444, ChEBI:CHEBI:15361, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:16651, ChEBI:CHEBI:57540, ChEBI:CHEBI:57945; EC=1.1.1.27;
+CC   -!- PATHWAY: Fermentation; pyruvate fermentation to lactate; (S)-lactate
+CC       from pyruvate: step 1/1.
+CC   -!- SUBUNIT: Homotetramer. Interacts with RABL2/RABL2A; binds
+CC       preferentially to GTP-bound RABL2 (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- SIMILARITY: Belongs to the LDH/MDH superfamily. LDH family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Lactate dehydrogenase entry;
+CC       URL="https://en.wikipedia.org/wiki/Lactate_dehydrogenase";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; J02938; AAA59507.1; -; mRNA.
+DR   EMBL; AH002865; AAA59508.1; -; Genomic_DNA.
+DR   EMBL; U13680; AAA21348.1; -; mRNA.
+DR   EMBL; AY286300; AAP37402.1; -; mRNA.
+DR   EMBL; CH471064; EAW68392.1; -; Genomic_DNA.
+DR   EMBL; CH471064; EAW68394.1; -; Genomic_DNA.
+DR   EMBL; BC019249; AAH19249.3; -; mRNA.
+DR   EMBL; BC064388; AAH64388.1; -; mRNA.
+DR   EMBL; BC090043; AAH90043.1; -; mRNA.
+DR   CCDS; CCDS7840.1; -.
+DR   PIR; A30933; DEHULC.
+DR   RefSeq; NP_002292.1; NM_002301.4.
+DR   RefSeq; NP_059144.1; NM_017448.3.
+DR   PDB; 7EPM; X-ray; 3.00 A; A/B=2-332.
+DR   PDBsum; 7EPM; -.
+DR   AlphaFoldDB; P07864; -.
+DR   SMR; P07864; -.
+DR   BioGRID; 110140; 40.
+DR   ComplexPortal; CPX-6602; L-lactate dehydrogenase C complex.
+DR   IntAct; P07864; 7.
+DR   STRING; 9606.ENSP00000437783; -.
+DR   DrugBank; DB00157; NADH.
+DR   iPTMnet; P07864; -.
+DR   PhosphoSitePlus; P07864; -.
+DR   SwissPalm; P07864; -.
+DR   BioMuta; LDHC; -.
+DR   DMDM; 76363520; -.
+DR   EPD; P07864; -.
+DR   jPOST; P07864; -.
+DR   MassIVE; P07864; -.
+DR   MaxQB; P07864; -.
+DR   PaxDb; P07864; -.
+DR   PeptideAtlas; P07864; -.
+DR   ProteomicsDB; 52030; -.
+DR   Antibodypedia; 25085; 279 antibodies from 33 providers.
+DR   DNASU; 3948; -.
+DR   Ensembl; ENST00000280704.8; ENSP00000280704.3; ENSG00000166796.12.
+DR   Ensembl; ENST00000541669.6; ENSP00000437783.1; ENSG00000166796.12.
+DR   GeneID; 3948; -.
+DR   KEGG; hsa:3948; -.
+DR   MANE-Select; ENST00000541669.6; ENSP00000437783.1; NM_017448.5; NP_059144.1.
+DR   UCSC; uc001mom.5; human.
+DR   AGR; HGNC:6544; -.
+DR   CTD; 3948; -.
+DR   DisGeNET; 3948; -.
+DR   GeneCards; LDHC; -.
+DR   HGNC; HGNC:6544; LDHC.
+DR   HPA; ENSG00000166796; Tissue enriched (testis).
+DR   MIM; 150150; gene.
+DR   neXtProt; NX_P07864; -.
+DR   OpenTargets; ENSG00000166796; -.
+DR   PharmGKB; PA30328; -.
+DR   VEuPathDB; HostDB:ENSG00000166796; -.
+DR   eggNOG; KOG1495; Eukaryota.
+DR   GeneTree; ENSGT00940000161479; -.
+DR   HOGENOM; CLU_045401_0_2_1; -.
+DR   InParanoid; P07864; -.
+DR   OMA; FDEIMIN; -.
+DR   OrthoDB; 5344346at2759; -.
+DR   PhylomeDB; P07864; -.
+DR   TreeFam; TF314963; -.
+DR   BRENDA; 1.1.1.27; 2681.
+DR   PathwayCommons; P07864; -.
+DR   Reactome; R-HSA-70268; Pyruvate metabolism.
+DR   SignaLink; P07864; -.
+DR   UniPathway; UPA00554; UER00611.
+DR   BioGRID-ORCS; 3948; 8 hits in 1151 CRISPR screens.
+DR   ChiTaRS; LDHC; human.
+DR   GenomeRNAi; 3948; -.
+DR   Pharos; P07864; Tbio.
+DR   PRO; PR:P07864; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; P07864; protein.
+DR   Bgee; ENSG00000166796; Expressed in left testis and 136 other tissues.
+DR   ExpressionAtlas; P07864; baseline and differential.
+DR   Genevisible; P07864; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005739; C:mitochondrion; IBA:GO_Central.
+DR   GO; GO:0031514; C:motile cilium; IEA:Ensembl.
+DR   GO; GO:0005634; C:nucleus; HDA:UniProtKB.
+DR   GO; GO:1990204; C:oxidoreductase complex; NAS:ComplexPortal.
+DR   GO; GO:0004459; F:L-lactate dehydrogenase activity; IBA:GO_Central.
+DR   GO; GO:0006754; P:ATP biosynthetic process; IEA:Ensembl.
+DR   GO; GO:0030317; P:flagellated sperm motility; IEA:Ensembl.
+DR   GO; GO:0019244; P:lactate biosynthetic process from pyruvate; IEA:Ensembl.
+DR   GO; GO:0006089; P:lactate metabolic process; IBA:GO_Central.
+DR   GO; GO:0019516; P:lactate oxidation; IEA:Ensembl.
+DR   GO; GO:0042867; P:pyruvate catabolic process; IEA:Ensembl.
+DR   GO; GO:0006090; P:pyruvate metabolic process; IBA:GO_Central.
+DR   CDD; cd05293; LDH_1; 1.
+DR   Gene3D; 3.90.110.10; Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal; 1.
+DR   Gene3D; 3.40.50.720; NAD(P)-binding Rossmann-like Domain; 1.
+DR   HAMAP; MF_00488; Lactate_dehydrog; 1.
+DR   InterPro; IPR001557; L-lactate/malate_DH.
+DR   InterPro; IPR011304; L-lactate_DH.
+DR   InterPro; IPR018177; L-lactate_DH_AS.
+DR   InterPro; IPR022383; Lactate/malate_DH_C.
+DR   InterPro; IPR001236; Lactate/malate_DH_N.
+DR   InterPro; IPR015955; Lactate_DH/Glyco_Ohase_4_C.
+DR   InterPro; IPR036291; NAD(P)-bd_dom_sf.
+DR   PANTHER; PTHR43128; L-2-HYDROXYCARBOXYLATE DEHYDROGENASE (NAD(P)(+)); 1.
+DR   PANTHER; PTHR43128:SF5; L-LACTATE DEHYDROGENASE C CHAIN; 1.
+DR   Pfam; PF02866; Ldh_1_C; 1.
+DR   Pfam; PF00056; Ldh_1_N; 1.
+DR   PIRSF; PIRSF000102; Lac_mal_DH; 1.
+DR   PRINTS; PR00086; LLDHDRGNASE.
+DR   SUPFAM; SSF56327; LDH C-terminal domain-like; 1.
+DR   SUPFAM; SSF51735; NAD(P)-binding Rossmann-fold domains; 1.
+DR   PROSITE; PS00064; L_LDH; 1.
+DR   TIGRFAMs; TIGR01771; L-LDH-NAD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytoplasm; NAD; Oxidoreductase; Phosphoprotein;
+KW   Reference proteome.
+FT   CHAIN           1..332
+FT                   /note="L-lactate dehydrogenase C chain"
+FT                   /id="PRO_0000168479"
+FT   ACT_SITE        193
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         29..57
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         99
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         106
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         138
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         138
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         169
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         248
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         301
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   VARIANT         285
+FT                   /note="E -> Q (in dbSNP:rs2230150)"
+FT                   /id="VAR_034068"
+FT   CONFLICT        77
+FT                   /note="I -> V (in Ref. 1; AAA59507 and 2; AAA59508)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        82
+FT                   /note="D -> G (in Ref. 4; AAP37402)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        119
+FT                   /note="S -> I (in Ref. 1; AAA59507)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           4..8
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          20..26
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           30..41
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          46..51
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           55..66
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           67..71
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          76..79
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           83..86
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          90..94
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          102..105
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           107..127
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          132..135
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          137..139
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           140..151
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           155..157
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          158..160
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           164..178
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   TURN            182..184
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          189..194
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   TURN            201..203
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           211..214
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   TURN            216..219
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          220..222
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           228..245
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           250..264
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          269..276
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          288..296
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   STRAND          299..303
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+FT   HELIX           310..331
+FT                   /evidence="ECO:0007829|PDB:7EPM"
+SQ   SEQUENCE   332 AA;  36311 MW;  DF7047FF5BCB101B CRC64;
+     MSTVKEQLIE KLIEDDENSQ CKITIVGTGA VGMACAISIL LKDLADELAL VDVALDKLKG
+     EMMDLQHGSL FFSTSKITSG KDYSVSANSR IVIVTAGARQ QEGETRLALV QRNVAIMKSI
+     IPAIVHYSPD CKILVVSNPV DILTYIVWKI SGLPVTRVIG SGCNLDSARF RYLIGEKLGV
+     HPTSCHGWII GEHGDSSVPL WSGVNVAGVA LKTLDPKLGT DSDKEHWKNI HKQVIQSAYE
+     IIKLKGYTSW AIGLSVMDLV GSILKNLRRV HPVSTMVKGL YGIKEELFLS IPCVLGRNGV
+     SDVVKINLNS EEEALFKKSA ETLWNIQKDL IF
+//

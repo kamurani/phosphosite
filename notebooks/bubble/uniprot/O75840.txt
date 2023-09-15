@@ -1,0 +1,398 @@
+ID   KLF7_HUMAN              Reviewed;         302 AA.
+AC   O75840; B2RB03; B7Z4F7; C9JF04; E7EWH1; L0R4P2; Q7Z3H8; Q96E51;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1998, sequence version 1.
+DT   28-JUN-2023, entry version 176.
+DE   RecName: Full=Krueppel-like factor 7;
+DE   AltName: Full=Ubiquitous krueppel-like factor {ECO:0000303|PubMed:9774444};
+GN   Name=KLF7 {ECO:0000312|HGNC:HGNC:6350};
+GN   Synonyms=UKLF {ECO:0000303|PubMed:9774444};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, SUBCELLULAR
+RP   LOCATION, AND FUNCTION.
+RC   TISSUE=Brain;
+RX   PubMed=9774444; DOI=10.1074/jbc.273.43.28229;
+RA   Matsumoto N., Laub F., Aldabe R., Zhang W., Ramirez F., Yoshida T.,
+RA   Terada M.;
+RT   "Cloning the cDNA for a new human zinc finger protein defines a group of
+RT   closely related Krueppel-like transcription factors.";
+RL   J. Biol. Chem. 273:28229-28237(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 5 AND 6), AND ALTERNATIVE SPLICING.
+RX   PubMed=23134681; DOI=10.1096/fj.12-220319;
+RA   Camacho-Vanegas O., Till J., Miranda-Lorenzo I., Ozturk B., Camacho S.C.,
+RA   Martignetti J.A.;
+RT   "Shaking the family tree: Identification of novel and biologically active
+RT   alternatively spliced isoforms across the KLF family of transcription
+RT   factors.";
+RL   FASEB J. 27:432-436(2013).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Heart;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Halleck A., Ebert L., Mkoundinya M., Schick M., Eisenstein S., Neubert P.,
+RA   Kstrang K., Schatten R., Shen B., Henze S., Mar W., Korn B., Zuo D., Hu Y.,
+RA   LaBaer J.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 4).
+RC   TISSUE=Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=16339272; DOI=10.1210/me.2005-0138;
+RA   Kawamura Y., Tanaka Y., Kawamori R., Maeda S.;
+RT   "Overexpression of Kruppel-like factor 7 regulates adipocytokine gene
+RT   expressions in human adipocytes and inhibits glucose-induced insulin
+RT   secretion in pancreatic beta-cell line.";
+RL   Mol. Endocrinol. 20:844-856(2006).
+RN   [10]
+RP   TISSUE SPECIFICITY, AND FUNCTION.
+RX   PubMed=28916725; DOI=10.1074/jbc.m117.793117;
+RA   Klein R.H., Hu W., Kashgari G., Lin Z., Nguyen T., Doan M., Andersen B.;
+RT   "Characterization of enhancers and the role of the transcription factor
+RT   KLF7 in regulating corneal epithelial differentiation.";
+RL   J. Biol. Chem. 292:18937-18950(2017).
+RN   [11]
+RP   INACTIVATION OF 9AATAD MOTIF.
+RX   PubMed=31375868; DOI=10.1007/s00018-019-03251-w;
+RA   Piskacek M., Havelka M., Jendruchova K., Knight A., Keegan L.P.;
+RT   "The evolution of the 9aaTAD domain in Sp2 proteins: inactivation with
+RT   valines and intron reservoirs.";
+RL   Cell. Mol. Life Sci. 77:1793-1810(2020).
+RN   [12]
+RP   VARIANTS MET-137; SER-139 AND ASN-264.
+RX   PubMed=29251763; DOI=10.1111/cge.13198;
+RA   Powis Z., Petrik I., Cohen J.S., Escolar D., Burton J.,
+RA   van Ravenswaaij-Arts C.M.A., Sival D.A., Stegmann A.P.A., Kleefstra T.,
+RA   Pfundt R., Chikarmane R., Begtrup A., Huether R., Tang S., Shinde D.N.;
+RT   "De novo variants in KLF7 are a potential novel cause of developmental
+RT   delay/intellectual disability, neuromuscular and psychiatric symptoms.";
+RL   Clin. Genet. 93:1030-1038(2018).
+CC   -!- FUNCTION: Transcriptional factor (PubMed:9774444, PubMed:16339272).
+CC       Plays a critical role in neuronal morphogenesis and survival of sensory
+CC       neurons (By similarity). Represses the corneal epithelium
+CC       differentiation (PubMed:28916725). Acts also as a metabolic regulator,
+CC       by modulating insulin sensitivity in pancreatic beta cells and skeletal
+CC       muscle cells (PubMed:16339272). Inhibits transcriptional inducers of
+CC       adipogenesis and has a repressive role in the expression of several
+CC       adipokines, including leptin (PubMed:16339272).
+CC       {ECO:0000250|UniProtKB:Q99JB0, ECO:0000269|PubMed:16339272,
+CC       ECO:0000269|PubMed:28916725, ECO:0000269|PubMed:9774444}.
+CC   -!- SUBUNIT: Interacts with FBXO38. {ECO:0000250|UniProtKB:Q99JB0}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:9774444}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1;
+CC         IsoId=O75840-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O75840-2; Sequence=VSP_047030;
+CC       Name=3;
+CC         IsoId=O75840-3; Sequence=VSP_047032;
+CC       Name=4;
+CC         IsoId=O75840-4; Sequence=VSP_047031;
+CC       Name=5;
+CC         IsoId=O75840-5; Sequence=VSP_047478;
+CC       Name=6;
+CC         IsoId=O75840-6; Sequence=VSP_047477, VSP_047479;
+CC   -!- TISSUE SPECIFICITY: Widely expressed. {ECO:0000269|PubMed:16339272,
+CC       ECO:0000269|PubMed:9774444}.
+CC   -!- DOMAIN: The acidic N-terminal part may favor interaction with the basic
+CC       domain of transcription factors. {ECO:0000269|PubMed:9774444}.
+CC   -!- DOMAIN: The 9aaTAD motif is a transactivation domain present in a large
+CC       number of yeast and animal transcription factors. In KLF7, the motif is
+CC       inactive. {ECO:0000269|PubMed:31375868}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB015132; BAA33521.1; -; mRNA.
+DR   EMBL; HF546205; CCO02791.1; -; mRNA.
+DR   EMBL; HF546206; CCO02792.1; -; mRNA.
+DR   EMBL; BX537890; CAD97885.1; -; mRNA.
+DR   EMBL; CR542112; CAG46909.1; -; mRNA.
+DR   EMBL; AK297312; BAH12543.1; -; mRNA.
+DR   EMBL; AK314439; BAG37050.1; -; mRNA.
+DR   EMBL; AC007879; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC008062; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471063; EAW70400.1; -; Genomic_DNA.
+DR   EMBL; CH471063; EAW70402.1; -; Genomic_DNA.
+DR   EMBL; CH471063; EAW70403.1; -; Genomic_DNA.
+DR   EMBL; BC012919; AAH12919.1; -; mRNA.
+DR   CCDS; CCDS2373.1; -. [O75840-1]
+DR   CCDS; CCDS59438.1; -. [O75840-4]
+DR   CCDS; CCDS59439.1; -. [O75840-3]
+DR   CCDS; CCDS59440.1; -. [O75840-2]
+DR   RefSeq; NP_001257871.1; NM_001270942.1. [O75840-3]
+DR   RefSeq; NP_001257872.1; NM_001270943.1. [O75840-2]
+DR   RefSeq; NP_001257873.1; NM_001270944.1. [O75840-4]
+DR   RefSeq; NP_003700.1; NM_003709.3. [O75840-1]
+DR   RefSeq; XP_016860650.1; XM_017005161.1. [O75840-1]
+DR   RefSeq; XP_016860653.1; XM_017005164.1. [O75840-3]
+DR   AlphaFoldDB; O75840; -.
+DR   SMR; O75840; -.
+DR   BioGRID; 114168; 5.
+DR   STRING; 9606.ENSP00000309570; -.
+DR   GlyGen; O75840; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; O75840; -.
+DR   PhosphoSitePlus; O75840; -.
+DR   BioMuta; KLF7; -.
+DR   jPOST; O75840; -.
+DR   MassIVE; O75840; -.
+DR   MaxQB; O75840; -.
+DR   PaxDb; O75840; -.
+DR   PeptideAtlas; O75840; -.
+DR   ProteomicsDB; 18843; -.
+DR   ProteomicsDB; 50223; -. [O75840-1]
+DR   ProteomicsDB; 6598; -.
+DR   ProteomicsDB; 69052; -.
+DR   Antibodypedia; 34186; 290 antibodies from 28 providers.
+DR   DNASU; 8609; -.
+DR   Ensembl; ENST00000309446.11; ENSP00000309570.6; ENSG00000118263.16. [O75840-1]
+DR   Ensembl; ENST00000421199.5; ENSP00000387510.1; ENSG00000118263.16. [O75840-2]
+DR   Ensembl; ENST00000423015.5; ENSP00000398572.1; ENSG00000118263.16. [O75840-3]
+DR   Ensembl; ENST00000435602.2; ENSP00000413590.2; ENSG00000118263.16. [O75840-4]
+DR   Ensembl; ENST00000458272.2; ENSP00000393268.1; ENSG00000118263.16. [O75840-5]
+DR   Ensembl; ENST00000703734.1; ENSP00000515454.1; ENSG00000118263.16. [O75840-3]
+DR   GeneID; 8609; -.
+DR   KEGG; hsa:8609; -.
+DR   MANE-Select; ENST00000309446.11; ENSP00000309570.6; NM_003709.4; NP_003700.1.
+DR   UCSC; uc002vbz.3; human. [O75840-1]
+DR   AGR; HGNC:6350; -.
+DR   CTD; 8609; -.
+DR   DisGeNET; 8609; -.
+DR   GeneCards; KLF7; -.
+DR   HGNC; HGNC:6350; KLF7.
+DR   HPA; ENSG00000118263; Low tissue specificity.
+DR   MIM; 604865; gene.
+DR   neXtProt; NX_O75840; -.
+DR   OpenTargets; ENSG00000118263; -.
+DR   PharmGKB; PA30140; -.
+DR   VEuPathDB; HostDB:ENSG00000118263; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000155235; -.
+DR   HOGENOM; CLU_002678_33_4_1; -.
+DR   InParanoid; O75840; -.
+DR   OMA; FLHATPH; -.
+DR   OrthoDB; 3168417at2759; -.
+DR   PhylomeDB; O75840; -.
+DR   TreeFam; TF350556; -.
+DR   PathwayCommons; O75840; -.
+DR   SignaLink; O75840; -.
+DR   SIGNOR; O75840; -.
+DR   BioGRID-ORCS; 8609; 89 hits in 1165 CRISPR screens.
+DR   ChiTaRS; KLF7; human.
+DR   GeneWiki; KLF7; -.
+DR   GenomeRNAi; 8609; -.
+DR   Pharos; O75840; Tbio.
+DR   PRO; PR:O75840; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; O75840; protein.
+DR   Bgee; ENSG00000118263; Expressed in buccal mucosa cell and 203 other tissues.
+DR   ExpressionAtlas; O75840; baseline and differential.
+DR   Genevisible; O75840; HS.
+DR   GO; GO:0000785; C:chromatin; ISA:NTNU_SB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IDA:UniProtKB.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:0008270; F:zinc ion binding; TAS:ProtInc.
+DR   GO; GO:0007411; P:axon guidance; ISS:UniProtKB.
+DR   GO; GO:0007409; P:axonogenesis; ISS:UniProtKB.
+DR   GO; GO:0048813; P:dendrite morphogenesis; ISS:UniProtKB.
+DR   GO; GO:0042593; P:glucose homeostasis; IMP:UniProtKB.
+DR   GO; GO:1904178; P:negative regulation of adipose tissue development; IMP:UniProtKB.
+DR   GO; GO:0061179; P:negative regulation of insulin secretion involved in cellular response to glucose stimulus; IMP:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IMP:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:NTNU_SB.
+DR   GO; GO:0045604; P:regulation of epidermal cell differentiation; IMP:UniProtKB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd21585; KLF7_N; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 3.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23235:SF77; KRUEPPEL-LIKE FACTOR 7; 1.
+DR   PANTHER; PTHR23235; KRUEPPEL-LIKE TRANSCRIPTION FACTOR; 1.
+DR   Pfam; PF00096; zf-C2H2; 3.
+DR   SMART; SM00355; ZnF_C2H2; 3.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 2.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 3.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 3.
+PE   1: Evidence at protein level;
+KW   Activator; Alternative splicing; Disease variant; DNA-binding;
+KW   Metal-binding; Nucleus; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..302
+FT                   /note="Krueppel-like factor 7"
+FT                   /id="PRO_0000047174"
+FT   ZN_FING         219..243
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         249..273
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         279..301
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   MOTIF           93..101
+FT                   /note="9aaTAD; inactive"
+FT                   /evidence="ECO:0000269|PubMed:31375868"
+FT   MOTIF           215..220
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         1..34
+FT                   /note="MDVLASYSIFQELQLVHDTGYFSALPSLEETWQQ -> M (in isoform
+FT                   2)"
+FT                   /evidence="ECO:0000303|PubMed:11230166"
+FT                   /id="VSP_047030"
+FT   VAR_SEQ         1..34
+FT                   /note="MDVLASYSIFQELQLVHDTGYFSALPSLEETWQQ -> MFPSWP (in
+FT                   isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_047031"
+FT   VAR_SEQ         35..87
+FT                   /note="TCLELERYLQTEPRRISETFGEDLDCFLHASPPPCIEESFRRLDPLLLPVEA
+FT                   A -> VRSLISAHGRDVSGVLHEAMSSRGTTGNTQVQSPSNATTATGVFPGLTILPST
+FT                   (in isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:23134681"
+FT                   /id="VSP_047477"
+FT   VAR_SEQ         55..244
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:23134681"
+FT                   /id="VSP_047478"
+FT   VAR_SEQ         88..302
+FT                   /note="Missing (in isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:23134681"
+FT                   /id="VSP_047479"
+FT   VAR_SEQ         179..302
+FT                   /note="GGVATAAAAVTAAGAVKSGQSDSDQGGLGAEACPENKKRVHRCQFNGCRKVY
+FT                   TKSSHLKAHQRTHTGEKPYKCSWEGCEWRFARSDELTRHYRKHTGAKPFKCNHCDRCFS
+FT                   RSDHLALHMKRHI -> RSLISAHGRDVSGVLHEAMSSRGTTGNTQVQSPSNATTATGV
+FT                   FPGLTILPST (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_047032"
+FT   VARIANT         137
+FT                   /note="T -> M (found in two patients with developmental
+FT                   delay/intellectual disability, neuromuscular and
+FT                   psychiatric symptoms; unknown pathological significance;
+FT                   dbSNP:rs1276619385)"
+FT                   /evidence="ECO:0000269|PubMed:29251763"
+FT                   /id="VAR_081574"
+FT   VARIANT         139
+FT                   /note="P -> S (found in a patient with developmental
+FT                   delay/intellectual disability, neuromuscular and
+FT                   psychiatric symptoms; unknown pathological significance)"
+FT                   /evidence="ECO:0000269|PubMed:29251763"
+FT                   /id="VAR_081575"
+FT   VARIANT         264
+FT                   /note="D -> N (found in a patient with developmental
+FT                   delay/intellectual disability, neuromuscular and
+FT                   psychiatric symptoms; unknown pathological significance;
+FT                   dbSNP:rs1057518995)"
+FT                   /evidence="ECO:0000269|PubMed:29251763"
+FT                   /id="VAR_081576"
+SQ   SEQUENCE   302 AA;  33362 MW;  95141CE3A42C5774 CRC64;
+     MDVLASYSIF QELQLVHDTG YFSALPSLEE TWQQTCLELE RYLQTEPRRI SETFGEDLDC
+     FLHASPPPCI EESFRRLDPL LLPVEAAICE KSSAVDILLS RDKLLSETCL SLQPASSSLD
+     SYTAVNQAQL NAVTSLTPPS SPELSRHLVK TSQTLSAVDG TVTLKLVAKK AALSSVKVGG
+     VATAAAAVTA AGAVKSGQSD SDQGGLGAEA CPENKKRVHR CQFNGCRKVY TKSSHLKAHQ
+     RTHTGEKPYK CSWEGCEWRF ARSDELTRHY RKHTGAKPFK CNHCDRCFSR SDHLALHMKR
+     HI
+//

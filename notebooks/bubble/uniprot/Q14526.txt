@@ -1,0 +1,491 @@
+ID   HIC1_HUMAN              Reviewed;         733 AA.
+AC   Q14526; D3DTI4;
+DT   02-MAY-2002, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 5.
+DT   28-JUN-2023, entry version 200.
+DE   RecName: Full=Hypermethylated in cancer 1 protein;
+DE            Short=Hic-1;
+DE   AltName: Full=Zinc finger and BTB domain-containing protein 29;
+GN   Name=HIC1; Synonyms=ZBTB29;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 2), AND VARIANT GLY-725.
+RX   PubMed=7585125; DOI=10.1038/nm0695-570;
+RA   Wales M.M., Biel M.A., el Deiry W., Nelkin B.D., Issa J.-P., Cavenee W.K.,
+RA   Kuerbitz S.J., Baylin S.B.;
+RT   "p53 activates expression of HIC-1, a new candidate tumour suppressor gene
+RT   on 17p13.3.";
+RL   Nat. Med. 1:570-577(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   SELF-ASSOCIATION.
+RX   PubMed=10611298; DOI=10.1073/pnas.96.26.14831;
+RA   Deltour S., Guerardel C., Leprince D.;
+RT   "Recruitment of SMRT/N-CoR-mSin3A-HDAC-repressing complexes is not a
+RT   general mechanism for BTB/POZ transcriptional repressors: the case of HIC-1
+RT   and gammaFBP-B.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:14831-14836(1999).
+RN   [5]
+RP   ALTERNATIVE SPLICING, INTERACTION WITH HIC2, AND SUBCELLULAR LOCATION.
+RX   PubMed=11554746; DOI=10.1006/bbrc.2001.5624;
+RA   Deltour S., Pinte S., Guerardel C., Leprince D.;
+RT   "Characterization of HRG22, a human homologue of the putative tumor
+RT   suppressor gene HIC1.";
+RL   Biochem. Biophys. Res. Commun. 287:427-434(2001).
+RN   [6]
+RP   FUNCTION, SELF-ASSOCIATION, AND INTERACTION WITH CTBP1.
+RX   PubMed=12052894; DOI=10.1128/mcb.22.13.4890-4901.2002;
+RA   Deltour S., Pinte S., Guerardel C., Wasylyk B., Leprince D.;
+RT   "The human candidate tumor suppressor gene HIC1 recruits CtBP through a
+RT   degenerate GLDLSKK motif.";
+RL   Mol. Cell. Biol. 22:4890-4901(2002).
+RN   [7]
+RP   FUNCTION, DNA-BINDING, AND MUTAGENESIS OF CYS-540.
+RX   PubMed=15231840; DOI=10.1074/jbc.m401610200;
+RA   Pinte S., Stankovic-Valentin N., Deltour S., Rood B.R., Guerardel C.,
+RA   Leprince D.;
+RT   "The tumor suppressor gene HIC1 (hypermethylated in cancer 1) is a
+RT   sequence-specific transcriptional repressor: definition of its consensus
+RT   binding sequence and analysis of its DNA binding and repressive
+RT   properties.";
+RL   J. Biol. Chem. 279:38313-38324(2004).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=16269335; DOI=10.1016/j.cell.2005.08.011;
+RA   Chen W.Y., Wang D.H., Yen R.C., Luo J., Gu W., Baylin S.B.;
+RT   "Tumor suppressor HIC1 directly regulates SIRT1 to modulate p53-dependent
+RT   DNA-damage responses.";
+RL   Cell 123:437-448(2005).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=16690027; DOI=10.1016/j.bbrc.2006.04.052;
+RA   Briones V.R., Chen S., Riegel A.T., Lechleider R.J.;
+RT   "Mechanism of fibroblast growth factor-binding protein 1 repression by TGF-
+RT   beta.";
+RL   Biochem. Biophys. Res. Commun. 345:595-601(2006).
+RN   [10]
+RP   FUNCTION IN WNT SIGNALING, AND INTERACTION WITH TCF7L2.
+RX   PubMed=16724116; DOI=10.1038/sj.emboj.7601147;
+RA   Valenta T., Lukas J., Doubravska L., Fafilek B., Korinek V.;
+RT   "HIC1 attenuates Wnt signaling by recruitment of TCF-4 and beta-catenin to
+RT   the nuclear bodies.";
+RL   EMBO J. 25:2326-2337(2006).
+RN   [11]
+RP   INTERACTION WITH CTBP1 AND CTBP2, AND MUTAGENESIS OF LEU-244.
+RX   PubMed=16762039; DOI=10.1111/j.1742-4658.2006.05301.x;
+RA   Stankovic-Valentin N., Verger A., Deltour-Balerdi S., Quinlan K.G.,
+RA   Crossley M., Leprince D.;
+RT   "A L225A substitution in the human tumour suppressor HIC1 abolishes its
+RT   interaction with the corepressor CtBP.";
+RL   FEBS J. 273:2879-2890(2006).
+RN   [12]
+RP   SUMOYLATION AT LYS-333, ACETYLATION AT LYS-333, AND MUTAGENESIS OF LYS-333;
+RP   GLU-335 AND PRO-336.
+RX   PubMed=17283066; DOI=10.1128/mcb.01098-06;
+RA   Stankovic-Valentin N., Deltour S., Seeler J., Pinte S., Vergoten G.,
+RA   Guerardel C., Dejean A., Leprince D.;
+RT   "An acetylation/deacetylation-SUMOylation switch through a phylogenetically
+RT   conserved psiKXEP motif in the tumor suppressor HIC1 regulates
+RT   transcriptional repression activity.";
+RL   Mol. Cell. Biol. 27:2661-2675(2007).
+RN   [13]
+RP   RETRACTED PAPER.
+RX   PubMed=17213307; DOI=10.1073/pnas.0610590104;
+RA   Zhang Q., Wang S.Y., Fleuriel C., Leprince D., Rocheleau J.V., Piston D.W.,
+RA   Goodman R.H.;
+RT   "Metabolic regulation of SIRT1 transcription via a HIC1:CtBP corepressor
+RT   complex.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:829-833(2007).
+RN   [14]
+RP   RETRACTION NOTICE OF PUBMED:17213307.
+RX   PubMed=25646486; DOI=10.1073/pnas.1501052112;
+RA   Zhang Q., Wang S.Y., Fleuriel C., Dominique L., Rocheleau J.V.,
+RA   Piston D.W., Goodman R.H.;
+RL   Proc. Natl. Acad. Sci. U.S.A. 112:E819-E819(2015).
+RN   [15]
+RP   FUNCTION.
+RX   PubMed=18347096; DOI=10.1101/gad.1640908;
+RA   Briggs K.J., Corcoran-Schwartz I.M., Zhang W., Harcke T., Devereux W.L.,
+RA   Baylin S.B., Eberhart C.G., Watkins D.N.;
+RT   "Cooperation between the Hic1 and Ptch1 tumor suppressors in
+RT   medulloblastoma.";
+RL   Genes Dev. 22:770-785(2008).
+RN   [16]
+RP   ERRATUM OF PUBMED:18347096.
+RA   Briggs K.J., Corcoran-Schwartz I.M., Zhang W., Harcke T., Devereux W.L.,
+RA   Baylin S.B., Eberhart C.G., Watkins D.N.;
+RL   Genes Dev. 22:1410-1410(2008).
+RN   [17]
+RP   FUNCTION, AND INTERACTION WITH ARID1A.
+RX   PubMed=19486893; DOI=10.1016/j.bbrc.2009.05.115;
+RA   Van Rechem C., Boulay G., Leprince D.;
+RT   "HIC1 interacts with a specific subunit of SWI/SNF complexes,
+RT   ARID1A/BAF250A.";
+RL   Biochem. Biophys. Res. Commun. 385:586-590(2009).
+RN   [18]
+RP   FUNCTION.
+RX   PubMed=19525223; DOI=10.1074/jbc.m109.022350;
+RA   Van Rechem C., Rood B.R., Touka M., Pinte S., Jenal M., Guerardel C.,
+RA   Ramsey K., Monte D., Begue A., Tschan M.P., Stephan D.A., Leprince D.;
+RT   "Scavenger chemokine (CXC motif) receptor 7 (CXCR7) is a direct target gene
+RT   of HIC1 (hypermethylated in cancer 1).";
+RL   J. Biol. Chem. 284:20927-20935(2009).
+RN   [19]
+RP   FUNCTION, INTERACTION WITH MTA1 AND MBD3, AND MUTAGENESIS OF LYS-333;
+RP   GLU-335 AND PRO-336.
+RX   PubMed=20547755; DOI=10.1128/mcb.00582-09;
+RA   Van Rechem C., Boulay G., Pinte S., Stankovic-Valentin N., Guerardel C.,
+RA   Leprince D.;
+RT   "Differential regulation of HIC1 target genes by CtBP and NuRD, via an
+RT   acetylation/SUMOylation switch, in quiescent versus proliferating cells.";
+RL   Mol. Cell. Biol. 30:4045-4059(2010).
+RN   [20]
+RP   FUNCTION.
+RX   PubMed=20154726; DOI=10.1038/onc.2010.12;
+RA   Zhang W., Zeng X., Briggs K.J., Beaty R., Simons B., Chiu Yen R.W.,
+RA   Tyler M.A., Tsai H.C., Ye Y., Gesell G.S., Herman J.G., Baylin S.B.,
+RA   Watkins D.N.;
+RT   "A potential tumor suppressor role for Hic1 in breast cancer through
+RT   transcriptional repression of ephrin-A1.";
+RL   Oncogene 29:2467-2476(2010).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-237; SER-248 AND SER-366, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+CC   -!- FUNCTION: Transcriptional repressor (PubMed:12052894, PubMed:15231840).
+CC       Recognizes and binds to the consensus sequence '5-
+CC       [CG]NG[CG]GGGCA[CA]CC-3' (PubMed:15231840). May act as a tumor
+CC       suppressor (PubMed:20154726). Involved in development of head, face,
+CC       limbs and ventral body wall (By similarity). Involved in down-
+CC       regulation of SIRT1 and thereby is involved in regulation of p53/TP53-
+CC       dependent apoptotic DNA-damage responses (PubMed:16269335). The
+CC       specific target gene promoter association seems to be depend on
+CC       corepressors, such as CTBP1 or CTBP2 and MTA1 (PubMed:12052894,
+CC       PubMed:20547755). In cooperation with MTA1 (indicative for an
+CC       association with the NuRD complex) represses transcription from
+CC       CCND1/cyclin-D1 and CDKN1C/p57Kip2 specifically in quiescent cells
+CC       (PubMed:20547755). Involved in regulation of the Wnt signaling pathway
+CC       probably by association with TCF7L2 and preventing TCF7L2 and CTNNB1
+CC       association with promoters of TCF-responsive genes (PubMed:16724116).
+CC       Seems to repress transcription from E2F1 and ATOH1 which involves
+CC       ARID1A, indicative for the participation of a distinct SWI/SNF-type
+CC       chromatin-remodeling complex (PubMed:18347096, PubMed:19486893).
+CC       Probably represses transcription of ACKR3, FGFBP1 and EFNA1
+CC       (PubMed:16690027, PubMed:19525223, PubMed:20154726).
+CC       {ECO:0000250|UniProtKB:Q9R1Y5, ECO:0000269|PubMed:12052894,
+CC       ECO:0000269|PubMed:15231840, ECO:0000269|PubMed:16269335,
+CC       ECO:0000269|PubMed:16690027, ECO:0000269|PubMed:16724116,
+CC       ECO:0000269|PubMed:18347096, ECO:0000269|PubMed:19486893,
+CC       ECO:0000269|PubMed:19525223, ECO:0000269|PubMed:20154726,
+CC       ECO:0000269|PubMed:20547755}.
+CC   -!- SUBUNIT: Self-associates (PubMed:10611298, PubMed:12052894). Interacts
+CC       with HIC2 (PubMed:11554746). Interacts with CTBP1 and CTBP2
+CC       (PubMed:12052894, PubMed:16762039). Interacts with TCF7L2 and ARID1A
+CC       (PubMed:16724116, PubMed:19486893). Interacts with MTA1 and MBD3;
+CC       indicative for an association with the NuRD complex (PubMed:20547755).
+CC       Interacts with SIRT1 (By similarity). {ECO:0000250|UniProtKB:Q9R1Y5,
+CC       ECO:0000269|PubMed:10611298, ECO:0000269|PubMed:11554746,
+CC       ECO:0000269|PubMed:12052894, ECO:0000269|PubMed:16724116,
+CC       ECO:0000269|PubMed:16762039, ECO:0000269|PubMed:19486893,
+CC       ECO:0000269|PubMed:20547755}.
+CC   -!- INTERACTION:
+CC       Q14526; O14497: ARID1A; NbExp=2; IntAct=EBI-2507362, EBI-637887;
+CC       Q14526; Q13363: CTBP1; NbExp=2; IntAct=EBI-2507362, EBI-908846;
+CC       Q14526; P56545: CTBP2; NbExp=2; IntAct=EBI-2507362, EBI-741533;
+CC       Q14526; Q9NQB0: TCF7L2; NbExp=6; IntAct=EBI-2507362, EBI-924724;
+CC       Q14526; O88712: Ctbp1; Xeno; NbExp=10; IntAct=EBI-2507362, EBI-604547;
+CC       Q14526; P56546: Ctbp2; Xeno; NbExp=2; IntAct=EBI-2507362, EBI-1384883;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11554746}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=1;
+CC         IsoId=Q14526-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q14526-2; Sequence=VSP_006826;
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed with highest levels found in
+CC       lung, colon, prostate, thymus, testis and ovary. Expression is absent
+CC       or decreased in many tumor cells.
+CC   -!- DOMAIN: The BTB domain inhibits the binding to a single consensus
+CC       binding site, but mediates cooperative binding to multiple binding
+CC       sites.
+CC   -!- PTM: Acetylated on several residues, including Lys-333. Lys-333 is
+CC       deacetylated by SIRT1. {ECO:0000269|PubMed:17283066}.
+CC   -!- PTM: Sumoylated on Lys-333 by a PIAS family member, which enhances
+CC       interaction with MTA1, positively regulates transcriptional repression
+CC       activity and is enhanced by HDAC4. {ECO:0000269|PubMed:17283066}.
+CC   -!- MISCELLANEOUS: The HIC1 gene is frequently found epigenetically
+CC       silenced or deleted in different types of solid tumors.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. Hic subfamily. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/40819/HIC1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L41919; AAD09201.1; -; Genomic_DNA.
+DR   EMBL; AC090617; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471108; EAW90562.1; -; Genomic_DNA.
+DR   EMBL; CH471108; EAW90563.1; -; Genomic_DNA.
+DR   CCDS; CCDS42229.1; -. [Q14526-1]
+DR   CCDS; CCDS42230.1; -. [Q14526-2]
+DR   RefSeq; NP_001091672.1; NM_001098202.1. [Q14526-1]
+DR   RefSeq; NP_006488.2; NM_006497.3. [Q14526-2]
+DR   AlphaFoldDB; Q14526; -.
+DR   SMR; Q14526; -.
+DR   BioGRID; 109337; 38.
+DR   CORUM; Q14526; -.
+DR   ELM; Q14526; -.
+DR   IntAct; Q14526; 13.
+DR   MINT; Q14526; -.
+DR   STRING; 9606.ENSP00000314080; -.
+DR   GlyGen; Q14526; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q14526; -.
+DR   PhosphoSitePlus; Q14526; -.
+DR   BioMuta; HIC1; -.
+DR   DMDM; 296439502; -.
+DR   jPOST; Q14526; -.
+DR   MassIVE; Q14526; -.
+DR   PaxDb; Q14526; -.
+DR   PeptideAtlas; Q14526; -.
+DR   ProteomicsDB; 60028; -. [Q14526-1]
+DR   ProteomicsDB; 60029; -. [Q14526-2]
+DR   TopDownProteomics; Q14526-1; -. [Q14526-1]
+DR   Antibodypedia; 5361; 314 antibodies from 32 providers.
+DR   DNASU; 3090; -.
+DR   Ensembl; ENST00000322941.3; ENSP00000314080.3; ENSG00000177374.13. [Q14526-1]
+DR   Ensembl; ENST00000399849.4; ENSP00000382742.2; ENSG00000177374.13. [Q14526-2]
+DR   Ensembl; ENST00000619757.5; ENSP00000477858.1; ENSG00000177374.13. [Q14526-2]
+DR   GeneID; 3090; -.
+DR   KEGG; hsa:3090; -.
+DR   MANE-Select; ENST00000619757.5; ENSP00000477858.1; NM_006497.4; NP_006488.2. [Q14526-2]
+DR   UCSC; uc002fty.5; human. [Q14526-1]
+DR   AGR; HGNC:4909; -.
+DR   CTD; 3090; -.
+DR   DisGeNET; 3090; -.
+DR   GeneCards; HIC1; -.
+DR   HGNC; HGNC:4909; HIC1.
+DR   HPA; ENSG00000177374; Low tissue specificity.
+DR   MalaCards; HIC1; -.
+DR   MIM; 603825; gene.
+DR   neXtProt; NX_Q14526; -.
+DR   OpenTargets; ENSG00000177374; -.
+DR   Orphanet; 531; Miller-Dieker syndrome.
+DR   PharmGKB; PA29282; -.
+DR   VEuPathDB; HostDB:ENSG00000177374; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000161725; -.
+DR   HOGENOM; CLU_015352_1_0_1; -.
+DR   InParanoid; Q14526; -.
+DR   OrthoDB; 1378030at2759; -.
+DR   PhylomeDB; Q14526; -.
+DR   TreeFam; TF333488; -.
+DR   PathwayCommons; Q14526; -.
+DR   Reactome; R-HSA-3232118; SUMOylation of transcription factors.
+DR   SignaLink; Q14526; -.
+DR   SIGNOR; Q14526; -.
+DR   BioGRID-ORCS; 3090; 9 hits in 1204 CRISPR screens.
+DR   ChiTaRS; HIC1; human.
+DR   GeneWiki; HIC1; -.
+DR   GenomeRNAi; 3090; -.
+DR   Pharos; Q14526; Tbio.
+DR   PRO; PR:Q14526; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q14526; protein.
+DR   Bgee; ENSG00000177374; Expressed in cardiac muscle of right atrium and 123 other tissues.
+DR   ExpressionAtlas; Q14526; baseline and differential.
+DR   Genevisible; Q14526; HS.
+DR   GO; GO:0000785; C:chromatin; ISS:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; IDA:UniProtKB.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0042826; F:histone deacetylase binding; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IDA:UniProtKB.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:0008630; P:intrinsic apoptotic signaling pathway in response to DNA damage; IDA:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   GO; GO:0030178; P:negative regulation of Wnt signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0043517; P:positive regulation of DNA damage response, signal transduction by p53 class mediator; ISS:UniProtKB.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; TAS:UniProtKB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0016055; P:Wnt signaling pathway; IEA:UniProtKB-KW.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 4.
+DR   InterPro; IPR000210; BTB/POZ_dom.
+DR   InterPro; IPR011333; SKP1/BTB/POZ_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24394:SF16; HYPERMETHYLATED IN CANCER 1 PROTEIN; 1.
+DR   PANTHER; PTHR24394; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF00651; BTB; 1.
+DR   Pfam; PF00096; zf-C2H2; 4.
+DR   SMART; SM00225; BTB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 5.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 3.
+DR   SUPFAM; SSF54695; POZ domain; 1.
+DR   PROSITE; PS50097; BTB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 5.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 5.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Developmental protein; DNA-binding;
+KW   Isopeptide bond; Metal-binding; Methylation; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repeat; Repressor; Transcription;
+KW   Transcription regulation; Tumor suppressor; Ubl conjugation;
+KW   Wnt signaling pathway; Zinc; Zinc-finger.
+FT   CHAIN           1..733
+FT                   /note="Hypermethylated in cancer 1 protein"
+FT                   /id="PRO_0000046942"
+FT   DOMAIN          47..110
+FT                   /note="BTB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00037"
+FT   ZN_FING         439..459
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         509..529
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         537..557
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         565..585
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         593..613
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          154..315
+FT                   /note="Mediates HDAC-dependent transcriptional repression"
+FT   REGION          189..209
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          241..421
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          241..247
+FT                   /note="Interaction with CTBP1"
+FT   COMPBIAS        189..205
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        265..290
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        347..361
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         159
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9R1Y5"
+FT   MOD_RES         237
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         248
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         333
+FT                   /note="N6-acetyllysine; alternate"
+FT                   /evidence="ECO:0000269|PubMed:17283066"
+FT   MOD_RES         366
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         704
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9R1Y5"
+FT   CROSSLNK        333
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO); alternate"
+FT   VAR_SEQ         1..19
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_006826"
+FT   VARIANT         725
+FT                   /note="R -> G (in dbSNP:rs1063317)"
+FT                   /evidence="ECO:0000269|PubMed:7585125"
+FT                   /id="VAR_063109"
+FT   MUTAGEN         244
+FT                   /note="L->A: Abolishes interaction with CTBP1 and CTBP2.
+FT                   Impairs transcriptional repression."
+FT                   /evidence="ECO:0000269|PubMed:16762039"
+FT   MUTAGEN         333
+FT                   /note="K->Q: Mimicks acetylation. Impairs interaction with
+FT                   RBBP4 and MTA1 and no effect on interaction with CTBP2.
+FT                   Reduces transcriptional repression."
+FT                   /evidence="ECO:0000269|PubMed:17283066,
+FT                   ECO:0000269|PubMed:20547755"
+FT   MUTAGEN         333
+FT                   /note="K->R: Abolishes sumoylation; impairs transcriptional
+FT                   repression activity."
+FT                   /evidence="ECO:0000269|PubMed:17283066,
+FT                   ECO:0000269|PubMed:20547755"
+FT   MUTAGEN         335
+FT                   /note="E->A: Impairs transcriptional repression activity.
+FT                   Decreases interaction with MTA1."
+FT                   /evidence="ECO:0000269|PubMed:17283066,
+FT                   ECO:0000269|PubMed:20547755"
+FT   MUTAGEN         336
+FT                   /note="P->A: Impairs K-333 acetylation; no effect on
+FT                   sumoylation. Decreases interaction with MTA1."
+FT                   /evidence="ECO:0000269|PubMed:17283066,
+FT                   ECO:0000269|PubMed:20547755"
+FT   MUTAGEN         540
+FT                   /note="C->S: Abolishes repression activity."
+FT                   /evidence="ECO:0000269|PubMed:15231840"
+FT   CONFLICT        190
+FT                   /note="P -> R (in Ref. 1; AAD09201)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   733 AA;  76508 MW;  6DDD0F49C4E490D3 CRC64;
+     MTFPEADILL KSGECAGQTM LDTMEAPGHS RQLLLQLNNQ RTKGFLCDVI IVVQNALFRA
+     HKNVLAASSA YLKSLVVHDN LLNLDHDMVS PAVFRLVLDF IYTGRLADGA EAAAAAAVAP
+     GAEPSLGAVL AAASYLQIPD LVALCKKRLK RHGKYCHLRG GGGGGGGYAP YGRPGRGLRA
+     ATPVIQACYP SPVGPPPPPA AEPPSGPEAA VNTHCAELYA SGPGPAAALC ASERRCSPLC
+     GLDLSKKSPP GSAAPERPLA ERELPPRPDS PPSAGPAAYK EPPLALPSLP PLPFQKLEEA
+     APPSDPFRGG SGSPGPEPPG RPDGPSLLYR WMKHEPGLGS YGDELGRERG SPSERCEERG
+     GDAAVSPGGP PLGLAPPPRY PGSLDGPGAG GDGDDYKSSS EETGSSEDPS PPGGHLEGYP
+     CPHLAYGEPE SFGDNLYVCI PCGKGFPSSE QLNAHVEAHV EEEEALYGRA EAAEVAAGAA
+     GLGPPFGGGG DKVAGAPGGL GELLRPYRCA SCDKSYKDPA TLRQHEKTHW LTRPYPCTIC
+     GKKFTQRGTM TRHMRSHLGL KPFACDACGM RFTRQYRLTE HMRIHSGEKP YECQVCGGKF
+     AQQRNLISHM KMHAVGGAAG AAGALAGLGG LPGVPGPDGK GKLDFPEGVF AVARLTAEQL
+     SLKQQDKAAA AELLAQTTHF LHDPKVALES LYPLAKFTAE LGLSPDKAAE VLSQGAHLAA
+     GPDGRTIDRF SPT
+//

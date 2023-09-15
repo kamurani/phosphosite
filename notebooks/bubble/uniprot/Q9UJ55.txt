@@ -1,0 +1,307 @@
+ID   MAGL2_HUMAN             Reviewed;        1249 AA.
+AC   Q9UJ55; H0YDD5;
+DT   18-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   16-SEP-2015, sequence version 2.
+DT   28-JUN-2023, entry version 123.
+DE   RecName: Full=MAGE-like protein 2;
+DE   AltName: Full=Necdin-like protein 1;
+DE   AltName: Full=Protein nM15;
+GN   Name=MAGEL2; Synonyms=NDNL1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16572171; DOI=10.1038/nature04601;
+RA   Zody M.C., Garber M., Sharpe T., Young S.K., Rowen L., O'Neill K.,
+RA   Whittaker C.A., Kamal M., Chang J.L., Cuomo C.A., Dewar K.,
+RA   FitzGerald M.G., Kodira C.D., Madan A., Qin S., Yang X., Abbasi N.,
+RA   Abouelleil A., Arachchi H.M., Baradarani L., Birditt B., Bloom S.,
+RA   Bloom T., Borowsky M.L., Burke J., Butler J., Cook A., DeArellano K.,
+RA   DeCaprio D., Dorris L. III, Dors M., Eichler E.E., Engels R., Fahey J.,
+RA   Fleetwood P., Friedman C., Gearin G., Hall J.L., Hensley G., Johnson E.,
+RA   Jones C., Kamat A., Kaur A., Locke D.P., Madan A., Munson G., Jaffe D.B.,
+RA   Lui A., Macdonald P., Mauceli E., Naylor J.W., Nesbitt R., Nicol R.,
+RA   O'Leary S.B., Ratcliffe A., Rounsley S., She X., Sneddon K.M.B.,
+RA   Stewart S., Sougnez C., Stone S.M., Topham K., Vincent D., Wang S.,
+RA   Zimmer A.R., Birren B.W., Hood L., Lander E.S., Nusbaum C.;
+RT   "Analysis of the DNA sequence and duplication history of human chromosome
+RT   15.";
+RL   Nature 440:671-675(2006).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 635-1249, AND TISSUE SPECIFICITY.
+RX   PubMed=10915770; DOI=10.1093/hmg/9.12.1813;
+RA   Lee S., Kozlov S., Hernandez L., Chamberlain S.J., Brannan C.I.,
+RA   Stewart C.L., Wevrick R.;
+RT   "Expression and imprinting of MAGEL2 suggest a role in Prader-Willi
+RT   syndrome and the homologous murine imprinting phenotype.";
+RL   Hum. Mol. Genet. 9:1813-1819(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 638-1249.
+RC   TISSUE=Brain, and Placenta;
+RX   PubMed=10556298; DOI=10.1093/hmg/8.13.2497;
+RA   Boccaccio I., Glatt-Deeley H., Watrin F., Roeckel N., Lalande M.,
+RA   Muscatelli F.;
+RT   "The human MAGEL2 gene and its mouse homologue are paternally expressed and
+RT   mapped to the Prader-Willi region.";
+RL   Hum. Mol. Genet. 8:2497-2505(1999).
+RN   [4]
+RP   FUNCTION, AND INTERACTION WITH TRIM27.
+RX   PubMed=20864041; DOI=10.1016/j.molcel.2010.08.029;
+RA   Doyle J.M., Gao J., Wang J., Yang M., Potts P.R.;
+RT   "MAGE-RING protein complexes comprise a family of E3 ubiquitin ligases.";
+RL   Mol. Cell 39:963-974(2010).
+RN   [5]
+RP   FUNCTION, INTERACTION WITH TRIM27 AND VPS35, AND SUBCELLULAR LOCATION.
+RX   PubMed=23452853; DOI=10.1016/j.cell.2013.01.051;
+RA   Hao Y.H., Doyle J.M., Ramanathan S., Gomez T.S., Jia D., Xu M., Chen Z.J.,
+RA   Billadeau D.D., Rosen M.K., Potts P.R.;
+RT   "Regulation of WASH-dependent actin polymerization and protein trafficking
+RT   by ubiquitination.";
+RL   Cell 152:1051-1064(2013).
+RN   [6]
+RP   INVOLVEMENT IN SHFYNG.
+RX   PubMed=24076603; DOI=10.1038/ng.2776;
+RA   Schaaf C.P., Gonzalez-Garay M.L., Xia F., Potocki L., Gripp K.W., Zhang B.,
+RA   Peters B.A., McElwain M.A., Drmanac R., Beaudet A.L., Caskey C.T., Yang Y.;
+RT   "Truncating mutations of MAGEL2 cause Prader-Willi phenotypes and autism.";
+RL   Nat. Genet. 45:1405-1408(2013).
+RN   [7]
+RP   INTERACTION WITH USP7 AND TRIM27.
+RX   PubMed=26365382; DOI=10.1016/j.molcel.2015.07.033;
+RA   Hao Y.H., Fountain M.D. Jr., Fon Tacer K., Xia F., Bi W., Kang S.H.,
+RA   Patel A., Rosenfeld J.A., Le Caignec C., Isidor B., Krantz I.D., Noon S.E.,
+RA   Pfotenhauer J.P., Morgan T.M., Moran R., Pedersen R.C., Saenz M.S.,
+RA   Schaaf C.P., Potts P.R.;
+RT   "USP7 Acts as a Molecular Rheostat to Promote WASH-Dependent Endosomal
+RT   Protein Recycling and Is Mutated in a Human Neurodevelopmental Disorder.";
+RL   Mol. Cell 59:956-969(2015).
+CC   -!- FUNCTION: Probably enhances ubiquitin ligase activity of RING-type zinc
+CC       finger-containing E3 ubiquitin-protein ligases, possibly through
+CC       recruitment and/or stabilization of the Ubl-conjugating enzyme (E2) at
+CC       the E3:substrate complex. Acts as a regulator of retrograde transport
+CC       via its interaction with VPS35. Recruited to retromer-containing
+CC       endosomes and promotes the formation of 'Lys-63'-linked polyubiquitin
+CC       chains at 'Lys-220' of WASHC1 together with TRIM27, leading to promote
+CC       endosomal F-actin assembly (PubMed:23452853). Regulates the circadian
+CC       clock by repressing the transcriptional activator activity of the
+CC       CLOCK-BMAL1 heterodimer. Significantly promotes the cytoplasmic
+CC       accumulation of CLOCK (By similarity). {ECO:0000250|UniProtKB:Q9QZ04,
+CC       ECO:0000269|PubMed:20864041, ECO:0000269|PubMed:23452853}.
+CC   -!- SUBUNIT: Part of a complex consisting of MAGEL2, TRIM27 and USP7;
+CC       directly interacts with USP7 (PubMed:26365382). Interacts with TRIM27
+CC       (PubMed:23452853). Interacts with VPS35; leading to recruitment at
+CC       retromer-containing endosomes (PubMed:23452853). Interacts with BMAL1
+CC       and PER2 (By similarity). {ECO:0000250|UniProtKB:Q9QZ04,
+CC       ECO:0000269|PubMed:20864041, ECO:0000269|PubMed:23452853,
+CC       ECO:0000269|PubMed:26365382}.
+CC   -!- INTERACTION:
+CC       Q9UJ55; P63010: AP2B1; NbExp=2; IntAct=EBI-5668174, EBI-432924;
+CC       Q9UJ55; Q14192: FHL2; NbExp=3; IntAct=EBI-5668174, EBI-701903;
+CC       Q9UJ55; Q9UMX1: SUFU; NbExp=3; IntAct=EBI-5668174, EBI-740595;
+CC       Q9UJ55; Q93009: USP7; NbExp=2; IntAct=EBI-5668174, EBI-302474;
+CC   -!- SUBCELLULAR LOCATION: Early endosome {ECO:0000269|PubMed:23452853}.
+CC       Cytoplasm {ECO:0000250|UniProtKB:Q9QZ04}. Nucleus
+CC       {ECO:0000250|UniProtKB:Q9QZ04}. Note=Recruited to retromer-containing
+CC       endosomes via interaction with VPS35. Colocalizes with CLOCK and BMAL1
+CC       in the cytoplasm, and with PER2 in the cytoplasm and nucleus (By
+CC       similarity). {ECO:0000250|UniProtKB:Q9QZ04,
+CC       ECO:0000269|PubMed:23452853}.
+CC   -!- TISSUE SPECIFICITY: Expressed in placenta, fetal and adult brain. Not
+CC       detected in heart and small intestine, very low levels in fibroblasts.
+CC       Not expressed in brain of a Prader-Willi patient.
+CC       {ECO:0000269|PubMed:10915770}.
+CC   -!- DISEASE: Schaaf-Yang syndrome (SHFYNG) [MIM:615547]: A disease
+CC       characterized by clinical features of Prader-Willi syndrome, including
+CC       neonatal hypotonia with poor suck, feeding problems in infancy,
+CC       obesity, developmental delay, short stature, and hypogonadism.
+CC       Additionally, patients manifest autism spectrum disorder. Some patients
+CC       have dysmorphic facial features. {ECO:0000269|PubMed:24076603}.
+CC       Note=The disease is caused by variants affecting the gene represented
+CC       in this entry. All mutations occurred on the paternal allele.
+CC   -!- MISCELLANEOUS: Imprinted, expressed from the paternal chromosome only.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAG28577.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=CAB62393.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC124309; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AF200625; AAG28577.1; ALT_FRAME; Genomic_DNA.
+DR   EMBL; AJ243531; CAB62393.1; ALT_FRAME; mRNA.
+DR   CCDS; CCDS73700.1; -.
+DR   RefSeq; NP_061939.3; NM_019066.4.
+DR   AlphaFoldDB; Q9UJ55; -.
+DR   CORUM; Q9UJ55; -.
+DR   IntAct; Q9UJ55; 5.
+DR   STRING; 9606.ENSP00000433433; -.
+DR   GlyGen; Q9UJ55; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9UJ55; -.
+DR   PhosphoSitePlus; Q9UJ55; -.
+DR   BioMuta; MAGEL2; -.
+DR   DMDM; 17380152; -.
+DR   EPD; Q9UJ55; -.
+DR   MassIVE; Q9UJ55; -.
+DR   MaxQB; Q9UJ55; -.
+DR   PaxDb; Q9UJ55; -.
+DR   PeptideAtlas; Q9UJ55; -.
+DR   ProteomicsDB; 37358; -.
+DR   ProteomicsDB; 84587; -.
+DR   Antibodypedia; 58530; 107 antibodies from 13 providers.
+DR   DNASU; 54551; -.
+DR   Ensembl; ENST00000650528.1; ENSP00000497810.1; ENSG00000254585.5.
+DR   Ensembl; ENST00000672700.1; ENSP00000499864.1; ENSG00000288188.1.
+DR   Ensembl; ENST00000673192.1; ENSP00000500572.1; ENSG00000288188.1.
+DR   GeneID; 54551; -.
+DR   KEGG; hsa:54551; -.
+DR   MANE-Select; ENST00000650528.1; ENSP00000497810.1; NM_019066.5; NP_061939.3.
+DR   UCSC; uc001ywj.5; human.
+DR   AGR; HGNC:6814; -.
+DR   CTD; 54551; -.
+DR   DisGeNET; 54551; -.
+DR   GeneCards; MAGEL2; -.
+DR   GeneReviews; MAGEL2; -.
+DR   HGNC; HGNC:6814; MAGEL2.
+DR   HPA; ENSG00000254585; Group enriched (brain, pituitary gland).
+DR   MalaCards; MAGEL2; -.
+DR   MIM; 605283; gene.
+DR   MIM; 615547; phenotype.
+DR   neXtProt; NX_Q9UJ55; -.
+DR   OpenTargets; ENSG00000254585; -.
+DR   Orphanet; 398069; MAGEL2-related Prader-Willi-like syndrome.
+DR   Orphanet; 177910; Prader-Willi syndrome due to imprinting mutation.
+DR   Orphanet; 98754; Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15.
+DR   Orphanet; 177901; Prader-Willi syndrome due to paternal deletion of 15q11q13 type 1.
+DR   Orphanet; 177904; Prader-Willi syndrome due to paternal deletion of 15q11q13 type 2.
+DR   VEuPathDB; HostDB:ENSG00000254585; -.
+DR   eggNOG; KOG4562; Eukaryota.
+DR   GeneTree; ENSGT00940000163006; -.
+DR   InParanoid; Q9UJ55; -.
+DR   OMA; TQVTWQA; -.
+DR   OrthoDB; 3128316at2759; -.
+DR   TreeFam; TF328505; -.
+DR   PathwayCommons; Q9UJ55; -.
+DR   SignaLink; Q9UJ55; -.
+DR   SIGNOR; Q9UJ55; -.
+DR   BioGRID-ORCS; 54551; 12 hits in 384 CRISPR screens.
+DR   GenomeRNAi; 54551; -.
+DR   Pharos; Q9UJ55; Tbio.
+DR   PRO; PR:Q9UJ55; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q9UJ55; protein.
+DR   Bgee; ENSG00000254585; Expressed in adrenal tissue and 96 other tissues.
+DR   GO; GO:0005829; C:cytosol; IEA:GOC.
+DR   GO; GO:0005769; C:early endosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005768; C:endosome; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0004842; F:ubiquitin-protein transferase activity; IMP:UniProtKB.
+DR   GO; GO:0034314; P:Arp2/3 complex-mediated actin nucleation; IDA:UniProtKB.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; ISS:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0051127; P:positive regulation of actin nucleation; IEA:Ensembl.
+DR   GO; GO:0070534; P:protein K63-linked ubiquitination; IMP:UniProtKB.
+DR   GO; GO:0042752; P:regulation of circadian rhythm; ISS:UniProtKB.
+DR   GO; GO:0042147; P:retrograde transport, endosome to Golgi; IDA:UniProtKB.
+DR   GO; GO:0048511; P:rhythmic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.10.1200; MAGE homology domain, winged helix WH1 motif; 1.
+DR   Gene3D; 1.10.10.1210; MAGE homology domain, winged helix WH2 motif; 1.
+DR   InterPro; IPR037445; MAGE.
+DR   InterPro; IPR041898; MAGE_WH1.
+DR   InterPro; IPR041899; MAGE_WH2.
+DR   InterPro; IPR002190; MHD_dom.
+DR   PANTHER; PTHR11736:SF66; MAGE-LIKE PROTEIN 2; 1.
+DR   PANTHER; PTHR11736; MELANOMA-ASSOCIATED ANTIGEN MAGE ANTIGEN; 1.
+DR   Pfam; PF01454; MAGE; 1.
+DR   SMART; SM01373; MAGE; 1.
+DR   PROSITE; PS50838; MAGE; 1.
+PE   1: Evidence at protein level;
+KW   Autism spectrum disorder; Biological rhythms; Cytoplasm; Endosome;
+KW   Intellectual disability; Nucleus; Obesity; Reference proteome; Repressor;
+KW   Transcription; Transcription regulation; Transport;
+KW   Ubl conjugation pathway.
+FT   CHAIN           1..1249
+FT                   /note="MAGE-like protein 2"
+FT                   /id="PRO_0000156738"
+FT   DOMAIN          1020..1219
+FT                   /note="MAGE"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00127"
+FT   REGION          1..50
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          134..233
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          300..327
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          349..378
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          410..433
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          515..569
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          647..679
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          714..746
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          862..910
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          930..957
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1226..1249
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        136..232
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        307..325
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        539..569
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        649..679
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        726..746
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        862..876
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        889..903
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+SQ   SEQUENCE   1249 AA;  132822 MW;  17AA2FB3F8477D82 CRC64;
+     MSQLSKNLGD SSPPAEAPKP PVYSRPTVLM RAPPASSRAP PVPWDPPPID LQASLAAWQA
+     PQPAWEAPQG QLPAPVVPMT QPPALGGPIV PAPPLGGPMG KPPTPGVLMV HPPPPGAPMA
+     QPPTPGVLMV HPSAPGAPMA HPPPPGTPMS HPPPPGTPMA HPPPPGTPMA HPPPPGTPMV
+     HPPPPGTPMA HPPPPGTPMA HPPPPGTPMA HPPPPGTPMA HPPPPGTPMA QPPAPGVLMA
+     QPLTPGVLMV QPAAPGAPMV QPPPAAMMTQ PQPSGAPMAK PPGPGVLMIH PPGARAPMTQ
+     PPASGAPMAQ PAAPPAQPMA PPAQPMASWA PQAQPLILQI QSQVIRAPPQ VPQGPQAPPA
+     QLATPPGWQA TSPGWQATQQ GWQATPLTWQ TTQVTWQAPA VTWQVPPPMR QGPPPIRPGP
+     PPIRPGPPPV RQAPPLIRQA PPVIRQAPPV IRQAPPVIRQ APAVIRQAPP VIRQAPPVIR
+     QAPPVIRQAP PLIRQAPPPI RPAPQVLATQ PPLWQALPPP PPLRQAPQAR LPAPQVQAAP
+     QVPTAPPATQ VPAAPPAGPQ VPQPVLPAPL SAPLSAPQAV HCPSIIWQAP KGQPPVPHEI
+     PTSMEFQEVQ QTQALAWQAQ KAPTHIWQPL PAQEAQRQAP PLVQLEQPFQ GAPPSQKAVQ
+     IQLPPQQAQA SGPQAEVPTL PLQPSWQAPP AVLQAQPGPP VAAANFPLGS AKSLMTPSGE
+     CRASSIDRRG SSKERRTSSK ERRAPSKDRM IFAATFCAPK AVSAARAHLP AAWKNLPATP
+     ETFAPSSSVF PATSQFQPAS LNAFKGPSAA SETPKSLPYA LQDPFACVEA LPAVPWVPQP
+     NMNASKASQA VPTFLMATAA APQATATTQE ASKTSVEPPR RSGKATRKKK HLEAQEDSRG
+     HTLAFHDWQG PRPWENLNLS DWEVQSPIQV SGDWEHPNTP RGLSGWEGPS TSRILSGWEG
+     PSASWALSAW EGPSTSRALG LSESPGSSLP VVVSEVASVS PGSSATQDNS KVEAQPLSPL
+     DERANALVQF LLVKDQAKVP VQRSEMVKVI LREYKDECLD IINRANNKLE CAFGYQLKEI
+     DTKNHAYIII NKLGYHTGNL VASYLDRPKF GLLMVVLSLI FMKGNCVRED LIFNFLFKLG
+     LDVRETNGLF GNTKKLITEV FVRQKYLEYR RIPYTEPAEY EFLWGPRAFL ETSKMLVLRF
+     LAKLHKKDPQ SWPFHYLEAL AECEWEDTDE DEPDTGDSAH GPTSRPPPR
+//

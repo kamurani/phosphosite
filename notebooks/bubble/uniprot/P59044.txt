@@ -1,0 +1,531 @@
+ID   NLRP6_HUMAN             Reviewed;         892 AA.
+AC   P59044; A8K9F3; E9PJZ8;
+DT   19-OCT-2002, integrated into UniProtKB/Swiss-Prot.
+DT   22-SEP-2009, sequence version 2.
+DT   28-JUN-2023, entry version 175.
+DE   RecName: Full=NACHT, LRR and PYD domains-containing protein 6 {ECO:0000305};
+DE   AltName: Full=Angiotensin II/vasopressin receptor {ECO:0000250|UniProtKB:Q91WS2};
+DE   AltName: Full=PYRIN-containing APAF1-like protein 5 {ECO:0000303|PubMed:12019269};
+GN   Name=NLRP6 {ECO:0000303|PubMed:21088234, ECO:0000312|HGNC:HGNC:22944};
+GN   Synonyms=NALP6 {ECO:0000303|PubMed:12563287}, PYPAF5
+GN   {ECO:0000303|PubMed:12019269};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANTS LEU-163 AND PHE-361.
+RX   PubMed=12019269; DOI=10.1074/jbc.m203915200;
+RA   Wang L., Manji G.A., Grenier J.M., Al-Garawi A., Merriam S., Lora J.M.,
+RA   Geddes B.J., Briskin M., DiStefano P.S., Bertin J.;
+RT   "PYPAF7, a novel PYRIN-containing Apaf1-like protein that regulates
+RT   activation of NF-kappa B and caspase-1-dependent cytokine processing.";
+RL   J. Biol. Chem. 277:29874-29880(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANTS LEU-163 AND PHE-361.
+RX   PubMed=12563287; DOI=10.1038/nrm1019;
+RA   Tschopp J., Martinon F., Burns K.;
+RT   "NALPs: a novel protein family involved in inflammation.";
+RL   Nat. Rev. Mol. Cell Biol. 4:95-104(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANTS LEU-163
+RP   AND PHE-361.
+RC   TISSUE=Thymus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [5]
+RP   FUNCTION, INVOLVEMENT IN INFLAMMASOME COMPLEX, SUBCELLULAR LOCATION, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=12387869; DOI=10.1016/s0014-5793(02)03416-6;
+RA   Grenier J.M., Wang L., Manji G.A., Huang W.-J., Al-Garawi A., Kelly R.,
+RA   Carlson A., Merriam S., Lora J.M., Briskin M., DiStefano P.S., Bertin J.;
+RT   "Functional screening of five PYPAF family members identifies PYPAF5 as a
+RT   novel regulator of NF-kappaB and caspase-1.";
+RL   FEBS Lett. 530:73-78(2002).
+RN   [6]
+RP   INDUCTION BY ROSIGLITAZONE.
+RX   PubMed=21088234; DOI=10.1152/ajpgi.00397.2010;
+RA   Kempster S.L., Belteki G., Forhead A.J., Fowden A.L., Catalano R.D.,
+RA   Lam B.Y., McFarlane I., Charnock-Jones D.S., Smith G.C.;
+RT   "Developmental control of the Nlrp6 inflammasome and a substrate, IL-18, in
+RT   mammalian intestine.";
+RL   Am. J. Physiol. 300:G253-G263(2011).
+RN   [7]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=21593405; DOI=10.1073/pnas.1100981108;
+RA   Normand S., Delanoye-Crespin A., Bressenot A., Huot L., Grandjean T.,
+RA   Peyrin-Biroulet L., Lemoine Y., Hot D., Chamaillard M.;
+RT   "Nod-like receptor pyrin domain-containing protein 6 (NLRP6) controls
+RT   epithelial self-renewal and colorectal carcinogenesis upon injury.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:9601-9606(2011).
+RN   [8]
+RP   INDUCTION BY CRH AND ROSIGLITAZONE.
+RX   PubMed=23470617; DOI=10.1053/j.gastro.2013.02.038;
+RA   Sun Y., Zhang M., Chen C.C., Gillilland M. III, Sun X., El-Zaatari M.,
+RA   Huffnagle G.B., Young V.B., Zhang J., Hong S.C., Chang Y.M., Gumucio D.L.,
+RA   Owyang C., Kao J.Y.;
+RT   "Stress-induced corticotropin-releasing hormone-mediated NLRP6 inflammasome
+RT   inhibition and transmissible enteritis in mice.";
+RL   Gastroenterology 144:1478-1487(2013).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=30392956; DOI=10.1016/j.cell.2018.09.047;
+RA   Hara H., Seregin S.S., Yang D., Fukase K., Chamaillard M., Alnemri E.S.,
+RA   Inohara N., Chen G.Y., Nunez G.;
+RT   "The NLRP6 inflammasome recognizes lipoteichoic acid and regulates Gram-
+RT   positive pathogen infection.";
+RL   Cell 175:1651-1664(2018).
+RN   [10]
+RP   FUNCTION, SUBUNIT, AND SUBCELLULAR LOCATION.
+RX   PubMed=31932628; DOI=10.1038/s41598-019-57043-0;
+RA   Leng F., Yin H., Qin S., Zhang K., Guan Y., Fang R., Wang H., Li G.,
+RA   Jiang Z., Sun F., Wang D.C., Xie C.;
+RT   "NLRP6 self-assembles into a linear molecular platform following LPS
+RT   binding and ATP stimulation.";
+RL   Sci. Rep. 10:198-198(2020).
+RN   [11]
+RP   FUNCTION, SUBCELLULAR LOCATION, DOMAIN, INTERACTION WITH PYCARD, AND
+RP   MUTAGENESIS OF 352-LYS--LYS-356.
+RX   PubMed=34678144; DOI=10.1016/j.cell.2021.09.032;
+RA   Shen C., Li R., Negro R., Cheng J., Vora S.M., Fu T.M., Wang A., He K.,
+RA   Andreeva L., Gao P., Tian Z., Flavell R.A., Zhu S., Wu H.;
+RT   "Phase separation drives RNA virus-induced activation of the NLRP6
+RT   inflammasome.";
+RL   Cell 184:5759-5774(2021).
+RN   [12]
+RP   FUNCTION, AND INTERACTION WITH DHX15.
+RX   PubMed=34161762; DOI=10.1016/j.celrep.2021.109205;
+RA   Xing J., Zhou X., Fang M., Zhang E., Minze L.J., Zhang Z.;
+RT   "DHX15 is required to control RNA virus-induced intestinal inflammation.";
+RL   Cell Rep. 35:109205-109205(2021).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=33377178; DOI=10.1111/iej.13469;
+RA   Tian X.X., Li R., Liu C., Liu F., Yang L.J., Wang S.P., Wang C.L.;
+RT   "NLRP6-caspase 4 inflammasome activation in response to cariogenic
+RT   bacterial lipoteichoic acid in human dental pulp inflammation.";
+RL   Int. Endod. J. 54:916-925(2021).
+RN   [14] {ECO:0007744|PDB:6NCV, ECO:0007744|PDB:6NDJ}
+RP   X-RAY CRYSTALLOGRAPHY (2.27 ANGSTROMS) OF 14-106, FUNCTION, SUBCELLULAR
+RP   LOCATION, SUBUNIT, AND MUTAGENESIS OF LEU-21; LEU-23; 27-GLU-GLU-28;
+RP   HIS-39; ARG-42; TRP-53; PHE-71 AND ARG-87.
+RX   PubMed=30674671; DOI=10.1073/pnas.1817221116;
+RA   Shen C., Lu A., Xie W.J., Ruan J., Negro R., Egelman E.H., Fu T.M., Wu H.;
+RT   "Molecular mechanism for NLRP6 inflammasome assembly and activation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 116:2052-2057(2019).
+RN   [15]
+RP   VARIANT VAL-713.
+RX   PubMed=26282398; DOI=10.1186/s13023-015-0316-8;
+RA   Dahmani M., Ammar-Khodja F., Bonnet C., Lefevre G.M., Hardelin J.P.,
+RA   Ibrahim H., Mallek Z., Petit C.;
+RT   "EPS8L2 is a new causal gene for childhood onset autosomal recessive
+RT   progressive hearing loss.";
+RL   Orphanet J. Rare Dis. 10:96-96(2015).
+CC   -!- FUNCTION: Acts as the sensor component of the NLRP6 inflammasome, which
+CC       mediates inflammasome activation in response to various pathogen-
+CC       associated signals, leading to maturation and secretion of IL1B and
+CC       IL18 (PubMed:30392956, PubMed:34678144). Inflammasomes are
+CC       supramolecular complexes that assemble in the cytosol in response to
+CC       pathogens and other damage-associated signals and play critical roles
+CC       in innate immunity and inflammation (PubMed:30674671). Acts as a
+CC       recognition receptor (PRR): recognizes and binds specific pathogens and
+CC       other damage-associated signals, such as lipoteichoic acid (LTA), a
+CC       cell-wall component of Gram-positive bacteria, or double stranded RNA
+CC       (dsRNA) (PubMed:30392956, PubMed:34678144, PubMed:33377178). May also
+CC       recognize and bind lipopolysaccharide (LPS), a major component of the
+CC       outer membrane of Gram-negative bacteria; however, LPS is probably not
+CC       a major activator of the NLRP6 inflammasome (PubMed:31932628,
+CC       PubMed:34678144). Following LTA- or dsRNA-binding, NLRP6 undergoes
+CC       liquid-liquid phase separation (LLPS), enhancing multivalent
+CC       interactions, an essential step for the formation of the NLRP6
+CC       inflammasome polymeric complex (PubMed:34678144). The NLRP6
+CC       inflammasome acts by promoting recruitment of effector pro-inflammatory
+CC       caspases (CASP1 and/or CASP4) that catalyze maturation and secretion of
+CC       IL1B and IL18 in the extracellular milieu (PubMed:30674671,
+CC       PubMed:12387869, PubMed:30392956, PubMed:34678144). The NLRP6
+CC       inflammasome plays a central role in the maintenance of epithelial
+CC       integrity and host defense against microbial infections in the
+CC       intestine (PubMed:30392956). Required to restrict infection against
+CC       Gram-positive bacteria by recognizing lipoteichoic acid (LTA), leading
+CC       to recruitment of CASP4 and CASP1, and subsequent maturation and
+CC       secretion of IL1B and IL18 (PubMed:30392956, PubMed:33377178). Involved
+CC       in intestinal antiviral innate immunity together with DHX15: recognizes
+CC       and binds viral dsRNA to restrict infection by enteric viruses through
+CC       the interferon pathway and GSDMD-dependent release of IL18
+CC       (PubMed:34678144, PubMed:34161762). Required to prevent infection by
+CC       the apicomplexan parasite Cryptosporidium in enterocytes by promoting
+CC       GSDMD-dependent release of IL18 (By similarity). The NLRP6 inflammasome
+CC       may also regulate the gut microbiota composition by acting as a sensor
+CC       of microbiota-associated metabolites to form a PYCARD/ASC-dependent
+CC       inflammasome for downstream IL18 release and secretion of antimicrobial
+CC       peptides (By similarity). Essential for gut mucosal self-renewal and
+CC       proliferation (By similarity). Regulate mucus secretion in an
+CC       inflammasome- and autophagy-dependent manner to prevent invasion by
+CC       enteric bacteria, (By similarity). During systemic bacterial
+CC       infections, the NLRP6 inflammasome negatively regulates neutrophil
+CC       recruitment and neutrophil extracellular traps (NETs) formation (By
+CC       similarity). May promote peripheral nerve recovery following injury via
+CC       an inflammasome-independent mechanism (By similarity).
+CC       {ECO:0000250|UniProtKB:Q91WS2, ECO:0000269|PubMed:12387869,
+CC       ECO:0000269|PubMed:30392956, ECO:0000269|PubMed:30674671,
+CC       ECO:0000269|PubMed:31932628, ECO:0000269|PubMed:33377178,
+CC       ECO:0000269|PubMed:34161762, ECO:0000269|PubMed:34678144}.
+CC   -!- SUBUNIT: Homomultimer; forms the NLRP6 inflammasome polymeric complex,
+CC       a filament composed of homopolymers in response to pathogens and other
+CC       damage-associated signals (PubMed:31932628, PubMed:34678144,
+CC       PubMed:30674671). The core of NLRP6 inflammasomes consists of a signal
+CC       sensor component (NLRP6), an adapter (PYCARD/ASC), which recruits
+CC       effector pro-inflammatory caspases (CASP1 and CASP4) (PubMed:34678144,
+CC       PubMed:30674671). Interacts (via pyrin domain) with PYCARD/ASC (via
+CC       pyrin domain); interaction takes place following NLRP6 activation and
+CC       formation of liquid-liquid phase separation (LLPS), initiating
+CC       nucleation which greatly enhances further addition of soluble
+CC       PYCARD/ASC molecules to the speck in a prion-like polymerization
+CC       process (PubMed:34678144, PubMed:30674671). Clustered PYCARD/ASC
+CC       nucleates the formation of CASP1 (or possibly CASP4) filaments through
+CC       the interaction of their respective CARD domains, acting as a platform
+CC       for CASP1 polymerization (PubMed:34678144). CASP1 filament formation
+CC       increases local enzyme concentration, resulting in trans-autocleavage
+CC       and activation (PubMed:34678144). Active CASP1 then processes IL1B and
+CC       IL18 precursors, leading to the release of mature cytokines in the
+CC       extracellular milieu and inflammatory response (PubMed:34678144).
+CC       Interacts with DHX15 (PubMed:34161762). {ECO:0000269|PubMed:30674671,
+CC       ECO:0000269|PubMed:31932628, ECO:0000269|PubMed:34161762,
+CC       ECO:0000269|PubMed:34678144}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytosol {ECO:0000269|PubMed:12387869,
+CC       ECO:0000269|PubMed:31932628}. Inflammasome
+CC       {ECO:0000269|PubMed:12387869, ECO:0000269|PubMed:30674671,
+CC       ECO:0000269|PubMed:31932628, ECO:0000269|PubMed:34678144}. Cell
+CC       membrane {ECO:0000250|UniProtKB:Q63035}. Nucleus membrane
+CC       {ECO:0000250|UniProtKB:Q63035}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P59044-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P59044-2; Sequence=VSP_054400;
+CC   -!- TISSUE SPECIFICITY: Expressed in peripheral blood leukocytes,
+CC       predominantly in granulocytes and, at lower levels, in CD4(+) and
+CC       CD8(+) T-cells (PubMed:12387869). Expressed in colonic myofibroblasts
+CC       (at protein level) (PubMed:21593405). {ECO:0000269|PubMed:12387869,
+CC       ECO:0000269|PubMed:21593405}.
+CC   -!- INDUCTION: Up-regulated by rosiglitazone, a PPARG agonist, in Caco2 and
+CC       HCT116 colorectal carcinoma cells (PubMed:21088234, PubMed:23470617).
+CC       Down-regulated by CRH (at protein level) (PubMed:23470617).
+CC       {ECO:0000269|PubMed:21088234, ECO:0000269|PubMed:23470617}.
+CC   -!- DOMAIN: The poly-Lys disordered region (352-356) mediates the formation
+CC       of liquid-liquid phase separation (LLPS), an essential step for
+CC       nucleation and formation of the NLRP6 inflammasome complex.
+CC       {ECO:0000269|PubMed:34678144}.
+CC   -!- PTM: Polyubiquitinated with 'Lys-63'-linked chains, promoting the
+CC       interaction with PYCARD/ASC and formation of the NLRP6 inflammasome.
+CC       Deubiquitination by CYLD decreases the interaction with PYCARD/ASC.
+CC       {ECO:0000250|UniProtKB:Q91WS2}.
+CC   -!- SIMILARITY: Belongs to the NLRP family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF479748; AAL87105.1; -; mRNA.
+DR   EMBL; AY154461; AAO18157.1; -; mRNA.
+DR   EMBL; AK292668; BAF85357.1; -; mRNA.
+DR   EMBL; AC136475; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS60680.1; -. [P59044-2]
+DR   CCDS; CCDS7693.1; -. [P59044-1]
+DR   RefSeq; NP_001263629.1; NM_001276700.1. [P59044-2]
+DR   RefSeq; NP_612202.2; NM_138329.2. [P59044-1]
+DR   PDB; 6NCV; EM; 3.70 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/V=1-106.
+DR   PDB; 6NDJ; X-ray; 2.27 A; A/B=14-106.
+DR   PDBsum; 6NCV; -.
+DR   PDBsum; 6NDJ; -.
+DR   AlphaFoldDB; P59044; -.
+DR   SMR; P59044; -.
+DR   BioGRID; 128114; 3.
+DR   STRING; 9606.ENSP00000309767; -.
+DR   iPTMnet; P59044; -.
+DR   PhosphoSitePlus; P59044; -.
+DR   BioMuta; NLRP6; -.
+DR   DMDM; 259016285; -.
+DR   MassIVE; P59044; -.
+DR   PaxDb; P59044; -.
+DR   PeptideAtlas; P59044; -.
+DR   ProteomicsDB; 21300; -.
+DR   ProteomicsDB; 57113; -. [P59044-1]
+DR   Antibodypedia; 58845; 261 antibodies from 30 providers.
+DR   DNASU; 171389; -.
+DR   Ensembl; ENST00000312165.5; ENSP00000309767.4; ENSG00000174885.13. [P59044-1]
+DR   Ensembl; ENST00000534750.6; ENSP00000433617.1; ENSG00000174885.13. [P59044-2]
+DR   GeneID; 171389; -.
+DR   KEGG; hsa:171389; -.
+DR   MANE-Select; ENST00000534750.6; ENSP00000433617.1; NM_001276700.2; NP_001263629.1. [P59044-2]
+DR   UCSC; uc010qvs.4; human. [P59044-1]
+DR   AGR; HGNC:22944; -.
+DR   CTD; 171389; -.
+DR   DisGeNET; 171389; -.
+DR   GeneCards; NLRP6; -.
+DR   HGNC; HGNC:22944; NLRP6.
+DR   HPA; ENSG00000174885; Tissue enriched (intestine).
+DR   MIM; 609650; gene.
+DR   neXtProt; NX_P59044; -.
+DR   OpenTargets; ENSG00000174885; -.
+DR   PharmGKB; PA162398002; -.
+DR   VEuPathDB; HostDB:ENSG00000174885; -.
+DR   eggNOG; ENOG502SANB; Eukaryota.
+DR   GeneTree; ENSGT00940000162758; -.
+DR   HOGENOM; CLU_002274_2_2_1; -.
+DR   InParanoid; P59044; -.
+DR   OMA; FMDQSFQ; -.
+DR   OrthoDB; 55870at2759; -.
+DR   PhylomeDB; P59044; -.
+DR   PathwayCommons; P59044; -.
+DR   BioGRID-ORCS; 171389; 8 hits in 1150 CRISPR screens.
+DR   GeneWiki; NLRP6; -.
+DR   GenomeRNAi; 171389; -.
+DR   Pharos; P59044; Tbio.
+DR   PRO; PR:P59044; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; P59044; protein.
+DR   Bgee; ENSG00000174885; Expressed in small intestine Peyer's patch and 75 other tissues.
+DR   Genevisible; P59044; HS.
+DR   GO; GO:0061702; C:canonical inflammasome complex; IBA:GO_Central.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0140738; C:NLRP6 inflammasome complex; IDA:UniProtKB.
+DR   GO; GO:0043228; C:non-membrane-bounded organelle; IDA:UniProtKB.
+DR   GO; GO:0031965; C:nuclear membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003725; F:double-stranded RNA binding; IDA:UniProtKB.
+DR   GO; GO:0001530; F:lipopolysaccharide binding; IDA:UniProtKB.
+DR   GO; GO:0070891; F:lipoteichoic acid binding; IDA:UniProtKB.
+DR   GO; GO:0140693; F:molecular condensate scaffold activity; IDA:UniProtKB.
+DR   GO; GO:0140677; F:molecular function activator activity; IDA:UniProt.
+DR   GO; GO:0038187; F:pattern recognition receptor activity; IDA:UniProtKB.
+DR   GO; GO:0042277; F:peptide binding; IBA:GO_Central.
+DR   GO; GO:0035591; F:signaling adaptor activity; IDA:UniProt.
+DR   GO; GO:0030546; F:signaling receptor activator activity; IDA:UniProt.
+DR   GO; GO:0005000; F:vasopressin receptor activity; ISS:UniProtKB.
+DR   GO; GO:0097202; P:activation of cysteine-type endopeptidase activity; IEA:Ensembl.
+DR   GO; GO:0002526; P:acute inflammatory response; IBA:GO_Central.
+DR   GO; GO:0002438; P:acute inflammatory response to antigenic stimulus; IEA:Ensembl.
+DR   GO; GO:0140374; P:antiviral innate immune response; IDA:UniProtKB.
+DR   GO; GO:0050830; P:defense response to Gram-positive bacterium; IDA:UniProtKB.
+DR   GO; GO:0051607; P:defense response to virus; IDA:UniProtKB.
+DR   GO; GO:0048874; P:host-mediated regulation of intestinal microbiota composition; IEA:Ensembl.
+DR   GO; GO:0070266; P:necroptotic process; IEA:Ensembl.
+DR   GO; GO:0070373; P:negative regulation of ERK1 and ERK2 cascade; IEA:Ensembl.
+DR   GO; GO:0043124; P:negative regulation of I-kappaB kinase/NF-kappaB signaling; IEA:Ensembl.
+DR   GO; GO:0002862; P:negative regulation of inflammatory response to antigenic stimulus; IEA:Ensembl.
+DR   GO; GO:0034122; P:negative regulation of toll-like receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0032689; P:negative regulation of type II interferon production; IEA:Ensembl.
+DR   GO; GO:0070946; P:neutrophil-mediated killing of gram-positive bacterium; IEA:Ensembl.
+DR   GO; GO:0140739; P:NLRP6 inflammasome complex assembly; IDA:UniProtKB.
+DR   GO; GO:0050729; P:positive regulation of inflammatory response; IDA:UniProtKB.
+DR   GO; GO:2000494; P:positive regulation of interleukin-18-mediated signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0051260; P:protein homooligomerization; IDA:UniProtKB.
+DR   GO; GO:0070269; P:pyroptosis; IEA:Ensembl.
+DR   GO; GO:0010506; P:regulation of autophagy; IEA:Ensembl.
+DR   GO; GO:0050727; P:regulation of inflammatory response; ISS:UniProtKB.
+DR   GO; GO:0070255; P:regulation of mucus secretion; IEA:Ensembl.
+DR   GO; GO:0009617; P:response to bacterium; IBA:GO_Central.
+DR   GO; GO:0042060; P:wound healing; IEA:Ensembl.
+DR   CDD; cd08321; Pyrin_ASC-like; 1.
+DR   Gene3D; 1.10.533.10; Death Domain, Fas; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 1.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 1.
+DR   InterPro; IPR004020; DAPIN.
+DR   InterPro; IPR011029; DEATH-like_dom_sf.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   InterPro; IPR007111; NACHT_NTPase.
+DR   InterPro; IPR041267; NLRP_HD2.
+DR   InterPro; IPR041075; NOD2_WH.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR45690; NACHT, LRR AND PYD DOMAINS-CONTAINING PROTEIN 12; 1.
+DR   PANTHER; PTHR45690:SF1; NACHT, LRR AND PYD DOMAINS-CONTAINING PROTEIN 6; 1.
+DR   Pfam; PF05729; NACHT; 1.
+DR   Pfam; PF17776; NLRC4_HD2; 1.
+DR   Pfam; PF17779; NOD2_WH; 1.
+DR   Pfam; PF02758; PYRIN; 1.
+DR   SMART; SM00368; LRR_RI; 3.
+DR   SMART; SM01289; PYRIN; 1.
+DR   SUPFAM; SSF47986; DEATH domain; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   SUPFAM; SSF52047; RNI-like; 1.
+DR   PROSITE; PS50824; DAPIN; 1.
+DR   PROSITE; PS50837; NACHT; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; ATP-binding; Cell membrane; Cytoplasm;
+KW   Immunity; Inflammasome; Inflammatory response; Innate immunity;
+KW   Leucine-rich repeat; Membrane; Nucleotide-binding; Nucleus;
+KW   Reference proteome; Repeat; Ubl conjugation.
+FT   CHAIN           1..892
+FT                   /note="NACHT, LRR and PYD domains-containing protein 6"
+FT                   /id="PRO_0000080892"
+FT   DOMAIN          1..103
+FT                   /note="Pyrin"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00061"
+FT   DOMAIN          196..513
+FT                   /note="NACHT"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00136"
+FT   REPEAT          462..487
+FT                   /note="LRR 1"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          727..747
+FT                   /note="LRR 2"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          755..778
+FT                   /note="LRR 3"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          811..834
+FT                   /note="LRR 4"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          845..868
+FT                   /note="LRR 5"
+FT                   /evidence="ECO:0000255"
+FT   REGION          158..181
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          352..356
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000269|PubMed:34678144"
+FT   REGION          590..614
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        166..181
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         202..209
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00136"
+FT   VAR_SEQ         702
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_054400"
+FT   VARIANT         163
+FT                   /note="M -> L (in dbSNP:rs6421985)"
+FT                   /evidence="ECO:0000269|PubMed:12019269,
+FT                   ECO:0000269|PubMed:12563287, ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_058968"
+FT   VARIANT         361
+FT                   /note="Y -> F (in dbSNP:rs7482965)"
+FT                   /evidence="ECO:0000269|PubMed:12019269,
+FT                   ECO:0000269|PubMed:12563287, ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_058969"
+FT   VARIANT         713
+FT                   /note="A -> V (in dbSNP:rs966612159)"
+FT                   /evidence="ECO:0000269|PubMed:26282398"
+FT                   /id="VAR_079497"
+FT   MUTAGEN         21
+FT                   /note="L->R: Decreased formation of an inflammasome
+FT                   filament."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         23
+FT                   /note="L->R: Decreased formation of an inflammasome
+FT                   filament. Decreased ability to promote PYCARD/ASC
+FT                   polymerization."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         27..28
+FT                   /note="EE->RR: Abolished formation of an inflammasome
+FT                   filament."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         39
+FT                   /note="H->R: Decreased formation of an inflammasome
+FT                   filament. Abolished ability to promote PYCARD/ASC
+FT                   polymerization."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         42
+FT                   /note="R->E: Abolished formation of an inflammasome
+FT                   filament."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         53
+FT                   /note="W->E: Abolished formation of an inflammasome
+FT                   filament."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         53
+FT                   /note="W->F: Does not affect formation of an inflammasome
+FT                   filament."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         71
+FT                   /note="F->R: Does not prevent formation of an inflammasome
+FT                   filament."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         87
+FT                   /note="R->D: Does not prevent formation of an inflammasome
+FT                   filament."
+FT                   /evidence="ECO:0000269|PubMed:30674671"
+FT   MUTAGEN         352..356
+FT                   /note="KDKKK->ADAAA: Impaired formation of liquid-liquid
+FT                   phase separation (LLPS)."
+FT                   /evidence="ECO:0000269|PubMed:34678144"
+FT   HELIX           14..27
+FT                   /evidence="ECO:0007829|PDB:6NDJ"
+FT   HELIX           31..41
+FT                   /evidence="ECO:0007829|PDB:6NDJ"
+FT   HELIX           46..48
+FT                   /evidence="ECO:0007829|PDB:6NDJ"
+FT   HELIX           56..58
+FT                   /evidence="ECO:0007829|PDB:6NDJ"
+FT   HELIX           61..72
+FT                   /evidence="ECO:0007829|PDB:6NDJ"
+FT   HELIX           74..85
+FT                   /evidence="ECO:0007829|PDB:6NDJ"
+SQ   SEQUENCE   892 AA;  98768 MW;  A987FDACE6448C6A CRC64;
+     MDQPEAPCSS TGPRLAVARE LLLAALEELS QEQLKRFRHK LRDVGPDGRS IPWGRLERAD
+     AVDLAEQLAQ FYGPEPALEV ARKTLKRADA RDVAAQLQER RLQRLGLGSG TLLSVSEYKK
+     KYREHVLQLH ARVKERNARS VKITKRFTKL LIAPESAAPE EAMGPAEEPE PGRARRSDTH
+     TFNRLFRRDE EGRRPLTVVL QGPAGIGKTM AAKKILYDWA AGKLYQGQVD FAFFMPCGEL
+     LERPGTRSLA DLILDQCPDR GAPVPQMLAQ PQRLLFILDG ADELPALGGP EAAPCTDPFE
+     AASGARVLGG LLSKALLPTA LLLVTTRAAA PGRLQGRLCS PQCAEVRGFS DKDKKKYFYK
+     YFRDERRAER AYRFVKENET LFALCFVPFV CWIVCTVLRQ QLELGRDLSR TSKTTTSVYL
+     LFITSVLSSA PVADGPRLQG DLRNLCRLAR EGVLGRRAQF AEKELEQLEL RGSKVQTLFL
+     SKKELPGVLE TEVTYQFIDQ SFQEFLAALS YLLEDGGVPR TAAGGVGTLL RGDAQPHSHL
+     VLTTRFLFGL LSAERMRDIE RHFGCMVSER VKQEALRWVQ GQGQGCPGVA PEVTEGAKGL
+     EDTEEPEEEE EGEEPNYPLE LLYCLYETQE DAFVRQALCR FPELALQRVR FCRMDVAVLS
+     YCVRCCPAGQ ALRLISCRLV AAQEKKKKSL GKRLQASLGG GSSSQGTTKQ LPASLLHPLF
+     QAMTDPLCHL SSLTLSHCKL PDAVCRDLSE ALRAAPALTE LGLLHNRLSE AGLRMLSEGL
+     AWPQCRVQTV RVQLPDPQRG LQYLVGMLRQ SPALTTLDLS GCQLPAPMVT YLCAVLQHQG
+     CGLQTLSLAS VELSEQSLQE LQAVKRAKPD LVITHPALDG HPQPPKELIS TF
+//

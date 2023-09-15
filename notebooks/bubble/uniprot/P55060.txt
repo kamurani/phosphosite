@@ -1,0 +1,502 @@
+ID   XPO2_HUMAN              Reviewed;         971 AA.
+AC   P55060; A3RLL6; B2R5T4; E1P5Y0; F8W904; O75432; Q32M40; Q9H5B7; Q9NTS0;
+AC   Q9UP98; Q9UP99; Q9UPA0;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   29-MAR-2005, sequence version 3.
+DT   28-JUN-2023, entry version 207.
+DE   RecName: Full=Exportin-2;
+DE            Short=Exp2;
+DE   AltName: Full=Cellular apoptosis susceptibility protein {ECO:0000303|PubMed:7479798};
+DE   AltName: Full=Chromosome segregation 1-like protein;
+DE   AltName: Full=Importin-alpha re-exporter;
+GN   Name=CSE1L; Synonyms=CAS {ECO:0000303|PubMed:7479798}, XPO2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND TISSUE SPECIFICITY.
+RC   TISSUE=Placenta;
+RX   PubMed=7479798; DOI=10.1073/pnas.92.22.10427;
+RA   Brinkmann U., Brinkmann E., Gallo M., Pastan I.;
+RT   "Cloning and characterization of a cellular apoptosis susceptibility gene,
+RT   the human homologue to the yeast chromosome segregation gene CSE1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:10427-10431(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 1; 2 AND 3), AND TISSUE
+RP   SPECIFICITY.
+RC   TISSUE=Brain;
+RX   PubMed=10331944; DOI=10.1006/geno.1998.5700;
+RA   Brinkmann U., Brinkmann E., Bera T.K., Wellmann A., Pastan I.;
+RT   "Tissue-specific alternative splicing of the CSE1L/CAS (cellular apoptosis
+RT   susceptibility) gene.";
+RL   Genomics 58:41-49(1999).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 4).
+RX   PubMed=11703094; DOI=10.1006/mcbr.2001.0303;
+RA   Jiang M.C., Lin T.L., Lee T.L., Huang H.T., Lin C.L., Liao C.F.;
+RT   "IRF-1-mediated CAS expression enhances interferon-gamma-induced apoptosis
+RT   of HT-29 colon adenocarcinoma cells.";
+RL   Mol. Cell Biol. Res. Commun. 4:353-358(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Cerebellum;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J., Buck D., Burrill W.D.,
+RA   Butler A.P., Carder C., Carter N.P., Chapman J.C., Clamp M., Clark G.,
+RA   Clark L.N., Clark S.Y., Clee C.M., Clegg S., Cobley V.E., Collier R.E.,
+RA   Connor R.E., Corby N.R., Coulson A., Coville G.J., Deadman R., Dhami P.D.,
+RA   Dunn M., Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H., Rice C.M.,
+RA   Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S., Skuce C.D.,
+RA   Smith M.L., Soderlund C., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A., Tracey A.,
+RA   Tromans A.C., Vaudin M., Wall M., Wallis J.M., Whitehead S.L.,
+RA   Whittaker P., Willey D.L., Williams L., Williams S.A., Wilming L.,
+RA   Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 1-16; 18-26; 32-67; 76-83; 94-109; 138-151; 166-217;
+RP   252-268; 282-288; 293-309; 332-371; 373-382; 396-418; 428-440; 446-481;
+RP   560-574; 698-736; 769-777; 789-816; 825-832 AND 913-934, ACETYLATION AT
+RP   MET-1, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=B-cell lymphoma;
+RA   Bienvenut W.V.;
+RL   Submitted (JUN-2005) to UniProtKB.
+RN   [9]
+RP   PROTEIN SEQUENCE OF 356-370, FUNCTION IN PROTEIN NUCLEAR EXPORT,
+RP   IDENTIFICATION IN A COMPLEX WITH RAN AND KPNA2, AND SUBCELLULAR LOCATION.
+RX   PubMed=9323134; DOI=10.1016/s0092-8674(00)80372-4;
+RA   Kutay U., Bischoff F.R., Kostka S., Kraft R., Goerlich D.;
+RT   "Export of importin-alpha from the nucleus is mediated by a specific
+RT   nuclear transport factor.";
+RL   Cell 90:1061-1071(1997).
+RN   [10]
+RP   INTERACTION WITH KPNA2.
+RX   PubMed=9786944; DOI=10.1083/jcb.143.2.309;
+RA   Herold A., Truant R., Wiegand H., Cullen B.R.;
+RT   "Determination of the functional domain organization of the importin alpha
+RT   nuclear import factor.";
+RL   J. Cell Biol. 143:309-318(1998).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Lymphoblast;
+RX   PubMed=14654843; DOI=10.1038/nature02166;
+RA   Andersen J.S., Wilkinson C.J., Mayor T., Mortensen P., Nigg E.A., Mann M.;
+RT   "Proteomic characterization of the human centrosome by protein correlation
+RT   profiling.";
+RL   Nature 426:570-574(2003).
+RN   [12]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [13]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-574 AND LYS-824, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [14]
+RP   INTERACTION WITH CFTR.
+RX   PubMed=20933420; DOI=10.1016/j.cub.2010.09.012;
+RA   Bagnat M., Navis A., Herbstreith S., Brand-Arzamendi K., Curado S.,
+RA   Gabriel S., Mostov K., Huisken J., Stainier D.Y.;
+RT   "Cse1l is a negative regulator of CFTR-dependent fluid secretion.";
+RL   Curr. Biol. 20:1840-1845(2010).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [16]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.m111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C., Meinnel T.,
+RA   Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [17]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-112 AND SER-931, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-931, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [20]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [21]
+RP   VARIANT [LARGE SCALE ANALYSIS] PHE-842.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Export receptor for importin-alpha. Mediates importin-alpha
+CC       re-export from the nucleus to the cytoplasm after import substrates
+CC       (cargos) have been released into the nucleoplasm. In the nucleus binds
+CC       cooperatively to importin-alpha and to the GTPase Ran in its active
+CC       GTP-bound form. Docking of this trimeric complex to the nuclear pore
+CC       complex (NPC) is mediated through binding to nucleoporins. Upon transit
+CC       of a nuclear export complex into the cytoplasm, disassembling of the
+CC       complex and hydrolysis of Ran-GTP to Ran-GDP (induced by RANBP1 and
+CC       RANGAP1, respectively) cause release of the importin-alpha from the
+CC       export receptor. CSE1L/XPO2 then return to the nuclear compartment and
+CC       mediate another round of transport. The directionality of nuclear
+CC       export is thought to be conferred by an asymmetric distribution of the
+CC       GTP- and GDP-bound forms of Ran between the cytoplasm and nucleus.
+CC       {ECO:0000269|PubMed:9323134}.
+CC   -!- SUBUNIT: Found in a complex with CSE1L/XPO2, Ran and KPNA2
+CC       (PubMed:9323134, PubMed:9786944). Binds with high affinity to importin-
+CC       alpha only in the presence of RanGTP. The complex is dissociated by the
+CC       combined action of RanBP1 and RanGAP1 (PubMed:9323134). Interacts with
+CC       CFTR (PubMed:20933420). {ECO:0000269|PubMed:20933420,
+CC       ECO:0000269|PubMed:9323134, ECO:0000269|PubMed:9786944}.
+CC   -!- INTERACTION:
+CC       P55060; Q96JQ5: MS4A4A; NbExp=2; IntAct=EBI-286709, EBI-12820341;
+CC       P55060; Q15077: P2RY6; NbExp=2; IntAct=EBI-286709, EBI-10235794;
+CC       P55060; Q9Y275: TNFSF13B; NbExp=2; IntAct=EBI-286709, EBI-519169;
+CC       P55060; P04637: TP53; NbExp=5; IntAct=EBI-286709, EBI-366083;
+CC       P55060; Q9H1C4: UNC93B1; NbExp=2; IntAct=EBI-286709, EBI-4401271;
+CC       P55060; Q9BTM9: URM1; NbExp=2; IntAct=EBI-286709, EBI-714589;
+CC       P55060; O95183: VAMP5; NbExp=2; IntAct=EBI-286709, EBI-10191195;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:9323134}. Nucleus
+CC       {ECO:0000269|PubMed:9323134}. Note=Shuttles between the nucleus and the
+CC       cytoplasm. {ECO:0000269|PubMed:9323134}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1; Synonyms=A;
+CC         IsoId=P55060-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P55060-2; Sequence=VSP_001222, VSP_001223;
+CC       Name=3;
+CC         IsoId=P55060-3; Sequence=VSP_001224, VSP_001225;
+CC       Name=4;
+CC         IsoId=P55060-4; Sequence=VSP_047203;
+CC   -!- TISSUE SPECIFICITY: Detected in brain, placenta, ovary, testis and
+CC       trachea (at protein level) (PubMed:10331944). Widely expressed
+CC       (PubMed:10331944). Highly expressed in testis and in proliferating
+CC       cells (PubMed:7479798, PubMed:10331944). {ECO:0000269|PubMed:10331944,
+CC       ECO:0000269|PubMed:7479798}.
+CC   -!- SIMILARITY: Belongs to the XPO2/CSE1 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/40159/CSE1L";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U33286; AAC50367.1; -; mRNA.
+DR   EMBL; AF053640; AAC35007.1; -; mRNA.
+DR   EMBL; AF053641; AAC35008.1; -; mRNA.
+DR   EMBL; AF053642; AAC35009.1; -; mRNA.
+DR   EMBL; AF053651; AAC35297.1; -; Genomic_DNA.
+DR   EMBL; AF053644; AAC35297.1; JOINED; Genomic_DNA.
+DR   EMBL; AF053645; AAC35297.1; JOINED; Genomic_DNA.
+DR   EMBL; AF053646; AAC35297.1; JOINED; Genomic_DNA.
+DR   EMBL; AF053647; AAC35297.1; JOINED; Genomic_DNA.
+DR   EMBL; AF053648; AAC35297.1; JOINED; Genomic_DNA.
+DR   EMBL; AF053649; AAC35297.1; JOINED; Genomic_DNA.
+DR   EMBL; AF053650; AAC35297.1; JOINED; Genomic_DNA.
+DR   EMBL; EF426455; ABO15009.1; -; mRNA.
+DR   EMBL; AK312306; BAG35231.1; -; mRNA.
+DR   EMBL; AL121903; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL133174; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471077; EAW75676.1; -; Genomic_DNA.
+DR   EMBL; CH471077; EAW75677.1; -; Genomic_DNA.
+DR   EMBL; BC108309; AAI08310.1; -; mRNA.
+DR   EMBL; BC109313; AAI09314.1; -; mRNA.
+DR   EMBL; BC109314; AAI09315.1; -; mRNA.
+DR   CCDS; CCDS13412.1; -. [P55060-1]
+DR   CCDS; CCDS58773.1; -. [P55060-4]
+DR   PIR; I39166; I39166.
+DR   RefSeq; NP_001243064.1; NM_001256135.1. [P55060-4]
+DR   RefSeq; NP_001307.2; NM_001316.3. [P55060-1]
+DR   RefSeq; XP_011526901.1; XM_011528599.2.
+DR   AlphaFoldDB; P55060; -.
+DR   SMR; P55060; -.
+DR   BioGRID; 107821; 299.
+DR   CORUM; P55060; -.
+DR   DIP; DIP-32573N; -.
+DR   IntAct; P55060; 74.
+DR   MINT; P55060; -.
+DR   STRING; 9606.ENSP00000262982; -.
+DR   TCDB; 1.I.1.1.3; the nuclear pore complex (npc) family.
+DR   GlyGen; P55060; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P55060; -.
+DR   MetOSite; P55060; -.
+DR   PhosphoSitePlus; P55060; -.
+DR   SwissPalm; P55060; -.
+DR   BioMuta; CSE1L; -.
+DR   DMDM; 62297557; -.
+DR   EPD; P55060; -.
+DR   jPOST; P55060; -.
+DR   MassIVE; P55060; -.
+DR   MaxQB; P55060; -.
+DR   PaxDb; P55060; -.
+DR   PeptideAtlas; P55060; -.
+DR   ProteomicsDB; 30232; -.
+DR   ProteomicsDB; 56771; -. [P55060-1]
+DR   ProteomicsDB; 56772; -. [P55060-2]
+DR   ProteomicsDB; 56773; -. [P55060-3]
+DR   Antibodypedia; 28372; 595 antibodies from 40 providers.
+DR   DNASU; 1434; -.
+DR   Ensembl; ENST00000262982.3; ENSP00000262982.2; ENSG00000124207.17. [P55060-1]
+DR   Ensembl; ENST00000396192.7; ENSP00000379495.3; ENSG00000124207.17. [P55060-4]
+DR   GeneID; 1434; -.
+DR   KEGG; hsa:1434; -.
+DR   MANE-Select; ENST00000262982.3; ENSP00000262982.2; NM_001316.4; NP_001307.2.
+DR   UCSC; uc002xty.5; human. [P55060-1]
+DR   AGR; HGNC:2431; -.
+DR   CTD; 1434; -.
+DR   DisGeNET; 1434; -.
+DR   GeneCards; CSE1L; -.
+DR   HGNC; HGNC:2431; CSE1L.
+DR   HPA; ENSG00000124207; Low tissue specificity.
+DR   MIM; 601342; gene.
+DR   neXtProt; NX_P55060; -.
+DR   OpenTargets; ENSG00000124207; -.
+DR   PharmGKB; PA26933; -.
+DR   VEuPathDB; HostDB:ENSG00000124207; -.
+DR   eggNOG; KOG1992; Eukaryota.
+DR   GeneTree; ENSGT00550000074884; -.
+DR   HOGENOM; CLU_009614_0_0_1; -.
+DR   InParanoid; P55060; -.
+DR   OMA; YRYEFKS; -.
+DR   OrthoDB; 178772at2759; -.
+DR   PhylomeDB; P55060; -.
+DR   TreeFam; TF300473; -.
+DR   PathwayCommons; P55060; -.
+DR   SignaLink; P55060; -.
+DR   BioGRID-ORCS; 1434; 836 hits in 1166 CRISPR screens.
+DR   ChiTaRS; CSE1L; human.
+DR   GenomeRNAi; 1434; -.
+DR   Pharos; P55060; Tbio.
+DR   PRO; PR:P55060; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   RNAct; P55060; protein.
+DR   Bgee; ENSG00000124207; Expressed in endothelial cell and 217 other tissues.
+DR   ExpressionAtlas; P55060; baseline and differential.
+DR   Genevisible; P55060; HS.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ProtInc.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0005635; C:nuclear envelope; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; TAS:ProtInc.
+DR   GO; GO:0005049; F:nuclear export signal receptor activity; IBA:GO_Central.
+DR   GO; GO:0031267; F:small GTPase binding; IEA:InterPro.
+DR   GO; GO:0006611; P:protein export from nucleus; IBA:GO_Central.
+DR   GO; GO:0006606; P:protein import into nucleus; IBA:GO_Central.
+DR   Gene3D; 1.25.10.10; Leucine-rich Repeat Variant; 1.
+DR   InterPro; IPR011989; ARM-like.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR001494; Importin-beta_N.
+DR   InterPro; IPR005043; XPO2_C.
+DR   InterPro; IPR013713; XPO2_central.
+DR   PANTHER; PTHR10997:SF8; EXPORTIN-2; 1.
+DR   PANTHER; PTHR10997; IMPORTIN-7, 8, 11; 1.
+DR   Pfam; PF03378; CAS_CSE1; 1.
+DR   Pfam; PF08506; Cse1; 1.
+DR   Pfam; PF03810; IBN_N; 1.
+DR   SMART; SM00913; IBN_N; 1.
+DR   SUPFAM; SSF48371; ARM repeat; 1.
+DR   PROSITE; PS50166; IMPORTIN_B_NT; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Cytoplasm; Direct protein sequencing;
+KW   Nucleus; Phosphoprotein; Protein transport; Reference proteome; Transport.
+FT   CHAIN           1..971
+FT                   /note="Exportin-2"
+FT                   /id="PRO_0000117287"
+FT   DOMAIN          29..102
+FT                   /note="Importin N-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00115"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0000269|Ref.8, ECO:0007744|PubMed:19413330,
+FT                   ECO:0007744|PubMed:22223895, ECO:0007744|PubMed:22814378"
+FT   MOD_RES         112
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         574
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         824
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         931
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   VAR_SEQ         190..195
+FT                   /note="ATIELC -> VWNASW (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:10331944"
+FT                   /id="VSP_001222"
+FT   VAR_SEQ         196..971
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:10331944"
+FT                   /id="VSP_001223"
+FT   VAR_SEQ         257..312
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11703094"
+FT                   /id="VSP_047203"
+FT   VAR_SEQ         943..945
+FT                   /note="VPS -> TYF (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:10331944"
+FT                   /id="VSP_001224"
+FT   VAR_SEQ         946..971
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:10331944"
+FT                   /id="VSP_001225"
+FT   VARIANT         754
+FT                   /note="I -> V (in dbSNP:rs2229042)"
+FT                   /id="VAR_029327"
+FT   VARIANT         842
+FT                   /note="C -> F (in a colorectal cancer sample; somatic
+FT                   mutation)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_036558"
+FT   VARIANT         968
+FT                   /note="V -> L (in dbSNP:rs3505)"
+FT                   /id="VAR_048836"
+FT   CONFLICT        231..233
+FT                   /note="FED -> WEG (in Ref. 1; AAC50367 and 2; AAC35008)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        514
+FT                   /note="E -> G (in Ref. 1; AAC50367 and 2; AAC35008)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        538
+FT                   /note="A -> T (in Ref. 3; ABO15009)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        848
+FT                   /note="K -> N (in Ref. 1; AAC50367)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        934
+FT                   /note="K -> M (in Ref. 1; AAC50367)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   971 AA;  110417 MW;  08E837AB5008EBFD CRC64;
+     MELSDANLQT LTEYLKKTLD PDPAIRRPAE KFLESVEGNQ NYPLLLLTLL EKSQDNVIKV
+     CASVTFKNYI KRNWRIVEDE PNKICEADRV AIKANIVHLM LSSPEQIQKQ LSDAISIIGR
+     EDFPQKWPDL LTEMVNRFQS GDFHVINGVL RTAHSLFKRY RHEFKSNELW TEIKLVLDAF
+     ALPLTNLFKA TIELCSTHAN DASALRILFS SLILISKLFY SLNFQDLPEF FEDNMETWMN
+     NFHTLLTLDN KLLQTDDEEE AGLLELLKSQ ICDNAALYAQ KYDEEFQRYL PRFVTAIWNL
+     LVTTGQEVKY DLLVSNAIQF LASVCERPHY KNLFEDQNTL TSICEKVIVP NMEFRAADEE
+     AFEDNSEEYI RRDLEGSDID TRRRAACDLV RGLCKFFEGP VTGIFSGYVN SMLQEYAKNP
+     SVNWKHKDAA IYLVTSLASK AQTQKHGITQ ANELVNLTEF FVNHILPDLK SANVNEFPVL
+     KADGIKYIMI FRNQVPKEHL LVSIPLLINH LQAESIVVHT YAAHALERLF TMRGPNNATL
+     FTAAEIAPFV EILLTNLFKA LTLPGSSENE YIMKAIMRSF SLLQEAIIPY IPTLITQLTQ
+     KLLAVSKNPS KPHFNHYMFE AICLSIRITC KANPAAVVNF EEALFLVFTE ILQNDVQEFI
+     PYVFQVMSLL LETHKNDIPS SYMALFPHLL QPVLWERTGN IPALVRLLQA FLERGSNTIA
+     SAAADKIPGL LGVFQKLIAS KANDHQGFYL LNSIIEHMPP ESVDQYRKQI FILLFQRLQN
+     SKTTKFIKSF LVFINLYCIK YGALALQEIF DGIQPKMFGM VLEKIIIPEI QKVSGNVEKK
+     ICAVGITKLL TECPPMMDTE YTKLWTPLLQ SLIGLFELPE DDTIPDEEHF IDIEDTPGYQ
+     TAFSQLAFAG KKEHDPVGQM VNNPKIHLAQ SLHKLSTACP GRVPSMVSTS LNAEALQYLQ
+     GYLQAASVTL L
+//

@@ -1,0 +1,333 @@
+ID   IGLL1_HUMAN             Reviewed;         213 AA.
+AC   P15814; Q0P681;
+DT   01-APR-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1990, sequence version 1.
+DT   28-JUN-2023, entry version 200.
+DE   RecName: Full=Immunoglobulin lambda-like polypeptide 1;
+DE   AltName: Full=CD179 antigen-like family member B;
+DE   AltName: Full=Ig lambda-5;
+DE   AltName: Full=Immunoglobulin omega polypeptide;
+DE   AltName: Full=Immunoglobulin-related protein 14.1;
+DE   AltName: CD_antigen=CD179b;
+DE   Flags: Precursor;
+GN   Name=IGLL1; Synonyms=IGL1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=2501791; DOI=10.1073/pnas.86.14.5552;
+RA   Hollis G.F., Evans R.J., Stafford-Hollis J.M., Korsmeyer S.J.,
+RA   McKearn J.P.;
+RT   "Immunoglobulin lambda light-chain-related genes 14.1 and 16.1 are
+RT   expressed in pre-B cells and may encode the human immunoglobulin omega
+RT   light-chain protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:5552-5556(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Lymphoid tissue;
+RX   PubMed=1703205; DOI=10.1084/jem.173.2.305;
+RA   Evans R.J., Hollis G.F.;
+RT   "Genomic structure of the human Ig lambda 1 gene suggests that it may be
+RT   expressed as an Ig lambda 14.1-like protein or as a canonical B cell Ig
+RT   lambda light chain: implications for Ig lambda gene evolution.";
+RL   J. Exp. Med. 173:305-311(1991).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10591208; DOI=10.1038/990031;
+RA   Dunham I., Hunt A.R., Collins J.E., Bruskiewich R., Beare D.M., Clamp M.,
+RA   Smink L.J., Ainscough R., Almeida J.P., Babbage A.K., Bagguley C.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beasley O.P., Bird C.P., Blakey S.E.,
+RA   Bridgeman A.M., Buck D., Burgess J., Burrill W.D., Burton J., Carder C.,
+RA   Carter N.P., Chen Y., Clark G., Clegg S.M., Cobley V.E., Cole C.G.,
+RA   Collier R.E., Connor R., Conroy D., Corby N.R., Coville G.J., Cox A.V.,
+RA   Davis J., Dawson E., Dhami P.D., Dockree C., Dodsworth S.J., Durbin R.M.,
+RA   Ellington A.G., Evans K.L., Fey J.M., Fleming K., French L., Garner A.A.,
+RA   Gilbert J.G.R., Goward M.E., Grafham D.V., Griffiths M.N.D., Hall C.,
+RA   Hall R.E., Hall-Tamlyn G., Heathcott R.W., Ho S., Holmes S., Hunt S.E.,
+RA   Jones M.C., Kershaw J., Kimberley A.M., King A., Laird G.K., Langford C.F.,
+RA   Leversha M.A., Lloyd C., Lloyd D.M., Martyn I.D., Mashreghi-Mohammadi M.,
+RA   Matthews L.H., Mccann O.T., Mcclay J., Mclaren S., McMurray A.A.,
+RA   Milne S.A., Mortimore B.J., Odell C.N., Pavitt R., Pearce A.V., Pearson D.,
+RA   Phillimore B.J.C.T., Phillips S.H., Plumb R.W., Ramsay H., Ramsey Y.,
+RA   Rogers L., Ross M.T., Scott C.E., Sehra H.K., Skuce C.D., Smalley S.,
+RA   Smith M.L., Soderlund C., Spragon L., Steward C.A., Sulston J.E.,
+RA   Swann R.M., Vaudin M., Wall M., Wallis J.M., Whiteley M.N., Willey D.L.,
+RA   Williams L., Williams S.A., Williamson H., Wilmer T.E., Wilming L.,
+RA   Wright C.L., Hubbard T., Bentley D.R., Beck S., Rogers J., Shimizu N.,
+RA   Minoshima S., Kawasaki K., Sasaki T., Asakawa S., Kudoh J., Shintani A.,
+RA   Shibuya K., Yoshizaki Y., Aoki N., Mitsuyama S., Roe B.A., Chen F., Chu L.,
+RA   Crabtree J., Deschamps S., Do A., Do T., Dorman A., Fang F., Fu Y., Hu P.,
+RA   Hua A., Kenton S., Lai H., Lao H.I., Lewis J., Lewis S., Lin S.-P., Loh P.,
+RA   Malaj E., Nguyen T., Pan H., Phan S., Qi S., Qian Y., Ray L., Ren Q.,
+RA   Shaull S., Sloan D., Song L., Wang Q., Wang Y., Wang Z., White J.,
+RA   Willingham D., Wu H., Yao Z., Zhan M., Zhang G., Chissoe S., Murray J.,
+RA   Miller N., Minx P., Fulton R., Johnson D., Bemis G., Bentley D.,
+RA   Bradshaw H., Bourne S., Cordes M., Du Z., Fulton L., Goela D., Graves T.,
+RA   Hawkins J., Hinds K., Kemp K., Latreille P., Layman D., Ozersky P.,
+RA   Rohlfing T., Scheet P., Walker C., Wamsley A., Wohldmann P., Pepin K.,
+RA   Nelson J., Korf I., Bedell J.A., Hillier L.W., Mardis E., Waterston R.,
+RA   Wilson R., Emanuel B.S., Shaikh T., Kurahashi H., Saitta S., Budarf M.L.,
+RA   McDermid H.E., Johnson A., Wong A.C.C., Morrow B.E., Edelmann L., Kim U.J.,
+RA   Shizuya H., Simon M.I., Dumanski J.P., Peyrard M., Kedra D., Seroussi E.,
+RA   Fransson I., Tapia I., Bruder C.E., O'Brien K.P., Wilkinson P.,
+RA   Bodenteich A., Hartman K., Hu X., Khan A.S., Lane L., Tilahun Y.,
+RA   Wright H.;
+RT   "The DNA sequence of human chromosome 22.";
+RL   Nature 402:489-495(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-193, AND TISSUE SPECIFICITY.
+RX   PubMed=2128466; DOI=10.1093/intimm/2.3.201;
+RA   Schiff C., Bensmana M., Guglielmi P., Milili M., Lefranc M.-P.,
+RA   Fougereau M.;
+RT   "The immunoglobulin lambda-like gene cluster (14.1, 16.1 and F lambda 1)
+RT   contains gene(s) selectively expressed in pre-B cells and is the human
+RT   counterpart of the mouse lambda 5 gene.";
+RL   Int. Immunol. 2:201-207(1990).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 95-213.
+RX   PubMed=3003227; DOI=10.1084/jem.163.2.425;
+RA   Chang H., Dmitrovsky E., Hieter P.A., Mitchell K., Leder P., Turoczi L.,
+RA   Kirsch I.R., Hollis G.F.;
+RT   "Identification of three new Ig lambda-like genes in man.";
+RL   J. Exp. Med. 163:425-435(1986).
+RN   [7]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND VARIANT AGM2 LEU-142.
+RX   PubMed=9419212; DOI=10.1084/jem.187.1.71;
+RA   Minegishi Y., Coustan-Smith E., Wang Y.H., Cooper M.D., Campana D.,
+RA   Conley M.E.;
+RT   "Mutations in the human lambda5/14.1 gene result in B cell deficiency and
+RT   agammaglobulinemia.";
+RL   J. Exp. Med. 187:71-77(1998).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 93-209 IN COMPLEX WITH VPREB1,
+RP   SUBUNIT, AND DISULFIDE BOND.
+RX   PubMed=17431183; DOI=10.1126/science.1139412;
+RA   Bankovich A.J., Raunser S., Juo Z.S., Walz T., Davis M.M., Garcia K.C.;
+RT   "Structural insight into pre-B cell receptor function.";
+RL   Science 316:291-294(2007).
+CC   -!- FUNCTION: Critical for B-cell development.
+CC       {ECO:0000269|PubMed:9419212}.
+CC   -!- SUBUNIT: Associates non-covalently with VPREB1 (PubMed:17431183).
+CC       Interacts with SYNV1/HRD1 (via N-terminus); this interaction leads to
+CC       increased IGLL1 ubiquitination and degradation in pre-B cells, possibly
+CC       through a lysosomal, not proteasomal, pathway (By similarity).
+CC       {ECO:0000250|UniProtKB:P20764, ECO:0000269|PubMed:17431183}.
+CC   -!- INTERACTION:
+CC       P15814; B3EWG5: FAM25C; NbExp=3; IntAct=EBI-1222221, EBI-14240149;
+CC       P15814; Q9UHD9: UBQLN2; NbExp=3; IntAct=EBI-1222221, EBI-947187;
+CC       P15814; Q2GHU2: ECH_0166; Xeno; NbExp=2; IntAct=EBI-1222221, EBI-26585631;
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum
+CC       {ECO:0000250|UniProtKB:P20764}. Secreted {ECO:0000269|PubMed:9419212}.
+CC       Note=In pre-B cells, localizes predominantly to the endoplasmic
+CC       reticulum. {ECO:0000250|UniProtKB:P20764}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P15814-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P15814-2; Sequence=VSP_042748;
+CC   -!- TISSUE SPECIFICITY: Expressed only in pre-B-cells and a special B-cell
+CC       line (which is surface Ig negative). {ECO:0000269|PubMed:2128466}.
+CC   -!- DISEASE: Agammaglobulinemia 2, autosomal recessive (AGM2) [MIM:613500]:
+CC       A primary immunodeficiency characterized by profoundly low or absent
+CC       serum antibodies and low or absent circulating B cells due to an early
+CC       block of B-cell development. Affected individuals develop severe
+CC       infections in the first years of life. {ECO:0000269|PubMed:9419212}.
+CC       Note=The disease is caused by variants affecting the gene represented
+CC       in this entry.
+CC   -!- WEB RESOURCE: Name=IGLL1base; Note=IGLL1 mutation db;
+CC       URL="http://structure.bmc.lu.se/idbase/IGLL1base/";
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=IGLL1;
+CC       URL="https://en.wikipedia.org/wiki/IGLL1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M27749; AAA36100.1; -; mRNA.
+DR   EMBL; M34513; AAA36096.1; -; Genomic_DNA.
+DR   EMBL; M34511; AAA36096.1; JOINED; Genomic_DNA.
+DR   EMBL; M34512; AAA36096.1; JOINED; Genomic_DNA.
+DR   EMBL; AP000345; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC030239; AAH30239.2; -; mRNA.
+DR   EMBL; BC012293; AAH12293.1; -; mRNA.
+DR   EMBL; X03528; CAA27229.1; -; Genomic_DNA.
+DR   EMBL; X03530; CAA27231.1; -; Genomic_DNA.
+DR   CCDS; CCDS13809.1; -. [P15814-1]
+DR   CCDS; CCDS13810.1; -. [P15814-2]
+DR   PIR; A33911; A33911.
+DR   RefSeq; NP_064455.1; NM_020070.3. [P15814-1]
+DR   RefSeq; NP_690594.1; NM_152855.2. [P15814-2]
+DR   PDB; 2H32; X-ray; 2.70 A; B=93-213.
+DR   PDB; 2H3N; X-ray; 2.30 A; B/D=94-209.
+DR   PDB; 2LKQ; NMR; -; A=59-82.
+DR   PDBsum; 2H32; -.
+DR   PDBsum; 2H3N; -.
+DR   PDBsum; 2LKQ; -.
+DR   AlphaFoldDB; P15814; -.
+DR   BMRB; P15814; -.
+DR   SMR; P15814; -.
+DR   BioGRID; 109759; 8.
+DR   CORUM; P15814; -.
+DR   IntAct; P15814; 9.
+DR   MINT; P15814; -.
+DR   STRING; 9606.ENSP00000329312; -.
+DR   DrugBank; DB09130; Copper.
+DR   GlyCosmos; P15814; 2 sites, 2 glycans.
+DR   GlyGen; P15814; 2 sites, 2 O-linked glycans (2 sites).
+DR   iPTMnet; P15814; -.
+DR   PhosphoSitePlus; P15814; -.
+DR   BioMuta; IGLL1; -.
+DR   DMDM; 123944; -.
+DR   jPOST; P15814; -.
+DR   MassIVE; P15814; -.
+DR   MaxQB; P15814; -.
+DR   PaxDb; P15814; -.
+DR   PeptideAtlas; P15814; -.
+DR   ProteomicsDB; 53223; -. [P15814-1]
+DR   ProteomicsDB; 53224; -. [P15814-2]
+DR   Antibodypedia; 9342; 321 antibodies from 30 providers.
+DR   DNASU; 3543; -.
+DR   Ensembl; ENST00000249053.3; ENSP00000249053.3; ENSG00000128322.7. [P15814-2]
+DR   Ensembl; ENST00000330377.3; ENSP00000329312.2; ENSG00000128322.7. [P15814-1]
+DR   GeneID; 3543; -.
+DR   KEGG; hsa:3543; -.
+DR   MANE-Select; ENST00000330377.3; ENSP00000329312.2; NM_020070.4; NP_064455.1.
+DR   UCSC; uc002zxd.4; human. [P15814-1]
+DR   AGR; HGNC:5870; -.
+DR   CTD; 3543; -.
+DR   DisGeNET; 3543; -.
+DR   GeneCards; IGLL1; -.
+DR   HGNC; HGNC:5870; IGLL1.
+DR   HPA; ENSG00000128322; Group enriched (bone marrow, testis).
+DR   MalaCards; IGLL1; -.
+DR   MIM; 146770; gene.
+DR   MIM; 613500; phenotype.
+DR   neXtProt; NX_P15814; -.
+DR   OpenTargets; ENSG00000128322; -.
+DR   Orphanet; 33110; Autosomal agammaglobulinemia.
+DR   PharmGKB; PA29756; -.
+DR   VEuPathDB; HostDB:ENSG00000128322; -.
+DR   eggNOG; ENOG502SPNC; Eukaryota.
+DR   GeneTree; ENSGT00940000153307; -.
+DR   HOGENOM; CLU_2526772_0_0_1; -.
+DR   InParanoid; P15814; -.
+DR   OMA; WAGPRCW; -.
+DR   OrthoDB; 3972376at2759; -.
+DR   PhylomeDB; P15814; -.
+DR   TreeFam; TF335549; -.
+DR   PathwayCommons; P15814; -.
+DR   Reactome; R-HSA-202733; Cell surface interactions at the vascular wall.
+DR   SignaLink; P15814; -.
+DR   BioGRID-ORCS; 3543; 29 hits in 1149 CRISPR screens.
+DR   ChiTaRS; IGLL1; human.
+DR   EvolutionaryTrace; P15814; -.
+DR   GeneWiki; IGLL1; -.
+DR   GenomeRNAi; 3543; -.
+DR   Pharos; P15814; Tbio.
+DR   PRO; PR:P15814; -.
+DR   Proteomes; UP000005640; Chromosome 22.
+DR   RNAct; P15814; protein.
+DR   Bgee; ENSG00000128322; Expressed in bone marrow and 101 other tissues.
+DR   ExpressionAtlas; P15814; baseline and differential.
+DR   Genevisible; P15814; HS.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IEA:UniProtKB-SubCell.
+DR   GO; GO:0009897; C:external side of plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0016020; C:membrane; NAS:UniProtKB.
+DR   GO; GO:0006955; P:immune response; NAS:UniProtKB.
+DR   CDD; cd07699; IgC1_L; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   PANTHER; PTHR19944:SF98; IG-LIKE DOMAIN-CONTAINING PROTEIN; 1.
+DR   PANTHER; PTHR19944; MHC CLASS II-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Disease variant; Disulfide bond;
+KW   Endoplasmic reticulum; Immunoglobulin domain; Reference proteome; Secreted;
+KW   Signal.
+FT   SIGNAL          1..37
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           38..213
+FT                   /note="Immunoglobulin lambda-like polypeptide 1"
+FT                   /id="PRO_0000014777"
+FT   DOMAIN          114..208
+FT                   /note="Ig-like C1-type"
+FT   REGION          97..108
+FT                   /note="J region"
+FT                   /evidence="ECO:0000250"
+FT   REGION          109..213
+FT                   /note="C region"
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        135..194
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:17431183"
+FT   DISULFID        212
+FT                   /note="Interchain (with a heavy chain)"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   VAR_SEQ         70..213
+FT                   /note="FLLQRGSWTGPRCWPRGFQSKHNSVTHVFGSGTQLTVLSQPKATPSVTLFPP
+FT                   SSEELQANKATLVCLMNDFYPGILTVTWKADGTPITQGVEMTTPSKQSNNKYAASSYLS
+FT                   LTPEQWRSRRSYSCQVMHEGSTVEKTVAPAECS -> SAQGHPLGHSVPAVL (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_042748"
+FT   VARIANT         142
+FT                   /note="P -> L (in AGM2; dbSNP:rs1064422)"
+FT                   /evidence="ECO:0000269|PubMed:9419212"
+FT                   /id="VAR_034869"
+FT   VARIANT         189
+FT                   /note="R -> H (in dbSNP:rs8138122)"
+FT                   /id="VAR_059392"
+FT   TURN            61..65
+FT                   /evidence="ECO:0007829|PDB:2LKQ"
+FT   HELIX           66..70
+FT                   /evidence="ECO:0007829|PDB:2LKQ"
+FT   HELIX           72..75
+FT                   /evidence="ECO:0007829|PDB:2LKQ"
+FT   STRAND          102..108
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   STRAND          115..119
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   HELIX           123..126
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   TURN            127..129
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   STRAND          131..143
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   STRAND          146..151
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   STRAND          158..162
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   STRAND          173..181
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   HELIX           183..188
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   STRAND          192..198
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+FT   STRAND          201..207
+FT                   /evidence="ECO:0007829|PDB:2H3N"
+SQ   SEQUENCE   213 AA;  22963 MW;  9133A7742B943C79 CRC64;
+     MRPGTGQGGL EAPGEPGPNL RQRWPLLLLG LAVVTHGLLR PTAASQSRAL GPGAPGGSSR
+     SSLRSRWGRF LLQRGSWTGP RCWPRGFQSK HNSVTHVFGS GTQLTVLSQP KATPSVTLFP
+     PSSEELQANK ATLVCLMNDF YPGILTVTWK ADGTPITQGV EMTTPSKQSN NKYAASSYLS
+     LTPEQWRSRR SYSCQVMHEG STVEKTVAPA ECS
+//

@@ -1,0 +1,372 @@
+ID   TPC14_HUMAN             Reviewed;         580 AA.
+AC   Q8WVR3; A4D2A9; D6W5U4; Q9BQJ1; Q9BUB6; Q9NV47;
+DT   20-MAR-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 2.
+DT   28-JUN-2023, entry version 141.
+DE   RecName: Full=Trafficking protein particle complex subunit 14;
+DE   AltName: Full=Microtubule-associated protein 11 {ECO:0000303|PubMed:30715179};
+GN   Name=TRAPPC14 {ECO:0000312|HGNC:HGNC:25604};
+GN   Synonyms=C7orf43 {ECO:0000312|HGNC:HGNC:25604}, MAP11
+GN   {ECO:0000303|PubMed:30715179};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Amygdala;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Ovarian carcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12690205; DOI=10.1126/science.1083423;
+RA   Scherer S.W., Cheung J., MacDonald J.R., Osborne L.R., Nakabayashi K.,
+RA   Herbrick J.-A., Carson A.R., Parker-Katiraee L., Skaug J., Khaja R.,
+RA   Zhang J., Hudek A.K., Li M., Haddad M., Duggan G.E., Fernandez B.A.,
+RA   Kanematsu E., Gentles S., Christopoulos C.C., Choufani S., Kwasnicka D.,
+RA   Zheng X.H., Lai Z., Nusskern D.R., Zhang Q., Gu Z., Lu F., Zeesman S.,
+RA   Nowaczyk M.J., Teshima I., Chitayat D., Shuman C., Weksberg R.,
+RA   Zackai E.H., Grebe T.A., Cox S.R., Kirkpatrick S.J., Rahman N.,
+RA   Friedman J.M., Heng H.H.Q., Pelicci P.G., Lo-Coco F., Belloni E.,
+RA   Shaffer L.G., Pober B., Morton C.C., Gusella J.F., Bruns G.A.P., Korf B.R.,
+RA   Quade B.J., Ligon A.H., Ferguson H., Higgins A.W., Leach N.T.,
+RA   Herrick S.R., Lemyre E., Farra C.G., Kim H.-G., Summers A.M., Gripp K.W.,
+RA   Roberts W., Szatmari P., Winsor E.J.T., Grzeschik K.-H., Teebi A.,
+RA   Minassian B.A., Kere J., Armengol L., Pujana M.A., Estivill X.,
+RA   Wilson M.D., Koop B.F., Tosi S., Moore G.E., Boright A.P., Zlotorynski E.,
+RA   Kerem B., Kroisel P.M., Petek E., Oscier D.G., Mould S.J., Doehner H.,
+RA   Doehner K., Rommens J.M., Vincent J.B., Venter J.C., Li P.W., Mural R.J.,
+RA   Adams M.D., Tsui L.-C.;
+RT   "Human chromosome 7: DNA sequence and biology.";
+RL   Science 300:767-772(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Skin, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-517; THR-541 AND SER-546, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-491 AND SER-517, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=30447097; DOI=10.1111/cas.13884;
+RA   Amisaki M., Tsuchiya H., Sakabe T., Fujiwara Y., Shiota G.;
+RT   "Identification of genes involved in the regulation of TERT in
+RT   hepatocellular carcinoma.";
+RL   Cancer Sci. 110:550-560(2019).
+RN   [10]
+RP   INVOLVEMENT IN MCPH25, VARIANT MCPH25 205-GLU--LYS-580 DEL, FUNCTION,
+RP   TISSUE SPECIFICITY, SUBCELLULAR LOCATION, AND INTERACTION WITH
+RP   ALPHA-TUBULIN.
+RX   PubMed=30715179; DOI=10.1093/brain/awz004;
+RA   Perez Y., Bar-Yaacov R., Kadir R., Wormser O., Shelef I., Birk O.S.,
+RA   Flusser H., Birnbaum R.Y.;
+RT   "Mutations in the microtubule-associated protein MAP11 (C7orf43) cause
+RT   microcephaly in humans and zebrafish.";
+RL   Brain 142:574-585(2019).
+RN   [11]
+RP   IDENTIFICATION IN THE TRAPP II COMPLEX, INTERACTION WITH RAB3IP; TRAPPC10
+RP   AND FBF1, SUBCELLULAR LOCATION, FUNCTION, AND SUBUNIT.
+RX   PubMed=31467083; DOI=10.1074/jbc.ra119.008615;
+RA   Cuenca A., Insinna C., Zhao H., John P., Weiss M.A., Lu Q., Walia V.,
+RA   Specht S., Manivannan S., Stauffer J., Peden A.A., Westlake C.J.;
+RT   "The C7orf43/TRAPPC14 component links the TRAPPII complex to Rabin8 for
+RT   preciliary vesicle tethering at the mother centriole during ciliogenesis.";
+RL   J. Biol. Chem. 294:15418-15434(2019).
+CC   -!- FUNCTION: Specific subunit of the TRAPP (transport protein particle) II
+CC       complex, a highly conserved vesicle tethering complex that functions in
+CC       late Golgi trafficking as a membrane tether (PubMed:31467083,
+CC       PubMed:30715179). TRAPP II complex has also GEF activity toward RAB1A
+CC       (By similarity). TRAPPC14 is dispensable for TRAPPII complex integrity
+CC       but mediates RAB3IP preciliary vesicle trafficking to the mother
+CC       centriole during ciliogenesis (PubMed:31467083). Modulates YAP1
+CC       activity as transcriptional regulator (PubMed:30447097).
+CC       {ECO:0000250|UniProtKB:Q3TLI0, ECO:0000269|PubMed:30447097,
+CC       ECO:0000269|PubMed:30715179, ECO:0000269|PubMed:31467083}.
+CC   -!- SUBUNIT: Component of the multisubunit TRAPP II complex, which includes
+CC       at least TRAPPC1, TRAPPC2, TRAPPC2L, TRAPPC3, TRAPPC4, TRAPPC5,
+CC       TRAPPC6A/B, TRAPPC9, TRAPPC10 and TRAPPC14. TRAPPC9, TRAPPC10 and
+CC       TRAPPC14 are specific subunits of the TRAPP II complex
+CC       (PubMed:31467083). Interacts with alpha-tubulin during mitosis
+CC       (PubMed:30715179). Interacts with RAB3IP (via the N-terminal region);
+CC       this interaction mediates RAB3IP association with the TRAPP II complex
+CC       (PubMed:31467083). Interacts with TRAPPC10 (PubMed:31467083). Interacts
+CC       with FBF1 (PubMed:31467083). {ECO:0000269|PubMed:30715179,
+CC       ECO:0000269|PubMed:31467083}.
+CC   -!- INTERACTION:
+CC       Q8WVR3; P21549: AGXT; NbExp=3; IntAct=EBI-719893, EBI-727098;
+CC       Q8WVR3; A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-719893, EBI-3867333;
+CC       Q8WVR3; Q3LI64: KRTAP6-1; NbExp=3; IntAct=EBI-719893, EBI-12111050;
+CC       Q8WVR3; P0DPK4: NOTCH2NLC; NbExp=3; IntAct=EBI-719893, EBI-22310682;
+CC       Q8WVR3; P22735: TGM1; NbExp=3; IntAct=EBI-719893, EBI-2562368;
+CC       Q8WVR3; Q2TAL6: VWC2; NbExp=3; IntAct=EBI-719893, EBI-11957238;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton, spindle
+CC       {ECO:0000269|PubMed:30715179}. Vesicle {ECO:0000269|PubMed:30715179,
+CC       ECO:0000269|PubMed:31467083}. Midbody {ECO:0000269|PubMed:30715179}.
+CC       Cytoplasm {ECO:0000269|PubMed:31467083}. Note=During mitosis, precedes
+CC       alpha-tubulin in gap formation of cell abscission at the midbody and is
+CC       co-localized with PLK1 at the edges of microtubules extensions of
+CC       daughter cells post cytokinesis abscission (PubMed:30715179).
+CC       Colocalizes with RAB3IP on preciliary vesicles (PubMed:31467083).
+CC       {ECO:0000269|PubMed:30715179, ECO:0000269|PubMed:31467083}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q8WVR3-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8WVR3-2; Sequence=VSP_023633, VSP_023636, VSP_023637;
+CC       Name=3;
+CC         IsoId=Q8WVR3-3; Sequence=VSP_023634, VSP_023635;
+CC   -!- TISSUE SPECIFICITY: Broadly expressed. High levels in brain,
+CC       cerebellum, testis and whole blood. {ECO:0000269|PubMed:30715179}.
+CC   -!- DISEASE: Microcephaly 25, primary, autosomal recessive (MCPH25)
+CC       [MIM:618351]: A form of microcephaly, a disease defined as a head
+CC       circumference more than 3 standard deviations below the age, sex and
+CC       ethnically matched mean. Brain weight is markedly reduced and the
+CC       cerebral cortex is disproportionately small. MCPH25 patients
+CC       additionally manifest global developmental delay, severe intellectual
+CC       disability with speech impairment, attention deficit-hyperactivity
+CC       disorder, and reduced white matter and thin corpus callosum on brain
+CC       imaging. {ECO:0000269|PubMed:30715179}. Note=The disease is caused by
+CC       variants affecting the gene represented in this entry.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAB66490.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AL136555; CAB66490.1; ALT_FRAME; mRNA.
+DR   EMBL; AK001787; BAA91911.1; -; mRNA.
+DR   EMBL; CH236956; EAL23848.1; -; Genomic_DNA.
+DR   EMBL; CH471091; EAW76580.1; -; Genomic_DNA.
+DR   EMBL; CH471091; EAW76582.1; -; Genomic_DNA.
+DR   EMBL; BC002749; AAH02749.2; -; mRNA.
+DR   EMBL; BC015722; AAH15722.2; -; mRNA.
+DR   CCDS; CCDS5687.1; -. [Q8WVR3-1]
+DR   RefSeq; NP_060745.3; NM_018275.4. [Q8WVR3-1]
+DR   AlphaFoldDB; Q8WVR3; -.
+DR   BioGRID; 120552; 44.
+DR   IntAct; Q8WVR3; 20.
+DR   STRING; 9606.ENSP00000324741; -.
+DR   GlyGen; Q8WVR3; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; Q8WVR3; -.
+DR   PhosphoSitePlus; Q8WVR3; -.
+DR   BioMuta; C7orf43; -.
+DR   DMDM; 74730883; -.
+DR   EPD; Q8WVR3; -.
+DR   jPOST; Q8WVR3; -.
+DR   MassIVE; Q8WVR3; -.
+DR   MaxQB; Q8WVR3; -.
+DR   PaxDb; Q8WVR3; -.
+DR   PeptideAtlas; Q8WVR3; -.
+DR   ProteomicsDB; 74815; -. [Q8WVR3-1]
+DR   ProteomicsDB; 74816; -. [Q8WVR3-2]
+DR   ProteomicsDB; 74817; -. [Q8WVR3-3]
+DR   Antibodypedia; 16406; 101 antibodies from 17 providers.
+DR   DNASU; 55262; -.
+DR   Ensembl; ENST00000316937.8; ENSP00000324741.3; ENSG00000146826.17. [Q8WVR3-1]
+DR   GeneID; 55262; -.
+DR   KEGG; hsa:55262; -.
+DR   MANE-Select; ENST00000316937.8; ENSP00000324741.3; NM_018275.5; NP_060745.3.
+DR   UCSC; uc003utr.4; human. [Q8WVR3-1]
+DR   AGR; HGNC:25604; -.
+DR   CTD; 55262; -.
+DR   DisGeNET; 55262; -.
+DR   GeneCards; TRAPPC14; -.
+DR   HGNC; HGNC:25604; TRAPPC14.
+DR   HPA; ENSG00000146826; Low tissue specificity.
+DR   MalaCards; TRAPPC14; -.
+DR   MIM; 618350; gene.
+DR   MIM; 618351; phenotype.
+DR   neXtProt; NX_Q8WVR3; -.
+DR   NIAGADS; ENSG00000146826; -.
+DR   OpenTargets; ENSG00000146826; -.
+DR   Orphanet; 2512; Autosomal recessive primary microcephaly.
+DR   VEuPathDB; HostDB:ENSG00000146826; -.
+DR   eggNOG; ENOG502QSBJ; Eukaryota.
+DR   GeneTree; ENSGT00390000014725; -.
+DR   HOGENOM; CLU_031637_0_0_1; -.
+DR   InParanoid; Q8WVR3; -.
+DR   OMA; AHIGRRE; -.
+DR   OrthoDB; 5405880at2759; -.
+DR   PhylomeDB; Q8WVR3; -.
+DR   TreeFam; TF331500; -.
+DR   PathwayCommons; Q8WVR3; -.
+DR   SignaLink; Q8WVR3; -.
+DR   BioGRID-ORCS; 55262; 18 hits in 1141 CRISPR screens.
+DR   ChiTaRS; C7orf43; human.
+DR   GeneWiki; C7orf43; -.
+DR   GenomeRNAi; 55262; -.
+DR   Pharos; Q8WVR3; Tdark.
+DR   PRO; PR:Q8WVR3; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q8WVR3; protein.
+DR   Bgee; ENSG00000146826; Expressed in mucosa of transverse colon and 176 other tissues.
+DR   ExpressionAtlas; Q8WVR3; baseline and differential.
+DR   Genevisible; Q8WVR3; HS.
+DR   GO; GO:0034451; C:centriolar satellite; IDA:HPA.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:HPA.
+DR   GO; GO:0030496; C:midbody; IDA:UniProtKB.
+DR   GO; GO:0072686; C:mitotic spindle; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:1990071; C:TRAPPII protein complex; IMP:UniProtKB.
+DR   GO; GO:0043014; F:alpha-tubulin binding; IDA:UniProtKB.
+DR   GO; GO:0060271; P:cilium assembly; IMP:UniProtKB.
+DR   GO; GO:0042127; P:regulation of cell population proliferation; IDA:UniProtKB.
+DR   InterPro; IPR031626; TRAPPC14.
+DR   PANTHER; PTHR16096; MICROTUBULE-ASSOCIATED PROTEIN 11; 1.
+DR   PANTHER; PTHR16096:SF8; TRAFFICKING PROTEIN PARTICLE COMPLEX SUBUNIT 14; 1.
+DR   Pfam; PF15806; DUF4707; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cilium biogenesis/degradation; Cytoplasm;
+KW   Cytoskeleton; Disease variant; Phosphoprotein; Primary microcephaly;
+KW   Reference proteome.
+FT   CHAIN           1..580
+FT                   /note="Trafficking protein particle complex subunit 14"
+FT                   /id="PRO_0000280344"
+FT   REGION          90..138
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          480..533
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        510..529
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         491
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         517
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         541
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         546
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   VAR_SEQ         1..378
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_023633"
+FT   VAR_SEQ         1..374
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:11230166"
+FT                   /id="VSP_023634"
+FT   VAR_SEQ         375..413
+FT                   /note="SCKSPVRTYERFTVTYTLLNNLQDFLAVRLVWTPEHAQA -> MHRLFTPQS
+FT                   GFENQMRLCWRRPCGNEERCSVCWSLFLPP (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:11230166"
+FT                   /id="VSP_023635"
+FT   VAR_SEQ         379..413
+FT                   /note="PVRTYERFTVTYTLLNNLQDFLAVRLVWTPEHAQA -> MHRLSGFENQMRL
+FT                   CWRRPCGNEERCSVCWSLFLPP (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_023636"
+FT   VAR_SEQ         466..468
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_023637"
+FT   VARIANT         205..580
+FT                   /note="Missing (in MCPH25)"
+FT                   /evidence="ECO:0000269|PubMed:30715179"
+FT                   /id="VAR_081463"
+FT   VARIANT         295
+FT                   /note="R -> H (in dbSNP:rs2293477)"
+FT                   /id="VAR_050817"
+FT   CONFLICT        497
+FT                   /note="S -> R (in Ref. 1; CAB66490)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   580 AA;  62597 MW;  EF0E23FEFB98D328 CRC64;
+     MESQCDYSMY FPAVPLPPRA ELAGDPGRYR ALPRRNHLYL GETVRFLLVL RCRGGAGSGT
+     GGGPGLGSRG AWAELATALA ALASVSAGGG MPGGGGAGDQ DSEPPGGGDP GGGGLFRGCS
+     PLLTHGPGPA TSGGATTLPV EEPIVSTDEV IFPLTVSLDR LPPGTPKAKI VVTVWKREIE
+     APEVRDQGYL RLLQTRSPGE TFRGEQSAFK AQVSTLLTLL PPPVLRCRQF TVAGKHLTVL
+     KVLNSSSQEE ISIWDIRILP NFNASYLPVM PDGSVLLVDN VCHQSGEVSM GSFCRLPGTS
+     GCFPCPLNAL EEHNFLFQLR GGEQPPPGAK EGLEVPLIAV VQWSTPKLPF TQSIYTHYRL
+     PSVRLDRPCF VMTASCKSPV RTYERFTVTY TLLNNLQDFL AVRLVWTPEH AQAGKQLCEE
+     ERRAMQAALD SVVCHTPLNN LGFSRKGSAL TFSVAFQALR TGLFELSQHM KLKLQFTASV
+     SHPPPEARPL SRKSSPSSPA VRDLVERHQA SLGRSQSFSH QQPSRSHLMR SGSVMERRAI
+     TPPVASPVGR PLYLPPDKAV LSLDKIAKRE CKVLVVEPVK
+//

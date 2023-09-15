@@ -1,0 +1,451 @@
+ID   RBSK_HUMAN              Reviewed;         322 AA.
+AC   Q9H477; A9UK04; B4DV96;
+DT   23-JAN-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   28-JUN-2023, entry version 175.
+DE   RecName: Full=Ribokinase {ECO:0000255|HAMAP-Rule:MF_03215, ECO:0000303|PubMed:17585908};
+DE            Short=RK {ECO:0000255|HAMAP-Rule:MF_03215, ECO:0000303|PubMed:17585908};
+DE            EC=2.7.1.15 {ECO:0000255|HAMAP-Rule:MF_03215, ECO:0000269|PubMed:17585908};
+GN   Name=RBKS {ECO:0000255|HAMAP-Rule:MF_03215}; Synonyms=RBSK;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Wightman P.J.;
+RL   Thesis (2000), University of Edinburgh, United Kingdom.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Li X., Mao Y., Xie Y.;
+RT   "Cloning and characterization of RBS protein.";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Small intestine;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND ACTIVITY
+RP   REGULATION.
+RX   PubMed=17585908; DOI=10.1016/j.febslet.2007.06.009;
+RA   Park J., van Koeverden P., Singh B., Gupta R.S.;
+RT   "Identification and characterization of human ribokinase and comparison of
+RT   its properties with E. coli ribokinase and human adenosine kinase.";
+RL   FEBS Lett. 581:3211-3216(2007).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 11-322 IN COMPLEX WITH ADP; SODIUM
+RP   AND MAGNESIUM.
+RG   Structural genomics consortium (SGC);
+RT   "Crystal structure of human ribokinase.";
+RL   Submitted (JAN-2006) to the PDB data bank.
+CC   -!- FUNCTION: Catalyzes the phosphorylation of ribose at O-5 in a reaction
+CC       requiring ATP and magnesium. The resulting D-ribose-5-phosphate can
+CC       then be used either for sythesis of nucleotides, histidine, and
+CC       tryptophan, or as a component of the pentose phosphate pathway.
+CC       {ECO:0000255|HAMAP-Rule:MF_03215, ECO:0000269|PubMed:17585908}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + D-ribose = ADP + D-ribose 5-phosphate + H(+);
+CC         Xref=Rhea:RHEA:13697, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:47013, ChEBI:CHEBI:78346, ChEBI:CHEBI:456216;
+CC         EC=2.7.1.15; Evidence={ECO:0000255|HAMAP-Rule:MF_03215,
+CC         ECO:0000269|PubMed:17585908};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000255|HAMAP-
+CC         Rule:MF_03215};
+CC       Note=Requires a divalent cation, most likely magnesium in vivo, as an
+CC       electrophilic catalyst to aid phosphoryl group transfer. It is the
+CC       chelate of the metal and the nucleotide that is the actual substrate.
+CC       {ECO:0000255|HAMAP-Rule:MF_03215};
+CC   -!- ACTIVITY REGULATION: Activated by a monovalent cation that binds near,
+CC       but not in, the active site. The most likely occupant of the site in
+CC       vivo is potassium. Ion binding induces a conformational change that may
+CC       alter substrate affinity (By similarity). Competitively inhibited by
+CC       phosphonoacetic acid, etidronate, 2-carboxethylphosphonic acid, N-
+CC       (phosphonomethyl)glycine, N-(phosphonomethyl)iminodiacetic acid and
+CC       clodronate (PubMed:17585908). {ECO:0000255|HAMAP-Rule:MF_03215,
+CC       ECO:0000269|PubMed:17585908}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=2.17 mM for ribose (in the presence of 10 mM inorganic phosphate)
+CC         {ECO:0000269|PubMed:17585908};
+CC         KM=3.39 mM for ribose (in the presence of 5 mM inorganic phosphate)
+CC         {ECO:0000269|PubMed:17585908};
+CC         KM=6.62 mM for ribose (in the presence of 2 mM inorganic phosphate)
+CC         {ECO:0000269|PubMed:17585908};
+CC         KM=30.43 mM for ribose (in the presence of 1 mM inorganic phosphate)
+CC         {ECO:0000269|PubMed:17585908};
+CC         KM=0.07 mM for ATP (in the presence of 5 mM inorganic phosphate)
+CC         {ECO:0000269|PubMed:17585908};
+CC         KM=0.08 mM for ATP (in the presence of 2 mM inorganic phosphate)
+CC         {ECO:0000269|PubMed:17585908};
+CC         KM=0.1 mM for ATP (in the presence of 1 mM inorganic phosphate)
+CC         {ECO:0000269|PubMed:17585908};
+CC   -!- PATHWAY: Carbohydrate metabolism; D-ribose degradation; D-ribose 5-
+CC       phosphate from beta-D-ribopyranose: step 2/2. {ECO:0000255|HAMAP-
+CC       Rule:MF_03215}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+CC       Rule:MF_03215}.
+CC   -!- INTERACTION:
+CC       Q9H477; Q96AP0: ACD; NbExp=2; IntAct=EBI-10982959, EBI-717666;
+CC       Q9H477; Q9H477: RBKS; NbExp=4; IntAct=EBI-10982959, EBI-10982959;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:P25332,
+CC       ECO:0000255|HAMAP-Rule:MF_03215}. Nucleus
+CC       {ECO:0000250|UniProtKB:P25332, ECO:0000255|HAMAP-Rule:MF_03215}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9H477-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9H477-2; Sequence=VSP_054380;
+CC   -!- SIMILARITY: Belongs to the carbohydrate kinase PfkB family. Ribokinase
+CC       subfamily. {ECO:0000255|HAMAP-Rule:MF_03215}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ404857; CAC12877.1; -; mRNA.
+DR   EMBL; AY643715; AAT64917.1; -; mRNA.
+DR   EMBL; AK300989; BAG62608.1; -; mRNA.
+DR   EMBL; AC021171; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC110084; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC017425; AAH17425.1; -; mRNA.
+DR   CCDS; CCDS1762.1; -. [Q9H477-1]
+DR   RefSeq; NP_001274509.1; NM_001287580.1.
+DR   RefSeq; NP_071411.1; NM_022128.2. [Q9H477-1]
+DR   PDB; 2FV7; X-ray; 2.10 A; A/B=11-322.
+DR   PDB; 5BYC; X-ray; 1.95 A; A/B=1-322.
+DR   PDB; 5BYD; X-ray; 2.10 A; A/B=1-322.
+DR   PDB; 5BYE; X-ray; 1.75 A; A/B=1-322.
+DR   PDB; 5BYF; X-ray; 2.00 A; A/B=1-322.
+DR   PDB; 5C3Y; X-ray; 2.60 A; A/B/C/D/E/F/G/H/I/J/K/L=1-322.
+DR   PDB; 5C3Z; X-ray; 1.90 A; A/B=1-322.
+DR   PDB; 5C40; X-ray; 1.50 A; A/B=1-322.
+DR   PDB; 5C41; X-ray; 1.95 A; A/B/C/D=1-322.
+DR   PDB; 6WJZ; X-ray; 1.80 A; A/B=14-322.
+DR   PDB; 6WK0; X-ray; 2.00 A; A/B/C/D=14-322.
+DR   PDBsum; 2FV7; -.
+DR   PDBsum; 5BYC; -.
+DR   PDBsum; 5BYD; -.
+DR   PDBsum; 5BYE; -.
+DR   PDBsum; 5BYF; -.
+DR   PDBsum; 5C3Y; -.
+DR   PDBsum; 5C3Z; -.
+DR   PDBsum; 5C40; -.
+DR   PDBsum; 5C41; -.
+DR   PDBsum; 6WJZ; -.
+DR   PDBsum; 6WK0; -.
+DR   AlphaFoldDB; Q9H477; -.
+DR   SMR; Q9H477; -.
+DR   BioGRID; 122046; 23.
+DR   IntAct; Q9H477; 8.
+DR   MINT; Q9H477; -.
+DR   STRING; 9606.ENSP00000306817; -.
+DR   GlyGen; Q9H477; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9H477; -.
+DR   PhosphoSitePlus; Q9H477; -.
+DR   BioMuta; RBKS; -.
+DR   DMDM; 20139730; -.
+DR   EPD; Q9H477; -.
+DR   jPOST; Q9H477; -.
+DR   MassIVE; Q9H477; -.
+DR   MaxQB; Q9H477; -.
+DR   PaxDb; Q9H477; -.
+DR   PeptideAtlas; Q9H477; -.
+DR   ProteomicsDB; 5255; -.
+DR   ProteomicsDB; 80790; -. [Q9H477-1]
+DR   Antibodypedia; 13898; 157 antibodies from 22 providers.
+DR   DNASU; 64080; -.
+DR   Ensembl; ENST00000302188.8; ENSP00000306817.3; ENSG00000171174.15. [Q9H477-1]
+DR   GeneID; 64080; -.
+DR   KEGG; hsa:64080; -.
+DR   MANE-Select; ENST00000302188.8; ENSP00000306817.3; NM_022128.3; NP_071411.1.
+DR   UCSC; uc002rlo.3; human. [Q9H477-1]
+DR   AGR; HGNC:30325; -.
+DR   CTD; 64080; -.
+DR   DisGeNET; 64080; -.
+DR   GeneCards; RBKS; -.
+DR   HGNC; HGNC:30325; RBKS.
+DR   HPA; ENSG00000171174; Tissue enhanced (liver).
+DR   MIM; 611132; gene.
+DR   neXtProt; NX_Q9H477; -.
+DR   OpenTargets; ENSG00000171174; -.
+DR   PharmGKB; PA134951602; -.
+DR   VEuPathDB; HostDB:ENSG00000171174; -.
+DR   eggNOG; KOG2855; Eukaryota.
+DR   GeneTree; ENSGT00390000005743; -.
+DR   HOGENOM; CLU_027634_2_3_1; -.
+DR   InParanoid; Q9H477; -.
+DR   OMA; DIVLIQQ; -.
+DR   OrthoDB; 1217765at2759; -.
+DR   PhylomeDB; Q9H477; -.
+DR   TreeFam; TF105770; -.
+DR   BRENDA; 2.7.1.15; 2681.
+DR   PathwayCommons; Q9H477; -.
+DR   Reactome; R-HSA-71336; Pentose phosphate pathway.
+DR   SABIO-RK; Q9H477; -.
+DR   SignaLink; Q9H477; -.
+DR   SIGNOR; Q9H477; -.
+DR   UniPathway; UPA00916; UER00889.
+DR   BioGRID-ORCS; 64080; 14 hits in 1147 CRISPR screens.
+DR   ChiTaRS; RBKS; human.
+DR   EvolutionaryTrace; Q9H477; -.
+DR   GenomeRNAi; 64080; -.
+DR   Pharos; Q9H477; Tbio.
+DR   PRO; PR:Q9H477; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; Q9H477; protein.
+DR   Bgee; ENSG00000171174; Expressed in jejunal mucosa and 164 other tissues.
+DR   ExpressionAtlas; Q9H477; baseline and differential.
+DR   Genevisible; Q9H477; HS.
+DR   GO; GO:0005829; C:cytosol; IBA:GO_Central.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-UniRule.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004747; F:ribokinase activity; TAS:Reactome.
+DR   GO; GO:0019303; P:D-ribose catabolic process; IEA:UniProtKB-UniRule.
+DR   GO; GO:0006098; P:pentose-phosphate shunt; TAS:Reactome.
+DR   CDD; cd01174; ribokinase; 1.
+DR   Gene3D; 3.40.1190.20; -; 1.
+DR   HAMAP; MF_01987; Ribokinase; 1.
+DR   InterPro; IPR002173; Carboh/pur_kinase_PfkB_CS.
+DR   InterPro; IPR011877; D_ribokin.
+DR   InterPro; IPR011611; PfkB_dom.
+DR   InterPro; IPR002139; Ribo/fructo_kinase.
+DR   InterPro; IPR029056; Ribokinase-like.
+DR   PANTHER; PTHR10584:SF166; RIBOKINASE; 1.
+DR   PANTHER; PTHR10584; SUGAR KINASE; 1.
+DR   Pfam; PF00294; PfkB; 1.
+DR   PRINTS; PR00990; RIBOKINASE.
+DR   SUPFAM; SSF53613; Ribokinase-like; 1.
+DR   PROSITE; PS00584; PFKB_KINASES_2; 1.
+DR   TIGRFAMs; TIGR02152; D_ribokin_bact; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; ATP-binding; Carbohydrate metabolism;
+KW   Cytoplasm; Kinase; Magnesium; Metal-binding; Nucleotide-binding; Nucleus;
+KW   Potassium; Reference proteome; Transferase.
+FT   CHAIN           1..322
+FT                   /note="Ribokinase"
+FT                   /id="PRO_0000080092"
+FT   ACT_SITE        269
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+FT                   Rule:MF_03215"
+FT   BINDING         25..27
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+FT                   Rule:MF_03215"
+FT   BINDING         53..57
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+FT                   Rule:MF_03215"
+FT   BINDING         154
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+FT                   Rule:MF_03215"
+FT   BINDING         199
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000269|Ref.7"
+FT   BINDING         235..240
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000269|Ref.7"
+FT   BINDING         256
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000269|Ref.7"
+FT   BINDING         263
+FT                   /ligand="K(+)"
+FT                   /ligand_id="ChEBI:CHEBI:29103"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000305|Ref.7"
+FT   BINDING         265
+FT                   /ligand="K(+)"
+FT                   /ligand_id="ChEBI:CHEBI:29103"
+FT                   /evidence="ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+FT                   Rule:MF_03215"
+FT   BINDING         268..269
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000269|Ref.7"
+FT   BINDING         269
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+FT                   Rule:MF_03215"
+FT   BINDING         295
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000269|Ref.7"
+FT   BINDING         301
+FT                   /ligand="K(+)"
+FT                   /ligand_id="ChEBI:CHEBI:29103"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000305|Ref.7"
+FT   BINDING         304
+FT                   /ligand="K(+)"
+FT                   /ligand_id="ChEBI:CHEBI:29103"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000305|Ref.7"
+FT   BINDING         306
+FT                   /ligand="K(+)"
+FT                   /ligand_id="ChEBI:CHEBI:29103"
+FT                   /evidence="ECO:0000250|UniProtKB:P0A9J6, ECO:0000255|HAMAP-
+FT                   Rule:MF_03215"
+FT   BINDING         310
+FT                   /ligand="K(+)"
+FT                   /ligand_id="ChEBI:CHEBI:29103"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03215,
+FT                   ECO:0000305|Ref.7"
+FT   VAR_SEQ         266..322
+FT                   /note="GAGDSFVGALAFYLAYYPNLSLEDMLNRSNFIAAVSVQAAGTQSSYPYKKDL
+FT                   PLTLF -> CRPGSRPKSEAASVKKQKHYK (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_054380"
+FT   CONFLICT        101
+FT                   /note="T -> A (in Ref. 2; AAT64917)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          17..21
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          25..31
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          41..43
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          45..52
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           54..64
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          69..78
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           79..90
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          98..101
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          108..113
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          119..124
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           126..130
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           133..138
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           140..145
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          147..151
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          153..155
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           157..169
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          173..176
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           188..191
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          194..199
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           200..207
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           214..225
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   TURN            226..228
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          230..235
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           237..239
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          241..247
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          252..254
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           267..281
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           287..301
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   STRAND          304..306
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           307..310
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           314..316
+FT                   /evidence="ECO:0007829|PDB:5C40"
+FT   HELIX           319..322
+FT                   /evidence="ECO:0007829|PDB:5C40"
+SQ   SEQUENCE   322 AA;  34143 MW;  50D0E7161F33E94B CRC64;
+     MAASGEPQRQ WQEEVAAVVV VGSCMTDLVS LTSRLPKTGE TIHGHKFFIG FGGKGANQCV
+     QAARLGAMTS MVCKVGKDSF GNDYIENLKQ NDISTEFTYQ TKDAATGTAS IIVNNEGQNI
+     IVIVAGANLL LNTEDLRAAA NVISRAKVMV CQLEITPATS LEALTMARRS GVKTLFNPAP
+     AIADLDPQFY TLSDVFCCNE SEAEILTGLT VGSAADAGEA ALVLLKRGCQ VVIITLGAEG
+     CVVLSQTEPE PKHIPTEKVK AVDTTGAGDS FVGALAFYLA YYPNLSLEDM LNRSNFIAAV
+     SVQAAGTQSS YPYKKDLPLT LF
+//

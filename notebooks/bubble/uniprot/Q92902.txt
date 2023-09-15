@@ -1,0 +1,380 @@
+ID   HPS1_HUMAN              Reviewed;         700 AA.
+AC   Q92902; A8MRT2; O15402; O15502; Q5TAA3; Q8WXE5;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   21-JUN-2005, sequence version 2.
+DT   28-JUN-2023, entry version 191.
+DE   RecName: Full=BLOC-3 complex member HPS1 {ECO:0000305};
+DE   AltName: Full=Hermansky-Pudlak syndrome 1 protein;
+GN   Name=HPS1; Synonyms=HPS;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM I), AND VARIANTS.
+RX   PubMed=8896559; DOI=10.1038/ng1196-300;
+RA   Oh J., Bailin T., Fukai K., Feng G.H., Ho L., Mao J.-I., Frenk E.,
+RA   Tamura N., Spritz R.A.;
+RT   "Positional cloning of a gene for Hermansky-Pudlak syndrome, a disorder of
+RT   cytoplasmic organelles.";
+RL   Nat. Genet. 14:300-306(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORMS I; II AND IV), AND VARIANTS.
+RX   PubMed=9182823; DOI=10.1111/1523-1747.ep12294634;
+RA   Bailin T., Oh J., Feng G.H., Fukai K., Spritz R.A.;
+RT   "Organization and nucleotide sequence of the human Hermansky-Pudlak
+RT   syndrome (HPS) gene.";
+RL   J. Invest. Dermatol. 108:923-927(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM III).
+RX   PubMed=9579545; DOI=10.1046/j.1523-1747.1998.00183.x;
+RA   Wildenberg S.C., Fryer J.P., Gardner J.M., Oetting W.S., Brilliant M.H.,
+RA   King R.A.;
+RT   "Identification of a novel transcript produced by the gene responsible for
+RT   the Hermansky-Pudlak syndrome in Puerto Rico.";
+RL   J. Invest. Dermatol. 110:777-781(1998).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=10798370; DOI=10.1007/s004390051053;
+RA   Huizing M., Anikster Y., Gahl W.A.;
+RT   "Characterization of a partial pseudogene homologous to the Hermansky-
+RT   Pudlak syndrome gene HPS-1; relevance for mutation detection.";
+RL   Hum. Genet. 106:370-373(2000).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM III).
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   REVIEW ON HPS1 VARIANTS.
+RX   PubMed=10094567;
+RX   DOI=10.1002/(sici)1098-1004(1999)13:2<99::aid-humu2>3.0.co;2-c;
+RA   Oetting W.S., King R.A.;
+RT   "Molecular basis of albinism: mutations and polymorphisms of pigmentation
+RT   genes associated with albinism.";
+RL   Hum. Mutat. 13:99-115(1999).
+RN   [9]
+RP   SUBUNIT, AND LACK OF INTERACTION WITH RAB9A.
+RX   PubMed=20048159; DOI=10.1074/jbc.m109.069088;
+RA   Kloer D.P., Rojas R., Ivan V., Moriyama K., van Vlijmen T., Murthy N.,
+RA   Ghirlando R., van der Sluijs P., Hurley J.H., Bonifacino J.S.;
+RT   "Assembly of the biogenesis of lysosome-related organelles complex-3 (BLOC-
+RT   3) and its interaction with Rab9.";
+RL   J. Biol. Chem. 285:7794-7804(2010).
+RN   [10]
+RP   FUNCTION, AND SUBUNIT.
+RX   PubMed=23084991; DOI=10.1016/j.cub.2012.09.020;
+RA   Gerondopoulos A., Langemeyer L., Liang J.R., Linford A., Barr F.A.;
+RT   "BLOC-3 mutated in Hermansky-Pudlak syndrome is a Rab32/38 guanine
+RT   nucleotide exchange factor.";
+RL   Curr. Biol. 22:2135-2139(2012).
+RN   [11]
+RP   VARIANT HPS1 ILE-55 DEL.
+RX   PubMed=9497254; DOI=10.1086/301757;
+RA   Oh J., Ho L., Ala-Mello S., Amato D., Armstrong L., Bellucci S.,
+RA   Carakushansky G., Ellis J.P., Fong C.-T., Green J.S., Heon E., Legius E.,
+RA   Levin A.V., Nieuwenhuis H.K., Pinckers A., Tamura N., Whiteford M.L.,
+RA   Yamasaki H., Spritz R.A.;
+RT   "Mutation analysis of patients with Hermansky-Pudlak syndrome: a frameshift
+RT   hot spot in the HPS gene and apparent locus heterogeneity.";
+RL   Am. J. Hum. Genet. 62:593-598(1998).
+CC   -!- FUNCTION: Component of the BLOC-3 complex, a complex that acts as a
+CC       guanine exchange factor (GEF) for RAB32 and RAB38, promotes the
+CC       exchange of GDP to GTP, converting them from an inactive GDP-bound form
+CC       into an active GTP-bound form. The BLOC-3 complex plays an important
+CC       role in the control of melanin production and melanosome biogenesis and
+CC       promotes the membrane localization of RAB32 and RAB38
+CC       (PubMed:23084991). {ECO:0000269|PubMed:23084991}.
+CC   -!- SUBUNIT: Component of the biogenesis of lysosome-related organelles
+CC       complex-3 (or BLOC-3), a heterodimer of HPS1 and HPS4 (PubMed:20048159,
+CC       PubMed:23084991). HPS1 cannot but BLOC-3 complex (heterodimer of HPS1
+CC       and HPS4) can interact with the GTP-bound form of RAB9A and RAB9B. HPS1
+CC       and BLOC-3 complex do not interact with the GDP-bound form of RAB9A and
+CC       RAB9B (PubMed:20048159). {ECO:0000269|PubMed:20048159,
+CC       ECO:0000269|PubMed:23084991}.
+CC   -!- INTERACTION:
+CC       Q92902; Q9NQG7: HPS4; NbExp=17; IntAct=EBI-704347, EBI-704377;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=I;
+CC         IsoId=Q92902-1; Sequence=Displayed;
+CC       Name=II;
+CC         IsoId=Q92902-2; Sequence=VSP_004289;
+CC       Name=III;
+CC         IsoId=Q92902-3; Sequence=VSP_004290, VSP_004291;
+CC       Name=IV;
+CC         IsoId=Q92902-4; Sequence=VSP_004288;
+CC   -!- TISSUE SPECIFICITY: Ubiquitous.
+CC   -!- DISEASE: Hermansky-Pudlak syndrome 1 (HPS1) [MIM:203300]: A form of
+CC       Hermansky-Pudlak syndrome, a genetically heterogeneous autosomal
+CC       recessive disorder characterized by oculocutaneous albinism, bleeding
+CC       due to platelet storage pool deficiency, and lysosomal storage defects.
+CC       This syndrome results from defects of diverse cytoplasmic organelles
+CC       including melanosomes, platelet dense granules and lysosomes. Ceroid
+CC       storage in the lungs is associated with pulmonary fibrosis, a common
+CC       cause of premature death in individuals with HPS.
+CC       {ECO:0000269|PubMed:9497254}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- WEB RESOURCE: Name=Mutations of the HPS gene; Note=Retina
+CC       International's Scientific Newsletter;
+CC       URL="https://www.retina-international.org/files/sci-news/epmut.htm";
+CC   -!- WEB RESOURCE: Name=Albinism database (ADB); Note=HPS1 mutations;
+CC       URL="http://www.ifpcs.org/albinism/hps1mut.html";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U65676; AAB17869.1; -; mRNA.
+DR   EMBL; U79136; AAB70662.1; -; Genomic_DNA.
+DR   EMBL; U79123; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79124; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79125; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79126; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79127; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79128; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79129; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79130; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79131; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79132; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79133; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79134; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U79135; AAB70662.1; JOINED; Genomic_DNA.
+DR   EMBL; U96721; AAC52074.1; -; mRNA.
+DR   EMBL; AF450133; AAL50684.1; -; Genomic_DNA.
+DR   EMBL; AL139243; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471066; EAW49882.1; -; Genomic_DNA.
+DR   EMBL; BC000175; AAH00175.1; -; mRNA.
+DR   CCDS; CCDS7475.1; -. [Q92902-1]
+DR   CCDS; CCDS7476.1; -. [Q92902-3]
+DR   CCDS; CCDS91316.1; -. [Q92902-2]
+DR   RefSeq; NP_000186.2; NM_000195.4. [Q92902-1]
+DR   RefSeq; NP_001309405.1; NM_001322476.1. [Q92902-1]
+DR   RefSeq; NP_001309406.1; NM_001322477.1. [Q92902-1]
+DR   RefSeq; NP_001309407.1; NM_001322478.1. [Q92902-2]
+DR   RefSeq; NP_001309408.1; NM_001322479.1. [Q92902-2]
+DR   RefSeq; NP_872577.1; NM_182639.3. [Q92902-3]
+DR   RefSeq; XP_005269814.1; XM_005269757.4. [Q92902-1]
+DR   AlphaFoldDB; Q92902; -.
+DR   BioGRID; 109494; 11.
+DR   ComplexPortal; CPX-5043; BLOC-3 complex.
+DR   CORUM; Q92902; -.
+DR   IntAct; Q92902; 9.
+DR   STRING; 9606.ENSP00000326649; -.
+DR   iPTMnet; Q92902; -.
+DR   PhosphoSitePlus; Q92902; -.
+DR   BioMuta; HPS1; -.
+DR   DMDM; 68067891; -.
+DR   EPD; Q92902; -.
+DR   MassIVE; Q92902; -.
+DR   MaxQB; Q92902; -.
+DR   PaxDb; Q92902; -.
+DR   PeptideAtlas; Q92902; -.
+DR   ProteomicsDB; 75584; -. [Q92902-1]
+DR   ProteomicsDB; 75585; -. [Q92902-2]
+DR   ProteomicsDB; 75586; -. [Q92902-3]
+DR   ProteomicsDB; 75587; -. [Q92902-4]
+DR   Antibodypedia; 45895; 144 antibodies from 28 providers.
+DR   DNASU; 3257; -.
+DR   Ensembl; ENST00000325103.10; ENSP00000326649.6; ENSG00000107521.21. [Q92902-1]
+DR   Ensembl; ENST00000338546.9; ENSP00000343638.5; ENSG00000107521.21. [Q92902-3]
+DR   Ensembl; ENST00000361490.9; ENSP00000355310.4; ENSG00000107521.21. [Q92902-1]
+DR   Ensembl; ENST00000699136.1; ENSP00000514153.1; ENSG00000107521.21. [Q92902-2]
+DR   Ensembl; ENST00000699140.1; ENSP00000514157.1; ENSG00000107521.21. [Q92902-2]
+DR   Ensembl; ENST00000699142.1; ENSP00000514159.1; ENSG00000107521.21. [Q92902-1]
+DR   Ensembl; ENST00000699145.1; ENSP00000514162.1; ENSG00000107521.21. [Q92902-1]
+DR   GeneID; 3257; -.
+DR   KEGG; hsa:3257; -.
+DR   MANE-Select; ENST00000361490.9; ENSP00000355310.4; NM_000195.5; NP_000186.2.
+DR   UCSC; uc001kpl.4; human. [Q92902-1]
+DR   AGR; HGNC:5163; -.
+DR   CTD; 3257; -.
+DR   DisGeNET; 3257; -.
+DR   GeneCards; HPS1; -.
+DR   GeneReviews; HPS1; -.
+DR   HGNC; HGNC:5163; HPS1.
+DR   HPA; ENSG00000107521; Low tissue specificity.
+DR   MalaCards; HPS1; -.
+DR   MIM; 203300; phenotype.
+DR   MIM; 604982; gene.
+DR   neXtProt; NX_Q92902; -.
+DR   OpenTargets; ENSG00000107521; -.
+DR   Orphanet; 231500; Hermansky-Pudlak syndrome due to BLOC-3 deficiency.
+DR   PharmGKB; PA35101; -.
+DR   VEuPathDB; HostDB:ENSG00000107521; -.
+DR   eggNOG; ENOG502QW8U; Eukaryota.
+DR   GeneTree; ENSGT00390000015298; -.
+DR   HOGENOM; CLU_016960_1_0_1; -.
+DR   InParanoid; Q92902; -.
+DR   OMA; TATCAVE; -.
+DR   OrthoDB; 3671710at2759; -.
+DR   PhylomeDB; Q92902; -.
+DR   TreeFam; TF324374; -.
+DR   PathwayCommons; Q92902; -.
+DR   Reactome; R-HSA-8876198; RAB GEFs exchange GTP for GDP on RABs.
+DR   SignaLink; Q92902; -.
+DR   SIGNOR; Q92902; -.
+DR   BioGRID-ORCS; 3257; 12 hits in 1149 CRISPR screens.
+DR   ChiTaRS; HPS1; human.
+DR   GeneWiki; HPS1; -.
+DR   GenomeRNAi; 3257; -.
+DR   Pharos; Q92902; Tbio.
+DR   PRO; PR:Q92902; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; Q92902; protein.
+DR   Bgee; ENSG00000107521; Expressed in granulocyte and 155 other tissues.
+DR   ExpressionAtlas; Q92902; baseline and differential.
+DR   Genevisible; Q92902; HS.
+DR   GO; GO:0031085; C:BLOC-3 complex; IPI:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:ComplexPortal.
+DR   GO; GO:0031410; C:cytoplasmic vesicle; IDA:MGI.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005764; C:lysosome; TAS:ProtInc.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0046983; F:protein dimerization activity; IPI:UniProtKB.
+DR   GO; GO:0046907; P:intracellular transport; NAS:ComplexPortal.
+DR   GO; GO:0007040; P:lysosome organization; TAS:ProtInc.
+DR   GO; GO:1903232; P:melanosome assembly; IDA:UniProtKB.
+DR   GO; GO:0060155; P:platelet dense granule organization; NAS:ComplexPortal.
+DR   GO; GO:0050896; P:response to stimulus; IEA:UniProtKB-KW.
+DR   GO; GO:0016192; P:vesicle-mediated transport; IEA:InterPro.
+DR   GO; GO:0007601; P:visual perception; IEA:UniProtKB-KW.
+DR   InterPro; IPR043972; FUZ/MON1/HPS1_longin_1.
+DR   InterPro; IPR043971; FUZ/MON1/HPS1_longin_2.
+DR   InterPro; IPR043970; FUZ/MON1/HPS1_longin_3.
+DR   InterPro; IPR026053; HPS1.
+DR   PANTHER; PTHR12761:SF1; HERMANSKY-PUDLAK SYNDROME 1 PROTEIN; 1.
+DR   PANTHER; PTHR12761; HERMANSKY-PUDLAK SYNDROME PROTEIN 1; 1.
+DR   Pfam; PF19036; Fuz_longin_1; 1.
+DR   Pfam; PF19037; Fuz_longin_2; 1.
+DR   Pfam; PF19038; Fuz_longin_3; 1.
+PE   1: Evidence at protein level;
+KW   Albinism; Alternative splicing; Disease variant;
+KW   Guanine-nucleotide releasing factor; Hermansky-Pudlak syndrome;
+KW   Reference proteome; Repeat; Sensory transduction; Vision.
+FT   CHAIN           1..700
+FT                   /note="BLOC-3 complex member HPS1"
+FT                   /id="PRO_0000084047"
+FT   REPEAT          45..51
+FT                   /note="[DE]-X(4)-L-L 1"
+FT   REPEAT          147..153
+FT                   /note="[DE]-X(4)-L-L 2"
+FT   REPEAT          516..522
+FT                   /note="[DE]-X(4)-L-L 3"
+FT   REPEAT          644..650
+FT                   /note="[DE]-X(4)-L-L 4"
+FT   REGION          249..317
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           698..700
+FT                   /note="Melanosome targeting signal"
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        260..296
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         114..133
+FT                   /note="Missing (in isoform IV)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_004288"
+FT   VAR_SEQ         257..289
+FT                   /note="Missing (in isoform II)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_004289"
+FT   VAR_SEQ         314..324
+FT                   /note="STIWLEGGTPP -> EDRRKAGGNNS (in isoform III)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:9579545"
+FT                   /id="VSP_004290"
+FT   VAR_SEQ         325..700
+FT                   /note="Missing (in isoform III)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:9579545"
+FT                   /id="VSP_004291"
+FT   VARIANT         55
+FT                   /note="Missing (in HPS1; mild)"
+FT                   /evidence="ECO:0000269|PubMed:9497254"
+FT                   /id="VAR_007950"
+FT   VARIANT         100
+FT                   /note="E -> D (in dbSNP:rs1801285)"
+FT                   /id="VAR_014887"
+FT   VARIANT         186
+FT                   /note="A -> V (in dbSNP:rs1801286)"
+FT                   /id="VAR_014888"
+FT   VARIANT         283
+FT                   /note="G -> W (in dbSNP:rs11592273)"
+FT                   /id="VAR_005290"
+FT   VARIANT         480
+FT                   /note="A -> T (in dbSNP:rs17109853)"
+FT                   /id="VAR_038378"
+FT   VARIANT         491
+FT                   /note="P -> R (in dbSNP:rs2296434)"
+FT                   /id="VAR_005291"
+FT   VARIANT         603
+FT                   /note="Q -> R (in dbSNP:rs2296436)"
+FT                   /id="VAR_005292"
+FT   VARIANT         630
+FT                   /note="V -> I (in dbSNP:rs139061260)"
+FT                   /id="VAR_005293"
+FT   CONFLICT        254
+FT                   /note="D -> H (in Ref. 3; AAC52074)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        533..537
+FT                   /note="SYLED -> Y (in Ref. 2; AAB70662)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   700 AA;  79292 MW;  0885D3E2D64B3248 CRC64;
+     MKCVLVATEG AEVLFYWTDQ EFEESLRLKF GQSENEEEEL PALEDQLSTL LAPVIISSMT
+     MLEKLSDTYT CFSTENGNFL YVLHLFGECL FIAINGDHTE SEGDLRRKLY VLKYLFEVHF
+     GLVTVDGHLI RKELRPPDLA QRVQLWEHFQ SLLWTYSRLR EQEQCFAVEA LERLIHPQLC
+     ELCIEALERH VIQAVNTSPE RGGEEALHAF LLVHSKLLAF YSSHSASSLR PADLLALILL
+     VQDLYPSEST AEDDIQPSPR RARSSQNIPV QQAWSPHSTG PTGGSSAETE TDSFSLPEEY
+     FTPAPSPGDQ SSGSTIWLEG GTPPMDALQI AEDTLQTLVP HCPVPSGPRR IFLDANVKES
+     YCPLVPHTMY CLPLWQGINL VLLTRSPSAP LALVLSQLMD GFSMLEKKLK EGPEPGASLR
+     SQPLVGDLRQ RMDKFVKNRG AQEIQSTWLE FKAKAFSKSE PGSSWELLQA CGKLKRQLCA
+     IYRLNFLTTA PSRGGPHLPQ HLQDQVQRLM REKLTDWKDF LLVKSRRNIT MVSYLEDFPG
+     LVHFIYVDRT TGQMVAPSLN CSQKTSSELG KGPLAAFVKT KVWSLIQLAR RYLQKGYTTL
+     LFQEGDFYCS YFLWFENDMG YKLQMIEVPV LSDDSVPIGM LGGDYYRKLL RYYSKNRPTE
+     AVRCYELLAL HLSVIPTDLL VQQAGQLARR LWEASRIPLL
+//

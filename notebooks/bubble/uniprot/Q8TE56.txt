@@ -1,0 +1,432 @@
+ID   ATS17_HUMAN             Reviewed;        1095 AA.
+AC   Q8TE56; Q2I7G4; Q6ZN75;
+DT   28-FEB-2003, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 175.
+DE   RecName: Full=A disintegrin and metalloproteinase with thrombospondin motifs 17;
+DE            Short=ADAM-TS 17;
+DE            Short=ADAM-TS17;
+DE            Short=ADAMTS-17;
+DE            EC=3.4.24.-;
+DE   Flags: Precursor;
+GN   Name=ADAMTS17;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT SER-1094.
+RX   PubMed=11867212; DOI=10.1016/s0378-1119(01)00861-7;
+RA   Cal S., Obaya A.J., Llamazares M., Garabaya C., Quesada V., Lopez-Otin C.;
+RT   "Cloning, expression analysis, and structural characterization of seven
+RT   novel human ADAMTSs, a family of metalloproteinases with disintegrin and
+RT   thrombospondin-1 domains.";
+RL   Gene 283:49-62(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT THR-566.
+RA   Tan J., Davila S., Hibberd M.L., Seielstad M.;
+RT   "Genetic variation in ADAMTS17 gene.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Thymus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16572171; DOI=10.1038/nature04601;
+RA   Zody M.C., Garber M., Sharpe T., Young S.K., Rowen L., O'Neill K.,
+RA   Whittaker C.A., Kamal M., Chang J.L., Cuomo C.A., Dewar K.,
+RA   FitzGerald M.G., Kodira C.D., Madan A., Qin S., Yang X., Abbasi N.,
+RA   Abouelleil A., Arachchi H.M., Baradarani L., Birditt B., Bloom S.,
+RA   Bloom T., Borowsky M.L., Burke J., Butler J., Cook A., DeArellano K.,
+RA   DeCaprio D., Dorris L. III, Dors M., Eichler E.E., Engels R., Fahey J.,
+RA   Fleetwood P., Friedman C., Gearin G., Hall J.L., Hensley G., Johnson E.,
+RA   Jones C., Kamat A., Kaur A., Locke D.P., Madan A., Munson G., Jaffe D.B.,
+RA   Lui A., Macdonald P., Mauceli E., Naylor J.W., Nesbitt R., Nicol R.,
+RA   O'Leary S.B., Ratcliffe A., Rounsley S., She X., Sneddon K.M.B.,
+RA   Stewart S., Sougnez C., Stone S.M., Topham K., Vincent D., Wang S.,
+RA   Zimmer A.R., Birren B.W., Hood L., Lander E.S., Nusbaum C.;
+RT   "Analysis of the DNA sequence and duplication history of human chromosome
+RT   15.";
+RL   Nature 440:671-675(2006).
+RN   [5]
+RP   VARIANTS LEU-216; THR-482 AND SER-1094, INVOLVEMENT IN WMS4, ALTERNATIVE
+RP   SPLICING, AND TISSUE SPECIFICITY.
+RX   PubMed=19836009; DOI=10.1016/j.ajhg.2009.09.011;
+RA   Morales J., Al-Sharif L., Khalil D.S., Shinwari J.M., Bavi P.,
+RA   Al-Mahrouqi R.A., Al-Rajhi A., Alkuraya F.S., Meyer B.F., Al Tassan N.;
+RT   "Homozygous mutations in ADAMTS10 and ADAMTS17 cause lenticular myopia,
+RT   ectopia lentis, glaucoma, spherophakia, and short stature.";
+RL   Am. J. Hum. Genet. 85:558-568(2009).
+RN   [6]
+RP   INVOLVEMENT IN WMS4.
+RX   PubMed=22486325; DOI=10.3109/13816810.2012.666708;
+RA   Khan A.O., Aldahmesh M.A., Al-Ghadeer H., Mohamed J.Y., Alkuraya F.S.;
+RT   "Familial spherophakia with short stature caused by a novel homozygous
+RT   ADAMTS17 mutation.";
+RL   Ophthalmic Genet. 33:235-239(2012).
+RN   [7]
+RP   INVOLVEMENT IN WMS4.
+RX   PubMed=24940034;
+RA   Shah M.H., Bhat V., Shetty J.S., Kumar A.;
+RT   "Whole exome sequencing identifies a novel splice-site mutation in ADAMTS17
+RT   in an Indian family with Weill-Marchesani syndrome.";
+RL   Mol. Vis. 20:790-796(2014).
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space, extracellular
+CC       matrix {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC         Comment=Additional isoforms may exist.;
+CC       Name=1; Synonyms=a;
+CC         IsoId=Q8TE56-1; Sequence=Displayed;
+CC       Name=2; Synonyms=b;
+CC         IsoId=Q8TE56-2; Sequence=VSP_040331, VSP_040332, VSP_040333;
+CC   -!- TISSUE SPECIFICITY: Isoform 1 and isoform 2 are expressed at high
+CC       levels in the lung, brain, whole eye and retina. Isoform 1 shows a
+CC       weaker expression in the heart, kidney and skeletal muscle. Isoform 2
+CC       shows a weaker expression in the kidney, bone marrow and skeletal
+CC       muscle. Isoform 1 and isoform 2 are expressed at high levels in the
+CC       fetal heart, kidney, and whole eye, whereas a weak expression is seen
+CC       in the fetal liver. {ECO:0000269|PubMed:19836009}.
+CC   -!- DOMAIN: The conserved cysteine present in the cysteine-switch motif
+CC       binds the catalytic zinc ion, thus inhibiting the enzyme. The
+CC       dissociation of the cysteine from the zinc ion upon the activation-
+CC       peptide release activates the enzyme.
+CC   -!- PTM: The precursor is cleaved by a furin endopeptidase. {ECO:0000250}.
+CC   -!- PTM: Glycosylated. Can be O-fucosylated by POFUT2 on a serine or a
+CC       threonine residue found within the consensus sequence C1-X(2)-(S/T)-C2-
+CC       G of the TSP type-1 repeat domains where C1 and C2 are the first and
+CC       second cysteine residue of the repeat, respectively. Fucosylated
+CC       repeats can then be further glycosylated by the addition of a beta-1,3-
+CC       glucose residue by the glucosyltransferase, B3GALTL. Fucosylation
+CC       mediates the efficient secretion of ADAMTS family members. Can also be
+CC       C-glycosylated with one or two mannose molecules on tryptophan residues
+CC       within the consensus sequence W-X-X-W of the TPRs, and N-glycosylated.
+CC       These other glycosylations can also facilitate secretion (By
+CC       similarity). {ECO:0000250}.
+CC   -!- DISEASE: Weill-Marchesani syndrome 4 (WMS4) [MIM:613195]: An autosomal
+CC       recessive syndrome characterized by lenticular myopia, ectopia lentis,
+CC       glaucoma, spherophakia and short stature. Brachydactyly and decreased
+CC       joint flexibility are present in some patients.
+CC       {ECO:0000269|PubMed:19836009, ECO:0000269|PubMed:22486325,
+CC       ECO:0000269|PubMed:24940034}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ315735; CAC86016.1; -; mRNA.
+DR   EMBL; DQ217943; ABB70740.1; -; Genomic_DNA.
+DR   EMBL; AK131344; BAD18500.1; -; mRNA.
+DR   EMBL; AC015723; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC022710; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC084855; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC113187; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS10383.1; -. [Q8TE56-1]
+DR   RefSeq; NP_620688.2; NM_139057.3. [Q8TE56-1]
+DR   RefSeq; XP_016877473.1; XM_017021984.1. [Q8TE56-2]
+DR   AlphaFoldDB; Q8TE56; -.
+DR   SMR; Q8TE56; -.
+DR   BioGRID; 128083; 32.
+DR   IntAct; Q8TE56; 2.
+DR   STRING; 9606.ENSP00000268070; -.
+DR   MEROPS; M12.027; -.
+DR   GlyCosmos; Q8TE56; 7 sites, No reported glycans.
+DR   GlyGen; Q8TE56; 8 sites, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8TE56; -.
+DR   PhosphoSitePlus; Q8TE56; -.
+DR   BioMuta; ADAMTS17; -.
+DR   DMDM; 296434401; -.
+DR   jPOST; Q8TE56; -.
+DR   MassIVE; Q8TE56; -.
+DR   PaxDb; Q8TE56; -.
+DR   PeptideAtlas; Q8TE56; -.
+DR   ProteomicsDB; 74396; -. [Q8TE56-1]
+DR   ProteomicsDB; 74397; -. [Q8TE56-2]
+DR   Antibodypedia; 29223; 97 antibodies from 26 providers.
+DR   DNASU; 170691; -.
+DR   Ensembl; ENST00000268070.9; ENSP00000268070.4; ENSG00000140470.15. [Q8TE56-1]
+DR   GeneID; 170691; -.
+DR   KEGG; hsa:170691; -.
+DR   MANE-Select; ENST00000268070.9; ENSP00000268070.4; NM_139057.4; NP_620688.2.
+DR   UCSC; uc002bvv.2; human. [Q8TE56-1]
+DR   AGR; HGNC:17109; -.
+DR   CTD; 170691; -.
+DR   DisGeNET; 170691; -.
+DR   GeneCards; ADAMTS17; -.
+DR   GeneReviews; ADAMTS17; -.
+DR   HGNC; HGNC:17109; ADAMTS17.
+DR   HPA; ENSG00000140470; Tissue enhanced (lymphoid).
+DR   MalaCards; ADAMTS17; -.
+DR   MIM; 607511; gene.
+DR   MIM; 613195; phenotype.
+DR   neXtProt; NX_Q8TE56; -.
+DR   OpenTargets; ENSG00000140470; -.
+DR   Orphanet; 363992; Ichthyosis-short stature-brachydactyly-microspherophakia syndrome.
+DR   PharmGKB; PA24543; -.
+DR   VEuPathDB; HostDB:ENSG00000140470; -.
+DR   eggNOG; KOG3538; Eukaryota.
+DR   GeneTree; ENSGT00940000158773; -.
+DR   HOGENOM; CLU_000660_8_0_1; -.
+DR   InParanoid; Q8TE56; -.
+DR   OrthoDB; 2910701at2759; -.
+DR   PhylomeDB; Q8TE56; -.
+DR   TreeFam; TF313537; -.
+DR   PathwayCommons; Q8TE56; -.
+DR   Reactome; R-HSA-5083635; Defective B3GALTL causes PpS.
+DR   Reactome; R-HSA-5173214; O-glycosylation of TSR domain-containing proteins.
+DR   SignaLink; Q8TE56; -.
+DR   BioGRID-ORCS; 170691; 15 hits in 1146 CRISPR screens.
+DR   ChiTaRS; ADAMTS17; human.
+DR   GenomeRNAi; 170691; -.
+DR   Pharos; Q8TE56; Tbio.
+DR   PRO; PR:Q8TE56; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q8TE56; protein.
+DR   Bgee; ENSG00000140470; Expressed in thymus and 111 other tissues.
+DR   ExpressionAtlas; Q8TE56; baseline and differential.
+DR   Genevisible; Q8TE56; HS.
+DR   GO; GO:0031012; C:extracellular matrix; IBA:GO_Central.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004222; F:metalloendopeptidase activity; IBA:GO_Central.
+DR   GO; GO:0030198; P:extracellular matrix organization; IBA:GO_Central.
+DR   GO; GO:0006508; P:proteolysis; IEA:UniProtKB-KW.
+DR   CDD; cd04273; ZnMc_ADAMTS_like; 1.
+DR   Gene3D; 2.60.120.830; -; 1.
+DR   Gene3D; 3.40.1620.60; -; 1.
+DR   Gene3D; 3.40.390.10; Collagenase (Catalytic Domain); 1.
+DR   Gene3D; 2.20.100.10; Thrombospondin type-1 (TSP1) repeat; 5.
+DR   InterPro; IPR006586; ADAM_Cys-rich.
+DR   InterPro; IPR013273; ADAMTS/ADAMTS-like.
+DR   InterPro; IPR041645; ADAMTS_CR_2.
+DR   InterPro; IPR045371; ADAMTS_CR_3.
+DR   InterPro; IPR010294; ADAMTS_spacer1.
+DR   InterPro; IPR024079; MetalloPept_cat_dom_sf.
+DR   InterPro; IPR001590; Peptidase_M12B.
+DR   InterPro; IPR002870; Peptidase_M12B_N.
+DR   InterPro; IPR010909; PLAC.
+DR   InterPro; IPR000884; TSP1_rpt.
+DR   InterPro; IPR036383; TSP1_rpt_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR13723:SF151; A DISINTEGRIN AND METALLOPROTEINASE WITH THROMBOSPONDIN MOTIFS 17; 1.
+DR   PANTHER; PTHR13723; ADAMTS A DISINTEGRIN AND METALLOPROTEASE WITH THROMBOSPONDIN MOTIFS PROTEASE; 1.
+DR   Pfam; PF17771; ADAMTS_CR_2; 1.
+DR   Pfam; PF19236; ADAMTS_CR_3; 1.
+DR   Pfam; PF05986; ADAMTS_spacer1; 1.
+DR   Pfam; PF01562; Pep_M12B_propep; 1.
+DR   Pfam; PF01421; Reprolysin; 1.
+DR   Pfam; PF19030; TSP1_ADAMTS; 4.
+DR   Pfam; PF00090; TSP_1; 1.
+DR   PRINTS; PR01857; ADAMTSFAMILY.
+DR   SMART; SM00608; ACR; 1.
+DR   SMART; SM00209; TSP1; 5.
+DR   SUPFAM; SSF55486; Metalloproteases ('zincins'), catalytic domain; 1.
+DR   SUPFAM; SSF82895; TSP-1 type 1 repeat; 5.
+DR   PROSITE; PS50215; ADAM_MEPRO; 1.
+DR   PROSITE; PS50900; PLAC; 1.
+DR   PROSITE; PS50092; TSP1; 5.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Cleavage on pair of basic residues; Deafness;
+KW   Disulfide bond; Dwarfism; Extracellular matrix; Glycoprotein; Hydrolase;
+KW   Metal-binding; Metalloprotease; Protease; Reference proteome; Repeat;
+KW   Secreted; Signal; Zinc; Zymogen.
+FT   SIGNAL          1..27
+FT                   /evidence="ECO:0000255"
+FT   PROPEP          28..223
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000029198"
+FT   CHAIN           224..1095
+FT                   /note="A disintegrin and metalloproteinase with
+FT                   thrombospondin motifs 17"
+FT                   /id="PRO_0000029199"
+FT   DOMAIN          232..452
+FT                   /note="Peptidase M12B"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00276"
+FT   DOMAIN          453..542
+FT                   /note="Disintegrin"
+FT   DOMAIN          543..598
+FT                   /note="TSP type-1 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          800..860
+FT                   /note="TSP type-1 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          861..922
+FT                   /note="TSP type-1 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          925..968
+FT                   /note="TSP type-1 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          972..1029
+FT                   /note="TSP type-1 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          1045..1084
+FT                   /note="PLAC"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00233"
+FT   REGION          50..76
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          702..779
+FT                   /note="Spacer"
+FT   MOTIF           199..206
+FT                   /note="Cysteine switch"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        390
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00276,
+FT                   ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   BINDING         201
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /note="in inhibited form"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         389
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         393
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         399
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   CARBOHYD        167
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        483
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        785
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        790
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        832
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        839
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        894
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        308..373
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        348..355
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        367..447
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        406..431
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        476..500
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        487..508
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        495..527
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        521..532
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        555..592
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        559..597
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        570..582
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        873..916
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        877..921
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        888..905
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         1..243
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_040331"
+FT   VAR_SEQ         713..745
+FT                   /note="ALKDSGKGSINSDWKIELPGEFQIAGTTVRYVR -> GYIEAAVIPAGARRI
+FT                   RVVEDKPAHSFLGKTQMT (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_040332"
+FT   VAR_SEQ         746..1095
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_040333"
+FT   VARIANT         216
+FT                   /note="S -> L (in dbSNP:rs7496668)"
+FT                   /evidence="ECO:0000269|PubMed:19836009"
+FT                   /id="VAR_057081"
+FT   VARIANT         482
+FT                   /note="M -> T (in dbSNP:rs28567966)"
+FT                   /evidence="ECO:0000269|PubMed:19836009"
+FT                   /id="VAR_057082"
+FT   VARIANT         566
+FT                   /note="R -> T"
+FT                   /evidence="ECO:0000269|Ref.2"
+FT                   /id="VAR_064041"
+FT   VARIANT         1094
+FT                   /note="N -> S (in dbSNP:rs2573652)"
+FT                   /evidence="ECO:0000269|PubMed:11867212,
+FT                   ECO:0000269|PubMed:19836009"
+FT                   /id="VAR_060317"
+FT   CONFLICT        702
+FT                   /note="V -> A (in Ref. 3; BAD18500)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1095 AA;  121127 MW;  A5D7A40484754D5D CRC64;
+     MCDGALLPPL VLPVLLLLVW GLDPGTAVGD AAADVEVVLP WRVRPDDVHL PPLPAAPGPR
+     RRRRPRTPPA APRARPGERA LLLHLPAFGR DLYLQLRRDL RFLSRGFEVE EAGAARRRGR
+     PAELCFYSGR VLGHPGSLVS LSACGAAGGL VGLIQLGQEQ VLIQPLNNSQ GPFSGREHLI
+     RRKWSLTPSP SAEAQRPEQL CKVLTEKKKP TWGRPSRDWR ERRNAIRLTS EHTVETLVVA
+     DADMVQYHGA EAAQRFILTV MNMVYNMFQH QSLGIKINIQ VTKLVLLRQR PAKLSIGHHG
+     ERSLESFCHW QNEEYGGARY LGNNQVPGGK DDPPLVDAAV FVTRTDFCVH KDEPCDTVGI
+     AYLGGVCSAK RKCVLAEDNG LNLAFTIAHE LGHNLGMNHD DDHSSCAGRS HIMSGEWVKG
+     RNPSDLSWSS CSRDDLENFL KSKVSTCLLV TDPRSQHTVR LPHKLPGMHY SANEQCQILF
+     GMNATFCRNM EHLMCAGLWC LVEGDTSCKT KLDPPLDGTE CGADKWCRAG ECVSKTPIPE
+     HVDGDWSPWG AWSMCSRTCG TGARFRQRKC DNPPPGPGGT HCPGASVEHA VCENLPCPKG
+     LPSFRDQQCQ AHDRLSPKKK GLLTAVVVDD KPCELYCSPL GKESPLLVAD RVLDGTPCGP
+     YETDLCVHGK CQKIGCDGII GSAAKEDRCG VCSGDGKTCH LVKGDFSHAR GTALKDSGKG
+     SINSDWKIEL PGEFQIAGTT VRYVRRGLWE KISAKGPTKL PLHLMVLLFH DQDYGIHYEY
+     TVPVNRTAEN QSEPEKPQDS LFIWTHSGWE GCSVQCGGGE RRTIVSCTRI VNKTTTLVND
+     SDCPQASRPE PQVRRCNLHP CQSRWVAGPW SPCSATCEKG FQHREVTCVY QLQNGTHVAT
+     RPLYCPGPRP AAVQSCEGQD CLSIWEASEW SQCSASCGKG VWKRTVACTN SQGKCDASTR
+     PRAEEACEDY SGCYEWKTGD WSTCSSTCGK GLQSRVVQCM HKVTGRHGSE CPALSKPAPY
+     RQCYQEVCND RINANTITSP RLAALTYKCT RDQWTVYCRV IREKNLCQDM RWYQRCCQTC
+     RDFYANKMRQ PPPNS
+//

@@ -1,0 +1,316 @@
+ID   DLEC1_HUMAN             Reviewed;        1755 AA.
+AC   Q9Y238; Q9NSW0; Q9NTG5;
+DT   25-OCT-2005, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 153.
+DE   RecName: Full=Deleted in lung and esophageal cancer protein 1;
+DE   AltName: Full=Deleted in lung cancer protein 1;
+DE            Short=DLC-1;
+GN   Name=DLEC1 {ECO:0000312|EMBL:BAA77624.1};
+GN   Synonyms=DLC1 {ECO:0000303|PubMed:10213508};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:BAA77624.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 1), ALTERNATIVE SPLICING,
+RP   PUTATIVE FUNCTION, SUBCELLULAR LOCATION, TISSUE SPECIFICITY, AND
+RP   INVOLVEMENT IN LUNG CANCER; ESOPHAGEAL CANCER AND RENAL CANCER.
+RX   PubMed=10213508;
+RA   Daigo Y., Nishiwaki T., Kawasoe T., Tamari M., Tsuchiya E., Nakamura Y.;
+RT   "Molecular cloning of a candidate tumor suppressor gene, DLC1, from
+RT   chromosome 3p21.3.";
+RL   Cancer Res. 59:1966-1972(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R., Buhay C.J.,
+RA   Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R., Gunaratne P.,
+RA   Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V., Hume J., Jackson A.,
+RA   Khan Z.M., Kovar-Smith C., Lewis L.R., Lozado R.J., Metzker M.L.,
+RA   Milosavljevic A., Miner G.R., Morgan M.B., Nazareth L.V., Scott G.,
+RA   Sodergren E., Song X.-Z., Steffen D., Wei S., Wheeler D.A., Wright M.W.,
+RA   Worley K.C., Yuan Y., Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M.,
+RA   Brown M.J., Chen G., Chen Z., Clendenning J., Clerc-Blankenburg K.P.,
+RA   Chen R., Chen Z., Davis C., Delgado O., Dinh H.H., Dong W., Draper H.,
+RA   Ernst S., Fu G., Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J.,
+RA   Hao B., Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W.,
+RA   Jackson L.R., Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B.,
+RA   Liu J., Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O.,
+RA   Palmeiri A., Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J., Zhang X.,
+RA   Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H., Reinhardt R.,
+RA   Naylor S.L., Yang H., Olson M., Weinstock G., Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 595-1755 (ISOFORM 2), AND
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1417-1755 (ISOFORM 3).
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [4]
+RP   VARIANT [LARGE SCALE ANALYSIS] ARG-351.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+RN   [5]
+RP   SUBCELLULAR LOCATION, AND INTERACTION WITH ALPHA-TUBULIN; BETA-TUBULIN;
+RP   BBS2; BBS4; BBS5; MKKS; TCP1; CCT2; CCT3; CCT4; CCT5 AND CCT7.
+RX   PubMed=33144677; DOI=10.1038/s41598-020-75957-y;
+RA   Okitsu Y., Nagano M., Yamagata T., Ito C., Toshimori K., Dohra H.,
+RA   Fujii W., Yogo K.;
+RT   "Dlec1 is required for spermatogenesis and male fertility in mice.";
+RL   Sci. Rep. 10:18883-18883(2020).
+CC   -!- FUNCTION: Essential for spermatogenesis and male fertility (By
+CC       similarity). May play an important role in sperm head and tail
+CC       formation (By similarity). May act as a tumor suppressor by inhibiting
+CC       cell proliferation. {ECO:0000250|UniProtKB:Q8BLA1,
+CC       ECO:0000269|PubMed:10213508}.
+CC   -!- SUBUNIT: Interacts with alpha- and beta-tubulin (PubMed:33144677).
+CC       Interacts with BBS2, BBS4, BBS5, MKKS, TCP1, CCT2, CCT3, CCT4, CCT5 and
+CC       CCT7 (PubMed:33144677). {ECO:0000269|PubMed:33144677}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:10213508,
+CC       ECO:0000269|PubMed:33144677}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC         Comment=At least six differentially spliced products may exist.
+CC         {ECO:0000303|PubMed:10213508};
+CC       Name=1 {ECO:0000303|PubMed:10213508};
+CC         IsoId=Q9Y238-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9Y238-2; Sequence=VSP_051847, VSP_051848, VSP_051849;
+CC       Name=3; Synonyms=1S3 {ECO:0000303|PubMed:10213508};
+CC         IsoId=Q9Y238-3; Sequence=VSP_051850;
+CC   -!- TISSUE SPECIFICITY: Expressed in all tissues examined. Expression is
+CC       highest in prostate and testis. {ECO:0000269|PubMed:10213508}.
+CC   -!- DISEASE: Note=DLEC1 silencing due to promoter methylation and aberrant
+CC       transcription are implicated in the development of different cancers,
+CC       including esophageal (ESCR), renal and lung cancers (LNCR).
+CC   -!- DISEASE: Lung cancer (LNCR) [MIM:211980]: A common malignancy affecting
+CC       tissues of the lung. The most common form of lung cancer is non-small
+CC       cell lung cancer (NSCLC) that can be divided into 3 major histologic
+CC       subtypes: squamous cell carcinoma, adenocarcinoma, and large cell lung
+CC       cancer. NSCLC is often diagnosed at an advanced stage and has a poor
+CC       prognosis. Note=The gene represented in this entry may be involved in
+CC       disease pathogenesis. DLEC1 silencing due to promoter methylation and
+CC       aberrant transcription are implicated in the development of lung
+CC       cancer.
+CC   -!- DISEASE: Esophageal cancer (ESCR) [MIM:133239]: A malignancy of the
+CC       esophagus. The most common types are esophageal squamous cell carcinoma
+CC       and adenocarcinoma. Cancer of the esophagus remains a devastating
+CC       disease because it is usually not detected until it has progressed to
+CC       an advanced incurable stage. {ECO:0000269|PubMed:10213508}. Note=The
+CC       gene represented in this entry may be involved in disease pathogenesis.
+CC       DLEC1 silencing due to promoter methylation and aberrant transcription
+CC       may be implicated in the development of esophageal cancer.
+CC   -!- MISCELLANEOUS: [Isoform 2]: Levels of this splice isoform may be
+CC       increased in cancer cell lines and primary cancers.
+CC       {ECO:0000303|PubMed:10213508, ECO:0000305}.
+CC   -!- MISCELLANEOUS: [Isoform 3]: Levels of this splice isoform are increased
+CC       in cancer cell lines and primary cancers.
+CC       {ECO:0000269|PubMed:10213508}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAB70676.1; Type=Miscellaneous discrepancy; Note=Intron retention.; Evidence={ECO:0000305};
+CC       Sequence=CAB70884.2; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB026898; BAA77624.1; -; Genomic_DNA.
+DR   EMBL; AB020522; BAA77247.1; -; mRNA.
+DR   EMBL; AC144536; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP006309; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL137706; CAB70884.2; ALT_INIT; Transcribed_RNA.
+DR   EMBL; AL137282; CAB70676.1; ALT_SEQ; mRNA.
+DR   CCDS; CCDS2672.2; -. [Q9Y238-1]
+DR   PIR; T46351; T46351.
+DR   PIR; T46406; T46406.
+DR   RefSeq; NP_001308082.1; NM_001321153.1.
+DR   RefSeq; NP_031361.2; NM_007335.3. [Q9Y238-1]
+DR   RefSeq; NP_031363.2; NM_007337.3. [Q9Y238-3]
+DR   AlphaFoldDB; Q9Y238; -.
+DR   SMR; Q9Y238; -.
+DR   BioGRID; 115266; 12.
+DR   IntAct; Q9Y238; 2.
+DR   STRING; 9606.ENSP00000308597; -.
+DR   iPTMnet; Q9Y238; -.
+DR   PhosphoSitePlus; Q9Y238; -.
+DR   BioMuta; DLEC1; -.
+DR   DMDM; 296434480; -.
+DR   EPD; Q9Y238; -.
+DR   MassIVE; Q9Y238; -.
+DR   PaxDb; Q9Y238; -.
+DR   PeptideAtlas; Q9Y238; -.
+DR   ProteomicsDB; 85633; -. [Q9Y238-1]
+DR   ProteomicsDB; 85634; -. [Q9Y238-2]
+DR   ProteomicsDB; 85635; -. [Q9Y238-3]
+DR   Antibodypedia; 6364; 204 antibodies from 25 providers.
+DR   DNASU; 9940; -.
+DR   Ensembl; ENST00000308059.11; ENSP00000308597.6; ENSG00000008226.20. [Q9Y238-1]
+DR   Ensembl; ENST00000346219.7; ENSP00000315914.5; ENSG00000008226.20. [Q9Y238-3]
+DR   GeneID; 9940; -.
+DR   KEGG; hsa:9940; -.
+DR   MANE-Select; ENST00000308059.11; ENSP00000308597.6; NM_007335.4; NP_031361.2.
+DR   UCSC; uc003cho.2; human. [Q9Y238-1]
+DR   AGR; HGNC:2899; -.
+DR   CTD; 9940; -.
+DR   DisGeNET; 9940; -.
+DR   GeneCards; DLEC1; -.
+DR   HGNC; HGNC:2899; DLEC1.
+DR   HPA; ENSG00000008226; Tissue enhanced (choroid plexus, fallopian tube, testis).
+DR   MalaCards; DLEC1; -.
+DR   MIM; 133239; phenotype.
+DR   MIM; 211980; phenotype.
+DR   MIM; 604050; gene.
+DR   neXtProt; NX_Q9Y238; -.
+DR   OpenTargets; ENSG00000008226; -.
+DR   Orphanet; 99977; Squamous cell carcinoma of the esophagus.
+DR   PharmGKB; PA27353; -.
+DR   VEuPathDB; HostDB:ENSG00000008226; -.
+DR   eggNOG; ENOG502QQQ5; Eukaryota.
+DR   GeneTree; ENSGT00390000006098; -.
+DR   HOGENOM; CLU_003422_0_0_1; -.
+DR   InParanoid; Q9Y238; -.
+DR   OMA; IPMQMTV; -.
+DR   OrthoDB; 315510at2759; -.
+DR   PhylomeDB; Q9Y238; -.
+DR   TreeFam; TF340616; -.
+DR   PathwayCommons; Q9Y238; -.
+DR   SignaLink; Q9Y238; -.
+DR   BioGRID-ORCS; 9940; 11 hits in 1140 CRISPR screens.
+DR   ChiTaRS; DLEC1; human.
+DR   GenomeRNAi; 9940; -.
+DR   Pharos; Q9Y238; Tbio.
+DR   PRO; PR:Q9Y238; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q9Y238; protein.
+DR   Bgee; ENSG00000008226; Expressed in right uterine tube and 142 other tissues.
+DR   ExpressionAtlas; Q9Y238; baseline and differential.
+DR   Genevisible; Q9Y238; HS.
+DR   GO; GO:0005929; C:cilium; IBA:GO_Central.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0043014; F:alpha-tubulin binding; IDA:UniProtKB.
+DR   GO; GO:0048487; F:beta-tubulin binding; IDA:UniProtKB.
+DR   GO; GO:0015631; F:tubulin binding; IBA:GO_Central.
+DR   GO; GO:0030154; P:cell differentiation; IEA:UniProtKB-KW.
+DR   GO; GO:0002357; P:defense response to tumor cell; IMP:ARUK-UCL.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; TAS:ProtInc.
+DR   GO; GO:0007283; P:spermatogenesis; ISS:UniProtKB.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 7.
+DR   InterPro; IPR033304; DLEC1.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   PANTHER; PTHR46348; DELETED IN LUNG AND ESOPHAGEAL CANCER PROTEIN 1; 1.
+DR   PANTHER; PTHR46348:SF1; DELETED IN LUNG AND ESOPHAGEAL CANCER PROTEIN 1; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cytoplasm; Differentiation; Reference proteome;
+KW   Spermatogenesis; Tumor suppressor.
+FT   CHAIN           1..1755
+FT                   /note="Deleted in lung and esophageal cancer protein 1"
+FT                   /id="PRO_0000079929"
+FT   REGION          1..39
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1339..1360
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1529..1553
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        12..39
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         704
+FT                   /note="E -> MARLRGGRIPAMPQPSPGQPAGTQWCFQGTVFALQ (in isoform
+FT                   2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_051847"
+FT   VAR_SEQ         856..885
+FT                   /note="GPALIINVSALQFGLLRLGQKATNSIQIRN -> PFSLVCSAWGRKPQTPSR
+FT                   SGTSASSQPHGA (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_051848"
+FT   VAR_SEQ         886..1755
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_051849"
+FT   VAR_SEQ         1675..1755
+FT                   /note="QQEPAKAAVAFRVSPNSGLLEARSANAPPTSIALQVFFTARSSELYESTMVV
+FT                   EGVLGEKSCTLRLRGQGSYDERYMLPHQP -> VVSCTSPRWWWKVCSVRSPAPCGSGA
+FT                   KAPMMRDTCCLTSPEAPPQPSAPGPSWRKNIAQGLGAALQHKDTDLGTWGPLGSSWNGR
+FT                   TPFHNGLSLGPHDMSSELT (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_051850"
+FT   VARIANT         79
+FT                   /note="L -> R (in dbSNP:rs7625806)"
+FT                   /id="VAR_056860"
+FT   VARIANT         192
+FT                   /note="S -> F (in dbSNP:rs34012183)"
+FT                   /id="VAR_056861"
+FT   VARIANT         351
+FT                   /note="P -> R (in a breast cancer sample; somatic
+FT                   mutation)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035908"
+FT   VARIANT         1022
+FT                   /note="K -> N (in dbSNP:rs36012922)"
+FT                   /id="VAR_056862"
+FT   VARIANT         1150
+FT                   /note="N -> D (in dbSNP:rs9840172)"
+FT                   /id="VAR_056863"
+FT   VARIANT         1227
+FT                   /note="L -> P (in dbSNP:rs9810085)"
+FT                   /id="VAR_056864"
+FT   CONFLICT        704
+FT                   /note="E -> M (in Ref. 2; CAB70884)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1442
+FT                   /note="G -> R (in Ref. 1; BAA77624/BAA77247)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1755 AA;  195684 MW;  CD4BDB5EEF24DF98 CRC64;
+     METRSSKTRR SLASRTNECQ GTMWAPTSPP AGSSSPSQPT WKSSLYSSLA YSEAFHYSFA
+     ARPRRLTQLA LAQRPEPQLL RLRPSSLRTQ DISHLLTGVF RNLYSAEVIG DEVSASLIKA
+     RGSENERHEE FVDQLQQIRE LYKQRLDEFE MLERHITQAQ ARAIAENERV MSQAGVQDLE
+     SLVRLPPVKS VSRWCIDSEL LRKHHLISPE DYYTDTVPFH SAPKGISLPG CSKLTFSCEK
+     RSVQKKELNK KLEDSCRKKL AEFEDELDHT VDSLTWNLTP KAKERTREPL KKASQPRNKN
+     WMNHLRVPQR ELDRLLLARM ESRNHFLKNP RFFPPNTRYG GKSLVFPPKK PAPIGEFQST
+     EPEQSCADTP VFLAKPPIGF FTDYEIGPVY EMVIALQNTT TTSRYLRVLP PSTPYFALGL
+     GMFPGKGGMV APGMTCQYIV QFFPDCLGDF DDFILVETQS AHTLLIPLQA RRPPPVLTLS
+     PVLDCGYCLI GGVKMTRFIC KNVGFSVGRF CIMPKTSWPP LSFKAIATVG FVEQPPFGIL
+     PSVFELAPGH AILVEVLFSP KSLGKAEQTF IIMCDNCQIK ELVTIGIGQL IALDLIYISG
+     EKSQPDPGEL TDLTAQHFIR FEPENLRSTA RKQLIIRNAT HVELAFYWQI MKPNLQPLMP
+     GETFSMDSIK CYPDKETAFS IMPRKGVLSP HTDHEFILSF SPHELRDFHS VLQMVLEEVP
+     EPVSSEAESL GHSSYSVDDV IVLEIEVKGS VEPFQVLLEP YALIIPGENY IGINVKKAFK
+     MWNNSKSPIR YLWGKISDCH IIEVEPGTGV IEPSEVGDFE LNFTGGVPGP TSQDLLCEIE
+     DSPSPVVLHI EAVFKGPALI INVSALQFGL LRLGQKATNS IQIRNVSQLP ATWRMKESPV
+     SLQERPEDVS PFDIEPSSGQ LHSLGECRVD ITLEALHCQH LETVLELEVE NGAWSYLPVY
+     AEVQKPHVYL QSSQVEVRNL YLGVPTKTTI TLINGTLLPT QFHWGKLLGH QAEFCMVTVS
+     PKHGLLGPSE ECQLKLELTA HTQEELTHLA LPCHVSGMKK PLVLGISGKP QGLQVAITIS
+     KESSDCSTEQ WPGHPKELRL DFGSAVPLRT RVTRQLILTN RSPIRTRFSL KFEYFGSPQN
+     SLSKKTSLPN MPPALLKTVR MQEHLAKREQ LDFMESMLSH GKGAAFFPHF SQGMLGPYQQ
+     LCIDITGCAN MWGEYWDNLI CTVGDLLPEV IPVHMAAVGC PISSLRTTSY TIDQAQKEPA
+     MRFGTQVSGG DTVTRTLRLN NSSPCDIRLD WETYVPEDKE DRLVELLVFY GPPFPLRDQA
+     GNELVCPDTP EGGCLLWSPG PSSSSEFSHE TDSSVEGSSS ASNRVAQKLI SVILQAHEGV
+     PSGHLYCISP KQVVVPAGGS STIYISFTPM VLSPEILHKV ECTGYALGFM SLDSKVEREI
+     PGKRHRLQDF AVGPLKLDLH SYVRPAQLSV ELDYGGSMEF QCQASDLIPE QPCSGVLSEL
+     VTTHHLKLTN TTEIPHYFRL MVSRPFSVSQ DGASQDHRAP GPGQKQECEE ETASADKQLV
+     LQAQENMLVN VSFSLSLELL SYQKLPADQT LPGVDIQQSA SGEREMVFTQ NLLLEYTNQT
+     TQVVPLRAVV AVPELQLSTS WVDFGTCFVS QQRVREVYLM NLSGCRSYWT MLMGQQEPAK
+     AAVAFRVSPN SGLLEARSAN APPTSIALQV FFTARSSELY ESTMVVEGVL GEKSCTLRLR
+     GQGSYDERYM LPHQP
+//

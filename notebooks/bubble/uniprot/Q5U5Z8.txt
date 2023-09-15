@@ -1,0 +1,310 @@
+ID   CBPC2_HUMAN             Reviewed;         902 AA.
+AC   Q5U5Z8; A8MPX2; Q53FV5; Q8IV57; Q9H5C0;
+DT   03-APR-2007, integrated into UniProtKB/Swiss-Prot.
+DT   23-SEP-2008, sequence version 2.
+DT   28-JUN-2023, entry version 134.
+DE   RecName: Full=Cytosolic carboxypeptidase 2 {ECO:0000250|UniProtKB:Q8CDK2};
+DE            EC=3.4.17.- {ECO:0000250|UniProtKB:Q8CDK2};
+DE   AltName: Full=ATP/GTP-binding protein-like 2;
+DE   AltName: Full=Protein deglutamylase CCP2 {ECO:0000305};
+GN   Name=AGBL2 {ECO:0000312|HGNC:HGNC:26296};
+GN   Synonyms=CCP2 {ECO:0000250|UniProtKB:Q8CDK2};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT ILE-671.
+RC   TISSUE=Lung;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT ILE-671.
+RC   TISSUE=Lung;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 3), AND VARIANT
+RP   ILE-671.
+RC   TISSUE=Lung, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   3D-STRUCTURE MODELING, ACTIVITY REGULATION, AND INTERACTION WITH RARRES1;
+RP   KIF11 AND MAPRE1.
+RX   PubMed=21303978; DOI=10.1158/0008-5472.can-10-2294;
+RA   Sahab Z.J., Hall M.D., Me Sung Y., Dakshanamurthy S., Ji Y., Kumar D.,
+RA   Byers S.W.;
+RT   "Tumor suppressor RARRES1 interacts with cytoplasmic carboxypeptidase AGBL2
+RT   to regulate the alpha-tubulin tyrosination cycle.";
+RL   Cancer Res. 71:1219-1228(2011).
+RN   [6]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=23085998; DOI=10.1096/fj.12-209080;
+RA   Rodriguez de la Vega Otazo M., Lorenzo J., Tort O., Aviles F.X.,
+RA   Bautista J.M.;
+RT   "Functional segregation and emerging role of cilia-related cytosolic
+RT   carboxypeptidases (CCPs).";
+RL   FASEB J. 27:424-431(2013).
+CC   -!- FUNCTION: Metallocarboxypeptidase that mediates deglutamylation of
+CC       tubulin and non-tubulin target proteins. Catalyzes the removal of
+CC       polyglutamate side chains present on the gamma-carboxyl group of
+CC       glutamate residues within the C-terminal tail of tubulin protein.
+CC       Specifically cleaves tubulin long-side-chains, while it is not able to
+CC       remove the branching point glutamate. Also catalyzes the removal of
+CC       polyglutamate residues from the carboxy-terminus of non-tubulin
+CC       proteins such as MYLK. {ECO:0000250|UniProtKB:Q8CDK2}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(L-glutamyl)(n+1)-gamma-L-glutamyl-L-glutamyl-[protein] + H2O
+CC         = (L-glutamyl)(n)-gamma-L-glutamyl-L-glutamyl-[protein] + L-
+CC         glutamate; Xref=Rhea:RHEA:60004, Rhea:RHEA-COMP:15519, Rhea:RHEA-
+CC         COMP:15675, ChEBI:CHEBI:15377, ChEBI:CHEBI:29985, ChEBI:CHEBI:143623;
+CC         Evidence={ECO:0000250|UniProtKB:Q8CDK2};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:60005;
+CC         Evidence={ECO:0000250|UniProtKB:Q8CDK2};
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 1 zinc ion per subunit. {ECO:0000250};
+CC   -!- ACTIVITY REGULATION: Inhibited by RARRES1.
+CC       {ECO:0000269|PubMed:21303978}.
+CC   -!- SUBUNIT: Interacts with RARRES1, KIF11 AND MAPRE1.
+CC       {ECO:0000269|PubMed:21303978}.
+CC   -!- INTERACTION:
+CC       Q5U5Z8-3; Q8NHQ1: CEP70; NbExp=3; IntAct=EBI-12226473, EBI-739624;
+CC       Q5U5Z8-3; P17568: NDUFB7; NbExp=3; IntAct=EBI-12226473, EBI-1246238;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytosol
+CC       {ECO:0000250|UniProtKB:Q8CDK2}. Cytoplasm, cytoskeleton, microtubule
+CC       organizing center, centrosome, centriole {ECO:0000269|PubMed:23085998}.
+CC       Cytoplasm, cytoskeleton, cilium basal body
+CC       {ECO:0000269|PubMed:23085998}. Note=Colocalizes with gamma-tubulin in
+CC       the centrioles and with glutamylated tubulin in the basal bodies of
+CC       ciliated cells. {ECO:0000269|PubMed:23085998}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q5U5Z8-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q5U5Z8-2; Sequence=VSP_024360;
+CC       Name=3;
+CC         IsoId=Q5U5Z8-3; Sequence=VSP_024361;
+CC   -!- SIMILARITY: Belongs to the peptidase M14 family. {ECO:0000305}.
+CC   -!- CAUTION: Was initially shown to catalyze the removal of carboxy-
+CC       terminus tyrosine from alpha-tubulin (PubMed:21303978). However, later
+CC       studies did not identified any detyrosinase or deglycylase activities
+CC       from the carboxy-terminus of tubulin (By similarity).
+CC       {ECO:0000250|UniProtKB:Q8CDK2, ECO:0000269|PubMed:21303978}.
+CC   -!- CAUTION: Was originally thought to have detyrosinating activity from C-
+CC       terminal positions on tubulin. {ECO:0000269|PubMed:21303978}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB15707.1; Type=Erroneous termination; Note=Truncated C-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAD96891.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=BAD96896.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK027251; BAB15707.1; ALT_SEQ; mRNA.
+DR   EMBL; AK223171; BAD96891.1; ALT_INIT; mRNA.
+DR   EMBL; AK223176; BAD96896.1; ALT_INIT; mRNA.
+DR   EMBL; AC021443; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC028200; AAH28200.1; -; mRNA.
+DR   EMBL; BC036234; AAH36234.1; -; mRNA.
+DR   CCDS; CCDS7944.1; -. [Q5U5Z8-1]
+DR   RefSeq; NP_079059.2; NM_024783.3. [Q5U5Z8-1]
+DR   AlphaFoldDB; Q5U5Z8; -.
+DR   SMR; Q5U5Z8; -.
+DR   BioGRID; 122932; 8.
+DR   IntAct; Q5U5Z8; 3.
+DR   STRING; 9606.ENSP00000435582; -.
+DR   ChEMBL; CHEMBL3886062; -.
+DR   MEROPS; M14.029; -.
+DR   GlyGen; Q5U5Z8; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q5U5Z8; -.
+DR   PhosphoSitePlus; Q5U5Z8; -.
+DR   BioMuta; AGBL2; -.
+DR   DMDM; 206729855; -.
+DR   EPD; Q5U5Z8; -.
+DR   jPOST; Q5U5Z8; -.
+DR   MassIVE; Q5U5Z8; -.
+DR   PaxDb; Q5U5Z8; -.
+DR   PeptideAtlas; Q5U5Z8; -.
+DR   Antibodypedia; 1166; 138 antibodies from 22 providers.
+DR   DNASU; 79841; -.
+DR   Ensembl; ENST00000525123.6; ENSP00000435582.1; ENSG00000165923.17. [Q5U5Z8-1]
+DR   Ensembl; ENST00000645431.2; ENSP00000494229.1; ENSG00000285501.2. [Q5U5Z8-1]
+DR   GeneID; 79841; -.
+DR   KEGG; hsa:79841; -.
+DR   MANE-Select; ENST00000525123.6; ENSP00000435582.1; NM_024783.4; NP_079059.2.
+DR   UCSC; uc001ngg.4; human. [Q5U5Z8-1]
+DR   AGR; HGNC:26296; -.
+DR   CTD; 79841; -.
+DR   DisGeNET; 79841; -.
+DR   GeneCards; AGBL2; -.
+DR   HGNC; HGNC:26296; AGBL2.
+DR   HPA; ENSG00000165923; Tissue enhanced (fallopian tube, testis).
+DR   MIM; 617345; gene.
+DR   neXtProt; NX_Q5U5Z8; -.
+DR   OpenTargets; ENSG00000165923; -.
+DR   PharmGKB; PA142672634; -.
+DR   VEuPathDB; HostDB:ENSG00000165923; -.
+DR   eggNOG; KOG3641; Eukaryota.
+DR   GeneTree; ENSGT00940000160201; -.
+DR   HOGENOM; CLU_007523_5_0_1; -.
+DR   InParanoid; Q5U5Z8; -.
+DR   OMA; KGRMQVL; -.
+DR   OrthoDB; 168164at2759; -.
+DR   PhylomeDB; Q5U5Z8; -.
+DR   TreeFam; TF313794; -.
+DR   PathwayCommons; Q5U5Z8; -.
+DR   Reactome; R-HSA-8955332; Carboxyterminal post-translational modifications of tubulin.
+DR   SignaLink; Q5U5Z8; -.
+DR   BioGRID-ORCS; 79841; 8 hits in 1145 CRISPR screens.
+DR   ChiTaRS; AGBL2; human.
+DR   GenomeRNAi; 79841; -.
+DR   Pharos; Q5U5Z8; Tchem.
+DR   PRO; PR:Q5U5Z8; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q5U5Z8; protein.
+DR   Bgee; ENSG00000165923; Expressed in right uterine tube and 94 other tissues.
+DR   ExpressionAtlas; Q5U5Z8; baseline and differential.
+DR   Genevisible; Q5U5Z8; HS.
+DR   GO; GO:0005814; C:centriole; IDA:UniProtKB.
+DR   GO; GO:0036064; C:ciliary basal body; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; ISS:UniProtKB.
+DR   GO; GO:0004181; F:metallocarboxypeptidase activity; ISS:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0035610; P:protein side chain deglutamylation; ISS:UniProtKB.
+DR   GO; GO:0006508; P:proteolysis; IEA:UniProtKB-KW.
+DR   CDD; cd06907; M14_AGBL2-3_like; 1.
+DR   Gene3D; 2.60.40.3120; -; 1.
+DR   Gene3D; 3.40.630.10; Zn peptidases; 1.
+DR   InterPro; IPR040626; Pepdidase_M14_N.
+DR   InterPro; IPR000834; Peptidase_M14.
+DR   PANTHER; PTHR12756; CYTOSOLIC CARBOXYPEPTIDASE; 1.
+DR   PANTHER; PTHR12756:SF41; CYTOSOLIC CARBOXYPEPTIDASE 2; 1.
+DR   Pfam; PF18027; Pepdidase_M14_N; 1.
+DR   Pfam; PF00246; Peptidase_M14; 1.
+DR   SUPFAM; SSF53187; Zn-dependent exopeptidases; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Carboxypeptidase; Cell projection; Cytoplasm;
+KW   Cytoskeleton; Hydrolase; Metal-binding; Metalloprotease; Protease;
+KW   Reference proteome; Zinc.
+FT   CHAIN           1..902
+FT                   /note="Cytosolic carboxypeptidase 2"
+FT                   /id="PRO_0000283748"
+FT   REGION          746..770
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          796..879
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        796..814
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        847..869
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        512
+FT                   /note="Nucleophile"
+FT                   /evidence="ECO:0000250|UniProtKB:P00730"
+FT   BINDING         462
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /evidence="ECO:0000250|UniProtKB:Q09M02"
+FT   BINDING         465
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /evidence="ECO:0000250|UniProtKB:Q09M02"
+FT   BINDING         558
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /evidence="ECO:0000250|UniProtKB:P00730"
+FT   VAR_SEQ         1..617
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_024361"
+FT   VAR_SEQ         1..471
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039, ECO:0000303|Ref.2"
+FT                   /id="VSP_024360"
+FT   VARIANT         90
+FT                   /note="I -> R (in dbSNP:rs12795414)"
+FT                   /id="VAR_046637"
+FT   VARIANT         333
+FT                   /note="T -> P (in dbSNP:rs35898124)"
+FT                   /id="VAR_046638"
+FT   VARIANT         349
+FT                   /note="R -> H (in dbSNP:rs7941404)"
+FT                   /id="VAR_031572"
+FT   VARIANT         368
+FT                   /note="D -> G (in dbSNP:rs1870545)"
+FT                   /id="VAR_046639"
+FT   VARIANT         671
+FT                   /note="M -> I (in dbSNP:rs12286721)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|Ref.2"
+FT                   /id="VAR_046640"
+SQ   SEQUENCE   902 AA;  104194 MW;  C9C5D8260AFBCF65 CRC64;
+     MFPALETHLK QTIPDPYEDF MYRHLQYYGY FKAQRGSLPN SATHQHVRKN NPQCLLNGSL
+     GEKDDLIPDT LQKEKLLWPI SLSSAVHRQI EAINRDFHSC LGWMQWRGLS SLQPPPPRFK
+     DSPASAFRVA GITDSHMLSL PHLRSRQLLY DELDEVNPRL REPQELFSIL STKRPLQAPR
+     WPIECEVIKE NIHHIEWAPP QPEYFYQPKG NEKVPEIVGE KKGTVVYQLD SVPIEGSYFT
+     SSRVGGKRGI VKELAVTLQG PEDNTLLFES RFESGNLQKA VRVDTYEYEL TLRTDLYTNK
+     HTQWFYFRVQ NTRKDATYRF TIVNLLKPKS LYTVGMKPLL YSQLDANTRN IGWRREGNEI
+     KYYKNNTDDG QQPFYCLTWT IQFPYDQDTC FFAHFYPYTY TDLQCYLLSV ANNPIQSQFC
+     KLQTLCRSLA GNTVYLLTIT NPSQTPQEAA AKKAVVLSAR VHPGESNGSW VMKGFLDFIL
+     SNSPDAQLLR DIFVFKVLPM LNPDGVIVGN YRCSLAGRDL NRHYKTILKE SFPCIWYTRN
+     MIKRLLEERE VLLYCDFHGH SRKNNIFLYG CNNNNRKYWL HERVFPLMLC KNAPDKFSFH
+     SCNFKVQKCK EGTGRVVMWR MGILNSYTME STFGGSTLGN KRDTHFTIED LKSLGYHVCD
+     TLLDFCDPDQ MKFTQCLAEL KELLRQEIHK KFHELGQDVD LEGSWSDISL SDIESSTSGS
+     DSSLSDGLPV HLANIADELT QKKKMFKKKK KKSLQTRKQR NEQYQKKNLM QKLKLTEDTS
+     EKAGFASTLQ KQPTFFKNSE NSSFLPMKNE NPRLNETNLN RRDKDTPLDP SMATLILPKN
+     KGRMQNKKPG FTVSCSPKRT INSSQEPAPG MKPNWPRSRY PATKRGCAAM AAYPSLHIYT
+     YP
+//

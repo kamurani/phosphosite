@@ -1,0 +1,288 @@
+ID   TMOD3_HUMAN             Reviewed;         352 AA.
+AC   Q9NYL9; B2R6G7; Q9NT43; Q9NZR0;
+DT   19-SEP-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   28-JUN-2023, entry version 177.
+DE   RecName: Full=Tropomodulin-3;
+DE   AltName: Full=Ubiquitous tropomodulin;
+DE            Short=U-Tmod;
+GN   Name=TMOD3;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Conley C.A., Fowler V.M.;
+RL   Submitted (FEB-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RX   PubMed=10662549; DOI=10.1006/geno.1999.6061;
+RA   Cox P.R., Zoghbi H.Y.;
+RT   "Sequencing, expression analysis, and mapping of three unique human
+RT   tropomodulin genes and their mouse orthologs.";
+RL   Genomics 63:97-107(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Adrenal gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 264-352.
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 318-328, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Brain, and Cajal-Retzius cell;
+RA   Lubec G., Afjehi-Sadat L.;
+RL   Submitted (MAR-2007) to UniProtKB.
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-25, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-25, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-25, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-25, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-25, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+CC   -!- FUNCTION: Blocks the elongation and depolymerization of the actin
+CC       filaments at the pointed end. The Tmod/TM complex contributes to the
+CC       formation of the short actin protofilament, which in turn defines the
+CC       geometry of the membrane skeleton (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Binds to the N-terminus of tropomyosin and to actin.
+CC       {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:10662549}.
+CC   -!- SIMILARITY: Belongs to the tropomodulin family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF237631; AAF45299.1; -; mRNA.
+DR   EMBL; AF177171; AAF31670.1; -; mRNA.
+DR   EMBL; AK312569; BAG35464.1; -; mRNA.
+DR   EMBL; BC020542; AAH20542.1; -; mRNA.
+DR   EMBL; AL137543; CAB70801.1; -; mRNA.
+DR   CCDS; CCDS10145.1; -.
+DR   PIR; T46384; T46384.
+DR   RefSeq; NP_055362.1; NM_014547.4.
+DR   RefSeq; XP_016877576.1; XM_017022087.1.
+DR   RefSeq; XP_016877577.1; XM_017022088.1.
+DR   AlphaFoldDB; Q9NYL9; -.
+DR   SMR; Q9NYL9; -.
+DR   BioGRID; 118899; 244.
+DR   IntAct; Q9NYL9; 122.
+DR   MINT; Q9NYL9; -.
+DR   STRING; 9606.ENSP00000308753; -.
+DR   GlyGen; Q9NYL9; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9NYL9; -.
+DR   MetOSite; Q9NYL9; -.
+DR   PhosphoSitePlus; Q9NYL9; -.
+DR   SwissPalm; Q9NYL9; -.
+DR   BioMuta; TMOD3; -.
+DR   DMDM; 23396884; -.
+DR   OGP; Q9NYL9; -.
+DR   EPD; Q9NYL9; -.
+DR   jPOST; Q9NYL9; -.
+DR   MassIVE; Q9NYL9; -.
+DR   MaxQB; Q9NYL9; -.
+DR   PaxDb; Q9NYL9; -.
+DR   PeptideAtlas; Q9NYL9; -.
+DR   PRIDE; Q9NYL9; -.
+DR   ProteomicsDB; 83252; -.
+DR   TopDownProteomics; Q9NYL9; -.
+DR   Antibodypedia; 978; 178 antibodies from 28 providers.
+DR   DNASU; 29766; -.
+DR   Ensembl; ENST00000308580.12; ENSP00000308753.7; ENSG00000138594.14.
+DR   GeneID; 29766; -.
+DR   KEGG; hsa:29766; -.
+DR   MANE-Select; ENST00000308580.12; ENSP00000308753.7; NM_014547.5; NP_055362.1.
+DR   UCSC; uc002abn.4; human.
+DR   AGR; HGNC:11873; -.
+DR   CTD; 29766; -.
+DR   DisGeNET; 29766; -.
+DR   GeneCards; TMOD3; -.
+DR   HGNC; HGNC:11873; TMOD3.
+DR   HPA; ENSG00000138594; Low tissue specificity.
+DR   MIM; 605112; gene.
+DR   neXtProt; NX_Q9NYL9; -.
+DR   OpenTargets; ENSG00000138594; -.
+DR   PharmGKB; PA36574; -.
+DR   VEuPathDB; HostDB:ENSG00000138594; -.
+DR   eggNOG; KOG3735; Eukaryota.
+DR   GeneTree; ENSGT00940000158280; -.
+DR   HOGENOM; CLU_031052_0_1_1; -.
+DR   InParanoid; Q9NYL9; -.
+DR   OMA; KQKPMQT; -.
+DR   OrthoDB; 2883785at2759; -.
+DR   PhylomeDB; Q9NYL9; -.
+DR   TreeFam; TF315841; -.
+DR   PathwayCommons; Q9NYL9; -.
+DR   Reactome; R-HSA-390522; Striated Muscle Contraction.
+DR   Reactome; R-HSA-9013418; RHOBTB2 GTPase cycle.
+DR   Reactome; R-HSA-9696264; RND3 GTPase cycle.
+DR   SignaLink; Q9NYL9; -.
+DR   BioGRID-ORCS; 29766; 17 hits in 1152 CRISPR screens.
+DR   ChiTaRS; TMOD3; human.
+DR   GeneWiki; TMOD3; -.
+DR   GenomeRNAi; 29766; -.
+DR   Pharos; Q9NYL9; Tbio.
+DR   PRO; PR:Q9NYL9; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q9NYL9; protein.
+DR   Bgee; ENSG00000138594; Expressed in amniotic fluid and 182 other tissues.
+DR   ExpressionAtlas; Q9NYL9; baseline and differential.
+DR   Genevisible; Q9NYL9; HS.
+DR   GO; GO:0005912; C:adherens junction; HDA:BHF-UCL.
+DR   GO; GO:0005865; C:striated muscle thin filament; IEA:Ensembl.
+DR   GO; GO:0003779; F:actin binding; IEA:UniProtKB-KW.
+DR   GO; GO:0098641; F:cadherin binding involved in cell-cell adhesion; HDA:BHF-UCL.
+DR   GO; GO:0005523; F:tropomyosin binding; TAS:ProtInc.
+DR   GO; GO:0048821; P:erythrocyte development; IEA:Ensembl.
+DR   GO; GO:0044772; P:mitotic cell cycle phase transition; IEA:Ensembl.
+DR   GO; GO:0006936; P:muscle contraction; IBA:GO_Central.
+DR   GO; GO:0030239; P:myofibril assembly; IBA:GO_Central.
+DR   GO; GO:0051694; P:pointed-end actin filament capping; IEA:InterPro.
+DR   GO; GO:1901992; P:positive regulation of mitotic cell cycle phase transition; IEA:Ensembl.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 1.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   InterPro; IPR004934; TMOD.
+DR   PANTHER; PTHR10901; TROPOMODULIN; 1.
+DR   PANTHER; PTHR10901:SF18; TROPOMODULIN-3; 1.
+DR   Pfam; PF03250; Tropomodulin; 1.
+DR   SUPFAM; SSF52047; RNI-like; 1.
+PE   1: Evidence at protein level;
+KW   Actin-binding; Cytoplasm; Cytoskeleton; Direct protein sequencing;
+KW   Phosphoprotein; Reference proteome.
+FT   CHAIN           1..352
+FT                   /note="Tropomodulin-3"
+FT                   /id="PRO_0000186134"
+FT   MOD_RES         25
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   CONFLICT        27
+FT                   /note="T -> S (in Ref. 2; AAF31670)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   352 AA;  39595 MW;  8B7F2122C1BE9855 CRC64;
+     MALPFRKDLE KYKDLDEDEL LGNLSETELK QLETVLDDLD PENALLPAGF RQKNQTSKST
+     TGPFDREHLL SYLEKEALEH KDREDYVPYT GEKKGKIFIP KQKPVQTFTE EKVSLDPELE
+     EALTSASDTE LCDLAAILGM HNLITNTKFC NIMGSSNGVD QEHFSNVVKG EKILPVFDEP
+     PNPTNVEESL KRTKENDAHL VEVNLNNIKN IPIPTLKDFA KALETNTHVK CFSLAATRSN
+     DPVATAFAEM LKVNKTLKSL NVESNFITGV GILALIDALR DNETLAELKI DNQRQQLGTA
+     VELEMAKMLE ENTNILKFGY QFTQQGPRTR AANAITKNND LVRKRRVEGD HQ
+//

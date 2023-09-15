@@ -1,0 +1,652 @@
+ID   AKP8L_HUMAN             Reviewed;         646 AA.
+AC   Q9ULX6; B4DJ74; B5BU90; O94792; Q96J58; Q9NRQ0; Q9UGM0;
+DT   27-APR-2001, integrated into UniProtKB/Swiss-Prot.
+DT   12-SEP-2018, sequence version 4.
+DT   28-JUN-2023, entry version 204.
+DE   RecName: Full=A-kinase anchor protein 8-like;
+DE            Short=AKAP8-like protein;
+DE   AltName: Full=Helicase A-binding protein 95;
+DE            Short=HAP95;
+DE   AltName: Full=Homologous to AKAP95 protein;
+DE            Short=HA95;
+DE   AltName: Full=Neighbor of A-kinase-anchoring protein 95;
+DE            Short=Neighbor of AKAP95;
+GN   Name=AKAP8L; Synonyms=NAKAP, NAKAP95; ORFNames=HRIHFB2018;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, AND VARIANT
+RP   HIS-458.
+RC   TISSUE=Fetal brain;
+RX   PubMed=10697960; DOI=10.1007/s100380070040;
+RA   Seki N., Ueki N., Yano K., Saito T., Masuho Y., Muramatsu M.-A.;
+RT   "cDNA cloning of a novel human gene NAKAP95, neighbor of A-kinase anchoring
+RT   protein 95 (AKAP95) on chromosome 19p13.11-p13.12 region.";
+RL   J. Hum. Genet. 45:31-37(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10761695; DOI=10.1016/s0248-4900(00)88761-4;
+RA   Orstavik S., Eide T., Collas P., Han I.O., Tasken K., Kieff E., Jahnsen T.,
+RA   Skalhegg B.S.;
+RT   "Identification, cloning and characterization of a novel nuclear protein,
+RT   HA95, homologous to A-kinase anchoring protein 95.";
+RL   Biol. Cell 92:27-37(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, SUBCELLULAR LOCATION, AND
+RP   INTERACTION WITH DHX9.
+RC   TISSUE=Placenta, and T-cell lymphoma;
+RX   PubMed=10748171; DOI=10.1074/jbc.m909887199;
+RA   Westberg C., Yang J.-P., Tang H., Reddy T.R., Wong-Staal F.;
+RT   "A novel shuttle protein binds to RNA helicase A and activates the
+RT   retroviral constitutive transport element.";
+RL   J. Biol. Chem. 275:21396-21401(2000).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Substantia nigra;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=19054851; DOI=10.1038/nmeth.1273;
+RA   Goshima N., Kawamura Y., Fukumoto A., Miura A., Honma R., Satoh R.,
+RA   Wakamatsu A., Yamamoto J., Kimura K., Nishikawa T., Andoh T., Iida Y.,
+RA   Ishikawa K., Ito E., Kagawa N., Kaminaga C., Kanehori K., Kawakami B.,
+RA   Kenmochi K., Kimura R., Kobayashi M., Kuroita T., Kuwayama H., Maruyama Y.,
+RA   Matsuo K., Minami K., Mitsubori M., Mori M., Morishita R., Murase A.,
+RA   Nishikawa A., Nishikawa S., Okamoto T., Sakagami N., Sakamoto Y.,
+RA   Sasaki Y., Seki T., Sono S., Sugiyama A., Sumiya T., Takayama T.,
+RA   Takayama Y., Takeda H., Togashi T., Yahata K., Yamada H., Yanagisawa Y.,
+RA   Endo Y., Imamoto F., Kisu Y., Tanaka S., Isogai T., Imai J., Watanabe S.,
+RA   Nomura N.;
+RT   "Human protein factory for converting the transcriptome into an in vitro-
+RT   expressed proteome.";
+RL   Nat. Methods 5:1011-1017(2008).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-358 (ISOFORM 1), AND
+RP   SUBCELLULAR LOCATION.
+RC   TISSUE=Fetal brain;
+RX   PubMed=9853615; DOI=10.1038/4315;
+RA   Ueki N., Oda T., Kondo M., Yano K., Noguchi T., Muramatsu M.-A.;
+RT   "Selection system for genes encoding nuclear-targeted proteins.";
+RL   Nat. Biotechnol. 16:1338-1342(1998).
+RN   [10]
+RP   FUNCTION, INTERACTION WITH LAMIN-B, AND SUBCELLULAR LOCATION.
+RX   PubMed=11034899; DOI=10.1242/jcs.113.21.3703;
+RA   Martins S.B., Eide T., Steen R.L., Jahnsen T., Skaalhegg B.S., Collas P.;
+RT   "HA95 is a protein of the chromatin and nuclear matrix regulating nuclear
+RT   envelope dynamics.";
+RL   J. Cell Sci. 113:3703-3713(2000).
+RN   [11]
+RP   FUNCTION, FUNCTION (MICROBIAL INFECTION), INTERACTION WITH DHX9, AND
+RP   NUCLEAR EXPORT SIGNAL.
+RX   PubMed=11402034; DOI=10.1074/jbc.m102809200;
+RA   Yang J.P., Tang H., Reddy T.R., Wong-Staal F.;
+RT   "Mapping the functional domains of HAP95, a protein that binds RNA helicase
+RT   A and activates the constitutive transport element of type D
+RT   retroviruses.";
+RL   J. Biol. Chem. 276:30694-30700(2001).
+RN   [12]
+RP   INTERACTION WITH EBNA-LP.
+RX   PubMed=11160753; DOI=10.1128/jvi.75.5.2475-2481.2001;
+RA   Han I., Harada S., Weaver D., Xue Y., Lane W., Orstavik S., Skalhegg B.,
+RA   Kieff E.;
+RT   "EBNA-LP associates with cellular proteins including DNA-PK and HA95.";
+RL   J. Virol. 75:2475-2481(2001).
+RN   [13]
+RP   INTERACTION WITH PRKACA, FUNCTION (MICROBIAL INFECTION), AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=11884601; DOI=10.1128/mcb.22.7.2136-2146.2002;
+RA   Han I., Xue Y., Harada S., Orstavik S., Skalhegg B., Kieff E.;
+RT   "Protein kinase A associates with HA95 and affects transcriptional
+RT   coactivation by Epstein-Barr virus nuclear proteins.";
+RL   Mol. Cell. Biol. 22:2136-2146(2002).
+RN   [14]
+RP   INTERACTION WITH TMPO-BETA, AND FUNCTION.
+RX   PubMed=12538639; DOI=10.1083/jcb.200210026;
+RA   Martins S., Eikvar S., Furukawa K., Collas P.;
+RT   "HA95 and LAP2 beta mediate a novel chromatin-nuclear envelope interaction
+RT   implicated in initiation of DNA replication.";
+RL   J. Cell Biol. 160:177-188(2003).
+RN   [15]
+RP   PHOSPHORYLATION.
+RX   PubMed=12950172; DOI=10.1021/bi0350699;
+RA   Martins S.B., Marstad A., Collas P.;
+RT   "In vitro modulation of the interaction between HA95 and LAP2beta by cAMP
+RT   signaling.";
+RL   Biochemistry 42:10456-10461(2003).
+RN   [16]
+RP   INTERACTION WITH PRPF40A, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=16391387; DOI=10.1385/nmm:7:4:297;
+RA   Sayer J.A., Manczak M., Akileswaran L., Reddy P.H., Coghlan V.M.;
+RT   "Interaction of the nuclear matrix protein NAKAP with HypA and huntingtin:
+RT   implications for nuclear toxicity in Huntington's disease pathogenesis.";
+RL   NeuroMolecular Med. 7:297-310(2005).
+RN   [17]
+RP   FUNCTION, AND INTERACTION WITH HDAC3.
+RX   PubMed=16980585; DOI=10.1101/gad.1455006;
+RA   Li Y., Kao G.D., Garcia B.A., Shabanowitz J., Hunt D.F., Qin J., Phelan C.,
+RA   Lazar M.A.;
+RT   "A novel histone deacetylase pathway regulates mitosis by modulating Aurora
+RT   B kinase activity.";
+RL   Genes Dev. 20:2566-2579(2006).
+RN   [18]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=17594903; DOI=10.1016/j.yexcr.2007.05.014;
+RA   Kvissel A.K., Oerstavik S., Eikvar S., Brede G., Jahnsen T., Collas P.,
+RA   Akusjaervi G., Skaalhegg B.S.;
+RT   "Involvement of the catalytic subunit of protein kinase A and of HA95 in
+RT   pre-mRNA splicing.";
+RL   Exp. Cell Res. 313:2795-2809(2007).
+RN   [19]
+RP   INTERACTION WITH RNF43.
+RX   PubMed=18313049; DOI=10.1016/j.yexcr.2008.01.013;
+RA   Sugiura T., Yamaguchi A., Miyamoto K.;
+RT   "A cancer-associated RING finger protein, RNF43, is a ubiquitin ligase that
+RT   interacts with a nuclear protein, HAP95.";
+RL   Exp. Cell Res. 314:1519-1528(2008).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-283, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-292 AND SER-297, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [22]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-257, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-283, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [24]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-267 AND SER-552, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [25]
+RP   METHYLATION [LARGE SCALE ANALYSIS] AT ARG-208; ARG-217; ARG-237 AND
+RP   ARG-247, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Colon carcinoma;
+RX   PubMed=24129315; DOI=10.1074/mcp.o113.027870;
+RA   Guo A., Gu H., Zhou J., Mulhern D., Wang Y., Lee K.A., Yang V., Aguiar M.,
+RA   Kornhauser J., Jia X., Ren J., Beausoleil S.A., Silva J.C., Vemulapalli V.,
+RA   Bedford M.T., Comb M.J.;
+RT   "Immunoaffinity enrichment and mass spectrometry analysis of protein
+RT   methylation.";
+RL   Mol. Cell. Proteomics 13:372-387(2014).
+RN   [26]
+RP   FUNCTION (MICROBIAL INFECTION), AND INTERACTION WITH HIV-1 REVERSE
+RP   TRANSCRIPTASE/RIBONUCLEASE H.
+RX   PubMed=25034436; DOI=10.1186/1742-4690-11-58;
+RA   Xing L., Zhao X., Guo F., Kleiman L.;
+RT   "The role of A-kinase anchoring protein 95-like protein in annealing of
+RT   tRNALys3 to HIV-1 RNA.";
+RL   Retrovirology 11:58-58(2014).
+RN   [27]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+CC   -!- FUNCTION: Could play a role in constitutive transport element (CTE)-
+CC       mediated gene expression by association with DHX9. Increases CTE-
+CC       dependent nuclear unspliced mRNA export (PubMed:10748171,
+CC       PubMed:11402034). Proposed to target PRKACA to the nucleus but does not
+CC       seem to be implicated in the binding of regulatory subunit II of PKA
+CC       (PubMed:10761695, PubMed:11884601). May be involved in nuclear envelope
+CC       breakdown and chromatin condensation. May be involved in anchoring
+CC       nuclear membranes to chromatin in interphase and in releasing membranes
+CC       from chromating at mitosis (PubMed:11034899). May regulate the
+CC       initiation phase of DNA replication when associated with TMPO isoform
+CC       Beta (PubMed:12538639). Required for cell cycle G2/M transition and
+CC       histone deacetylation during mitosis. In mitotic cells recruits HDAC3
+CC       to the vicinity of chromatin leading to deacetylation and subsequent
+CC       phosphorylation at 'Ser-10' of histone H3; in this function seems to
+CC       act redundantly with AKAP8 (PubMed:16980585). May be involved in
+CC       regulation of pre-mRNA splicing (PubMed:17594903).
+CC       {ECO:0000269|PubMed:10748171, ECO:0000269|PubMed:11034899,
+CC       ECO:0000269|PubMed:11402034, ECO:0000269|PubMed:11884601,
+CC       ECO:0000269|PubMed:12538639, ECO:0000269|PubMed:16980585,
+CC       ECO:0000305|PubMed:10761695}.
+CC   -!- FUNCTION: (Microbial infection) In case of EBV infection, may target
+CC       PRKACA to EBNA-LP-containing nuclear sites to modulate transcription
+CC       from specific promoters. {ECO:0000269|PubMed:11884601}.
+CC   -!- FUNCTION: (Microbial infection) Can synergize with DHX9 to activate the
+CC       CTE-mediated gene expression of type D retroviruses.
+CC       {ECO:0000269|PubMed:11402034}.
+CC   -!- FUNCTION: (Microbial infection) In case of HIV-1 infection, involved in
+CC       the DHX9-promoted annealing of host tRNA(Lys3) to viral genomic RNA as
+CC       a primer in reverse transcription; in vitro negatively regulates DHX9
+CC       annealing activity. {ECO:0000269|PubMed:25034436}.
+CC   -!- SUBUNIT: Interacts (via N-terminus) with DHX9 (via RGG region)
+CC       (PubMed:10748171, PubMed:11402034). Interacts with TMPO isoform Beta,
+CC       PRPF40A, RNF43, lamin-B (PubMed:11034899, PubMed:12538639,
+CC       PubMed:16391387, PubMed:18313049). Interacts with HDAC3; increased
+CC       during mitosis (PubMed:16980585). Interacts with EBV EBNA-LP
+CC       (PubMed:11160753). Interacts with HIV-1 reverse
+CC       transcriptase/ribonuclease H (PubMed:25034436).
+CC       {ECO:0000269|PubMed:10748171, ECO:0000269|PubMed:11160753,
+CC       ECO:0000269|PubMed:11402034, ECO:0000269|PubMed:12538639,
+CC       ECO:0000269|PubMed:16391387, ECO:0000269|PubMed:16980585,
+CC       ECO:0000269|PubMed:18313049, ECO:0000269|PubMed:25034436}.
+CC   -!- INTERACTION:
+CC       Q9ULX6; Q9NYB9-2: ABI2; NbExp=3; IntAct=EBI-357530, EBI-11096309;
+CC       Q9ULX6; Q8N5M1: ATPAF2; NbExp=3; IntAct=EBI-357530, EBI-1166928;
+CC       Q9ULX6; Q9Y2V2: CARHSP1; NbExp=3; IntAct=EBI-357530, EBI-718719;
+CC       Q9ULX6; Q8NEC5: CATSPER1; NbExp=3; IntAct=EBI-357530, EBI-744545;
+CC       Q9ULX6; Q96HB5: CCDC120; NbExp=3; IntAct=EBI-357530, EBI-744556;
+CC       Q9ULX6; Q8N4L8: CCDC24; NbExp=3; IntAct=EBI-357530, EBI-1104933;
+CC       Q9ULX6; Q8NE01: CNNM3; NbExp=3; IntAct=EBI-357530, EBI-741032;
+CC       Q9ULX6; Q02930-3: CREB5; NbExp=3; IntAct=EBI-357530, EBI-10192698;
+CC       Q9ULX6; P33240: CSTF2; NbExp=3; IntAct=EBI-357530, EBI-711360;
+CC       Q9ULX6; Q9H0L4: CSTF2T; NbExp=3; IntAct=EBI-357530, EBI-747012;
+CC       Q9ULX6; Q14129: DGCR6; NbExp=3; IntAct=EBI-357530, EBI-12206931;
+CC       Q9ULX6; Q9NQL9: DMRT3; NbExp=3; IntAct=EBI-357530, EBI-9679045;
+CC       Q9ULX6; Q9H0I2: ENKD1; NbExp=3; IntAct=EBI-357530, EBI-744099;
+CC       Q9ULX6; Q7L5A3: FAM214B; NbExp=3; IntAct=EBI-357530, EBI-745689;
+CC       Q9ULX6; Q8WU58: FAM222B; NbExp=3; IntAct=EBI-357530, EBI-2807642;
+CC       Q9ULX6; Q12950: FOXD4; NbExp=3; IntAct=EBI-357530, EBI-11317801;
+CC       Q9ULX6; O43559: FRS3; NbExp=3; IntAct=EBI-357530, EBI-725515;
+CC       Q9ULX6; O95872: GPANK1; NbExp=3; IntAct=EBI-357530, EBI-751540;
+CC       Q9ULX6; Q13227: GPS2; NbExp=3; IntAct=EBI-357530, EBI-713355;
+CC       Q9ULX6; O15379: HDAC3; NbExp=5; IntAct=EBI-357530, EBI-607682;
+CC       Q9ULX6; Q9Y5R4: HEMK1; NbExp=3; IntAct=EBI-357530, EBI-10329202;
+CC       Q9ULX6; O14964: HGS; NbExp=3; IntAct=EBI-357530, EBI-740220;
+CC       Q9ULX6; Q9ULV5-2: HSF4; NbExp=3; IntAct=EBI-357530, EBI-12056251;
+CC       Q9ULX6; Q0VD86: INCA1; NbExp=3; IntAct=EBI-357530, EBI-6509505;
+CC       Q9ULX6; Q5T749: KPRP; NbExp=3; IntAct=EBI-357530, EBI-10981970;
+CC       Q9ULX6; Q14657: LAGE3; NbExp=3; IntAct=EBI-357530, EBI-1052105;
+CC       Q9ULX6; Q8TAP9: MPLKIP; NbExp=3; IntAct=EBI-357530, EBI-11603426;
+CC       Q9ULX6; Q9NP98: MYOZ1; NbExp=3; IntAct=EBI-357530, EBI-744402;
+CC       Q9ULX6; Q86VE0: MYPOP; NbExp=3; IntAct=EBI-357530, EBI-2858213;
+CC       Q9ULX6; Q9HBE1-4: PATZ1; NbExp=3; IntAct=EBI-357530, EBI-11022007;
+CC       Q9ULX6; Q9Y5E9: PCDHB14; NbExp=3; IntAct=EBI-357530, EBI-10329013;
+CC       Q9ULX6; Q9UBV8: PEF1; NbExp=3; IntAct=EBI-357530, EBI-724639;
+CC       Q9ULX6; P78337: PITX1; NbExp=3; IntAct=EBI-357530, EBI-748265;
+CC       Q9ULX6; Q16512: PKN1; NbExp=3; IntAct=EBI-357530, EBI-602382;
+CC       Q9ULX6; Q494U1-3: PLEKHN1; NbExp=3; IntAct=EBI-357530, EBI-12014286;
+CC       Q9ULX6; Q7Z5V6-2: PPP1R32; NbExp=3; IntAct=EBI-357530, EBI-12000762;
+CC       Q9ULX6; P54646: PRKAA2; NbExp=3; IntAct=EBI-357530, EBI-1383852;
+CC       Q9ULX6; Q9BTL3: RAMAC; NbExp=3; IntAct=EBI-357530, EBI-744023;
+CC       Q9ULX6; Q68DV7: RNF43; NbExp=2; IntAct=EBI-357530, EBI-1647060;
+CC       Q9ULX6; Q14D33: RTP5; NbExp=3; IntAct=EBI-357530, EBI-10217913;
+CC       Q9ULX6; Q9BVN2: RUSC1; NbExp=3; IntAct=EBI-357530, EBI-6257312;
+CC       Q9ULX6; Q9UPU9-3: SAMD4A; NbExp=3; IntAct=EBI-357530, EBI-11986417;
+CC       Q9ULX6; Q8IYX7: SAXO1; NbExp=3; IntAct=EBI-357530, EBI-3957636;
+CC       Q9ULX6; Q8TEC5: SH3RF2; NbExp=3; IntAct=EBI-357530, EBI-2130111;
+CC       Q9ULX6; P09234: SNRPC; NbExp=3; IntAct=EBI-357530, EBI-766589;
+CC       Q9ULX6; Q8WW24: TEKT4; NbExp=3; IntAct=EBI-357530, EBI-750487;
+CC       Q9ULX6; Q96M29: TEKT5; NbExp=3; IntAct=EBI-357530, EBI-10239812;
+CC       Q9ULX6; Q96A09: TENT5B; NbExp=3; IntAct=EBI-357530, EBI-752030;
+CC       Q9ULX6; Q7Z6R9: TFAP2D; NbExp=3; IntAct=EBI-357530, EBI-11952651;
+CC       Q9ULX6; Q01085-2: TIAL1; NbExp=3; IntAct=EBI-357530, EBI-11064654;
+CC       Q9ULX6; Q08117-2: TLE5; NbExp=3; IntAct=EBI-357530, EBI-11741437;
+CC       Q9ULX6; P62328: TMSB4X; NbExp=3; IntAct=EBI-357530, EBI-712598;
+CC       Q9ULX6; Q96RU7: TRIB3; NbExp=3; IntAct=EBI-357530, EBI-492476;
+CC       Q9ULX6; Q3SY00: TSGA10IP; NbExp=3; IntAct=EBI-357530, EBI-10241197;
+CC       Q9ULX6; P29597: TYK2; NbExp=3; IntAct=EBI-357530, EBI-1383454;
+CC       Q9ULX6; Q64LD2-2: WDR25; NbExp=3; IntAct=EBI-357530, EBI-12032042;
+CC       Q9ULX6; Q15915: ZIC1; NbExp=3; IntAct=EBI-357530, EBI-11963196;
+CC       Q9ULX6; Q8N895: ZNF366; NbExp=3; IntAct=EBI-357530, EBI-2813661;
+CC       Q9ULX6; A8K8V0: ZNF785; NbExp=3; IntAct=EBI-357530, EBI-3925400;
+CC       Q9ULX6; Q9R1C7: Prpf40a; Xeno; NbExp=3; IntAct=EBI-357530, EBI-645554;
+CC       Q9ULX6; PRO_0000308465 [P29991]; Xeno; NbExp=3; IntAct=EBI-357530, EBI-8826747;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:10748171,
+CC       ECO:0000269|PubMed:10761695}. Nucleus matrix
+CC       {ECO:0000269|PubMed:11034899, ECO:0000269|PubMed:16391387}. Nucleus
+CC       speckle {ECO:0000269|PubMed:17594903}. Nucleus, PML body
+CC       {ECO:0000269|PubMed:11884601}. Cytoplasm {ECO:0000269|PubMed:10748171}.
+CC       Note=Colocalizes with PRPF40A in the nuclear matrix (PubMed:16391387).
+CC       Nuclear at steady state but shuttles between the nucleus and cytoplasm
+CC       (PubMed:10748171). The shuttling property has been questioned
+CC       (PubMed:11034899). Colocalizes with EBNA-LP in PML bodies
+CC       (PubMed:11884601). {ECO:0000269|PubMed:10748171,
+CC       ECO:0000269|PubMed:11034899, ECO:0000269|PubMed:11884601,
+CC       ECO:0000269|PubMed:16391387}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9ULX6-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9ULX6-2; Sequence=VSP_044426;
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed. Expressed in the brain
+CC       cortex (at protein level). {ECO:0000269|PubMed:10697960,
+CC       ECO:0000269|PubMed:16391387}.
+CC   -!- PTM: Phosphorylated on serine or threonine residues possibly by PKA;
+CC       probably modulating the interaction with TMPO isoform Beta.
+CC       {ECO:0000269|PubMed:12950172}.
+CC   -!- SIMILARITY: Belongs to the AKAP95 family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU01140}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAF86048.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=BAA34791.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB025905; BAA85003.1; -; mRNA.
+DR   EMBL; AJ243467; CAB65092.1; -; mRNA.
+DR   EMBL; AF199414; AAF86048.1; ALT_FRAME; mRNA.
+DR   EMBL; AK295956; BAG58736.1; -; mRNA.
+DR   EMBL; AB451326; BAG70140.1; -; mRNA.
+DR   EMBL; AB451469; BAG70283.1; -; mRNA.
+DR   EMBL; AC005785; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC006128; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; KF456508; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; KF456511; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471106; EAW84475.1; -; Genomic_DNA.
+DR   EMBL; BC000713; AAH00713.1; -; mRNA.
+DR   EMBL; AB015332; BAA34791.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS46005.1; -. [Q9ULX6-1]
+DR   CCDS; CCDS77249.1; -. [Q9ULX6-2]
+DR   RefSeq; NP_001278407.1; NM_001291478.1. [Q9ULX6-2]
+DR   RefSeq; NP_055186.3; NM_014371.3. [Q9ULX6-1]
+DR   AlphaFoldDB; Q9ULX6; -.
+DR   BioGRID; 117940; 220.
+DR   CORUM; Q9ULX6; -.
+DR   DIP; DIP-27541N; -.
+DR   IntAct; Q9ULX6; 176.
+DR   MINT; Q9ULX6; -.
+DR   STRING; 9606.ENSP00000380557; -.
+DR   GlyGen; Q9ULX6; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9ULX6; -.
+DR   PhosphoSitePlus; Q9ULX6; -.
+DR   SwissPalm; Q9ULX6; -.
+DR   BioMuta; AKAP8L; -.
+DR   DMDM; 296439446; -.
+DR   EPD; Q9ULX6; -.
+DR   jPOST; Q9ULX6; -.
+DR   MassIVE; Q9ULX6; -.
+DR   MaxQB; Q9ULX6; -.
+DR   PaxDb; Q9ULX6; -.
+DR   PeptideAtlas; Q9ULX6; -.
+DR   ProteomicsDB; 85148; -. [Q9ULX6-1]
+DR   Antibodypedia; 7497; 219 antibodies from 26 providers.
+DR   DNASU; 26993; -.
+DR   Ensembl; ENST00000397410.10; ENSP00000380557.3; ENSG00000011243.19. [Q9ULX6-1]
+DR   Ensembl; ENST00000595465.6; ENSP00000470952.1; ENSG00000011243.19. [Q9ULX6-2]
+DR   GeneID; 26993; -.
+DR   KEGG; hsa:26993; -.
+DR   MANE-Select; ENST00000397410.10; ENSP00000380557.3; NM_014371.4; NP_055186.3.
+DR   UCSC; uc002naw.2; human. [Q9ULX6-1]
+DR   AGR; HGNC:29857; -.
+DR   CTD; 26993; -.
+DR   DisGeNET; 26993; -.
+DR   GeneCards; AKAP8L; -.
+DR   HGNC; HGNC:29857; AKAP8L.
+DR   HPA; ENSG00000011243; Low tissue specificity.
+DR   MIM; 609475; gene.
+DR   neXtProt; NX_Q9ULX6; -.
+DR   OpenTargets; ENSG00000011243; -.
+DR   PharmGKB; PA134867364; -.
+DR   VEuPathDB; HostDB:ENSG00000011243; -.
+DR   eggNOG; ENOG502QSFC; Eukaryota.
+DR   GeneTree; ENSGT00530000063777; -.
+DR   HOGENOM; CLU_024193_0_0_1; -.
+DR   InParanoid; Q9ULX6; -.
+DR   OMA; NMRESFT; -.
+DR   OrthoDB; 5311990at2759; -.
+DR   PhylomeDB; Q9ULX6; -.
+DR   TreeFam; TF105407; -.
+DR   PathwayCommons; Q9ULX6; -.
+DR   SignaLink; Q9ULX6; -.
+DR   SIGNOR; Q9ULX6; -.
+DR   BioGRID-ORCS; 26993; 23 hits in 1166 CRISPR screens.
+DR   ChiTaRS; AKAP8L; human.
+DR   GeneWiki; AKAP8L; -.
+DR   GenomeRNAi; 26993; -.
+DR   Pharos; Q9ULX6; Tbio.
+DR   PRO; PR:Q9ULX6; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q9ULX6; protein.
+DR   Bgee; ENSG00000011243; Expressed in right hemisphere of cerebellum and 191 other tissues.
+DR   ExpressionAtlas; Q9ULX6; baseline and differential.
+DR   Genevisible; Q9ULX6; HS.
+DR   GO; GO:0000785; C:chromatin; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0016363; C:nuclear matrix; IDA:UniProtKB.
+DR   GO; GO:0016607; C:nuclear speck; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0016605; C:PML body; IEA:UniProtKB-SubCell.
+DR   GO; GO:1990904; C:ribonucleoprotein complex; IDA:UniProtKB.
+DR   GO; GO:0017151; F:DEAD/H-box RNA helicase binding; TAS:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0042826; F:histone deacetylase binding; IDA:UniProtKB.
+DR   GO; GO:0005521; F:lamin binding; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0034237; F:protein kinase A regulatory subunit binding; IBA:GO_Central.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0044839; P:cell cycle G2/M phase transition; IMP:UniProtKB.
+DR   GO; GO:0007076; P:mitotic chromosome condensation; IMP:UniProtKB.
+DR   GO; GO:0006397; P:mRNA processing; IDA:UniProtKB.
+DR   GO; GO:0051081; P:nuclear membrane disassembly; IMP:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   GO; GO:0010793; P:regulation of mRNA export from nucleus; IDA:UniProtKB.
+DR   GO; GO:0008380; P:RNA splicing; IEA:UniProtKB-KW.
+DR   InterPro; IPR007071; AKAP95.
+DR   InterPro; IPR034736; ZF_C2H2_AKAP95.
+DR   PANTHER; PTHR12190:SF4; A-KINASE ANCHOR PROTEIN 8-LIKE; 1.
+DR   PANTHER; PTHR12190; A-KINASE ANCHOR PROTEIN AKAP 8; 1.
+DR   Pfam; PF04988; AKAP95; 1.
+DR   PROSITE; PS51799; ZF_C2H2_AKAP95; 2.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Cytoplasm; Host-virus interaction;
+KW   Metal-binding; Methylation; mRNA processing; mRNA splicing; Nucleus;
+KW   Phosphoprotein; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..646
+FT                   /note="A-kinase anchor protein 8-like"
+FT                   /id="PRO_0000075384"
+FT   ZN_FING         391..413
+FT                   /note="C2H2 AKAP95-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01140"
+FT   ZN_FING         484..507
+FT                   /note="C2H2 AKAP95-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01140"
+FT   REGION          1..268
+FT                   /note="Sufficient for activation of CTE-mediated
+FT                   expression"
+FT                   /evidence="ECO:0000269|PubMed:11402034"
+FT   REGION          264..381
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          545..646
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           274..279
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   MOTIF           280..296
+FT                   /note="Nuclear export signal (NES)"
+FT                   /evidence="ECO:0000269|PubMed:11402034"
+FT   MOTIF           362..364
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        279..300
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        317..334
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        362..381
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        553..567
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        586..612
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         208
+FT                   /note="Asymmetric dimethylarginine; alternate"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         208
+FT                   /note="Omega-N-methylarginine; alternate"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         217
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         237
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         247
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         257
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         267
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         283
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         292
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         297
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         552
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         61..121
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_044426"
+FT   VARIANT         458
+FT                   /note="Q -> H (in dbSNP:rs2058322)"
+FT                   /evidence="ECO:0000269|PubMed:10697960"
+FT                   /id="VAR_068822"
+FT   CONFLICT        100
+FT                   /note="D -> N (in Ref. 3; AAF86048)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        189
+FT                   /note="S -> N (in Ref. 3; AAF86048)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        351..358
+FT                   /note="ALTTQDEN -> EFSWGAWC (in Ref. 9; BAA34791)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        599..616
+FT                   /note="AVSPPPPPPPEEEEEGAV -> GRVAATAAAPRRRRRRAPW (in Ref.
+FT                   3; AAF86048)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        641..646
+FT                   /note="GGGGAP -> EGRRGRPV (in Ref. 3; AAF86048)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   646 AA;  71640 MW;  CBC265BF25996BA2 CRC64;
+     MSYTGFVQGS ETTLQSTYSD TSAQPTCDYG YGTWNSGTNR GYEGYGYGYG YGQDNTTNYG
+     YGMATSHSWE MPSSDTNANT SASGSASADS VLSRINQRLD MVPHLETDMM QGGVYGSGGE
+     RYDSYESCDS RAVLSERDLY RSGYDYSELD PEMEMAYEGQ YDAYRDQFRM RGNDTFGPRA
+     QGWARDARSG RPMASGYGRM WEDPMGARGQ CMSGASRLPS LFSQNIIPEY GMFQGMRGGG
+     AFPGGSRFGF GFGNGMKQMR RTWKTWTTAD FRTKKKKRKQ GGSPDEPDSK ATRTDCSDNS
+     DSDNDEGTEG EATEGLEGTE AVEKGSRVDG EDEEGKEDGR EEGKEDPEKG ALTTQDENGQ
+     TKRKLQAGKK SQDKQKKRQR DRMVERIQFV CSLCKYRTFY EDEMASHLDS KFHKEHFKYV
+     GTKLPKQTAD FLQEYVTNKT KKTEELRKTV EDLDGLIQQI YRDQDLTQEI AMEHFVKKVE
+     AAHCAACDLF IPMQFGIIQK HLKTMDHNRN RRLMMEQSKK SSLMVARSIL NNKLISKKLE
+     RYLKGENPFT DSPEEEKEQE EAEGGALDEG AQGEAAGISE GAEGVPAQPP VPPEPAPGAV
+     SPPPPPPPEE EEEGAVPLLG GALQRQIRGI PGLDVEDDEE GGGGAP
+//

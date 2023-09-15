@@ -1,0 +1,823 @@
+ID   TIM_HUMAN               Reviewed;        1208 AA.
+AC   Q9UNS1; B2ZAV0; O94802; Q86VM1; Q8IWH3;
+DT   15-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 182.
+DE   RecName: Full=Protein timeless homolog;
+DE            Short=hTIM;
+GN   Name=TIMELESS {ECO:0000312|EMBL:AAH50557.1};
+GN   Synonyms=TIM {ECO:0000303|PubMed:9856465}, TIM1
+GN   {ECO:0000303|PubMed:9891984}, TIMELESS1 {ECO:0000303|PubMed:9891984};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000312|EMBL:BAA36499.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, AND VARIANT
+RP   LEU-455.
+RC   TISSUE=Brain {ECO:0000312|EMBL:BAA36499.1};
+RX   PubMed=9891984; DOI=10.1016/s0014-5793(98)01597-x;
+RA   Koike N., Hida A., Numano R., Hirose M., Sakaki Y., Tei H.;
+RT   "Identification of the mammalian homologues of the Drosophila timeless
+RT   gene, Timeless1.";
+RL   FEBS Lett. 441:427-431(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), FUNCTION, TISSUE
+RP   SPECIFICITY, AND VARIANTS LEU-455 AND GLN-831.
+RC   TISSUE=Placenta;
+RX   PubMed=9856465; DOI=10.1016/s0896-6273(00)80627-3;
+RA   Sangoram A.M., Saez L., Antoch M.P., Gekakis N., Staknis D., Whiteley A.,
+RA   Fruechte E.M., Vitaterna M.H., Shimomura K., King D.P., Young M.W.,
+RA   Weitz C.J., Takahashi J.S.;
+RT   "Mammalian circadian autoregulatory loop: a timeless ortholog and mPer1
+RT   interact and negatively regulate CLOCK-ARTNL/BMAL1-induced transcription.";
+RL   Neuron 21:1101-1113(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS SER-129; LEU-455; SER-471;
+RP   GLN-831; VAL-870; HIS-922; TRP-924; THR-1017 AND LEU-1018.
+RG   NIEHS SNPs program;
+RL   Submitted (APR-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16541075; DOI=10.1038/nature04569;
+RA   Scherer S.E., Muzny D.M., Buhay C.J., Chen R., Cree A., Ding Y.,
+RA   Dugan-Rocha S., Gill R., Gunaratne P., Harris R.A., Hawes A.C.,
+RA   Hernandez J., Hodgson A.V., Hume J., Jackson A., Khan Z.M., Kovar-Smith C.,
+RA   Lewis L.R., Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R.,
+RA   Montgomery K.T., Morgan M.B., Nazareth L.V., Scott G., Sodergren E.,
+RA   Song X.-Z., Steffen D., Lovering R.C., Wheeler D.A., Worley K.C., Yuan Y.,
+RA   Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M., Brown M.J., Chen G.,
+RA   Chen Z., Clerc-Blankenburg K.P., Davis C., Delgado O., Dinh H.H.,
+RA   Draper H., Gonzalez-Garay M.L., Havlak P., Jackson L.R., Jacob L.S.,
+RA   Kelly S.H., Li L., Li Z., Liu J., Liu W., Lu J., Maheshwari M.,
+RA   Nguyen B.-V., Okwuonu G.O., Pasternak S., Perez L.M., Plopper F.J.H.,
+RA   Santibanez J., Shen H., Tabor P.E., Verduzco D., Waldron L., Wang Q.,
+RA   Williams G.A., Zhang J., Zhou J., Allen C.C., Amin A.G., Anyalebechi V.,
+RA   Bailey M., Barbaria J.A., Bimage K.E., Bryant N.P., Burch P.E.,
+RA   Burkett C.E., Burrell K.L., Calderon E., Cardenas V., Carter K., Casias K.,
+RA   Cavazos I., Cavazos S.R., Ceasar H., Chacko J., Chan S.N., Chavez D.,
+RA   Christopoulos C., Chu J., Cockrell R., Cox C.D., Dang M., Dathorne S.R.,
+RA   David R., Davis C.M., Davy-Carroll L., Deshazo D.R., Donlin J.E.,
+RA   D'Souza L., Eaves K.A., Egan A., Emery-Cohen A.J., Escotto M., Flagg N.,
+RA   Forbes L.D., Gabisi A.M., Garza M., Hamilton C., Henderson N.,
+RA   Hernandez O., Hines S., Hogues M.E., Huang M., Idlebird D.G., Johnson R.,
+RA   Jolivet A., Jones S., Kagan R., King L.M., Leal B., Lebow H., Lee S.,
+RA   LeVan J.M., Lewis L.C., London P., Lorensuhewa L.M., Loulseged H.,
+RA   Lovett D.A., Lucier A., Lucier R.L., Ma J., Madu R.C., Mapua P.,
+RA   Martindale A.D., Martinez E., Massey E., Mawhiney S., Meador M.G.,
+RA   Mendez S., Mercado C., Mercado I.C., Merritt C.E., Miner Z.L., Minja E.,
+RA   Mitchell T., Mohabbat F., Mohabbat K., Montgomery B., Moore N., Morris S.,
+RA   Munidasa M., Ngo R.N., Nguyen N.B., Nickerson E., Nwaokelemeh O.O.,
+RA   Nwokenkwo S., Obregon M., Oguh M., Oragunye N., Oviedo R.J., Parish B.J.,
+RA   Parker D.N., Parrish J., Parks K.L., Paul H.A., Payton B.A., Perez A.,
+RA   Perrin W., Pickens A., Primus E.L., Pu L.-L., Puazo M., Quiles M.M.,
+RA   Quiroz J.B., Rabata D., Reeves K., Ruiz S.J., Shao H., Sisson I.,
+RA   Sonaike T., Sorelle R.P., Sutton A.E., Svatek A.F., Svetz L.A.,
+RA   Tamerisa K.S., Taylor T.R., Teague B., Thomas N., Thorn R.D., Trejos Z.Y.,
+RA   Trevino B.K., Ukegbu O.N., Urban J.B., Vasquez L.I., Vera V.A.,
+RA   Villasana D.M., Wang L., Ward-Moore S., Warren J.T., Wei X., White F.,
+RA   Williamson A.L., Wleczyk R., Wooden H.S., Wooden S.H., Yen J., Yoon L.,
+RA   Yoon V., Zorrilla S.E., Nelson D., Kucherlapati R., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The finished DNA sequence of human chromosome 12.";
+RL   Nature 440:346-351(2006).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2), AND VARIANTS
+RP   GLN-831 AND LEU-1018.
+RC   TISSUE=Duodenum {ECO:0000312|EMBL:AAH50557.1}, and Skin
+RC   {ECO:0000312|EMBL:AAH39842.1};
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION, INTERACTION WITH ATR; ATRIP; CHEK1 AND CRY2, AND INDUCTION.
+RX   PubMed=15798197; DOI=10.1128/mcb.25.8.3109-3116.2005;
+RA   Uensal-Kacmaz K., Mullen T.E., Kaufmann W.K., Sancar A.;
+RT   "Coupling of human circadian and cell cycles by the timeless protein.";
+RL   Mol. Cell. Biol. 25:3109-3116(2005).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1173, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1173, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=16964243; DOI=10.1038/nbt1240;
+RA   Beausoleil S.A., Villen J., Gerber S.A., Rush J., Gygi S.P.;
+RT   "A probability-based approach for high-throughput protein phosphorylation
+RT   analysis and site localization.";
+RL   Nat. Biotechnol. 24:1285-1292(2006).
+RN   [9]
+RP   INTERACTION WITH TIPIN.
+RX   PubMed=17116885; DOI=10.1073/pnas.0609251103;
+RA   Chou D.M., Elledge S.J.;
+RT   "Tipin and Timeless form a mutually protective complex required for
+RT   genotoxic stress resistance and checkpoint function.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:18143-18147(2006).
+RN   [10]
+RP   INTERACTION WITH TIPIN.
+RX   PubMed=17102137; DOI=10.1074/jbc.m605596200;
+RA   Yoshizawa-Sugata N., Masai H.;
+RT   "Human Tim/Timeless-interacting protein, Tipin, is required for efficient
+RT   progression of S phase and DNA replication checkpoint.";
+RL   J. Biol. Chem. 282:2729-2740(2007).
+RN   [11]
+RP   SUBCELLULAR LOCATION, INTERACTION WITH CLSPN, AND FUNCTION.
+RX   PubMed=17141802; DOI=10.1016/j.jmb.2006.10.097;
+RA   Gotter A.L., Suppa C., Emanuel B.S.;
+RT   "Mammalian TIMELESS and Tipin are evolutionarily conserved replication
+RT   fork-associated factors.";
+RL   J. Mol. Biol. 366:36-52(2007).
+RN   [12]
+RP   INTERACTION WITH TIPIN, AND FUNCTION.
+RX   PubMed=17296725; DOI=10.1128/mcb.02190-06;
+RA   Uensal-Kacmaz K., Chastain P.D., Qu P.-P., Minoo P., Cordeiro-Stone M.,
+RA   Sancar A., Kaufmann W.K.;
+RT   "The human Tim/Tipin complex coordinates an Intra-S checkpoint response to
+RT   UV that slows replication fork displacement.";
+RL   Mol. Cell. Biol. 27:3131-3142(2007).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1149 AND SER-1173, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [16]
+RP   REVIEW.
+RX   PubMed=20139726; DOI=10.4161/cc.9.4.10676;
+RA   McFarlane R.J., Mian S., Dalgaard J.Z.;
+RT   "The many facets of the Tim-Tipin protein families' roles in chromosome
+RT   biology.";
+RL   Cell Cycle 9:700-705(2010).
+RN   [17]
+RP   INTERACTION WITH DDX11.
+RX   PubMed=20124417; DOI=10.1242/jcs.057984;
+RA   Leman A.R., Noguchi C., Lee C.Y., Noguchi E.;
+RT   "Human Timeless and Tipin stabilize replication forks and facilitate
+RT   sister-chromatid cohesion.";
+RL   J. Cell Sci. 123:660-670(2010).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1149 AND SER-1173, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [20]
+RP   REVIEW.
+RX   PubMed=21670590; DOI=10.4161/cc.10.14.15853;
+RA   Diaz-Martinez L.A., Clarke D.J.;
+RT   "Timeless makes some time for itself.";
+RL   Cell Cycle 10:2254-2254(2011).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1149 AND SER-1173, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [22]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-281; SER-1074; SER-1087;
+RP   THR-1089; SER-1149 AND SER-1173, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [23]
+RP   FUNCTION.
+RX   PubMed=23418588; DOI=10.1371/journal.pone.0056623;
+RA   Engelen E., Janssens R.C., Yagita K., Smits V.A., van der Horst G.T.,
+RA   Tamanini F.;
+RT   "Mammalian TIMELESS is involved in period determination and DNA damage-
+RT   dependent phase advancing of the circadian clock.";
+RL   PLoS ONE 8:E56623-E56623(2013).
+RN   [24]
+RP   FUNCTION, AND INTERACTION WITH TIPIN; MCM COMPLEX AND DNA POLYMERASES.
+RX   PubMed=23359676; DOI=10.1073/pnas.1222494110;
+RA   Cho W.H., Kang Y.H., An Y.Y., Tappin I., Hurwitz J., Lee J.K.;
+RT   "Human Tim-Tipin complex affects the biochemical properties of the
+RT   replicative DNA helicase and DNA polymerases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:2523-2527(2013).
+RN   [25]
+RP   INTERACTION WITH DDX11.
+RX   PubMed=26503245; DOI=10.1093/nar/gkv1112;
+RA   Cali F., Bharti S.K., Di Perna R., Brosh R.M. Jr., Pisani F.M.;
+RT   "Tim/Timeless, a member of the replication fork protection complex,
+RT   operates with the Warsaw breakage syndrome DNA helicase DDX11 in the same
+RT   fork recovery pathway.";
+RL   Nucleic Acids Res. 44:705-717(2016).
+RN   [26]
+RP   FUNCTION, AND INTERACTION WITH PARP1.
+RX   PubMed=30356214; DOI=10.1038/s41586-018-0629-6;
+RA   Liu H., Zhang H., Wu X., Ma D., Wu J., Wang L., Jiang Y., Fei Y., Zhu C.,
+RA   Tan R., Jungblut P., Pei G., Dorhoi A., Yan Q., Zhang F., Zheng R., Liu S.,
+RA   Liang H., Liu Z., Yang H., Chen J., Wang P., Tang T., Peng W., Hu Z.,
+RA   Xu Z., Huang X., Wang J., Li H., Zhou Y., Liu F., Yan D., Kaufmann S.H.E.,
+RA   Chen C., Mao Z., Ge B.;
+RT   "Nuclear cGAS suppresses DNA repair and promotes tumorigenesis.";
+RL   Nature 563:131-136(2018).
+RN   [27]
+RP   FUNCTION.
+RX   PubMed=35585232; DOI=10.1038/s41586-022-04759-1;
+RA   Baris Y., Taylor M.R.G., Aria V., Yeeles J.T.P.;
+RT   "Fast and efficient DNA replication with purified human proteins.";
+RL   Nature 606:204-210(2022).
+RN   [28]
+RP   INVOLVEMENT IN FASPS4, VARIANT FASPS4 1081-ARG--ASP-1208 DEL,
+RP   CHARACTERIZATION OF VARIANT FASPS4 1081-ARG--ASP-1208 DEL, FUNCTION,
+RP   INTERACTION WITH CRY2 AND PER2, SUBCELLULAR LOCATION, AND DOMAIN.
+RX   PubMed=31138685; DOI=10.1073/pnas.1819110116;
+RA   Kurien P., Hsu P.K., Leon J., Wu D., McMahon T., Shi G., Xu Y., Lipzen A.,
+RA   Pennacchio L.A., Jones C.R., Fu Y.H., Ptacek L.J.;
+RT   "TIMELESS mutation alters phase responsiveness and causes advanced sleep
+RT   phase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 116:12045-12053(2019).
+RN   [29] {ECO:0007744|PDB:4XHT, ECO:0007744|PDB:4XHU, ECO:0007744|PDB:4XHW}
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 1000-1098 IN COMPLEX WITH PARP1,
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH PARP1, AND MUTAGENESIS OF
+RP   ARG-1081.
+RX   PubMed=26344098; DOI=10.1016/j.molcel.2015.07.031;
+RA   Xie S., Mortusewicz O., Ma H.T., Herr P., Poon R.Y., Helleday T., Qian C.;
+RT   "Timeless interacts with PARP-1 to promote homologous recombination
+RT   repair.";
+RL   Mol. Cell 60:163-176(2015).
+RN   [30] {ECO:0007744|PDB:5MQI}
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 1-238 AND 331-463, SUBUNIT, AND
+RP   INTERACTION WITH TIPIN.
+RX   PubMed=28334766; DOI=10.1093/nar/gkx139;
+RA   Holzer S., Degliesposti G., Kilkenny M.L., Maslen S.L., Matak-Vinkovic D.,
+RA   Skehel M., Pellegrini L.;
+RT   "Crystal structure of the N-terminal domain of human Timeless and its
+RT   interaction with Tipin.";
+RL   Nucleic Acids Res. 45:5555-5563(2017).
+RN   [31] {ECO:0007744|PDB:6T9Q, ECO:0007744|PDB:6TAZ}
+RP   X-RAY CRYSTALLOGRAPHY (1.15 ANGSTROMS) OF 883-947, STRUCTURE BY NMR OF
+RP   816-954, FUNCTION, AND INTERACTION WITH TIPIN AND DDX11.
+RX   PubMed=32705708; DOI=10.15252/embj.2019104185;
+RA   Lerner L.K., Holzer S., Kilkenny M.L., Svikovic S., Murat P., Schiavone D.,
+RA   Eldridge C.B., Bittleston A., Maman J.D., Branzei D., Stott K.,
+RA   Pellegrini L., Sale J.E.;
+RT   "Timeless couples G-quadruplex detection with processing by DDX11 helicase
+RT   during DNA replication.";
+RL   EMBO J. 39:e104185-e104185(2020).
+RN   [32] {ECO:0007744|PDB:7PFO}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.20 ANGSTROMS) IN REPLISOME, SUBUNIT,
+RP   AND FUNCTION.
+RX   PubMed=34694004; DOI=10.15252/embj.2021108819;
+RA   Jones M.L., Baris Y., Taylor M.R.G., Yeeles J.T.P.;
+RT   "Structure of a human replisome shows the organisation and interactions of
+RT   a DNA replication machine.";
+RL   EMBO J. 40:e108819-e108819(2021).
+RN   [33] {ECO:0007744|PDB:7PLO}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.80 ANGSTROMS) IN REPLISOME, AND
+RP   SUBUNIT.
+RX   PubMed=34700328; DOI=10.1038/s41586-021-04145-3;
+RA   Jenkyn-Bedford M., Jones M.L., Baris Y., Labib K.P.M., Cannone G.,
+RA   Yeeles J.T.P., Deegan T.D.;
+RT   "A conserved mechanism for regulating replisome disassembly in
+RT   eukaryotes.";
+RL   Nature 600:743-747(2021).
+RN   [34]
+RP   VARIANTS [LARGE SCALE ANALYSIS] ASP-429 AND GLU-1008.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Plays an important role in the control of DNA replication,
+CC       maintenance of replication fork stability, maintenance of genome
+CC       stability throughout normal DNA replication, DNA repair and in the
+CC       regulation of the circadian clock (PubMed:9856465, PubMed:17141802,
+CC       PubMed:17296725, PubMed:23418588, PubMed:26344098, PubMed:23359676,
+CC       PubMed:35585232, PubMed:31138685, PubMed:32705708). Required to
+CC       stabilize replication forks during DNA replication by forming a complex
+CC       with TIPIN: this complex regulates DNA replication processes under both
+CC       normal and stress conditions, stabilizes replication forks and
+CC       influences both CHEK1 phosphorylation and the intra-S phase checkpoint
+CC       in response to genotoxic stress (PubMed:17141802, PubMed:17296725,
+CC       PubMed:23359676, PubMed:35585232). During DNA replication, inhibits the
+CC       CMG complex ATPase activity and activates DNA polymerases catalytic
+CC       activities, coupling DNA unwinding and DNA synthesis (PubMed:23359676).
+CC       TIMELESS promotes TIPIN nuclear localization (PubMed:17141802,
+CC       PubMed:17296725). Plays a role in maintaining processive DNA
+CC       replication past genomic guanine-rich DNA sequences that form G-
+CC       quadruplex (G4) structures, possibly together with DDX1
+CC       (PubMed:32705708). Involved in cell survival after DNA damage or
+CC       replication stress by promoting DNA repair (PubMed:17141802,
+CC       PubMed:17296725, PubMed:26344098, PubMed:30356214). In response to
+CC       double-strand breaks (DSBs), accumulates at DNA damage sites and
+CC       promotes homologous recombination repair via its interaction with PARP1
+CC       (PubMed:26344098, PubMed:30356214, PubMed:31138685). May be
+CC       specifically required for the ATR-CHEK1 pathway in the replication
+CC       checkpoint induced by hydroxyurea or ultraviolet light
+CC       (PubMed:15798197). Involved in the determination of period length and
+CC       in the DNA damage-dependent phase advancing of the circadian clock
+CC       (PubMed:23418588, PubMed:31138685). Negatively regulates CLOCK|NPAS2-
+CC       ARTNL/BMAL1|ARTNL2/BMAL2-induced transactivation of PER1 possibly via
+CC       translocation of PER1 into the nucleus (PubMed:9856465,
+CC       PubMed:31138685). May play a role as destabilizer of the PER2-CRY2
+CC       complex (PubMed:31138685). May also play an important role in
+CC       epithelial cell morphogenesis and formation of branching tubules (By
+CC       similarity). {ECO:0000250|UniProtKB:Q9R1X4,
+CC       ECO:0000269|PubMed:15798197, ECO:0000269|PubMed:17141802,
+CC       ECO:0000269|PubMed:17296725, ECO:0000269|PubMed:23359676,
+CC       ECO:0000269|PubMed:23418588, ECO:0000269|PubMed:26344098,
+CC       ECO:0000269|PubMed:30356214, ECO:0000269|PubMed:31138685,
+CC       ECO:0000269|PubMed:32705708, ECO:0000269|PubMed:35585232,
+CC       ECO:0000269|PubMed:9856465}.
+CC   -!- SUBUNIT: Monomer (PubMed:28334766). Homodimer or homomultimer (By
+CC       similarity). Component of the circadian core oscillator, which includes
+CC       the CRY proteins, CLOCK or NPAS2, ARTNL/BMAL1 or ARTNL2/BMAL2, CSKN1D
+CC       and/or CSNK1E, TIMELESS, and the PER proteins (PubMed:9856465).
+CC       Interacts with PER2 (PubMed:31138685). The interaction with PER2 is
+CC       direct and via its second PAS domain (By similarity). Interacts
+CC       directly with PER1 and PER3 (By similarity). Interacts with CRY2,
+CC       CHEK1, ATR and ATRIP (PubMed:15798197, PubMed:31138685). Interacts with
+CC       CRY1 (By similarity) (PubMed:15798197). Interacts with CLSPN; the
+CC       interaction is required for leading-strand replication
+CC       (PubMed:23359676, PubMed:17141802, PubMed:35585232, PubMed:34694004,
+CC       PubMed:34700328). Interacts (via N-terminus) with TIPIN
+CC       (PubMed:17102137, PubMed:17116885, PubMed:17296725, PubMed:34694004,
+CC       PubMed:34700328, PubMed:28334766). The TIMELESS-TIPIN heterodimer binds
+CC       preferably to guanine-rich quadruplex-forming (G4) DNA structures
+CC       (PubMed:32705708). Associates with the MCM2-7 complex (PubMed:34700328,
+CC       PubMed:34694004, PubMed:23359676). Interacts with DNA polymerases
+CC       alpha, delta and epsilon (PubMed:23359676). Interacts with DDX11; this
+CC       interaction increases recruitment of both proteins onto chromatin in
+CC       response to replication stress induction by hydroxyurea
+CC       (PubMed:20124417, PubMed:26503245, PubMed:32705708). Interacts with
+CC       PARP1; interaction is direct and independent of poly-ADP-ribose
+CC       (PubMed:26344098, PubMed:30356214). {ECO:0000250|UniProtKB:Q9R1X4,
+CC       ECO:0000269|PubMed:15798197, ECO:0000269|PubMed:17102137,
+CC       ECO:0000269|PubMed:17116885, ECO:0000269|PubMed:17141802,
+CC       ECO:0000269|PubMed:17296725, ECO:0000269|PubMed:20124417,
+CC       ECO:0000269|PubMed:23359676, ECO:0000269|PubMed:26344098,
+CC       ECO:0000269|PubMed:26503245, ECO:0000269|PubMed:28334766,
+CC       ECO:0000269|PubMed:30356214, ECO:0000269|PubMed:31138685,
+CC       ECO:0000269|PubMed:32705708, ECO:0000269|PubMed:34694004,
+CC       ECO:0000269|PubMed:34700328, ECO:0000269|PubMed:35585232,
+CC       ECO:0000269|PubMed:9856465}.
+CC   -!- INTERACTION:
+CC       Q9UNS1; O14757: CHEK1; NbExp=2; IntAct=EBI-2212315, EBI-974488;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:17141802,
+CC       ECO:0000269|PubMed:31138685}. Chromosome {ECO:0000269|PubMed:26344098}.
+CC       Note=In response to double-strand breaks (DSBs), accumulates at DNA
+CC       damage sites via its interaction with PARP1.
+CC       {ECO:0000269|PubMed:26344098}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1 {ECO:0000269|PubMed:9856465, ECO:0000269|PubMed:9891984};
+CC         IsoId=Q9UNS1-1; Sequence=Displayed;
+CC       Name=2 {ECO:0000269|PubMed:9856465};
+CC         IsoId=Q9UNS1-2; Sequence=VSP_051693;
+CC   -!- TISSUE SPECIFICITY: Expressed in all tissues examined including brain,
+CC       heart, lung, liver, skeletal muscle, kidney, placenta, pancreas,
+CC       spleen, thymus and testis. Highest levels of expression in placenta,
+CC       pancreas, thymus and testis. {ECO:0000269|PubMed:9856465,
+CC       ECO:0000269|PubMed:9891984}.
+CC   -!- INDUCTION: Regulated by the cell cycle. High levels in S, G(2) and M
+CC       phases, with highest level in S phase. Low expression in G(0) and G(1)
+CC       phases. {ECO:0000269|PubMed:15798197}.
+CC   -!- DOMAIN: Residues 1182-1199 comprise a putative nuclear localization
+CC       signal; nuclear localization is required for the regulation of period
+CC       length of the circadian clock. {ECO:0000269|PubMed:31138685}.
+CC   -!- DOMAIN: The DNA-binding domain (residues 816-954) binds to both single-
+CC       stranded DNA (ssDNA) and double-stranded DNA (dsDNA), and has high
+CC       affinity for DNA sequences rich in guanine that form G-quadruplex (G4)
+CC       structures. {ECO:0000269|PubMed:32705708}.
+CC   -!- DOMAIN: The C-terminal domain, comprising the DNA-binding domain and
+CC       the PARP1-binding region, is required for the replication past genomic
+CC       guanine-rich DNA sequences that form G-quadruplex (G4) structures.
+CC       {ECO:0000269|PubMed:32705708}.
+CC   -!- DISEASE: Advanced sleep phase syndrome, familial, 4 (FASPS4)
+CC       [MIM:620015]: An autosomal dominant disorder characterized by very
+CC       early sleep onset and offset. Individuals are 'morning larks' with a 4
+CC       hours advance of the sleep, temperature and melatonin rhythms.
+CC       {ECO:0000269|PubMed:31138685}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the timeless family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH39842.1; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Potential poly-A sequence.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/timeless/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB015597; BAA36499.1; -; mRNA.
+DR   EMBL; AF098162; AAC80011.1; -; mRNA.
+DR   EMBL; EU627094; ACD11488.1; -; Genomic_DNA.
+DR   EMBL; AC024884; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC039842; AAH39842.1; ALT_SEQ; mRNA.
+DR   EMBL; BC050557; AAH50557.1; -; mRNA.
+DR   CCDS; CCDS81699.1; -. [Q9UNS1-2]
+DR   CCDS; CCDS8918.1; -. [Q9UNS1-1]
+DR   RefSeq; NP_001317224.1; NM_001330295.1. [Q9UNS1-2]
+DR   RefSeq; NP_003911.2; NM_003920.4. [Q9UNS1-1]
+DR   PDB; 4XHT; X-ray; 1.65 A; A/B/C/D=1000-1098.
+DR   PDB; 4XHU; X-ray; 2.09 A; B/D=1000-1098.
+DR   PDB; 4XHW; X-ray; 2.85 A; A/B/C/D=1000-1098.
+DR   PDB; 5MQI; X-ray; 1.85 A; A=1-238, A=331-463.
+DR   PDB; 6T9Q; X-ray; 1.15 A; A=883-947.
+DR   PDB; 6TAZ; NMR; -; B=816-954.
+DR   PDB; 7PFO; EM; 3.20 A; K=1-1208.
+DR   PDB; 7PLO; EM; 2.80 A; K=1-1208.
+DR   PDBsum; 4XHT; -.
+DR   PDBsum; 4XHU; -.
+DR   PDBsum; 4XHW; -.
+DR   PDBsum; 5MQI; -.
+DR   PDBsum; 6T9Q; -.
+DR   PDBsum; 6TAZ; -.
+DR   PDBsum; 7PFO; -.
+DR   PDBsum; 7PLO; -.
+DR   AlphaFoldDB; Q9UNS1; -.
+DR   SMR; Q9UNS1; -.
+DR   BioGRID; 114428; 132.
+DR   DIP; DIP-47395N; -.
+DR   IntAct; Q9UNS1; 29.
+DR   MINT; Q9UNS1; -.
+DR   STRING; 9606.ENSP00000450607; -.
+DR   iPTMnet; Q9UNS1; -.
+DR   PhosphoSitePlus; Q9UNS1; -.
+DR   BioMuta; TIMELESS; -.
+DR   DMDM; 296452931; -.
+DR   EPD; Q9UNS1; -.
+DR   jPOST; Q9UNS1; -.
+DR   MassIVE; Q9UNS1; -.
+DR   MaxQB; Q9UNS1; -.
+DR   PaxDb; Q9UNS1; -.
+DR   PeptideAtlas; Q9UNS1; -.
+DR   ProteomicsDB; 85326; -. [Q9UNS1-1]
+DR   ProteomicsDB; 85327; -. [Q9UNS1-2]
+DR   Antibodypedia; 15850; 244 antibodies from 31 providers.
+DR   DNASU; 8914; -.
+DR   Ensembl; ENST00000229201.4; ENSP00000229201.4; ENSG00000111602.12. [Q9UNS1-2]
+DR   Ensembl; ENST00000553532.6; ENSP00000450607.1; ENSG00000111602.12. [Q9UNS1-1]
+DR   GeneID; 8914; -.
+DR   KEGG; hsa:8914; -.
+DR   MANE-Select; ENST00000553532.6; ENSP00000450607.1; NM_003920.5; NP_003911.2.
+DR   UCSC; uc001slf.3; human. [Q9UNS1-1]
+DR   AGR; HGNC:11813; -.
+DR   CTD; 8914; -.
+DR   DisGeNET; 8914; -.
+DR   GeneCards; TIMELESS; -.
+DR   HGNC; HGNC:11813; TIMELESS.
+DR   HPA; ENSG00000111602; Low tissue specificity.
+DR   MalaCards; TIMELESS; -.
+DR   MIM; 603887; gene.
+DR   MIM; 620015; phenotype.
+DR   neXtProt; NX_Q9UNS1; -.
+DR   OpenTargets; ENSG00000111602; -.
+DR   PharmGKB; PA36520; -.
+DR   VEuPathDB; HostDB:ENSG00000111602; -.
+DR   eggNOG; KOG1974; Eukaryota.
+DR   GeneTree; ENSGT00390000015124; -.
+DR   HOGENOM; CLU_003493_0_0_1; -.
+DR   InParanoid; Q9UNS1; -.
+DR   OMA; KETHDYK; -.
+DR   OrthoDB; 2877878at2759; -.
+DR   PhylomeDB; Q9UNS1; -.
+DR   TreeFam; TF312802; -.
+DR   PathwayCommons; Q9UNS1; -.
+DR   Reactome; R-HSA-5693607; Processing of DNA double-strand break ends.
+DR   SignaLink; Q9UNS1; -.
+DR   SIGNOR; Q9UNS1; -.
+DR   BioGRID-ORCS; 8914; 760 hits in 1140 CRISPR screens.
+DR   ChiTaRS; TIMELESS; human.
+DR   GenomeRNAi; 8914; -.
+DR   Pharos; Q9UNS1; Tbio.
+DR   PRO; PR:Q9UNS1; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; Q9UNS1; protein.
+DR   Bgee; ENSG00000111602; Expressed in ventricular zone and 135 other tissues.
+DR   Genevisible; Q9UNS1; HS.
+DR   GO; GO:0000785; C:chromatin; IDA:HGNC-UCL.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:HGNC-UCL.
+DR   GO; GO:0031298; C:replication fork protection complex; IBA:GO_Central.
+DR   GO; GO:0035861; C:site of double-strand break; IDA:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; IBA:GO_Central.
+DR   GO; GO:0042802; F:identical protein binding; IEA:Ensembl.
+DR   GO; GO:0048754; P:branching morphogenesis of an epithelial tube; IEA:Ensembl.
+DR   GO; GO:0044770; P:cell cycle phase transition; IMP:BHF-UCL.
+DR   GO; GO:0051301; P:cell division; IEA:UniProtKB-KW.
+DR   GO; GO:1904976; P:cellular response to bleomycin; IMP:UniProtKB.
+DR   GO; GO:0072719; P:cellular response to cisplatin; IMP:UniProtKB.
+DR   GO; GO:0072711; P:cellular response to hydroxyurea; IMP:UniProtKB.
+DR   GO; GO:0007623; P:circadian rhythm; ISS:UniProtKB.
+DR   GO; GO:0009582; P:detection of abiotic stimulus; TAS:ProtInc.
+DR   GO; GO:0006974; P:DNA damage response; IMP:UniProtKB.
+DR   GO; GO:0006281; P:DNA repair; IBA:GO_Central.
+DR   GO; GO:0000076; P:DNA replication checkpoint signaling; IBA:GO_Central.
+DR   GO; GO:0030324; P:lung development; IEA:Ensembl.
+DR   GO; GO:0002009; P:morphogenesis of an epithelium; ISS:UniProtKB.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:2000781; P:positive regulation of double-strand break repair; IMP:UniProtKB.
+DR   GO; GO:1905168; P:positive regulation of double-strand break repair via homologous recombination; IDA:UniProtKB.
+DR   GO; GO:0042752; P:regulation of circadian rhythm; IMP:UniProtKB.
+DR   GO; GO:0043111; P:replication fork arrest; IBA:GO_Central.
+DR   InterPro; IPR044998; Timeless.
+DR   InterPro; IPR007725; TIMELESS_C.
+DR   InterPro; IPR006906; Timeless_N.
+DR   PANTHER; PTHR22940:SF4; PROTEIN TIMELESS HOMOLOG; 1.
+DR   PANTHER; PTHR22940; TIMEOUT/TIMELESS-2; 1.
+DR   Pfam; PF04821; TIMELESS; 1.
+DR   Pfam; PF05029; TIMELESS_C; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Biological rhythms; Cell cycle;
+KW   Cell division; Chromosome; Developmental protein; Disease variant;
+KW   DNA damage; DNA repair; Mitosis; Nucleus; Phosphoprotein;
+KW   Reference proteome; Transcription; Transcription regulation.
+FT   CHAIN           1..1208
+FT                   /note="Protein timeless homolog"
+FT                   /id="PRO_0000072538"
+FT   REGION          1..309
+FT                   /note="Required for homodimerization and for interaction
+FT                   with CRY1 and CHEK1"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9R1X4"
+FT   REGION          655..679
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          816..954
+FT                   /note="DNA-binding domain"
+FT                   /evidence="ECO:0000269|PubMed:32705708"
+FT   REGION          971..994
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1000..1098
+FT                   /note="Interaction with PARP1"
+FT                   /evidence="ECO:0000269|PubMed:26344098"
+FT   REGION          1091..1131
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1143..1208
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1182..1199
+FT                   /note="Required for nuclear localization"
+FT                   /evidence="ECO:0000269|PubMed:31138685"
+FT   COMPBIAS        664..679
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        971..991
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1092..1106
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1117..1131
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1145..1173
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         281
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1074
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1087
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1089
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1149
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1173
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:16964243,
+FT                   ECO:0007744|PubMed:17081983, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         177
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:9856465"
+FT                   /id="VSP_051693"
+FT   VARIANT         129
+FT                   /note="A -> S (in dbSNP:rs72478986)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_047879"
+FT   VARIANT         429
+FT                   /note="A -> D (in a breast cancer sample; somatic
+FT                   mutation)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_036435"
+FT   VARIANT         455
+FT                   /note="I -> L (in dbSNP:rs774027)"
+FT                   /evidence="ECO:0000269|PubMed:9856465,
+FT                   ECO:0000269|PubMed:9891984, ECO:0000269|Ref.3"
+FT                   /id="VAR_021483"
+FT   VARIANT         471
+FT                   /note="N -> S (in dbSNP:rs72478993)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_047880"
+FT   VARIANT         831
+FT                   /note="R -> Q (in dbSNP:rs774047)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:9856465, ECO:0000269|Ref.3"
+FT                   /id="VAR_021484"
+FT   VARIANT         870
+FT                   /note="M -> V (in dbSNP:rs61733875)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_047881"
+FT   VARIANT         922
+FT                   /note="R -> H (in dbSNP:rs72478999)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_047882"
+FT   VARIANT         924
+FT                   /note="R -> W (in dbSNP:rs72479000)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_047883"
+FT   VARIANT         1008
+FT                   /note="Q -> E (in a breast cancer sample; somatic mutation;
+FT                   dbSNP:rs151188513)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_036436"
+FT   VARIANT         1017
+FT                   /note="I -> T (in dbSNP:rs61376834)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_047884"
+FT   VARIANT         1018
+FT                   /note="P -> L (in dbSNP:rs2291739)"
+FT                   /evidence="ECO:0000269|PubMed:15489334, ECO:0000269|Ref.3"
+FT                   /id="VAR_021485"
+FT   VARIANT         1081..1208
+FT                   /note="Missing (in FASPS4; reduced protein stability;
+FT                   mislocalization in cytoplasm; reduced interaction with
+FT                   CRY2; enhanced destabilization of the PER2-CRY2 complex;
+FT                   reduced repressor activity of
+FT                   CLOCK|NPAS2-ARTNL/BMAL1|ARTNL2/BMAL2-induced
+FT                   transactivation of PER1; does not affect interaction with
+FT                   PER2; dbSNP:rs1465092391)"
+FT                   /evidence="ECO:0000269|PubMed:31138685"
+FT                   /id="VAR_087625"
+FT   MUTAGEN         1081
+FT                   /note="R->G: Abolishes interaction with PARP1."
+FT                   /evidence="ECO:0000269|PubMed:26344098"
+FT   HELIX           8..15
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   STRAND          17..21
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   STRAND          24..27
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           31..43
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           50..58
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           60..63
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           65..71
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           76..89
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           93..97
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           106..123
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           127..142
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           145..147
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           150..168
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           184..195
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           198..207
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           209..214
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           215..225
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   TURN            226..228
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           231..234
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           336..352
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           354..367
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           369..371
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           376..391
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           396..402
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           405..424
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           426..428
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           429..451
+FT                   /evidence="ECO:0007829|PDB:5MQI"
+FT   HELIX           824..837
+FT                   /evidence="ECO:0007829|PDB:6TAZ"
+FT   STRAND          838..843
+FT                   /evidence="ECO:0007829|PDB:6TAZ"
+FT   HELIX           845..852
+FT                   /evidence="ECO:0007829|PDB:6TAZ"
+FT   HELIX           860..869
+FT                   /evidence="ECO:0007829|PDB:6TAZ"
+FT   HELIX           876..880
+FT                   /evidence="ECO:0007829|PDB:6TAZ"
+FT   HELIX           891..904
+FT                   /evidence="ECO:0007829|PDB:6T9Q"
+FT   HELIX           910..916
+FT                   /evidence="ECO:0007829|PDB:6T9Q"
+FT   HELIX           924..933
+FT                   /evidence="ECO:0007829|PDB:6T9Q"
+FT   STRAND          936..939
+FT                   /evidence="ECO:0007829|PDB:6T9Q"
+FT   HELIX           940..943
+FT                   /evidence="ECO:0007829|PDB:6T9Q"
+FT   HELIX           1008..1012
+FT                   /evidence="ECO:0007829|PDB:4XHT"
+FT   HELIX           1016..1033
+FT                   /evidence="ECO:0007829|PDB:4XHT"
+FT   STRAND          1042..1044
+FT                   /evidence="ECO:0007829|PDB:4XHW"
+FT   HELIX           1049..1055
+FT                   /evidence="ECO:0007829|PDB:4XHT"
+FT   HELIX           1058..1067
+FT                   /evidence="ECO:0007829|PDB:4XHT"
+FT   TURN            1074..1076
+FT                   /evidence="ECO:0007829|PDB:4XHT"
+FT   STRAND          1078..1082
+FT                   /evidence="ECO:0007829|PDB:4XHW"
+FT   HELIX           1088..1096
+FT                   /evidence="ECO:0007829|PDB:4XHT"
+SQ   SEQUENCE   1208 AA;  138658 MW;  16C6C07DDC6D2701 CRC64;
+     MDLHMMNCEL LATCSALGYL EGDTYHKEPD CLESVKDLIR YLRHEDETRD VRQQLGAAQI
+     LQSDLLPILT QHHQDKPLFD AVIRLMVNLT QPALLCFGNL PKEPSFRHHF LQVLTYLQAY
+     KEAFASEKAF GVLSETLYEL LQLGWEERQE EDNLLIERIL LLVRNILHVP ADLDQEKKID
+     DDASAHDQLL WAIHLSGLDD LLLFLASSSA EEQWSLHVLE IVSLMFRDQN PEQLAGVGQG
+     RLAQERSADF AELEVLRQRE MAEKKTRALQ RGNRHSRFGG SYIVQGLKSI GERDLIFHKG
+     LHNLRNYSSD LGKQPKKVPK RRQAARELSI QRRSALNVRL FLRDFCSEFL ENCYNRLMGS
+     VKDHLLREKA QQHDETYYMW ALAFFMAFNR AASFRPGLVS ETLSVRTFHF IEQNLTNYYE
+     MMLTDRKEAA SWARRMHLAL KAYQELLATV NEMDISPDEA VRESSRIIKN NIFYVMEYRE
+     LFLALFRKFD ERCQPRSFLR DLVETTHLFL KMLERFCRSR GNLVVQNKQK KRRKKKKKVL
+     DQAIVSGNVP SSPEEVEAVW PALAEQLQCC AQNSELSMDS VVPFDAASEV PVEEQRAEAM
+     VRIQDCLLAG QAPQALTLLR SAREVWPEGD VFGSQDISPE EEIQLLKQIL SAPLPRQQGP
+     EERGAEEEEE EEEEEEEELQ VVQVSEKEFN FLDYLKRFAC STVVRAYVLL LRSYQQNSAH
+     TNHCIVKMLH RLAHDLKMEA LLFQLSVFCL FNRLLSDPAA GAYKELVTFA KYILGKFFAL
+     AAVNQKAFVE LLFWKNTAVV REMTEGYGSL DDRSSSRRAP TWSPEEEAHL RELYLANKDV
+     EGQDVVEAIL AHLNTVPRTR KQIIHHLVQM GLADSVKDFQ RKGTHIVLWT GDQELELQRL
+     FEEFRDSDDV LGHIMKNITA KRSRARIVDK LLALGLVAER RELYKKRQKK LASSILPNGA
+     ESLKDFCQED LEEEENLPEE DSEEEEEGGS EAEQVQGSLV LSNENLGQSL HQEGFSIPLL
+     WLQNCLIRAA DDREEDGCSQ AVPLVPLTEE NEEAMENEQF QQLLRKLGVR PPASGQETFW
+     RIPAKLSPTQ LRRAAASLSQ PEEEQKLQPE LQPKVPGEQG SDEEHCKEHR AQALRALLLA
+     HKKKAGLASP EEEDAVGKEP LKAAPKKRQL LDSDEEQEED EGRNRAPELG APGIQKKKRY
+     QIEDDEDD
+//

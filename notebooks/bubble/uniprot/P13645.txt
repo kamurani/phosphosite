@@ -1,0 +1,845 @@
+ID   K1C10_HUMAN             Reviewed;         584 AA.
+AC   P13645; Q14664; Q8N175;
+DT   01-JAN-1990, integrated into UniProtKB/Swiss-Prot.
+DT   24-NOV-2009, sequence version 6.
+DT   28-JUN-2023, entry version 225.
+DE   RecName: Full=Keratin, type I cytoskeletal 10;
+DE   AltName: Full=Cytokeratin-10;
+DE            Short=CK-10;
+DE   AltName: Full=Keratin-10;
+DE            Short=K10;
+GN   Name=KRT10; Synonyms=KPP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANTS SER-101 AND TYR-487.
+RC   TISSUE=Foreskin;
+RX   PubMed=2459124; DOI=10.1016/s0021-9258(19)37628-8;
+RA   Zhou X.M., Idler W.W., Steven A.C., Roop D.R., Steinert P.M.;
+RT   "The complete sequence of the human intermediate filament chain keratin 10.
+RT   Subdomainal divisions and model for folding of end domain sequences.";
+RL   J. Biol. Chem. 263:15584-15589(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT TYR-487.
+RX   PubMed=2464696; DOI=10.1016/0022-2836(88)90045-9;
+RA   Rieger M., Franke W.W.;
+RT   "Identification of an orthologous mammalian cytokeratin gene. High degree
+RT   of intron sequence conservation during evolution of human cytokeratin 10.";
+RL   J. Mol. Biol. 204:841-856(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANTS SER-101 AND TYR-487.
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 130-584, AND VARIANT TYR-487.
+RX   PubMed=2448602; DOI=10.1007/bf00444680;
+RA   Darmon M.Y., Semat A., Darmon M.C., Vasseur M.;
+RT   "Sequence of a cDNA encoding human keratin No 10 selected according to
+RT   structural homologies of keratins and their tissue-specific expression.";
+RL   Mol. Biol. Rep. 12:277-283(1987).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 147-161, AND VARIANTS EHK HIS-156 AND
+RP   ASN-160.
+RX   PubMed=7507150; DOI=10.1111/1523-1747.ep12371723;
+RA   Rothnagel J.A., Longley M.A., Holder R.A., Kuster W., Roop D.R.;
+RT   "Prenatal diagnosis of epidermolytic hyperkeratosis by direct gene
+RT   sequencing.";
+RL   J. Invest. Dermatol. 102:13-16(1994).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 147-161, AND VARIANT EHK CYS-156.
+RA   Rothnagel J.J., Dominey A., Fisher M., Axtell S., Pittelkow M.,
+RA   Anton-Lamprecht I., Hohl D., Roop D.;
+RT   "Identification of mutational hot spots in the suprabasal keratin genes
+RT   from patients with epidermolytic hyperkeratosis.";
+RL   Submitted (JUN-1993) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 197-584.
+RX   PubMed=1378806; DOI=10.1016/0378-1119(92)90521-p;
+RA   Tkachenko A.V., Buchman V.L., Bliskovsky V.V., Shvets Y.P., Kisselev L.L.;
+RT   "Exons I and VII of the gene (Ker10) encoding human keratin 10 undergo
+RT   structural rearrangements within repeats.";
+RL   Gene 116:245-251(1992).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 180-184 AND 568-580.
+RC   TISSUE=Keratinocyte;
+RX   PubMed=1286667; DOI=10.1002/elps.11501301199;
+RA   Rasmussen H.H., van Damme J., Puype M., Gesser B., Celis J.E.,
+RA   Vandekerckhove J.;
+RT   "Microsequences of 145 proteins recorded in the two-dimensional gel protein
+RT   database of normal human epidermal keratinocytes.";
+RL   Electrophoresis 13:960-969(1992).
+RN   [10]
+RP   INTERACTION WITH STAPHYLOCOCCUS AUREUS CLFB (MICROBIAL INFECTION),
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=12427098; DOI=10.1046/j.1462-5822.2002.00231.x;
+RA   O'Brien L.M., Walsh E.J., Massey R.C., Peacock S.J., Foster T.J.;
+RT   "Staphylococcus aureus clumping factor B (ClfB) promotes adherence to human
+RT   type I cytokeratin 10: implications for nasal colonization.";
+RL   Cell. Microbiol. 4:759-770(2002).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Lymphoblast;
+RX   PubMed=14654843; DOI=10.1038/nature02166;
+RA   Andersen J.S., Wilkinson C.J., Mayor T., Mortensen P., Nigg E.A., Mann M.;
+RT   "Proteomic characterization of the human centrosome by protein correlation
+RT   profiling.";
+RL   Nature 426:570-574(2003).
+RN   [12]
+RP   FUNCTION (MICROBIAL INFECTION), AND INTERACTION WITH STAPHYLOCOCCUS AUREUS
+RP   CLFB (MICROBIAL INFECTION).
+RX   PubMed=15385531; DOI=10.1074/jbc.m408713200;
+RA   Walsh E.J., O'Brien L.M., Liang X., Hoeoek M., Foster T.J.;
+RT   "Clumping factor B, a fibrinogen-binding MSCRAMM (microbial surface
+RT   components recognizing adhesive matrix molecules) adhesin of Staphylococcus
+RT   aureus, also binds to the tail region of type I cytokeratin 10.";
+RL   J. Biol. Chem. 279:50691-50699(2004).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-16 AND SER-42, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [14]
+RP   FUNCTION (MICROBIAL INFECTION), INTERACTION WITH S.PNEUMONIAE PSRP
+RP   (MICROBIAL INFECTION), SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=19627498; DOI=10.1111/j.1365-2958.2009.06796.x;
+RA   Shivshankar P., Sanchez C., Rose L.F., Orihuela C.J.;
+RT   "The Streptococcus pneumoniae adhesin PsrP binds to keratin 10 on lung
+RT   cells.";
+RL   Mol. Microbiol. 73:663-679(2009).
+RN   [15]
+RP   INVOLVEMENT IN IWC.
+RX   PubMed=20798280; DOI=10.1126/science.1192280;
+RA   Choate K.A., Lu Y., Zhou J., Choi M., Elias P.M., Farhi A.,
+RA   Nelson-Williams C., Crumrine D., Williams M.L., Nopper A.J., Bree A.,
+RA   Milstone L.M., Lifton R.P.;
+RT   "Mitotic recombination in patients with ichthyosis causes reversion of
+RT   dominant mutations in KRT10.";
+RL   Science 330:94-97(2010).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-14; SER-16; SER-42; SER-53;
+RP   SER-56 AND SER-170, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [18]
+RP   IDENTIFICATION IN A COMPLEX WITH KRT1, AND INTERACTION WITH KRT1 AND PLEC.
+RX   PubMed=24940650; DOI=10.1038/jid.2014.255;
+RA   Bouameur J.E., Favre B., Fontao L., Lingasamy P., Begre N., Borradori L.;
+RT   "Interaction of plectin with keratins 5 and 14: dependence on several
+RT   plectin domains and keratin quaternary structure.";
+RL   J. Invest. Dermatol. 134:2776-2783(2014).
+RN   [19]
+RP   INTERACTION WITH S.PNEUMONIAE PSRP (MICROBIAL INFECTION).
+RX   PubMed=24430336; DOI=10.1098/rsob.130090;
+RA   Schulte T., Lofling J., Mikaelsson C., Kikhney A., Hentrich K.,
+RA   Diamante A., Ebel C., Normark S., Svergun D., Henriques-Normark B.,
+RA   Achour A.;
+RT   "The basic keratin 10-binding domain of the virulence-associated
+RT   pneumococcal serine-rich protein PsrP adopts a novel MSCRAMM fold.";
+RL   Open Biol. 4:130090-130090(2014).
+RN   [20]
+RP   ERRATUM OF PUBMED:24430336.
+RX   DOI=10.1098/rsob.140172;
+RA   Schulte T., Lofling J., Mikaelsson C., Kikhney A., Hentrich K.,
+RA   Diamante A., Ebel C., Normark S., Svergun D., Henriques-Normark B.,
+RA   Achour A.;
+RL   Open Biol. 4:140172-140172(2014).
+RN   [21]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [22]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [23]
+RP   SUBCELLULAR LOCATION, AND INDUCTION BY ATRA.
+RX   PubMed=32179842; DOI=10.1038/s41598-020-61640-9;
+RA   Aldehlawi H., Usman S., Lalli A., Ahmad F., Williams G., Teh M.T.,
+RA   Waseem A.;
+RT   "Serum lipids, retinoic acid and phenol red differentially regulate
+RT   expression of keratins K1, K10 and K2 in cultured keratinocytes.";
+RL   Sci. Rep. 10:4829-4829(2020).
+RN   [24] {ECO:0007744|PDB:3ASW}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 473-487 IN COMPLEX WITH
+RP   STAPHYLOCOCCUS AUREUS CLFB.
+RA   Ganesh V.K., Barbu E.M., Deivanayagam C.C.S., Le B., Anderson A.,
+RA   Matsuka Y., Lin S.L., Foster T.J., Narayana S.L., Hook M.;
+RT   "Structural and biochemical characterization of ClfB:ligand interactions.";
+RL   Submitted (DEC-2010) to the PDB data bank.
+RN   [25] {ECO:0007744|PDB:4F1Z}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 499-512 IN COMPLEX WITH
+RP   STAPHYLOCOCCUS AUREUS CLFB, AND INTERACTION WITH STAPHYLOCOCCUS AUREUS
+RP   CLFB.
+RX   PubMed=22719251; DOI=10.1371/journal.ppat.1002751;
+RA   Xiang H., Feng Y., Wang J., Liu B., Chen Y., Liu L., Deng X., Yang M.;
+RT   "Crystal structures reveal the multi-ligand binding mechanism of
+RT   Staphylococcus aureus ClfB.";
+RL   PLoS Pathog. 8:e1002751-e1002751(2012).
+RN   [26] {ECO:0007744|PDB:4ZRY}
+RP   X-RAY CRYSTALLOGRAPHY (3.30 ANGSTROMS) OF 337-456 IN COMPLEX WITH KRT1,
+RP   SUBUNIT, AND DISULFIDE BONDS.
+RX   PubMed=27595935; DOI=10.1016/j.jid.2016.08.018;
+RA   Bunick C.G., Milstone L.M.;
+RT   "The X-Ray Crystal Structure of the Keratin1-Keratin 10 Helix 2B
+RT   Heterodimer Reveals Molecular Surface Properties and Biochemical Insights
+RT   into Human Skin Disease.";
+RL   J. Invest. Dermatol. 137:142-150(2017).
+RN   [27]
+RP   VARIANT EHK HIS-156.
+RX   PubMed=1381287; DOI=10.1016/0092-8674(92)90314-3;
+RA   Cheng J., Syder A.J., Yu Q.-C., Letai A., Paller A.S., Fuchs E.;
+RT   "The genetic basis of epidermolytic hyperkeratosis: a disorder of
+RT   differentiation-specific epidermal keratin genes.";
+RL   Cell 70:811-819(1992).
+RN   [28]
+RP   VARIANTS.
+RX   PubMed=1371013; DOI=10.1073/pnas.89.3.910;
+RA   Korge B.P., Gan S.-Q., McBridge O.W., Mischke D., Steinert P.M.;
+RT   "Extensive size polymorphism of the human keratin 10 chain resides in the
+RT   C-terminal V2 subdomain due to variable numbers and sizes of glycine
+RT   loops.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:910-914(1992).
+RN   [29]
+RP   VARIANTS EHK HIS-156 AND SER-161.
+RX   PubMed=1380725; DOI=10.1126/science.257.5073.1128;
+RA   Rothnagel J.A., Dominey A.M., Dempsey L.D., Longley M.A., Greenhalgh D.A.,
+RA   Gagne T.A., Huber M., Frenk E., Hohl D., Roop D.R.;
+RT   "Mutations in the rod domains of keratins 1 and 10 in epidermolytic
+RT   hyperkeratosis.";
+RL   Science 257:1128-1130(1992).
+RN   [30]
+RP   VARIANTS EHK HIS-154; CYS-156; HIS-156; ASP-160 AND GLN-442.
+RX   PubMed=7508181;
+RA   Chipev C.C., Yang J.-M., Digiovanna J.J., Steinert P.M., Marekov L.,
+RA   Compton J.G., Bale S.J.;
+RT   "Preferential sites in keratin 10 that are mutated in epidermolytic
+RT   hyperkeratosis.";
+RL   Am. J. Hum. Genet. 54:179-190(1994).
+RN   [31]
+RP   VARIANTS EHK ARG-150; CYS-156 AND GLU-439, AND VARIANT SER-126.
+RX   PubMed=7512983; DOI=10.1172/jci117132;
+RA   Syder A.J., Yu Q.-C., Paller A.S., Giudice G., Pearson R., Fuchs E.;
+RT   "Genetic mutations in the K1 and K10 genes of patients with epidermolytic
+RT   hyperkeratosis. Correlation between location and disease severity.";
+RL   J. Clin. Invest. 93:1533-1542(1994).
+RN   [32]
+RP   VARIANTS EHK PRO-156 AND SER-156.
+RX   PubMed=7507152; DOI=10.1111/1523-1747.ep12371726;
+RA   McLean W.H.I., Eady R.A.J., Dopping-Hepenstal P.J.C., McMillan J.R.,
+RA   Leigh I.M., Navsaria H.A., Higgins C., Harper J.I., Paige D.G.,
+RA   Morley S.M.;
+RT   "Mutations in the rod 1A domain of keratins 1 and 10 in bullous congenital
+RT   ichthyosiform erythroderma (BCIE).";
+RL   J. Invest. Dermatol. 102:24-30(1994).
+RN   [33]
+RP   VARIANT EHK THR-150.
+RX   PubMed=7526210; DOI=10.1056/nejm199411243312103;
+RA   Paller A.S., Syder A.J., Chan Y.-M., Yu Q.-C., Hutton M.E., Tadini G.,
+RA   Fuchs E.;
+RT   "Genetic and clinical mosaicism in a type of epidermal nevus.";
+RL   N. Engl. J. Med. 331:1408-1415(1994).
+RN   [34]
+RP   VARIANT AEI1 GLU-422.
+RX   PubMed=9036939; DOI=10.1111/1523-1747.ep12286491;
+RA   Joh G.-Y., Traupe H., Metze D., Nashan D., Huber M., Hohl D., Longley M.A.,
+RA   Rothnagel J.A., Roop D.R.;
+RT   "A novel dinucleotide mutation in keratin 10 in the annular epidermolytic
+RT   ichthyosis variant of bullous congenital ichthyosiform erythroderma.";
+RL   J. Invest. Dermatol. 108:357-361(1997).
+RN   [35]
+RP   VARIANT AEI1 THR-446.
+RX   PubMed=9856845; DOI=10.1046/j.1523-1747.1998.00451.x;
+RA   Suga Y., Duncan K.O., Heald P.W., Roop D.R.;
+RT   "A novel helix termination mutation in keratin 10 in annular epidermolytic
+RT   ichthyosis, a variant of bullous congenital ichthyosiform erythroderma.";
+RL   J. Invest. Dermatol. 111:1220-1223(1998).
+RN   [36]
+RP   VARIANT EHK SER-160.
+RX   PubMed=10201536; DOI=10.1046/j.1523-1747.1999.00557.x;
+RA   Arin M.J., Longley M.A., Anton-Lamprecht I., Kurze G., Huber M., Hohl D.,
+RA   Rothnagel J.A., Roop D.R.;
+RT   "A novel substitution in keratin 10 in epidermolytic hyperkeratosis.";
+RL   J. Invest. Dermatol. 112:506-508(1999).
+RN   [37]
+RP   VARIANTS EHK ARG-150; THR-150; CYS-156; HIS-156 AND CYS-449.
+RX   PubMed=21271994; DOI=10.1111/j.1365-2133.2010.10096.x;
+RA   Arin M.J., Oji V., Emmert S., Hausser I., Traupe H., Krieg T., Grimberg G.;
+RT   "Expanding the keratin mutation database: novel and recurrent mutations and
+RT   genotype-phenotype correlations in 28 patients with epidermolytic
+RT   ichthyosis.";
+RL   Br. J. Dermatol. 164:442-447(2011).
+RN   [38]
+RP   INVOLVEMENT IN IHL, AND VARIANT IHL PRO-435.
+RX   PubMed=27212473; DOI=10.1684/ejd.2016.2808;
+RA   Wang W.H., Zhang L., Li L.F., Sun T.T.;
+RT   "Ichthyosis hystrix Lambert type and Curth-Macklin type are a single entity
+RT   with affected (KRT1 mutation) or unaffected (KRT10 mutation) palms and
+RT   soles?";
+RL   Eur. J. Dermatol. 26:493-495(2016).
+CC   -!- FUNCTION: Plays a role in the establishment of the epidermal barrier on
+CC       plantar skin (By similarity). Involved in the maintenance of cell layer
+CC       development and keratin filament bundles in suprabasal cells of the
+CC       epithelium (By similarity). {ECO:0000250|UniProtKB:P02535}.
+CC   -!- FUNCTION: (Microbial infection) Acts as a mediator of S.aureus
+CC       adherence to desquamated nasal epithelial cells via clfB, and hence may
+CC       play a role in nasal colonization. {ECO:0000269|PubMed:15385531}.
+CC   -!- FUNCTION: (Microbial infection) Binds S.pneumoniae PsrP, mediating
+CC       adherence of the bacteria to lung cell lines. Reduction of levels of
+CC       KRT10 keratin decrease adherence, overexpression increases adherence.
+CC       Neither protein has to be glycosylated for the interaction to occur.
+CC       {ECO:0000269|PubMed:19627498}.
+CC   -!- SUBUNIT: Heterotetramer of two type I and two type II keratins.
+CC       Heterodimer with KRT1 (PubMed:24940650, PubMed:27595935). Two
+CC       heterodimers of KRT1 and KRT10 form a heterotetramer (PubMed:27595935).
+CC       The KRT10 subunit in the heterotetramer is probably disulfide-linked
+CC       (PubMed:27595935). Interacts with PLEC isoform 1C, when in a
+CC       heterodimer with KRT1 (PubMed:24940650). {ECO:0000269|PubMed:24940650,
+CC       ECO:0000269|PubMed:27595935, ECO:0000303|PubMed:27595935}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts (via C-terminal tail domain)
+CC       with the S.aureus clumping factor, clfB; this interaction probably
+CC       mediates S.aureus attachment to the keratinized squamous epithelial
+CC       cells from the nasal cavity. {ECO:0000269|PubMed:12427098,
+CC       ECO:0000269|PubMed:15385531, ECO:0000269|PubMed:22719251}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts (via the C-terminal tail
+CC       domain) with S.pneumoniae serine-rich repeat protein PsrP; this
+CC       interaction probably mediates S.pneumoniae adherence to lung tissue and
+CC       subsequent pathogenesis. Neither protein has to be glycosylated for the
+CC       interaction to occur. {ECO:0000269|PubMed:19627498,
+CC       ECO:0000269|PubMed:24430336}.
+CC   -!- INTERACTION:
+CC       P13645; P04264: KRT1; NbExp=5; IntAct=EBI-465144, EBI-298429;
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space
+CC       {ECO:0000269|PubMed:12427098}. Cell surface
+CC       {ECO:0000269|PubMed:19627498}. Cytoplasm {ECO:0000269|PubMed:32179842}.
+CC   -!- TISSUE SPECIFICITY: Seen in all suprabasal cell layers including
+CC       stratum corneum. Expressed on the surface of lung cell lines
+CC       (PubMed:19627498). Localized on the surface of desquamated nasal
+CC       epithelial cells (at protein level) (PubMed:12427098).
+CC       {ECO:0000269|PubMed:12427098, ECO:0000269|PubMed:19627498}.
+CC   -!- INDUCTION: Repressed in keratinocytes by all-trans retinoic acid
+CC       (ATRA), via reduction of mRNA stability. {ECO:0000269|PubMed:32179842}.
+CC   -!- POLYMORPHISM: A number of alleles are known that mainly differ in the
+CC       Gly-rich region (positions 490-560).
+CC   -!- DISEASE: Epidermolytic hyperkeratosis (EHK) [MIM:113800]: An autosomal
+CC       dominant skin disorder characterized by widespread blistering and an
+CC       ichthyotic erythroderma at birth that persist into adulthood.
+CC       Histologically there is a diffuse epidermolytic degeneration in the
+CC       lower spinous layer of the epidermis. Within a few weeks from birth,
+CC       erythroderma and blister formation diminish and hyperkeratoses develop.
+CC       {ECO:0000269|PubMed:10201536, ECO:0000269|PubMed:1380725,
+CC       ECO:0000269|PubMed:1381287, ECO:0000269|PubMed:21271994,
+CC       ECO:0000269|PubMed:7507150, ECO:0000269|PubMed:7507152,
+CC       ECO:0000269|PubMed:7508181, ECO:0000269|PubMed:7512983,
+CC       ECO:0000269|PubMed:7526210, ECO:0000269|Ref.7}. Note=The disease is
+CC       caused by variants affecting the gene represented in this entry.
+CC   -!- DISEASE: Ichthyosis, annular epidermolytic, 1 (AEI1) [MIM:607602]: A
+CC       form of annular epidermolytic ichthyosis, an autosomal dominant skin
+CC       disorder characterized by polycyclic, migratory erythematous and scaly
+CC       plaques. AEI1 is characterized by the development of widespread
+CC       erythematous blistering in the neonatal period or early childhood that
+CC       subsides over time. {ECO:0000269|PubMed:9036939,
+CC       ECO:0000269|PubMed:9856845}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Ichthyosis with confetti (IWC) [MIM:609165]: An autosomal
+CC       dominant, rare skin condition characterized by slowly enlarging islands
+CC       of normal skin surrounded by erythematous ichthyotic patches in a
+CC       reticulated pattern. The condition starts in infancy as a lamellar
+CC       ichthyosis, with small islands of normal skin resembling confetti
+CC       appearing in late childhood and at puberty. Histopathologic findings
+CC       include band-like parakeratosis, psoriasiform acanthosis, and
+CC       vacuolization of keratinocytes with binucleated cells in the upper
+CC       epidermis, sometimes associated with amyloid deposition in the dermis.
+CC       Ultrastructural abnormalities include perinuclear shells formed from a
+CC       network of fine filaments in the upper epidermis.
+CC       {ECO:0000269|PubMed:20798280}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Ichthyosis histrix, Lambert type (IHL) [MIM:146600]: An
+CC       autosomal dominant form of ichthyosis, a disorder of keratinization
+CC       with abnormal differentiation and desquamation of the epidermis,
+CC       resulting in abnormal skin scaling. IHL is characterized by normal skin
+CC       at birth that develops striking spiny hyperkeratotic lesions within a
+CC       few months. There is sparing of the face, palms, and soles, and
+CC       affected individuals do not experience blistering.
+CC       {ECO:0000269|PubMed:27212473}. Note=The disease may be caused by
+CC       variants affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: There are two types of cytoskeletal and microfibrillar
+CC       keratin: I (acidic; 40-55 kDa) and II (neutral to basic; 56-70 kDa).
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA59468.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Human Intermediate Filament Mutation Database;
+CC       URL="http://www.interfil.org";
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Keratin-10 entry;
+CC       URL="https://en.wikipedia.org/wiki/Keratin_10";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; J04029; AAA60544.1; -; mRNA.
+DR   EMBL; X14487; CAA32649.1; -; Genomic_DNA.
+DR   EMBL; AC090283; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; BC034697; AAH34697.1; -; mRNA.
+DR   EMBL; M19156; AAA59468.1; ALT_INIT; mRNA.
+DR   EMBL; L20218; AAB59438.1; -; Genomic_DNA.
+DR   EMBL; L20219; AAB59439.1; -; Genomic_DNA.
+DR   EMBL; M77663; AAA59199.1; -; mRNA.
+DR   CCDS; CCDS11377.1; -.
+DR   PIR; A31994; A31994.
+DR   PIR; S02158; KRHU0.
+DR   RefSeq; NP_000412.3; NM_000421.3.
+DR   PDB; 3ASW; X-ray; 2.60 A; B=473-487.
+DR   PDB; 4F1Z; X-ray; 2.30 A; Q=499-512.
+DR   PDB; 4ZRY; X-ray; 3.30 A; A=337-456.
+DR   PDB; 6E2J; X-ray; 2.39 A; B=195-296.
+DR   PDB; 6EC0; X-ray; 2.98 A; B=195-296.
+DR   PDB; 6UUI; X-ray; 2.07 A; X=337-456.
+DR   PDBsum; 3ASW; -.
+DR   PDBsum; 4F1Z; -.
+DR   PDBsum; 4ZRY; -.
+DR   PDBsum; 6E2J; -.
+DR   PDBsum; 6EC0; -.
+DR   PDBsum; 6UUI; -.
+DR   AlphaFoldDB; P13645; -.
+DR   SMR; P13645; -.
+DR   BioGRID; 110056; 158.
+DR   ComplexPortal; CPX-5662; Keratin-1 - Keratin-10 dimer complex.
+DR   IntAct; P13645; 43.
+DR   MINT; P13645; -.
+DR   STRING; 9606.ENSP00000269576; -.
+DR   DrugBank; DB09130; Copper.
+DR   DrugBank; DB01593; Zinc.
+DR   DrugBank; DB14487; Zinc acetate.
+DR   GlyCosmos; P13645; 2 sites, 1 glycan.
+DR   GlyGen; P13645; 5 sites, 2 O-linked glycans (5 sites).
+DR   iPTMnet; P13645; -.
+DR   PhosphoSitePlus; P13645; -.
+DR   SwissPalm; P13645; -.
+DR   BioMuta; KRT10; -.
+DR   DMDM; 269849769; -.
+DR   REPRODUCTION-2DPAGE; P13645; -.
+DR   SWISS-2DPAGE; P13645; -.
+DR   CPTAC; CPTAC-5854; -.
+DR   CPTAC; CPTAC-5879; -.
+DR   CPTAC; non-CPTAC-2680; -.
+DR   EPD; P13645; -.
+DR   jPOST; P13645; -.
+DR   MassIVE; P13645; -.
+DR   PaxDb; P13645; -.
+DR   PeptideAtlas; P13645; -.
+DR   PRIDE; P13645; -.
+DR   ProteomicsDB; 52950; -.
+DR   TopDownProteomics; P13645; -.
+DR   Antibodypedia; 1606; 1622 antibodies from 45 providers.
+DR   DNASU; 3858; -.
+DR   Ensembl; ENST00000269576.6; ENSP00000269576.5; ENSG00000186395.9.
+DR   GeneID; 3858; -.
+DR   KEGG; hsa:3858; -.
+DR   MANE-Select; ENST00000269576.6; ENSP00000269576.5; NM_000421.5; NP_000412.4.
+DR   UCSC; uc002hvi.4; human.
+DR   AGR; HGNC:6413; -.
+DR   CTD; 3858; -.
+DR   DisGeNET; 3858; -.
+DR   GeneCards; KRT10; -.
+DR   HGNC; HGNC:6413; KRT10.
+DR   HPA; ENSG00000186395; Tissue enriched (skin).
+DR   MalaCards; KRT10; -.
+DR   MIM; 113800; phenotype.
+DR   MIM; 146600; phenotype.
+DR   MIM; 148080; gene.
+DR   MIM; 607602; phenotype.
+DR   MIM; 609165; phenotype.
+DR   neXtProt; NX_P13645; -.
+DR   OpenTargets; ENSG00000186395; -.
+DR   Orphanet; 281139; Annular epidermolytic ichthyosis.
+DR   Orphanet; 312; Autosomal dominant epidermolytic ichthyosis.
+DR   Orphanet; 512103; Autosomal recessive epidermolytic ichthyosis.
+DR   Orphanet; 281190; Congenital reticular ichthyosiform erythroderma.
+DR   PharmGKB; PA30200; -.
+DR   VEuPathDB; HostDB:ENSG00000186395; -.
+DR   eggNOG; ENOG502QV0B; Eukaryota.
+DR   GeneTree; ENSGT00940000160849; -.
+DR   HOGENOM; CLU_012560_8_3_1; -.
+DR   InParanoid; P13645; -.
+DR   OMA; QGQPRDY; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; P13645; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; P13645; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; P13645; -.
+DR   SIGNOR; P13645; -.
+DR   BioGRID-ORCS; 3858; 258 hits in 1164 CRISPR screens.
+DR   ChiTaRS; KRT10; human.
+DR   GeneWiki; Keratin_10; -.
+DR   GenomeRNAi; 3858; -.
+DR   Pharos; P13645; Tbio.
+DR   PRO; PR:P13645; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; P13645; protein.
+DR   Bgee; ENSG00000186395; Expressed in upper leg skin and 205 other tissues.
+DR   ExpressionAtlas; P13645; baseline and differential.
+DR   Genevisible; P13645; HS.
+DR   GO; GO:0009986; C:cell surface; IEA:UniProtKB-SubCell.
+DR   GO; GO:0001533; C:cornified envelope; IDA:CAFA.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; HDA:UniProtKB.
+DR   GO; GO:0005882; C:intermediate filament; NAS:UniProtKB.
+DR   GO; GO:0045095; C:keratin filament; IPI:ComplexPortal.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; HDA:UniProtKB.
+DR   GO; GO:0046982; F:protein heterodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0030280; F:structural constituent of skin epidermis; IDA:CAFA.
+DR   GO; GO:0030855; P:epithelial cell differentiation; IBA:GO_Central.
+DR   GO; GO:0045109; P:intermediate filament organization; IBA:GO_Central.
+DR   GO; GO:0030216; P:keratinocyte differentiation; IEP:UniProtKB.
+DR   GO; GO:0018149; P:peptide cross-linking; IDA:CAFA.
+DR   GO; GO:0045684; P:positive regulation of epidermis development; ISS:UniProtKB.
+DR   GO; GO:0051290; P:protein heterotetramerization; IDA:UniProtKB.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR018039; IF_conserved.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF137; KERATIN, TYPE I CYTOSKELETAL 10; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   SUPFAM; SSF46579; Prefoldin; 1.
+DR   PROSITE; PS00226; IF_ROD_1; 1.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Coiled coil; Cytoplasm; Direct protein sequencing;
+KW   Disease variant; Disulfide bond; Ichthyosis; Intermediate filament;
+KW   Keratin; Phosphoprotein; Reference proteome; Secreted.
+FT   CHAIN           1..584
+FT                   /note="Keratin, type I cytoskeletal 10"
+FT                   /id="PRO_0000063642"
+FT   DOMAIN          146..460
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          1..145
+FT                   /note="Head"
+FT   REGION          1..24
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          146..181
+FT                   /note="Coil 1A"
+FT   REGION          182..202
+FT                   /note="Linker 1"
+FT   REGION          203..294
+FT                   /note="Coil 1B"
+FT   REGION          295..317
+FT                   /note="Linker 12"
+FT   REGION          318..456
+FT                   /note="Coil 2"
+FT   REGION          453..584
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          457..584
+FT                   /note="Tail"
+FT   COMPBIAS        1..15
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        510..532
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        546..584
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         14
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         16
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         42
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         53
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         56
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         170
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   DISULFID        401
+FT                   /note="Interchain"
+FT                   /evidence="ECO:0000305|PubMed:27595935,
+FT                   ECO:0007744|PDB:4ZRY"
+FT   VARIANT         101
+FT                   /note="I -> S (in dbSNP:rs4261597)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:2459124"
+FT                   /id="VAR_058202"
+FT   VARIANT         126
+FT                   /note="G -> S (in dbSNP:rs77919366)"
+FT                   /evidence="ECO:0000269|PubMed:21271994,
+FT                   ECO:0000269|PubMed:7512983"
+FT                   /id="VAR_010505"
+FT   VARIANT         150
+FT                   /note="M -> R (in EHK; dbSNP:rs58901407)"
+FT                   /evidence="ECO:0000269|PubMed:21271994,
+FT                   ECO:0000269|PubMed:7512983"
+FT                   /id="VAR_010506"
+FT   VARIANT         150
+FT                   /note="M -> T (in EHK; also found in a patient with
+FT                   hyperkeratotic epidermal nevi due to genetic mosaicism;
+FT                   dbSNP:rs58901407)"
+FT                   /evidence="ECO:0000269|PubMed:21271994,
+FT                   ECO:0000269|PubMed:7526210"
+FT                   /id="VAR_010507"
+FT   VARIANT         154
+FT                   /note="N -> H (in EHK; dbSNP:rs57784225)"
+FT                   /evidence="ECO:0000269|PubMed:7508181"
+FT                   /id="VAR_003826"
+FT   VARIANT         156
+FT                   /note="R -> C (in EHK; dbSNP:rs58852768)"
+FT                   /evidence="ECO:0000269|PubMed:21271994,
+FT                   ECO:0000269|PubMed:7508181, ECO:0000269|PubMed:7512983,
+FT                   ECO:0000269|Ref.7"
+FT                   /id="VAR_003828"
+FT   VARIANT         156
+FT                   /note="R -> H (in EHK; dbSNP:rs58075662)"
+FT                   /evidence="ECO:0000269|PubMed:1380725,
+FT                   ECO:0000269|PubMed:1381287, ECO:0000269|PubMed:21271994,
+FT                   ECO:0000269|PubMed:7507150, ECO:0000269|PubMed:7508181"
+FT                   /id="VAR_003827"
+FT   VARIANT         156
+FT                   /note="R -> P (in EHK; dbSNP:rs58075662)"
+FT                   /evidence="ECO:0000269|PubMed:7507152"
+FT                   /id="VAR_003829"
+FT   VARIANT         156
+FT                   /note="R -> S (in EHK; dbSNP:rs58852768)"
+FT                   /evidence="ECO:0000269|PubMed:7507152"
+FT                   /id="VAR_003830"
+FT   VARIANT         160
+FT                   /note="Y -> D (in EHK; severe phenotype; dbSNP:rs58414354)"
+FT                   /evidence="ECO:0000269|PubMed:7508181"
+FT                   /id="VAR_003831"
+FT   VARIANT         160
+FT                   /note="Y -> N (in EHK; severe phenotype)"
+FT                   /evidence="ECO:0000269|PubMed:7507150"
+FT                   /id="VAR_010508"
+FT   VARIANT         160
+FT                   /note="Y -> S (in EHK; severe phenotype; dbSNP:rs58735429)"
+FT                   /evidence="ECO:0000269|PubMed:10201536"
+FT                   /id="VAR_010509"
+FT   VARIANT         161
+FT                   /note="L -> S (in EHK; dbSNP:rs60118264)"
+FT                   /evidence="ECO:0000269|PubMed:1380725"
+FT                   /id="VAR_003832"
+FT   VARIANT         422
+FT                   /note="R -> E (in AEI1; requires 2 nucleotide
+FT                   substitutions; dbSNP:rs59075499)"
+FT                   /evidence="ECO:0000269|PubMed:9036939"
+FT                   /id="VAR_033145"
+FT   VARIANT         435
+FT                   /note="L -> P (in IHL; unknown pathological significance)"
+FT                   /evidence="ECO:0000269|PubMed:27212473"
+FT                   /id="VAR_087806"
+FT   VARIANT         439
+FT                   /note="K -> E (in EHK; mild phenotype; dbSNP:rs61434181)"
+FT                   /evidence="ECO:0000269|PubMed:7512983"
+FT                   /id="VAR_010510"
+FT   VARIANT         442
+FT                   /note="L -> Q (in EHK; dbSNP:rs58026994)"
+FT                   /evidence="ECO:0000269|PubMed:7508181"
+FT                   /id="VAR_003833"
+FT   VARIANT         446
+FT                   /note="I -> T (in AEI1; dbSNP:rs62651994)"
+FT                   /evidence="ECO:0000269|PubMed:9856845"
+FT                   /id="VAR_010511"
+FT   VARIANT         449
+FT                   /note="Y -> C (in EHK; dbSNP:rs267607383)"
+FT                   /evidence="ECO:0000269|PubMed:21271994"
+FT                   /id="VAR_071985"
+FT   VARIANT         487
+FT                   /note="H -> Y (in dbSNP:rs17855579)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:2448602, ECO:0000269|PubMed:2459124,
+FT                   ECO:0000269|PubMed:2464696"
+FT                   /id="VAR_060723"
+FT   CONFLICT        9..11
+FT                   /note="KHY -> SKQF (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        24..31
+FT                   /note="Missing (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        86
+FT                   /note="R -> H (in Ref. 2; CAA32649)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        106
+FT                   /note="S -> N (in Ref. 2; CAA32649)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        181..184
+FT                   /note="WYEK -> RYDQ (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        189
+FT                   /note="H -> R (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        197
+FT                   /note="S -> G (in Ref. 8; AAA59199)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        266
+FT                   /note="K -> Q (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        279..280
+FT                   /note="EL -> YV (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        287
+FT                   /note="H -> R (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        293
+FT                   /note="D -> H (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        312
+FT                   /note="V -> I (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        323
+FT                   /note="S -> N (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        340
+FT                   /note="F -> V (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        374
+FT                   /note="A -> R (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        408
+FT                   /note="Q -> H (in Ref. 2; CAA32649)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        420
+FT                   /note="Q -> E (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        436
+FT                   /note="L -> T (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        451
+FT                   /note="S -> G (in Ref. 8; AAA59199)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        460..461
+FT                   /note="GG -> RS (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        477
+FT                   /note="S -> T (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        482
+FT                   /note="S -> T (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        487..490
+FT                   /note="Missing (in Ref. 8; AAA59199)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        491..516
+FT                   /note="Missing (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        503
+FT                   /note="S -> T (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        508
+FT                   /note="S -> T (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        513..519
+FT                   /note="YGGGSSS -> LRGELH (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        523..527
+FT                   /note="GGSSS -> AHST (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        524
+FT                   /note="G -> GGSSSGGHGG (in Ref. 2; CAA32649)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        534
+FT                   /note="S -> N (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        535
+FT                   /note="S -> F (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        542..546
+FT                   /note="YGGGS -> LRGRH (in Ref. 5; AAA59468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        565
+FT                   /note="G -> GGYGGGSSSGG (in Ref. 1; AAA60544)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           195..295
+FT                   /evidence="ECO:0007829|PDB:6E2J"
+FT   HELIX           350..454
+FT                   /evidence="ECO:0007829|PDB:6UUI"
+FT   STRAND          479..481
+FT                   /evidence="ECO:0007829|PDB:3ASW"
+FT   STRAND          483..486
+FT                   /evidence="ECO:0007829|PDB:3ASW"
+FT   STRAND          500..508
+FT                   /evidence="ECO:0007829|PDB:4F1Z"
+SQ   SEQUENCE   584 AA;  58827 MW;  4941ECD2AE46D417 CRC64;
+     MSVRYSSSKH YSSSRSGGGG GGGGCGGGGG VSSLRISSSK GSLGGGFSSG GFSGGSFSRG
+     SSGGGCFGGS SGGYGGLGGF GGGSFRGSYG SSSFGGSYGG IFGGGSFGGG SFGGGSFGGG
+     GFGGGGFGGG FGGGFGGDGG LLSGNEKVTM QNLNDRLASY LDKVRALEES NYELEGKIKE
+     WYEKHGNSHQ GEPRDYSKYY KTIDDLKNQI LNLTTDNANI LLQIDNARLA ADDFRLKYEN
+     EVALRQSVEA DINGLRRVLD ELTLTKADLE MQIESLTEEL AYLKKNHEEE MKDLRNVSTG
+     DVNVEMNAAP GVDLTQLLNN MRSQYEQLAE QNRKDAEAWF NEKSKELTTE IDNNIEQISS
+     YKSEITELRR NVQALEIELQ SQLALKQSLE ASLAETEGRY CVQLSQIQAQ ISALEEQLQQ
+     IRAETECQNT EYQQLLDIKI RLENEIQTYR SLLEGEGSSG GGGRGGGSFG GGYGGGSSGG
+     GSSGGGHGGG HGGSSGGGYG GGSSGGGSSG GGYGGGSSSG GHGGSSSGGY GGGSSGGGGG
+     GYGGGSSGGG SSSGGGYGGG SSSGGHKSSS SGSVGESSSK GPRY
+//

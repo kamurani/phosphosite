@@ -1,0 +1,254 @@
+ID   K1C23_HUMAN             Reviewed;         422 AA.
+AC   Q9C075; A8K084; B7Z7J2; I3L3Q6; Q9NUR6;
+DT   29-AUG-2001, integrated into UniProtKB/Swiss-Prot.
+DT   03-APR-2007, sequence version 2.
+DT   28-JUN-2023, entry version 172.
+DE   RecName: Full=Keratin, type I cytoskeletal 23;
+DE   AltName: Full=Cytokeratin-23;
+DE            Short=CK-23;
+DE   AltName: Full=Keratin-23;
+DE            Short=K23;
+GN   Name=KRT23;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=11135429;
+RX   DOI=10.1002/1098-2264(2000)9999:9999<::aid-gcc1070>3.3.co;2-n;
+RA   Zhang J.-S., Wang L., Huang H., Nelson M., Smith D.I.;
+RT   "Keratin 23 (K23), a novel acidic keratin, is highly induced by histone
+RT   deacetylase inhibitors during differentiation of pancreatic cancer cells.";
+RL   Genes Chromosomes Cancer 30:123-135(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT ALA-303.
+RC   TISSUE=Placenta, Testis, and Urinary bladder;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [4]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+CC   -!- SUBUNIT: Heterotetramer of two type I and two type II keratins.
+CC       {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q9C075; Q06455-2: RUNX1T1; NbExp=3; IntAct=EBI-3211278, EBI-11984663;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9C075-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9C075-2; Sequence=VSP_055662;
+CC   -!- MISCELLANEOUS: There are two types of cytoskeletal and microfibrillar
+CC       keratin: I (acidic; 40-55 kDa) and II (neutral to basic; 56-70 kDa).
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF102848; AAK00050.1; -; mRNA.
+DR   EMBL; AK002047; BAA92054.1; -; mRNA.
+DR   EMBL; AK289449; BAF82138.1; -; mRNA.
+DR   EMBL; AK302109; BAH13628.1; -; mRNA.
+DR   EMBL; AC004231; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS11380.1; -. [Q9C075-1]
+DR   CCDS; CCDS62182.1; -. [Q9C075-2]
+DR   RefSeq; NP_001269362.1; NM_001282433.1. [Q9C075-2]
+DR   RefSeq; NP_056330.3; NM_015515.4. [Q9C075-1]
+DR   RefSeq; XP_005257257.1; XM_005257200.4. [Q9C075-2]
+DR   RefSeq; XP_011522897.1; XM_011524595.1. [Q9C075-2]
+DR   AlphaFoldDB; Q9C075; -.
+DR   SMR; Q9C075; -.
+DR   BioGRID; 117467; 28.
+DR   IntAct; Q9C075; 2.
+DR   STRING; 9606.ENSP00000209718; -.
+DR   iPTMnet; Q9C075; -.
+DR   PhosphoSitePlus; Q9C075; -.
+DR   SwissPalm; Q9C075; -.
+DR   BioMuta; KRT23; -.
+DR   DMDM; 143811410; -.
+DR   jPOST; Q9C075; -.
+DR   MassIVE; Q9C075; -.
+DR   PaxDb; Q9C075; -.
+DR   PeptideAtlas; Q9C075; -.
+DR   ProteomicsDB; 47295; -.
+DR   ProteomicsDB; 79963; -. [Q9C075-1]
+DR   Antibodypedia; 1978; 318 antibodies from 29 providers.
+DR   DNASU; 25984; -.
+DR   Ensembl; ENST00000209718.8; ENSP00000209718.3; ENSG00000108244.17. [Q9C075-1]
+DR   Ensembl; ENST00000436344.7; ENSP00000414056.3; ENSG00000108244.17. [Q9C075-2]
+DR   Ensembl; ENST00000571258.6; ENSP00000460637.2; ENSG00000263309.6. [Q9C075-2]
+DR   Ensembl; ENST00000574480.5; ENSP00000459021.1; ENSG00000263309.6. [Q9C075-1]
+DR   GeneID; 25984; -.
+DR   KEGG; hsa:25984; -.
+DR   MANE-Select; ENST00000209718.8; ENSP00000209718.3; NM_015515.5; NP_056330.3.
+DR   UCSC; uc002hvm.3; human. [Q9C075-1]
+DR   AGR; HGNC:6438; -.
+DR   CTD; 25984; -.
+DR   DisGeNET; 25984; -.
+DR   GeneCards; KRT23; -.
+DR   HGNC; HGNC:6438; KRT23.
+DR   HPA; ENSG00000108244; Group enriched (salivary gland, skin).
+DR   MIM; 606194; gene.
+DR   neXtProt; NX_Q9C075; -.
+DR   OpenTargets; ENSG00000108244; -.
+DR   PharmGKB; PA134914537; -.
+DR   VEuPathDB; HostDB:ENSG00000108244; -.
+DR   eggNOG; ENOG502QTH0; Eukaryota.
+DR   GeneTree; ENSGT00940000161077; -.
+DR   HOGENOM; CLU_012560_8_1_1; -.
+DR   InParanoid; Q9C075; -.
+DR   OMA; SCILEWH; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; Q9C075; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; Q9C075; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; Q9C075; -.
+DR   BioGRID-ORCS; 25984; 15 hits in 1139 CRISPR screens.
+DR   ChiTaRS; KRT23; human.
+DR   GeneWiki; KRT23; -.
+DR   GenomeRNAi; 25984; -.
+DR   Pharos; Q9C075; Tbio.
+DR   PRO; PR:Q9C075; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q9C075; protein.
+DR   Bgee; ENSG00000108244; Expressed in placenta and 91 other tissues.
+DR   ExpressionAtlas; Q9C075; baseline and differential.
+DR   Genevisible; Q9C075; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005882; C:intermediate filament; IEA:UniProtKB-KW.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0030855; P:epithelial cell differentiation; IBA:GO_Central.
+DR   GO; GO:0045109; P:intermediate filament organization; IBA:GO_Central.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR018039; IF_conserved.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF44; KERATIN, TYPE I CYTOSKELETAL 23; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   PROSITE; PS00226; IF_ROD_1; 1.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Coiled coil; Intermediate filament; Keratin;
+KW   Reference proteome.
+FT   CHAIN           1..422
+FT                   /note="Keratin, type I cytoskeletal 23"
+FT                   /id="PRO_0000063677"
+FT   DOMAIN          72..382
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          1..73
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1..71
+FT                   /note="Head"
+FT   REGION          72..107
+FT                   /note="Coil 1A"
+FT   REGION          108..125
+FT                   /note="Linker 1"
+FT   REGION          126..217
+FT                   /note="Coil 1B"
+FT   REGION          218..240
+FT                   /note="Linker 12"
+FT   REGION          241..378
+FT                   /note="Coil 2"
+FT   REGION          379..422
+FT                   /note="Rod-like helical tail"
+FT   COMPBIAS        1..15
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         1..137
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_055662"
+FT   VARIANT         303
+FT                   /note="T -> A (in dbSNP:rs9257)"
+FT                   /evidence="ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_031608"
+FT   VARIANT         393
+FT                   /note="S -> F (in dbSNP:rs17856805)"
+FT                   /id="VAR_049785"
+FT   CONFLICT        137
+FT                   /note="K -> N (in Ref. 1; AAK00050)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        208
+FT                   /note="K -> E (in Ref. 2; BAA92054)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        216
+FT                   /note="K -> E (in Ref. 2; BAA92054)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        322
+FT                   /note="Y -> N (in Ref. 1; AAK00050)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   422 AA;  48131 MW;  A43876CCBA9CBE7D CRC64;
+     MNSGHSFSQT PSASFHGAGG GWGRPRSFPR APTVHGGAGG ARISLSFTTR SCPPPGGSWG
+     SGRSSPLLGG NGKATMQNLN DRLASYLEKV RALEEANMKL ESRILKWHQQ RDPGSKKDYS
+     QYEENITHLQ EQIVDGKMTN AQIILLIDNA RMAVDDFNLK YENEHSFKKD LEIEVEGLRR
+     TLDNLTIVTT DLEQEVEGMR KELILMKKHH EQEMEKHHVP SDFNVNVKVD TGPREDLIKV
+     LEDMRQEYEL IIKKKHRDLD TWYKEQSAAM SQEAASPATV QSRQGDIHEL KRTFQALEID
+     LQTQYSTKSA LENMLSETQS RYSCKLQDMQ EIISHYEEEL TQLRHELERQ NNEYQVLLGI
+     KTHLEKEITT YRRLLEGESE GTREESKSSM KVSATPKIKA ITQETINGRL VLCQVNEIQK
+     HA
+//

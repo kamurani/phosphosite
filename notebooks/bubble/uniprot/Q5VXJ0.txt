@@ -1,0 +1,180 @@
+ID   LIPK_HUMAN              Reviewed;         399 AA.
+AC   Q5VXJ0; A7KIH8;
+DT   15-MAY-2007, integrated into UniProtKB/Swiss-Prot.
+DT   15-MAY-2007, sequence version 2.
+DT   28-JUN-2023, entry version 136.
+DE   RecName: Full=Lipase member K;
+DE            EC=3.1.1.-;
+DE   AltName: Full=Lipase-like abhydrolase domain-containing protein 2;
+DE   Flags: Precursor;
+GN   Name=LIPK; Synonyms=LIPL2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND TISSUE SPECIFICITY.
+RC   TISSUE=Keratinocyte;
+RX   PubMed=17562024; DOI=10.1186/gb-2007-8-6-r107;
+RA   Toulza E., Mattiuzzo N.R., Galliano M.F., Jonca N., Dossat C., Jacob D.,
+RA   de Daruvar A., Wincker P., Serre G., Guerrin M.;
+RT   "Large-scale identification of human genes implicated in epidermal barrier
+RT   function.";
+RL   Genome Biol. 8:R107.1-R107.23(2007).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+CC   -!- FUNCTION: Plays a highly specific role in the last step of keratinocyte
+CC       differentiation. May have an essential function in lipid metabolism of
+CC       the most differentiated epidermal layers.
+CC       {ECO:0000269|PubMed:17562024}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Exclusively expressed in the epidermis within the
+CC       granular keratinocytes. {ECO:0000269|PubMed:17562024}.
+CC   -!- SIMILARITY: Belongs to the AB hydrolase superfamily. Lipase family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; EF426482; ABR08387.1; -; mRNA.
+DR   EMBL; AL358532; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS44455.1; -.
+DR   RefSeq; NP_001073987.1; NM_001080518.1.
+DR   RefSeq; XP_011538379.1; XM_011540077.1.
+DR   AlphaFoldDB; Q5VXJ0; -.
+DR   SMR; Q5VXJ0; -.
+DR   BioGRID; 568761; 12.
+DR   STRING; 9606.ENSP00000383900; -.
+DR   ESTHER; human-LIPK; Acidic_Lipase.
+DR   GlyConnect; 1459; 3 N-Linked glycans (1 site).
+DR   GlyCosmos; Q5VXJ0; 2 sites, 3 glycans.
+DR   GlyGen; Q5VXJ0; 2 sites, 3 N-linked glycans (1 site).
+DR   iPTMnet; Q5VXJ0; -.
+DR   PhosphoSitePlus; Q5VXJ0; -.
+DR   BioMuta; LIPK; -.
+DR   DMDM; 147647699; -.
+DR   MassIVE; Q5VXJ0; -.
+DR   PaxDb; Q5VXJ0; -.
+DR   PeptideAtlas; Q5VXJ0; -.
+DR   ProteomicsDB; 65597; -.
+DR   Antibodypedia; 56554; 120 antibodies from 15 providers.
+DR   DNASU; 643414; -.
+DR   Ensembl; ENST00000404190.3; ENSP00000383900.1; ENSG00000204021.5.
+DR   GeneID; 643414; -.
+DR   KEGG; hsa:643414; -.
+DR   MANE-Select; ENST00000404190.3; ENSP00000383900.1; NM_001080518.2; NP_001073987.1.
+DR   UCSC; uc010qmv.3; human.
+DR   AGR; HGNC:23444; -.
+DR   CTD; 643414; -.
+DR   DisGeNET; 643414; -.
+DR   GeneCards; LIPK; -.
+DR   HGNC; HGNC:23444; LIPK.
+DR   HPA; ENSG00000204021; Tissue enriched (skin).
+DR   MIM; 613922; gene.
+DR   neXtProt; NX_Q5VXJ0; -.
+DR   OpenTargets; ENSG00000204021; -.
+DR   PharmGKB; PA162394100; -.
+DR   VEuPathDB; HostDB:ENSG00000204021; -.
+DR   eggNOG; KOG2624; Eukaryota.
+DR   GeneTree; ENSGT00940000160031; -.
+DR   HOGENOM; CLU_010974_0_0_1; -.
+DR   InParanoid; Q5VXJ0; -.
+DR   OMA; GYPYEKY; -.
+DR   OrthoDB; 5474043at2759; -.
+DR   PhylomeDB; Q5VXJ0; -.
+DR   TreeFam; TF315485; -.
+DR   PathwayCommons; Q5VXJ0; -.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   BioGRID-ORCS; 643414; 9 hits in 1143 CRISPR screens.
+DR   GenomeRNAi; 643414; -.
+DR   Pharos; Q5VXJ0; Tbio.
+DR   PRO; PR:Q5VXJ0; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; Q5VXJ0; protein.
+DR   Bgee; ENSG00000204021; Expressed in skin of abdomen and 21 other tissues.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IBA:GO_Central.
+DR   GO; GO:0004465; F:lipoprotein lipase activity; TAS:Reactome.
+DR   GO; GO:0070268; P:cornification; TAS:Reactome.
+DR   GO; GO:0016042; P:lipid catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1820; alpha/beta hydrolase; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000073; AB_hydrolase_1.
+DR   InterPro; IPR025483; Lipase_euk.
+DR   PANTHER; PTHR11005:SF45; LIPASE MEMBER K; 1.
+DR   PANTHER; PTHR11005; LYSOSOMAL ACID LIPASE-RELATED; 1.
+DR   Pfam; PF00561; Abhydrolase_1; 1.
+DR   PIRSF; PIRSF000862; Steryl_ester_lip; 1.
+DR   SUPFAM; SSF53474; alpha/beta-Hydrolases; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   2: Evidence at transcript level;
+KW   Disulfide bond; Glycoprotein; Hydrolase; Lipid degradation;
+KW   Lipid metabolism; Reference proteome; Secreted; Signal.
+FT   SIGNAL          1..19
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           20..399
+FT                   /note="Lipase member K"
+FT                   /id="PRO_0000286699"
+FT   DOMAIN          78..378
+FT                   /note="AB hydrolase-1"
+FT                   /evidence="ECO:0000255"
+FT   ACT_SITE        172
+FT                   /note="Nucleophile"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        343
+FT                   /note="Charge relay system"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10037"
+FT   ACT_SITE        372
+FT                   /note="Charge relay system"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10037"
+FT   CARBOHYD        271
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        327
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        246..255
+FT                   /evidence="ECO:0000250"
+FT   VARIANT         331
+FT                   /note="M -> I (in dbSNP:rs1214464)"
+FT                   /id="VAR_032160"
+FT   VARIANT         391
+FT                   /note="I -> T (in dbSNP:rs17112457)"
+FT                   /id="VAR_032161"
+SQ   SEQUENCE   399 AA;  45563 MW;  C12D8DFC294B176E CRC64;
+     MWQLLAAACW MLLLGSMYGY DKKGNNANPE ANMNISQIIS YWGYPYEEYD VTTKDGYILG
+     IYRIPHGRGC PGRTAPKPAV YLQHGLIASA SNWICNLPNN SLAFLLADSG YDVWLGNSRG
+     NTWSRKHLKL SPKSPEYWAF SLDEMAKYDL PATINFIIEK TGQKRLYYVG HSQGTTIAFI
+     AFSTNPELAK KIKIFFALAP VVTVKYTQSP MKKLTTLSRR VVKVLFGDKM FHPHTLFDQF
+     IATKVCNRKL FRRICSNFLF TLSGFDPQNL NMSRLDVYLS HNPAGTSVQN MLHWAQAVNS
+     GQLQAFDWGN SDQNMMHFHQ LTPPLYNITK MEVPTAIWNG GQDIVADPKD VENLLPQIAN
+     LIYYKLIPHY NHVDFYLGED APQEIYQDLI ILMEEYLQN
+//

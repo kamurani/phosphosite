@@ -1,0 +1,370 @@
+ID   CNT3B_HUMAN             Reviewed;        1288 AA.
+AC   Q96NU0; A0A087WUH3; B1B0V7; B1B0V8; B1B0V9; B1B0W0; B1B0X8; B1B162; Q4VXF0;
+AC   Q9H7W3;
+DT   10-JUN-2008, integrated into UniProtKB/Swiss-Prot.
+DT   28-MAR-2018, sequence version 3.
+DT   28-JUN-2023, entry version 159.
+DE   RecName: Full=Contactin-associated protein-like 3B;
+DE   AltName: Full=Cell recognition molecule Caspr3b;
+DE   Flags: Precursor;
+GN   Name=CNTNAP3B; Synonyms=CASPR3B;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Glial tumor, and Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164053; DOI=10.1038/nature02465;
+RA   Humphray S.J., Oliver K., Hunt A.R., Plumb R.W., Loveland J.E., Howe K.L.,
+RA   Andrews T.D., Searle S., Hunt S.E., Scott C.E., Jones M.C., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Ashwell R.I.S., Babbage A.K., Babbage S.,
+RA   Bagguley C.L., Bailey J., Banerjee R., Barker D.J., Barlow K.F., Bates K.,
+RA   Beasley H., Beasley O., Bird C.P., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D., Burrill W., Burton J., Carder C., Carter N.P., Chapman J.C.,
+RA   Chen Y., Clarke G., Clark S.Y., Clee C.M., Clegg S., Collier R.E.,
+RA   Corby N., Crosier M., Cummings A.T., Davies J., Dhami P., Dunn M.,
+RA   Dutta I., Dyer L.W., Earthrowl M.E., Faulkner L., Fleming C.J.,
+RA   Frankish A., Frankland J.A., French L., Fricker D.G., Garner P.,
+RA   Garnett J., Ghori J., Gilbert J.G.R., Glison C., Grafham D.V., Gribble S.,
+RA   Griffiths C., Griffiths-Jones S., Grocock R., Guy J., Hall R.E.,
+RA   Hammond S., Harley J.L., Harrison E.S.I., Hart E.A., Heath P.D.,
+RA   Henderson C.D., Hopkins B.L., Howard P.J., Howden P.J., Huckle E.,
+RA   Johnson C., Johnson D., Joy A.A., Kay M., Keenan S., Kershaw J.K.,
+RA   Kimberley A.M., King A., Knights A., Laird G.K., Langford C., Lawlor S.,
+RA   Leongamornlert D.A., Leversha M., Lloyd C., Lloyd D.M., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., Matthews L., McLaren S., McLay K.E.,
+RA   McMurray A., Milne S., Nickerson T., Nisbett J., Nordsiek G., Pearce A.V.,
+RA   Peck A.I., Porter K.M., Pandian R., Pelan S., Phillimore B., Povey S.,
+RA   Ramsey Y., Rand V., Scharfe M., Sehra H.K., Shownkeen R., Sims S.K.,
+RA   Skuce C.D., Smith M., Steward C.A., Swarbreck D., Sycamore N., Tester J.,
+RA   Thorpe A., Tracey A., Tromans A., Thomas D.W., Wall M., Wallis J.M.,
+RA   West A.P., Whitehead S.L., Willey D.L., Williams S.A., Wilming L.,
+RA   Wray P.W., Young L., Ashurst J.L., Coulson A., Blocker H., Durbin R.M.,
+RA   Sulston J.E., Hubbard T., Jackson M.J., Bentley D.R., Beck S., Rogers J.,
+RA   Dunham I.;
+RT   "DNA sequence and analysis of human chromosome 9.";
+RL   Nature 429:369-374(2004).
+RN   [3]
+RP   GENE DUPLICATION.
+RX   PubMed=15820314; DOI=10.1016/j.ygeno.2005.01.002;
+RA   Boyadjiev S.A., South S.T., Radford C.L., Patel A., Zhang G., Hur D.J.,
+RA   Thomas G.H., Gearhart J.P., Stetten G.;
+RT   "A reciprocal translocation 46,XY,t(8;9)(p11.2;q13) in a bladder exstrophy
+RT   patient disrupts CNTNAP3 and presents evidence of a pericentromeric
+RT   duplication on chromosome 9.";
+RL   Genomics 85:622-629(2005).
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Single-pass type I
+CC       membrane protein {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q96NU0-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q96NU0-2; Sequence=VSP_034153, VSP_034154, VSP_034155,
+CC                                  VSP_034156;
+CC   -!- MISCELLANEOUS: The gene encoding CNTNAP3B is the result of a
+CC       pericentromeric duplication of the genomic region encoding CNTNAP3 on
+CC       chromosome 9.
+CC   -!- MISCELLANEOUS: [Isoform 2]: May be produced at very low levels due to a
+CC       premature stop codon in the mRNA, leading to nonsense-mediated mRNA
+CC       decay. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the neurexin family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAI16324.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAI16325.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAI95321.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK054645; BAB70782.1; -; mRNA.
+DR   EMBL; AL953854; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BX664735; CAI16324.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; BX649569; CAI16324.1; JOINED; Genomic_DNA.
+DR   EMBL; CR788268; CAI16324.1; JOINED; Genomic_DNA.
+DR   EMBL; BX664735; CAI16325.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; BX649569; CAI16325.1; JOINED; Genomic_DNA.
+DR   EMBL; CR788268; CAI16325.1; JOINED; Genomic_DNA.
+DR   EMBL; BX664735; CAI16326.1; -; Genomic_DNA.
+DR   EMBL; BX649569; CAI16326.1; JOINED; Genomic_DNA.
+DR   EMBL; CR788268; CAI16326.1; JOINED; Genomic_DNA.
+DR   EMBL; BX664735; CAI95321.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; BX649569; CAI95321.1; JOINED; Genomic_DNA.
+DR   EMBL; CR788268; CAI95321.1; JOINED; Genomic_DNA.
+DR   CCDS; CCDS75836.1; -. [Q96NU0-1]
+DR   RefSeq; NP_001188309.2; NM_001201380.2. [Q96NU0-1]
+DR   AlphaFoldDB; Q96NU0; -.
+DR   SMR; Q96NU0; -.
+DR   IntAct; Q96NU0; 15.
+DR   STRING; 9606.ENSP00000478671; -.
+DR   GlyCosmos; Q96NU0; 3 sites, 2 glycans.
+DR   GlyGen; Q96NU0; 3 sites, 2 O-linked glycans (1 site).
+DR   iPTMnet; Q96NU0; -.
+DR   PhosphoSitePlus; Q96NU0; -.
+DR   BioMuta; CNTNAP3B; -.
+DR   DMDM; 190358858; -.
+DR   EPD; Q96NU0; -.
+DR   MassIVE; Q96NU0; -.
+DR   MaxQB; Q96NU0; -.
+DR   PaxDb; Q96NU0; -.
+DR   PeptideAtlas; Q96NU0; -.
+DR   ProteomicsDB; 77558; -. [Q96NU0-1]
+DR   ProteomicsDB; 77559; -. [Q96NU0-2]
+DR   TopDownProteomics; Q96NU0-2; -. [Q96NU0-2]
+DR   Antibodypedia; 58807; 26 antibodies from 5 providers.
+DR   DNASU; 728577; -.
+DR   Ensembl; ENST00000377561.7; ENSP00000478671.2; ENSG00000154529.15. [Q96NU0-1]
+DR   GeneID; 728577; -.
+DR   KEGG; hsa:728577; -.
+DR   MANE-Select; ENST00000377561.7; ENSP00000478671.2; NM_001201380.3; NP_001188309.2.
+DR   UCSC; uc064thx.1; human. [Q96NU0-1]
+DR   AGR; HGNC:32035; -.
+DR   CTD; 728577; -.
+DR   GeneCards; CNTNAP3B; -.
+DR   HGNC; HGNC:32035; CNTNAP3B.
+DR   HPA; ENSG00000154529; Low tissue specificity.
+DR   neXtProt; NX_Q96NU0; -.
+DR   OpenTargets; ENSG00000154529; -.
+DR   VEuPathDB; HostDB:ENSG00000154529; -.
+DR   eggNOG; KOG3516; Eukaryota.
+DR   GeneTree; ENSGT00940000160228; -.
+DR   HOGENOM; CLU_066153_0_0_1; -.
+DR   InParanoid; Q96NU0; -.
+DR   OMA; HFHAKES; -.
+DR   OrthoDB; 4255614at2759; -.
+DR   PhylomeDB; Q96NU0; -.
+DR   TreeFam; TF321823; -.
+DR   PathwayCommons; Q96NU0; -.
+DR   SignaLink; Q96NU0; -.
+DR   BioGRID-ORCS; 728577; 72 hits in 1042 CRISPR screens.
+DR   ChiTaRS; CNTNAP3B; human.
+DR   GenomeRNAi; 728577; -.
+DR   Pharos; Q96NU0; Tdark.
+DR   PRO; PR:Q96NU0; -.
+DR   Proteomes; UP000005640; Chromosome 9.
+DR   RNAct; Q96NU0; protein.
+DR   Bgee; ENSG00000154529; Expressed in mucosa of stomach and 99 other tissues.
+DR   ExpressionAtlas; Q96NU0; baseline and differential.
+DR   Genevisible; Q96NU0; HS.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   CDD; cd00054; EGF_CA; 1.
+DR   CDD; cd00057; FA58C; 1.
+DR   CDD; cd00110; LamG; 4.
+DR   Gene3D; 2.60.120.1000; -; 1.
+DR   Gene3D; 2.60.120.200; -; 4.
+DR   Gene3D; 2.60.120.260; Galactose-binding domain-like; 1.
+DR   Gene3D; 2.10.25.10; Laminin; 2.
+DR   InterPro; IPR013320; ConA-like_dom_sf.
+DR   InterPro; IPR000742; EGF-like_dom.
+DR   InterPro; IPR000421; FA58C.
+DR   InterPro; IPR036056; Fibrinogen-like_C.
+DR   InterPro; IPR002181; Fibrinogen_a/b/g_C_dom.
+DR   InterPro; IPR008979; Galactose-bd-like_sf.
+DR   InterPro; IPR001791; Laminin_G.
+DR   PANTHER; PTHR15036:SF36; CONTACTIN-ASSOCIATED PROTEIN-LIKE 3-RELATED; 1.
+DR   PANTHER; PTHR15036; PIKACHURIN-LIKE PROTEIN; 1.
+DR   Pfam; PF00754; F5_F8_type_C; 1.
+DR   Pfam; PF02210; Laminin_G_2; 4.
+DR   SMART; SM00181; EGF; 2.
+DR   SMART; SM00231; FA58C; 1.
+DR   SMART; SM00282; LamG; 4.
+DR   SUPFAM; SSF49899; Concanavalin A-like lectins/glucanases; 4.
+DR   SUPFAM; SSF57196; EGF/Laminin; 1.
+DR   SUPFAM; SSF56496; Fibrinogen C-terminal domain-like; 1.
+DR   SUPFAM; SSF49785; Galactose-binding domain-like; 1.
+DR   PROSITE; PS50026; EGF_3; 2.
+DR   PROSITE; PS01285; FA58C_1; 1.
+DR   PROSITE; PS01286; FA58C_2; 1.
+DR   PROSITE; PS50022; FA58C_3; 1.
+DR   PROSITE; PS51406; FIBRINOGEN_C_2; 1.
+DR   PROSITE; PS50025; LAM_G_DOMAIN; 4.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Cell adhesion; Disulfide bond; EGF-like domain;
+KW   Glycoprotein; Membrane; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..25
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           26..1288
+FT                   /note="Contactin-associated protein-like 3B"
+FT                   /id="PRO_0000339353"
+FT   TOPO_DOM        26..1245
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        1246..1266
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1267..1288
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          31..177
+FT                   /note="F5/8 type C"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00081"
+FT   DOMAIN          183..364
+FT                   /note="Laminin G-like 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   DOMAIN          370..545
+FT                   /note="Laminin G-like 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   DOMAIN          547..584
+FT                   /note="EGF-like 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          585..792
+FT                   /note="Fibrinogen C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00739"
+FT   DOMAIN          793..958
+FT                   /note="Laminin G-like 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   DOMAIN          959..997
+FT                   /note="EGF-like 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          1016..1203
+FT                   /note="Laminin G-like 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   REGION          23..61
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1215..1236
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        38..58
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        359
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        706
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        31..177
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        332..364
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        513..545
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        551..562
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        556..571
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        573..583
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        931..958
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        962..975
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        969..984
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        986..996
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        1167..1203
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         493..586
+FT                   /note="GCLGNSSGSGCKSPLGGFQGCLRLITIGDKAVDPILVQQGALGSFRDLQIDS
+FT                   CGITDRCLPSYCEHGGECSQSWDTFSCDCLGTGYTGETCHSS -> A (in isoform
+FT                   2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_034153"
+FT   VAR_SEQ         626
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_034154"
+FT   VAR_SEQ         694..698
+FT                   /note="DGTPL -> GLVTQ (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_034155"
+FT   VAR_SEQ         699..1288
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_034156"
+FT   CONFLICT        33
+FT                   /note="S -> A (in Ref. 1; BAB70782)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        316..317
+FT                   /note="LS -> PT (in Ref. 1; BAB70782)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        414
+FT                   /note="R -> S (in Ref. 1; BAB70782)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        420
+FT                   /note="V -> I (in Ref. 1; BAB70782)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        439
+FT                   /note="P -> L (in Ref. 1; BAB70782)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        652
+FT                   /note="L -> R (in Ref. 1; BAB70782)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1032
+FT                   /note="H -> Y (in Ref. 2; CAI16324/CAI16326)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1051
+FT                   /note="T -> S (in Ref. 2; CAI16324/CAI16326)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1175
+FT                   /note="C -> R (in Ref. 2; CAI16326)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1247
+FT                   /note="I -> M (in Ref. 2; CAI16326)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1254
+FT                   /note="E -> V (in Ref. 2; CAI16326)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1288 AA;  140415 MW;  11852910E1338C58 CRC64;
+     MASVAWAVLK VLLLLPTQTW SPVGAGNPPD CDSPLASALP RSSFSSSSEL SSSHGPGFSR
+     LNRRDGAGGW TPLVSNKYQW LQIDLGERME VTAVATQGGY GSSDWVTSYL LMFSDGGRNW
+     KQYRREESIW GFPGNTNADS VVHYRLQPPF EARFLRFLPL AWNPRGRIGM RIEVYGCAYK
+     SEVVYFDGQS ALLYTLDKKP LKPIRDVISL KFKAMQSNGI LLHREGQHGN HITLELIKGK
+     LVFFLNSGNA KLPSTIAPVT LTLGSLLDDQ HWHSVLIELL DTQVNFTVDK HTHHFQAKGD
+     SSNLDLNFEI SFGGILSPGR SRAFTRKSFH GCLENLYYNG VDVTELAKKH KPQILMMGNV
+     SFSCPQPQTV PVTFLSSRSY LALPGNSGED KVSVTFQFRT WNRAGHLLFG ELQRGSGSFV
+     LFLKDGKLKL SLFQAGQSPR NVTAGAGLND GQWHSVSFSA KWSHMNVVVD DDTAVQPLVA
+     VLIDSGDTYY FGGCLGNSSG SGCKSPLGGF QGCLRLITIG DKAVDPILVQ QGALGSFRDL
+     QIDSCGITDR CLPSYCEHGG ECSQSWDTFS CDCLGTGYTG ETCHSSLYEQ SCEAHKHRGN
+     PSGLYYIDAD GSGPLGPFLV YCNMTADSAW TVVRHGGPDA VTLRGAPSGH PLSAVSFAYA
+     AGAGQLRAAV NLAERCEQRL ALRCGTARRP DSRDGTPLSW WVGRTNETHT SWGGSLPDAQ
+     KCTCGLEGNC IDSQYYCNCD AGQNEWTSDT IVLSQKEHLP VTQIVMTDTG QPHSEADYTL
+     GPLLCRGDKS FWNSASFNTE TSYLHFPAFH GELTADVCFF FKTTVSSGVF MENLGITDFI
+     RIELRAPTEV TFSFDVGNGP CEVTVQSPTP FNDNQWHHVR AERNVKGASL QVDQLPQKMQ
+     PAPADGHVRL QLNSQLFIGG TATRQRGFLG CIRSLQLNGV ALDLEERATV TPGVEPGCAG
+     HCSTYGHLCR NGGRCREKRR GVTCDCAFSA YDGPFCSNEI SAYFATGSSM TYHFQEHYTL
+     SENSSSLVSS LHRDVTLTRE MITLSFRTTR TPSLLLYVSS FYEEYLSVIL ANNGSLQIRY
+     KLDRHQNPDA FTFDFKNMAD GQLHQVKINR EEAVVMVEVN QSAKKQVILS SGTEFNAVKS
+     LILGKVLEAA GADPDTRRAA TSGFTGCLSA VRFGCAAPLK AALRPSGPSR VTVRGHVAPM
+     ARCAAGAASG SPARELAPRL AGGAGRSGPV DEGEPLVNAD RRDSAVIGGV IAVEIFILLC
+     ITAIAIRIYQ QRKLRKENES KVSKKEEC
+//

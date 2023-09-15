@@ -1,0 +1,254 @@
+ID   K1H2_HUMAN              Reviewed;         448 AA.
+AC   Q14532;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   02-NOV-2010, sequence version 3.
+DT   28-JUN-2023, entry version 167.
+DE   RecName: Full=Keratin, type I cuticular Ha2;
+DE   AltName: Full=Hair keratin, type I Ha2;
+DE   AltName: Full=Keratin-32;
+DE            Short=K32;
+GN   Name=KRT32; Synonyms=HHA2, HKA2, KRTHA2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS ASP-151; SER-402 AND
+RP   THR-427.
+RC   TISSUE=Hair;
+RX   PubMed=8823373; DOI=10.1111/1523-1747.ep12584243;
+RA   Rogers M.A., Winter H., Langbein L., Krieg T., Schweizer J.;
+RT   "Genomic characterization of the human type I cuticular hair keratin hHa2
+RT   and identification of an adjacent novel type I hair keratin gene hHa5.";
+RL   J. Invest. Dermatol. 107:633-638(1996).
+RN   [2]
+RP   SEQUENCE REVISION TO N-TERMINUS.
+RA   Rogers M.A.;
+RL   Submitted (OCT-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 35-448, AND VARIANTS ASP-151; SER-402 AND
+RP   THR-427.
+RC   TISSUE=Hair;
+RX   PubMed=7556444; DOI=10.1006/excr.1995.1326;
+RA   Rogers M.A., Nischt R., Korge B., Krieg T., Fink T.M., Lichter P.,
+RA   Winter H., Schweizer J.;
+RT   "Sequence data and chromosomal localization of human type I and type II
+RT   hair keratin genes.";
+RL   Exp. Cell Res. 220:357-362(1995).
+RN   [5]
+RP   VARIANT LYS-89.
+RX   PubMed=23033978; DOI=10.1056/nejmoa1206524;
+RA   de Ligt J., Willemsen M.H., van Bon B.W., Kleefstra T., Yntema H.G.,
+RA   Kroes T., Vulto-van Silfhout A.T., Koolen D.A., de Vries P., Gilissen C.,
+RA   del Rosario M., Hoischen A., Scheffer H., de Vries B.B., Brunner H.G.,
+RA   Veltman J.A., Vissers L.E.;
+RT   "Diagnostic exome sequencing in persons with severe intellectual
+RT   disability.";
+RL   N. Engl. J. Med. 367:1921-1929(2012).
+CC   -!- INTERACTION:
+CC       Q14532; Q86YP4: GATAD2A; NbExp=3; IntAct=EBI-1044146, EBI-726224;
+CC       Q14532; Q9BVG8-5: KIFC3; NbExp=3; IntAct=EBI-1044146, EBI-14069005;
+CC       Q14532; Q14CN4: KRT72; NbExp=3; IntAct=EBI-1044146, EBI-1221280;
+CC       Q14532; Q6KB66-2: KRT80; NbExp=4; IntAct=EBI-1044146, EBI-11999246;
+CC       Q14532; O43790: KRT86; NbExp=3; IntAct=EBI-1044146, EBI-9996498;
+CC       Q14532; Q8IVT4: MGC50722; NbExp=3; IntAct=EBI-1044146, EBI-14086479;
+CC       Q14532; Q14511-2: NEDD9; NbExp=3; IntAct=EBI-1044146, EBI-11746523;
+CC       Q14532; Q9BT92: TCHP; NbExp=3; IntAct=EBI-1044146, EBI-740781;
+CC       Q14532; P57075-2: UBASH3A; NbExp=3; IntAct=EBI-1044146, EBI-7353612;
+CC       Q14532; PRO_0000449633 [P0DTD1]: rep; Xeno; NbExp=3; IntAct=EBI-1044146, EBI-25492395;
+CC   -!- TISSUE SPECIFICITY: Restricted to the hair cuticle.
+CC   -!- MISCELLANEOUS: There are two types of hair/microfibrillar keratin, I
+CC       (acidic) and II (neutral to basic).
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA57179.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X90761; CAA62284.1; -; Genomic_DNA.
+DR   EMBL; AC019349; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; X81419; CAA57179.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS11393.1; -.
+DR   RefSeq; NP_002269.3; NM_002278.3.
+DR   AlphaFoldDB; Q14532; -.
+DR   SMR; Q14532; -.
+DR   BioGRID; 110080; 33.
+DR   IntAct; Q14532; 15.
+DR   MINT; Q14532; -.
+DR   STRING; 9606.ENSP00000225899; -.
+DR   iPTMnet; Q14532; -.
+DR   PhosphoSitePlus; Q14532; -.
+DR   SwissPalm; Q14532; -.
+DR   BioMuta; KRT32; -.
+DR   DMDM; 311033432; -.
+DR   jPOST; Q14532; -.
+DR   MassIVE; Q14532; -.
+DR   PaxDb; Q14532; -.
+DR   PeptideAtlas; Q14532; -.
+DR   PRIDE; Q14532; -.
+DR   ProteomicsDB; 60032; -.
+DR   Antibodypedia; 28850; 67 antibodies from 15 providers.
+DR   DNASU; 3882; -.
+DR   Ensembl; ENST00000225899.4; ENSP00000225899.3; ENSG00000108759.4.
+DR   GeneID; 3882; -.
+DR   KEGG; hsa:3882; -.
+DR   MANE-Select; ENST00000225899.4; ENSP00000225899.3; NM_002278.3; NP_002269.3.
+DR   UCSC; uc002hwr.4; human.
+DR   AGR; HGNC:6449; -.
+DR   CTD; 3882; -.
+DR   DisGeNET; 3882; -.
+DR   GeneCards; KRT32; -.
+DR   HGNC; HGNC:6449; KRT32.
+DR   HPA; ENSG00000108759; Group enriched (esophagus, skin).
+DR   MIM; 602760; gene.
+DR   neXtProt; NX_Q14532; -.
+DR   OpenTargets; ENSG00000108759; -.
+DR   PharmGKB; PA30238; -.
+DR   VEuPathDB; HostDB:ENSG00000108759; -.
+DR   eggNOG; ENOG502SJJS; Eukaryota.
+DR   GeneTree; ENSGT00940000161991; -.
+DR   HOGENOM; CLU_012560_8_0_1; -.
+DR   InParanoid; Q14532; -.
+DR   OMA; WYSEGAF; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; Q14532; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; Q14532; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; Q14532; -.
+DR   BioGRID-ORCS; 3882; 6 hits in 1139 CRISPR screens.
+DR   ChiTaRS; KRT32; human.
+DR   GeneWiki; KRT32; -.
+DR   GenomeRNAi; 3882; -.
+DR   Pharos; Q14532; Tdark.
+DR   PRO; PR:Q14532; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q14532; protein.
+DR   Bgee; ENSG00000108759; Expressed in hair follicle and 43 other tissues.
+DR   Genevisible; Q14532; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005882; C:intermediate filament; IEA:UniProtKB-KW.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0008544; P:epidermis development; TAS:ProtInc.
+DR   GO; GO:0030855; P:epithelial cell differentiation; IBA:GO_Central.
+DR   GO; GO:0045109; P:intermediate filament organization; IBA:GO_Central.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR009030; Growth_fac_rcpt_cys_sf.
+DR   InterPro; IPR018039; IF_conserved.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF155; KERATIN, TYPE I CUTICULAR HA2; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF57184; Growth factor receptor domain; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   PROSITE; PS00226; IF_ROD_1; 1.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil; Intermediate filament; Keratin; Reference proteome.
+FT   CHAIN           1..448
+FT                   /note="Keratin, type I cuticular Ha2"
+FT                   /id="PRO_0000063686"
+FT   DOMAIN          96..407
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          1..96
+FT                   /note="Head"
+FT   REGION          97..131
+FT                   /note="Coil 1A"
+FT   REGION          132..142
+FT                   /note="Linker 1"
+FT   REGION          143..243
+FT                   /note="Coil 1B"
+FT   REGION          244..259
+FT                   /note="Linker 12"
+FT   REGION          260..403
+FT                   /note="Coil 2"
+FT   REGION          404..448
+FT                   /note="Tail"
+FT   SITE            345
+FT                   /note="Stutter"
+FT   VARIANT         72
+FT                   /note="Q -> R (in dbSNP:rs3744786)"
+FT                   /id="VAR_056011"
+FT   VARIANT         89
+FT                   /note="E -> K (in dbSNP:rs565998951)"
+FT                   /evidence="ECO:0000269|PubMed:23033978"
+FT                   /id="VAR_069391"
+FT   VARIANT         151
+FT                   /note="E -> D (in dbSNP:rs1111168)"
+FT                   /evidence="ECO:0000269|PubMed:7556444,
+FT                   ECO:0000269|PubMed:8823373"
+FT                   /id="VAR_060237"
+FT   VARIANT         171
+FT                   /note="I -> T (in dbSNP:rs2071560)"
+FT                   /id="VAR_056012"
+FT   VARIANT         222
+FT                   /note="S -> Y (in dbSNP:rs2071561)"
+FT                   /id="VAR_056013"
+FT   VARIANT         280
+FT                   /note="R -> H (in dbSNP:rs72830046)"
+FT                   /id="VAR_060238"
+FT   VARIANT         339
+FT                   /note="T -> M (in dbSNP:rs16966929)"
+FT                   /id="VAR_056014"
+FT   VARIANT         395
+FT                   /note="T -> M (in dbSNP:rs2071563)"
+FT                   /id="VAR_056015"
+FT   VARIANT         402
+FT                   /note="N -> S (in dbSNP:rs2604955)"
+FT                   /evidence="ECO:0000269|PubMed:7556444,
+FT                   ECO:0000269|PubMed:8823373"
+FT                   /id="VAR_060239"
+FT   VARIANT         427
+FT                   /note="P -> T (in dbSNP:rs2604953)"
+FT                   /evidence="ECO:0000269|PubMed:7556444,
+FT                   ECO:0000269|PubMed:8823373"
+FT                   /id="VAR_060240"
+FT   VARIANT         428
+FT                   /note="R -> C (in dbSNP:rs9893787)"
+FT                   /id="VAR_056016"
+FT   CONFLICT        152
+FT                   /note="E -> Q (in Ref. 1; CAA62284 and 4; CAA57179)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        371
+FT                   /note="D -> E (in Ref. 1; CAA62284 and 4; CAA57179)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   448 AA;  50343 MW;  F223A4F828B7EACB CRC64;
+     MTSSCCVTNN LQASLKSCPR PASVCSSGVN CRPELCLGYV CQPMACLPSV CLPTTFRPAS
+     CLSKTYLSSS CQAASGISGS MGPGSWYSEG AFNGNEKETM QFLNDRLASY LTRVRQLEQE
+     NAELESRIQE ASHSQVLTMT PDYQSHFRTI EELQQKILCT KAENARMVVN IDNAKLAADD
+     FRAKYEAELA MRQLVEADIN GLRRILDDLT LCKADLEAQV ESLKEELMCL KKNHEEEVGS
+     LRCQLGDRLN IEVDAAPPVD LTRVLEEMRC QYEAMVEANR RDVEEWFNMQ MEELNQQVAT
+     SSEQLQNYQS DIIDLRRTVN TLEIELQAQH SLRDSLENTL TESEARYSSQ LAQMQCMITN
+     VEAQLAEIRA DLERQNQEYQ VLLDVRARLE GEINTYRSLL ENEDCKLPCN PCSTPSCTTC
+     VPSPCVPRTV CVPRTVGMPC SPCPQGRY
+//

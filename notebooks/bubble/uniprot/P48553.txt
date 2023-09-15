@@ -1,0 +1,367 @@
+ID   TPC10_HUMAN             Reviewed;        1259 AA.
+AC   P48553; Q3MIR2; Q86SI7; Q9UMD4; Q9Y4L3;
+DT   01-FEB-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2000, sequence version 2.
+DT   28-JUN-2023, entry version 192.
+DE   RecName: Full=Trafficking protein particle complex subunit 10;
+DE   AltName: Full=Epilepsy holoprosencephaly candidate 1 protein;
+DE            Short=EHOC-1;
+DE   AltName: Full=Protein GT334;
+DE   AltName: Full=Trafficking protein particle complex subunit TMEM1;
+DE   AltName: Full=Transport protein particle subunit TMEM1;
+DE            Short=TRAPP subunit TMEM1;
+GN   Name=TRAPPC10; Synonyms=EHOC1, TMEM1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=7633421; DOI=10.1093/hmg/4.4.709;
+RA   Yamakawa K., Mitchell S., Hubert R., Chen X.-N., Colbern S., Huo Y.-K.,
+RA   Gadomski C., Kim U.-J., Korenberg J.R.;
+RT   "Isolation and characterization of a candidate gene for progressive
+RT   myoclonus epilepsy on 21q22.3.";
+RL   Hum. Mol. Genet. 4:709-716(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9196060; DOI=10.1006/bbrc.1997.6758;
+RA   Nagamine K., Kudoh J., Kawasaki K., Minoshima S., Asakawa S., Ito F.,
+RA   Shimizu N.;
+RT   "Genomic organization and complete nucleotide sequence of the TMEM1 gene on
+RT   human chromosome 21q22.3.";
+RL   Biochem. Biophys. Res. Commun. 235:185-190(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 1), AND VARIANTS GLU-257;
+RP   MET-633 AND MET-726.
+RX   PubMed=9370297; DOI=10.1016/s0378-1119(97)00333-8;
+RA   Lafreniere R.G., Kibar Z., Rochefort D.L., Han F.-Y., Fon E.A., Dube M.-P.,
+RA   Kang X., Baird S., Korneluk R.G., Rommens J.M., Rouleau G.A.;
+RT   "Genomic structure of the human GT334 (EHOC-1) gene mapping to 21q22.3.";
+RL   Gene 198:313-321(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10830953; DOI=10.1038/35012518;
+RA   Hattori M., Fujiyama A., Taylor T.D., Watanabe H., Yada T., Park H.-S.,
+RA   Toyoda A., Ishii K., Totoki Y., Choi D.-K., Groner Y., Soeda E., Ohki M.,
+RA   Takagi T., Sakaki Y., Taudien S., Blechschmidt K., Polley A., Menzel U.,
+RA   Delabar J., Kumpf K., Lehmann R., Patterson D., Reichwald K., Rump A.,
+RA   Schillhabel M., Schudy A., Zimmermann W., Rosenthal A., Kudoh J.,
+RA   Shibuya K., Kawasaki K., Asakawa S., Shintani A., Sasaki T., Nagamine K.,
+RA   Mitsuyama S., Antonarakis S.E., Minoshima S., Shimizu N., Nordsiek G.,
+RA   Hornischer K., Brandt P., Scharfe M., Schoen O., Desario A., Reichelt J.,
+RA   Kauer G., Bloecker H., Ramser J., Beck A., Klages S., Hennig S.,
+RA   Riesselmann L., Dagand E., Wehrmeyer S., Borzym K., Gardiner K.,
+RA   Nizetic D., Francis F., Lehrach H., Reinhardt R., Yaspo M.-L.;
+RT   "The DNA sequence of human chromosome 21.";
+RL   Nature 405:311-319(2000).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Lymph;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   IDENTIFICATION IN TRAPP COMPLEX, AND FUNCTION.
+RX   PubMed=11805826; DOI=10.1038/415141a;
+RA   Gavin A.-C., Boesche M., Krause R., Grandi P., Marzioch M., Bauer A.,
+RA   Schultz J., Rick J.M., Michon A.-M., Cruciat C.-M., Remor M., Hoefert C.,
+RA   Schelder M., Brajenovic M., Ruffner H., Merino A., Klein K., Hudak M.,
+RA   Dickson D., Rudi T., Gnau V., Bauch A., Bastuck S., Huhse B., Leutwein C.,
+RA   Heurtier M.-A., Copley R.R., Edelmann A., Querfurth E., Rybin V.,
+RA   Drewes G., Raida M., Bouwmeester T., Bork P., Seraphin B., Kuster B.,
+RA   Neubauer G., Superti-Furga G.;
+RT   "Functional organization of the yeast proteome by systematic analysis of
+RT   protein complexes.";
+RL   Nature 415:141-147(2002).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [8]
+RP   IDENTIFICATION IN TRAPP COMPLEX.
+RX   PubMed=21525244; DOI=10.1091/mbc.e10-11-0873;
+RA   Scrivens P.J., Noueihed B., Shahrzad N., Hul S., Brunet S., Sacher M.;
+RT   "C4orf41 and TTC-15 are mammalian TRAPP components with a role at an early
+RT   stage in ER-to-Golgi trafficking.";
+RL   Mol. Biol. Cell 22:2083-2093(2011).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-708, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [11]
+RP   INVOLVEMENT IN NEDMISS, AND VARIANT NEDMISS LEU-929.
+RX   PubMed=30167849; DOI=10.1007/s00439-018-1928-6;
+RA   Santos-Cortez R.L.P., Khan V., Khan F.S., Mughal Z.U., Chakchouk I.,
+RA   Lee K., Rasheed M., Hamza R., Acharya A., Ullah E., Saqib M.A.N., Abbe I.,
+RA   Ali G., Hassan M.J., Khan S., Azeem Z., Ullah I., Bamshad M.J.,
+RA   Nickerson D.A., Schrauwen I., Ahmad W., Ansar M., Leal S.M.;
+RT   "Novel candidate genes and variants underlying autosomal recessive
+RT   neurodevelopmental disorders with intellectual disability.";
+RL   Hum. Genet. 137:735-752(2018).
+RN   [12]
+RP   IDENTIFICATION IN THE TRAPP II COMPLEX, FUNCTION, AND INTERACTION WITH
+RP   TRAPPC14.
+RX   PubMed=31467083; DOI=10.1074/jbc.ra119.008615;
+RA   Cuenca A., Insinna C., Zhao H., John P., Weiss M.A., Lu Q., Walia V.,
+RA   Specht S., Manivannan S., Stauffer J., Peden A.A., Westlake C.J.;
+RT   "The C7orf43/TRAPPC14 component links the TRAPPII complex to Rabin8 for
+RT   preciliary vesicle tethering at the mother centriole during ciliogenesis.";
+RL   J. Biol. Chem. 294:15418-15434(2019).
+RN   [13]
+RP   CHARACTERIZATION VARIANT NEDMISS LEU-929, AND FUNCTION.
+RX   PubMed=35298461; DOI=10.1371/journal.pgen.1010114;
+RA   Rawlins L.E., Almousa H., Khan S., Collins S.C., Milev M.P., Leslie J.,
+RA   Saint-Dic D., Khan V., Hincapie A.M., Day J.O., McGavin L., Rowley C.,
+RA   Harlalka G.V., Vancollie V.E., Ahmad W., Lelliott C.J., Gul A., Yalcin B.,
+RA   Crosby A.H., Sacher M., Baple E.L.;
+RT   "Biallelic variants in TRAPPC10 cause a microcephalic TRAPPopathy disorder
+RT   in humans and mice.";
+RL   PLoS Genet. 18:e1010114-e1010114(2022).
+CC   -!- FUNCTION: Specific subunit of the TRAPP (transport protein particle) II
+CC       complex, a highly conserved vesicle tethering complex that functions in
+CC       late Golgi trafficking as a membrane tether.
+CC       {ECO:0000269|PubMed:11805826, ECO:0000269|PubMed:31467083,
+CC       ECO:0000269|PubMed:35298461}.
+CC   -!- SUBUNIT: Specific component of the multisubunit TRAPP II complex, which
+CC       includes at least TRAPPC1, TRAPPC2, TRAPPC3, TRAPPC4, TRAPPC5,
+CC       TRAPPC6A/B, TRAPPC9, TRAPPC10 and TRAPPC14. TRAPPC9, TRAPPC10 and
+CC       TRAPPC14 are specific subunits of the TRAPP II complex
+CC       (PubMed:31467083, PubMed:21525244, PubMed:11805826). Interacts with
+CC       TRAPPC14 (PubMed:31467083). {ECO:0000269|PubMed:11805826,
+CC       ECO:0000269|PubMed:21525244, ECO:0000269|PubMed:31467083}.
+CC   -!- INTERACTION:
+CC       P48553; Q96QF0: RAB3IP; NbExp=7; IntAct=EBI-6160572, EBI-747844;
+CC   -!- SUBCELLULAR LOCATION: Golgi apparatus, cis-Golgi network {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P48553-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P48553-2; Sequence=VSP_056589, VSP_056590;
+CC   -!- TISSUE SPECIFICITY: Expressed in all tissues examined.
+CC   -!- DISEASE: Neurodevelopmental disorder with microcephaly, short stature,
+CC       and speech delay (NEDMISS) [MIM:620027]: An autosomal recessive
+CC       disorder characterized by global developmental delay, short stature,
+CC       severely impaired intellectual development, microcephaly, poor or
+CC       absent speech, and behavioral abnormalities including autistic features
+CC       and aggressive behavior. {ECO:0000269|PubMed:30167849,
+CC       ECO:0000269|PubMed:35298461}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the TRAPPC10 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAC50134.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U19252; AAC50134.1; ALT_FRAME; mRNA.
+DR   EMBL; AB001523; BAA21099.1; -; Genomic_DNA.
+DR   EMBL; U61500; AAC51826.1; -; mRNA.
+DR   EMBL; U61520; AAB58468.1; -; Genomic_DNA.
+DR   EMBL; U61501; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61502; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61503; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61504; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61505; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61506; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61507; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61508; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61509; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61510; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61511; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61512; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61513; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61514; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61515; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61516; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61517; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61518; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; U61519; AAB58468.1; JOINED; Genomic_DNA.
+DR   EMBL; AB001517; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC046241; AAH46241.1; -; mRNA.
+DR   EMBL; BC052247; AAH52247.1; -; mRNA.
+DR   EMBL; BC094823; AAH94823.1; -; mRNA.
+DR   EMBL; BC101728; AAI01729.1; -; mRNA.
+DR   CCDS; CCDS13704.1; -. [P48553-1]
+DR   PIR; JC5523; JC5523.
+DR   RefSeq; NP_003265.3; NM_003274.4. [P48553-1]
+DR   RefSeq; XP_016855323.1; XM_016999834.1.
+DR   AlphaFoldDB; P48553; -.
+DR   BioGRID; 112964; 105.
+DR   ComplexPortal; CPX-4749; TRAPP II complex, TRAPPC2 variant.
+DR   ComplexPortal; CPX-6902; TRAPP II complex, TRAPPC2B variant.
+DR   CORUM; P48553; -.
+DR   DIP; DIP-48281N; -.
+DR   IntAct; P48553; 33.
+DR   MINT; P48553; -.
+DR   STRING; 9606.ENSP00000291574; -.
+DR   iPTMnet; P48553; -.
+DR   PhosphoSitePlus; P48553; -.
+DR   BioMuta; TRAPPC10; -.
+DR   DMDM; 12644285; -.
+DR   EPD; P48553; -.
+DR   jPOST; P48553; -.
+DR   MassIVE; P48553; -.
+DR   MaxQB; P48553; -.
+DR   PaxDb; P48553; -.
+DR   PeptideAtlas; P48553; -.
+DR   ProteomicsDB; 55909; -. [P48553-1]
+DR   ProteomicsDB; 69592; -.
+DR   Antibodypedia; 24094; 144 antibodies from 21 providers.
+DR   DNASU; 7109; -.
+DR   Ensembl; ENST00000291574.9; ENSP00000291574.4; ENSG00000160218.13. [P48553-1]
+DR   Ensembl; ENST00000380221.7; ENSP00000369570.3; ENSG00000160218.13. [P48553-2]
+DR   GeneID; 7109; -.
+DR   KEGG; hsa:7109; -.
+DR   MANE-Select; ENST00000291574.9; ENSP00000291574.4; NM_003274.5; NP_003265.3.
+DR   UCSC; uc002zdz.4; human. [P48553-1]
+DR   AGR; HGNC:11868; -.
+DR   CTD; 7109; -.
+DR   DisGeNET; 7109; -.
+DR   GeneCards; TRAPPC10; -.
+DR   HGNC; HGNC:11868; TRAPPC10.
+DR   HPA; ENSG00000160218; Low tissue specificity.
+DR   MalaCards; TRAPPC10; -.
+DR   MIM; 602103; gene.
+DR   MIM; 620027; phenotype.
+DR   neXtProt; NX_P48553; -.
+DR   OpenTargets; ENSG00000160218; -.
+DR   Orphanet; 2512; Autosomal recessive primary microcephaly.
+DR   PharmGKB; PA162406870; -.
+DR   VEuPathDB; HostDB:ENSG00000160218; -.
+DR   eggNOG; KOG1931; Eukaryota.
+DR   GeneTree; ENSGT00390000003873; -.
+DR   HOGENOM; CLU_006893_0_0_1; -.
+DR   InParanoid; P48553; -.
+DR   OMA; TKVHENP; -.
+DR   OrthoDB; 593347at2759; -.
+DR   PhylomeDB; P48553; -.
+DR   TreeFam; TF320954; -.
+DR   PathwayCommons; P48553; -.
+DR   Reactome; R-HSA-204005; COPII-mediated vesicle transport.
+DR   Reactome; R-HSA-8876198; RAB GEFs exchange GTP for GDP on RABs.
+DR   SignaLink; P48553; -.
+DR   BioGRID-ORCS; 7109; 19 hits in 1151 CRISPR screens.
+DR   ChiTaRS; TRAPPC10; human.
+DR   GeneWiki; TMEM1; -.
+DR   GenomeRNAi; 7109; -.
+DR   Pharos; P48553; Tbio.
+DR   PRO; PR:P48553; -.
+DR   Proteomes; UP000005640; Chromosome 21.
+DR   RNAct; P48553; protein.
+DR   Bgee; ENSG00000160218; Expressed in bone marrow cell and 123 other tissues.
+DR   ExpressionAtlas; P48553; baseline and differential.
+DR   Genevisible; P48553; HS.
+DR   GO; GO:0005737; C:cytoplasm; NAS:ComplexPortal.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0030008; C:TRAPP complex; IDA:UniProtKB.
+DR   GO; GO:1990071; C:TRAPPII protein complex; IBA:GO_Central.
+DR   GO; GO:0034498; P:early endosome to Golgi transport; IBA:GO_Central.
+DR   GO; GO:0006888; P:endoplasmic reticulum to Golgi vesicle-mediated transport; NAS:ComplexPortal.
+DR   GO; GO:0006891; P:intra-Golgi vesicle-mediated transport; IMP:UniProtKB.
+DR   GO; GO:0006901; P:vesicle coating; NAS:ComplexPortal.
+DR   GO; GO:0099022; P:vesicle tethering; NAS:ComplexPortal.
+DR   InterPro; IPR022233; TRAPP_II_complex_TRAPPC10_C.
+DR   InterPro; IPR045126; TRAPPC10/Trs130.
+DR   PANTHER; PTHR13251; EPILEPSY HOLOPROSENCEPHALY CANDIDATE 1/TMEM1; 1.
+DR   PANTHER; PTHR13251:SF3; TRAFFICKING PROTEIN PARTICLE COMPLEX SUBUNIT 10; 1.
+DR   Pfam; PF12584; TRAPPC10; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Autism spectrum disorder; Disease variant; Dwarfism;
+KW   Epilepsy; ER-Golgi transport; Golgi apparatus; Intellectual disability;
+KW   Phosphoprotein; Reference proteome; Transport.
+FT   CHAIN           1..1259
+FT                   /note="Trafficking protein particle complex subunit 10"
+FT                   /id="PRO_0000193509"
+FT   REGION          1189..1222
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         708
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         264..276
+FT                   /note="DGANWLTFFCQPV -> GIKCPFHNSVACW (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_056589"
+FT   VAR_SEQ         277..1259
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_056590"
+FT   VARIANT         257
+FT                   /note="V -> E"
+FT                   /evidence="ECO:0000269|PubMed:9370297"
+FT                   /id="VAR_009514"
+FT   VARIANT         633
+FT                   /note="I -> M (in dbSNP:rs915877)"
+FT                   /evidence="ECO:0000269|PubMed:9370297"
+FT                   /id="VAR_009515"
+FT   VARIANT         726
+FT                   /note="V -> M (in dbSNP:rs2071152)"
+FT                   /evidence="ECO:0000269|PubMed:9370297"
+FT                   /id="VAR_009516"
+FT   VARIANT         929
+FT                   /note="P -> L (in NEDMISS; unable to rescue intra-Golgi
+FT                   vesicle-mediated transport defects in gene-null cells)"
+FT                   /evidence="ECO:0000269|PubMed:30167849,
+FT                   ECO:0000269|PubMed:35298461"
+FT                   /id="VAR_084045"
+FT   CONFLICT        114
+FT                   /note="V -> A (in Ref. 3; AAB58468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        121
+FT                   /note="V -> A (in Ref. 3; AAB58468)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        813
+FT                   /note="Y -> D (in Ref. 1; AAC50134)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        910
+FT                   /note="K -> Q (in Ref. 3; AAC51826/AAB58468)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1259 AA;  142189 MW;  E8AB6847C9C6FE0C CRC64;
+     MDASEEPLPP VIYTMENKPI VTCAGDQNLF TSVYPTLSQQ LPREPMEWRR SYGRAPKMIH
+     LESNFVQFKE ELLPKEGNKA LLTFPFLHIY WTECCDTEVY KATVKDDLTK WQNVLKAHSS
+     VDWLIVIVEN DAKKKNKTNI LPRTSIVDKI RNDFCNKQSD RCVVLSDPLK DSSRTQESWN
+     AFLTKLRTLL LMSFTKNLGK FEDDMRTLRE KRTEPGWSFC EYFMVQEELA FVFEMLQQFE
+     DALVQYDELD ALFSQYVVNF GAGDGANWLT FFCQPVKSWN GLILRKPIDM EKRESIQRRE
+     ATLLDLRSYL FSRQCTLLLF LQRPWEVAQR ALELLHNCVQ ELKLLEVSVP PGALDCWVFL
+     SCLEVLQRIE GCCDRAQIDS NIAHTVGLWS YATEKLKSLG YLCGLVSEKG PNSEDLNRTV
+     DLLAGLGAER PETANTAQSP YKKLKEALSS VEAFEKHYLD LSHATIEMYT SIGRIRSAKF
+     VGKDLAEFYM RKKAPQKAEI YLQGALKNYL AEGWALPITH TRKQLAECQK HLGQIENYLQ
+     TSSLLASDHH LTEEERKHFC QEILDFASQP SDSPGHKIVL PMHSFAQLRD LHFDPSNAVV
+     HVGGVLCVEI TMYSQMPVPV HVEQIVVNVH FSIEKNSYRK TAEWLTKHKT SNGIINFPPE
+     TAPFPVSQNS LPALELYEMF ERSPSDNSLN TTGIICRNVH MLLRRQESSS SLEMPSGVAL
+     EEGAHVLRCS HVTLEPGANQ ITFRTQAKEP GTYTLRQLCA SVGSVWFVLP HIYPIVQYDV
+     YSQEPQLHVE PLADSLLAGI PQRVKFTVTT GHYTIKNGDS LQLSNAEAML ILCQAESRAV
+     VYSNTREQSS EAALRIQSSD KVTSISLPVA PAYHVIEFEL EVLSLPSAPA LGGESDMLGM
+     AEPHRKHKDK QRTGRCMVTT DHKVSIDCPW SIYSTVIALT FSVPFRTTHS LLSSGTRKYV
+     QVCVQNLSEL DFQLSDSYLV DTGDSTDLQL VPLNTQSQQP IYSKQSVFFV WELKWTEEPP
+     PSLHCRFSVG FSPASEEQLS ISLKPYTYEF KVENFFTLYN VKAEIFPPSG MEYCRTGSLC
+     SLEVLITRLS DLLEVDKDEA LTESDEHFST KLMYEVVDNS SNWAVCGKSC GVISMPVAAR
+     ATHRVHMEVM PLFAGYLPLP DVRLFKYLPH HSAHSSQLDA DSWIENDSLS VDKHGDDQPD
+     SSSLKSRGSV HSACSSEHKG LPMPRLQALP AGQVFNSSSG TQVLVIPSQD DHVLEVSVT
+//

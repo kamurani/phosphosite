@@ -1,0 +1,288 @@
+ID   HS74L_HUMAN             Reviewed;         839 AA.
+AC   O95757; A2ICT2; Q4W5M5; Q8IWA2;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   02-NOV-2010, sequence version 3.
+DT   28-JUN-2023, entry version 191.
+DE   RecName: Full=Heat shock 70 kDa protein 4L;
+DE   AltName: Full=Heat shock 70-related protein APG-1;
+DE   AltName: Full=Heat-shock protein family A member 4-like protein;
+DE            Short=HSPA4-like protein;
+DE   AltName: Full=Osmotic stress protein 94;
+GN   Name=HSPA4L; Synonyms=APG1, OSP94;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT SER-211.
+RC   TISSUE=Testis;
+RX   PubMed=10524232; DOI=10.1016/s0378-1119(99)00325-x;
+RA   Nonoguchi K., Itoh K., Xue J.H., Tokuchi H., Nishiyama H., Kaneko Y.,
+RA   Tatsumi K., Okuno H., Tomiwa K., Fujita J.;
+RT   "Cloning of human cDNAs for Apg-1 and Apg-2, members of the Hsp110 family,
+RT   and chromosomal assignment of their genes.";
+RL   Gene 237:21-28(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND INDUCTION.
+RC   TISSUE=Heart;
+RX   PubMed=19169850; DOI=10.1007/s12033-009-9144-1;
+RA   Mala J.G., Takeuchi S.;
+RT   "Molecular cloning of OSP94: A significant biomarker protein of
+RT   hypertensive human heart and a member of HSP110 family.";
+RL   Mol. Biotechnol. 42:175-194(2009).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-761, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-74; SER-508 AND SER-579, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+CC   -!- FUNCTION: Possesses chaperone activity in vitro where it inhibits
+CC       aggregation of citrate synthase. {ECO:0000250}.
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Nucleus {ECO:0000250}.
+CC       Note=May translocate to the nucleus after heat shock. {ECO:0000250}.
+CC   -!- INDUCTION: By heat shock and osmotic imbalance.
+CC       {ECO:0000269|PubMed:19169850}.
+CC   -!- SIMILARITY: Belongs to the heat shock protein 70 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB023421; BAA75063.1; -; mRNA.
+DR   EMBL; EF197155; ABM69040.1; -; mRNA.
+DR   EMBL; AC093591; AAY40975.1; -; Genomic_DNA.
+DR   EMBL; CH471056; EAX05198.1; -; Genomic_DNA.
+DR   EMBL; BC040560; AAH40560.1; -; mRNA.
+DR   CCDS; CCDS3734.1; -.
+DR   RefSeq; NP_001304310.1; NM_001317381.1.
+DR   RefSeq; NP_001304311.1; NM_001317382.1.
+DR   RefSeq; NP_001304312.1; NM_001317383.1.
+DR   RefSeq; NP_055093.2; NM_014278.3.
+DR   AlphaFoldDB; O95757; -.
+DR   SMR; O95757; -.
+DR   BioGRID; 116500; 222.
+DR   IntAct; O95757; 68.
+DR   MINT; O95757; -.
+DR   STRING; 9606.ENSP00000296464; -.
+DR   GlyCosmos; O95757; 1 site, 1 glycan.
+DR   GlyGen; O95757; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; O95757; -.
+DR   MetOSite; O95757; -.
+DR   PhosphoSitePlus; O95757; -.
+DR   SwissPalm; O95757; -.
+DR   BioMuta; HSPA4L; -.
+DR   REPRODUCTION-2DPAGE; IPI00295485; -.
+DR   EPD; O95757; -.
+DR   jPOST; O95757; -.
+DR   MassIVE; O95757; -.
+DR   MaxQB; O95757; -.
+DR   PaxDb; O95757; -.
+DR   PeptideAtlas; O95757; -.
+DR   ProteomicsDB; 51027; -.
+DR   Antibodypedia; 26922; 172 antibodies from 28 providers.
+DR   DNASU; 22824; -.
+DR   Ensembl; ENST00000296464.9; ENSP00000296464.3; ENSG00000164070.12.
+DR   Ensembl; ENST00000508776.5; ENSP00000422482.1; ENSG00000164070.12.
+DR   GeneID; 22824; -.
+DR   KEGG; hsa:22824; -.
+DR   MANE-Select; ENST00000296464.9; ENSP00000296464.3; NM_014278.4; NP_055093.2.
+DR   UCSC; uc003ifm.4; human.
+DR   AGR; HGNC:17041; -.
+DR   CTD; 22824; -.
+DR   DisGeNET; 22824; -.
+DR   GeneCards; HSPA4L; -.
+DR   HGNC; HGNC:17041; HSPA4L.
+DR   HPA; ENSG00000164070; Tissue enhanced (testis).
+DR   MIM; 619077; gene.
+DR   neXtProt; NX_O95757; -.
+DR   OpenTargets; ENSG00000164070; -.
+DR   PharmGKB; PA134905749; -.
+DR   VEuPathDB; HostDB:ENSG00000164070; -.
+DR   eggNOG; KOG0103; Eukaryota.
+DR   GeneTree; ENSGT00940000158736; -.
+DR   HOGENOM; CLU_005965_5_1_1; -.
+DR   InParanoid; O95757; -.
+DR   OMA; NMLSHAY; -.
+DR   OrthoDB; 276440at2759; -.
+DR   PhylomeDB; O95757; -.
+DR   TreeFam; TF105043; -.
+DR   PathwayCommons; O95757; -.
+DR   Reactome; R-HSA-3371453; Regulation of HSF1-mediated heat shock response.
+DR   SignaLink; O95757; -.
+DR   BioGRID-ORCS; 22824; 11 hits in 1156 CRISPR screens.
+DR   ChiTaRS; HSPA4L; human.
+DR   GeneWiki; HSPA4L; -.
+DR   GenomeRNAi; 22824; -.
+DR   Pharos; O95757; Tbio.
+DR   PRO; PR:O95757; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; O95757; protein.
+DR   Bgee; ENSG00000164070; Expressed in sperm and 166 other tissues.
+DR   ExpressionAtlas; O95757; baseline and differential.
+DR   Genevisible; O95757; HS.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; ISS:UniProtKB.
+DR   GO; GO:0140662; F:ATP-dependent protein folding chaperone; IEA:InterPro.
+DR   GO; GO:0006457; P:protein folding; ISS:UniProtKB.
+DR   GO; GO:0006986; P:response to unfolded protein; ISS:UniProtKB.
+DR   CDD; cd11738; HSPA4L_NBD; 1.
+DR   Gene3D; 1.20.1270.10; -; 2.
+DR   Gene3D; 3.30.30.30; -; 1.
+DR   Gene3D; 3.30.420.40; -; 2.
+DR   InterPro; IPR043129; ATPase_NBD.
+DR   InterPro; IPR018181; Heat_shock_70_CS.
+DR   InterPro; IPR029048; HSP70_C_sf.
+DR   InterPro; IPR029047; HSP70_peptide-bd_sf.
+DR   InterPro; IPR013126; Hsp_70_fam.
+DR   InterPro; IPR042708; HSPA4L_NBD.
+DR   PANTHER; PTHR45639:SF5; HEAT SHOCK 70 KDA PROTEIN 4L; 1.
+DR   PANTHER; PTHR45639; HSC70CB, ISOFORM G-RELATED; 1.
+DR   Pfam; PF00012; HSP70; 2.
+DR   PRINTS; PR00301; HEATSHOCK70.
+DR   SUPFAM; SSF53067; Actin-like ATPase domain; 2.
+DR   SUPFAM; SSF100934; Heat shock protein 70kD (HSP70), C-terminal subdomain; 2.
+DR   SUPFAM; SSF100920; Heat shock protein 70kD (HSP70), peptide-binding domain; 1.
+DR   PROSITE; PS01036; HSP70_3; 1.
+PE   1: Evidence at protein level;
+KW   ATP-binding; Chaperone; Cytoplasm; Nucleotide-binding; Nucleus;
+KW   Phosphoprotein; Reference proteome; Stress response.
+FT   CHAIN           1..839
+FT                   /note="Heat shock 70 kDa protein 4L"
+FT                   /id="PRO_0000078280"
+FT   REGION          503..567
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          786..839
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        791..805
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        807..821
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        822..839
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         74
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         508
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         545
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:P48722"
+FT   MOD_RES         579
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         761
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:17525332"
+FT   VARIANT         211
+FT                   /note="L -> S (in dbSNP:rs1380154)"
+FT                   /evidence="ECO:0000269|PubMed:10524232"
+FT                   /id="VAR_025405"
+FT   VARIANT         216
+FT                   /note="N -> T (in dbSNP:rs12507229)"
+FT                   /id="VAR_031214"
+FT   VARIANT         601
+FT                   /note="I -> T (in dbSNP:rs35518193)"
+FT                   /id="VAR_055966"
+FT   CONFLICT        806
+FT                   /note="H -> R (in Ref. 1; BAA75063)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   839 AA;  94512 MW;  549933AECFF4369A CRC64;
+     MSVVGIDLGF LNCYIAVARS GGIETIANEY SDRCTPACIS LGSRTRAIGN AAKSQIVTNV
+     RNTIHGFKKL HGRSFDDPIV QTERIRLPYE LQKMPNGSAG VKVRYLEEER PFAIEQVTGM
+     LLAKLKETSE NALKKPVADC VISIPSFFTD AERRSVMAAA QVAGLNCLRL MNETTAVALA
+     YGIYKQDLPP LDEKPRNVVF IDMGHSAYQV LVCAFNKGKL KVLATTFDPY LGGRNFDEAL
+     VDYFCDEFKT KYKINVKENS RALLRLYQEC EKLKKLMSAN ASDLPLNIEC FMNDLDVSSK
+     MNRAQFEQLC ASLLARVEPP LKAVMEQANL QREDISSIEI VGGATRIPAV KEQITKFFLK
+     DISTTLNADE AVARGCALQC AILSPAFKVR EFSITDLVPY SITLRWKTSF EDGSGECEVF
+     CKNHPAPFSK VITFHKKEPF ELEAFYTNLH EVPYPDARIG SFTIQNVFPQ SDGDSSKVKV
+     KVRVNIHGIF SVASASVIEK QNLEGDHSDA PMETETSFKN ENKDNMDKMQ VDQEEGHQKC
+     HAEHTPEEEI DHTGAKTKSA VSDKQDRLNQ TLKKGKVKSI DLPIQSSLCR QLGQDLLNSY
+     IENEGKMIMQ DKLEKERNDA KNAVEEYVYD FRDRLGTVYE KFITPEDLSK LSAVLEDTEN
+     WLYEDGEDQP KQVYVDKLQE LKKYGQPIQM KYMEHEERPK ALNDLGKKIQ LVMKVIEAYR
+     NKDERYDHLD PTEMEKVEKC ISDAMSWLNS KMNAQNKLSL TQDPVVKVSE IVAKSKELDN
+     FCNPIIYKPK PKAEVPEDKP KANSEHNGPM DGQSGTETKS DSTKDSSQHT KSSGEMEVD
+//

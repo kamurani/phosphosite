@@ -1,0 +1,382 @@
+ID   NKX31_HUMAN             Reviewed;         234 AA.
+AC   Q99801; O15465; Q9H2P4; Q9H2P5; Q9H2P6; Q9H2P7; Q9HBG0;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   26-SEP-2001, sequence version 2.
+DT   28-JUN-2023, entry version 198.
+DE   RecName: Full=Homeobox protein Nkx-3.1 {ECO:0000303|PubMed:9226374};
+DE   AltName: Full=Homeobox protein NK-3 homolog A {ECO:0000303|PubMed:11137288};
+GN   Name=NKX3-1 {ECO:0000312|HGNC:HGNC:7838};
+GN   Synonyms=NKX3.1 {ECO:0000303|PubMed:9226374}, NKX3A
+GN   {ECO:0000303|PubMed:11137288};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, AND INDUCTION
+RP   BY ANDROGENS.
+RC   TISSUE=Prostate;
+RX   PubMed=9226374; DOI=10.1006/geno.1997.4715;
+RA   He W.-W., Sciavolino P.J., Wing J., Augustus M., Hudson P., Meissner P.S.,
+RA   Curtis R.T., Shell B.K., Bostwick D.G., Tindall D.J., Gelmann E.P.,
+RA   Abate-Shen C., Carter K.C.;
+RT   "A novel human prostate-specific, androgen-regulated homeobox gene (NKX3.1)
+RT   that maps to 8p21, a region frequently deleted in prostate cancer.";
+RL   Genomics 43:69-77(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, AND INDUCTION
+RP   BY ANDROGENS.
+RX   PubMed=9537602;
+RX   DOI=10.1002/(sici)1097-0045(19980401)35:1<71::aid-pros10>3.0.co;2-h;
+RA   Prescott J.L., Blok L., Tindall D.J.;
+RT   "Isolation and androgen regulation of the human homeobox cDNA, NKX3.1.";
+RL   Prostate 35:71-80(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2; 3; 4 AND 5), SUBCELLULAR
+RP   LOCATION, AND INDUCTION BY ESTROGENS.
+RC   TISSUE=Prostate;
+RX   PubMed=11137288; DOI=10.1016/s0378-1119(00)00453-4;
+RA   Korkmaz K.S., Korkmaz C.G., Ragnhildstveit E., Kizildag S., Pretlow T.G.,
+RA   Saatcioglu F.;
+RT   "Full-length cDNA sequence and genomic organization of human NKX3A
+RT   -- alternative mRNA forms and regulation by both androgens and estrogens.";
+RL   Gene 260:25-36(2000).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   INTERACTION WITH SPDEF.
+RX   PubMed=11809674;
+RA   Chen H., Nandi A.K., Li X., Bieberich C.J.;
+RT   "NKX-3.1 interacts with prostate-derived Ets factor and regulates the
+RT   activity of the PSA promoter.";
+RL   Cancer Res. 62:338-340(2002).
+RN   [6]
+RP   INTERACTION WITH WDR77.
+RX   PubMed=12972618; DOI=10.1128/mcb.23.19.7019-7029.2003;
+RA   Hosohata K., Li P., Hosohata Y., Qin J., Roeder R.G., Wang Z.;
+RT   "Purification and identification of a novel complex which is involved in
+RT   androgen receptor-dependent transcription.";
+RL   Mol. Cell. Biol. 23:7019-7029(2003).
+RN   [7]
+RP   INTERACTION WITH TOPORS, AND UBIQUITINATION BY TOPORS.
+RX   PubMed=18077445; DOI=10.1074/jbc.m708630200;
+RA   Guan B., Pungaliya P., Li X., Uquillas C., Mutton L.N., Rubin E.H.,
+RA   Bieberich C.J.;
+RT   "Ubiquitination by TOPORS regulates the prostate tumor suppressor NKX3.1.";
+RL   J. Biol. Chem. 283:4834-4840(2008).
+RN   [8]
+RP   FUNCTION AS TUMOR SUPPRESSOR.
+RX   PubMed=19462257; DOI=10.1007/s11033-009-9549-8;
+RA   Zhang P., Liu W., Zhang J., Guan H., Chen W., Cui X., Liu Q., Jiang A.;
+RT   "Gene expression profiles in the PC-3 human prostate cancer cells induced
+RT   by NKX3.1.";
+RL   Mol. Biol. Rep. 37:1505-1512(2010).
+RN   [9]
+RP   STRUCTURE BY NMR OF 132-189.
+RG   Northeast structural genomics consortium (NESG);
+RT   "Solution NMR structure of homeobox domain of homeobox protein NKX-3.1 from
+RT   Homo sapiens, Northeast structural genomics consortium target HR6470A.";
+RL   Submitted (APR-2011) to the PDB data bank.
+RN   [10]
+RP   VARIANT CYS-52.
+RX   PubMed=9377551;
+RA   Voeller H.J., Augustus M., Madike V., Bova G.S., Carter K.C., Gelmann E.P.;
+RT   "Coding region of NKX3.1, a prostate-specific homeobox gene on 8p21, is not
+RT   mutated in human prostate cancers.";
+RL   Cancer Res. 57:4455-4459(1997).
+RN   [11]
+RP   ERRATUM OF PUBMED:9377551.
+RA   Voeller H.J., Augustus M., Madike V., Bova G.S., Carter K.C., Gelmann E.P.;
+RL   Cancer Res. 57:5613-5613(1997).
+CC   -!- FUNCTION: Transcription factor, which binds preferentially the
+CC       consensus sequence 5'-TAAGT[AG]-3' and can behave as a transcriptional
+CC       repressor. Plays an important role in normal prostate development,
+CC       regulating proliferation of glandular epithelium and in the formation
+CC       of ducts in prostate. Acts as a tumor suppressor controlling prostate
+CC       carcinogenesis, as shown by the ability to inhibit proliferation and
+CC       invasion activities of PC-3 prostate cancer cells.
+CC       {ECO:0000269|PubMed:19462257}.
+CC   -!- SUBUNIT: Interacts with serum response factor (SRF) (By similarity).
+CC       Interacts with SPDEF (PubMed:11809674). Interacts with WDR77
+CC       (PubMed:12972618). Interacts with TOPORS which polyubiquitinates NKX3-1
+CC       and induces its proteasomal degradation (PubMed:18077445). Interacts
+CC       with FEM1B (By similarity). {ECO:0000250|UniProtKB:P97436,
+CC       ECO:0000269|PubMed:11809674, ECO:0000269|PubMed:12972618,
+CC       ECO:0000269|PubMed:18077445}.
+CC   -!- INTERACTION:
+CC       Q99801; Q6Q8B3: CD200R1L; NbExp=3; IntAct=EBI-1385894, EBI-18552964;
+CC       Q99801; Q9BQY4: RHOXF2; NbExp=3; IntAct=EBI-1385894, EBI-372094;
+CC       Q99801; P78317: RNF4; NbExp=3; IntAct=EBI-1385894, EBI-2340927;
+CC       Q99801; Q96BI1: SLC22A18; NbExp=3; IntAct=EBI-1385894, EBI-11721845;
+CC       Q99801; P11387: TOP1; NbExp=6; IntAct=EBI-1385894, EBI-876302;
+CC       Q99801; Q8TAU3: ZNF417; NbExp=3; IntAct=EBI-1385894, EBI-740727;
+CC       Q99801-1; Q96KQ7: EHMT2; NbExp=3; IntAct=EBI-16208773, EBI-744366;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|PROSITE-ProRule:PRU00108,
+CC       ECO:0000269|PubMed:11137288}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=1;
+CC         IsoId=Q99801-1; Sequence=Displayed;
+CC       Name=2; Synonyms=V2;
+CC         IsoId=Q99801-2; Sequence=VSP_002230;
+CC       Name=3; Synonyms=V4;
+CC         IsoId=Q99801-3; Sequence=VSP_002231;
+CC       Name=4; Synonyms=V3;
+CC         IsoId=Q99801-4; Sequence=VSP_002232;
+CC       Name=5; Synonyms=V1;
+CC         IsoId=Q99801-5; Sequence=VSP_002233;
+CC   -!- TISSUE SPECIFICITY: Highly expressed in the prostate and, at a lower
+CC       level, in the testis. {ECO:0000269|PubMed:9226374,
+CC       ECO:0000269|PubMed:9537602}.
+CC   -!- INDUCTION: By androgens and, in the LNCaP cell line, by estrogens.
+CC       Androgenic control may be lost in prostate cancer cells during tumor
+CC       progression from an androgen-dependent to an androgen-independent
+CC       phase. {ECO:0000269|PubMed:11137288, ECO:0000269|PubMed:9226374,
+CC       ECO:0000269|PubMed:9537602}.
+CC   -!- PTM: Ubiquitinated by TOPORS; monoubiquitinated at several residues and
+CC       also polyubiquitinated on single residues.
+CC       {ECO:0000269|PubMed:18077445}.
+CC   -!- SIMILARITY: Belongs to the NK-3 homeobox family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/41541/NKX31";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U91540; AAB68662.1; -; mRNA.
+DR   EMBL; U80669; AAB38747.1; -; mRNA.
+DR   EMBL; AF247704; AAG09781.1; -; mRNA.
+DR   EMBL; AF249669; AAG39735.1; -; mRNA.
+DR   EMBL; AF249670; AAG39736.1; -; mRNA.
+DR   EMBL; AF249671; AAG39737.1; -; mRNA.
+DR   EMBL; AF249672; AAG39738.1; -; mRNA.
+DR   EMBL; BC074863; AAH74863.1; -; mRNA.
+DR   EMBL; BC074864; AAH74864.1; -; mRNA.
+DR   CCDS; CCDS59095.1; -. [Q99801-3]
+DR   CCDS; CCDS6042.1; -. [Q99801-1]
+DR   RefSeq; NP_001243268.1; NM_001256339.1. [Q99801-3]
+DR   RefSeq; NP_006158.2; NM_006167.3. [Q99801-1]
+DR   PDB; 2L9R; NMR; -; A=132-189.
+DR   PDBsum; 2L9R; -.
+DR   AlphaFoldDB; Q99801; -.
+DR   SMR; Q99801; -.
+DR   BioGRID; 110888; 45.
+DR   CORUM; Q99801; -.
+DR   DIP; DIP-39687N; -.
+DR   IntAct; Q99801; 15.
+DR   STRING; 9606.ENSP00000370253; -.
+DR   iPTMnet; Q99801; -.
+DR   PhosphoSitePlus; Q99801; -.
+DR   BioMuta; NKX3-1; -.
+DR   DMDM; 17377578; -.
+DR   jPOST; Q99801; -.
+DR   MassIVE; Q99801; -.
+DR   MaxQB; Q99801; -.
+DR   PaxDb; Q99801; -.
+DR   PeptideAtlas; Q99801; -.
+DR   ProteomicsDB; 78479; -. [Q99801-1]
+DR   ProteomicsDB; 78480; -. [Q99801-2]
+DR   ProteomicsDB; 78481; -. [Q99801-3]
+DR   ProteomicsDB; 78482; -. [Q99801-4]
+DR   ProteomicsDB; 78483; -. [Q99801-5]
+DR   Antibodypedia; 9788; 879 antibodies from 40 providers.
+DR   DNASU; 4824; -.
+DR   Ensembl; ENST00000380871.5; ENSP00000370253.4; ENSG00000167034.10. [Q99801-1]
+DR   Ensembl; ENST00000523261.1; ENSP00000429729.1; ENSG00000167034.10. [Q99801-3]
+DR   GeneID; 4824; -.
+DR   KEGG; hsa:4824; -.
+DR   MANE-Select; ENST00000380871.5; ENSP00000370253.4; NM_006167.4; NP_006158.2.
+DR   UCSC; uc011kzx.3; human. [Q99801-1]
+DR   AGR; HGNC:7838; -.
+DR   CTD; 4824; -.
+DR   DisGeNET; 4824; -.
+DR   GeneCards; NKX3-1; -.
+DR   HGNC; HGNC:7838; NKX3-1.
+DR   HPA; ENSG00000167034; Tissue enriched (prostate).
+DR   MIM; 602041; gene.
+DR   neXtProt; NX_Q99801; -.
+DR   OpenTargets; ENSG00000167034; -.
+DR   PharmGKB; PA31645; -.
+DR   VEuPathDB; HostDB:ENSG00000167034; -.
+DR   eggNOG; KOG0842; Eukaryota.
+DR   GeneTree; ENSGT00940000160930; -.
+DR   HOGENOM; CLU_049543_2_0_1; -.
+DR   InParanoid; Q99801; -.
+DR   OMA; YLYCLGS; -.
+DR   OrthoDB; 461623at2759; -.
+DR   PhylomeDB; Q99801; -.
+DR   TreeFam; TF315720; -.
+DR   PathwayCommons; Q99801; -.
+DR   SignaLink; Q99801; -.
+DR   SIGNOR; Q99801; -.
+DR   BioGRID-ORCS; 4824; 16 hits in 1186 CRISPR screens.
+DR   ChiTaRS; NKX3-1; human.
+DR   GeneWiki; NKX3-1; -.
+DR   GenomeRNAi; 4824; -.
+DR   Pharos; Q99801; Tbio.
+DR   PRO; PR:Q99801; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; Q99801; protein.
+DR   Bgee; ENSG00000167034; Expressed in palpebral conjunctiva and 141 other tissues.
+DR   Genevisible; Q99801; HS.
+DR   GO; GO:0000785; C:chromatin; ISA:NTNU_SB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0090734; C:site of DNA damage; IDA:UniProtKB.
+DR   GO; GO:0008656; F:cysteine-type endopeptidase activator activity involved in apoptotic process; IDA:UniProtKB.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; IDA:BHF-UCL.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IDA:GO_Central.
+DR   GO; GO:0140297; F:DNA-binding transcription factor binding; IPI:UniProtKB.
+DR   GO; GO:0042826; F:histone deacetylase binding; IPI:UniProtKB.
+DR   GO; GO:0097162; F:MADS box domain binding; IEA:Ensembl.
+DR   GO; GO:0030331; F:nuclear estrogen receptor binding; IDA:UniProtKB.
+DR   GO; GO:0004879; F:nuclear receptor activity; IDA:UniProtKB.
+DR   GO; GO:0043621; F:protein self-association; IDA:UniProtKB.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IDA:UniProtKB.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IDA:UniProtKB.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:0000976; F:transcription cis-regulatory region binding; IDA:UniProtKB.
+DR   GO; GO:0140416; F:transcription regulator inhibitor activity; IDA:GO_Central.
+DR   GO; GO:0006919; P:activation of cysteine-type endopeptidase activity involved in apoptotic process; IDA:UniProtKB.
+DR   GO; GO:0030521; P:androgen receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0060442; P:branching involved in prostate gland morphogenesis; ISS:UniProtKB.
+DR   GO; GO:0048754; P:branching morphogenesis of an epithelial tube; ISS:UniProtKB.
+DR   GO; GO:0030154; P:cell differentiation; IBA:GO_Central.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IDA:UniProtKB.
+DR   GO; GO:0071347; P:cellular response to interleukin-1; IEP:UniProtKB.
+DR   GO; GO:0071383; P:cellular response to steroid hormone stimulus; IDA:UniProtKB.
+DR   GO; GO:0071356; P:cellular response to tumor necrosis factor; IEP:UniProtKB.
+DR   GO; GO:0071466; P:cellular response to xenobiotic stimulus; IEP:UniProtKB.
+DR   GO; GO:0006974; P:DNA damage response; IDA:UniProtKB.
+DR   GO; GO:0035907; P:dorsal aorta development; IEA:Ensembl.
+DR   GO; GO:0060767; P:epithelial cell proliferation involved in prostate gland development; IEA:Ensembl.
+DR   GO; GO:0060664; P:epithelial cell proliferation involved in salivary gland morphogenesis; ISS:UniProtKB.
+DR   GO; GO:0007507; P:heart development; IEA:Ensembl.
+DR   GO; GO:0008584; P:male gonad development; IEA:Ensembl.
+DR   GO; GO:0001656; P:metanephros development; IEA:Ensembl.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; IDA:UniProtKB.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0050680; P:negative regulation of epithelial cell proliferation; ISS:UniProtKB.
+DR   GO; GO:0060770; P:negative regulation of epithelial cell proliferation involved in prostate gland development; ISS:UniProtKB.
+DR   GO; GO:0010629; P:negative regulation of gene expression; IDA:UniProtKB.
+DR   GO; GO:0043569; P:negative regulation of insulin-like growth factor receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0060037; P:pharyngeal system development; IEA:Ensembl.
+DR   GO; GO:2000836; P:positive regulation of androgen secretion; IDA:UniProtKB.
+DR   GO; GO:2001235; P:positive regulation of apoptotic signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0051781; P:positive regulation of cell division; IMP:BHF-UCL.
+DR   GO; GO:0008284; P:positive regulation of cell population proliferation; IMP:UniProtKB.
+DR   GO; GO:0043280; P:positive regulation of cysteine-type endopeptidase activity involved in apoptotic process; IDA:UniProtKB.
+DR   GO; GO:0051091; P:positive regulation of DNA-binding transcription factor activity; IEA:Ensembl.
+DR   GO; GO:0045893; P:positive regulation of DNA-templated transcription; IMP:UniProtKB.
+DR   GO; GO:0010628; P:positive regulation of gene expression; IDA:UniProtKB.
+DR   GO; GO:2001244; P:positive regulation of intrinsic apoptotic signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0045931; P:positive regulation of mitotic cell cycle; IMP:BHF-UCL.
+DR   GO; GO:0014068; P:positive regulation of phosphatidylinositol 3-kinase signaling; IDA:UniProtKB.
+DR   GO; GO:0001934; P:positive regulation of protein phosphorylation; IDA:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   GO; GO:0043491; P:protein kinase B signaling; IMP:UniProtKB.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; NAS:UniProtKB.
+DR   GO; GO:0032880; P:regulation of protein localization; IMP:UniProtKB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0033574; P:response to testosterone; ISS:UniProtKB.
+DR   GO; GO:0007431; P:salivary gland development; ISS:UniProtKB.
+DR   GO; GO:0001756; P:somitogenesis; IEA:Ensembl.
+DR   CDD; cd00086; homeodomain; 1.
+DR   DisProt; DP00683; -.
+DR   Gene3D; 1.10.10.60; Homeodomain-like; 1.
+DR   InterPro; IPR009057; Homeobox-like_sf.
+DR   InterPro; IPR017970; Homeobox_CS.
+DR   InterPro; IPR001356; Homeobox_dom.
+DR   InterPro; IPR020479; Homeobox_metazoa.
+DR   PANTHER; PTHR24340; HOMEOBOX PROTEIN NKX; 1.
+DR   PANTHER; PTHR24340:SF38; HOMEOBOX PROTEIN NKX-3.1; 1.
+DR   Pfam; PF00046; Homeodomain; 1.
+DR   PRINTS; PR00024; HOMEOBOX.
+DR   SMART; SM00389; HOX; 1.
+DR   SUPFAM; SSF46689; Homeodomain-like; 1.
+DR   PROSITE; PS00027; HOMEOBOX_1; 1.
+DR   PROSITE; PS50071; HOMEOBOX_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; DNA-binding; Homeobox; Nucleus;
+KW   Reference proteome; Repressor; Transcription; Transcription regulation;
+KW   Tumor suppressor; Ubl conjugation.
+FT   CHAIN           1..234
+FT                   /note="Homeobox protein Nkx-3.1"
+FT                   /id="PRO_0000048945"
+FT   DNA_BIND        124..183
+FT                   /note="Homeobox"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00108"
+FT   REGION          1..131
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        48..64
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        87..101
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        103..131
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         8..56
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11137288"
+FT                   /id="VSP_002230"
+FT   VAR_SEQ         13..87
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:11137288"
+FT                   /id="VSP_002231"
+FT   VAR_SEQ         15..83
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11137288"
+FT                   /id="VSP_002232"
+FT   VAR_SEQ         40..83
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:11137288"
+FT                   /id="VSP_002233"
+FT   VARIANT         52
+FT                   /note="R -> C (in dbSNP:rs2228013)"
+FT                   /evidence="ECO:0000269|PubMed:9377551"
+FT                   /id="VAR_011612"
+FT   CONFLICT        8
+FT                   /note="R -> W (in Ref. 3; AAG39737)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        85
+FT                   /note="E -> D (in Ref. 2; AAB38747)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        135
+FT                   /note="Q -> R (in Ref. 3; AAG39738)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        196
+FT                   /note="S -> F (in Ref. 2; AAB38747)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        224
+FT                   /note="Y -> H (in Ref. 2; AAB38747)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        234
+FT                   /note="W -> G (in Ref. 1; AAB68662)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           133..145
+FT                   /evidence="ECO:0007829|PDB:2L9R"
+FT   HELIX           151..160
+FT                   /evidence="ECO:0007829|PDB:2L9R"
+FT   HELIX           165..178
+FT                   /evidence="ECO:0007829|PDB:2L9R"
+FT   STRAND          182..185
+FT                   /evidence="ECO:0007829|PDB:2L9R"
+SQ   SEQUENCE   234 AA;  26350 MW;  C99A0943E15B2A55 CRC64;
+     MLRVPEPRPG EAKAEGAAPP TPSKPLTSFL IQDILRDGAQ RQGGRTSSQR QRDPEPEPEP
+     EPEGGRSRAG AQNDQLSTGP RAAPEEAETL AETEPERHLG SYLLDSENTS GALPRLPQTP
+     KQPQKRSRAA FSHTQVIELE RKFSHQKYLS APERAHLAKN LKLTETQVKI WFQNRRYKTK
+     RKQLSSELGD LEKHSSLPAL KEEAFSRASL VSVYNSYPYY PYLYCVGSWS PAFW
+//

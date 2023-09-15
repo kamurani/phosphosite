@@ -1,0 +1,415 @@
+ID   MYNN_HUMAN              Reviewed;         610 AA.
+AC   Q9NPC7; B2R6C9; Q6QHA6; Q6QHA7; Q6R3G1; Q6R3G2; Q6R4A0; Q7Z716; Q7Z717;
+AC   Q86Z11; Q86Z12; Q9NS01; Q9UIW8;
+DT   05-SEP-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   28-JUN-2023, entry version 185.
+DE   RecName: Full=Myoneurin;
+DE   AltName: Full=Zinc finger and BTB domain-containing protein 31;
+GN   Name=MYNN; Synonyms=OSZF, ZBTB31; ORFNames=SBBIZ1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 1), NUCLEOTIDE SEQUENCE
+RP   [MRNA] OF 264-610 (ISOFORM 3), NUCLEOTIDE SEQUENCE [MRNA] OF 32-610
+RP   (ISOFORM 4), AND TISSUE SPECIFICITY.
+RC   TISSUE=Testis;
+RX   PubMed=10873615; DOI=10.1006/bbrc.2000.2862;
+RA   Alliel P.M., Seddiqi N., Goudou D., Cifuentes-Diaz C., Romero N.,
+RA   Velasco E., Rieger F., Perin J.-P.;
+RT   "Myoneurin, a novel member of the BTB/POZ-zinc finger family highly
+RT   expressed in human muscle.";
+RL   Biochem. Biophys. Res. Commun. 273:385-391(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 1 AND 2).
+RA   Ito S., Naito N., Ouchida M., Shimizu K.;
+RT   "Cloning and characterization of a novel human gene, OSZF, encoding a zinc
+RT   finger protein with BTB/POZ domain.";
+RL   Submitted (FEB-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 4).
+RC   TISSUE=Dendritic cell;
+RA   Zhang W., Wan T., Yuan Z., Cao X.;
+RT   "A zinc finger protein SBBIZ1 expressed in human dendritic cells.";
+RL   Submitted (JUL-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Embryo, and Thalamus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=14694499; DOI=10.1002/mus.10526;
+RA   Cifuentes-Diaz C., Bitoun M., Goudou D., Seddiqi N., Romero N., Rieger F.,
+RA   Perin J.-P., Alliel P.M.;
+RT   "Neuromuscular expression of the BTB/POZ and zinc finger protein
+RT   myoneurin.";
+RL   Muscle Nerve 29:59-65(2004).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-289, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-289, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-289, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 4-117.
+RG   Structural genomics consortium (SGC);
+RT   "Crystal structure of the BTB domain of human myoneurin.";
+RL   Submitted (JUN-2009) to the PDB data bank.
+CC   -!- INTERACTION:
+CC       Q9NPC7; Q92688: ANP32B; NbExp=3; IntAct=EBI-3446748, EBI-762428;
+CC       Q9NPC7; P27797: CALR; NbExp=3; IntAct=EBI-3446748, EBI-1049597;
+CC       Q9NPC7; P12830: CDH1; NbExp=3; IntAct=EBI-3446748, EBI-727477;
+CC       Q9NPC7; Q15078: CDK5R1; NbExp=3; IntAct=EBI-3446748, EBI-746189;
+CC       Q9NPC7; P36957: DLST; NbExp=3; IntAct=EBI-3446748, EBI-351007;
+CC       Q9NPC7; G5E9A7: DMWD; NbExp=3; IntAct=EBI-3446748, EBI-10976677;
+CC       Q9NPC7; Q9BRP7: FDXACB1; NbExp=3; IntAct=EBI-3446748, EBI-10297077;
+CC       Q9NPC7; P28799: GRN; NbExp=3; IntAct=EBI-3446748, EBI-747754;
+CC       Q9NPC7; Q8WXH2: JPH3; NbExp=3; IntAct=EBI-3446748, EBI-1055254;
+CC       Q9NPC7; O60333-2: KIF1B; NbExp=3; IntAct=EBI-3446748, EBI-10975473;
+CC       Q9NPC7; Q8TDX7: NEK7; NbExp=3; IntAct=EBI-3446748, EBI-1055945;
+CC       Q9NPC7; O60260-5: PRKN; NbExp=3; IntAct=EBI-3446748, EBI-21251460;
+CC       Q9NPC7; P50454: SERPINH1; NbExp=3; IntAct=EBI-3446748, EBI-350723;
+CC       Q9NPC7; P37173: TGFBR2; NbExp=3; IntAct=EBI-3446748, EBI-296151;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:14694499}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q9NPC7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9NPC7-2; Sequence=VSP_020216;
+CC       Name=3;
+CC         IsoId=Q9NPC7-3; Sequence=VSP_020215, VSP_020217;
+CC       Name=4; Synonyms=m4b;
+CC         IsoId=Q9NPC7-4; Sequence=VSP_020213, VSP_020214;
+CC   -!- TISSUE SPECIFICITY: Mainly expressed in the neuromuscular system.
+CC       Located in and around synaptic myonuclei in adult muscle. Expression is
+CC       dysregulated after nerve injury. Also found in the testis, ovary and
+CC       placenta. {ECO:0000269|PubMed:10873615, ECO:0000269|PubMed:14694499}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF148848; AAF73138.1; -; mRNA.
+DR   EMBL; AY286322; AAP44763.1; -; Genomic_DNA.
+DR   EMBL; AY286321; AAP44763.1; JOINED; Genomic_DNA.
+DR   EMBL; AY286328; AAP44764.1; -; Genomic_DNA.
+DR   EMBL; AY286323; AAP44764.1; JOINED; Genomic_DNA.
+DR   EMBL; AY286325; AAP44764.1; JOINED; Genomic_DNA.
+DR   EMBL; AY286324; AAP44764.1; JOINED; Genomic_DNA.
+DR   EMBL; AY286326; AAP44764.1; JOINED; Genomic_DNA.
+DR   EMBL; AY286327; AAP44764.1; JOINED; Genomic_DNA.
+DR   EMBL; AY514901; AAR99055.1; -; mRNA.
+DR   EMBL; AY515294; AAR99843.1; -; Genomic_DNA.
+DR   EMBL; AY515691; AAS38566.1; -; mRNA.
+DR   EMBL; AY515692; AAS38567.1; -; mRNA.
+DR   EMBL; AY541760; AAS87376.1; -; mRNA.
+DR   EMBL; AY541761; AAS87377.1; -; mRNA.
+DR   EMBL; AB079777; BAC55898.1; -; mRNA.
+DR   EMBL; AB079778; BAC55899.1; -; mRNA.
+DR   EMBL; AB079779; BAC55900.1; -; Genomic_DNA.
+DR   EMBL; AF076249; AAF80160.1; -; mRNA.
+DR   EMBL; AF155508; AAF74822.1; -; mRNA.
+DR   EMBL; AK021646; BAB13862.1; -; mRNA.
+DR   EMBL; AK092022; BAG52468.1; -; mRNA.
+DR   EMBL; AK312527; BAG35426.1; -; mRNA.
+DR   EMBL; AL133070; CAB61393.1; -; mRNA.
+DR   EMBL; BX648128; CAI46035.1; -; mRNA.
+DR   EMBL; CH471052; EAW78544.1; -; Genomic_DNA.
+DR   EMBL; CH471052; EAW78546.1; -; Genomic_DNA.
+DR   EMBL; BC033620; AAH33620.1; -; mRNA.
+DR   CCDS; CCDS3207.1; -. [Q9NPC7-1]
+DR   CCDS; CCDS54671.1; -. [Q9NPC7-2]
+DR   PIR; JC7315; JC7315.
+DR   PIR; T42670; T42670.
+DR   RefSeq; NP_001172047.1; NM_001185118.1. [Q9NPC7-1]
+DR   RefSeq; NP_001172048.1; NM_001185119.1. [Q9NPC7-2]
+DR   RefSeq; NP_061127.1; NM_018657.4. [Q9NPC7-1]
+DR   RefSeq; XP_011511289.1; XM_011512987.1.
+DR   RefSeq; XP_016862353.1; XM_017006864.1.
+DR   PDB; 2VPK; X-ray; 2.00 A; A=4-117.
+DR   PDBsum; 2VPK; -.
+DR   AlphaFoldDB; Q9NPC7; -.
+DR   SMR; Q9NPC7; -.
+DR   BioGRID; 120982; 11.
+DR   IntAct; Q9NPC7; 19.
+DR   STRING; 9606.ENSP00000326240; -.
+DR   ChEMBL; CHEMBL5069362; -.
+DR   iPTMnet; Q9NPC7; -.
+DR   PhosphoSitePlus; Q9NPC7; -.
+DR   BioMuta; MYNN; -.
+DR   DMDM; 74761639; -.
+DR   EPD; Q9NPC7; -.
+DR   jPOST; Q9NPC7; -.
+DR   MassIVE; Q9NPC7; -.
+DR   MaxQB; Q9NPC7; -.
+DR   PaxDb; Q9NPC7; -.
+DR   PeptideAtlas; Q9NPC7; -.
+DR   ProteomicsDB; 81968; -. [Q9NPC7-1]
+DR   ProteomicsDB; 81969; -. [Q9NPC7-2]
+DR   ProteomicsDB; 81970; -. [Q9NPC7-3]
+DR   ProteomicsDB; 81971; -. [Q9NPC7-4]
+DR   Antibodypedia; 18640; 267 antibodies from 26 providers.
+DR   DNASU; 55892; -.
+DR   Ensembl; ENST00000349841.10; ENSP00000326240.4; ENSG00000085274.16. [Q9NPC7-1]
+DR   Ensembl; ENST00000356716.8; ENSP00000349150.3; ENSG00000085274.16. [Q9NPC7-1]
+DR   Ensembl; ENST00000544106.5; ENSP00000440637.1; ENSG00000085274.16. [Q9NPC7-2]
+DR   Ensembl; ENST00000602751.5; ENSP00000473654.1; ENSG00000085274.16. [Q9NPC7-4]
+DR   GeneID; 55892; -.
+DR   KEGG; hsa:55892; -.
+DR   MANE-Select; ENST00000349841.10; ENSP00000326240.4; NM_018657.5; NP_061127.1.
+DR   UCSC; uc003fft.4; human. [Q9NPC7-1]
+DR   AGR; HGNC:14955; -.
+DR   CTD; 55892; -.
+DR   DisGeNET; 55892; -.
+DR   GeneCards; MYNN; -.
+DR   HGNC; HGNC:14955; MYNN.
+DR   HPA; ENSG00000085274; Low tissue specificity.
+DR   MIM; 606042; gene.
+DR   neXtProt; NX_Q9NPC7; -.
+DR   OpenTargets; ENSG00000085274; -.
+DR   PharmGKB; PA31393; -.
+DR   VEuPathDB; HostDB:ENSG00000085274; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000161266; -.
+DR   HOGENOM; CLU_022540_1_0_1; -.
+DR   InParanoid; Q9NPC7; -.
+DR   OMA; RPICNIC; -.
+DR   OrthoDB; 5299926at2759; -.
+DR   PhylomeDB; Q9NPC7; -.
+DR   TreeFam; TF330787; -.
+DR   PathwayCommons; Q9NPC7; -.
+DR   SignaLink; Q9NPC7; -.
+DR   BioGRID-ORCS; 55892; 11 hits in 1221 CRISPR screens.
+DR   ChiTaRS; MYNN; human.
+DR   EvolutionaryTrace; Q9NPC7; -.
+DR   GenomeRNAi; 55892; -.
+DR   Pharos; Q9NPC7; Tbio.
+DR   PRO; PR:Q9NPC7; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q9NPC7; protein.
+DR   Bgee; ENSG00000085274; Expressed in buccal mucosa cell and 195 other tissues.
+DR   ExpressionAtlas; Q9NPC7; baseline and differential.
+DR   Genevisible; Q9NPC7; HS.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:1990830; P:cellular response to leukemia inhibitory factor; IEA:Ensembl.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd18217; BTB_POZ_ZBTB31_myoneurin; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 8.
+DR   InterPro; IPR000210; BTB/POZ_dom.
+DR   InterPro; IPR011333; SKP1/BTB/POZ_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24394:SF29; GM08392P; 1.
+DR   PANTHER; PTHR24394; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF00651; BTB; 1.
+DR   Pfam; PF00096; zf-C2H2; 6.
+DR   Pfam; PF13912; zf-C2H2_6; 1.
+DR   SMART; SM00225; BTB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 8.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 5.
+DR   SUPFAM; SSF54695; POZ domain; 1.
+DR   PROSITE; PS50097; BTB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 8.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 8.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; DNA-binding; Metal-binding; Nucleus;
+KW   Phosphoprotein; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..610
+FT                   /note="Myoneurin"
+FT                   /id="PRO_0000248217"
+FT   DOMAIN          24..89
+FT                   /note="BTB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00037"
+FT   ZN_FING         302..324
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         330..352
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         358..381
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         387..409
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         415..437
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         443..465
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         471..493
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         499..522
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          169..197
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          521..556
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           174..190
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   MOTIF           257..262
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        523..541
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         289
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         89..91
+FT                   /note="SWN -> RDI (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:10873615, ECO:0000303|Ref.3"
+FT                   /id="VSP_020213"
+FT   VAR_SEQ         92..610
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:10873615, ECO:0000303|Ref.3"
+FT                   /id="VSP_020214"
+FT   VAR_SEQ         495..500
+FT                   /note="GERPFI -> VVWSMN (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:10873615"
+FT                   /id="VSP_020215"
+FT   VAR_SEQ         496..524
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.2"
+FT                   /id="VSP_020216"
+FT   VAR_SEQ         501..610
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:10873615"
+FT                   /id="VSP_020217"
+FT   CONFLICT        198
+FT                   /note="Q -> R (in Ref. 2; BAC55898/BAC55899)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        292
+FT                   /note="E -> D (in Ref. 5; CAB61393)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           4..20
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   STRAND          26..30
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   STRAND          33..37
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   HELIX           39..45
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   HELIX           47..53
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   TURN            65..67
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   HELIX           70..82
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   TURN            89..91
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   HELIX           92..101
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+FT   HELIX           105..115
+FT                   /evidence="ECO:0007829|PDB:2VPK"
+SQ   SEQUENCE   610 AA;  68682 MW;  842B62DDC2C81480 CRC64;
+     MQYSHHCEHL LERLNKQREA GFLCDCTIVI GEFQFKAHRN VLASFSEYFG AIYRSTSENN
+     VFLDQSQVKA DGFQKLLEFI YTGTLNLDSW NVKEIHQAAD YLKVEEVVTK CKIKMEDFAF
+     IANPSSTEIS SITGNIELNQ QTCLLTLRDY NNREKSEVST DLIQANPKQG ALAKKSSQTK
+     KKKKAFNSPK TGQNKTVQYP SDILENASVE LFLDANKLPT PVVEQVAQIN DNSELELTSV
+     VENTFPAQDI VHTVTVKRKR GKSQPNCALK EHSMSNIASV KSPYEAENSG EELDQRYSKA
+     KPMCNTCGKV FSEASSLRRH MRIHKGVKPY VCHLCGKAFT QCNQLKTHVR THTGEKPYKC
+     ELCDKGFAQK CQLVFHSRMH HGEEKPYKCD VCNLQFATSS NLKIHARKHS GEKPYVCDRC
+     GQRFAQASTL TYHVRRHTGE KPYVCDTCGK AFAVSSSLIT HSRKHTGEKP YICGICGKSF
+     ISSGELNKHF RSHTGERPFI CELCGNSYTD IKNLKKHKTK VHSGADKTLD SSAEDHTLSE
+     QDSIQKSPLS ETMDVKPSDM TLPLALPLGT EDHHMLLPVT DTQSPTSDTL LRSTVNGYSE
+     PQLIFLQQLY
+//

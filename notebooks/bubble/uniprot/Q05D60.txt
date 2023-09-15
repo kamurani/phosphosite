@@ -1,0 +1,275 @@
+ID   DEUP1_HUMAN             Reviewed;         604 AA.
+AC   Q05D60; E9PJR5; Q8NEF1; Q96LL7;
+DT   21-AUG-2007, integrated into UniProtKB/Swiss-Prot.
+DT   21-AUG-2007, sequence version 2.
+DT   28-JUN-2023, entry version 116.
+DE   RecName: Full=Deuterosome assembly protein 1 {ECO:0000312|HGNC:HGNC:26344};
+DE   AltName: Full=Coiled-coil domain-containing protein 67;
+GN   Name=DEUP1 {ECO:0000312|HGNC:HGNC:26344}; Synonyms=CCDC67;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Lung, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 57-604 (ISOFORM 1), AND VARIANT
+RP   LYS-504.
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+CC   -!- FUNCTION: Key structural component of the deuterosome, a structure that
+CC       promotes de novo centriole amplification in multiciliated cells.
+CC       Deuterosome-mediated centriole amplification occurs in terminally
+CC       differentiated multiciliated cells and can generate more than 100
+CC       centrioles. Probably sufficient for the specification and formation of
+CC       the deuterosome inner core. Interacts with CEP152 and recruits PLK4 to
+CC       activate centriole biogenesis (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Interacts with CEP152; the interaction is mutually exclusive
+CC       with CEP63. {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q05D60; P49418: AMPH; NbExp=3; IntAct=EBI-748597, EBI-7121510;
+CC       Q05D60; Q0P5N6: ARL16; NbExp=3; IntAct=EBI-748597, EBI-10186132;
+CC       Q05D60; Q5PSV4: BRMS1L; NbExp=3; IntAct=EBI-748597, EBI-5666615;
+CC       Q05D60; Q8TD31-3: CCHCR1; NbExp=3; IntAct=EBI-748597, EBI-10175300;
+CC       Q05D60; Q86XR8-3: CEP57; NbExp=3; IntAct=EBI-748597, EBI-11752486;
+CC       Q05D60; Q96D03: DDIT4L; NbExp=3; IntAct=EBI-748597, EBI-742054;
+CC       Q05D60; Q05D60: DEUP1; NbExp=8; IntAct=EBI-748597, EBI-748597;
+CC       Q05D60; Q9BY27: DGCR6L; NbExp=9; IntAct=EBI-748597, EBI-742953;
+CC       Q05D60; O60941-5: DTNB; NbExp=3; IntAct=EBI-748597, EBI-11984733;
+CC       Q05D60; P62508: ESRRG; NbExp=3; IntAct=EBI-748597, EBI-2834260;
+CC       Q05D60; P62508-3: ESRRG; NbExp=3; IntAct=EBI-748597, EBI-12001340;
+CC       Q05D60; O00471: EXOC5; NbExp=11; IntAct=EBI-748597, EBI-949824;
+CC       Q05D60; Q9Y247: FAM50B; NbExp=3; IntAct=EBI-748597, EBI-742802;
+CC       Q05D60; Q8TES7-6: FBF1; NbExp=6; IntAct=EBI-748597, EBI-10244131;
+CC       Q05D60; P55040: GEM; NbExp=6; IntAct=EBI-748597, EBI-744104;
+CC       Q05D60; Q08379: GOLGA2; NbExp=6; IntAct=EBI-748597, EBI-618309;
+CC       Q05D60; Q9BT25: HAUS8; NbExp=3; IntAct=EBI-748597, EBI-2558143;
+CC       Q05D60; P42858: HTT; NbExp=15; IntAct=EBI-748597, EBI-466029;
+CC       Q05D60; O14879: IFIT3; NbExp=4; IntAct=EBI-748597, EBI-745127;
+CC       Q05D60; Q8IY31: IFT20; NbExp=3; IntAct=EBI-748597, EBI-744203;
+CC       Q05D60; Q8WYH8: ING5; NbExp=3; IntAct=EBI-748597, EBI-488533;
+CC       Q05D60; Q7L273: KCTD9; NbExp=3; IntAct=EBI-748597, EBI-4397613;
+CC       Q05D60; Q9BVG8: KIFC3; NbExp=3; IntAct=EBI-748597, EBI-2125614;
+CC       Q05D60; Q9BVG8-5: KIFC3; NbExp=5; IntAct=EBI-748597, EBI-14069005;
+CC       Q05D60; P19012: KRT15; NbExp=6; IntAct=EBI-748597, EBI-739566;
+CC       Q05D60; Q7Z3Y7: KRT28; NbExp=3; IntAct=EBI-748597, EBI-11980489;
+CC       Q05D60; P12035: KRT3; NbExp=3; IntAct=EBI-748597, EBI-2430095;
+CC       Q05D60; Q8TBB1: LNX1; NbExp=3; IntAct=EBI-748597, EBI-739832;
+CC       Q05D60; Q8IVT4: MGC50722; NbExp=3; IntAct=EBI-748597, EBI-14086479;
+CC       Q05D60; Q96HA8: NTAQ1; NbExp=3; IntAct=EBI-748597, EBI-741158;
+CC       Q05D60; O75928-2: PIAS2; NbExp=3; IntAct=EBI-748597, EBI-348567;
+CC       Q05D60; Q96KQ4: PPP1R13B; NbExp=3; IntAct=EBI-748597, EBI-1105153;
+CC       Q05D60; Q06455-2: RUNX1T1; NbExp=3; IntAct=EBI-748597, EBI-11984663;
+CC       Q05D60; P12757: SKIL; NbExp=3; IntAct=EBI-748597, EBI-2902468;
+CC       Q05D60; P63165: SUMO1; NbExp=3; IntAct=EBI-748597, EBI-80140;
+CC       Q05D60; Q9NU19: TBC1D22B; NbExp=4; IntAct=EBI-748597, EBI-8787464;
+CC       Q05D60; P0C1Z6-2: TFPT; NbExp=3; IntAct=EBI-748597, EBI-10178002;
+CC       Q05D60; Q9BYV2: TRIM54; NbExp=6; IntAct=EBI-748597, EBI-2130429;
+CC       Q05D60; P40222: TXLNA; NbExp=11; IntAct=EBI-748597, EBI-359793;
+CC       Q05D60; Q8N3L3: TXLNB; NbExp=11; IntAct=EBI-748597, EBI-6116822;
+CC       Q05D60; Q8N6Y0: USHBP1; NbExp=3; IntAct=EBI-748597, EBI-739895;
+CC       Q05D60; Q15911-2: ZFHX3; NbExp=3; IntAct=EBI-748597, EBI-10237226;
+CC       Q05D60; Q9UQR1: ZNF148; NbExp=3; IntAct=EBI-748597, EBI-2688184;
+CC       Q05D60; Q14592: ZNF460; NbExp=3; IntAct=EBI-748597, EBI-2555738;
+CC       Q05D60; Q7Z3I7: ZNF572; NbExp=9; IntAct=EBI-748597, EBI-10172590;
+CC       Q05D60; Q8N720: ZNF655; NbExp=3; IntAct=EBI-748597, EBI-625509;
+CC       Q05D60; Q9Y2P0: ZNF835; NbExp=3; IntAct=EBI-748597, EBI-5667516;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Note=Localizes to the
+CC       deuterosome. {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q05D60-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q05D60-2; Sequence=VSP_027367, VSP_027368;
+CC   -!- MISCELLANEOUS: CEP63 and DEUP1 paralogs are both involved in centriole
+CC       amplification: while CEP63 mediates mother-centriole-dependent
+CC       centriole duplication, DEUP1 mediates de novo centriole amplification
+CC       in multiciliated cells.
+CC   -!- SIMILARITY: Belongs to the CEP63 family. {ECO:0000305}.
+CC   -!- CAUTION: It is uncertain whether Met-1 or Met-9 is the initiator.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AP003969; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP004242; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC017929; AAH17929.1; ALT_SEQ; mRNA.
+DR   EMBL; BC031247; AAH31247.2; -; mRNA.
+DR   EMBL; AK058122; BAB71673.1; ALT_SEQ; mRNA.
+DR   CCDS; CCDS44707.1; -. [Q05D60-1]
+DR   RefSeq; NP_857596.2; NM_181645.3. [Q05D60-1]
+DR   RefSeq; XP_005273859.1; XM_005273802.1. [Q05D60-1]
+DR   AlphaFoldDB; Q05D60; -.
+DR   SMR; Q05D60; -.
+DR   BioGRID; 127746; 78.
+DR   IntAct; Q05D60; 59.
+DR   MINT; Q05D60; -.
+DR   STRING; 9606.ENSP00000298050; -.
+DR   iPTMnet; Q05D60; -.
+DR   PhosphoSitePlus; Q05D60; -.
+DR   BioMuta; DEUP1; -.
+DR   DMDM; 156630476; -.
+DR   EPD; Q05D60; -.
+DR   MassIVE; Q05D60; -.
+DR   MaxQB; Q05D60; -.
+DR   PaxDb; Q05D60; -.
+DR   PeptideAtlas; Q05D60; -.
+DR   ProteomicsDB; 21226; -.
+DR   ProteomicsDB; 58400; -. [Q05D60-1]
+DR   ProteomicsDB; 58401; -. [Q05D60-2]
+DR   Antibodypedia; 2572; 113 antibodies from 20 providers.
+DR   DNASU; 159989; -.
+DR   Ensembl; ENST00000298050.9; ENSP00000298050.3; ENSG00000165325.15. [Q05D60-1]
+DR   GeneID; 159989; -.
+DR   KEGG; hsa:159989; -.
+DR   MANE-Select; ENST00000298050.9; ENSP00000298050.3; NM_181645.4; NP_857596.2.
+DR   UCSC; uc001pdq.5; human. [Q05D60-1]
+DR   UCSC; uc058gma.1; human.
+DR   AGR; HGNC:26344; -.
+DR   CTD; 159989; -.
+DR   DisGeNET; 159989; -.
+DR   GeneCards; DEUP1; -.
+DR   HGNC; HGNC:26344; DEUP1.
+DR   HPA; ENSG00000165325; Tissue enhanced (fallopian tube, testis).
+DR   neXtProt; NX_Q05D60; -.
+DR   OpenTargets; ENSG00000165325; -.
+DR   PharmGKB; PA143485419; -.
+DR   VEuPathDB; HostDB:ENSG00000165325; -.
+DR   eggNOG; ENOG502QRBJ; Eukaryota.
+DR   GeneTree; ENSGT00940000153190; -.
+DR   InParanoid; Q05D60; -.
+DR   OMA; SHNTWEF; -.
+DR   OrthoDB; 5403090at2759; -.
+DR   PhylomeDB; Q05D60; -.
+DR   TreeFam; TF330595; -.
+DR   PathwayCommons; Q05D60; -.
+DR   SignaLink; Q05D60; -.
+DR   BioGRID-ORCS; 159989; 9 hits in 1119 CRISPR screens.
+DR   ChiTaRS; DEUP1; human.
+DR   GenomeRNAi; 159989; -.
+DR   Pharos; Q05D60; Tbio.
+DR   PRO; PR:Q05D60; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q05D60; protein.
+DR   Bgee; ENSG00000165325; Expressed in sperm and 92 other tissues.
+DR   ExpressionAtlas; Q05D60; baseline and differential.
+DR   Genevisible; Q05D60; HS.
+DR   GO; GO:0005814; C:centriole; IBA:GO_Central.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0098536; C:deuterosome; ISS:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0030030; P:cell projection organization; IEA:UniProtKB-KW.
+DR   GO; GO:0007099; P:centriole replication; IBA:GO_Central.
+DR   GO; GO:0098535; P:de novo centriole assembly involved in multi-ciliated epithelial cell differentiation; ISS:UniProtKB.
+DR   GO; GO:1903251; P:multi-ciliated epithelial cell differentiation; ISS:UniProtKB.
+DR   InterPro; IPR031470; Cep63/Deup1_N.
+DR   PANTHER; PTHR18875:SF5; DEUTEROSOME ASSEMBLY PROTEIN 1; 1.
+DR   PANTHER; PTHR18875; SARCOMA ANTIGEN NY-SAR-24/CYTOSKELETAL PROTEIN SOJO; 1.
+DR   Pfam; PF17045; CEP63; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cilium biogenesis/degradation; Coiled coil;
+KW   Cytoplasm; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..604
+FT                   /note="Deuterosome assembly protein 1"
+FT                   /id="PRO_0000297829"
+FT   COILED          14..59
+FT                   /evidence="ECO:0000255"
+FT   COILED          85..197
+FT                   /evidence="ECO:0000255"
+FT   COILED          226..278
+FT                   /evidence="ECO:0000255"
+FT   COILED          336..399
+FT                   /evidence="ECO:0000255"
+FT   COILED          558..601
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         547
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5U3Z6"
+FT   VAR_SEQ         1..262
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_027367"
+FT   VAR_SEQ         263
+FT                   /note="Q -> M (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_027368"
+FT   VARIANT         175
+FT                   /note="S -> F (in dbSNP:rs34205920)"
+FT                   /id="VAR_050759"
+FT   VARIANT         440
+FT                   /note="E -> G (in dbSNP:rs12282288)"
+FT                   /id="VAR_059601"
+FT   VARIANT         440
+FT                   /note="E -> Q (in dbSNP:rs12288277)"
+FT                   /id="VAR_050760"
+FT   VARIANT         504
+FT                   /note="Q -> K (in dbSNP:rs2259633)"
+FT                   /evidence="ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_050761"
+FT   CONFLICT        440
+FT                   /note="E -> R (in Ref. 3; BAB71673)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   604 AA;  70977 MW;  0BC0B1C207D2EA2A CRC64;
+     MENQAHNTMG TSPCEAELQE LMEQIDIMVS NKKMDWERKM RALETRLDLR DQELANAQTC
+     LDQKGQEVGL LRQKLDSLEK CNLAMTQNYE GQLQSLKAQF SKLTNNFEKL RLHQMKQNKV
+     PRKELPHLKE EIPFELSNLN QKLEEFRAKS REWDKQEILY QTHLISLDAQ QKLLSEKCNQ
+     FQKQAQSYQT QLNGKKQCLE DSSSEIPRLI CDPDPNCEIN ERDEFIIEKL KSAVNEIALS
+     RNKLQDENQK LLQELKMYQR QCQAMEAGLS EVKSELQSRD DLLRIIEMER LQLHRELLKI
+     GECQNAQGNK TRLESSYLPS IKEPERKIKE LFSVMQDQPN HEKELNKIRS QLQQVEEYHN
+     SEQERMRNEI SDLTEELHQK EITIATVTKK AALLEKQLKM ELEIKEKMLA KQKVSDMKYK
+     AVRTENTHLK GMMGDLDPGE YMSMDFTNRE QSRHTSINKL QYENERLRND LAKLHVNGKS
+     TWTNQNTYEE TGRYAYQSQI KVEQNEERLS HDCEPNRSTM PPLPPSTFQA KEMTSPLVSD
+     DDVFPLSPPD MSFPASLAAQ HFLLEEEKRA KELEKLLNTH IDELQRHTEF TLNKYSKLKQ
+     NRHI
+//

@@ -1,0 +1,454 @@
+ID   SE1L1_HUMAN             Reviewed;         794 AA.
+AC   Q9UBV2; Q6UWT6; Q9P1T9; Q9UHK7;
+DT   27-APR-2001, integrated into UniProtKB/Swiss-Prot.
+DT   12-APR-2005, sequence version 3.
+DT   28-JUN-2023, entry version 188.
+DE   RecName: Full=Protein sel-1 homolog 1;
+DE   AltName: Full=Suppressor of lin-12-like protein 1;
+DE            Short=Sel-1L;
+DE   Flags: Precursor;
+GN   Name=SEL1L; Synonyms=TSA305; ORFNames=UNQ128/PRO1063;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Pancreas;
+RX   PubMed=10496078; DOI=10.1007/s100380050171;
+RA   Harada Y., Ozaki K., Suzuki M., Fujiwara T., Takahashi E., Nakamura Y.,
+RA   Tanigami A.;
+RT   "Complete cDNA sequence and genomic organization of a human pancreas-
+RT   specific gene homologous to Caenorhabditis elegans sel-1.";
+RL   J. Hum. Genet. 44:330-336(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Pancreas;
+RX   PubMed=10746565; DOI=10.1007/s004390051032;
+RA   Biunno I., Bernard L., Dear P., Cattaneo M., Volorio S., Zannini L.,
+RA   Bankier A., Zollo M.;
+RT   "SEL1L, the human homolog of C. elegans sel-1: refined physical mapping,
+RT   gene structure and identification of polymorphic markers.";
+RL   Hum. Genet. 106:227-235(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RX   PubMed=12975309; DOI=10.1101/gr.1293003;
+RA   Clark H.F., Gurney A.L., Abaya E., Baker K., Baldwin D.T., Brush J.,
+RA   Chen J., Chow B., Chui C., Crowley C., Currell B., Deuel B., Dowd P.,
+RA   Eaton D., Foster J.S., Grimaldi C., Gu Q., Hass P.E., Heldens S., Huang A.,
+RA   Kim H.S., Klimowski L., Jin Y., Johnson S., Lee J., Lewis L., Liao D.,
+RA   Mark M.R., Robbie E., Sanchez C., Schoenfeld J., Seshagiri S., Simmons L.,
+RA   Singh J., Smith V., Stinson J., Vagts A., Vandlen R.L., Watanabe C.,
+RA   Wieand D., Woods K., Xie M.-H., Yansura D.G., Yi S., Yu G., Yuan J.,
+RA   Zhang M., Zhang Z., Goddard A.D., Wood W.I., Godowski P.J., Gray A.M.;
+RT   "The secreted protein discovery initiative (SPDI), a large-scale effort to
+RT   identify novel human secreted and transmembrane proteins: a bioinformatics
+RT   assessment.";
+RL   Genome Res. 13:2265-2270(2003).
+RN   [4]
+RP   GLYCOSYLATION AT ASN-272.
+RX   PubMed=12754519; DOI=10.1038/nbt827;
+RA   Zhang H., Li X.-J., Martin D.B., Aebersold R.;
+RT   "Identification and quantification of N-linked glycoproteins using
+RT   hydrazide chemistry, stable isotope labeling and mass spectrometry.";
+RL   Nat. Biotechnol. 21:660-666(2003).
+RN   [5]
+RP   FUNCTION, INTERACTION WITH SYVN1, IDENTIFICATION IN A COMPLEX WITH SYVN1
+RP   AND DERL2, AND SUBCELLULAR LOCATION.
+RX   PubMed=16186509; DOI=10.1073/pnas.0505014102;
+RA   Lilley B.N., Ploegh H.L.;
+RT   "Multiprotein complexes that link dislocation, ubiquitination, and
+RT   extraction of misfolded proteins from the endoplasmic reticulum membrane.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:14296-14301(2005).
+RN   [6]
+RP   GLYCOSYLATION, AND INTERACTION WITH ERLEC1; HSPA5; OS9 AND SYVN1.
+RX   PubMed=18502753; DOI=10.1074/jbc.m709336200;
+RA   Hosokawa N., Wada I., Nagasawa K., Moriyama T., Okawa K., Nagata K.;
+RT   "Human XTP3-B forms an endoplasmic reticulum quality control scaffold with
+RT   the HRD1-SEL1L ubiquitin ligase complex and BiP.";
+RL   J. Biol. Chem. 283:20914-20924(2008).
+RN   [7]
+RP   INTERACTION WITH ERLEC1; OS9 AND SYVN1.
+RX   PubMed=18264092; DOI=10.1038/ncb1689;
+RA   Christianson J.C., Shaler T.A., Tyler R.E., Kopito R.R.;
+RT   "OS-9 and GRP94 deliver mutant alpha1-antitrypsin to the Hrd1-SEL1L
+RT   ubiquitin ligase complex for ERAD.";
+RL   Nat. Cell Biol. 10:272-282(2008).
+RN   [8]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-431 AND ASN-608.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [9]
+RP   INTERACTION WITH EDEM1.
+RX   PubMed=19524542; DOI=10.1016/j.molcel.2009.05.018;
+RA   Cormier J.H., Tamura T., Sunryd J.C., Hebert D.N.;
+RT   "EDEM1 recognition and delivery of misfolded proteins to the SEL1L-
+RT   containing ERAD complex.";
+RL   Mol. Cell 34:627-633(2009).
+RN   [10]
+RP   INTERACTION WITH FOXRED2.
+RX   PubMed=19706418; DOI=10.1073/pnas.0900742106;
+RA   Riemer J., Appenzeller-Herzog C., Johansson L., Bodenmiller B.,
+RA   Hartmann-Petersen R., Ellgaard L.;
+RT   "A luminal flavoprotein in endoplasmic reticulum-associated degradation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:14831-14836(2009).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   INTERACTION WITH LPL.
+RX   PubMed=25066055; DOI=10.1016/j.cmet.2014.06.015;
+RA   Sha H., Sun S., Francisco A.B., Ehrhardt N., Xue Z., Liu L., Lawrence P.,
+RA   Mattijssen F., Guber R.D., Panhwar M.S., Brenna J.T., Shi H., Xue B.,
+RA   Kersten S., Bensadoun A., Peterfy M., Long Q., Qi L.;
+RT   "The ER-associated degradation adaptor protein Sel1L regulates LPL
+RT   secretion and lipid metabolism.";
+RL   Cell Metab. 20:458-470(2014).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-63, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [14]
+RP   FUNCTION, AND INTERACTION WITH SYVN1.
+RX   PubMed=26471130; DOI=10.1111/febs.13564;
+RA   Hosokawa N., Wada I.;
+RT   "Association of the SEL1L protein transmembrane domain with HRD1 ubiquitin
+RT   ligase regulates ERAD-L.";
+RL   FEBS J. 283:157-172(2016).
+RN   [15]
+RP   IDENTIFICATION IN THE HRD1 COMPLEX.
+RX   PubMed=28827405; DOI=10.1242/jcs.206847;
+RA   Schulz J., Avci D., Queisser M.A., Gutschmidt A., Dreher L.S., Fenech E.J.,
+RA   Volkmar N., Hayashi Y., Hoppe T., Christianson J.C.;
+RT   "Conserved cytoplasmic domains promote Hrd1 ubiquitin ligase complex
+RT   formation for ER-associated degradation (ERAD).";
+RL   J. Cell Sci. 130:3322-3335(2017).
+RN   [16]
+RP   INTERACTION WITH HUMAN CYTOMEGALOVIRUS PROTEIN UL148 (MICROBIAL INFECTION).
+RX   PubMed=29997207; DOI=10.1128/jvi.00688-18;
+RA   Nguyen C.C., Siddiquey M.N.A., Zhang H., Li G., Kamil J.P.;
+RT   "Human Cytomegalovirus Tropism Modulator UL148 Interacts with SEL1L, a
+RT   Cellular Factor That Governs Endoplasmic Reticulum-Associated Degradation
+RT   of the Viral Envelope Glycoprotein gO.";
+RL   J. Virol. 92:0-0(2018).
+CC   -!- FUNCTION: Plays a role in the endoplasmic reticulum quality control
+CC       (ERQC) system also called ER-associated degradation (ERAD) involved in
+CC       ubiquitin-dependent degradation of misfolded endoplasmic reticulum
+CC       proteins (PubMed:16186509, PubMed:29997207). Enhances SYVN1 stability.
+CC       Plays a role in LPL maturation and secretion. Required for normal
+CC       differentiation of the pancreas epithelium, and for normal exocrine
+CC       function and survival of pancreatic cells. May play a role in Notch
+CC       signaling. {ECO:0000250|UniProtKB:Q9Z2G6, ECO:0000269|PubMed:16186509,
+CC       ECO:0000269|PubMed:29997207}.
+CC   -!- SUBUNIT: Homodimer and homooligomer (By similarity). May form a complex
+CC       with ERLEC1, HSPA5, OS9, and SYVN1 (PubMed:18502753, PubMed:18264092).
+CC       Interacts with FOXRED2 and EDEM1 (PubMed:19524542, PubMed:19706418).
+CC       Interacts with LPL (PubMed:25066055). Interacts with LMF1; may
+CC       stabilize the complex formed by LPL and LMF1 and thereby promote the
+CC       export of LPL dimers (By similarity). Component of the HRD1 complex,
+CC       which comprises at least SYNV1/HRD1, DERL1/2, FAM8A1, HERPUD1/HERP,
+CC       OS9, SEL1L and UBE2J1 (PubMed:16186509, PubMed:28827405). SYNV1
+CC       assembles with SEL1L and FAM8A1 through its transmembrane domains, but
+CC       interaction with its cytoplasmic domain is required to confer stability
+CC       to FAM8A1 and enhance recruitment of HERPUD1 (PubMed:28827405). The
+CC       interaction with SYNV1/HRD1 is direct (PubMed:26471130).
+CC       {ECO:0000250|UniProtKB:Q9Z2G6, ECO:0000269|PubMed:16186509,
+CC       ECO:0000269|PubMed:18264092, ECO:0000269|PubMed:18502753,
+CC       ECO:0000269|PubMed:19524542, ECO:0000269|PubMed:19706418,
+CC       ECO:0000269|PubMed:25066055, ECO:0000269|PubMed:26471130,
+CC       ECO:0000269|PubMed:28827405}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with human cytomegalovirus
+CC       protein UL148. {ECO:0000269|PubMed:29997207}.
+CC   -!- INTERACTION:
+CC       Q9UBV2; P00533: EGFR; NbExp=2; IntAct=EBI-358766, EBI-297353;
+CC       Q9UBV2; O75460-1: ERN1; NbExp=2; IntAct=EBI-358766, EBI-15600828;
+CC       Q9UBV2; Q8IWF2: FOXRED2; NbExp=6; IntAct=EBI-358766, EBI-10763361;
+CC       Q9UBV2; Q16288: NTRK3; NbExp=2; IntAct=EBI-358766, EBI-3936704;
+CC       Q9UBV2; Q13438: OS9; NbExp=11; IntAct=EBI-358766, EBI-725454;
+CC       Q9UBV2; Q86TM6: SYVN1; NbExp=20; IntAct=EBI-358766, EBI-947849;
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum membrane
+CC       {ECO:0000269|PubMed:16186509}; Single-pass type I membrane protein
+CC       {ECO:0000269|PubMed:16186509}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9UBV2-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9UBV2-2; Sequence=VSP_013322, VSP_013323;
+CC   -!- TISSUE SPECIFICITY: Highly expressed in pancreas.
+CC   -!- PTM: N-glycosylated. {ECO:0000269|PubMed:12754519,
+CC       ECO:0000269|PubMed:18502753, ECO:0000269|PubMed:19159218}.
+CC   -!- SIMILARITY: Belongs to the sel-1 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/42246/SEL1L";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB024763; BAA89204.1; -; Genomic_DNA.
+DR   EMBL; AB020335; BAA87904.1; -; mRNA.
+DR   EMBL; AF052059; AAF29413.1; -; mRNA.
+DR   EMBL; AF157516; AAF24176.1; -; Genomic_DNA.
+DR   EMBL; AF198647; AAL40905.1; -; Genomic_DNA.
+DR   EMBL; AF198631; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198632; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198633; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198634; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198635; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198636; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198637; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198638; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198639; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198640; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198641; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198642; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198643; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198644; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198645; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AF198646; AAL40905.1; JOINED; Genomic_DNA.
+DR   EMBL; AY358651; AAQ89014.1; -; mRNA.
+DR   CCDS; CCDS58333.1; -. [Q9UBV2-2]
+DR   CCDS; CCDS9876.1; -. [Q9UBV2-1]
+DR   RefSeq; NP_001231913.1; NM_001244984.1. [Q9UBV2-2]
+DR   RefSeq; NP_005056.3; NM_005065.5. [Q9UBV2-1]
+DR   AlphaFoldDB; Q9UBV2; -.
+DR   SMR; Q9UBV2; -.
+DR   BioGRID; 112300; 251.
+DR   CORUM; Q9UBV2; -.
+DR   DIP; DIP-46259N; -.
+DR   IntAct; Q9UBV2; 46.
+DR   MINT; Q9UBV2; -.
+DR   STRING; 9606.ENSP00000337053; -.
+DR   TCDB; 3.A.16.1.4; the endoplasmic reticular retrotranslocon (er-rt) family.
+DR   GlyConnect; 1669; 12 N-Linked glycans (5 sites).
+DR   GlyCosmos; Q9UBV2; 6 sites, 11 glycans.
+DR   GlyGen; Q9UBV2; 14 sites, 11 N-linked glycans (5 sites), 2 O-linked glycans (8 sites).
+DR   iPTMnet; Q9UBV2; -.
+DR   PhosphoSitePlus; Q9UBV2; -.
+DR   SwissPalm; Q9UBV2; -.
+DR   BioMuta; SEL1L; -.
+DR   DMDM; 62512184; -.
+DR   EPD; Q9UBV2; -.
+DR   jPOST; Q9UBV2; -.
+DR   MassIVE; Q9UBV2; -.
+DR   MaxQB; Q9UBV2; -.
+DR   PaxDb; Q9UBV2; -.
+DR   PeptideAtlas; Q9UBV2; -.
+DR   ProteomicsDB; 84077; -. [Q9UBV2-1]
+DR   ProteomicsDB; 84078; -. [Q9UBV2-2]
+DR   Antibodypedia; 13274; 287 antibodies from 30 providers.
+DR   DNASU; 6400; -.
+DR   Ensembl; ENST00000336735.9; ENSP00000337053.4; ENSG00000071537.14. [Q9UBV2-1]
+DR   Ensembl; ENST00000555824.5; ENSP00000450709.1; ENSG00000071537.14. [Q9UBV2-2]
+DR   GeneID; 6400; -.
+DR   KEGG; hsa:6400; -.
+DR   MANE-Select; ENST00000336735.9; ENSP00000337053.4; NM_005065.6; NP_005056.3.
+DR   UCSC; uc001xvo.5; human. [Q9UBV2-1]
+DR   AGR; HGNC:10717; -.
+DR   CTD; 6400; -.
+DR   DisGeNET; 6400; -.
+DR   GeneCards; SEL1L; -.
+DR   HGNC; HGNC:10717; SEL1L.
+DR   HPA; ENSG00000071537; Tissue enriched (pancreas).
+DR   MIM; 602329; gene.
+DR   neXtProt; NX_Q9UBV2; -.
+DR   OpenTargets; ENSG00000071537; -.
+DR   PharmGKB; PA35639; -.
+DR   VEuPathDB; HostDB:ENSG00000071537; -.
+DR   eggNOG; KOG1550; Eukaryota.
+DR   GeneTree; ENSGT00940000156671; -.
+DR   HOGENOM; CLU_007931_2_1_1; -.
+DR   InParanoid; Q9UBV2; -.
+DR   OMA; DMLAKPR; -.
+DR   OrthoDB; 1378605at2759; -.
+DR   PhylomeDB; Q9UBV2; -.
+DR   TreeFam; TF315257; -.
+DR   PathwayCommons; Q9UBV2; -.
+DR   Reactome; R-HSA-1912420; Pre-NOTCH Processing in Golgi.
+DR   Reactome; R-HSA-382556; ABC-family proteins mediated transport.
+DR   Reactome; R-HSA-5358346; Hedgehog ligand biogenesis.
+DR   Reactome; R-HSA-5362768; Hh mutants are degraded by ERAD.
+DR   Reactome; R-HSA-5678895; Defective CFTR causes cystic fibrosis.
+DR   Reactome; R-HSA-901032; ER Quality Control Compartment (ERQC).
+DR   SignaLink; Q9UBV2; -.
+DR   BioGRID-ORCS; 6400; 90 hits in 1160 CRISPR screens.
+DR   ChiTaRS; SEL1L; human.
+DR   GeneWiki; SEL1L; -.
+DR   GenomeRNAi; 6400; -.
+DR   Pharos; Q9UBV2; Tbio.
+DR   PRO; PR:Q9UBV2; -.
+DR   Proteomes; UP000005640; Chromosome 14.
+DR   RNAct; Q9UBV2; protein.
+DR   Bgee; ENSG00000071537; Expressed in body of pancreas and 211 other tissues.
+DR   ExpressionAtlas; Q9UBV2; baseline and differential.
+DR   Genevisible; Q9UBV2; HS.
+DR   GO; GO:0036513; C:Derlin-1 retrotranslocation complex; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IBA:GO_Central.
+DR   GO; GO:0000836; C:Hrd1p ubiquitin ligase complex; TAS:ParkinsonsUK-UCL.
+DR   GO; GO:0000839; C:Hrd1p ubiquitin ligase ERAD-L complex; IMP:UniProtKB.
+DR   GO; GO:0036503; P:ERAD pathway; IMP:UniProtKB.
+DR   GO; GO:0007219; P:Notch signaling pathway; IEA:UniProtKB-KW.
+DR   GO; GO:0009306; P:protein secretion; ISS:UniProtKB.
+DR   GO; GO:0050821; P:protein stabilization; TAS:ParkinsonsUK-UCL.
+DR   GO; GO:0030970; P:retrograde protein transport, ER to cytosol; IMP:ParkinsonsUK-UCL.
+DR   GO; GO:0006641; P:triglyceride metabolic process; ISS:UniProtKB.
+DR   GO; GO:0030433; P:ubiquitin-dependent ERAD pathway; TAS:ParkinsonsUK-UCL.
+DR   CDD; cd00062; FN2; 1.
+DR   Gene3D; 2.10.10.10; Fibronectin, type II, collagen-binding; 1.
+DR   Gene3D; 1.25.40.10; Tetratricopeptide repeat domain; 3.
+DR   InterPro; IPR000562; FN_type2_dom.
+DR   InterPro; IPR036943; FN_type2_sf.
+DR   InterPro; IPR013806; Kringle-like.
+DR   InterPro; IPR006597; Sel1-like.
+DR   InterPro; IPR011990; TPR-like_helical_dom_sf.
+DR   PANTHER; PTHR11102:SF70; PROTEIN SEL-1 HOMOLOG 1; 1.
+DR   PANTHER; PTHR11102; SEL-1-LIKE PROTEIN; 1.
+DR   Pfam; PF00040; fn2; 1.
+DR   Pfam; PF08238; Sel1; 12.
+DR   PRINTS; PR00013; FNTYPEII.
+DR   SMART; SM00059; FN2; 1.
+DR   SMART; SM00671; SEL1; 11.
+DR   SUPFAM; SSF81901; HCP-like; 3.
+DR   SUPFAM; SSF57440; Kringle-like; 1.
+DR   PROSITE; PS00023; FN2_1; 1.
+DR   PROSITE; PS51092; FN2_2; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Disulfide bond; Endoplasmic reticulum; Glycoprotein;
+KW   Host-virus interaction; Membrane; Notch signaling pathway; Phosphoprotein;
+KW   Reference proteome; Repeat; Signal; Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..21
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           22..794
+FT                   /note="Protein sel-1 homolog 1"
+FT                   /id="PRO_0000022294"
+FT   TOPO_DOM        22..738
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        739..759
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        760..794
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          122..170
+FT                   /note="Fibronectin type-II"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00479"
+FT   REPEAT          183..218
+FT                   /note="Sel1-like 1"
+FT   REPEAT          219..254
+FT                   /note="Sel1-like 2"
+FT   REPEAT          255..290
+FT                   /note="Sel1-like 3"
+FT   REPEAT          291..326
+FT                   /note="Sel1-like 4"
+FT   REPEAT          373..409
+FT                   /note="Sel1-like 5"
+FT   REPEAT          410..446
+FT                   /note="Sel1-like 6"
+FT   REPEAT          447..482
+FT                   /note="Sel1-like 7"
+FT   REPEAT          483..518
+FT                   /note="Sel1-like 8"
+FT   REPEAT          519..554
+FT                   /note="Sel1-like 9"
+FT   REPEAT          627..662
+FT                   /note="Sel1-like 10"
+FT   REPEAT          664..699
+FT                   /note="Sel1-like 11"
+FT   REGION          21..50
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          22..737
+FT                   /note="Interaction with ERLEC1, OS9 and SYVN1"
+FT   REGION          64..109
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          352..537
+FT                   /note="Important for homodimerization and oligomerization"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9Z2G6"
+FT   REGION          643..723
+FT                   /note="Interaction with SYVN1"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9Z2G6"
+FT   REGION          738..794
+FT                   /note="Mediates retention in the endoplasmic reticulum"
+FT   REGION          766..794
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        29..49
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        770..794
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         63
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   CARBOHYD        195
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        217
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        272
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:12754519"
+FT   CARBOHYD        431
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        608
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   DISULFID        127..153
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00479"
+FT   DISULFID        141..168
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00479"
+FT   VAR_SEQ         298..301
+FT                   /note="GYRY -> VSRL (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:12975309"
+FT                   /id="VSP_013322"
+FT   VAR_SEQ         302..794
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:12975309"
+FT                   /id="VSP_013323"
+FT   VARIANT         162
+FT                   /note="D -> G (in dbSNP:rs11499034)"
+FT                   /id="VAR_029303"
+FT   VARIANT         714
+FT                   /note="V -> I (in dbSNP:rs1051193)"
+FT                   /id="VAR_053963"
+FT   CONFLICT        186
+FT                   /note="M -> V (in Ref. 2; AAF29413/AAL40905)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   794 AA;  88755 MW;  323EB03DC7485459 CRC64;
+     MRVRIGLTLL LCAVLLSLAS ASSDEEGSQD ESLDSKTTLT SDESVKDHTT AGRVVAGQIF
+     LDSEESELES SIQEEEDSLK SQEGESVTED ISFLESPNPE NKDYEEPKKV RKPALTAIEG
+     TAHGEPCHFP FLFLDKEYDE CTSDGREDGR LWCATTYDYK ADEKWGFCET EEEAAKRRQM
+     QEAEMMYQTG MKILNGSNKK SQKREAYRYL QKAASMNHTK ALERVSYALL FGDYLPQNIQ
+     AAREMFEKLT EEGSPKGQTA LGFLYASGLG VNSSQAKALV YYTFGALGGN LIAHMVLGYR
+     YWAGIGVLQS CESALTHYRL VANHVASDIS LTGGSVVQRI RLPDEVENPG MNSGMLEEDL
+     IQYYQFLAEK GDVQAQVGLG QLHLHGGRGV EQNHQRAFDY FNLAANAGNS HAMAFLGKMY
+     SEGSDIVPQS NETALHYFKK AADMGNPVGQ SGLGMAYLYG RGVQVNYDLA LKYFQKAAEQ
+     GWVDGQLQLG SMYYNGIGVK RDYKQALKYF NLASQGGHIL AFYNLAQMHA SGTGVMRSCH
+     TAVELFKNVC ERGRWSERLM TAYNSYKDGD YNAAVIQYLL LAEQGYEVAQ SNAAFILDQR
+     EASIVGENET YPRALLHWNR AASQGYTVAR IKLGDYHFYG FGTDVDYETA FIHYRLASEQ
+     QHSAQAMFNL GYMHEKGLGI KQDIHLAKRF YDMAAEASPD AQVPVFLALC KLGVVYFLQY
+     IRETNIRDMF TQLDMDQLLG PEWDLYLMTI IALLLGTVIA YRQRQHQDMP APRPPGPRPA
+     PPQQEGPPEQ QPPQ
+//

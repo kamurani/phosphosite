@@ -1,0 +1,577 @@
+ID   RBL1_HUMAN              Reviewed;        1068 AA.
+AC   P28749; A8K2W5; Q4VXA0; Q8N5K6; Q9H1L5; Q9H1M1;
+DT   01-DEC-1992, integrated into UniProtKB/Swiss-Prot.
+DT   07-MAR-2006, sequence version 3.
+DT   28-JUN-2023, entry version 224.
+DE   RecName: Full=Retinoblastoma-like protein 1;
+DE   AltName: Full=107 kDa retinoblastoma-associated protein;
+DE            Short=p107;
+DE   AltName: Full=pRb1;
+GN   Name=RBL1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND FUNCTION.
+RX   PubMed=8319904; DOI=10.1101/gad.7.7a.1111;
+RA   Zhu L., van den Heuvel S., Helin K., Fattaey A., Ewen M., Livingston D.,
+RA   Dyson N., Harlow E.;
+RT   "Inhibition of cell proliferation by p107, a relative of the retinoblastoma
+RT   protein.";
+RL   Genes Dev. 7:1111-1125(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Tongue;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J., Buck D., Burrill W.D.,
+RA   Butler A.P., Carder C., Carter N.P., Chapman J.C., Clamp M., Clark G.,
+RA   Clark L.N., Clark S.Y., Clee C.M., Clegg S., Cobley V.E., Collier R.E.,
+RA   Connor R.E., Corby N.R., Coulson A., Coville G.J., Deadman R., Dhami P.D.,
+RA   Dunn M., Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H., Rice C.M.,
+RA   Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S., Skuce C.D.,
+RA   Smith M.L., Soderlund C., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A., Tracey A.,
+RA   Tromans A.C., Vaudin M., Wall M., Wallis J.M., Whitehead S.L.,
+RA   Whittaker P., Willey D.L., Williams L., Williams S.A., Wilming L.,
+RA   Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 134-1068 (ISOFORM 1), AND PARTIAL PROTEIN
+RP   SEQUENCE.
+RX   PubMed=1833063; DOI=10.1016/0092-8674(91)90038-z;
+RA   Ewen M.E., Xing Y., Lawrence J.B., Livingston D.M.;
+RT   "Molecular cloning, chromosomal mapping, and expression of the cDNA for
+RT   p107, a retinoblastoma gene product-related protein.";
+RL   Cell 66:1155-1164(1991).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-52.
+RX   PubMed=7791762; DOI=10.1128/mcb.15.7.3552;
+RA   Zhu L., Zhu L., Xie E., Chang L.S.;
+RT   "Differential roles of two tandem E2F sites in repression of the human p107
+RT   promoter by retinoblastoma and p107 proteins.";
+RL   Mol. Cell. Biol. 15:3552-3562(1995).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 320-334; 364-374; 635-657; 949-977 AND 1006-1012,
+RP   PHOSPHORYLATION AT THR-332; THR-369; THR-385; SER-640; SER-762; SER-964;
+RP   SER-975; SER-988; THR-997 AND SER-1009, MUTAGENESIS OF SER-640; SER-643;
+RP   SER-650 AND 657-LYS--LEU-660, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=11884610; DOI=10.1128/mcb.22.7.2242-2254.2002;
+RA   Leng X., Noble M., Adams P.D., Qin J., Harper J.W.;
+RT   "Reversal of growth suppression by p107 via direct phosphorylation by
+RT   cyclin D1/cyclin-dependent kinase 4.";
+RL   Mol. Cell. Biol. 22:2242-2254(2002).
+RN   [9]
+RP   INTERACTION WITH SV40 AND JC VIRUS LARGE T ANTIGEN (MICROBIAL INFECTION).
+RX   PubMed=2546678; DOI=10.1016/0092-8674(89)90839-8;
+RA   Dyson N., Buchkovich K., Whyte P., Harlow E.;
+RT   "The cellular 107K protein that binds to adenovirus E1A also associates
+RT   with the large T antigens of SV40 and JC virus.";
+RL   Cell 58:249-255(1989).
+RN   [10]
+RP   INTERACTION WITH KDM5A.
+RX   PubMed=7935440; DOI=10.1128/mcb.14.11.7256-7264.1994;
+RA   Kim Y.W., Otterson G.A., Kratzke R.A., Coxon A.B., Kaye F.J.;
+RT   "Differential specificity for binding of retinoblastoma binding protein 2
+RT   to RB, p107, and TATA-binding protein.";
+RL   Mol. Cell. Biol. 14:7256-7264(1994).
+RN   [11]
+RP   INTERACTION WITH AATF.
+RX   PubMed=12450794; DOI=10.1016/s1535-6108(02)00182-4;
+RA   Bruno T., De Angelis R., De Nicola F., Barbato C., Di Padova M., Corbi N.,
+RA   Libri V., Benassi B., Mattei E., Chersi A., Soddu S., Floridi A.,
+RA   Passananti C., Fanciulli M.;
+RT   "Che-1 affects cell growth by interfering with the recruitment of HDAC1 by
+RT   Rb.";
+RL   Cancer Cell 2:387-399(2002).
+RN   [12]
+RP   PHOSPHORYLATION AT THR-369 AND SER-650.
+RX   PubMed=12006580; DOI=10.1074/jbc.m200381200;
+RA   Farkas T., Hansen K., Holm K., Lukas J., Bartek J.;
+RT   "Distinct phosphorylation events regulate p130- and p107-mediated
+RT   repression of E2F-4.";
+RL   J. Biol. Chem. 277:26741-26752(2002).
+RN   [13]
+RP   INTERACTION WITH E2F4 AND TFDP1.
+RX   PubMed=16360038; DOI=10.1016/j.cell.2005.09.044;
+RA   Rubin S.M., Gall A.-L., Zheng N., Pavletich N.P.;
+RT   "Structure of the Rb C-terminal domain bound to E2F1-DP1: a mechanism for
+RT   phosphorylation-induced E2F release.";
+RL   Cell 123:1093-1106(2005).
+RN   [14]
+RP   FUNCTION, AND IDENTIFICATION IN THE DREAM COMPLEX.
+RX   PubMed=17671431; DOI=10.4161/cc.6.15.4512;
+RA   Schmit F., Korenjak M., Mannefeld M., Schmitt K., Franke C., von Eyss B.,
+RA   Gagrica S., Haenel F., Brehm A., Gaubatz S.;
+RT   "LINC, a human complex that is related to pRB-containing complexes in
+RT   invertebrates regulates the expression of G2/M genes.";
+RL   Cell Cycle 6:1903-1913(2007).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-385; SER-749 AND SER-762, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [16]
+RP   INTERACTION WITH JC VIRUS SMALL T ANTIGEN (MICROBIAL INFECTION).
+RX   PubMed=20485545; DOI=10.1371/journal.pone.0010606;
+RA   Bollag B., Hofstetter C.A., Reviriego-Mendoza M.M., Frisque R.J.;
+RT   "JC virus small T antigen binds phosphatase PP2A and Rb family proteins and
+RT   is required for efficient viral DNA replication activity.";
+RL   PLoS ONE 5:e10606-e10606(2010).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-332; THR-369; THR-385;
+RP   SER-640; SER-749; SER-762; SER-988 AND SER-1041, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+CC   -!- FUNCTION: Key regulator of entry into cell division (PubMed:17671431).
+CC       Directly involved in heterochromatin formation by maintaining overall
+CC       chromatin structure and, in particular, that of constitutive
+CC       heterochromatin by stabilizing histone methylation (By similarity).
+CC       Recruits and targets histone methyltransferases KMT5B and KMT5C,
+CC       leading to epigenetic transcriptional repression (By similarity).
+CC       Controls histone H4 'Lys-20' trimethylation (By similarity). Probably
+CC       acts as a transcription repressor by recruiting chromatin-modifying
+CC       enzymes to promoters (By similarity). Potent inhibitor of E2F-mediated
+CC       trans-activation (PubMed:8319904). May act as a tumor suppressor
+CC       (PubMed:8319904). {ECO:0000250|UniProtKB:Q64701,
+CC       ECO:0000269|PubMed:17671431, ECO:0000269|PubMed:8319904}.
+CC   -!- SUBUNIT: Component of the DREAM complex (also named LINC complex) at
+CC       least composed of E2F4, E2F5, LIN9, LIN37, LIN52, LIN54, MYBL1, MYBL2,
+CC       RBL1, RBL2, RBBP4, TFDP1 and TFDP2 (PubMed:17671431, PubMed:16360038).
+CC       The complex exists in quiescent cells where it represses cell cycle-
+CC       dependent genes (PubMed:17671431). It dissociates in S phase when LIN9,
+CC       LIN37, LIN52 and LIN54 form a subcomplex that binds to MYBL2
+CC       (PubMed:17671431). Interacts with AATF (PubMed:12450794). Interacts
+CC       with KDM5A (PubMed:7935440). Interacts with KMT5B and KMT5C (By
+CC       similarity). Interacts with USP4 (By similarity). Interacts with RBBP9
+CC       (By similarity). {ECO:0000250|UniProtKB:D3ZS28,
+CC       ECO:0000250|UniProtKB:Q64701, ECO:0000269|PubMed:12450794,
+CC       ECO:0000269|PubMed:16360038, ECO:0000269|PubMed:17671431,
+CC       ECO:0000269|PubMed:7935440}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with SV40 and JC virus large T
+CC       antigens. Large T antigen, but not E1A, binds only to the
+CC       unphosphorylated form. {ECO:0000269|PubMed:2546678}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with JC virus small t antigen.
+CC       {ECO:0000269|PubMed:20485545}.
+CC   -!- INTERACTION:
+CC       P28749; Q9BUH8: BEGAIN; NbExp=2; IntAct=EBI-971402, EBI-742722;
+CC       P28749; P11802: CDK4; NbExp=2; IntAct=EBI-971402, EBI-295644;
+CC       P28749; Q13574-2: DGKZ; NbExp=2; IntAct=EBI-971402, EBI-715527;
+CC       P28749; Q13627: DYRK1A; NbExp=4; IntAct=EBI-971402, EBI-1053596;
+CC       P28749; Q9Y463: DYRK1B; NbExp=4; IntAct=EBI-971402, EBI-634187;
+CC       P28749; O43524: FOXO3; NbExp=3; IntAct=EBI-971402, EBI-1644164;
+CC       P28749; Q14653: IRF3; NbExp=2; IntAct=EBI-971402, EBI-2650369;
+CC       P28749; P67775: PPP2CA; NbExp=2; IntAct=EBI-971402, EBI-712311;
+CC       P28749; P03129: E7; Xeno; NbExp=4; IntAct=EBI-971402, EBI-866453;
+CC       P28749; P24610: Pax3; Xeno; NbExp=3; IntAct=EBI-971402, EBI-1208116;
+CC       P28749; Q923E4: Sirt1; Xeno; NbExp=2; IntAct=EBI-971402, EBI-1802585;
+CC       P28749; P03255; Xeno; NbExp=3; IntAct=EBI-971402, EBI-2603114;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P28749-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P28749-2; Sequence=VSP_017496;
+CC   -!- PTM: Cell-cycle arrest properties are inactivated by phosphorylation on
+CC       Thr-332, Ser-640, Ser-964 and Ser-975 by CDK4.
+CC       {ECO:0000269|PubMed:11884610, ECO:0000269|PubMed:12006580}.
+CC   -!- SIMILARITY: Belongs to the retinoblastoma protein (RB) family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L14812; AAA02489.1; -; mRNA.
+DR   EMBL; AK290380; BAF83069.1; -; mRNA.
+DR   EMBL; AL136172; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL365505; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL391114; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471077; EAW76088.1; -; Genomic_DNA.
+DR   EMBL; BC032247; AAH32247.1; -; mRNA.
+DR   EMBL; M74547; AAA36397.1; -; mRNA.
+DR   EMBL; S78664; AAD14290.1; -; Genomic_DNA.
+DR   CCDS; CCDS13289.1; -. [P28749-1]
+DR   CCDS; CCDS13290.1; -. [P28749-2]
+DR   PIR; A47319; A40265.
+DR   RefSeq; NP_002886.2; NM_002895.4. [P28749-1]
+DR   RefSeq; NP_899662.1; NM_183404.3. [P28749-2]
+DR   PDB; 1H28; X-ray; 2.80 A; E/F=653-663.
+DR   PDB; 4YOO; X-ray; 2.40 A; A=391-600, A=781-972.
+DR   PDB; 4YOS; X-ray; 2.30 A; A=391-599.
+DR   PDB; 4YOZ; X-ray; 2.25 A; A=391-593, A=777-972.
+DR   PDB; 5TUV; X-ray; 2.90 A; C/F=994-1031.
+DR   PDB; 7SMC; X-ray; 2.70 A; A/C=391-972.
+DR   PDB; 7SMD; X-ray; 2.15 A; A=391-972.
+DR   PDB; 7SME; X-ray; 2.64 A; A=391-972.
+DR   PDB; 7SMF; X-ray; 3.00 A; A/C=391-972.
+DR   PDBsum; 1H28; -.
+DR   PDBsum; 4YOO; -.
+DR   PDBsum; 4YOS; -.
+DR   PDBsum; 4YOZ; -.
+DR   PDBsum; 5TUV; -.
+DR   PDBsum; 7SMC; -.
+DR   PDBsum; 7SMD; -.
+DR   PDBsum; 7SME; -.
+DR   PDBsum; 7SMF; -.
+DR   AlphaFoldDB; P28749; -.
+DR   SMR; P28749; -.
+DR   BioGRID; 111868; 96.
+DR   CORUM; P28749; -.
+DR   DIP; DIP-148N; -.
+DR   ELM; P28749; -.
+DR   IntAct; P28749; 56.
+DR   MINT; P28749; -.
+DR   STRING; 9606.ENSP00000362768; -.
+DR   GlyGen; P28749; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P28749; -.
+DR   PhosphoSitePlus; P28749; -.
+DR   BioMuta; RBL1; -.
+DR   DMDM; 90103515; -.
+DR   EPD; P28749; -.
+DR   jPOST; P28749; -.
+DR   MassIVE; P28749; -.
+DR   MaxQB; P28749; -.
+DR   PaxDb; P28749; -.
+DR   PeptideAtlas; P28749; -.
+DR   ProteomicsDB; 54497; -. [P28749-1]
+DR   ProteomicsDB; 54498; -. [P28749-2]
+DR   Antibodypedia; 11876; 487 antibodies from 35 providers.
+DR   CPTC; P28749; 1 antibody.
+DR   DNASU; 5933; -.
+DR   Ensembl; ENST00000344359.7; ENSP00000343646.3; ENSG00000080839.12. [P28749-2]
+DR   Ensembl; ENST00000373664.8; ENSP00000362768.3; ENSG00000080839.12. [P28749-1]
+DR   GeneID; 5933; -.
+DR   KEGG; hsa:5933; -.
+DR   MANE-Select; ENST00000373664.8; ENSP00000362768.3; NM_002895.5; NP_002886.2.
+DR   UCSC; uc002xgi.5; human. [P28749-1]
+DR   AGR; HGNC:9893; -.
+DR   CTD; 5933; -.
+DR   DisGeNET; 5933; -.
+DR   GeneCards; RBL1; -.
+DR   HGNC; HGNC:9893; RBL1.
+DR   HPA; ENSG00000080839; Tissue enhanced (bone).
+DR   MIM; 116957; gene.
+DR   neXtProt; NX_P28749; -.
+DR   OpenTargets; ENSG00000080839; -.
+DR   PharmGKB; PA34257; -.
+DR   VEuPathDB; HostDB:ENSG00000080839; -.
+DR   eggNOG; KOG1010; Eukaryota.
+DR   GeneTree; ENSGT00950000183202; -.
+DR   HOGENOM; CLU_008943_0_1_1; -.
+DR   InParanoid; P28749; -.
+DR   OMA; AILCELH; -.
+DR   OrthoDB; 519973at2759; -.
+DR   PhylomeDB; P28749; -.
+DR   TreeFam; TF105568; -.
+DR   PathwayCommons; P28749; -.
+DR   Reactome; R-HSA-1362277; Transcription of E2F targets under negative control by DREAM complex.
+DR   Reactome; R-HSA-1362300; Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1.
+DR   Reactome; R-HSA-1538133; G0 and Early G1.
+DR   Reactome; R-HSA-2173796; SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription.
+DR   Reactome; R-HSA-6804114; TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest.
+DR   Reactome; R-HSA-69205; G1/S-Specific Transcription.
+DR   Reactome; R-HSA-69231; Cyclin D associated events in G1.
+DR   SignaLink; P28749; -.
+DR   SIGNOR; P28749; -.
+DR   BioGRID-ORCS; 5933; 27 hits in 1165 CRISPR screens.
+DR   ChiTaRS; RBL1; human.
+DR   EvolutionaryTrace; P28749; -.
+DR   GeneWiki; Retinoblastoma-like_protein_1; -.
+DR   GenomeRNAi; 5933; -.
+DR   Pharos; P28749; Tbio.
+DR   PRO; PR:P28749; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   RNAct; P28749; protein.
+DR   Bgee; ENSG00000080839; Expressed in buccal mucosa cell and 154 other tissues.
+DR   ExpressionAtlas; P28749; baseline and differential.
+DR   Genevisible; P28749; HS.
+DR   GO; GO:0000785; C:chromatin; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:CAFA.
+DR   GO; GO:0005667; C:transcription regulator complex; IBA:GO_Central.
+DR   GO; GO:1990841; F:promoter-specific chromatin binding; IDA:MGI.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0030154; P:cell differentiation; IBA:GO_Central.
+DR   GO; GO:0006325; P:chromatin organization; IEA:UniProtKB-KW.
+DR   GO; GO:2000773; P:negative regulation of cellular senescence; IMP:BHF-UCL.
+DR   GO; GO:2000134; P:negative regulation of G1/S transition of mitotic cell cycle; IBA:GO_Central.
+DR   GO; GO:0010629; P:negative regulation of gene expression; IMP:MGI.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IEA:Ensembl.
+DR   GO; GO:0043550; P:regulation of lipid kinase activity; IDA:UniProtKB.
+DR   CDD; cd20605; CYCLIN_RBL1; 1.
+DR   Gene3D; 1.10.472.140; -; 1.
+DR   Gene3D; 1.10.472.10; Cyclin-like; 3.
+DR   IDEAL; IID00130; -.
+DR   InterPro; IPR013763; Cyclin-like_dom.
+DR   InterPro; IPR036915; Cyclin-like_sf.
+DR   InterPro; IPR002720; RB_A.
+DR   InterPro; IPR002719; RB_B.
+DR   InterPro; IPR015030; RB_C.
+DR   InterPro; IPR028309; RB_fam.
+DR   InterPro; IPR024599; RB_N.
+DR   PANTHER; PTHR13742; RETINOBLASTOMA-ASSOCIATED PROTEIN RB -RELATED; 1.
+DR   PANTHER; PTHR13742:SF20; RETINOBLASTOMA-LIKE PROTEIN 1; 1.
+DR   Pfam; PF11934; DUF3452; 1.
+DR   Pfam; PF01858; RB_A; 1.
+DR   Pfam; PF01857; RB_B; 1.
+DR   Pfam; PF08934; Rb_C; 1.
+DR   SMART; SM00385; CYCLIN; 1.
+DR   SMART; SM01367; DUF3452; 1.
+DR   SMART; SM01368; RB_A; 1.
+DR   SMART; SM01369; Rb_C; 1.
+DR   SUPFAM; SSF47954; Cyclin-like; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell cycle; Chromatin regulator;
+KW   Direct protein sequencing; Host-virus interaction; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repressor; Transcription; Transcription regulation;
+KW   Tumor suppressor.
+FT   CHAIN           1..1068
+FT                   /note="Retinoblastoma-like protein 1"
+FT                   /id="PRO_0000167839"
+FT   REGION          385..949
+FT                   /note="Pocket; binds T and E1A"
+FT                   /evidence="ECO:0000305|PubMed:7935440"
+FT   REGION          385..584
+FT                   /note="Domain A"
+FT                   /evidence="ECO:0000305"
+FT   REGION          585..780
+FT                   /note="Spacer"
+FT                   /evidence="ECO:0000305"
+FT   REGION          781..949
+FT                   /note="Domain B"
+FT                   /evidence="ECO:0000305"
+FT   MOD_RES         332
+FT                   /note="Phosphothreonine; by CDK2"
+FT                   /evidence="ECO:0000269|PubMed:11884610,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         369
+FT                   /note="Phosphothreonine; by CDK4"
+FT                   /evidence="ECO:0000269|PubMed:11884610,
+FT                   ECO:0000269|PubMed:12006580, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         385
+FT                   /note="Phosphothreonine; by CDK2"
+FT                   /evidence="ECO:0000269|PubMed:11884610,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         640
+FT                   /note="Phosphoserine; by CDK2 and CDK4"
+FT                   /evidence="ECO:0000269|PubMed:11884610,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         650
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:12006580"
+FT   MOD_RES         749
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         762
+FT                   /note="Phosphoserine; by CDK2"
+FT                   /evidence="ECO:0000269|PubMed:11884610,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         964
+FT                   /note="Phosphoserine; by CDK2 and CDK4"
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   MOD_RES         975
+FT                   /note="Phosphoserine; by CDK2 and CDK4"
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   MOD_RES         988
+FT                   /note="Phosphoserine; by CDK2"
+FT                   /evidence="ECO:0000269|PubMed:11884610,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         997
+FT                   /note="Phosphothreonine; by CDK2"
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   MOD_RES         1009
+FT                   /note="Phosphoserine; by CDK2"
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   MOD_RES         1041
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1013..1068
+FT                   /note="SLKDINNMIRQGEQRTKKRVIAIDSDAESPAKRVCQENDDVLLKRLQDVVSE
+FT                   RANH -> VR (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_017496"
+FT   VARIANT         1035
+FT                   /note="I -> M (in dbSNP:rs8114297)"
+FT                   /id="VAR_034443"
+FT   MUTAGEN         640
+FT                   /note="S->A: Strongly reduces phosphorylation by CDK2 and
+FT                   CDK4."
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   MUTAGEN         643
+FT                   /note="S->R: No effect on S-640 phosphorylation, but
+FT                   strongly increases S-640 phosphorylation; when associated
+FT                   with 657-A--A-660."
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   MUTAGEN         650
+FT                   /note="S->A: No effect on phosphorylation by CDK2."
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   MUTAGEN         657..660
+FT                   /note="KRRL->AAAA: Reduces S-640 phosphorylation by CDK2
+FT                   and CDK4."
+FT                   /evidence="ECO:0000269|PubMed:11884610"
+FT   CONFLICT        326
+FT                   /note="Missing (in Ref. 8; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        928
+FT                   /note="G -> S (in Ref. 1 and 6)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           392..401
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           410..418
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   STRAND          419..421
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           424..442
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   STRAND          447..449
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           454..478
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           480..483
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           489..492
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           495..512
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           521..525
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           530..533
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           536..543
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           549..564
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           566..568
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           574..580
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   TURN            581..583
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           588..592
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           787..809
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           814..830
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           832..835
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           840..855
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           861..868
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           877..880
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   STRAND          881..885
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   STRAND          926..928
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           930..936
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           938..946
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   HELIX           947..949
+FT                   /evidence="ECO:0007829|PDB:7SMD"
+FT   STRAND          1001..1005
+FT                   /evidence="ECO:0007829|PDB:5TUV"
+FT   TURN            1006..1008
+FT                   /evidence="ECO:0007829|PDB:5TUV"
+FT   HELIX           1011..1023
+FT                   /evidence="ECO:0007829|PDB:5TUV"
+SQ   SEQUENCE   1068 AA;  120847 MW;  2BC4876EA04BDB31 CRC64;
+     MFEDKPHAEG AAVVAAAGEA LQALCQELNL DEGSAAEALD DFTAIRGNYS LEGEVTHWLA
+     CSLYVACRKS IIPTVGKGIM EGNCVSLTRI LRSAKLSLIQ FFSKMKKWMD MSNLPQEFRE
+     RIERLERNFE VSTVIFKKYE PIFLDIFQNP YEEPPKLPRS RKQRRIPCSV KDLFNFCWTL
+     FVYTKGNFRM IGDDLVNSYH LLLCCLDLIF ANAIMCPNRQ DLLNPSFKGL PSDFHTADFT
+     ASEEPPCIIA VLCELHDGLL VEAKGIKEHY FKPYISKLFD RKILKGECLL DLSSFTDNSK
+     AVNKEYEEYV LTVGDFDERI FLGADAEEEI GTPRKFTRDT PLGKLTAQAN VEYNLQQHFE
+     KKRSFAPSTP LTGRRYLREK EAVITPVASA TQSVSRLQSI VAGLKNAPSD QLINIFESCV
+     RNPVENIMKI LKGIGETFCQ HYTQSTDEQP GSHIDFAVNR LKLAEILYYK ILETVMVQET
+     RRLHGMDMSV LLEQDIFHRS LMACCLEIVL FAYSSPRTFP WIIEVLNLQP FYFYKVIEVV
+     IRSEEGLSRD MVKHLNSIEE QILESLAWSH DSALWEALQV SANKVPTCEE VIFPNNFETG
+     NGGNVQGHLP LMPMSPLMHP RVKEVRTDSG SLRRDMQPLS PISVHERYSS PTAGSAKRRL
+     FGEDPPKEML MDKIITEGTK LKIAPSSSIT AENVSILPGQ TLLTMATAPV TGTTGHKVTI
+     PLHGVANDAG EITLIPLSMN TNQESKVKSP VSLTAHSLIG ASPKQTNLTK AQEVHSTGIN
+     RPKRTGSLAL FYRKVYHLAS VRLRDLCLKL DVSNELRRKI WTCFEFTLVH CPDLMKDRHL
+     DQLLLCAFYI MAKVTKEERT FQEIMKSYRN QPQANSHVYR SVLLKSIPRE VVAYNKNIND
+     DFEMIDCDLE DATKTPDCSS GPVKEERGDL IKFYNTIYVG RVKSFALKYD LANQDHMMDA
+     PPLSPFPHIK QQPGSPRRIS QQHSIYISPH KNGSGLTPRS ALLYKFNGSP SKSLKDINNM
+     IRQGEQRTKK RVIAIDSDAE SPAKRVCQEN DDVLLKRLQD VVSERANH
+//

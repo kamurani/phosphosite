@@ -1,0 +1,429 @@
+ID   SLD5_HUMAN              Reviewed;         223 AA.
+AC   Q9BRT9; B2R8H5; D3DSY0; Q8N648;
+DT   08-APR-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   28-JUN-2023, entry version 163.
+DE   RecName: Full=DNA replication complex GINS protein SLD5;
+DE   AltName: Full=GINS complex subunit 4;
+DE   Contains:
+DE     RecName: Full=DNA replication complex GINS protein SLD5, N-terminally processed;
+GN   Name=GINS4 {ECO:0000312|HGNC:HGNC:28226}; Synonyms=SLD5;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Thymus, and Tongue;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Kidney, and Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   SUBUNIT, AND INTERACTION WITH DNA PRIMASE.
+RX   PubMed=17170760; DOI=10.1038/sj.embor.7400870;
+RA   De Falco M., Ferrari E., De Felice M., Rossi M., Hubscher U., Pisani F.M.;
+RT   "The human GINS complex binds to and specifically stimulates human DNA
+RT   polymerase alpha-primase.";
+RL   EMBO Rep. 8:99-103(2007).
+RN   [5]
+RP   INDUCTION.
+RX   PubMed=17611626; DOI=10.1371/journal.pone.0000594;
+RA   Ryu B., Kim D.S., Deluca A.M., Alani R.M.;
+RT   "Comprehensive expression profiling of tumor cell lines identifies
+RT   molecular signatures of melanoma progression.";
+RL   PLoS ONE 2:E594-E594(2007).
+RN   [6]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, PHOSPHORYLATION [LARGE SCALE
+RP   ANALYSIS] AT SER-12 AND SER-16, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [8]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT THR-2, PHOSPHORYLATION [LARGE SCALE
+RP   ANALYSIS] AT SER-12 AND SER-16, CLEAVAGE OF INITIATOR METHIONINE [LARGE
+RP   SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [9]
+RP   INTERACTION WITH GINS1.
+RX   PubMed=28414293; DOI=10.1172/jci90727;
+RA   Cottineau J., Kottemann M.C., Lach F.P., Kang Y.H., Vely F., Deenick E.K.,
+RA   Lazarov T., Gineau L., Wang Y., Farina A., Chansel M., Lorenzo L.,
+RA   Piperoglou C., Ma C.S., Nitschke P., Belkadi A., Itan Y., Boisson B.,
+RA   Jabot-Hanin F., Picard C., Bustamante J., Eidenschenk C., Boucherit S.,
+RA   Aladjidi N., Lacombe D., Barat P., Qasim W., Hurst J.A., Pollard A.J.,
+RA   Uhlig H.H., Fieschi C., Michon J., Bermudez V.P., Abel L.,
+RA   de Villartay J.P., Geissmann F., Tangye S.G., Hurwitz J., Vivier E.,
+RA   Casanova J.L., Smogorzewska A., Jouanguy E.;
+RT   "Inherited GINS1 deficiency underlies growth retardation along with
+RT   neutropenia and NK cell deficiency.";
+RL   J. Clin. Invest. 127:1991-2006(2017).
+RN   [10]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=35585232; DOI=10.1038/s41586-022-04759-1;
+RA   Baris Y., Taylor M.R.G., Aria V., Yeeles J.T.P.;
+RT   "Fast and efficient DNA replication with purified human proteins.";
+RL   Nature 606:204-210(2022).
+RN   [11]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (33 ANGSTROMS) IN COMPLEX WITH GINS1;
+RP   GINS2 AND GINS3, SUBUNIT, AND MASS SPECTROMETRY OF GINS COMPLEX.
+RX   PubMed=17557111; DOI=10.1038/sj.embor.7401002;
+RA   Boskovic J., Coloma J., Aparicio T., Zhou M., Robinson C.V., Mendez J.,
+RA   Montoya G.;
+RT   "Molecular architecture of the human GINS complex.";
+RL   EMBO Rep. 8:678-684(2007).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 11-213 IN COMPLEX WITH GINS1;
+RP   GINS2 AND GINS3, AND SUBUNIT.
+RX   PubMed=17545466; DOI=10.1101/gad.1548107;
+RA   Choi J.M., Lim H.S., Kim J.J., Song O.K., Cho Y.;
+RT   "Crystal structure of the human GINS complex.";
+RL   Genes Dev. 21:1316-1321(2007).
+RN   [13]
+RP   FUNCTION, X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) IN COMPLEX WITH GINS1;
+RP   GINS2 AND GINS3, SUBUNIT, AND REGION.
+RX   PubMed=17417653; DOI=10.1038/nsmb1231;
+RA   Kamada K., Kubota Y., Arata T., Shindo Y., Hanaoka F.;
+RT   "Structure of the human GINS complex and its assembly and functional
+RT   interface in replication initiation.";
+RL   Nat. Struct. Mol. Biol. 14:388-396(2007).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.36 ANGSTROMS) IN COMPLEX WITH GINS1; GINS2 AND
+RP   GINS3, AND SUBUNIT.
+RX   PubMed=17652513; DOI=10.1073/pnas.0705558104;
+RA   Chang Y.P., Wang G., Bermudez V., Hurwitz J., Chen X.S.;
+RT   "Crystal structure of the GINS complex and functional insights into its
+RT   role in DNA replication.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:12685-12690(2007).
+RN   [15] {ECO:0007744|PDB:6XTX, ECO:0007744|PDB:6XTY}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.29 ANGSTROMS) IN CMG COMPLEX, SUBUNIT,
+RP   AND FUNCTION.
+RX   PubMed=32453425; DOI=10.1093/nar/gkaa429;
+RA   Rzechorzek N.J., Hardwick S.W., Jatikusumo V.A., Chirgadze D.Y.,
+RA   Pellegrini L.;
+RT   "CryoEM structures of human CMG-ATPgammaS-DNA and CMG-AND-1 complexes.";
+RL   Nucleic Acids Res. 48:6980-6995(2020).
+RN   [16] {ECO:0007744|PDB:7PFO}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.20 ANGSTROMS) IN REPLISOME, SUBUNIT,
+RP   AND FUNCTION.
+RX   PubMed=34694004; DOI=10.15252/embj.2021108819;
+RA   Jones M.L., Baris Y., Taylor M.R.G., Yeeles J.T.P.;
+RT   "Structure of a human replisome shows the organisation and interactions of
+RT   a DNA replication machine.";
+RL   EMBO J. 40:e108819-e108819(2021).
+RN   [17] {ECO:0007744|PDB:7PLO}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.80 ANGSTROMS) IN REPLISOME, SUBUNIT,
+RP   AND FUNCTION.
+RX   PubMed=34700328; DOI=10.1038/s41586-021-04145-3;
+RA   Jenkyn-Bedford M., Jones M.L., Baris Y., Labib K.P.M., Cannone G.,
+RA   Yeeles J.T.P., Deegan T.D.;
+RT   "A conserved mechanism for regulating replisome disassembly in
+RT   eukaryotes.";
+RL   Nature 600:743-747(2021).
+CC   -!- FUNCTION: Required for correct functioning of the GINS complex, a
+CC       complex that plays an essential role in the initiation of DNA
+CC       replication, and progression of DNA replication forks (PubMed:17417653,
+CC       PubMed:28414293). GINS complex is a core component of CDC45-MCM-GINS
+CC       (CMG) helicase, the molecular machine that unwinds template DNA during
+CC       replication, and around which the replisome is built (PubMed:32453425,
+CC       PubMed:34694004, PubMed:34700328, PubMed:35585232).
+CC       {ECO:0000269|PubMed:17417653, ECO:0000269|PubMed:28414293,
+CC       ECO:0000269|PubMed:32453425, ECO:0000269|PubMed:34694004,
+CC       ECO:0000269|PubMed:34700328, ECO:0000269|PubMed:35585232}.
+CC   -!- SUBUNIT: Component of the GINS complex which is a heterotetramer of
+CC       GINS1, GINS2, GINS3 and GINS4. Forms a stable subcomplex with GINS1.
+CC       GINS complex interacts with DNA primase in vitro (PubMed:17170760,
+CC       PubMed:17417653, PubMed:17545466, PubMed:17557111, PubMed:17652513,
+CC       PubMed:28414293, PubMed:32453425). Component of the CMG helicase
+CC       complex, a hexameric ring of related MCM2-7 subunits stabilized by
+CC       CDC45 and the tetrameric GINS complex (PubMed:34700328,
+CC       PubMed:34694004, PubMed:32453425). {ECO:0000269|PubMed:17170760,
+CC       ECO:0000269|PubMed:17417653, ECO:0000269|PubMed:17545466,
+CC       ECO:0000269|PubMed:17557111, ECO:0000269|PubMed:17652513,
+CC       ECO:0000269|PubMed:28414293, ECO:0000269|PubMed:32453425,
+CC       ECO:0000269|PubMed:34694004, ECO:0000269|PubMed:34700328}.
+CC   -!- INTERACTION:
+CC       Q9BRT9; Q9NQY0: BIN3; NbExp=3; IntAct=EBI-747500, EBI-2653038;
+CC       Q9BRT9; Q9NSA3: CTNNBIP1; NbExp=3; IntAct=EBI-747500, EBI-747082;
+CC       Q9BRT9; Q9NPF5: DMAP1; NbExp=3; IntAct=EBI-747500, EBI-399105;
+CC       Q9BRT9; Q9Y248: GINS2; NbExp=10; IntAct=EBI-747500, EBI-747491;
+CC       Q9BRT9; Q96L93-6: KIF16B; NbExp=3; IntAct=EBI-747500, EBI-10988217;
+CC       Q9BRT9; Q68G74: LHX8; NbExp=3; IntAct=EBI-747500, EBI-8474075;
+CC       Q9BRT9; Q9BTE3: MCMBP; NbExp=2; IntAct=EBI-747500, EBI-749378;
+CC       Q9BRT9; Q9BYU1: PBX4; NbExp=3; IntAct=EBI-747500, EBI-10302990;
+CC       Q9BRT9; Q96KQ4: PPP1R13B; NbExp=3; IntAct=EBI-747500, EBI-1105153;
+CC       Q9BRT9; A0A0B4J2F2: SIK1B; NbExp=3; IntAct=EBI-747500, EBI-22345187;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305|PubMed:35585232}. Chromosome
+CC       {ECO:0000305|PubMed:35585232}. Cytoplasm
+CC       {ECO:0000250|UniProtKB:Q99LZ3}. Note=Associates with chromatin.
+CC       {ECO:0000305|PubMed:35585232}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9BRT9-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BRT9-2; Sequence=VSP_032738, VSP_032739;
+CC   -!- INDUCTION: Significantly up-regulated in aggressive melanomas.
+CC       {ECO:0000269|PubMed:17611626}.
+CC   -!- MASS SPECTROMETRY: [DNA replication complex GINS protein SLD5]:
+CC       Mass=98373; Mass_error=13; Method=Electrospray; Note=This is the
+CC       measured mass for the GINS complex.;
+CC       Evidence={ECO:0000269|PubMed:17557111};
+CC   -!- SIMILARITY: Belongs to the GINS4/SLD5 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK095334; BAG53029.1; -; mRNA.
+DR   EMBL; AK313373; BAG36172.1; -; mRNA.
+DR   EMBL; CH471080; EAW63256.1; -; Genomic_DNA.
+DR   EMBL; CH471080; EAW63257.1; -; Genomic_DNA.
+DR   EMBL; BC005995; AAH05995.1; -; mRNA.
+DR   EMBL; BC027454; AAH27454.1; -; mRNA.
+DR   CCDS; CCDS6116.1; -. [Q9BRT9-1]
+DR   RefSeq; NP_115712.1; NM_032336.2. [Q9BRT9-1]
+DR   RefSeq; XP_005273716.1; XM_005273659.3. [Q9BRT9-1]
+DR   PDB; 2E9X; X-ray; 2.30 A; D/H=1-223.
+DR   PDB; 2EHO; X-ray; 3.00 A; A/E/I=11-213.
+DR   PDB; 2Q9Q; X-ray; 2.36 A; B/F=1-223.
+DR   PDB; 6XTX; EM; 3.29 A; D=1-223.
+DR   PDB; 6XTY; EM; 6.77 A; D=1-223.
+DR   PDB; 7PFO; EM; 3.20 A; G=1-223.
+DR   PDB; 7PLO; EM; 2.80 A; G=1-223.
+DR   PDBsum; 2E9X; -.
+DR   PDBsum; 2EHO; -.
+DR   PDBsum; 2Q9Q; -.
+DR   PDBsum; 6XTX; -.
+DR   PDBsum; 6XTY; -.
+DR   PDBsum; 7PFO; -.
+DR   PDBsum; 7PLO; -.
+DR   AlphaFoldDB; Q9BRT9; -.
+DR   SMR; Q9BRT9; -.
+DR   BioGRID; 124023; 82.
+DR   ComplexPortal; CPX-787; GINS complex.
+DR   CORUM; Q9BRT9; -.
+DR   DIP; DIP-29334N; -.
+DR   IntAct; Q9BRT9; 31.
+DR   MINT; Q9BRT9; -.
+DR   STRING; 9606.ENSP00000276533; -.
+DR   GlyGen; Q9BRT9; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9BRT9; -.
+DR   PhosphoSitePlus; Q9BRT9; -.
+DR   BioMuta; GINS4; -.
+DR   DMDM; 74732928; -.
+DR   EPD; Q9BRT9; -.
+DR   jPOST; Q9BRT9; -.
+DR   MassIVE; Q9BRT9; -.
+DR   MaxQB; Q9BRT9; -.
+DR   PaxDb; Q9BRT9; -.
+DR   PeptideAtlas; Q9BRT9; -.
+DR   ProteomicsDB; 78835; -. [Q9BRT9-1]
+DR   ProteomicsDB; 78836; -. [Q9BRT9-2]
+DR   Antibodypedia; 11239; 136 antibodies from 24 providers.
+DR   DNASU; 84296; -.
+DR   Ensembl; ENST00000276533.4; ENSP00000276533.3; ENSG00000147536.12. [Q9BRT9-1]
+DR   Ensembl; ENST00000518671.5; ENSP00000428754.1; ENSG00000147536.12. [Q9BRT9-1]
+DR   Ensembl; ENST00000520710.5; ENSP00000429581.1; ENSG00000147536.12. [Q9BRT9-2]
+DR   GeneID; 84296; -.
+DR   KEGG; hsa:84296; -.
+DR   MANE-Select; ENST00000276533.4; ENSP00000276533.3; NM_032336.3; NP_115712.1.
+DR   UCSC; uc003xnx.3; human. [Q9BRT9-1]
+DR   AGR; HGNC:28226; -.
+DR   CTD; 84296; -.
+DR   DisGeNET; 84296; -.
+DR   GeneCards; GINS4; -.
+DR   HGNC; HGNC:28226; GINS4.
+DR   HPA; ENSG00000147536; Tissue enhanced (lymphoid).
+DR   MIM; 610611; gene.
+DR   neXtProt; NX_Q9BRT9; -.
+DR   OpenTargets; ENSG00000147536; -.
+DR   PharmGKB; PA145008337; -.
+DR   VEuPathDB; HostDB:ENSG00000147536; -.
+DR   eggNOG; KOG3176; Eukaryota.
+DR   GeneTree; ENSGT00390000003246; -.
+DR   HOGENOM; CLU_2252901_0_0_1; -.
+DR   InParanoid; Q9BRT9; -.
+DR   OMA; ILETAWI; -.
+DR   OrthoDB; 1200818at2759; -.
+DR   PhylomeDB; Q9BRT9; -.
+DR   TreeFam; TF105863; -.
+DR   PathwayCommons; Q9BRT9; -.
+DR   Reactome; R-HSA-176974; Unwinding of DNA.
+DR   SignaLink; Q9BRT9; -.
+DR   BioGRID-ORCS; 84296; 797 hits in 1176 CRISPR screens.
+DR   ChiTaRS; GINS4; human.
+DR   EvolutionaryTrace; Q9BRT9; -.
+DR   GenomeRNAi; 84296; -.
+DR   Pharos; Q9BRT9; Tbio.
+DR   PRO; PR:Q9BRT9; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; Q9BRT9; protein.
+DR   Bgee; ENSG00000147536; Expressed in oocyte and 105 other tissues.
+DR   ExpressionAtlas; Q9BRT9; baseline and differential.
+DR   Genevisible; Q9BRT9; HS.
+DR   GO; GO:0071162; C:CMG complex; IPI:ComplexPortal.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000811; C:GINS complex; IPI:ComplexPortal.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IDA:ComplexPortal.
+DR   GO; GO:0006268; P:DNA unwinding involved in DNA replication; IDA:ComplexPortal.
+DR   GO; GO:0000727; P:double-strand break repair via break-induced replication; IBA:GO_Central.
+DR   GO; GO:0001833; P:inner cell mass cell proliferation; IEA:Ensembl.
+DR   GO; GO:1903934; P:positive regulation of DNA primase activity; IDA:ComplexPortal.
+DR   GO; GO:1900264; P:positive regulation of DNA-directed DNA polymerase activity; IDA:ComplexPortal.
+DR   CDD; cd11711; GINS_A_Sld5; 1.
+DR   CDD; cd21692; GINS_B_Sld5; 1.
+DR   Gene3D; 1.20.58.1030; -; 1.
+DR   Gene3D; 3.40.5.60; -; 1.
+DR   InterPro; IPR021151; GINS_A.
+DR   InterPro; IPR036224; GINS_bundle-like_dom_sf.
+DR   InterPro; IPR008591; GINS_Sld5.
+DR   InterPro; IPR031633; SLD5_C.
+DR   InterPro; IPR038749; Sld5_GINS_A.
+DR   PANTHER; PTHR21206:SF0; DNA REPLICATION COMPLEX GINS PROTEIN SLD5; 1.
+DR   PANTHER; PTHR21206; SLD5 PROTEIN; 1.
+DR   Pfam; PF05916; Sld5; 1.
+DR   Pfam; PF16922; SLD5_C; 1.
+DR   PIRSF; PIRSF007764; Sld5; 1.
+DR   SUPFAM; SSF158573; GINS helical bundle-like; 1.
+DR   SUPFAM; SSF160059; PriA/YqbF domain; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Chromosome; Cytoplasm;
+KW   DNA replication; Nucleus; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..223
+FT                   /note="DNA replication complex GINS protein SLD5"
+FT                   /id="PRO_0000327620"
+FT   INIT_MET        1
+FT                   /note="Removed; alternate"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   CHAIN           2..223
+FT                   /note="DNA replication complex GINS protein SLD5, N-
+FT                   terminally processed"
+FT                   /id="PRO_0000421794"
+FT   REGION          166..223
+FT                   /note="Important for GINS complex assembly"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         2
+FT                   /note="N-acetylthreonine; in DNA replication complex GINS
+FT                   protein SLD5, N-terminally processed"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         12
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         16
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+FT   VAR_SEQ         100
+FT                   /note="I -> V (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_032738"
+FT   VAR_SEQ         101..223
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_032739"
+FT   HELIX           23..39
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   STRAND          40..42
+FT                   /evidence="ECO:0007829|PDB:2EHO"
+FT   HELIX           48..60
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           72..102
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           104..112
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           124..144
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           146..148
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           151..153
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           158..161
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   STRAND          170..177
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   STRAND          179..184
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           190..192
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   STRAND          194..198
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   STRAND          203..207
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   HELIX           208..217
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+FT   STRAND          218..223
+FT                   /evidence="ECO:0007829|PDB:2E9X"
+SQ   SEQUENCE   223 AA;  26047 MW;  8FAB619A21968BB9 CRC64;
+     MTEEVDFLGQ DSDGGSEEVV LTPAELIERL EQAWMNEKFA PELLESKPEI VECVMEQLEH
+     MEENLRRAKR EDLKVSIHQM EMERIRYVLS SYLRCRLMKI EKFFPHVLEK EKTRPEGEPS
+     SLSPEELAFA REFMANTESY LKNVALKHMP PNLQKVDLFR AVPKPDLDSY VFLRVRERQE
+     NILVEPDTDE QRDYVIDLEK GSQHLIRYKT IAPLVASGAV QLI
+//

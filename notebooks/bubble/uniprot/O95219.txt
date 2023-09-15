@@ -1,0 +1,376 @@
+ID   SNX4_HUMAN              Reviewed;         450 AA.
+AC   O95219; B3KMH0; B4DQV4; D3DNA3;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1999, sequence version 1.
+DT   28-JUN-2023, entry version 178.
+DE   RecName: Full=Sorting nexin-4 {ECO:0000303|PubMed:9819414};
+GN   Name=SNX4 {ECO:0000303|PubMed:9819414, ECO:0000312|HGNC:HGNC:11175};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND FUNCTION.
+RX   PubMed=9819414; DOI=10.1128/mcb.18.12.7278;
+RA   Haft C.R., de la Luz Sierra M., Barr V.A., Haft D.H., Taylor S.I.;
+RT   "Identification of a family of sorting nexin molecules and characterization
+RT   of their association with receptors.";
+RL   Mol. Cell. Biol. 18:7278-7287(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R., Buhay C.J.,
+RA   Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R., Gunaratne P.,
+RA   Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V., Hume J., Jackson A.,
+RA   Khan Z.M., Kovar-Smith C., Lewis L.R., Lozado R.J., Metzker M.L.,
+RA   Milosavljevic A., Miner G.R., Morgan M.B., Nazareth L.V., Scott G.,
+RA   Sodergren E., Song X.-Z., Steffen D., Wei S., Wheeler D.A., Wright M.W.,
+RA   Worley K.C., Yuan Y., Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M.,
+RA   Brown M.J., Chen G., Chen Z., Clendenning J., Clerc-Blankenburg K.P.,
+RA   Chen R., Chen Z., Davis C., Delgado O., Dinh H.H., Dong W., Draper H.,
+RA   Ernst S., Fu G., Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J.,
+RA   Hao B., Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W.,
+RA   Jackson L.R., Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B.,
+RA   Liu J., Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O.,
+RA   Palmeiri A., Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J., Zhang X.,
+RA   Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H., Reinhardt R.,
+RA   Naylor S.L., Yang H., Olson M., Weinstock G., Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH BIN1.
+RX   PubMed=12668730; DOI=10.1242/jcs.00403;
+RA   Leprince C., Le Scolan E., Meunier B., Fraisier V., Brandon N.,
+RA   De Gunzburg J., Camonis J.;
+RT   "Sorting nexin 4 and amphiphysin 2, a new partnership between endocytosis
+RT   and intracellular trafficking.";
+RL   J. Cell Sci. 116:1937-1948(2003).
+RN   [7]
+RP   FUNCTION, INTERACTION WITH WWC1/KIBRA, MUTAGENESIS OF LYS-132, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=17994011; DOI=10.1038/ncb1656;
+RA   Traer C.J., Rutherford A.C., Palmer K.J., Wassmer T., Oakley J., Attar N.,
+RA   Carlton J.G., Kremerskothen J., Stephens D.J., Cullen P.J.;
+RT   "SNX4 coordinates endosomal sorting of TfnR with dynein-mediated transport
+RT   into the endocytic recycling compartment.";
+RL   Nat. Cell Biol. 9:1370-1380(2007).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [9]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-22, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-22, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [13]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH SNX7 AND SNX30.
+RX   PubMed=32513819; DOI=10.1242/jcs.246306;
+RA   Anton Z., Betin V.M.S., Simonetti B., Traer C.J., Attar N., Cullen P.J.,
+RA   Lane J.D.;
+RT   "A heterodimeric SNX4--SNX7 SNX-BAR autophagy complex coordinates ATG9A
+RT   trafficking for efficient autophagosome assembly.";
+RL   J. Cell Sci. 133:0-0(2020).
+RN   [14]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=33468622; DOI=10.1242/jcs.250670;
+RA   Ravussin A., Brech A., Tooze S.A., Stenmark H.;
+RT   "The phosphatidylinositol 3-phosphate-binding protein SNX4 controls ATG9A
+RT   recycling and autophagy.";
+RL   J. Cell Sci. 134:0-0(2021).
+CC   -!- FUNCTION: Involved in the regulation of endocytosis and in several
+CC       stages of intracellular trafficking (PubMed:12668730, PubMed:17994011,
+CC       PubMed:32513819, PubMed:33468622). Plays a role in recycling
+CC       endocytosed transferrin receptor and prevent its degradation
+CC       (PubMed:17994011). Involved in autophagosome assembly by regulating
+CC       trafficking and recycling of phospholipid scramblase ATG9A
+CC       (PubMed:32513819, PubMed:33468622). {ECO:0000269|PubMed:12668730,
+CC       ECO:0000269|PubMed:17994011, ECO:0000269|PubMed:32513819,
+CC       ECO:0000269|PubMed:33468622}.
+CC   -!- SUBUNIT: Heterodimer; heterodimerizes with SNX7 or SNX30
+CC       (PubMed:32513819). Interacts with WWC1/KIBRA (PubMed:17994011).
+CC       Identified in a complex with WWC1/KIBRA and dynein components DYNLL1
+CC       and DYNC1I2 (PubMed:17994011). Interacts with BIN1 (PubMed:12668730).
+CC       {ECO:0000269|PubMed:12668730, ECO:0000269|PubMed:17994011,
+CC       ECO:0000269|PubMed:32513819}.
+CC   -!- INTERACTION:
+CC       O95219; Q15041: ARL6IP1; NbExp=3; IntAct=EBI-724909, EBI-714543;
+CC       O95219; O00499: BIN1; NbExp=4; IntAct=EBI-724909, EBI-719094;
+CC       O95219; Q6ZPD8: DGAT2L6; NbExp=3; IntAct=EBI-724909, EBI-12831978;
+CC       O95219; P43360: MAGEA6; NbExp=3; IntAct=EBI-724909, EBI-1045155;
+CC       O95219; Q9Y371: SH3GLB1; NbExp=3; IntAct=EBI-724909, EBI-2623095;
+CC       O95219; Q5VWJ9: SNX30; NbExp=3; IntAct=EBI-724909, EBI-8099676;
+CC       O95219; Q9UNH6: SNX7; NbExp=2; IntAct=EBI-724909, EBI-751422;
+CC       O95219; Q9UNH6-3: SNX7; NbExp=4; IntAct=EBI-724909, EBI-12424584;
+CC   -!- SUBCELLULAR LOCATION: Early endosome membrane
+CC       {ECO:0000269|PubMed:17994011, ECO:0000269|PubMed:32513819,
+CC       ECO:0000269|PubMed:33468622}; Peripheral membrane protein
+CC       {ECO:0000269|PubMed:17994011}; Cytoplasmic side
+CC       {ECO:0000269|PubMed:17994011}. Note=Also detected on a juxtanuclear
+CC       endocytic recycling compartment (ERC). {ECO:0000269|PubMed:17994011}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=O95219-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O95219-2; Sequence=VSP_056665;
+CC   -!- DOMAIN: The PX domain binds phosphatidylinositol 3-phosphate which is
+CC       necessary for peripheral membrane localization.
+CC       {ECO:0000250|UniProtKB:Q96L94}.
+CC   -!- SIMILARITY: Belongs to the sorting nexin family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF065485; AAC83149.1; -; mRNA.
+DR   EMBL; AK001835; BAG50982.1; -; mRNA.
+DR   EMBL; AK298972; BAG61066.1; -; mRNA.
+DR   EMBL; AC080096; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC117487; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471052; EAW79390.1; -; Genomic_DNA.
+DR   EMBL; CH471052; EAW79391.1; -; Genomic_DNA.
+DR   EMBL; CH471052; EAW79393.1; -; Genomic_DNA.
+DR   EMBL; BC018762; AAH18762.1; -; mRNA.
+DR   CCDS; CCDS3032.1; -. [O95219-1]
+DR   RefSeq; NP_003785.1; NM_003794.3. [O95219-1]
+DR   AlphaFoldDB; O95219; -.
+DR   SMR; O95219; -.
+DR   BioGRID; 114262; 63.
+DR   CORUM; O95219; -.
+DR   DIP; DIP-36719N; -.
+DR   IntAct; O95219; 35.
+DR   MINT; O95219; -.
+DR   STRING; 9606.ENSP00000251775; -.
+DR   iPTMnet; O95219; -.
+DR   MetOSite; O95219; -.
+DR   PhosphoSitePlus; O95219; -.
+DR   BioMuta; SNX4; -.
+DR   DOSAC-COBS-2DPAGE; O95219; -.
+DR   EPD; O95219; -.
+DR   jPOST; O95219; -.
+DR   MassIVE; O95219; -.
+DR   MaxQB; O95219; -.
+DR   PaxDb; O95219; -.
+DR   PeptideAtlas; O95219; -.
+DR   ProteomicsDB; 4904; -.
+DR   ProteomicsDB; 50724; -. [O95219-1]
+DR   Antibodypedia; 1370; 298 antibodies from 32 providers.
+DR   DNASU; 8723; -.
+DR   Ensembl; ENST00000251775.9; ENSP00000251775.4; ENSG00000114520.11. [O95219-1]
+DR   GeneID; 8723; -.
+DR   KEGG; hsa:8723; -.
+DR   MANE-Select; ENST00000251775.9; ENSP00000251775.4; NM_003794.4; NP_003785.1.
+DR   UCSC; uc003eib.5; human. [O95219-1]
+DR   AGR; HGNC:11175; -.
+DR   CTD; 8723; -.
+DR   GeneCards; SNX4; -.
+DR   HGNC; HGNC:11175; SNX4.
+DR   HPA; ENSG00000114520; Low tissue specificity.
+DR   MIM; 605931; gene.
+DR   neXtProt; NX_O95219; -.
+DR   OpenTargets; ENSG00000114520; -.
+DR   PharmGKB; PA36014; -.
+DR   VEuPathDB; HostDB:ENSG00000114520; -.
+DR   eggNOG; KOG2273; Eukaryota.
+DR   GeneTree; ENSGT00930000151029; -.
+DR   HOGENOM; CLU_057138_0_0_1; -.
+DR   InParanoid; O95219; -.
+DR   OMA; GRNAMNI; -.
+DR   OrthoDB; 5475877at2759; -.
+DR   PhylomeDB; O95219; -.
+DR   TreeFam; TF328543; -.
+DR   PathwayCommons; O95219; -.
+DR   SignaLink; O95219; -.
+DR   BioGRID-ORCS; 8723; 10 hits in 1153 CRISPR screens.
+DR   ChiTaRS; SNX4; human.
+DR   GeneWiki; SNX4; -.
+DR   GenomeRNAi; 8723; -.
+DR   Pharos; O95219; Tbio.
+DR   PRO; PR:O95219; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; O95219; protein.
+DR   Bgee; ENSG00000114520; Expressed in secondary oocyte and 211 other tissues.
+DR   ExpressionAtlas; O95219; baseline and differential.
+DR   Genevisible; O95219; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:HGNC-UCL.
+DR   GO; GO:0005868; C:cytoplasmic dynein complex; IDA:UniProtKB.
+DR   GO; GO:0005769; C:early endosome; IDA:UniProtKB.
+DR   GO; GO:0031901; C:early endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0098830; C:presynaptic endosome; IEA:Ensembl.
+DR   GO; GO:0032991; C:protein-containing complex; IDA:UniProtKB.
+DR   GO; GO:0031201; C:SNARE complex; IDA:UniProtKB.
+DR   GO; GO:0005154; F:epidermal growth factor receptor binding; IDA:UniProtKB.
+DR   GO; GO:0005158; F:insulin receptor binding; IDA:UniProtKB.
+DR   GO; GO:1990460; F:leptin receptor binding; IDA:UniProtKB.
+DR   GO; GO:0035091; F:phosphatidylinositol binding; IMP:UniProtKB.
+DR   GO; GO:0032266; F:phosphatidylinositol-3-phosphate binding; IMP:UniProtKB.
+DR   GO; GO:1990459; F:transferrin receptor binding; IDA:UniProtKB.
+DR   GO; GO:0032456; P:endocytic recycling; IMP:UniProtKB.
+DR   GO; GO:2000786; P:positive regulation of autophagosome assembly; IMP:UniProtKB.
+DR   GO; GO:1903595; P:positive regulation of histamine secretion by mast cell; IMP:UniProtKB.
+DR   GO; GO:0015031; P:protein transport; IMP:UniProtKB.
+DR   CDD; cd07622; BAR_SNX4; 1.
+DR   CDD; cd06864; PX_SNX4; 1.
+DR   Gene3D; 1.20.1270.60; Arfaptin homology (AH) domain/BAR domain; 1.
+DR   Gene3D; 3.30.1520.10; Phox-like domain; 1.
+DR   InterPro; IPR027267; AH/BAR_dom_sf.
+DR   InterPro; IPR001683; PX_dom.
+DR   InterPro; IPR036871; PX_dom_sf.
+DR   InterPro; IPR034902; PX_SNX4.
+DR   InterPro; IPR034783; SNX4.
+DR   InterPro; IPR037430; SNX4_BAR.
+DR   PANTHER; PTHR46596; SORTING NEXIN-4; 1.
+DR   PANTHER; PTHR46596:SF1; SORTING NEXIN-4; 1.
+DR   Pfam; PF00787; PX; 1.
+DR   SMART; SM00312; PX; 1.
+DR   SUPFAM; SSF64268; PX domain; 1.
+DR   PROSITE; PS50195; PX; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Endosome; Lipid-binding; Membrane;
+KW   Phosphoprotein; Protein transport; Reference proteome; Transport.
+FT   CHAIN           1..450
+FT                   /note="Sorting nexin-4"
+FT                   /id="PRO_0000213842"
+FT   DOMAIN          61..187
+FT                   /note="PX"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00147"
+FT   REGION          1..46
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         106
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-
+FT                   inositol-3-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58088"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3UR97"
+FT   BINDING         108
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-
+FT                   inositol-3-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58088"
+FT                   /evidence="ECO:0000250|UniProtKB:Q96L94"
+FT   BINDING         132
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-
+FT                   inositol-3-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58088"
+FT                   /evidence="ECO:0000250|UniProtKB:Q96L94"
+FT   BINDING         154
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-
+FT                   inositol-3-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58088"
+FT                   /evidence="ECO:0000250|UniProtKB:Q6P4T1"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:19413330"
+FT   MOD_RES         22
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1..145
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_056665"
+FT   MUTAGEN         132
+FT                   /note="K->A: Abolishes phosphatidylinositol phosphate
+FT                   binding. Abolishes endosomal location."
+FT                   /evidence="ECO:0000269|PubMed:17994011"
+SQ   SEQUENCE   450 AA;  51909 MW;  3D5B52AC52A07686 CRC64;
+     MEQAPPDPER QLQPAPLEPL GSPDAGLGAA VGKEAEGAGE ESSGVDTMTH NNFWLKKIEI
+     SVSEAEKRTG RNAMNMQETY TAYLIETRSV EHTDGQSVLT DSLWRRYSEF ELLRSYLLVY
+     YPHIVVPPLP EKRAEFVWHK LSADNMDPDF VERRRIGLEN FLLRIASHPI LCRDKIFYLF
+     LTQEGNWKET VNETGFQLKA DSRLKALNAT FRVKNPDKRF TDLKHYSDEL QSVISHLLRV
+     RARVADRLYG VYKVHGNYGR VFSEWSAIEK EMGDGLQSAG HHMDVYASSI DDILEDEEHY
+     ADQLKEYLFY AEALRAVCRK HELMQYDLEM AAQDLASKKQ QCEELVTGTV RTFSLKGMTT
+     KLFGQETPEQ REARIKVLEE QINEGEQQLK SKNLEGREFV KNAWADIERF KEQKNRDLKE
+     ALISYAVMQI SMCKKGIQVW TNAKECFSKM
+//

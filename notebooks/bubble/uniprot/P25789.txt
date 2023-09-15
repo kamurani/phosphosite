@@ -1,0 +1,720 @@
+ID   PSA4_HUMAN              Reviewed;         261 AA.
+AC   P25789; D3DW86; Q53XP2; Q567Q5; Q8TBD1;
+DT   01-MAY-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1992, sequence version 1.
+DT   28-JUN-2023, entry version 232.
+DE   RecName: Full=Proteasome subunit alpha type-4;
+DE   AltName: Full=Macropain subunit C9;
+DE   AltName: Full=Multicatalytic endopeptidase complex subunit C9;
+DE   AltName: Full=Proteasome component C9;
+DE   AltName: Full=Proteasome subunit L;
+GN   Name=PSMA4; Synonyms=HC9, PSC9;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=2025653; DOI=10.1016/0167-4781(91)90090-9;
+RA   Tamura T., Lee D.H., Osaka F., Fujiwara T., Shin S., Chung C.H., Tanaka K.,
+RA   Ichihara A.;
+RT   "Molecular cloning and sequence analysis of cDNAs for five major subunits
+RT   of human proteasomes (multi-catalytic proteinase complexes).";
+RL   Biochim. Biophys. Acta 1089:95-102(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (AUG-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16572171; DOI=10.1038/nature04601;
+RA   Zody M.C., Garber M., Sharpe T., Young S.K., Rowen L., O'Neill K.,
+RA   Whittaker C.A., Kamal M., Chang J.L., Cuomo C.A., Dewar K.,
+RA   FitzGerald M.G., Kodira C.D., Madan A., Qin S., Yang X., Abbasi N.,
+RA   Abouelleil A., Arachchi H.M., Baradarani L., Birditt B., Bloom S.,
+RA   Bloom T., Borowsky M.L., Burke J., Butler J., Cook A., DeArellano K.,
+RA   DeCaprio D., Dorris L. III, Dors M., Eichler E.E., Engels R., Fahey J.,
+RA   Fleetwood P., Friedman C., Gearin G., Hall J.L., Hensley G., Johnson E.,
+RA   Jones C., Kamat A., Kaur A., Locke D.P., Madan A., Munson G., Jaffe D.B.,
+RA   Lui A., Macdonald P., Mauceli E., Naylor J.W., Nesbitt R., Nicol R.,
+RA   O'Leary S.B., Ratcliffe A., Rounsley S., She X., Sneddon K.M.B.,
+RA   Stewart S., Sougnez C., Stone S.M., Topham K., Vincent D., Wang S.,
+RA   Zimmer A.R., Birren B.W., Hood L., Lander E.S., Nusbaum C.;
+RT   "Analysis of the DNA sequence and duplication history of human chromosome
+RT   15.";
+RL   Nature 440:671-675(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Blood, Brain, Lung, Pancreas, and Urinary bladder;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 18-39.
+RX   PubMed=7811265; DOI=10.1006/bbrc.1994.2876;
+RA   Kristensen P., Johnsen A.H., Uerkvitz W., Tanaka K., Hendil K.B.;
+RT   "Human proteasome subunits from 2-dimensional gels identified by partial
+RT   sequencing.";
+RL   Biochem. Biophys. Res. Commun. 205:1785-1789(1994).
+RN   [7]
+RP   FUNCTION IN ANTIGEN PRESENTATION.
+RX   PubMed=8610016; DOI=10.1038/381166a0;
+RA   Groettrup M., Soza A., Eggers M., Kuehn L., Dick T.P., Schild H.,
+RA   Rammensee H.G., Koszinowski U.H., Kloetzel P.M.;
+RT   "A role for the proteasome regulator PA28alpha in antigen presentation.";
+RL   Nature 381:166-168(1996).
+RN   [8]
+RP   INTERACTION WITH HTLV-1 TAX (MICROBIAL INFECTION).
+RX   PubMed=8692272; DOI=10.1038/381328a0;
+RA   Rousset R., Desbois C., Bantignies F., Jalinot P.;
+RT   "Effects on NF-kappa B1/p105 processing of the interaction between the
+RT   HTLV-1 transactivator Tax and the proteasome.";
+RL   Nature 381:328-331(1996).
+RN   [9]
+RP   INDUCTION BY BO-653 AND PROBUCOL.
+RX   PubMed=11521686; DOI=10.5551/jat1994.7.223;
+RA   Takabe W., Mataki C., Wada Y., Ishii M., Izumi A., Aburatani H.,
+RA   Hamakubo T., Niki E., Kodama T., Noguchi N.;
+RT   "Gene expression induced by BO-653, probucol and BHQ in human endothelial
+RT   cells.";
+RL   J. Atheroscler. Thromb. 7:223-230(2000).
+RN   [10]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=12181345; DOI=10.1091/mbc.e02-03-0122;
+RA   Lafarga M., Berciano M.T., Pena E., Mayo I., Castano J.G., Bohmann D.,
+RA   Rodrigues J.P., Tavanez J.P., Carmo-Fonseca M.;
+RT   "Clastosome: a subtype of nuclear body enriched in 19S and 20S proteasomes,
+RT   ubiquitin, and protein substrates of proteasome.";
+RL   Mol. Biol. Cell 13:2771-2782(2002).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=15244466; DOI=10.1021/bm049957a;
+RA   Yano M., Koumoto Y., Kanesaki Y., Wu X., Kido H.;
+RT   "20S proteasome prevents aggregation of heat-denatured proteins without
+RT   PA700 regulatory subcomplex like a molecular chaperone.";
+RL   Biomacromolecules 5:1465-1469(2004).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-75, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17323924; DOI=10.1021/bi061994u;
+RA   Wang X., Chen C.-F., Baker P.R., Chen P.-L., Kaiser P., Huang L.;
+RT   "Mass spectrometric characterization of the affinity-purified human 26S
+RT   proteasome complex.";
+RL   Biochemistry 46:3553-3565(2007).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-13, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [14]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-127 AND LYS-176, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-13, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-13, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-173, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [19]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=27176742; DOI=10.1515/hsz-2016-0176;
+RA   Rut W., Drag M.;
+RT   "Human 20S proteasome activity towards fluorogenic peptides of various
+RT   chain lengths.";
+RL   Biol. Chem. 397:921-926(2016).
+RN   [20]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.50 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=26133119; DOI=10.1038/ncomms8573;
+RA   da Fonseca P.C., Morris E.P.;
+RT   "Cryo-EM reveals the conformation of a substrate analogue in the human 20S
+RT   proteasome core.";
+RL   Nat. Commun. 6:7573-7573(2015).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 2-251, AND SUBUNIT.
+RX   PubMed=25599644; DOI=10.1016/j.str.2014.11.017;
+RA   Harshbarger W., Miller C., Diedrich C., Sacchettini J.;
+RT   "Crystal structure of the human 20S proteasome in complex with
+RT   carfilzomib.";
+RL   Structure 23:418-424(2015).
+RN   [22]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.50 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=27428775; DOI=10.1038/nsmb.3273;
+RA   Huang X., Luan B., Wu J., Shi Y.;
+RT   "An atomic structure of the human 26S proteasome.";
+RL   Nat. Struct. Mol. Biol. 23:778-785(2016).
+RN   [23]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (4.02 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=27342858; DOI=10.1073/pnas.1608050113;
+RA   Schweitzer A., Aufderheide A., Rudack T., Beck F., Pfeifer G.,
+RA   Plitzko J.M., Sakata E., Schulten K., Foerster F., Baumeister W.;
+RT   "Structure of the human 26S proteasome at a resolution of 3.9 Aa.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 113:7816-7821(2016).
+RN   [24]
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=27493187; DOI=10.1126/science.aaf8993;
+RA   Schrader J., Henneberg F., Mata R.A., Tittmann K., Schneider T.R.,
+RA   Stark H., Bourenkov G., Chari A.;
+RT   "The inhibition mechanism of human 20S proteasomes enables next-generation
+RT   inhibitor design.";
+RL   Science 353:594-598(2016).
+RN   [25]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.80 ANGSTROMS) IN COMPLEX WITH AKIRIN2,
+RP   SUBUNIT, AND SUBCELLULAR LOCATION.
+RX   PubMed=34711951; DOI=10.1038/s41586-021-04035-8;
+RA   de Almeida M., Hinterndorfer M., Brunner H., Grishkovskaya I., Singh K.,
+RA   Schleiffer A., Jude J., Deswal S., Kalis R., Vunjak M., Lendl T., Imre R.,
+RA   Roitinger E., Neumann T., Kandolf S., Schutzbier M., Mechtler K.,
+RA   Versteeg G.A., Haselbach D., Zuber J.;
+RT   "AKIRIN2 controls the nuclear import of proteasomes in vertebrates.";
+RL   Nature 599:491-496(2021).
+CC   -!- FUNCTION: Component of the 20S core proteasome complex involved in the
+CC       proteolytic degradation of most intracellular proteins. This complex
+CC       plays numerous essential roles within the cell by associating with
+CC       different regulatory particles. Associated with two 19S regulatory
+CC       particles, forms the 26S proteasome and thus participates in the ATP-
+CC       dependent degradation of ubiquitinated proteins. The 26S proteasome
+CC       plays a key role in the maintenance of protein homeostasis by removing
+CC       misfolded or damaged proteins that could impair cellular functions, and
+CC       by removing proteins whose functions are no longer required. Associated
+CC       with the PA200 or PA28, the 20S proteasome mediates ubiquitin-
+CC       independent protein degradation. This type of proteolysis is required
+CC       in several pathways including spermatogenesis (20S-PA200 complex) or
+CC       generation of a subset of MHC class I-presented antigenic peptides
+CC       (20S-PA28 complex). {ECO:0000269|PubMed:15244466,
+CC       ECO:0000269|PubMed:27176742, ECO:0000269|PubMed:8610016}.
+CC   -!- SUBUNIT: The 26S proteasome consists of a 20S proteasome core and two
+CC       19S regulatory subunits. The 20S proteasome core is a barrel-shaped
+CC       complex made of 28 subunits that are arranged in four stacked rings.
+CC       The two outer rings are each formed by seven alpha subunits, and the
+CC       two inner rings are formed by seven beta subunits. The proteolytic
+CC       activity is exerted by three beta-subunits PSMB5, PSMB6 and PSMB7.
+CC       {ECO:0000269|PubMed:25599644, ECO:0000269|PubMed:26133119,
+CC       ECO:0000269|PubMed:27342858, ECO:0000269|PubMed:27428775,
+CC       ECO:0000269|PubMed:27493187, ECO:0000269|PubMed:34711951}.
+CC   -!- SUBUNIT: (Microbial infection) Interaction with HTLV-1 TAX protein
+CC       favors NFKB1 activation. {ECO:0000269|PubMed:8692272}.
+CC   -!- INTERACTION:
+CC       P25789; P54253: ATXN1; NbExp=7; IntAct=EBI-359310, EBI-930964;
+CC       P25789; Q9H257-2: CARD9; NbExp=3; IntAct=EBI-359310, EBI-11530605;
+CC       P25789; Q08379: GOLGA2; NbExp=3; IntAct=EBI-359310, EBI-618309;
+CC       P25789; Q16665: HIF1A; NbExp=4; IntAct=EBI-359310, EBI-447269;
+CC       P25789; P42858: HTT; NbExp=4; IntAct=EBI-359310, EBI-466029;
+CC       P25789; Q13422: IKZF1; NbExp=3; IntAct=EBI-359310, EBI-745305;
+CC       P25789; Q13422-7: IKZF1; NbExp=3; IntAct=EBI-359310, EBI-11522367;
+CC       P25789; P25786: PSMA1; NbExp=7; IntAct=EBI-359310, EBI-359352;
+CC       P25789; P25787: PSMA2; NbExp=8; IntAct=EBI-359310, EBI-603262;
+CC       P25789; P25788: PSMA3; NbExp=4; IntAct=EBI-359310, EBI-348380;
+CC       P25789; P60900: PSMA6; NbExp=5; IntAct=EBI-359310, EBI-357793;
+CC       P25789; O14818: PSMA7; NbExp=11; IntAct=EBI-359310, EBI-603272;
+CC       P25789; Q04864-2: REL; NbExp=3; IntAct=EBI-359310, EBI-10829018;
+CC       P25789; Q9UBB9: TFIP11; NbExp=3; IntAct=EBI-359310, EBI-1105213;
+CC       P25789; O00635: TRIM38; NbExp=3; IntAct=EBI-359310, EBI-2130415;
+CC       P25789; Q99PV5: Bhlhe41; Xeno; NbExp=2; IntAct=EBI-359310, EBI-6143801;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:12181345,
+CC       ECO:0000269|PubMed:34711951}. Nucleus {ECO:0000269|PubMed:12181345,
+CC       ECO:0000269|PubMed:34711951}. Note=Translocated from the cytoplasm into
+CC       the nucleus following interaction with AKIRIN2, which bridges the
+CC       proteasome with the nuclear import receptor IPO9 (PubMed:34711951).
+CC       Colocalizes with TRIM5 in the cytoplasmic bodies (By similarity).
+CC       {ECO:0000250|UniProtKB:Q9R1P0, ECO:0000269|PubMed:34711951}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P25789-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P25789-2; Sequence=VSP_043102;
+CC   -!- INDUCTION: Down-regulated by antioxidants BO-653 and probucol.
+CC       {ECO:0000269|PubMed:11521686}.
+CC   -!- SIMILARITY: Belongs to the peptidase T1A family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00808}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D00763; BAA00660.1; -; mRNA.
+DR   EMBL; BT009784; AAP88786.1; -; mRNA.
+DR   EMBL; AC027228; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471136; EAW99163.1; -; Genomic_DNA.
+DR   EMBL; CH471136; EAW99164.1; -; Genomic_DNA.
+DR   EMBL; BC005361; AAH05361.1; -; mRNA.
+DR   EMBL; BC022445; AAH22445.1; -; mRNA.
+DR   EMBL; BC022817; AAH22817.2; -; mRNA.
+DR   EMBL; BC047667; AAH47667.1; -; mRNA.
+DR   EMBL; BC093069; AAH93069.1; -; mRNA.
+DR   CCDS; CCDS10303.1; -. [P25789-1]
+DR   CCDS; CCDS45319.1; -. [P25789-2]
+DR   PIR; S15972; SNHUC9.
+DR   RefSeq; NP_001096137.1; NM_001102667.2. [P25789-1]
+DR   RefSeq; NP_001096138.1; NM_001102668.2. [P25789-2]
+DR   RefSeq; NP_001317605.1; NM_001330676.1. [P25789-1]
+DR   RefSeq; NP_002780.1; NM_002789.5. [P25789-1]
+DR   PDB; 4R3O; X-ray; 2.60 A; C/Q=2-251.
+DR   PDB; 4R67; X-ray; 2.89 A; C/Q/e/s=2-251.
+DR   PDB; 5A0Q; EM; 3.50 A; C/Q=1-261.
+DR   PDB; 5GJQ; EM; 4.50 A; D/j=1-261.
+DR   PDB; 5GJR; EM; 3.50 A; D/j=1-261.
+DR   PDB; 5L4G; EM; 4.02 A; C/P=1-261.
+DR   PDB; 5LE5; X-ray; 1.80 A; B/P=1-261.
+DR   PDB; 5LEX; X-ray; 2.20 A; B/P=1-261.
+DR   PDB; 5LEY; X-ray; 1.90 A; B/P=1-261.
+DR   PDB; 5LEZ; X-ray; 2.19 A; B/P=1-261.
+DR   PDB; 5LF0; X-ray; 2.41 A; B/P=1-261.
+DR   PDB; 5LF1; X-ray; 2.00 A; B/P=1-261.
+DR   PDB; 5LF3; X-ray; 2.10 A; B/P=1-261.
+DR   PDB; 5LF4; X-ray; 1.99 A; B/P=1-261.
+DR   PDB; 5LF6; X-ray; 2.07 A; B/P=1-261.
+DR   PDB; 5LF7; X-ray; 2.00 A; B/P=1-261.
+DR   PDB; 5LN3; EM; 6.80 A; C=1-261.
+DR   PDB; 5M32; EM; 3.80 A; B/P=1-261.
+DR   PDB; 5T0C; EM; 3.80 A; AI/BI=2-261.
+DR   PDB; 5T0G; EM; 4.40 A; I=2-261.
+DR   PDB; 5T0H; EM; 6.80 A; I=2-261.
+DR   PDB; 5T0I; EM; 8.00 A; I=2-261.
+DR   PDB; 5T0J; EM; 8.00 A; I=2-261.
+DR   PDB; 5VFO; EM; 3.50 A; I/i=2-251.
+DR   PDB; 5VFP; EM; 4.20 A; I/i=2-251.
+DR   PDB; 5VFQ; EM; 4.20 A; I/i=2-251.
+DR   PDB; 5VFR; EM; 4.90 A; I/i=2-251.
+DR   PDB; 5VFS; EM; 3.60 A; I/i=2-251.
+DR   PDB; 5VFT; EM; 7.00 A; I/i=2-251.
+DR   PDB; 5VFU; EM; 5.80 A; I/i=2-251.
+DR   PDB; 6AVO; EM; 3.80 A; O/Z=1-261.
+DR   PDB; 6E5B; X-ray; 2.77 A; B/P=1-261.
+DR   PDB; 6KWY; EM; 2.72 A; B/P=1-261.
+DR   PDB; 6MSB; EM; 3.00 A; I/i=2-261.
+DR   PDB; 6MSD; EM; 3.20 A; I/i=2-261.
+DR   PDB; 6MSE; EM; 3.30 A; I/i=2-261.
+DR   PDB; 6MSG; EM; 3.50 A; I/i=2-261.
+DR   PDB; 6MSH; EM; 3.60 A; I/i=2-261.
+DR   PDB; 6MSJ; EM; 3.30 A; I/i=2-261.
+DR   PDB; 6MSK; EM; 3.20 A; I/i=2-261.
+DR   PDB; 6R70; EM; 3.50 A; B/P=2-249.
+DR   PDB; 6REY; EM; 3.00 A; C/Q=1-261.
+DR   PDB; 6RGQ; EM; 2.60 A; C/Q=1-261.
+DR   PDB; 6WJD; EM; 4.80 A; I/i=2-261.
+DR   PDB; 6WJN; EM; 5.70 A; I/i=2-251.
+DR   PDB; 6XMJ; EM; 3.00 A; C=2-251.
+DR   PDB; 7AWE; X-ray; 2.29 A; C/Q=2-257.
+DR   PDB; 7B12; X-ray; 2.43 A; C/Q=2-249.
+DR   PDB; 7LXV; EM; 3.40 A; B/P=1-261.
+DR   PDB; 7NAN; EM; 2.80 A; B/P=1-261.
+DR   PDB; 7NAO; EM; 2.90 A; B/P=1-261.
+DR   PDB; 7NAP; EM; 3.20 A; B/P=1-261.
+DR   PDB; 7NAQ; EM; 3.20 A; B/P=1-261.
+DR   PDB; 7NHT; EM; 2.80 A; B=1-261.
+DR   PDB; 7PG9; EM; 3.70 A; C/Q=1-261.
+DR   PDB; 7QXN; EM; 3.70 A; I/i=2-261.
+DR   PDB; 7QXP; EM; 3.60 A; I/i=2-261.
+DR   PDB; 7QXU; EM; 4.30 A; I/i=2-261.
+DR   PDB; 7QXW; EM; 4.10 A; I/i=2-261.
+DR   PDB; 7QXX; EM; 4.40 A; I/i=2-261.
+DR   PDB; 7QY7; EM; 4.70 A; I/i=2-261.
+DR   PDB; 7QYA; EM; 4.80 A; I/i=2-261.
+DR   PDB; 7QYB; EM; 4.10 A; I/i=2-261.
+DR   PDB; 7V5G; EM; 4.47 A; Q/X=1-261.
+DR   PDB; 7V5M; EM; 3.88 A; C/Q=1-261.
+DR   PDB; 7W37; EM; 3.00 A; I/i=1-261.
+DR   PDB; 7W38; EM; 3.10 A; I/i=1-261.
+DR   PDB; 7W39; EM; 3.20 A; I/i=1-261.
+DR   PDB; 7W3A; EM; 3.50 A; I/i=1-261.
+DR   PDB; 7W3B; EM; 3.60 A; I/i=1-261.
+DR   PDB; 7W3C; EM; 3.40 A; I/i=1-261.
+DR   PDB; 7W3F; EM; 3.30 A; I/i=1-261.
+DR   PDB; 7W3G; EM; 3.20 A; I/i=1-261.
+DR   PDB; 7W3H; EM; 3.20 A; I/i=1-261.
+DR   PDB; 7W3I; EM; 3.50 A; I/i=1-261.
+DR   PDB; 7W3J; EM; 3.50 A; I/i=1-261.
+DR   PDB; 7W3K; EM; 3.60 A; I/i=1-261.
+DR   PDB; 7W3M; EM; 3.50 A; I/i=1-261.
+DR   PDB; 8CVR; EM; 2.70 A; C/Q=1-261.
+DR   PDB; 8CVS; EM; 3.10 A; B/P=1-261.
+DR   PDB; 8CVT; EM; 3.00 A; I/i=1-261.
+DR   PDB; 8CXB; EM; 2.90 A; B/P=1-261.
+DR   PDBsum; 4R3O; -.
+DR   PDBsum; 4R67; -.
+DR   PDBsum; 5A0Q; -.
+DR   PDBsum; 5GJQ; -.
+DR   PDBsum; 5GJR; -.
+DR   PDBsum; 5L4G; -.
+DR   PDBsum; 5LE5; -.
+DR   PDBsum; 5LEX; -.
+DR   PDBsum; 5LEY; -.
+DR   PDBsum; 5LEZ; -.
+DR   PDBsum; 5LF0; -.
+DR   PDBsum; 5LF1; -.
+DR   PDBsum; 5LF3; -.
+DR   PDBsum; 5LF4; -.
+DR   PDBsum; 5LF6; -.
+DR   PDBsum; 5LF7; -.
+DR   PDBsum; 5LN3; -.
+DR   PDBsum; 5M32; -.
+DR   PDBsum; 5T0C; -.
+DR   PDBsum; 5T0G; -.
+DR   PDBsum; 5T0H; -.
+DR   PDBsum; 5T0I; -.
+DR   PDBsum; 5T0J; -.
+DR   PDBsum; 5VFO; -.
+DR   PDBsum; 5VFP; -.
+DR   PDBsum; 5VFQ; -.
+DR   PDBsum; 5VFR; -.
+DR   PDBsum; 5VFS; -.
+DR   PDBsum; 5VFT; -.
+DR   PDBsum; 5VFU; -.
+DR   PDBsum; 6AVO; -.
+DR   PDBsum; 6E5B; -.
+DR   PDBsum; 6KWY; -.
+DR   PDBsum; 6MSB; -.
+DR   PDBsum; 6MSD; -.
+DR   PDBsum; 6MSE; -.
+DR   PDBsum; 6MSG; -.
+DR   PDBsum; 6MSH; -.
+DR   PDBsum; 6MSJ; -.
+DR   PDBsum; 6MSK; -.
+DR   PDBsum; 6R70; -.
+DR   PDBsum; 6REY; -.
+DR   PDBsum; 6RGQ; -.
+DR   PDBsum; 6WJD; -.
+DR   PDBsum; 6WJN; -.
+DR   PDBsum; 6XMJ; -.
+DR   PDBsum; 7AWE; -.
+DR   PDBsum; 7B12; -.
+DR   PDBsum; 7LXV; -.
+DR   PDBsum; 7NAN; -.
+DR   PDBsum; 7NAO; -.
+DR   PDBsum; 7NAP; -.
+DR   PDBsum; 7NAQ; -.
+DR   PDBsum; 7NHT; -.
+DR   PDBsum; 7PG9; -.
+DR   PDBsum; 7QXN; -.
+DR   PDBsum; 7QXP; -.
+DR   PDBsum; 7QXU; -.
+DR   PDBsum; 7QXW; -.
+DR   PDBsum; 7QXX; -.
+DR   PDBsum; 7QY7; -.
+DR   PDBsum; 7QYA; -.
+DR   PDBsum; 7QYB; -.
+DR   PDBsum; 7V5G; -.
+DR   PDBsum; 7V5M; -.
+DR   PDBsum; 7W37; -.
+DR   PDBsum; 7W38; -.
+DR   PDBsum; 7W39; -.
+DR   PDBsum; 7W3A; -.
+DR   PDBsum; 7W3B; -.
+DR   PDBsum; 7W3C; -.
+DR   PDBsum; 7W3F; -.
+DR   PDBsum; 7W3G; -.
+DR   PDBsum; 7W3H; -.
+DR   PDBsum; 7W3I; -.
+DR   PDBsum; 7W3J; -.
+DR   PDBsum; 7W3K; -.
+DR   PDBsum; 7W3M; -.
+DR   PDBsum; 8CVR; -.
+DR   PDBsum; 8CVS; -.
+DR   PDBsum; 8CVT; -.
+DR   PDBsum; 8CXB; -.
+DR   AlphaFoldDB; P25789; -.
+DR   SMR; P25789; -.
+DR   BioGRID; 111658; 277.
+DR   ComplexPortal; CPX-5993; 26S Proteasome complex.
+DR   CORUM; P25789; -.
+DR   DIP; DIP-29365N; -.
+DR   IntAct; P25789; 64.
+DR   MINT; P25789; -.
+DR   STRING; 9606.ENSP00000044462; -.
+DR   BindingDB; P25789; -.
+DR   ChEMBL; CHEMBL2364701; -.
+DR   ChEMBL; CHEMBL3831201; -.
+DR   DrugBank; DB08515; (3AR,6R,6AS)-6-((S)-((S)-CYCLOHEX-2-ENYL)(HYDROXY)METHYL)-6A-METHYL-4-OXO-HEXAHYDRO-2H-FURO[3,2-C]PYRROLE-6-CARBALDEHYDE.
+DR   MEROPS; T01.973; -.
+DR   GlyGen; P25789; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; P25789; -.
+DR   MetOSite; P25789; -.
+DR   PhosphoSitePlus; P25789; -.
+DR   SwissPalm; P25789; -.
+DR   BioMuta; PSMA4; -.
+DR   DMDM; 130861; -.
+DR   UCD-2DPAGE; P25789; -.
+DR   EPD; P25789; -.
+DR   jPOST; P25789; -.
+DR   MassIVE; P25789; -.
+DR   MaxQB; P25789; -.
+DR   PaxDb; P25789; -.
+DR   PeptideAtlas; P25789; -.
+DR   ProteomicsDB; 54292; -. [P25789-1]
+DR   ProteomicsDB; 54293; -. [P25789-2]
+DR   TopDownProteomics; P25789-1; -. [P25789-1]
+DR   Antibodypedia; 27657; 375 antibodies from 36 providers.
+DR   DNASU; 5685; -.
+DR   Ensembl; ENST00000044462.12; ENSP00000044462.7; ENSG00000041357.16. [P25789-1]
+DR   Ensembl; ENST00000413382.6; ENSP00000402118.2; ENSG00000041357.16. [P25789-2]
+DR   Ensembl; ENST00000559082.5; ENSP00000453887.1; ENSG00000041357.16. [P25789-1]
+DR   GeneID; 5685; -.
+DR   KEGG; hsa:5685; -.
+DR   MANE-Select; ENST00000044462.12; ENSP00000044462.7; NM_002789.6; NP_002780.1.
+DR   UCSC; uc002bdu.5; human. [P25789-1]
+DR   AGR; HGNC:9533; -.
+DR   CTD; 5685; -.
+DR   DisGeNET; 5685; -.
+DR   GeneCards; PSMA4; -.
+DR   HGNC; HGNC:9533; PSMA4.
+DR   HPA; ENSG00000041357; Low tissue specificity.
+DR   MIM; 176846; gene.
+DR   neXtProt; NX_P25789; -.
+DR   OpenTargets; ENSG00000041357; -.
+DR   PharmGKB; PA33878; -.
+DR   VEuPathDB; HostDB:ENSG00000041357; -.
+DR   eggNOG; KOG0178; Eukaryota.
+DR   GeneTree; ENSGT00550000074827; -.
+DR   InParanoid; P25789; -.
+DR   OMA; YVLNDNM; -.
+DR   OrthoDB; 166567at2759; -.
+DR   PhylomeDB; P25789; -.
+DR   TreeFam; TF106209; -.
+DR   BRENDA; 3.4.25.1; 2681.
+DR   PathwayCommons; P25789; -.
+DR   Reactome; R-HSA-1169091; Activation of NF-kappaB in B cells.
+DR   Reactome; R-HSA-1234176; Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha.
+DR   Reactome; R-HSA-1236974; ER-Phagosome pathway.
+DR   Reactome; R-HSA-1236978; Cross-presentation of soluble exogenous antigens (endosomes).
+DR   Reactome; R-HSA-174084; Autodegradation of Cdh1 by Cdh1:APC/C.
+DR   Reactome; R-HSA-174113; SCF-beta-TrCP mediated degradation of Emi1.
+DR   Reactome; R-HSA-174154; APC/C:Cdc20 mediated degradation of Securin.
+DR   Reactome; R-HSA-174178; APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1.
+DR   Reactome; R-HSA-174184; Cdc20:Phospho-APC/C mediated degradation of Cyclin A.
+DR   Reactome; R-HSA-180534; Vpu mediated degradation of CD4.
+DR   Reactome; R-HSA-180585; Vif-mediated degradation of APOBEC3G.
+DR   Reactome; R-HSA-187577; SCF(Skp2)-mediated degradation of p27/p21.
+DR   Reactome; R-HSA-195253; Degradation of beta-catenin by the destruction complex.
+DR   Reactome; R-HSA-202424; Downstream TCR signaling.
+DR   Reactome; R-HSA-211733; Regulation of activated PAK-2p34 by proteasome mediated degradation.
+DR   Reactome; R-HSA-2467813; Separation of Sister Chromatids.
+DR   Reactome; R-HSA-2871837; FCERI mediated NF-kB activation.
+DR   Reactome; R-HSA-349425; Autodegradation of the E3 ubiquitin ligase COP1.
+DR   Reactome; R-HSA-350562; Regulation of ornithine decarboxylase (ODC).
+DR   Reactome; R-HSA-382556; ABC-family proteins mediated transport.
+DR   Reactome; R-HSA-450408; AUF1 (hnRNP D0) binds and destabilizes mRNA.
+DR   Reactome; R-HSA-4608870; Asymmetric localization of PCP proteins.
+DR   Reactome; R-HSA-4641257; Degradation of AXIN.
+DR   Reactome; R-HSA-4641258; Degradation of DVL.
+DR   Reactome; R-HSA-5358346; Hedgehog ligand biogenesis.
+DR   Reactome; R-HSA-5362768; Hh mutants are degraded by ERAD.
+DR   Reactome; R-HSA-5607761; Dectin-1 mediated noncanonical NF-kB signaling.
+DR   Reactome; R-HSA-5607764; CLEC7A (Dectin-1) signaling.
+DR   Reactome; R-HSA-5610780; Degradation of GLI1 by the proteasome.
+DR   Reactome; R-HSA-5610783; Degradation of GLI2 by the proteasome.
+DR   Reactome; R-HSA-5610785; GLI3 is processed to GLI3R by the proteasome.
+DR   Reactome; R-HSA-5632684; Hedgehog 'on' state.
+DR   Reactome; R-HSA-5658442; Regulation of RAS by GAPs.
+DR   Reactome; R-HSA-5668541; TNFR2 non-canonical NF-kB pathway.
+DR   Reactome; R-HSA-5676590; NIK-->noncanonical NF-kB signaling.
+DR   Reactome; R-HSA-5678895; Defective CFTR causes cystic fibrosis.
+DR   Reactome; R-HSA-5687128; MAPK6/MAPK4 signaling.
+DR   Reactome; R-HSA-5689603; UCH proteinases.
+DR   Reactome; R-HSA-5689880; Ub-specific processing proteases.
+DR   Reactome; R-HSA-68867; Assembly of the pre-replicative complex.
+DR   Reactome; R-HSA-68949; Orc1 removal from chromatin.
+DR   Reactome; R-HSA-69017; CDK-mediated phosphorylation and removal of Cdc6.
+DR   Reactome; R-HSA-69481; G2/M Checkpoints.
+DR   Reactome; R-HSA-69601; Ubiquitin Mediated Degradation of Phosphorylated Cdc25A.
+DR   Reactome; R-HSA-75815; Ubiquitin-dependent degradation of Cyclin D.
+DR   Reactome; R-HSA-8852276; The role of GTSE1 in G2/M progression after G2 checkpoint.
+DR   Reactome; R-HSA-8854050; FBXL7 down-regulates AURKA during mitotic entry and in early mitosis.
+DR   Reactome; R-HSA-8939236; RUNX1 regulates transcription of genes involved in differentiation of HSCs.
+DR   Reactome; R-HSA-8939902; Regulation of RUNX2 expression and activity.
+DR   Reactome; R-HSA-8941858; Regulation of RUNX3 expression and activity.
+DR   Reactome; R-HSA-8948751; Regulation of PTEN stability and activity.
+DR   Reactome; R-HSA-8951664; Neddylation.
+DR   Reactome; R-HSA-9010553; Regulation of expression of SLITs and ROBOs.
+DR   Reactome; R-HSA-9020702; Interleukin-1 signaling.
+DR   Reactome; R-HSA-9604323; Negative regulation of NOTCH4 signaling.
+DR   Reactome; R-HSA-9755511; KEAP1-NFE2L2 pathway.
+DR   Reactome; R-HSA-9762114; GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2.
+DR   Reactome; R-HSA-983168; Antigen processing: Ubiquitination & Proteasome degradation.
+DR   SignaLink; P25789; -.
+DR   SIGNOR; P25789; -.
+DR   BioGRID-ORCS; 5685; 811 hits in 1136 CRISPR screens.
+DR   ChiTaRS; PSMA4; human.
+DR   GeneWiki; PSMA4; -.
+DR   GenomeRNAi; 5685; -.
+DR   Pharos; P25789; Tbio.
+DR   PRO; PR:P25789; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; P25789; protein.
+DR   Bgee; ENSG00000041357; Expressed in monocyte and 202 other tissues.
+DR   ExpressionAtlas; P25789; baseline and differential.
+DR   Genevisible; P25789; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0000932; C:P-body; ISS:UniProtKB.
+DR   GO; GO:0000502; C:proteasome complex; IDA:UniProtKB.
+DR   GO; GO:0005839; C:proteasome core complex; IDA:UniProtKB.
+DR   GO; GO:0019773; C:proteasome core complex, alpha-subunit complex; IDA:UniProtKB.
+DR   GO; GO:0043161; P:proteasome-mediated ubiquitin-dependent protein catabolic process; NAS:ComplexPortal.
+DR   CDD; cd03752; proteasome_alpha_type_4; 1.
+DR   Gene3D; 3.60.20.10; Glutamine Phosphoribosylpyrophosphate, subunit 1, domain 1; 1.
+DR   InterPro; IPR029055; Ntn_hydrolases_N.
+DR   InterPro; IPR023332; Proteasome_alpha-type.
+DR   InterPro; IPR000426; Proteasome_asu_N.
+DR   InterPro; IPR016050; Proteasome_bsu_CS.
+DR   InterPro; IPR001353; Proteasome_sua/b.
+DR   PANTHER; PTHR11599:SF13; PROTEASOME SUBUNIT ALPHA TYPE-4; 1.
+DR   PANTHER; PTHR11599; PROTEASOME SUBUNIT ALPHA/BETA; 1.
+DR   Pfam; PF00227; Proteasome; 1.
+DR   Pfam; PF10584; Proteasome_A_N; 1.
+DR   SMART; SM00948; Proteasome_A_N; 1.
+DR   SUPFAM; SSF56235; N-terminal nucleophile aminohydrolases (Ntn hydrolases); 1.
+DR   PROSITE; PS00388; PROTEASOME_ALPHA_1; 1.
+DR   PROSITE; PS51475; PROTEASOME_ALPHA_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Cytoplasm;
+KW   Direct protein sequencing; Host-virus interaction; Nucleus; Phosphoprotein;
+KW   Proteasome; Reference proteome.
+FT   CHAIN           1..261
+FT                   /note="Proteasome subunit alpha type-4"
+FT                   /id="PRO_0000124103"
+FT   REGION          240..261
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         13
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         75
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17323924"
+FT   MOD_RES         127
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         173
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         176
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   VAR_SEQ         1..71
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_043102"
+FT   TURN            3..5
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          7..11
+FT                   /evidence="ECO:0007829|PDB:5VFO"
+FT   TURN            14..16
+FT                   /evidence="ECO:0007829|PDB:7AWE"
+FT   HELIX           19..29
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          34..39
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          42..48
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   TURN            59..61
+FT                   /evidence="ECO:0007829|PDB:6KWY"
+FT   STRAND          63..69
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          72..78
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   HELIX           80..101
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   HELIX           107..123
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          124..126
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          132..140
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   TURN            141..143
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          144..150
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   TURN            152..154
+FT                   /evidence="ECO:0007829|PDB:6E5B"
+FT   STRAND          156..165
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   HELIX           168..178
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   TURN            181..183
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   HELIX           186..200
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          203..205
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   HELIX           208..210
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          211..219
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   STRAND          222..227
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   HELIX           230..246
+FT                   /evidence="ECO:0007829|PDB:5LE5"
+FT   HELIX           249..252
+FT                   /evidence="ECO:0007829|PDB:7AWE"
+FT   TURN            254..256
+FT                   /evidence="ECO:0007829|PDB:7AWE"
+SQ   SEQUENCE   261 AA;  29484 MW;  7867422B1B31F3B9 CRC64;
+     MSRRYDSRTT IFSPEGRLYQ VEYAMEAIGH AGTCLGILAN DGVLLAAERR NIHKLLDEVF
+     FSEKIYKLNE DMACSVAGIT SDANVLTNEL RLIAQRYLLQ YQEPIPCEQL VTALCDIKQA
+     YTQFGGKRPF GVSLLYIGWD KHYGFQLYQS DPSGNYGGWK ATCIGNNSAA AVSMLKQDYK
+     EGEMTLKSAL ALAIKVLNKT MDVSKLSAEK VEIATLTREN GKTVIRVLKQ KEVEQLIKKH
+     EEEEAKAERE KKEKEQKEKD K
+//

@@ -1,0 +1,335 @@
+ID   LGI3_HUMAN              Reviewed;         548 AA.
+AC   Q8N145; A5PLP2; Q86TL4; Q8N296;
+DT   03-JUL-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   28-JUN-2023, entry version 164.
+DE   RecName: Full=Leucine-rich repeat LGI family member 3;
+DE   AltName: Full=LGI1-like protein 4;
+DE   AltName: Full=Leucine-rich glioma-inactivated protein 3;
+DE   Flags: Precursor;
+GN   Name=LGI3; Synonyms=LGIL4; ORFNames=UNQ8190/PRO23199;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND TISSUE SPECIFICITY.
+RX   PubMed=12023020; DOI=10.1016/s0014-5793(02)02713-8;
+RA   Gu W., Wevers A., Schroder H., Grzeschik K.H., Derst C., Brodtkorb E.,
+RA   de Vos R., Steinlein O.K.;
+RT   "The LGI1 gene involved in lateral temporal lobe epilepsy belongs to a new
+RT   subfamily of leucine-rich repeat proteins.";
+RL   FEBS Lett. 519:71-76(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=12095917; DOI=10.1093/hmg/11.15.1757;
+RA   Scheel H., Tomiuk S., Hofmann K.;
+RT   "A common protein interaction domain links two recently identified epilepsy
+RT   genes.";
+RL   Hum. Mol. Genet. 11:1757-1762(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=12217514; DOI=10.1016/s0968-0004(02)02163-1;
+RA   Staub E., Perez-Tur J., Siebert R., Nobile C., Moschonas N.K., Deloukas P.,
+RA   Hinzmann B.;
+RT   "The novel EPTP repeat defines a superfamily of proteins implicated in
+RT   epileptic disorders.";
+RL   Trends Biochem. Sci. 27:441-444(2002).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=12975309; DOI=10.1101/gr.1293003;
+RA   Clark H.F., Gurney A.L., Abaya E., Baker K., Baldwin D.T., Brush J.,
+RA   Chen J., Chow B., Chui C., Crowley C., Currell B., Deuel B., Dowd P.,
+RA   Eaton D., Foster J.S., Grimaldi C., Gu Q., Hass P.E., Heldens S., Huang A.,
+RA   Kim H.S., Klimowski L., Jin Y., Johnson S., Lee J., Lewis L., Liao D.,
+RA   Mark M.R., Robbie E., Sanchez C., Schoenfeld J., Seshagiri S., Simmons L.,
+RA   Singh J., Smith V., Stinson J., Vagts A., Vandlen R.L., Watanabe C.,
+RA   Wieand D., Woods K., Xie M.-H., Yansura D.G., Yi S., Yu G., Yuan J.,
+RA   Zhang M., Zhang Z., Goddard A.D., Wood W.I., Godowski P.J., Gray A.M.;
+RT   "The secreted protein discovery initiative (SPDI), a large-scale effort to
+RT   identify novel human secreted and transmembrane proteins: a bioinformatics
+RT   assessment.";
+RL   Genome Res. 13:2265-2270(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 131-548 (ISOFORM 1).
+RC   TISSUE=Amygdala;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16421571; DOI=10.1038/nature04406;
+RA   Nusbaum C., Mikkelsen T.S., Zody M.C., Asakawa S., Taudien S., Garber M.,
+RA   Kodira C.D., Schueler M.G., Shimizu A., Whittaker C.A., Chang J.L.,
+RA   Cuomo C.A., Dewar K., FitzGerald M.G., Yang X., Allen N.R., Anderson S.,
+RA   Asakawa T., Blechschmidt K., Bloom T., Borowsky M.L., Butler J., Cook A.,
+RA   Corum B., DeArellano K., DeCaprio D., Dooley K.T., Dorris L. III,
+RA   Engels R., Gloeckner G., Hafez N., Hagopian D.S., Hall J.L., Ishikawa S.K.,
+RA   Jaffe D.B., Kamat A., Kudoh J., Lehmann R., Lokitsang T., Macdonald P.,
+RA   Major J.E., Matthews C.D., Mauceli E., Menzel U., Mihalev A.H.,
+RA   Minoshima S., Murayama Y., Naylor J.W., Nicol R., Nguyen C., O'Leary S.B.,
+RA   O'Neill K., Parker S.C.J., Polley A., Raymond C.K., Reichwald K.,
+RA   Rodriguez J., Sasaki T., Schilhabel M., Siddiqui R., Smith C.L.,
+RA   Sneddon T.P., Talamas J.A., Tenzin P., Topham K., Venkataraman V., Wen G.,
+RA   Yamazaki S., Young S.K., Zeng Q., Zimmer A.R., Rosenthal A., Birren B.W.,
+RA   Platzer M., Shimizu N., Lander E.S.;
+RT   "DNA sequence and analysis of human chromosome 8.";
+RL   Nature 439:331-335(2006).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   VARIANTS IDDMDS 112-SER--ALA-548 DEL; HIS-141 AND ASN-331, CHARACTERIZATION
+RP   OF VARIANT IDDMDS HIS-141, INVOLVEMENT IN IDDMDS, AND SUBCELLULAR LOCATION.
+RX   PubMed=35948005; DOI=10.1016/j.ajhg.2022.07.006;
+RA   Marafi D., Kozar N., Duan R., Bradley S., Yokochi K., Al Mutairi F.,
+RA   Saadi N.W., Whalen S., Brunet T., Kotzaeridou U., Choukair D., Keren B.,
+RA   Nava C., Kato M., Arai H., Froukh T., Faqeih E.A., Al Asmari A.M.,
+RA   Saleh M.M., Pinto Vairo F., Pichurin P.N., Klee E.W., Schmitz C.T.,
+RA   Grochowski C.M., Mitani T., Herman I., Calame D.G., Fatih J.M., Du H.,
+RA   Coban-Akdemir Z., Pehlivan D., Jhangiani S.N., Gibbs R.A., Miyatake S.,
+RA   Matsumoto N., Wagstaff L.J., Posey J.E., Lupski J.R., Meijer D., Wagner M.;
+RT   "A reverse genetics and genomics approach to gene paralog function and
+RT   disease: Myokymia and the juxtaparanode.";
+RL   Am. J. Hum. Genet. 109:1713-1723(2022).
+CC   -!- FUNCTION: May participate in the regulation of neuronal exocytosis.
+CC       {ECO:0000250}.
+CC   -!- SUBUNIT: Interacts with STX1A. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:35948005}.
+CC       Cytoplasmic vesicle, secretory vesicle, synaptic vesicle
+CC       {ECO:0000250|UniProtKB:Q8K406}. Synapse, synaptosome
+CC       {ECO:0000250|UniProtKB:Q8K406}. Cell projection, axon
+CC       {ECO:0000250|UniProtKB:Q8K406}. Note=Found in the synaptosomal membrane
+CC       fraction. Within peripheral myelinated axons, LGI3 is highly expressed
+CC       at the juxtaparanodal membrane and colocalizes with the voltage-gated
+CC       potassium channels Kv1.1 (KCNA1) and Kv1.2 (KCNA2), and with CNTNAP2,
+CC       DLG4, ADAM22 and ADAM23 (By similarity).
+CC       {ECO:0000250|UniProtKB:Q8K406}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q8N145-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8N145-2; Sequence=VSP_056297;
+CC   -!- TISSUE SPECIFICITY: Widely expressed, with highest levels in brain and
+CC       lung. {ECO:0000269|PubMed:12023020}.
+CC   -!- DISEASE: Intellectual developmental disorder with muscle tone
+CC       abnormalities and distal skeletal defects (IDDMDS) [MIM:620007]: An
+CC       autosomal recessive disorder characterized by global developmental
+CC       delay, intellectual disability, distal deformities with diminished
+CC       reflexes, visible facial myokymia, and distinctive electromyographic
+CC       features suggestive of motor nerve instability.
+CC       {ECO:0000269|PubMed:35948005}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAC03553.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF467956; AAM49554.1; -; mRNA.
+DR   EMBL; AJ487961; CAD32308.1; -; mRNA.
+DR   EMBL; AJ487518; CAD31786.1; -; mRNA.
+DR   EMBL; AY358116; AAQ88483.1; -; mRNA.
+DR   EMBL; AK090946; BAC03553.1; ALT_INIT; mRNA.
+DR   EMBL; AC105206; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC042542; AAH42542.1; -; mRNA.
+DR   EMBL; BC142997; AAI42998.1; -; mRNA.
+DR   CCDS; CCDS6025.1; -. [Q8N145-1]
+DR   RefSeq; NP_644807.1; NM_139278.2. [Q8N145-1]
+DR   AlphaFoldDB; Q8N145; -.
+DR   SMR; Q8N145; -.
+DR   BioGRID; 128454; 2.
+DR   STRING; 9606.ENSP00000302297; -.
+DR   GlyCosmos; Q8N145; 2 sites, No reported glycans.
+DR   GlyGen; Q8N145; 2 sites.
+DR   iPTMnet; Q8N145; -.
+DR   PhosphoSitePlus; Q8N145; -.
+DR   BioMuta; LGI3; -.
+DR   DMDM; 32469742; -.
+DR   MassIVE; Q8N145; -.
+DR   PaxDb; Q8N145; -.
+DR   PeptideAtlas; Q8N145; -.
+DR   ProteomicsDB; 71555; -. [Q8N145-1]
+DR   ProteomicsDB; 749; -.
+DR   Antibodypedia; 22532; 154 antibodies from 25 providers.
+DR   DNASU; 203190; -.
+DR   Ensembl; ENST00000306317.7; ENSP00000302297.2; ENSG00000168481.9. [Q8N145-1]
+DR   Ensembl; ENST00000424267.6; ENSP00000399121.2; ENSG00000168481.9. [Q8N145-2]
+DR   GeneID; 203190; -.
+DR   KEGG; hsa:203190; -.
+DR   MANE-Select; ENST00000306317.7; ENSP00000302297.2; NM_139278.4; NP_644807.1.
+DR   UCSC; uc003xav.4; human. [Q8N145-1]
+DR   AGR; HGNC:18711; -.
+DR   CTD; 203190; -.
+DR   DisGeNET; 203190; -.
+DR   GeneCards; LGI3; -.
+DR   HGNC; HGNC:18711; LGI3.
+DR   HPA; ENSG00000168481; Tissue enriched (brain).
+DR   MalaCards; LGI3; -.
+DR   MIM; 608302; gene.
+DR   MIM; 620007; phenotype.
+DR   neXtProt; NX_Q8N145; -.
+DR   OpenTargets; ENSG00000168481; -.
+DR   PharmGKB; PA38655; -.
+DR   VEuPathDB; HostDB:ENSG00000168481; -.
+DR   eggNOG; ENOG502QSAR; Eukaryota.
+DR   GeneTree; ENSGT00940000160296; -.
+DR   HOGENOM; CLU_036403_0_0_1; -.
+DR   InParanoid; Q8N145; -.
+DR   OMA; EGDWFFA; -.
+DR   OrthoDB; 4083661at2759; -.
+DR   PhylomeDB; Q8N145; -.
+DR   TreeFam; TF333155; -.
+DR   PathwayCommons; Q8N145; -.
+DR   Reactome; R-HSA-5682910; LGI-ADAM interactions.
+DR   BioGRID-ORCS; 203190; 15 hits in 1141 CRISPR screens.
+DR   ChiTaRS; LGI3; human.
+DR   GenomeRNAi; 203190; -.
+DR   Pharos; Q8N145; Tbio.
+DR   PRO; PR:Q8N145; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; Q8N145; protein.
+DR   Bgee; ENSG00000168481; Expressed in C1 segment of cervical spinal cord and 123 other tissues.
+DR   ExpressionAtlas; Q8N145; baseline and differential.
+DR   Genevisible; Q8N145; HS.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProtKB.
+DR   GO; GO:0044224; C:juxtaparanode region of axon; ISS:UniProtKB.
+DR   GO; GO:0008021; C:synaptic vesicle; IBA:GO_Central.
+DR   GO; GO:0006887; P:exocytosis; IEA:UniProtKB-KW.
+DR   GO; GO:0017157; P:regulation of exocytosis; IBA:GO_Central.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 1.
+DR   InterPro; IPR000483; Cys-rich_flank_reg_C.
+DR   InterPro; IPR009039; EAR.
+DR   InterPro; IPR005492; EPTP.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   InterPro; IPR011041; Quinoprot_gluc/sorb_DH.
+DR   PANTHER; PTHR24367:SF10; LEUCINE-RICH REPEAT LGI FAMILY MEMBER 3; 1.
+DR   PANTHER; PTHR24367; LEUCINE-RICH REPEAT-CONTAINING PROTEIN; 1.
+DR   Pfam; PF03736; EPTP; 7.
+DR   Pfam; PF13855; LRR_8; 1.
+DR   SMART; SM00369; LRR_TYP; 3.
+DR   SMART; SM00082; LRRCT; 1.
+DR   SUPFAM; SSF52058; L domain-like; 1.
+DR   SUPFAM; SSF50952; Soluble quinoprotein glucose dehydrogenase; 1.
+DR   PROSITE; PS50912; EAR; 7.
+DR   PROSITE; PS51450; LRR; 4.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell projection; Cytoplasmic vesicle;
+KW   Disease variant; Exocytosis; Glycoprotein; Intellectual disability;
+KW   Leucine-rich repeat; Reference proteome; Repeat; Secreted; Signal; Synapse;
+KW   Synaptosome.
+FT   SIGNAL          1..30
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           31..548
+FT                   /note="Leucine-rich repeat LGI family member 3"
+FT                   /id="PRO_0000017710"
+FT   DOMAIN          31..64
+FT                   /note="LRRNT"
+FT   REPEAT          89..110
+FT                   /note="LRR 1"
+FT   REPEAT          113..134
+FT                   /note="LRR 2"
+FT   REPEAT          137..158
+FT                   /note="LRR 3"
+FT   DOMAIN          170..220
+FT                   /note="LRRCT"
+FT   REPEAT          222..264
+FT                   /note="EAR 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00075"
+FT   REPEAT          268..310
+FT                   /note="EAR 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00075"
+FT   REPEAT          314..361
+FT                   /note="EAR 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00075"
+FT   REPEAT          363..406
+FT                   /note="EAR 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00075"
+FT   REPEAT          410..453
+FT                   /note="EAR 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00075"
+FT   REPEAT          455..497
+FT                   /note="EAR 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00075"
+FT   REPEAT          501..543
+FT                   /note="EAR 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00075"
+FT   CARBOHYD        189
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        311
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         117..140
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_056297"
+FT   VARIANT         112..548
+FT                   /note="Missing (in IDDMDS)"
+FT                   /evidence="ECO:0000269|PubMed:35948005"
+FT                   /id="VAR_087683"
+FT   VARIANT         141
+FT                   /note="L -> H (in IDDMDS; severely reduced secretion due to
+FT                   retention of the mutant in the Golgi apparatus)"
+FT                   /evidence="ECO:0000269|PubMed:35948005"
+FT                   /id="VAR_087684"
+FT   VARIANT         331
+FT                   /note="D -> N (in IDDMDS; severely reduced secretion due to
+FT                   retention of the mutant in the Golgi apparatus)"
+FT                   /evidence="ECO:0000269|PubMed:35948005"
+FT                   /id="VAR_087685"
+FT   VARIANT         524
+FT                   /note="A -> T (in dbSNP:rs34112456)"
+FT                   /id="VAR_053488"
+FT   CONFLICT        509
+FT                   /note="A -> V (in Ref. 4; AAQ88483)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   548 AA;  61704 MW;  32FE6EABA184E47B CRC64;
+     MAGLRARGGP GPGLLALSAL GFCLMLQVSA KRPPKTPPCP PSCSCTRDTA FCVDSKAVPR
+     NLPSEVISLT LVNAAFSEIQ DGAFSHLPLL QFLLLNSNKF TLIGDNAFTG LSHLQYLFIE
+     NNDIWALSKF TFRGLKSLTH LSLANNNLQT LPRDIFRPLD ILNDLDLRGN SLNCDCKVKW
+     LVEWLAHTNT TVAPIYCASP PRFQEHKVQD LPLREFDCIT TDFVLYQTLA FPAVSAEPFL
+     YSSDLYLALA QPGVSACTIL KWDYVERQLR DYDRIPAPSA VHCKPMVVDS QLYVVVAQLF
+     GGSYIYHWDP NTTRFTRLQD IDPQRVRKPN DLEAFRIDGD WYFAVADSSK AGATSLYRWH
+     QNGFYSHQAL HPWHRDTDLE FVDGEGKPRL IVSSSSQAPV IYQWSRTQKQ FVAQGEVTQV
+     PDAQAVKHFR AGRDSYLCLS RYIGDSKILR WEGTRFSEVQ ALPSRGSLAL QPFLVGGRRY
+     LALGSDFSFT QIYQWDEGRQ KFVRFQELAV QAPRAFCYMP AGDAQLLLAP SFKGQTLVYR
+     HIVVDLSA
+//

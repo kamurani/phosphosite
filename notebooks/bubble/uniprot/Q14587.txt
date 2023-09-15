@@ -1,0 +1,827 @@
+ID   ZN268_HUMAN             Reviewed;         947 AA.
+AC   Q14587; Q8TDG8; Q96RH4; Q9BZJ9;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   29-AUG-2001, sequence version 2.
+DT   28-JUN-2023, entry version 211.
+DE   RecName: Full=Zinc finger protein 268;
+DE   AltName: Full=Zinc finger protein HZF3;
+GN   Name=ZNF268;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Embryo;
+RX   PubMed=11311945; DOI=10.1016/s0167-4781(01)00194-4;
+RA   Gou D.M., Sun Y., Gao L., Chow L.M.C., Huang J., Feng Y.D., Jiang D.H.,
+RA   Li W.X.;
+RT   "Cloning and characterization of a novel Kruppel-like zinc finger gene,
+RT   ZNF268, expressed in early human embryo.";
+RL   Biochim. Biophys. Acta 1518:306-310(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), AND TISSUE SPECIFICITY.
+RX   PubMed=12200376; DOI=10.1182/blood-2002-02-0513;
+RA   Krackhardt A.M., Witzens M., Harig S., Hodi F.S., Zauls A.J., Chessia M.,
+RA   Barrett P., Gribben J.G.;
+RT   "Identification of tumor-associated antigens in chronic lymphocytic
+RT   leukemia by SEREX.";
+RL   Blood 100:2123-2131(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 3; 4; 5; 6 AND 7), AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=16865230;
+RA   Shao H., Zhu C., Zhao Z., Guo M., Qiu H., Liu H., Wang D., Xue L., Gao L.,
+RA   Sun C., Li W.;
+RT   "KRAB-containing zinc finger gene ZNF268 encodes multiple alternatively
+RT   spliced isoforms that contain transcription regulatory domains.";
+RL   Int. J. Mol. Med. 18:457-463(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 3; 4; 5; 6 AND 7), AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=18949428;
+RA   Zhao Z., Wang D., Zhu C., Shao H., Sun C., Qiu H., Xue L., Xu J., Guo M.,
+RA   Li W.;
+RT   "Aberrant alternative splicing of human zinc finger gene ZNF268 in human
+RT   hematological malignancy.";
+RL   Oncol. Rep. 20:1243-1248(2008).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16541075; DOI=10.1038/nature04569;
+RA   Scherer S.E., Muzny D.M., Buhay C.J., Chen R., Cree A., Ding Y.,
+RA   Dugan-Rocha S., Gill R., Gunaratne P., Harris R.A., Hawes A.C.,
+RA   Hernandez J., Hodgson A.V., Hume J., Jackson A., Khan Z.M., Kovar-Smith C.,
+RA   Lewis L.R., Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R.,
+RA   Montgomery K.T., Morgan M.B., Nazareth L.V., Scott G., Sodergren E.,
+RA   Song X.-Z., Steffen D., Lovering R.C., Wheeler D.A., Worley K.C., Yuan Y.,
+RA   Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M., Brown M.J., Chen G.,
+RA   Chen Z., Clerc-Blankenburg K.P., Davis C., Delgado O., Dinh H.H.,
+RA   Draper H., Gonzalez-Garay M.L., Havlak P., Jackson L.R., Jacob L.S.,
+RA   Kelly S.H., Li L., Li Z., Liu J., Liu W., Lu J., Maheshwari M.,
+RA   Nguyen B.-V., Okwuonu G.O., Pasternak S., Perez L.M., Plopper F.J.H.,
+RA   Santibanez J., Shen H., Tabor P.E., Verduzco D., Waldron L., Wang Q.,
+RA   Williams G.A., Zhang J., Zhou J., Allen C.C., Amin A.G., Anyalebechi V.,
+RA   Bailey M., Barbaria J.A., Bimage K.E., Bryant N.P., Burch P.E.,
+RA   Burkett C.E., Burrell K.L., Calderon E., Cardenas V., Carter K., Casias K.,
+RA   Cavazos I., Cavazos S.R., Ceasar H., Chacko J., Chan S.N., Chavez D.,
+RA   Christopoulos C., Chu J., Cockrell R., Cox C.D., Dang M., Dathorne S.R.,
+RA   David R., Davis C.M., Davy-Carroll L., Deshazo D.R., Donlin J.E.,
+RA   D'Souza L., Eaves K.A., Egan A., Emery-Cohen A.J., Escotto M., Flagg N.,
+RA   Forbes L.D., Gabisi A.M., Garza M., Hamilton C., Henderson N.,
+RA   Hernandez O., Hines S., Hogues M.E., Huang M., Idlebird D.G., Johnson R.,
+RA   Jolivet A., Jones S., Kagan R., King L.M., Leal B., Lebow H., Lee S.,
+RA   LeVan J.M., Lewis L.C., London P., Lorensuhewa L.M., Loulseged H.,
+RA   Lovett D.A., Lucier A., Lucier R.L., Ma J., Madu R.C., Mapua P.,
+RA   Martindale A.D., Martinez E., Massey E., Mawhiney S., Meador M.G.,
+RA   Mendez S., Mercado C., Mercado I.C., Merritt C.E., Miner Z.L., Minja E.,
+RA   Mitchell T., Mohabbat F., Mohabbat K., Montgomery B., Moore N., Morris S.,
+RA   Munidasa M., Ngo R.N., Nguyen N.B., Nickerson E., Nwaokelemeh O.O.,
+RA   Nwokenkwo S., Obregon M., Oguh M., Oragunye N., Oviedo R.J., Parish B.J.,
+RA   Parker D.N., Parrish J., Parks K.L., Paul H.A., Payton B.A., Perez A.,
+RA   Perrin W., Pickens A., Primus E.L., Pu L.-L., Puazo M., Quiles M.M.,
+RA   Quiroz J.B., Rabata D., Reeves K., Ruiz S.J., Shao H., Sisson I.,
+RA   Sonaike T., Sorelle R.P., Sutton A.E., Svatek A.F., Svetz L.A.,
+RA   Tamerisa K.S., Taylor T.R., Teague B., Thomas N., Thorn R.D., Trejos Z.Y.,
+RA   Trevino B.K., Ukegbu O.N., Urban J.B., Vasquez L.I., Vera V.A.,
+RA   Villasana D.M., Wang L., Ward-Moore S., Warren J.T., Wei X., White F.,
+RA   Williamson A.L., Wleczyk R., Wooden H.S., Wooden S.H., Yen J., Yoon L.,
+RA   Yoon V., Zorrilla S.E., Nelson D., Kucherlapati R., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The finished DNA sequence of human chromosome 12.";
+RL   Nature 440:346-351(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 549-947.
+RX   PubMed=7865130; DOI=10.1089/dna.1995.14.125;
+RA   Abrink M., Aveskogh M., Hellman L.;
+RT   "Isolation of cDNA clones for 42 different Kruppel-related zinc finger
+RT   proteins expressed in the human monoblast cell line U-937.";
+RL   DNA Cell Biol. 14:125-136(1995).
+RN   [7]
+RP   FUNCTION (ISOFORM 1), AND SUBCELLULAR LOCATION.
+RX   PubMed=12822888; DOI=10.1080/1521654031000110208;
+RA   Sun Y., Gou D.M., Liu H., Peng X., Li W.X.;
+RT   "The KRAB domain of zinc finger gene ZNF268: a potential transcriptional
+RT   repressor.";
+RL   IUBMB Life 55:127-131(2003).
+RN   [8]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND DEVELOPMENTAL STAGE.
+RX   PubMed=15547661;
+RA   Sun Y., Shao H., Li Z., Liu J., Gao L., Peng X., Meng Y., Li W.;
+RT   "ZNF268, a novel kruppel-like zinc finger protein, is implicated in early
+RT   human liver development.";
+RL   Int. J. Mol. Med. 14:971-975(2004).
+RN   [9]
+RP   INDUCTION BY ATF4.
+RX   PubMed=16787922; DOI=10.1074/jbc.m602753200;
+RA   Guo M.X., Wang D., Shao H.J., Qiu H.L., Xue L., Zhao Z.Z., Zhu C.G.,
+RA   Shi Y.B., Li W.X.;
+RT   "Transcription of human zinc finger ZNF268 gene requires an intragenic
+RT   promoter element.";
+RL   J. Biol. Chem. 281:24623-24636(2006).
+RN   [10]
+RP   ALTERNATIVE SPLICING, TISSUE SPECIFICITY, AND DEVELOPMENTAL STAGE.
+RX   PubMed=16735226;
+RA   Sun C., Zhao Z.Z., Gao L., Sun Y., Shao H.J., Li W.X.;
+RT   "Cloning and characterization of two novel alternatively spliced
+RT   transcripts of ZNF268.";
+RL   Yi Chuan 28:513-517(2006).
+RN   [11]
+RP   INDUCTION BY UPF1.
+RX   PubMed=18774934; DOI=10.1134/s0006297908080051;
+RA   Zhu C., Zhao Z., Guo M., Shao H., Qiu H., Wang D., Xu J., Xue L., Li W.;
+RT   "The mammalian gene ZNF268 is regulated by hUpf1.";
+RL   Biochemistry (Mosc.) 73:881-885(2008).
+RN   [12]
+RP   INDUCTION BY HTLV-1 TAX.
+RX   PubMed=18375384; DOI=10.1074/jbc.m706426200;
+RA   Wang D., Guo M.X., Hu H.M., Zhao Z.Z., Qiu H.L., Shao H.J., Zhu C.G.,
+RA   Xue L., Shi Y.B., Li W.X.;
+RT   "Human T-cell leukemia virus type 1 oncoprotein tax represses ZNF268
+RT   expression through the cAMP-responsive element-binding protein/activating
+RT   transcription factor pathway.";
+RL   J. Biol. Chem. 283:16299-16308(2008).
+RN   [13]
+RP   FUNCTION, ALTERNATIVE SPLICING (ISOFORMS 1 AND 2), SUBCELLULAR LOCATION,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=18677094;
+RA   Chun J.N., Song I.S., Kang D.H., Song H.J., Kim H.I., Seo J., Suh J.W.,
+RA   Lee K.J., Lee K.J., Kim J., Kang S.W.;
+RT   "A splice variant of the C(2)H(2)-type zinc finger protein, ZNF268s,
+RT   regulates NF-kappaB activation by TNF-alpha.";
+RL   Mol. Cells 26:175-180(2008).
+RN   [14]
+RP   FUNCTION (ISOFORMS 1 AND 2), INTERACTION WITH CHUK AND IKBKB, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=23091055; DOI=10.1074/jbc.m112.399923;
+RA   Wang W., Guo M., Hu L., Cai J., Zeng Y., Luo J., Shu Z., Li W., Huang Z.;
+RT   "The zinc finger protein ZNF268 is overexpressed in human cervical cancer
+RT   and contributes to tumorigenesis via enhancing NF-kappaB signaling.";
+RL   J. Biol. Chem. 287:42856-42866(2012).
+RN   [15]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=22235304; DOI=10.1371/journal.pone.0029518;
+RA   Zeng Y., Wang W., Ma J., Wang X., Guo M., Li W.;
+RT   "Knockdown of ZNF268, which is transcriptionally downregulated by GATA-1,
+RT   promotes proliferation of K562 cells.";
+RL   PLoS ONE 7:E29518-E29518(2012).
+RN   [16]
+RP   INTERACTION WITH TRIM28, SUBCELLULAR LOCATION (ISOFORMS 1 AND 2), AND
+RP   MUTAGENESIS OF ASP-85; VAL-86; VAL-88; PHE-90; GLU-93; GLU-94 AND TRP-95.
+RX   PubMed=23665872; DOI=10.1007/s00018-013-1359-4;
+RA   Wang W., Cai J., Wu Y., Hu L., Chen Z., Hu J., Chen Z., Li W., Guo M.,
+RA   Huang Z.;
+RT   "Novel activity of KRAB domain that functions to reinforce nuclear
+RT   localization of KRAB-containing zinc finger proteins by interacting with
+RT   KAP1.";
+RL   Cell. Mol. Life Sci. 70:3947-3958(2013).
+RN   [17]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=23946776; DOI=10.3892/ol.2013.1318;
+RA   Hu L., Wang W., Cai J., Luo J., Huang Y., Xiong S., Li W., Guo M.;
+RT   "Aberrant expression of ZNF268 alters the growth and migration of ovarian
+RT   cancer cells.";
+RL   Oncol. Lett. 6:49-54(2013).
+RN   [18]
+RP   STRUCTURE BY NMR OF 272-947.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the C2H2 type zinc finger region of human zinc
+RT   finger protein 268.";
+RL   Submitted (OCT-2007) to the PDB data bank.
+CC   -!- FUNCTION: [Isoform 1]: Acts as a transcriptional repressor. Inhibits
+CC       erythroid differentiation and tumor cell proliferation. Plays a role
+CC       during ovarian cancer development and progression.
+CC   -!- FUNCTION: [Isoform 2]: Contributes to cervical carcinogenesis in part
+CC       through the TNF-alpha-induced NF-kappa-B signaling pathway by
+CC       interacting with the I-kappa-B-kinase (IKK) core complex.
+CC   -!- SUBUNIT: Interacts (via the KRAB domain) with TRIM28 (via the RBCC
+CC       domain); the interaction increases ZNF268 nuclear localization
+CC       activity. Isoform 2 interacts with CHUK and IKBKB; the interaction is
+CC       further increased in a TNF-alpha-dependent manner.
+CC       {ECO:0000269|PubMed:23091055, ECO:0000269|PubMed:23665872}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 1]: Nucleus
+CC       {ECO:0000269|PubMed:23665872}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 2]: Nucleus
+CC       {ECO:0000269|PubMed:23665872}. Cytoplasm {ECO:0000269|PubMed:23665872}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=7;
+CC       Name=1; Synonyms=ZNF268a, KW-4 variant-1;
+CC         IsoId=Q14587-1; Sequence=Displayed;
+CC       Name=2; Synonyms=ZNF268s, KW-4 variant-2;
+CC         IsoId=Q14587-2; Sequence=VSP_006909;
+CC       Name=3; Synonyms=ZNF268c;
+CC         IsoId=Q14587-3; Sequence=VSP_053461, VSP_053471;
+CC       Name=4; Synonyms=ZNF268d;
+CC         IsoId=Q14587-4; Sequence=VSP_053462, VSP_053467;
+CC       Name=5; Synonyms=ZNF268e;
+CC         IsoId=Q14587-6; Sequence=VSP_053466, VSP_053468;
+CC       Name=6; Synonyms=ZNF268f;
+CC         IsoId=Q14587-7; Sequence=VSP_053464, VSP_053465;
+CC       Name=7; Synonyms=ZNF268g;
+CC         IsoId=Q14587-8; Sequence=VSP_053463, VSP_053469, VSP_053470;
+CC   -!- TISSUE SPECIFICITY: Overexpressed in ovarian cancer tissues compared to
+CC       normal ovarian tissues. Isoform 1 and isoform 2 are expressed in
+CC       squamous epithelium tissues. Isoform 2 is overexpressed in squamous
+CC       cervical cancer (at protein level). Expressed in blood cells. Isoform 1
+CC       is expressed in pancreas, lung, skeletal muscle, heart, placenta,
+CC       liver, kidney and brain. Isoform 2 expressed in chronic lymphocytic
+CC       leukemia (CLL) and several tumor cell lines. Isoform 3 is expressed in
+CC       several tumor cells. Isoform 5 is expressed in fetal liver and several
+CC       tumor cells. Isoform 6 is weakly expressed in brain, lung amd small
+CC       intestin and in several tumor cells. Isoform 7 is expressed in fetal
+CC       liver and several tumor cells. {ECO:0000269|PubMed:12200376,
+CC       ECO:0000269|PubMed:16735226, ECO:0000269|PubMed:16865230,
+CC       ECO:0000269|PubMed:18949428, ECO:0000269|PubMed:23091055,
+CC       ECO:0000269|PubMed:23946776}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed in fetal liver from 5 weeks until 4
+CC       months but drastically reduced by 6 months and became non-detectable by
+CC       7 months. Expressed in hematopoietic stem cells in 3 weeks and 5 weeks
+CC       (at protein level). Expressed in fetal liver.
+CC       {ECO:0000269|PubMed:15547661, ECO:0000269|PubMed:16735226}.
+CC   -!- INDUCTION: Down-regulated during erythroid differentiation by GATA1.
+CC       Down-regulated by HTLV-1 Tax through the CREB/ATF pathway. Up-regulated
+CC       by the regulator of nonsense transcript UPF1. Up-regulated by the
+CC       cyclic AMP-dependent transcription factor ATF4.
+CC       {ECO:0000269|PubMed:16787922, ECO:0000269|PubMed:18375384,
+CC       ECO:0000269|PubMed:18774934, ECO:0000269|PubMed:22235304}.
+CC   -!- DOMAIN: The KRAB domain functions to reinforce the nuclear localization
+CC       of isoform 1 in addition to its transcription repression activity.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF317549; AAG59817.1; -; mRNA.
+DR   EMBL; AF385187; AAK69307.1; -; mRNA.
+DR   EMBL; AF432217; AAL99923.1; -; mRNA.
+DR   EMBL; AC026785; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DQ057356; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; DQ057357; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; DQ057358; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; DQ057359; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; DQ057360; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; X78926; CAA55526.1; -; mRNA.
+DR   CCDS; CCDS45012.1; -. [Q14587-1]
+DR   CCDS; CCDS53853.1; -. [Q14587-4]
+DR   CCDS; CCDS59240.1; -. [Q14587-6]
+DR   PIR; S47071; S47071.
+DR   RefSeq; NP_001159353.1; NM_001165881.2. [Q14587-1]
+DR   RefSeq; NP_001159355.1; NM_001165883.1. [Q14587-6]
+DR   RefSeq; NP_001159356.2; NM_001165884.2.
+DR   RefSeq; NP_001159357.1; NM_001165885.1.
+DR   RefSeq; NP_001159358.1; NM_001165886.1.
+DR   RefSeq; NP_001159359.1; NM_001165887.1.
+DR   RefSeq; NP_003406.1; NM_003415.2. [Q14587-1]
+DR   RefSeq; NP_694422.2; NM_152943.2.
+DR   PDB; 2EL4; NMR; -; A=663-695.
+DR   PDB; 2EL5; NMR; -; A=749-777.
+DR   PDB; 2EL6; NMR; -; A=831-863.
+DR   PDB; 2EM1; NMR; -; A=637-667.
+DR   PDB; 2EMV; NMR; -; A=859-889.
+DR   PDB; 2EMW; NMR; -; A=301-331.
+DR   PDB; 2EMX; NMR; -; A=273-303.
+DR   PDB; 2EMY; NMR; -; A=551-583.
+DR   PDB; 2EN0; NMR; -; A=385-413.
+DR   PDB; 2EN6; NMR; -; A=887-919.
+DR   PDB; 2EN7; NMR; -; A=495-525.
+DR   PDB; 2EOF; NMR; -; A=411-441.
+DR   PDB; 2EOG; NMR; -; A=693-723.
+DR   PDB; 2EOI; NMR; -; A=329-359.
+DR   PDB; 2EOJ; NMR; -; A=355-385.
+DR   PDB; 2EOK; NMR; -; A=441-469.
+DR   PDB; 2EOL; NMR; -; A=581-609.
+DR   PDB; 2EOP; NMR; -; A=719-751.
+DR   PDB; 2EPV; NMR; -; A=803-833.
+DR   PDB; 2EPW; NMR; -; A=915-947.
+DR   PDB; 2EPY; NMR; -; A=525-553.
+DR   PDB; 2YTF; NMR; -; A=607-639.
+DR   PDB; 2YTQ; NMR; -; A=775-807.
+DR   PDBsum; 2EL4; -.
+DR   PDBsum; 2EL5; -.
+DR   PDBsum; 2EL6; -.
+DR   PDBsum; 2EM1; -.
+DR   PDBsum; 2EMV; -.
+DR   PDBsum; 2EMW; -.
+DR   PDBsum; 2EMX; -.
+DR   PDBsum; 2EMY; -.
+DR   PDBsum; 2EN0; -.
+DR   PDBsum; 2EN6; -.
+DR   PDBsum; 2EN7; -.
+DR   PDBsum; 2EOF; -.
+DR   PDBsum; 2EOG; -.
+DR   PDBsum; 2EOI; -.
+DR   PDBsum; 2EOJ; -.
+DR   PDBsum; 2EOK; -.
+DR   PDBsum; 2EOL; -.
+DR   PDBsum; 2EOP; -.
+DR   PDBsum; 2EPV; -.
+DR   PDBsum; 2EPW; -.
+DR   PDBsum; 2EPY; -.
+DR   PDBsum; 2YTF; -.
+DR   PDBsum; 2YTQ; -.
+DR   AlphaFoldDB; Q14587; -.
+DR   SMR; Q14587; -.
+DR   BioGRID; 116010; 13.
+DR   IntAct; Q14587; 1.
+DR   STRING; 9606.ENSP00000444412; -.
+DR   iPTMnet; Q14587; -.
+DR   PhosphoSitePlus; Q14587; -.
+DR   BioMuta; ZNF268; -.
+DR   DMDM; 19863363; -.
+DR   EPD; Q14587; -.
+DR   jPOST; Q14587; -.
+DR   MassIVE; Q14587; -.
+DR   MaxQB; Q14587; -.
+DR   PaxDb; Q14587; -.
+DR   PeptideAtlas; Q14587; -.
+DR   ProteomicsDB; 60060; -. [Q14587-1]
+DR   ProteomicsDB; 60061; -. [Q14587-2]
+DR   Antibodypedia; 834; 184 antibodies from 19 providers.
+DR   DNASU; 10795; -.
+DR   Ensembl; ENST00000228289.9; ENSP00000228289.5; ENSG00000090612.22. [Q14587-1]
+DR   Ensembl; ENST00000536435.7; ENSP00000444412.3; ENSG00000090612.22. [Q14587-1]
+DR   Ensembl; ENST00000539248.6; ENSP00000467781.1; ENSG00000090612.22. [Q14587-6]
+DR   Ensembl; ENST00000588312.2; ENSP00000466622.1; ENSG00000090612.22. [Q14587-7]
+DR   GeneID; 10795; -.
+DR   KEGG; hsa:10795; -.
+DR   MANE-Select; ENST00000536435.7; ENSP00000444412.3; NM_003415.3; NP_003406.1.
+DR   UCSC; uc010tbw.3; human. [Q14587-1]
+DR   AGR; HGNC:13061; -.
+DR   CTD; 10795; -.
+DR   DisGeNET; 10795; -.
+DR   GeneCards; ZNF268; -.
+DR   HGNC; HGNC:13061; ZNF268.
+DR   HPA; ENSG00000090612; Low tissue specificity.
+DR   MIM; 604753; gene.
+DR   neXtProt; NX_Q14587; -.
+DR   OpenTargets; ENSG00000090612; -.
+DR   PharmGKB; PA37639; -.
+DR   VEuPathDB; HostDB:ENSG00000090612; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000163459; -.
+DR   HOGENOM; CLU_002678_17_1_1; -.
+DR   InParanoid; Q14587; -.
+DR   OMA; MKPYVCS; -.
+DR   OrthoDB; 4637982at2759; -.
+DR   PhylomeDB; Q14587; -.
+DR   PathwayCommons; Q14587; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q14587; -.
+DR   SIGNOR; Q14587; -.
+DR   BioGRID-ORCS; 10795; 12 hits in 1181 CRISPR screens.
+DR   ChiTaRS; ZNF268; human.
+DR   EvolutionaryTrace; Q14587; -.
+DR   GeneWiki; ZNF268; -.
+DR   GenomeRNAi; 10795; -.
+DR   Pharos; Q14587; Tbio.
+DR   PRO; PR:Q14587; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; Q14587; protein.
+DR   Bgee; ENSG00000090612; Expressed in adrenal tissue and 191 other tissues.
+DR   ExpressionAtlas; Q14587; baseline and differential.
+DR   Genevisible; Q14587; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; NAS:UniProtKB.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; NAS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0030154; P:cell differentiation; IEA:UniProtKB-KW.
+DR   GO; GO:0071356; P:cellular response to tumor necrosis factor; IDA:UniProtKB.
+DR   GO; GO:0043066; P:negative regulation of apoptotic process; IMP:UniProtKB.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; IMP:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   GO; GO:0043065; P:positive regulation of apoptotic process; IMP:UniProtKB.
+DR   GO; GO:0045597; P:positive regulation of cell differentiation; IMP:UniProtKB.
+DR   GO; GO:0030335; P:positive regulation of cell migration; IMP:UniProtKB.
+DR   GO; GO:0008284; P:positive regulation of cell population proliferation; IMP:UniProtKB.
+DR   GO; GO:1901224; P:positive regulation of NIK/NF-kappaB signaling; IDA:UniProtKB.
+DR   GO; GO:0045732; P:positive regulation of protein catabolic process; IDA:UniProtKB.
+DR   GO; GO:0090073; P:positive regulation of protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0001934; P:positive regulation of protein phosphorylation; IDA:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   GO; GO:0051726; P:regulation of cell cycle; IMP:UniProtKB.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; NAS:UniProtKB.
+DR   GO; GO:0007346; P:regulation of mitotic cell cycle; IMP:UniProtKB.
+DR   GO; GO:0043497; P:regulation of protein heterodimerization activity; IDA:UniProtKB.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 24.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR47772; ZINC FINGER PROTEIN 200; 1.
+DR   PANTHER; PTHR47772:SF2; ZINC FINGER PROTEIN 436; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 20.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 24.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 12.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 24.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 24.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cytoplasm; Differentiation;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat; Repressor;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..947
+FT                   /note="Zinc finger protein 268"
+FT                   /id="PRO_0000047495"
+FT   DOMAIN          81..152
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         276..298
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         304..326
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         332..354
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         360..382
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         388..410
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         416..438
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         444..466
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         472..494
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         500..522
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         528..550
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         556..578
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         584..606
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         612..634
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         640..662
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         668..690
+FT                   /note="C2H2-type 15"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         696..718
+FT                   /note="C2H2-type 16"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         724..746
+FT                   /note="C2H2-type 17"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         752..774
+FT                   /note="C2H2-type 18"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         780..802
+FT                   /note="C2H2-type 19"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         808..830
+FT                   /note="C2H2-type 20"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         836..858
+FT                   /note="C2H2-type 21"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         864..886
+FT                   /note="C2H2-type 22"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         892..914
+FT                   /note="C2H2-type 23"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         920..942
+FT                   /note="C2H2-type 24"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   VAR_SEQ         1..161
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11311945,
+FT                   ECO:0000303|PubMed:12200376"
+FT                   /id="VSP_006909"
+FT   VAR_SEQ         1..140
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053461"
+FT   VAR_SEQ         12..99
+FT                   /note="VPPLQERNSSWDRIRKLQGQESILGQGTPGLQPLPGTPRQKQKSRRIEKVLE
+FT                   WLFISQEQPKITKSWGPLSFMDVFVDFTWEEWQLLD -> GTNTPNLISSSSWNKEKSC
+FT                   VWCRPKFQIRPVQTQSGKLMILWIGIRKIKTSWEVWQKALNALHLENYVFLVQSIFQDK
+FT                   NLINVARMERV (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053462"
+FT   VAR_SEQ         12..78
+FT                   /note="Missing (in isoform 7)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053463"
+FT   VAR_SEQ         12..44
+FT                   /note="VPPLQERNSSWDRIRKLQGQESILGQGTPGLQP -> GTNTPNLISSSSWNK
+FT                   EKSCVWCRPKFQIRPVQF (in isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053464"
+FT   VAR_SEQ         45..947
+FT                   /note="Missing (in isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053465"
+FT   VAR_SEQ         79..135
+FT                   /note="GPLSFMDVFVDFTWEEWQLLDPAQKCLYRSVMLENYSNLVSLGYQHTKPDII
+FT                   FKLEQ -> TQSGKLMILWIGIRKIKTSWEVRQKALNALHLENYVFLVQSIFQDKNLIN
+FT                   VARMERV (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053466"
+FT   VAR_SEQ         100..947
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053467"
+FT   VAR_SEQ         136..947
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053468"
+FT   VAR_SEQ         153..183
+FT                   /note="NTVWKIDDLMDWHQENKDKLGSTAKSFECTT -> ILKAGKSKAKVLAGLVS
+FT                   GEGPLCASKMTPCC (in isoform 7)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053469"
+FT   VAR_SEQ         184..947
+FT                   /note="Missing (in isoform 7)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053470"
+FT   VAR_SEQ         222..947
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:16865230,
+FT                   ECO:0000303|PubMed:18949428"
+FT                   /id="VSP_053471"
+FT   VARIANT         175
+FT                   /note="T -> M (in dbSNP:rs7975069)"
+FT                   /id="VAR_033562"
+FT   MUTAGEN         85
+FT                   /note="D->A: Strongly reduces nuclear localization and
+FT                   interaction with TRIM28; when associated with A-86."
+FT                   /evidence="ECO:0000269|PubMed:23665872"
+FT   MUTAGEN         86
+FT                   /note="V->A: Reduces nuclear localization. Strongly reduces
+FT                   nuclear localization and interaction with TRIM28; when
+FT                   associated with A-85."
+FT                   /evidence="ECO:0000269|PubMed:23665872"
+FT   MUTAGEN         88
+FT                   /note="V->A: Reduces nuclear localization."
+FT                   /evidence="ECO:0000269|PubMed:23665872"
+FT   MUTAGEN         90
+FT                   /note="F->A: Reduces nuclear localization."
+FT                   /evidence="ECO:0000269|PubMed:23665872"
+FT   MUTAGEN         93
+FT                   /note="E->A: Reduces nuclear localization. Strongly reduces
+FT                   nuclear localization; when associated with A-94 and A-95."
+FT                   /evidence="ECO:0000269|PubMed:23665872"
+FT   MUTAGEN         94
+FT                   /note="E->A: Reduces nuclear localization. Inhibits nuclear
+FT                   localization; when associated with A-93 and A-95."
+FT                   /evidence="ECO:0000269|PubMed:23665872"
+FT   MUTAGEN         95
+FT                   /note="W->A: Reduces nuclear localization. Inhibits nuclear
+FT                   localization; when associated with A-93 and A-94."
+FT                   /evidence="ECO:0000269|PubMed:23665872"
+FT   CONFLICT        323
+FT                   /note="Q -> P (in Ref. 2; AAL99923)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        335..336
+FT                   /note="SE -> IN (in Ref. 2; AAL99923)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        340
+FT                   /note="T -> A (in Ref. 2; AAL99923)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        344
+FT                   /note="H -> Q (in Ref. 2; AAL99923)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        363
+FT                   /note="C -> D (in Ref. 2; AAL99923)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        409
+FT                   /note="I -> T (in Ref. 2; AAL99923)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        860
+FT                   /note="R -> T (in Ref. 2; AAL99923 and 6; CAA55526)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          279..282
+FT                   /evidence="ECO:0007829|PDB:2EMX"
+FT   STRAND          284..287
+FT                   /evidence="ECO:0007829|PDB:2EMX"
+FT   HELIX           288..298
+FT                   /evidence="ECO:0007829|PDB:2EMX"
+FT   STRAND          304..306
+FT                   /evidence="ECO:0007829|PDB:2EMW"
+FT   TURN            307..310
+FT                   /evidence="ECO:0007829|PDB:2EMW"
+FT   STRAND          311..315
+FT                   /evidence="ECO:0007829|PDB:2EMW"
+FT   HELIX           316..323
+FT                   /evidence="ECO:0007829|PDB:2EMW"
+FT   TURN            324..326
+FT                   /evidence="ECO:0007829|PDB:2EMW"
+FT   STRAND          335..337
+FT                   /evidence="ECO:0007829|PDB:2EOI"
+FT   STRAND          340..343
+FT                   /evidence="ECO:0007829|PDB:2EOI"
+FT   HELIX           344..354
+FT                   /evidence="ECO:0007829|PDB:2EOI"
+FT   TURN            363..366
+FT                   /evidence="ECO:0007829|PDB:2EOJ"
+FT   HELIX           372..379
+FT                   /evidence="ECO:0007829|PDB:2EOJ"
+FT   STRAND          382..385
+FT                   /evidence="ECO:0007829|PDB:2EOJ"
+FT   STRAND          391..393
+FT                   /evidence="ECO:0007829|PDB:2EN0"
+FT   STRAND          396..399
+FT                   /evidence="ECO:0007829|PDB:2EN0"
+FT   HELIX           400..411
+FT                   /evidence="ECO:0007829|PDB:2EN0"
+FT   STRAND          415..417
+FT                   /evidence="ECO:0007829|PDB:2EOF"
+FT   TURN            419..421
+FT                   /evidence="ECO:0007829|PDB:2EOF"
+FT   STRAND          424..426
+FT                   /evidence="ECO:0007829|PDB:2EOF"
+FT   HELIX           428..437
+FT                   /evidence="ECO:0007829|PDB:2EOF"
+FT   TURN            438..440
+FT                   /evidence="ECO:0007829|PDB:2EOF"
+FT   STRAND          443..445
+FT                   /evidence="ECO:0007829|PDB:2EOK"
+FT   STRAND          447..449
+FT                   /evidence="ECO:0007829|PDB:2EOK"
+FT   STRAND          452..455
+FT                   /evidence="ECO:0007829|PDB:2EOK"
+FT   HELIX           456..465
+FT                   /evidence="ECO:0007829|PDB:2EOK"
+FT   TURN            466..468
+FT                   /evidence="ECO:0007829|PDB:2EOK"
+FT   STRAND          495..500
+FT                   /evidence="ECO:0007829|PDB:2EN7"
+FT   TURN            503..505
+FT                   /evidence="ECO:0007829|PDB:2EN7"
+FT   HELIX           512..519
+FT                   /evidence="ECO:0007829|PDB:2EN7"
+FT   TURN            520..522
+FT                   /evidence="ECO:0007829|PDB:2EN7"
+FT   STRAND          527..529
+FT                   /evidence="ECO:0007829|PDB:2EPY"
+FT   STRAND          531..533
+FT                   /evidence="ECO:0007829|PDB:2EPY"
+FT   STRAND          536..539
+FT                   /evidence="ECO:0007829|PDB:2EPY"
+FT   HELIX           540..547
+FT                   /evidence="ECO:0007829|PDB:2EPY"
+FT   TURN            548..550
+FT                   /evidence="ECO:0007829|PDB:2EPY"
+FT   STRAND          559..561
+FT                   /evidence="ECO:0007829|PDB:2EMY"
+FT   STRAND          564..567
+FT                   /evidence="ECO:0007829|PDB:2EMY"
+FT   HELIX           568..578
+FT                   /evidence="ECO:0007829|PDB:2EMY"
+FT   TURN            587..589
+FT                   /evidence="ECO:0007829|PDB:2EOL"
+FT   STRAND          592..596
+FT                   /evidence="ECO:0007829|PDB:2EOL"
+FT   HELIX           597..606
+FT                   /evidence="ECO:0007829|PDB:2EOL"
+FT   STRAND          611..613
+FT                   /evidence="ECO:0007829|PDB:2YTF"
+FT   STRAND          615..617
+FT                   /evidence="ECO:0007829|PDB:2YTF"
+FT   STRAND          620..623
+FT                   /evidence="ECO:0007829|PDB:2YTF"
+FT   HELIX           624..632
+FT                   /evidence="ECO:0007829|PDB:2YTF"
+FT   STRAND          639..642
+FT                   /evidence="ECO:0007829|PDB:2EM1"
+FT   TURN            643..646
+FT                   /evidence="ECO:0007829|PDB:2EM1"
+FT   STRAND          647..651
+FT                   /evidence="ECO:0007829|PDB:2EM1"
+FT   HELIX           652..659
+FT                   /evidence="ECO:0007829|PDB:2EM1"
+FT   TURN            660..662
+FT                   /evidence="ECO:0007829|PDB:2EM1"
+FT   STRAND          667..669
+FT                   /evidence="ECO:0007829|PDB:2EL4"
+FT   STRAND          671..674
+FT                   /evidence="ECO:0007829|PDB:2EL4"
+FT   STRAND          676..679
+FT                   /evidence="ECO:0007829|PDB:2EL4"
+FT   HELIX           680..686
+FT                   /evidence="ECO:0007829|PDB:2EL4"
+FT   HELIX           687..689
+FT                   /evidence="ECO:0007829|PDB:2EL4"
+FT   STRAND          690..692
+FT                   /evidence="ECO:0007829|PDB:2EL4"
+FT   STRAND          699..701
+FT                   /evidence="ECO:0007829|PDB:2EOG"
+FT   HELIX           708..719
+FT                   /evidence="ECO:0007829|PDB:2EOG"
+FT   TURN            727..729
+FT                   /evidence="ECO:0007829|PDB:2EOP"
+FT   HELIX           736..743
+FT                   /evidence="ECO:0007829|PDB:2EOP"
+FT   TURN            744..748
+FT                   /evidence="ECO:0007829|PDB:2EOP"
+FT   STRAND          751..753
+FT                   /evidence="ECO:0007829|PDB:2EL5"
+FT   STRAND          755..757
+FT                   /evidence="ECO:0007829|PDB:2EL5"
+FT   STRAND          760..763
+FT                   /evidence="ECO:0007829|PDB:2EL5"
+FT   HELIX           764..771
+FT                   /evidence="ECO:0007829|PDB:2EL5"
+FT   HELIX           772..774
+FT                   /evidence="ECO:0007829|PDB:2EL5"
+FT   STRAND          783..785
+FT                   /evidence="ECO:0007829|PDB:2YTQ"
+FT   HELIX           792..799
+FT                   /evidence="ECO:0007829|PDB:2YTQ"
+FT   TURN            800..802
+FT                   /evidence="ECO:0007829|PDB:2YTQ"
+FT   STRAND          807..809
+FT                   /evidence="ECO:0007829|PDB:2EPV"
+FT   STRAND          811..813
+FT                   /evidence="ECO:0007829|PDB:2EPV"
+FT   STRAND          816..819
+FT                   /evidence="ECO:0007829|PDB:2EPV"
+FT   HELIX           820..827
+FT                   /evidence="ECO:0007829|PDB:2EPV"
+FT   HELIX           828..830
+FT                   /evidence="ECO:0007829|PDB:2EPV"
+FT   STRAND          835..837
+FT                   /evidence="ECO:0007829|PDB:2EL6"
+FT   STRAND          839..842
+FT                   /evidence="ECO:0007829|PDB:2EL6"
+FT   STRAND          844..847
+FT                   /evidence="ECO:0007829|PDB:2EL6"
+FT   HELIX           848..855
+FT                   /evidence="ECO:0007829|PDB:2EL6"
+FT   HELIX           856..858
+FT                   /evidence="ECO:0007829|PDB:2EL6"
+FT   STRAND          862..865
+FT                   /evidence="ECO:0007829|PDB:2EMV"
+FT   STRAND          867..869
+FT                   /evidence="ECO:0007829|PDB:2EMV"
+FT   STRAND          872..875
+FT                   /evidence="ECO:0007829|PDB:2EMV"
+FT   HELIX           876..886
+FT                   /evidence="ECO:0007829|PDB:2EMV"
+FT   TURN            895..897
+FT                   /evidence="ECO:0007829|PDB:2EN6"
+FT   STRAND          900..903
+FT                   /evidence="ECO:0007829|PDB:2EN6"
+FT   HELIX           904..914
+FT                   /evidence="ECO:0007829|PDB:2EN6"
+FT   STRAND          919..921
+FT                   /evidence="ECO:0007829|PDB:2EPW"
+FT   STRAND          923..925
+FT                   /evidence="ECO:0007829|PDB:2EPW"
+FT   STRAND          928..932
+FT                   /evidence="ECO:0007829|PDB:2EPW"
+FT   HELIX           933..941
+FT                   /evidence="ECO:0007829|PDB:2EPW"
+SQ   SEQUENCE   947 AA;  108374 MW;  AC78F4824F4BE1A0 CRC64;
+     MATRVRTASI WVPPLQERNS SWDRIRKLQG QESILGQGTP GLQPLPGTPR QKQKSRRIEK
+     VLEWLFISQE QPKITKSWGP LSFMDVFVDF TWEEWQLLDP AQKCLYRSVM LENYSNLVSL
+     GYQHTKPDII FKLEQGEELC MVQAQVPNQT CPNTVWKIDD LMDWHQENKD KLGSTAKSFE
+     CTTFGKLCLL STKYLSRQKP HKCGTHGKSL KYIDFTSDYA RNNPNGFQVH GKSFFHSKHE
+     QTVIGIKYCE SIESGKTVNK KSQLMCQQMY MGEKPFGCSC CEKAFSSKSY LLVHQQTHAE
+     EKPYGCNECG KDFSSKSYLI VHQRIHTGEK LHECSECRKT FSFHSQLVIH QRIHTGENPY
+     ECCECGKVFS RKDQLVSHQK THSGQKPYVC NECGKAFGLK SQLIIHERIH TGEKPYECNE
+     CQKAFNTKSN LMVHQRTHTG EKPYVCSDCG KAFTFKSQLI VHQGIHTGVK PYGCIQCGKG
+     FSLKSQLIVH QRSHTGMKPY VCNECGKAFR SKSYLIIHTR THTGEKLHEC NNCGKAFSFK
+     SQLIIHQRIH TGENPYECHE CGKAFSRKYQ LISHQRTHAG EKPYECTDCG KAFGLKSQLI
+     IHQRTHTGEK PFECSECQKA FNTKSNLIVH QRTHTGEKPY SCNECGKAFT FKSQLIVHKG
+     VHTGVKPYGC SQCAKTFSLK SQLIVHQRSH TGVKPYGCSE CGKAFRSKSY LIIHMRTHTG
+     EKPHECRECG KSFSFNSQLI VHQRIHTGEN PYECSECGKA FNRKDQLISH QRTHAGEKPY
+     GCSECGKAFS SKSYLIIHMR THSGEKPYEC NECGKAFIWK SLLIVHERTH AGVNPYKCSQ
+     CEKSFSGKLR LLVHQRMHTR EKPYECSECG KAFIRNSQLI VHQRTHSGEK PYGCNECGKT
+     FSQKSILSAH QRTHTGEKPC KCTECGKAFC WKSQLIMHQR THVDDKH
+//

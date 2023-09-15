@@ -1,0 +1,455 @@
+ID   HELQ_HUMAN              Reviewed;        1101 AA.
+AC   Q8TDG4; Q05DF9; Q502W9; Q659B8; Q6ZQX4; Q6ZTS4; Q96EX7;
+DT   08-APR-2008, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 163.
+DE   RecName: Full=Helicase POLQ-like {ECO:0000305|PubMed:11751861};
+DE            EC=3.6.4.12 {ECO:0000269|PubMed:11751861, ECO:0000269|PubMed:34316696, ECO:0000269|PubMed:34937945};
+DE   AltName: Full=Mus308-like helicase {ECO:0000303|PubMed:11751861};
+DE   AltName: Full=POLQ-like helicase {ECO:0000303|PubMed:11751861};
+GN   Name=HELQ {ECO:0000303|PubMed:24005041, ECO:0000312|HGNC:HGNC:18536};
+GN   Synonyms=HEL308 {ECO:0000303|PubMed:11751861};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, CATALYTIC ACTIVITY,
+RP   ACTIVITY REGULATION, MUTAGENESIS OF LYS-365, AND VARIANT GLU-35.
+RX   PubMed=11751861; DOI=10.1074/jbc.m110271200;
+RA   Marini F., Wood R.D.;
+RT   "A human DNA helicase homologous to the DNA cross-link sensitivity protein
+RT   Mus308.";
+RL   J. Biol. Chem. 277:8716-8723(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Liver, and Uterus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2 AND 4), AND VARIANT
+RP   GLU-35.
+RC   TISSUE=Chondrosarcoma, and Duodenum;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 391-522 (ISOFORM 1).
+RC   TISSUE=Lymph node;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [6]
+RP   FUNCTION, AND INTERACTION WITH POLN.
+RX   PubMed=19995904; DOI=10.1128/mcb.01124-09;
+RA   Moldovan G.L., Madhavan M.V., Mirchandani K.D., McCaffrey R.M.,
+RA   Vinciguerra P., D'Andrea A.D.;
+RT   "DNA polymerase POLN participates in cross-link repair and homologous
+RT   recombination.";
+RL   Mol. Cell. Biol. 30:1088-1096(2010).
+RN   [7]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=21398521; DOI=10.1074/jbc.m111.228189;
+RA   Tafel A.A., Wu L., McHugh P.J.;
+RT   "Human HEL308 localizes to damaged replication forks and unwinds lagging
+RT   strand structures.";
+RL   J. Biol. Chem. 286:15832-15840(2011).
+RN   [8]
+RP   FUNCTION, AND INTERACTION WITH RAD51B AND RAD51C.
+RX   PubMed=24005041; DOI=10.1093/nar/gkt676;
+RA   Luebben S.W., Kawabata T., Akre M.K., Lee W.L., Johnson C.S.,
+RA   O'Sullivan M.G., Shima N.;
+RT   "Helq acts in parallel to Fancc to suppress replication-associated genome
+RT   instability.";
+RL   Nucleic Acids Res. 41:10283-10297(2013).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=24005565; DOI=10.1038/ncomms3338;
+RA   Takata K., Reh S., Tomida J., Person M.D., Wood R.D.;
+RT   "Human DNA helicase HELQ participates in DNA interstrand crosslink
+RT   tolerance with ATR and RAD51 paralogs.";
+RL   Nat. Commun. 4:2338-2338(2013).
+RN   [10]
+RP   MUTAGENESIS OF 818-TYR-LYS-819.
+RX   PubMed=28738244; DOI=10.1016/j.dnarep.2017.07.005;
+RA   Northall S.J., Buckley R., Jones N., Penedo J.C., Soultanas P., Bolt E.L.;
+RT   "DNA binding and unwinding by Hel308 helicase requires dual functions of a
+RT   winged helix domain.";
+RL   DNA Repair 57:125-132(2017).
+RN   [11]
+RP   FUNCTION, SUBUNIT, CATALYTIC ACTIVITY, INTERACTION WITH THE RPA COMPLEX,
+RP   AND MUTAGENESIS OF ASP-463.
+RX   PubMed=34316696; DOI=10.1093/narcan/zcaa043;
+RA   Jenkins T., Northall S.J., Ptchelkine D., Lever R., Cubbon A., Betts H.,
+RA   Taresco V., Cooper C.D.O., McHugh P.J., Soultanas P., Bolt E.L.;
+RT   "The HelQ human DNA repair helicase utilizes a PWI-like domain for DNA
+RT   loading through interaction with RPA, triggering DNA unwinding by the HelQ
+RT   helicase core.";
+RL   NAR Cancer 3:zcaa043-zcaa043(2021).
+RN   [12]
+RP   FUNCTION, CATALYTIC ACTIVITY, SUBCELLULAR LOCATION, INTERACTION WITH RAD51
+RP   AND THE RPA COMPLEX, AND MUTAGENESIS OF LYS-365.
+RX   PubMed=34937945; DOI=10.1038/s41586-021-04261-0;
+RA   Anand R., Buechelmaier E., Belan O., Newton M., Vancevska A.,
+RA   Kaczmarczyk A., Takaki T., Rueda D.S., Powell S.N., Boulton S.J.;
+RT   "HELQ is a dual-function DSB repair enzyme modulated by RPA and RAD51.";
+RL   Nature 601:268-273(2022).
+RN   [13]
+RP   VARIANT [LARGE SCALE ANALYSIS] ASN-565.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Single-stranded 3'-5' DNA helicase that plays a key role in
+CC       homology-driven double-strand break (DSB) repair (PubMed:11751861,
+CC       PubMed:19995904, PubMed:21398521, PubMed:24005041, PubMed:24005565,
+CC       PubMed:34316696, PubMed:34937945). Involved in different DSB repair
+CC       mechanisms that are guided by annealing of extensive stretches of
+CC       complementary bases at break ends, such as microhomology-mediated end-
+CC       joining (MMEJ), single-strand annealing (SSA) or synthesis-dependent
+CC       strand annealing (SDSA) (PubMed:34937945). Possesses both DNA unwinding
+CC       and annealing activities (PubMed:34937945). Forms a complex with RAD51,
+CC       stimulating HELQ DNA helicase activity and ability to unwing DNA
+CC       (PubMed:34937945). Efficiently unwinds substrates containing 3'
+CC       overhangs or a D-loop (PubMed:21398521, PubMed:34937945). In contrast,
+CC       interaction with the replication protein A (RPA/RP-A) complex inhibits
+CC       DNA unwinding by HELQ but strongly stimulates DNA strand annealing
+CC       (PubMed:34937945). Triggers displacement of RPA from single-stranded
+CC       DNA to facilitate annealing of complementary sequences
+CC       (PubMed:34316696, PubMed:34937945). {ECO:0000269|PubMed:11751861,
+CC       ECO:0000269|PubMed:19995904, ECO:0000269|PubMed:21398521,
+CC       ECO:0000269|PubMed:24005041, ECO:0000269|PubMed:24005565,
+CC       ECO:0000269|PubMed:34316696, ECO:0000269|PubMed:34937945}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.12;
+CC         Evidence={ECO:0000269|PubMed:11751861, ECO:0000269|PubMed:34316696,
+CC         ECO:0000269|PubMed:34937945};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:13066;
+CC         Evidence={ECO:0000269|PubMed:34316696, ECO:0000269|PubMed:34937945,
+CC         ECO:0000305|PubMed:11751861};
+CC   -!- ACTIVITY REGULATION: ATPase activity is strongly stimulated by single-
+CC       stranded DNA (PubMed:11751861). Presence of ATP and Mg cofactor are
+CC       required for helicase activity allowing to unwind duplex
+CC       oligonucleotides up to 60-70-mer (PubMed:11751861). This helicase
+CC       activity is stimulated by replication protein A (RPA/RP-A) complex that
+CC       binds to unwound regions and inhibits re-annealing (PubMed:11751861).
+CC       {ECO:0000269|PubMed:11751861}.
+CC   -!- SUBUNIT: Homodimer (PubMed:34316696). Interacts with POLN
+CC       (PubMed:19995904). Interacts with RAD51B and RAD51C; promoting
+CC       association with the BCDX2 complex (PubMed:24005041). Interacts with
+CC       the replication protein A (RPA/RP-A) complex (PubMed:34316696,
+CC       PubMed:34937945). Interacts with RAD51; stimulating HELQ DNA helicase
+CC       activity and ability to unwing DNA (PubMed:34937945).
+CC       {ECO:0000269|PubMed:19995904, ECO:0000269|PubMed:24005041,
+CC       ECO:0000269|PubMed:34316696, ECO:0000269|PubMed:34937945}.
+CC   -!- INTERACTION:
+CC       Q8TDG4; O43502: RAD51C; NbExp=6; IntAct=EBI-2802156, EBI-2267048;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:21398521}. Chromosome
+CC       {ECO:0000269|PubMed:21398521, ECO:0000269|PubMed:34937945}.
+CC       Note=Localizes to sites of DNA damage; localizes to damaged replication
+CC       forks. {ECO:0000269|PubMed:21398521, ECO:0000269|PubMed:34937945}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q8TDG4-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8TDG4-2; Sequence=VSP_032942, VSP_032947, VSP_032948;
+CC       Name=3;
+CC         IsoId=Q8TDG4-4; Sequence=VSP_032941, VSP_032947, VSP_032948;
+CC       Name=4;
+CC         IsoId=Q8TDG4-5; Sequence=VSP_032943, VSP_032944;
+CC   -!- SIMILARITY: Belongs to the helicase family. SKI2 subfamily.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF436845; AAL85274.1; -; mRNA.
+DR   EMBL; AK128665; BAC87559.1; -; mRNA.
+DR   EMBL; AC096768; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC015428; AAH15428.1; -; mRNA.
+DR   EMBL; BC095473; AAH95473.1; -; mRNA.
+DR   EMBL; AL512702; CAH56359.1; -; mRNA.
+DR   CCDS; CCDS3603.1; -. [Q8TDG4-1]
+DR   RefSeq; NP_001284687.1; NM_001297758.1. [Q8TDG4-2]
+DR   RefSeq; NP_001284688.1; NM_001297759.1.
+DR   RefSeq; NP_598375.2; NM_133636.3. [Q8TDG4-1]
+DR   AlphaFoldDB; Q8TDG4; -.
+DR   SMR; Q8TDG4; -.
+DR   BioGRID; 125250; 16.
+DR   DIP; DIP-60603N; -.
+DR   IntAct; Q8TDG4; 12.
+DR   MINT; Q8TDG4; -.
+DR   STRING; 9606.ENSP00000295488; -.
+DR   GlyConnect; 2045; 3 N-Linked glycans (1 site).
+DR   GlyCosmos; Q8TDG4; 1 site, 6 glycans.
+DR   GlyGen; Q8TDG4; 2 sites, 6 N-linked glycans (1 site), 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8TDG4; -.
+DR   PhosphoSitePlus; Q8TDG4; -.
+DR   BioMuta; HELQ; -.
+DR   DMDM; 296434521; -.
+DR   EPD; Q8TDG4; -.
+DR   jPOST; Q8TDG4; -.
+DR   MassIVE; Q8TDG4; -.
+DR   MaxQB; Q8TDG4; -.
+DR   PaxDb; Q8TDG4; -.
+DR   PeptideAtlas; Q8TDG4; -.
+DR   ProteomicsDB; 74283; -. [Q8TDG4-1]
+DR   ProteomicsDB; 74284; -. [Q8TDG4-2]
+DR   ProteomicsDB; 74285; -. [Q8TDG4-4]
+DR   ProteomicsDB; 74286; -. [Q8TDG4-5]
+DR   Antibodypedia; 25213; 78 antibodies from 16 providers.
+DR   DNASU; 113510; -.
+DR   Ensembl; ENST00000295488.8; ENSP00000295488.3; ENSG00000163312.11. [Q8TDG4-1]
+DR   GeneID; 113510; -.
+DR   KEGG; hsa:113510; -.
+DR   MANE-Select; ENST00000295488.8; ENSP00000295488.3; NM_133636.5; NP_598375.3.
+DR   UCSC; uc003hom.4; human. [Q8TDG4-1]
+DR   AGR; HGNC:18536; -.
+DR   CTD; 113510; -.
+DR   DisGeNET; 113510; -.
+DR   GeneCards; HELQ; -.
+DR   HGNC; HGNC:18536; HELQ.
+DR   HPA; ENSG00000163312; Low tissue specificity.
+DR   MIM; 606769; gene.
+DR   neXtProt; NX_Q8TDG4; -.
+DR   OpenTargets; ENSG00000163312; -.
+DR   PharmGKB; PA164720529; -.
+DR   VEuPathDB; HostDB:ENSG00000163312; -.
+DR   eggNOG; KOG0950; Eukaryota.
+DR   GeneTree; ENSGT00940000157350; -.
+DR   HOGENOM; CLU_006553_1_0_1; -.
+DR   InParanoid; Q8TDG4; -.
+DR   OMA; AGIVKFC; -.
+DR   OrthoDB; 208079at2759; -.
+DR   PhylomeDB; Q8TDG4; -.
+DR   TreeFam; TF105018; -.
+DR   BRENDA; 3.6.4.12; 2681.
+DR   PathwayCommons; Q8TDG4; -.
+DR   SignaLink; Q8TDG4; -.
+DR   BioGRID-ORCS; 113510; 21 hits in 1160 CRISPR screens.
+DR   ChiTaRS; HELQ; human.
+DR   GenomeRNAi; 113510; -.
+DR   Pharos; Q8TDG4; Tbio.
+DR   PRO; PR:Q8TDG4; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; Q8TDG4; protein.
+DR   Bgee; ENSG00000163312; Expressed in calcaneal tendon and 172 other tissues.
+DR   ExpressionAtlas; Q8TDG4; baseline and differential.
+DR   Genevisible; Q8TDG4; HS.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0090734; C:site of DNA damage; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:1990518; F:single-stranded 3'-5' DNA helicase activity; IDA:UniProtKB.
+DR   GO; GO:0010792; P:DNA double-strand break processing involved in repair via single-strand annealing; IDA:UniProtKB.
+DR   GO; GO:0097681; P:double-strand break repair via alternative nonhomologous end joining; IDA:UniProtKB.
+DR   GO; GO:0000724; P:double-strand break repair via homologous recombination; IMP:UniProtKB.
+DR   GO; GO:0045003; P:double-strand break repair via synthesis-dependent strand annealing; IDA:UniProtKB.
+DR   GO; GO:1905168; P:positive regulation of double-strand break repair via homologous recombination; ISS:UniProtKB.
+DR   CDD; cd18026; DEXHc_POLQ-like; 1.
+DR   CDD; cd18795; SF2_C_Ski2; 1.
+DR   Gene3D; 1.10.3380.20; -; 1.
+DR   Gene3D; 1.10.150.20; 5' to 3' exonuclease, C-terminal subdomain; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR046931; HTH_61.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR036390; WH_DNA-bd_sf.
+DR   PANTHER; PTHR47961; DNA POLYMERASE THETA, PUTATIVE (AFU_ORTHOLOGUE AFUA_1G05260)-RELATED; 1.
+DR   PANTHER; PTHR47961:SF12; HELICASE POLQ-LIKE; 1.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF20470; HTH_61; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   SUPFAM; SSF158702; Sec63 N-terminal domain-like; 1.
+DR   SUPFAM; SSF46785; Winged helix' DNA-binding domain; 1.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; ATP-binding; Chromosome; DNA damage; DNA repair;
+KW   DNA-binding; Helicase; Hydrolase; Nucleotide-binding; Nucleus;
+KW   Reference proteome.
+FT   CHAIN           1..1101
+FT                   /note="Helicase POLQ-like"
+FT                   /id="PRO_0000329060"
+FT   DOMAIN          346..518
+FT                   /note="Helicase ATP-binding"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   DOMAIN          566..758
+FT                   /note="Helicase C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00542"
+FT   REGION          212..261
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           463..466
+FT                   /note="DEAH box"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   COMPBIAS        214..228
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        229..253
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         359..366
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   VAR_SEQ         1..106
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_032941"
+FT   VAR_SEQ         63..99
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_032942"
+FT   VAR_SEQ         100..136
+FT                   /note="PNDSEVDMFGDYDSFTENSFIAQVDDLEQKYMQLPEH -> VRRTWNLKLQT
+FT                   FGILPRCKELTSFIAFVYFSRLRYRC (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_032943"
+FT   VAR_SEQ         137..1101
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_032944"
+FT   VAR_SEQ         338..353
+FT                   /note="EWQHTCLTLNSVQERK -> GNAFCWNKKIFFLSLP (in isoform 2
+FT                   and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_032947"
+FT   VAR_SEQ         354..1101
+FT                   /note="Missing (in isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_032948"
+FT   VARIANT         35
+FT                   /note="V -> E (in dbSNP:rs6831595)"
+FT                   /evidence="ECO:0000269|PubMed:11751861,
+FT                   ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_061213"
+FT   VARIANT         235
+FT                   /note="L -> P (in dbSNP:rs17006837)"
+FT                   /id="VAR_055892"
+FT   VARIANT         565
+FT                   /note="D -> N (in a breast cancer sample; somatic
+FT                   mutation)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_042643"
+FT   VARIANT         585
+FT                   /note="P -> S (in dbSNP:rs6817280)"
+FT                   /id="VAR_055893"
+FT   VARIANT         1094
+FT                   /note="V -> M (in dbSNP:rs17006794)"
+FT                   /id="VAR_055894"
+FT   MUTAGEN         365
+FT                   /note="K->M: Abolishes ATPase and DNA helicase activity."
+FT                   /evidence="ECO:0000269|PubMed:11751861,
+FT                   ECO:0000269|PubMed:34937945"
+FT   MUTAGEN         463
+FT                   /note="D->A: Abolished ATPase and DNA helicase activity."
+FT                   /evidence="ECO:0000269|PubMed:34316696"
+FT   MUTAGEN         818..819
+FT                   /note="YK->SD: Abolished double-stranded DNA-binding."
+FT                   /evidence="ECO:0000269|PubMed:28738244"
+FT   CONFLICT        306
+FT                   /note="V -> I (in Ref. 1; AAL85274, 2; BAC87559 and 4;
+FT                   AAH95473)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1101 AA;  124131 MW;  B9B4B7829B021C3A CRC64;
+     MDECGSRIRR RVSLPKRNRP SLGCIFGAPT AAELVPGDEG KEEEEMVAEN RRRKTAGVLP
+     VEVQPLLLSD SPECLVLGGG DTNPDLLRHM PTDRGVGDQP NDSEVDMFGD YDSFTENSFI
+     AQVDDLEQKY MQLPEHKKHA TDFATENLCS ESIKNKLSIT TIGNLTELQT DKHTENQSGY
+     EGVTIEPGAD LLYDVPSSQA IYFENLQNSS NDLGDHSMKE RDWKSSSHNT VNEELPHNCI
+     EQPQQNDESS SKVRTSSDMN RRKSIKDHLK NAMTGNAKAQ TPIFSRSKQL KDTLLSEEIN
+     VAKKTVESSS NDLGPFYSLP SKVRDLYAQF KGIEKLYEWQ HTCLTLNSVQ ERKNLIYSLP
+     TSGGKTLVAE ILMLQELLCC RKDVLMILPY VAIVQEKISG LSSFGIELGF FVEEYAGSKG
+     RFPPTKRREK KSLYIATIEK GHSLVNSLIE TGRIDSLGLV VVDELHMIGE GSRGATLEMT
+     LAKILYTSKT TQIIGMSATL NNVEDLQKFL QAEYYTSQFR PVELKEYLKI NDTIYEVDSK
+     AENGMTFSRL LNYKYSDTLK KMDPDHLVAL VTEVIPNYSC LVFCPSKKNC ENVAEMICKF
+     LSKEYLKHKE KEKCEVIKNL KNIGNGNLCP VLKRTIPFGV AYHHSGLTSD ERKLLEEAYS
+     TGVLCLFTCT STLAAGVNLP ARRVILRAPY VAKEFLKRNQ YKQMIGRAGR AGIDTIGESI
+     LILQEKDKQQ VLELITKPLE NCYSHLVQEF TKGIQTLFLS LIGLKIATNL DDIYHFMNGT
+     FFGVQQKVLL KEKSLWEITV ESLRYLTEKG LLQKDTIYKS EEEVQYNFHI TKLGRASFKG
+     TIDLAYCDIL YRDLKKGLEG LVLESLLHLI YLTTPYDLVS QCNPDWMIYF RQFSQLSPAE
+     QNVAAILGVS ESFIGKKASG QAIGKKVDKN VVNRLYLSFV LYTLLKETNI WTVSEKFNMP
+     RGYIQNLLTG TASFSSCVLH FCEELEEFWV YRALLVELTK KLTYCVKAEL IPLMEVTGVL
+     EGRAKQLYSA GYKSLMHLAN ANPEVLVRTI DHLSRRQAKQ IVSSAKMLLH EKAEALQEEV
+     EELLRLPSDF PGAVASSTDK A
+//

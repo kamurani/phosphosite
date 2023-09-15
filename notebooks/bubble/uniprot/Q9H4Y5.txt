@@ -1,0 +1,402 @@
+ID   GSTO2_HUMAN             Reviewed;         243 AA.
+AC   Q9H4Y5; A8K771; B4DJW6; E7ESD6; Q49TW5; Q5GM70; Q5JU15; Q86WP3;
+DT   19-SEP-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   28-JUN-2023, entry version 182.
+DE   RecName: Full=Glutathione S-transferase omega-2;
+DE            Short=GSTO-2;
+DE            EC=2.5.1.18 {ECO:0000269|PubMed:15970797, ECO:0000269|PubMed:22522127};
+DE   AltName: Full=Glutathione S-transferase omega 2-2;
+DE            Short=GSTO 2-2;
+DE   AltName: Full=Glutathione-dependent dehydroascorbate reductase;
+DE            EC=1.8.5.1 {ECO:0000269|PubMed:15970797, ECO:0000269|PubMed:22522127};
+DE   AltName: Full=Monomethylarsonic acid reductase;
+DE            Short=MMA(V) reductase;
+DE            EC=1.20.4.2 {ECO:0000269|PubMed:15970797};
+GN   Name=GSTO2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Wang L., Xie Y., Mao Y.;
+RT   "Cloning and characterization of human GSTO-2 gene.";
+RL   Submitted (JUL-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Xu J., Xie Y., Mao Y.;
+RL   Submitted (JAN-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Skeletal muscle, and Thalamus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 3).
+RC   TISSUE=Brain, and Pancreatic carcinoma;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 3-243 (ISOFORM 1), VARIANT ASP-142, AND
+RP   TISSUE SPECIFICITY.
+RC   TISSUE=Testis;
+RX   PubMed=12618591; DOI=10.1097/00008571-200303000-00003;
+RA   Whitbread A.K., Tetlow N., Eyre H.J., Sutherland G.R., Board P.G.;
+RT   "Characterization of the human Omega class glutathione transferase genes
+RT   and associated polymorphisms.";
+RL   Pharmacogenetics 13:131-144(2003).
+RN   [8]
+RP   FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, AND CATALYTIC ACTIVITY.
+RX   PubMed=15970797; DOI=10.1097/01.fpc.0000165725.81559.e3;
+RA   Schmuck E.M., Board P.G., Whitbread A.K., Tetlow N., Cavanaugh J.A.,
+RA   Blackburn A.C., Masoumi A.;
+RT   "Characterization of the monomethylarsonate reductase and dehydroascorbate
+RT   reductase activities of Omega class glutathione transferase variants:
+RT   implications for arsenic metabolism and the age-at-onset of Alzheimer's and
+RT   Parkinson's diseases.";
+RL   Pharmacogenet. Genomics 15:493-501(2005).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 1-239 ALONE AND IN COMPLEX WITH
+RP   GLUTATHIONE, CATALYTIC ACTIVITY, AND MUTAGENESIS OF TYR-34.
+RX   PubMed=22522127; DOI=10.1016/j.jmb.2012.04.014;
+RA   Zhou H., Brock J., Liu D., Board P.G., Oakley A.J.;
+RT   "Structural insights into the dehydroascorbate reductase activity of human
+RT   omega-class glutathione transferases.";
+RL   J. Mol. Biol. 420:190-203(2012).
+CC   -!- FUNCTION: Exhibits glutathione-dependent thiol transferase activity.
+CC       Has high dehydroascorbate reductase activity and may contribute to the
+CC       recycling of ascorbic acid. Participates in the biotransformation of
+CC       inorganic arsenic and reduces monomethylarsonic acid (MMA).
+CC       {ECO:0000269|PubMed:15970797}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=glutathione + RX = a halide anion + an S-substituted
+CC         glutathione + H(+); Xref=Rhea:RHEA:16437, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:16042, ChEBI:CHEBI:17792, ChEBI:CHEBI:57925,
+CC         ChEBI:CHEBI:90779; EC=2.5.1.18;
+CC         Evidence={ECO:0000269|PubMed:15970797, ECO:0000269|PubMed:22522127};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=2 glutathione + L-dehydroascorbate = glutathione disulfide +
+CC         L-ascorbate; Xref=Rhea:RHEA:24424, ChEBI:CHEBI:38290,
+CC         ChEBI:CHEBI:57925, ChEBI:CHEBI:58297, ChEBI:CHEBI:58539; EC=1.8.5.1;
+CC         Evidence={ECO:0000269|PubMed:15970797, ECO:0000269|PubMed:22522127};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=2 glutathione + H(+) + methylarsonate = glutathione disulfide
+CC         + H2O + methylarsonous acid; Xref=Rhea:RHEA:15969, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:17826, ChEBI:CHEBI:33409,
+CC         ChEBI:CHEBI:57925, ChEBI:CHEBI:58297; EC=1.20.4.2;
+CC         Evidence={ECO:0000269|PubMed:15970797};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.5. {ECO:0000269|PubMed:15970797};
+CC   -!- INTERACTION:
+CC       Q9H4Y5; P28676: GCA; NbExp=3; IntAct=EBI-10194609, EBI-947242;
+CC       Q9H4Y5; Q9H4Y5: GSTO2; NbExp=8; IntAct=EBI-10194609, EBI-10194609;
+CC       Q9H4Y5; P31273: HOXC8; NbExp=3; IntAct=EBI-10194609, EBI-1752118;
+CC       Q9H4Y5; Q0VD86: INCA1; NbExp=3; IntAct=EBI-10194609, EBI-6509505;
+CC       Q9H4Y5; Q6JEL2: KLHL10; NbExp=3; IntAct=EBI-10194609, EBI-6426253;
+CC       Q9H4Y5; Q9H6H2: MUM1; NbExp=3; IntAct=EBI-10194609, EBI-10307610;
+CC       Q9H4Y5; Q96HA8: NTAQ1; NbExp=3; IntAct=EBI-10194609, EBI-741158;
+CC       Q9H4Y5; Q99471: PFDN5; NbExp=3; IntAct=EBI-10194609, EBI-357275;
+CC       Q9H4Y5; O15160: POLR1C; NbExp=3; IntAct=EBI-10194609, EBI-1055079;
+CC       Q9H4Y5; Q92922: SMARCC1; NbExp=3; IntAct=EBI-10194609, EBI-355653;
+CC       Q9H4Y5; P05549: TFAP2A; NbExp=4; IntAct=EBI-10194609, EBI-347351;
+CC       Q9H4Y5; P05549-5: TFAP2A; NbExp=6; IntAct=EBI-10194609, EBI-12194905;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q9H4Y5-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9H4Y5-2; Sequence=VSP_042567;
+CC       Name=3;
+CC         IsoId=Q9H4Y5-3; Sequence=VSP_045267;
+CC   -!- TISSUE SPECIFICITY: Expressed in a range of tissues, including the
+CC       liver, kidney, skeletal muscle and prostate. Strongest expression in
+CC       the testis. {ECO:0000269|PubMed:12618591}.
+CC   -!- SIMILARITY: Belongs to the GST superfamily. Omega family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY350731; AAR02452.1; -; mRNA.
+DR   EMBL; AY209189; AAP47743.1; -; mRNA.
+DR   EMBL; AK291886; BAF84575.1; -; mRNA.
+DR   EMBL; AK296266; BAG58978.1; -; mRNA.
+DR   EMBL; AL139341; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL162742; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471066; EAW49600.1; -; Genomic_DNA.
+DR   EMBL; BC046194; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; BC056918; AAH56918.1; -; mRNA.
+DR   EMBL; AY191318; AAO23573.1; -; mRNA.
+DR   CCDS; CCDS53574.1; -. [Q9H4Y5-2]
+DR   CCDS; CCDS53575.1; -. [Q9H4Y5-3]
+DR   CCDS; CCDS7556.1; -. [Q9H4Y5-1]
+DR   RefSeq; NP_001177942.1; NM_001191013.1. [Q9H4Y5-2]
+DR   RefSeq; NP_001177943.1; NM_001191014.1. [Q9H4Y5-3]
+DR   RefSeq; NP_001177944.1; NM_001191015.1.
+DR   RefSeq; NP_899062.1; NM_183239.1. [Q9H4Y5-1]
+DR   RefSeq; XP_011537572.1; XM_011539270.2.
+DR   PDB; 3Q18; X-ray; 1.70 A; A/B=1-239.
+DR   PDB; 3Q19; X-ray; 1.90 A; A/B=1-239.
+DR   PDB; 3QAG; X-ray; 2.00 A; A=1-239.
+DR   PDBsum; 3Q18; -.
+DR   PDBsum; 3Q19; -.
+DR   PDBsum; 3QAG; -.
+DR   AlphaFoldDB; Q9H4Y5; -.
+DR   SMR; Q9H4Y5; -.
+DR   BioGRID; 125638; 27.
+DR   IntAct; Q9H4Y5; 15.
+DR   STRING; 9606.ENSP00000345023; -.
+DR   ChEMBL; CHEMBL2161; -.
+DR   DrugBank; DB00143; Glutathione.
+DR   iPTMnet; Q9H4Y5; -.
+DR   PhosphoSitePlus; Q9H4Y5; -.
+DR   BioMuta; GSTO2; -.
+DR   DMDM; 34922124; -.
+DR   MassIVE; Q9H4Y5; -.
+DR   PaxDb; Q9H4Y5; -.
+DR   PeptideAtlas; Q9H4Y5; -.
+DR   ProteomicsDB; 63249; -.
+DR   ProteomicsDB; 80881; -. [Q9H4Y5-1]
+DR   ProteomicsDB; 80882; -. [Q9H4Y5-2]
+DR   Antibodypedia; 31611; 351 antibodies from 29 providers.
+DR   DNASU; 119391; -.
+DR   Ensembl; ENST00000338595.7; ENSP00000345023.1; ENSG00000065621.15. [Q9H4Y5-1]
+DR   Ensembl; ENST00000369707.2; ENSP00000358721.1; ENSG00000065621.15. [Q9H4Y5-3]
+DR   Ensembl; ENST00000450629.6; ENSP00000390986.2; ENSG00000065621.15. [Q9H4Y5-2]
+DR   GeneID; 119391; -.
+DR   KEGG; hsa:119391; -.
+DR   MANE-Select; ENST00000338595.7; ENSP00000345023.1; NM_183239.2; NP_899062.1.
+DR   UCSC; uc001kyb.4; human. [Q9H4Y5-1]
+DR   AGR; HGNC:23064; -.
+DR   CTD; 119391; -.
+DR   DisGeNET; 119391; -.
+DR   GeneCards; GSTO2; -.
+DR   HGNC; HGNC:23064; GSTO2.
+DR   HPA; ENSG00000065621; Tissue enhanced (testis).
+DR   MIM; 612314; gene.
+DR   neXtProt; NX_Q9H4Y5; -.
+DR   OpenTargets; ENSG00000065621; -.
+DR   PharmGKB; PA133787053; -.
+DR   VEuPathDB; HostDB:ENSG00000065621; -.
+DR   eggNOG; KOG0406; Eukaryota.
+DR   GeneTree; ENSGT00940000162030; -.
+DR   HOGENOM; CLU_011226_9_2_1; -.
+DR   InParanoid; Q9H4Y5; -.
+DR   OMA; PIYKRYA; -.
+DR   OrthoDB; 103277at2759; -.
+DR   PhylomeDB; Q9H4Y5; -.
+DR   TreeFam; TF105325; -.
+DR   BRENDA; 1.8.5.1; 2681.
+DR   BRENDA; 2.5.1.18; 2681.
+DR   PathwayCommons; Q9H4Y5; -.
+DR   Reactome; R-HSA-156590; Glutathione conjugation.
+DR   Reactome; R-HSA-196836; Vitamin C (ascorbate) metabolism.
+DR   SignaLink; Q9H4Y5; -.
+DR   BioGRID-ORCS; 119391; 12 hits in 1154 CRISPR screens.
+DR   ChiTaRS; GSTO2; human.
+DR   GeneWiki; GSTO2; -.
+DR   GenomeRNAi; 119391; -.
+DR   Pharos; Q9H4Y5; Tbio.
+DR   PRO; PR:Q9H4Y5; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; Q9H4Y5; protein.
+DR   Bgee; ENSG00000065621; Expressed in body of pancreas and 147 other tissues.
+DR   Genevisible; Q9H4Y5; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0045174; F:glutathione dehydrogenase (ascorbate) activity; IDA:UniProtKB.
+DR   GO; GO:0004364; F:glutathione transferase activity; IBA:GO_Central.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0050610; F:methylarsonate reductase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0016491; F:oxidoreductase activity; IDA:UniProtKB.
+DR   GO; GO:0071243; P:cellular response to arsenic-containing substance; IDA:UniProtKB.
+DR   GO; GO:0006749; P:glutathione metabolic process; IBA:GO_Central.
+DR   GO; GO:0019852; P:L-ascorbic acid metabolic process; IDA:UniProtKB.
+DR   GO; GO:0006805; P:xenobiotic metabolic process; IDA:UniProtKB.
+DR   CDD; cd03184; GST_C_Omega; 1.
+DR   Gene3D; 1.20.1050.10; -; 1.
+DR   Gene3D; 3.40.30.10; Glutaredoxin; 1.
+DR   InterPro; IPR010987; Glutathione-S-Trfase_C-like.
+DR   InterPro; IPR036282; Glutathione-S-Trfase_C_sf.
+DR   InterPro; IPR040079; Glutathione_S-Trfase.
+DR   InterPro; IPR004045; Glutathione_S-Trfase_N.
+DR   InterPro; IPR005442; GST_omega.
+DR   InterPro; IPR036249; Thioredoxin-like_sf.
+DR   PANTHER; PTHR43968; -; 1.
+DR   PANTHER; PTHR43968:SF4; GLUTATHIONE S-TRANSFERASE OMEGA-2; 1.
+DR   Pfam; PF13410; GST_C_2; 1.
+DR   Pfam; PF13417; GST_N_3; 1.
+DR   PRINTS; PR01625; GSTRNSFRASEO.
+DR   SFLD; SFLDS00019; Glutathione_Transferase_(cytos; 1.
+DR   SFLD; SFLDG00358; Main_(cytGST); 1.
+DR   SUPFAM; SSF47616; GST C-terminal domain-like; 1.
+DR   SUPFAM; SSF52833; Thioredoxin-like; 1.
+DR   PROSITE; PS50405; GST_CTER; 1.
+DR   PROSITE; PS50404; GST_NTER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Oxidoreductase; Reference proteome;
+KW   Transferase.
+FT   CHAIN           1..243
+FT                   /note="Glutathione S-transferase omega-2"
+FT                   /id="PRO_0000185888"
+FT   DOMAIN          22..101
+FT                   /note="GST N-terminal"
+FT   DOMAIN          106..231
+FT                   /note="GST C-terminal"
+FT   ACT_SITE        32
+FT                   /note="Nucleophile"
+FT   BINDING         59
+FT                   /ligand="glutathione"
+FT                   /ligand_id="ChEBI:CHEBI:57925"
+FT                   /evidence="ECO:0000269|PubMed:22522127"
+FT   BINDING         72
+FT                   /ligand="glutathione"
+FT                   /ligand_id="ChEBI:CHEBI:57925"
+FT                   /evidence="ECO:0000269|PubMed:22522127"
+FT   BINDING         85..86
+FT                   /ligand="glutathione"
+FT                   /ligand_id="ChEBI:CHEBI:57925"
+FT                   /evidence="ECO:0000269|PubMed:22522127"
+FT   VAR_SEQ         1..28
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_045267"
+FT   VAR_SEQ         123..156
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_042567"
+FT   VARIANT         130
+FT                   /note="C -> Y (in dbSNP:rs45582439)"
+FT                   /id="VAR_049492"
+FT   VARIANT         142
+FT                   /note="N -> D (in dbSNP:rs156697)"
+FT                   /evidence="ECO:0000269|PubMed:12618591"
+FT                   /id="VAR_016812"
+FT   MUTAGEN         34
+FT                   /note="Y->A: Abolishes DHAR activity."
+FT                   /evidence="ECO:0000269|PubMed:22522127"
+FT   CONFLICT        215
+FT                   /note="A -> V (in Ref. 2; AAP47743)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          24..28
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           33..44
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   STRAND          49..54
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   STRAND          56..58
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           61..65
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   STRAND          74..76
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   STRAND          82..85
+FT                   /evidence="ECO:0007829|PDB:3QAG"
+FT   HELIX           86..96
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           107..119
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   TURN            120..122
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           123..136
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           141..161
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   STRAND          168..170
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           173..183
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           185..188
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           191..194
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           198..208
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           211..216
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           220..231
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+FT   HELIX           235..238
+FT                   /evidence="ECO:0007829|PDB:3Q18"
+SQ   SEQUENCE   243 AA;  28254 MW;  45A959432BCF490A CRC64;
+     MSGDATRTLG KGSQPPGPVP EGLIRIYSMR FCPYSHRTRL VLKAKDIRHE VVNINLRNKP
+     EWYYTKHPFG HIPVLETSQC QLIYESVIAC EYLDDAYPGR KLFPYDPYER ARQKMLLELF
+     CKVPHLTKEC LVALRCGREC TNLKAALRQE FSNLEEILEY QNTTFFGGTC ISMIDYLLWP
+     WFERLDVYGI LDCVSHTPAL RLWISAMKWD PTVCALLMDK SIFQGFLNLY FQNNPNAFDF
+     GLC
+//

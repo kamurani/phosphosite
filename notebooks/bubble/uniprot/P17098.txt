@@ -1,0 +1,235 @@
+ID   ZNF8_HUMAN              Reviewed;         575 AA.
+AC   P17098; Q6PI99;
+DT   01-AUG-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-NOV-2004, sequence version 2.
+DT   28-JUN-2023, entry version 213.
+DE   RecName: Full=Zinc finger protein 8;
+DE   AltName: Full=Zinc finger protein HF.18;
+GN   Name=ZNF8;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-575, AND TISSUE SPECIFICITY.
+RC   TISSUE=Placenta;
+RX   PubMed=2106481; DOI=10.1016/0888-7543(90)90574-e;
+RA   Lania L., Donti E., Pannuti A., Pascucci A., Pengue G., Feliciello I.,
+RA   la Mantia G., Lanfrancone L., Pelicci P.-G.;
+RT   "cDNA isolation, expression analysis, and chromosomal localization of two
+RT   human zinc finger genes.";
+RL   Genomics 6:333-340(1990).
+RN   [3]
+RP   INTERACTION WITH SMAD3; SMAD4 AND SMAD5.
+RX   PubMed=12370310; DOI=10.1128/mcb.22.21.7633-7644.2002;
+RA   Jiao K., Zhou Y., Hogan B.L.M.;
+RT   "Identification of mZnf8, a mouse Kruppel-like transcriptional repressor,
+RT   as a novel nuclear interaction partner of Smad1.";
+RL   Mol. Cell. Biol. 22:7633-7644(2002).
+RN   [4]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-174; LYS-249; LYS-441 AND
+RP   LYS-545, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: Transcriptional repressor. May modulate BMP and TGF-beta
+CC       signal transduction, through its interaction with SMAD proteins.
+CC       {ECO:0000250|UniProtKB:Q8BGV5}.
+CC   -!- SUBUNIT: Interacts with SMAD1 (via MH1 and MH2 domains) (By
+CC       similarity). Interacts with SMAD5 (PubMed:12370310). Interacts weakly
+CC       with SMAD2 (By similarity). Interacts weakly with SMAD3 and SMAD4
+CC       (PubMed:12370310). {ECO:0000250|UniProtKB:Q8BGV5,
+CC       ECO:0000269|PubMed:12370310}.
+CC   -!- INTERACTION:
+CC       P17098; Q9BXS5: AP1M1; NbExp=3; IntAct=EBI-2555757, EBI-541426;
+CC       P17098; Q96EZ8: MCRS1; NbExp=3; IntAct=EBI-2555757, EBI-348259;
+CC       P17098; Q8NC26: ZNF114; NbExp=3; IntAct=EBI-2555757, EBI-10265237;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitously present in many human cell lines of
+CC       different embryological derivation. {ECO:0000269|PubMed:2106481}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; BC039323; AAH39323.1; -; mRNA.
+DR   EMBL; M29581; AAA61314.1; -; mRNA.
+DR   CCDS; CCDS12974.1; -.
+DR   PIR; B34612; B34612.
+DR   RefSeq; NP_066575.2; NM_021089.2.
+DR   AlphaFoldDB; P17098; -.
+DR   SMR; P17098; -.
+DR   BioGRID; 113386; 46.
+DR   IntAct; P17098; 8.
+DR   MINT; P17098; -.
+DR   STRING; 9606.ENSP00000477716; -.
+DR   iPTMnet; P17098; -.
+DR   PhosphoSitePlus; P17098; -.
+DR   BioMuta; ZNF8; -.
+DR   DMDM; 55977777; -.
+DR   EPD; P17098; -.
+DR   jPOST; P17098; -.
+DR   MassIVE; P17098; -.
+DR   MaxQB; P17098; -.
+DR   PaxDb; P17098; -.
+DR   PeptideAtlas; P17098; -.
+DR   ProteomicsDB; 53457; -.
+DR   Antibodypedia; 74823; 118 antibodies from 15 providers.
+DR   DNASU; 7554; -.
+DR   Ensembl; ENST00000621650.2; ENSP00000477716.1; ENSG00000278129.2.
+DR   GeneID; 7554; -.
+DR   KEGG; hsa:7554; -.
+DR   MANE-Select; ENST00000621650.2; ENSP00000477716.1; NM_021089.3; NP_066575.2.
+DR   UCSC; uc002qry.2; human.
+DR   AGR; HGNC:13154; -.
+DR   CTD; 7554; -.
+DR   GeneCards; ZNF8; -.
+DR   HGNC; HGNC:13154; ZNF8.
+DR   HPA; ENSG00000278129; Low tissue specificity.
+DR   MIM; 194532; gene.
+DR   neXtProt; NX_P17098; -.
+DR   OpenTargets; ENSG00000278129; -.
+DR   PharmGKB; PA37728; -.
+DR   VEuPathDB; HostDB:ENSG00000278129; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000162352; -.
+DR   HOGENOM; CLU_002678_57_1_1; -.
+DR   InParanoid; P17098; -.
+DR   OMA; CTYDSQV; -.
+DR   OrthoDB; 5251040at2759; -.
+DR   PhylomeDB; P17098; -.
+DR   TreeFam; TF337055; -.
+DR   PathwayCommons; P17098; -.
+DR   SignaLink; P17098; -.
+DR   BioGRID-ORCS; 7554; 14 hits in 1174 CRISPR screens.
+DR   GeneWiki; ZNF8; -.
+DR   GenomeRNAi; 7554; -.
+DR   Pharos; P17098; Tdark.
+DR   PRO; PR:P17098; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; P17098; protein.
+DR   Bgee; ENSG00000278129; Expressed in cortical plate and 167 other tissues.
+DR   Genevisible; P17098; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003677; F:DNA binding; NAS:UniProtKB.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0008270; F:zinc ion binding; NAS:UniProtKB.
+DR   GO; GO:0030509; P:BMP signaling pathway; IEA:Ensembl.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 7.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24381; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24381:SF278; ZINC FINGER PROTEIN 626; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 7.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 7.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 4.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 7.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 7.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Isopeptide bond; Metal-binding; Nucleus; Reference proteome;
+KW   Repeat; Transcription; Transcription regulation; Ubl conjugation; Zinc;
+KW   Zinc-finger.
+FT   CHAIN           1..575
+FT                   /note="Zinc finger protein 8"
+FT                   /id="PRO_0000047331"
+FT   DOMAIN          25..96
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         257..279
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         285..307
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         313..335
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         341..363
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         369..391
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         397..419
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         467..489
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          92..130
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          210..237
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          488..533
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        102..123
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        488..508
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        509..526
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CROSSLNK        174
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        249
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        441
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        545
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CONFLICT        60
+FT                   /note="H -> Y (in Ref. 2; AAA61314)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        172
+FT                   /note="G -> A (in Ref. 2; AAA61314)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        528
+FT                   /note="A -> R (in Ref. 2; AAA61314)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   575 AA;  64970 MW;  E8F5B9C2FBED92C6 CRC64;
+     MDPEDEGVAG VMSVGPPAAR LQEPVTFRDV AVDFTQEEWG QLDPTQRILY RDVMLETFGH
+     LLSIGPELPK PEVISQLEQG TELWVAERGT TQGCHPAWEP RSESQASRKE EGLPEEEPSH
+     VTGREGFPTD APYPTTLGKD RECQSQSLAL KEQNNLKQLE FGLKEAPVQD QGYKTLRLRE
+     NCVLSSSPNP FPEISRGEYL YTYDSQITDS EHNSSLVSQQ TGSPGKQPGE NSDCHRDSSQ
+     AIPITELTKS QVQDKPYKCT DCGKSFNHNA HLTVHKRIHT GERPYMCKEC GKAFSQNSSL
+     VQHERIHTGD KPYKCAECGK SFCHSTHLTV HRRIHTGEKP YECQDCGRAF NQNSSLGRHK
+     RTHTGEKPYT CSVCGKSFSR TTCLFLHLRT HTEERPYECN HCGKGFRHSS SLAQHQRKHA
+     GEKPFECRQR LIFEQTPALT KHEWTEALGC DPPLSQDERT HRSDRPFKCN QCGKCFIQSS
+     HLIRHQITHT REEQPHGRSR RREQSSSRNS HLVQHQHPNS RKSSAGGAKA GQPESRALAL
+     FDIQKIMQEK NPVHVIGVEE PSVGASMLFD IREST
+//

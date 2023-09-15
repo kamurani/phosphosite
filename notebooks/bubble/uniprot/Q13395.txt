@@ -1,0 +1,341 @@
+ID   TARB1_HUMAN             Reviewed;        1621 AA.
+AC   Q13395; Q9H581;
+DT   23-JAN-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   28-JUN-2023, entry version 165.
+DE   RecName: Full=Probable methyltransferase TARBP1;
+DE            EC=2.1.1.-;
+DE   AltName: Full=TAR RNA-binding protein 1;
+DE   AltName: Full=TAR RNA-binding protein of 185 kDa;
+DE            Short=TRP-185;
+GN   Name=TARBP1; Synonyms=TRM3, TRP185;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 1404-1427 AND 1535-1548,
+RP   FUNCTION, SUBUNIT, AND RNA-BINDING.
+RX   PubMed=8846792; DOI=10.1002/j.1460-2075.1995.tb00288.x;
+RA   Wu-Baer F., Lane W.S., Gaynor R.B.;
+RT   "The cellular factor TRP-185 regulates RNA polymerase II binding to HIV-1
+RT   TAR RNA.";
+RL   EMBO J. 14:5995-6009(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [3]
+RP   FUNCTION.
+RX   PubMed=7638159; DOI=10.1073/pnas.92.16.7153;
+RA   Wu-Baer F., Sigman D., Gaynor R.B.;
+RT   "Specific binding of RNA polymerase II to the human immunodeficiency virus
+RT   trans-activating region RNA is regulated by cellular cofactors and Tat.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:7153-7157(1995).
+RN   [4]
+RP   FUNCTION.
+RX   PubMed=8626763; DOI=10.1074/jbc.271.8.4201;
+RA   Wu-Baer F., Lane W.S., Gaynor R.B.;
+RT   "Identification of a group of cellular cofactors that stimulate the binding
+RT   of RNA polymerase II and TRP-185 to human immunodeficiency virus 1 TAR
+RT   RNA.";
+RL   J. Biol. Chem. 271:4201-4208(1996).
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Lymphoblast;
+RX   PubMed=14654843; DOI=10.1038/nature02166;
+RA   Andersen J.S., Wilkinson C.J., Mayor T., Mortensen P., Nigg E.A., Mann M.;
+RT   "Proteomic characterization of the human centrosome by protein correlation
+RT   profiling.";
+RL   Nature 426:570-574(2003).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1442, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [8]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.m111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C., Meinnel T.,
+RA   Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (1.6 ANGSTROMS) OF 1438-1621 IN COMPLEX WITH
+RP   S-ADENOSYL-L-HOMOCYSTEINE, AND SUBUNIT.
+RX   PubMed=18412263; DOI=10.1002/prot.22065;
+RA   Wu H., Min J., Zeng H., Plotnikov A.N.;
+RT   "Crystal structure of the methyltransferase domain of human TARBP1.";
+RL   Proteins 72:519-525(2008).
+CC   -!- FUNCTION: Probable S-adenosyl-L-methionine-dependent methyltransferase
+CC       which methylates RNA molecules such as tRNAs.
+CC       {ECO:0000305|PubMed:18412263}.
+CC   -!- FUNCTION: (Microbial infection) In case of infection by HIV-1, it binds
+CC       to the loop region of TAR RNA, a region also bound by RNA polymerase II
+CC       (PubMed:7638159, PubMed:8626763, PubMed:8846792). Binding of TARBP1 and
+CC       RNA polymerase II to HIV-1 TAR RNA is mutually exclusive, suggesting
+CC       that TARBP1 may function alone or in conjunction with HIV-1 Tat to
+CC       disengage RNA polymerase II from HIV-1 TAR RNA (PubMed:7638159,
+CC       PubMed:8626763, PubMed:8846792). {ECO:0000269|PubMed:7638159,
+CC       ECO:0000269|PubMed:8626763, ECO:0000269|PubMed:8846792}.
+CC   -!- SUBUNIT: Monomer and homodimer. {ECO:0000269|PubMed:18412263,
+CC       ECO:0000269|PubMed:8846792}.
+CC   -!- SIMILARITY: Belongs to the class IV-like SAM-binding methyltransferase
+CC       superfamily. RNA methyltransferase TrmH family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U38847; AAC50379.1; -; mRNA.
+DR   EMBL; AL136124; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL355472; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS1601.1; -.
+DR   PIR; S62356; S62356.
+DR   RefSeq; NP_005637.3; NM_005646.3.
+DR   PDB; 2HA8; X-ray; 1.60 A; A/B=1438-1621.
+DR   PDBsum; 2HA8; -.
+DR   AlphaFoldDB; Q13395; -.
+DR   SMR; Q13395; -.
+DR   BioGRID; 112757; 77.
+DR   IntAct; Q13395; 31.
+DR   STRING; 9606.ENSP00000040877; -.
+DR   ChEMBL; CHEMBL2807; -.
+DR   iPTMnet; Q13395; -.
+DR   PhosphoSitePlus; Q13395; -.
+DR   BioMuta; TARBP1; -.
+DR   DMDM; 74739787; -.
+DR   EPD; Q13395; -.
+DR   jPOST; Q13395; -.
+DR   MassIVE; Q13395; -.
+DR   MaxQB; Q13395; -.
+DR   PaxDb; Q13395; -.
+DR   PeptideAtlas; Q13395; -.
+DR   ProteomicsDB; 59365; -.
+DR   Antibodypedia; 20805; 80 antibodies from 25 providers.
+DR   DNASU; 6894; -.
+DR   Ensembl; ENST00000040877.2; ENSP00000040877.1; ENSG00000059588.10.
+DR   GeneID; 6894; -.
+DR   KEGG; hsa:6894; -.
+DR   MANE-Select; ENST00000040877.2; ENSP00000040877.1; NM_005646.4; NP_005637.3.
+DR   UCSC; uc001hwd.3; human.
+DR   AGR; HGNC:11568; -.
+DR   CTD; 6894; -.
+DR   DisGeNET; 6894; -.
+DR   GeneCards; TARBP1; -.
+DR   HGNC; HGNC:11568; TARBP1.
+DR   HPA; ENSG00000059588; Low tissue specificity.
+DR   MIM; 605052; gene.
+DR   neXtProt; NX_Q13395; -.
+DR   OpenTargets; ENSG00000059588; -.
+DR   PharmGKB; PA36333; -.
+DR   VEuPathDB; HostDB:ENSG00000059588; -.
+DR   eggNOG; KOG0839; Eukaryota.
+DR   GeneTree; ENSGT00390000003939; -.
+DR   HOGENOM; CLU_002618_1_1_1; -.
+DR   InParanoid; Q13395; -.
+DR   OMA; ANIPRCK; -.
+DR   OrthoDB; 7433at2759; -.
+DR   PhylomeDB; Q13395; -.
+DR   TreeFam; TF314976; -.
+DR   BRENDA; 2.1.1.34; 2681.
+DR   PathwayCommons; Q13395; -.
+DR   SignaLink; Q13395; -.
+DR   BioGRID-ORCS; 6894; 22 hits in 1158 CRISPR screens.
+DR   ChiTaRS; TARBP1; human.
+DR   EvolutionaryTrace; Q13395; -.
+DR   GeneWiki; TARBP1; -.
+DR   GenomeRNAi; 6894; -.
+DR   Pharos; Q13395; Tbio.
+DR   PRO; PR:Q13395; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q13395; protein.
+DR   Bgee; ENSG00000059588; Expressed in right hemisphere of cerebellum and 200 other tissues.
+DR   Genevisible; Q13395; HS.
+DR   GO; GO:0005634; C:nucleus; TAS:ProtInc.
+DR   GO; GO:0003723; F:RNA binding; TAS:ProtInc.
+DR   GO; GO:0016423; F:tRNA (guanine) methyltransferase activity; IBA:GO_Central.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; TAS:ProtInc.
+DR   GO; GO:0030488; P:tRNA methylation; IBA:GO_Central.
+DR   CDD; cd18091; SpoU-like_TRM3-like; 1.
+DR   Gene3D; 3.40.1280.10; -; 1.
+DR   InterPro; IPR029028; Alpha/beta_knot_MTases.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR025806; Prob_MeTrfase_TARBP1.
+DR   InterPro; IPR001537; SpoU_MeTrfase.
+DR   InterPro; IPR045330; Trm3/TARBP1.
+DR   InterPro; IPR044748; Trm3/TARBP1_C.
+DR   InterPro; IPR029026; tRNA_m1G_MTases_N.
+DR   PANTHER; PTHR12029:SF11; METHYLTRANSFERASE TARBP1-RELATED; 1.
+DR   PANTHER; PTHR12029; RNA METHYLTRANSFERASE; 1.
+DR   Pfam; PF00588; SpoU_methylase; 1.
+DR   SUPFAM; SSF75217; alpha/beta knot; 1.
+DR   SUPFAM; SSF48371; ARM repeat; 1.
+DR   PROSITE; PS51624; SAM_MT_TRMH_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Direct protein sequencing; Methyltransferase;
+KW   Phosphoprotein; Reference proteome; RNA-binding; S-adenosyl-L-methionine;
+KW   Transferase.
+FT   CHAIN           1..1621
+FT                   /note="Probable methyltransferase TARBP1"
+FT                   /id="PRO_0000273201"
+FT   BINDING         1543..1545
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000269|PubMed:18412263"
+FT   BINDING         1566
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000269|PubMed:18412263"
+FT   BINDING         1586..1595
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000269|PubMed:18412263"
+FT   BINDING         1600
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000269|PubMed:18412263"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:22223895"
+FT   MOD_RES         1442
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976"
+FT   VARIANT         221
+FT                   /note="L -> P (in dbSNP:rs12082990)"
+FT                   /id="VAR_030101"
+FT   VARIANT         425
+FT                   /note="A -> T (in dbSNP:rs10910439)"
+FT                   /id="VAR_030102"
+FT   VARIANT         513
+FT                   /note="D -> G (in dbSNP:rs35562024)"
+FT                   /id="VAR_061907"
+FT   VARIANT         678
+FT                   /note="S -> G (in dbSNP:rs4920246)"
+FT                   /id="VAR_030103"
+FT   VARIANT         743
+FT                   /note="N -> S (in dbSNP:rs2273872)"
+FT                   /id="VAR_030104"
+FT   VARIANT         864
+FT                   /note="H -> P (in dbSNP:rs4272658)"
+FT                   /id="VAR_030105"
+FT   VARIANT         997
+FT                   /note="F -> L (in dbSNP:rs12135427)"
+FT                   /id="VAR_030106"
+FT   VARIANT         1038
+FT                   /note="T -> I (in dbSNP:rs3820602)"
+FT                   /id="VAR_030107"
+FT   VARIANT         1359
+FT                   /note="I -> V (in dbSNP:rs3738616)"
+FT                   /id="VAR_030108"
+FT   VARIANT         1461
+FT                   /note="I -> V (in dbSNP:rs2275654)"
+FT                   /id="VAR_030109"
+FT   STRAND          1465..1467
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1474..1486
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   STRAND          1490..1495
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1497..1501
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1503..1509
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1512..1514
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   STRAND          1518..1520
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1523..1525
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1526..1535
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   STRAND          1539..1543
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1552..1554
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   STRAND          1559..1565
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   TURN            1568..1570
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1574..1577
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   STRAND          1581..1585
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   STRAND          1590..1593
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+FT   HELIX           1597..1613
+FT                   /evidence="ECO:0007829|PDB:2HA8"
+SQ   SEQUENCE   1621 AA;  181675 MW;  A8C2BC62B7F1ADA8 CRC64;
+     MEWVLAEALL SQSRDPRALL GALCQGEASA ERVETLRFLL QRLEDEEARG SGGAGALPEA
+     AREVAAGYLV PLLRSLRGRP AGGPDPSLQP RHRRRVLRAA GAALRSCVRL AGRPQLAAAL
+     AEEALRDLLA GWRAPGAEAA VEVLAAVGPC LRPREDGPLL ERVAGTAVAL ALGGGGDGDE
+     AGPAEDAAAL VAGRLLPVLV QCGGAALRAV WGGLAAPGAS LGSGRVEEKL LVLSALAEKL
+     LPEPGGDRAR GAREAGPDAR RCWRFWRTVQ AGLGQADALT RKRARYLLQR AVEVSAELGA
+     DCTCGPQEGN GPSLFWWSER KKDELLKFWE NYILIMETLE GNQIHVIKPV LPKLNNLFEY
+     AVSEENGCWL FHPSWHMCIY KRMFESENKI LSKEGVIHFL ELYETKILPF SPEFSEFIIG
+     PLMDALSESS LYSRSPGQPI GSCSPLGLKL QKFLVTYISL LPEEIKSSFL LKFIRKMTSR
+     HWCAVPILFL SKALANVPRH KALGIDGLLA LRDVIHCTMI THQILLRGAA QCYLLQTAMN
+     LLDVEKVSLS DVSTFLMSLR QEESLGRGTS LWTELCDWLR VNESYFKPSP TCSSIGLHKT
+     SLNAYVKSIV QEYVKSSAWE TGENCFMPDW FEAKLVSLMV LLAVDVEGMK TQYSGKQRTE
+     NVLRIFLDPL LDVLMKFSTN AYMPLLKTDR CLQLLLKLLN TCRLKGSSAQ DDEVSTVLQN
+     FFMSTTESIS EFILRRLTMN ELNSVSDLDR CHLYLMVLTE LINLHLKVGW KRGNPIWRVI
+     SLLKNASIQH LQEMDSGQEP TVGSQIQRVV SMAALAMVCE AIDQKPELQL DSLHAGPLES
+     FLSSLQLNQT LQKPHAEEQS SYAHPLECSS VLEESSSSQG WGKIVAQYIH DQWVCLSFLL
+     KKYHTLIPTT GSEILEPFLP AVQMPIRTLQ SALEALTVLS SDQVLPVFHC LKVLVPKLLT
+     SSESLCIESF DMAWKIISSL SNTQLIFWAN LKAFVQFVFD NKVLTIAAKI KGQAYFKIKE
+     IMYKIIEMSA IKTGVFNTLI SYCCQSWIVS ASNVSQGSLS SAKNYSELIL EACIFGTVFR
+     RDQRLVQDVQ TFIENLGHDC AANIVMENTK REDHYVRICA VKFLCLLDGS NMSHKLFIED
+     LAIKLLDKDE LVSKSKKRYY VNSLQHRVKN RVWQTLLVLF PRLDQNFLNG IIDRIFQAGF
+     TNNQASIKYF IEWIIILILH KFPQFLPKFW DCFSYGEENL KTSICTFLAV LSHLDIITQN
+     IPEKKLILKQ ALIVVLQWCF NHNFSVRLYA LVALKKLWTV CKVLSVEEFD ALTPVIESSL
+     HQVESMHGAG NAKKNWQRIQ EHFFFATFHP LKDYCLETIF YILPRLSGLI EDEWITIDKF
+     TRFTDVPLAA GFQWYLSQTQ LSKLKPGDWS QQDIGTNLVE ADNQAEWTDV QKKIIPWNSR
+     VSDLDLELLF QDRAARLGKS ISRLIVVASL IDKPTNLGGL CRTCEVFGAS VLVVGSLQCI
+     SDKQFQHLSV SAEQWLPLVE VKPPQLIDYL QQKKTEGYTI IGVEQTAKSL DLTQYCFPEK
+     SLLLLGNERE GIPANLIQQL DVCVEIPQQG IIRSLNVHVS GALLIWEYTR QQLLSHGDTK
+     P
+//

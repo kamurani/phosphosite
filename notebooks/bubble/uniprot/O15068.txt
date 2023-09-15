@@ -1,0 +1,471 @@
+ID   MCF2L_HUMAN             Reviewed;        1137 AA.
+AC   O15068; A2A2X1; A2A2X2; A2A3G6; A2A3G8; B4DHD6; B4DIL6; E9PDN8; Q5JU56;
+AC   Q5VXT1; Q6ZWD4; Q765G8; Q765G9; Q8N679;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   12-JUN-2007, sequence version 2.
+DT   28-JUN-2023, entry version 203.
+DE   RecName: Full=Guanine nucleotide exchange factor DBS;
+DE   AltName: Full=DBL's big sister;
+DE   AltName: Full=MCF2-transforming sequence-like protein;
+GN   Name=MCF2L; Synonyms=KIAA0362, OST {ECO:0000303|PubMed:15157669};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 3 AND 5), FUNCTION, SUBCELLULAR
+RP   LOCATION, DOMAIN, AND INTERACTION WITH CDC42 AND INOSITOL PHOSPHOLIPIDS.
+RX   PubMed=15157669; DOI=10.1016/j.cellsig.2004.01.007;
+RA   Ueda S., Kataoka T., Satoh T.;
+RT   "Role of the Sec14-like domain of Dbl family exchange factors in the
+RT   regulation of Rho family GTPases in different subcellular sites.";
+RL   Cell. Signal. 16:899-906(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=9205841; DOI=10.1093/dnares/4.2.141;
+RA   Nagase T., Ishikawa K., Nakajima D., Ohira M., Seki N., Miyajima N.,
+RA   Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. VII. The
+RT   complete sequences of 100 new cDNA clones from brain which can code for
+RT   large proteins in vitro.";
+RL   DNA Res. 4:141-150(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 7 AND 9).
+RC   TISSUE=Brain, and Hippocampus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057823; DOI=10.1038/nature02379;
+RA   Dunham A., Matthews L.H., Burton J., Ashurst J.L., Howe K.L.,
+RA   Ashcroft K.J., Beare D.M., Burford D.C., Hunt S.E., Griffiths-Jones S.,
+RA   Jones M.C., Keenan S.J., Oliver K., Scott C.E., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Andrews D.T., Ashwell R.I.S., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Bannerjee R., Barlow K.F., Bates K., Beasley H., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burrill W., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M.E., Clark S.Y., Clarke G., Clee C.M., Clegg S.C.,
+RA   Cobley V., Collins J.E., Corby N., Coville G.J., Deloukas P., Dhami P.,
+RA   Dunham I., Dunn M., Earthrowl M.E., Ellington A.G., Faulkner L.,
+RA   Frankish A.G., Frankland J., French L., Garner P., Garnett J.,
+RA   Gilbert J.G.R., Gilson C.J., Ghori J., Grafham D.V., Gribble S.M.,
+RA   Griffiths C., Hall R.E., Hammond S., Harley J.L., Hart E.A., Heath P.D.,
+RA   Howden P.J., Huckle E.J., Hunt P.J., Hunt A.R., Johnson C., Johnson D.,
+RA   Kay M., Kimberley A.M., King A., Laird G.K., Langford C.J., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Lloyd C., Loveland J.E., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., McLaren S.J., McMurray A., Milne S.,
+RA   Moore M.J.F., Nickerson T., Palmer S.A., Pearce A.V., Peck A.I., Pelan S.,
+RA   Phillimore B., Porter K.M., Rice C.M., Searle S., Sehra H.K., Shownkeen R.,
+RA   Skuce C.D., Smith M., Steward C.A., Sycamore N., Tester J., Thomas D.W.,
+RA   Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Wilming L., Wray P.W., Wright M.W., Young L.,
+RA   Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Beck S., Bentley D.R.,
+RA   Rogers J., Ross M.T.;
+RT   "The DNA sequence and analysis of human chromosome 13.";
+RL   Nature 428:522-528(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4).
+RC   TISSUE=Muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Guanine nucleotide exchange factor that catalyzes guanine
+CC       nucleotide exchange on RHOA and CDC42, and thereby contributes to the
+CC       regulation of RHOA and CDC42 signaling pathways (By similarity). Seems
+CC       to lack activity with RAC1. Becomes activated and highly tumorigenic by
+CC       truncation of the N-terminus (By similarity). Isoform 5 activates CDC42
+CC       (PubMed:15157669). {ECO:0000250|UniProtKB:Q63406,
+CC       ECO:0000269|PubMed:15157669}.
+CC   -!- FUNCTION: [Isoform 3]: Does not catalyze guanine nucleotide exchange on
+CC       CDC42 (PubMed:15157669). {ECO:0000269|PubMed:15157669}.
+CC   -!- SUBUNIT: Interacts with GTP-bound RAC1 (By similarity). Interacts with
+CC       CDC42 (PubMed:15157669). Interacts with RHOA. Interacts with CCPG1,
+CC       which results in specific inhibition of its exchange activity toward
+CC       RHOA, but does not affect its activity on CDC42 (By similarity).
+CC       {ECO:0000250|UniProtKB:Q63406, ECO:0000250|UniProtKB:Q64096,
+CC       ECO:0000269|PubMed:15157669}.
+CC   -!- INTERACTION:
+CC       O15068-4; O76024: WFS1; NbExp=3; IntAct=EBI-21375623, EBI-720609;
+CC   -!- SUBCELLULAR LOCATION: [Isoform 5]: Cytoplasm
+CC       {ECO:0000269|PubMed:15157669}. Cell membrane
+CC       {ECO:0000269|PubMed:15157669}; Peripheral membrane protein
+CC       {ECO:0000269|PubMed:15157669}; Cytoplasmic side
+CC       {ECO:0000269|PubMed:15157669}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 3]: Cytoplasm
+CC       {ECO:0000269|PubMed:15157669}. Endomembrane system
+CC       {ECO:0000269|PubMed:15157669}. Note=Interaction with membranes enriched
+CC       in phosphoinositides is mediated by the CRAL-TRIO domain.
+CC       {ECO:0000269|PubMed:15157669}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q64096}. Cell
+CC       membrane {ECO:0000250|UniProtKB:Q64096}; Peripheral membrane protein
+CC       {ECO:0000250|UniProtKB:Q64096}; Cytoplasmic side
+CC       {ECO:0000250|UniProtKB:Q64096}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=9;
+CC         Comment=A number of isoforms are produced. According to EST
+CC         sequences. Experimental confirmation may be lacking for some
+CC         isoforms.;
+CC       Name=1;
+CC         IsoId=O15068-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O15068-2; Sequence=VSP_026120, VSP_026128;
+CC       Name=3; Synonyms=Ost-II {ECO:0000303|PubMed:15157669};
+CC         IsoId=O15068-3; Sequence=VSP_026121, VSP_026128;
+CC       Name=4;
+CC         IsoId=O15068-4; Sequence=VSP_026122, VSP_026126, VSP_026127;
+CC       Name=5; Synonyms=Ost-I {ECO:0000303|PubMed:15157669};
+CC         IsoId=O15068-5; Sequence=VSP_026119, VSP_026128;
+CC       Name=6;
+CC         IsoId=O15068-6; Sequence=VSP_026123;
+CC       Name=7;
+CC         IsoId=O15068-9; Sequence=VSP_026123, VSP_039037;
+CC       Name=8;
+CC         IsoId=O15068-8; Sequence=VSP_026124;
+CC       Name=9;
+CC         IsoId=O15068-10; Sequence=VSP_026122, VSP_039037;
+CC   -!- DOMAIN: The CRAL-TRIO domain mediates interaction with various inositol
+CC       phospholipids, such as phosphatidylinositol 3-phosphate (PI3P),
+CC       phosphatidylinositol 4-phosphate (PI4P) and phosphatidylinositol 5-
+CC       phosphate (PI5P). {ECO:0000269|PubMed:15157669}.
+CC   -!- DOMAIN: The DH domain is involved in interaction with CCPG1.
+CC       {ECO:0000250|UniProtKB:Q64096}.
+CC   -!- SIMILARITY: Belongs to the MCF2 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA20817.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB116074; BAD08351.1; -; mRNA.
+DR   EMBL; AB116075; BAD08352.1; -; mRNA.
+DR   EMBL; AB002360; BAA20817.1; ALT_INIT; mRNA.
+DR   EMBL; AK295047; BAG58097.1; -; mRNA.
+DR   EMBL; AK295670; BAG58528.1; -; mRNA.
+DR   EMBL; AL356740; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL596093; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL162454; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL137002; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC011853; AAH11853.1; -; mRNA.
+DR   EMBL; BC020208; AAH20208.1; -; mRNA.
+DR   CCDS; CCDS45070.2; -. [O15068-9]
+DR   CCDS; CCDS81782.1; -. [O15068-4]
+DR   CCDS; CCDS9527.3; -. [O15068-10]
+DR   RefSeq; NP_001106203.2; NM_001112732.2. [O15068-9]
+DR   RefSeq; NP_001307744.1; NM_001320815.1.
+DR   RefSeq; NP_001307745.1; NM_001320816.1.
+DR   RefSeq; NP_001307746.1; NM_001320817.1. [O15068-4]
+DR   RefSeq; NP_079255.4; NM_024979.4. [O15068-10]
+DR   AlphaFoldDB; O15068; -.
+DR   SMR; O15068; -.
+DR   BioGRID; 116865; 17.
+DR   IntAct; O15068; 11.
+DR   MINT; O15068; -.
+DR   STRING; 9606.ENSP00000440374; -.
+DR   ChEMBL; CHEMBL4524032; -.
+DR   SwissLipids; SLP:000001547; -.
+DR   iPTMnet; O15068; -.
+DR   PhosphoSitePlus; O15068; -.
+DR   SwissPalm; O15068; -.
+DR   BioMuta; MCF2L; -.
+DR   EPD; O15068; -.
+DR   jPOST; O15068; -.
+DR   MassIVE; O15068; -.
+DR   MaxQB; O15068; -.
+DR   PaxDb; O15068; -.
+DR   PeptideAtlas; O15068; -.
+DR   ProteomicsDB; 19715; -.
+DR   ProteomicsDB; 48418; -. [O15068-1]
+DR   ProteomicsDB; 48419; -. [O15068-2]
+DR   ProteomicsDB; 48420; -. [O15068-3]
+DR   ProteomicsDB; 48421; -. [O15068-4]
+DR   ProteomicsDB; 48422; -. [O15068-5]
+DR   ProteomicsDB; 48423; -. [O15068-6]
+DR   ProteomicsDB; 48424; -. [O15068-8]
+DR   ProteomicsDB; 48425; -. [O15068-9]
+DR   Antibodypedia; 1984; 165 antibodies from 32 providers.
+DR   DNASU; 23263; -.
+DR   Ensembl; ENST00000375597.8; ENSP00000364747.4; ENSG00000126217.22. [O15068-4]
+DR   Ensembl; ENST00000375604.6; ENSP00000364754.3; ENSG00000126217.22. [O15068-10]
+DR   Ensembl; ENST00000375608.7; ENSP00000364758.3; ENSG00000126217.22. [O15068-1]
+DR   Ensembl; ENST00000397030.5; ENSP00000380225.1; ENSG00000126217.22. [O15068-2]
+DR   Ensembl; ENST00000421756.5; ENSP00000397285.1; ENSG00000126217.22. [O15068-3]
+DR   Ensembl; ENST00000535094.7; ENSP00000440374.2; ENSG00000126217.22. [O15068-9]
+DR   GeneID; 23263; -.
+DR   KEGG; hsa:23263; -.
+DR   MANE-Select; ENST00000535094.7; ENSP00000440374.2; NM_001112732.3; NP_001106203.2. [O15068-9]
+DR   UCSC; uc001vss.5; human. [O15068-1]
+DR   AGR; HGNC:14576; -.
+DR   CTD; 23263; -.
+DR   DisGeNET; 23263; -.
+DR   GeneCards; MCF2L; -.
+DR   HGNC; HGNC:14576; MCF2L.
+DR   HPA; ENSG00000126217; Tissue enhanced (brain).
+DR   MIM; 609499; gene.
+DR   neXtProt; NX_O15068; -.
+DR   OpenTargets; ENSG00000126217; -.
+DR   PharmGKB; PA30685; -.
+DR   VEuPathDB; HostDB:ENSG00000126217; -.
+DR   eggNOG; KOG4240; Eukaryota.
+DR   GeneTree; ENSGT00940000157874; -.
+DR   HOGENOM; CLU_007130_1_0_1; -.
+DR   InParanoid; O15068; -.
+DR   OMA; LQRICTI; -.
+DR   OrthoDB; 4244290at2759; -.
+DR   PhylomeDB; O15068; -.
+DR   TreeFam; TF318080; -.
+DR   PathwayCommons; O15068; -.
+DR   Reactome; R-HSA-193648; NRAGE signals death through JNK.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-8980692; RHOA GTPase cycle.
+DR   Reactome; R-HSA-9013026; RHOB GTPase cycle.
+DR   Reactome; R-HSA-9013106; RHOC GTPase cycle.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   Reactome; R-HSA-9013408; RHOG GTPase cycle.
+DR   SignaLink; O15068; -.
+DR   SIGNOR; O15068; -.
+DR   BioGRID-ORCS; 23263; 23 hits in 1150 CRISPR screens.
+DR   ChiTaRS; MCF2L; human.
+DR   GeneWiki; MCF2L; -.
+DR   GenomeRNAi; 23263; -.
+DR   Pharos; O15068; Tbio.
+DR   PRO; PR:O15068; -.
+DR   Proteomes; UP000005640; Chromosome 13.
+DR   RNAct; O15068; protein.
+DR   Bgee; ENSG00000126217; Expressed in right hemisphere of cerebellum and 170 other tissues.
+DR   ExpressionAtlas; O15068; baseline and differential.
+DR   Genevisible; O15068; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0012505; C:endomembrane system; IDA:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; HDA:UniProtKB.
+DR   GO; GO:0031234; C:extrinsic component of cytoplasmic side of plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0019898; C:extrinsic component of membrane; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IDA:UniProtKB.
+DR   GO; GO:0035091; F:phosphatidylinositol binding; IDA:UniProtKB.
+DR   GO; GO:0035556; P:intracellular signal transduction; IEA:InterPro.
+DR   GO; GO:0035025; P:positive regulation of Rho protein signal transduction; IDA:UniProtKB.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   CDD; cd01227; PH_Dbs; 1.
+DR   CDD; cd00160; RhoGEF; 1.
+DR   CDD; cd00170; SEC14; 1.
+DR   CDD; cd11857; SH3_DBS; 1.
+DR   CDD; cd00176; SPEC; 1.
+DR   Gene3D; 1.20.58.60; -; 1.
+DR   Gene3D; 1.20.900.10; Dbl homology (DH) domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   Gene3D; 2.30.30.40; SH3 Domains; 1.
+DR   InterPro; IPR001251; CRAL-TRIO_dom.
+DR   InterPro; IPR036865; CRAL-TRIO_dom_sf.
+DR   InterPro; IPR035899; DBL_dom_sf.
+DR   InterPro; IPR035534; DBS_PH.
+DR   InterPro; IPR035532; DBS_SH3.
+DR   InterPro; IPR000219; DH-domain.
+DR   InterPro; IPR001331; GDS_CDC24_CS.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR036028; SH3-like_dom_sf.
+DR   InterPro; IPR001452; SH3_domain.
+DR   InterPro; IPR018159; Spectrin/alpha-actinin.
+DR   InterPro; IPR002017; Spectrin_repeat.
+DR   PANTHER; PTHR22826:SF115; GUANINE NUCLEOTIDE EXCHANGE FACTOR DBS; 1.
+DR   PANTHER; PTHR22826; RHO GUANINE EXCHANGE FACTOR-RELATED; 1.
+DR   Pfam; PF13716; CRAL_TRIO_2; 1.
+DR   Pfam; PF00169; PH; 1.
+DR   Pfam; PF00621; RhoGEF; 1.
+DR   Pfam; PF07653; SH3_2; 1.
+DR   Pfam; PF00435; Spectrin; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SMART; SM00325; RhoGEF; 1.
+DR   SMART; SM00516; SEC14; 1.
+DR   SMART; SM00326; SH3; 1.
+DR   SMART; SM00150; SPEC; 1.
+DR   SUPFAM; SSF52087; CRAL/TRIO domain; 1.
+DR   SUPFAM; SSF48065; DBL homology domain (DH-domain); 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   SUPFAM; SSF50044; SH3-domain; 1.
+DR   SUPFAM; SSF46966; Spectrin repeat; 1.
+DR   PROSITE; PS50191; CRAL_TRIO; 1.
+DR   PROSITE; PS00741; DH_1; 1.
+DR   PROSITE; PS50010; DH_2; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+DR   PROSITE; PS50002; SH3; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Coiled coil; Cytoplasm;
+KW   Guanine-nucleotide releasing factor; Lipid-binding; Membrane;
+KW   Phosphoprotein; Proto-oncogene; Reference proteome; SH3 domain.
+FT   CHAIN           1..1137
+FT                   /note="Guanine nucleotide exchange factor DBS"
+FT                   /id="PRO_0000080935"
+FT   DOMAIN          52..224
+FT                   /note="CRAL-TRIO"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00056"
+FT   REPEAT          351..456
+FT                   /note="Spectrin"
+FT   DOMAIN          631..811
+FT                   /note="DH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00062"
+FT   DOMAIN          829..945
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          1055..1116
+FT                   /note="SH3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00192"
+FT   REGION          557..625
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          955..1058
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1116..1137
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          503..529
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        601..625
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        955..981
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         457
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q63406"
+FT   MOD_RES         480
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q63406"
+FT   MOD_RES         620
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64096"
+FT   MOD_RES         1033
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64096"
+FT   MOD_RES         1034
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64096"
+FT   MOD_RES         1041
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64096"
+FT   MOD_RES         1042
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64096"
+FT   VAR_SEQ         1..189
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:15157669"
+FT                   /id="VSP_026119"
+FT   VAR_SEQ         1..56
+FT                   /note="MFDCWRFILCKRPGSNSYSSPQRPNEAKKEETDHQIDVSDVIRLVQDTPEAT
+FT                   AMAT -> MPLRGGAGPSPASHGPTHGPSDPRTCLPGRGAGGMRPHGRGALGCCGLCSF
+FT                   YTCHGAAG (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:9205841"
+FT                   /id="VSP_026120"
+FT   VAR_SEQ         1..56
+FT                   /note="MFDCWRFILCKRPGSNSYSSPQRPNEAKKEETDHQIDVSDVIRLVQDTPEAT
+FT                   AMAT -> MAEKGASRGTLRRLWSLPRRRRGTAGRSRP (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15157669"
+FT                   /id="VSP_026121"
+FT   VAR_SEQ         1..56
+FT                   /note="MFDCWRFILCKRPGSNSYSSPQRPNEAKKEETDHQIDVSDVIRLVQDTPEAT
+FT                   AMAT -> MTVRRLSLLCRDLWALWLLLKAGA (in isoform 4 and isoform
+FT                   9)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_026122"
+FT   VAR_SEQ         1..56
+FT                   /note="MFDCWRFILCKRPGSNSYSSPQRPNEAKKEETDHQIDVSDVIRLVQDTPEAT
+FT                   AMAT -> MRFWLRTEEMALEEMVQRLNAVSKHT (in isoform 6 and
+FT                   isoform 7)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_026123"
+FT   VAR_SEQ         1..56
+FT                   /note="MFDCWRFILCKRPGSNSYSSPQRPNEAKKEETDHQIDVSDVIRLVQDTPEAT
+FT                   AMAT -> MGDGKAVRISVAEMKSYYLYSEWCSWLLSVAE (in isoform 8)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_026124"
+FT   VAR_SEQ         1015..1016
+FT                   /note="GW -> EP (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_026126"
+FT   VAR_SEQ         1017..1137
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_026127"
+FT   VAR_SEQ         1094..1137
+FT                   /note="Missing (in isoform 2, isoform 3 and isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:15157669,
+FT                   ECO:0000303|PubMed:9205841"
+FT                   /id="VSP_026128"
+FT   VAR_SEQ         1128..1137
+FT                   /note="GKAHVPRAHP -> ESSPGSAVLSNSSSCSEGGQAPFSDLQG (in
+FT                   isoform 7 and isoform 9)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_039037"
+FT   CONFLICT        580
+FT                   /note="C -> S (in Ref. 3; BAG58097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        660
+FT                   /note="E -> G (in Ref. 3; BAG58097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        721
+FT                   /note="F -> L (in Ref. 3; BAG58528)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1052
+FT                   /note="P -> L (in Ref. 3; BAG58528)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1123
+FT                   /note="C -> R (in Ref. 3; BAG58097)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1137 AA;  128109 MW;  B2830890A69C8377 CRC64;
+     MFDCWRFILC KRPGSNSYSS PQRPNEAKKE ETDHQIDVSD VIRLVQDTPE ATAMATDEIM
+     HQDIVPLCAA DIQDQLKKRF AYLSGGRGQD GSPVITFPDY PAFSEIPDKE FQNVMTYLTS
+     IPSLQDAGIG FILVIDRRRD KWTSVKASVL RIAASFPANL QLVLVLRPTG FFQRTLSDIA
+     FKFNRDDFKM KVPVIMLSSV PDLHGYIDKS QLTEDLGGTL DYCHSRWLCQ RTAIESFALM
+     VKQTAQMLQS FGTELAETEL PNDVQSTSSV LCAHTEKKDK AKEDLRLALK EGHSVLESLR
+     ELQAEGSEPS VNQDQLDNQA TVQRLLAQLN ETEAAFDEFW AKHQQKLEQC LQLRHFEQGF
+     REVKAILDAA SQKIATFTDI GNSLAHVEHL LRDLASFEEK SGVAVERARA LSLDGEQLIG
+     NKHYAVDSIR PKCQELRHLC DQFSAEIARR RGLLSKSLEL HRRLETSMKW CDEGIYLLAS
+     QPVDKCQSQD GAEAALQEIE KFLETGAENK IQELNAIYKE YESILNQDLM EHVRKVFQKQ
+     ASMEEVFHRR QASLKKLAAR QTRPVQPVAP RPEALAKSPC PSPGIRRGSE NSSSEGGALR
+     RGPYRRAKSE MSESRQGRGS AGEEEESLAI LRRHVMSELL DTERAYVEEL LCVLEGYAAE
+     MDNPLMAHLL STGLHNKKDV LFGNMEEIYH FHNRIFLREL ENYTDCPELV GRCFLERMED
+     FQIYEKYCQN KPRSESLWRQ CSDCPFFQEC QRKLDHKLSL DSYLLKPVQR ITKYQLLLKE
+     MLKYSRNCEG AEDLQEALSS ILGILKAVND SMHLIAITGY DGNLGDLGKL LMQGSFSVWT
+     DHKRGHTKVK ELARFKPMQR HLFLHEKAVL FCKKREENGE GYEKAPSYSY KQSLNMAAVG
+     ITENVKGDAK KFEIWYNARE EVYIVQAPTP EIKAAWVNEI RKVLTSQLQA CREASQHRAL
+     EQSQSLPLPA PTSTSPSRGN SRNIKKLEER KTDPLSLEGY VSSAPLTKPP EKGKGWSKTS
+     HSLEAPEDDG GWSSAEEQIN SSDAEEDGGL GPKKLVPGKY TVVADHEKGG PDALRVRSGD
+     VVELVQEGDE GLWYVRDPTT GKEGWVPASS LSVRLGPSGS AQCLSSSGKA HVPRAHP
+//

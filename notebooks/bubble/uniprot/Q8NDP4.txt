@@ -1,0 +1,236 @@
+ID   ZN439_HUMAN             Reviewed;         499 AA.
+AC   Q8NDP4; Q8IYZ7; Q96SU1;
+DT   09-MAY-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   28-JUN-2023, entry version 163.
+DE   RecName: Full=Zinc finger protein 439;
+GN   Name=ZNF439;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Substantia nigra;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 83-499.
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 137-499, AND VARIANT SER-427.
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- INTERACTION:
+CC       Q8NDP4; Q9BWT7: CARD10; NbExp=3; IntAct=EBI-747580, EBI-3866279;
+CC       Q8NDP4; O95273: CCNDBP1; NbExp=3; IntAct=EBI-747580, EBI-748961;
+CC       Q8NDP4; Q8NHQ1: CEP70; NbExp=3; IntAct=EBI-747580, EBI-739624;
+CC       Q8NDP4; A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-747580, EBI-3867333;
+CC       Q8NDP4; O75496: GMNN; NbExp=7; IntAct=EBI-747580, EBI-371669;
+CC       Q8NDP4; Q6A162: KRT40; NbExp=6; IntAct=EBI-747580, EBI-10171697;
+CC       Q8NDP4; Q07627: KRTAP1-1; NbExp=3; IntAct=EBI-747580, EBI-11959885;
+CC       Q8NDP4; P60370: KRTAP10-5; NbExp=3; IntAct=EBI-747580, EBI-10172150;
+CC       Q8NDP4; P60409: KRTAP10-7; NbExp=3; IntAct=EBI-747580, EBI-10172290;
+CC       Q8NDP4; P60410: KRTAP10-8; NbExp=6; IntAct=EBI-747580, EBI-10171774;
+CC       Q8NDP4; P60411: KRTAP10-9; NbExp=3; IntAct=EBI-747580, EBI-10172052;
+CC       Q8NDP4; P60328: KRTAP12-3; NbExp=3; IntAct=EBI-747580, EBI-11953334;
+CC       Q8NDP4; P26371: KRTAP5-9; NbExp=6; IntAct=EBI-747580, EBI-3958099;
+CC       Q8NDP4; Q9BYQ3: KRTAP9-3; NbExp=3; IntAct=EBI-747580, EBI-1043191;
+CC       Q8NDP4; Q99750: MDFI; NbExp=8; IntAct=EBI-747580, EBI-724076;
+CC       Q8NDP4; Q5JR59: MTUS2; NbExp=4; IntAct=EBI-747580, EBI-742948;
+CC       Q8NDP4; Q5JR59-3: MTUS2; NbExp=3; IntAct=EBI-747580, EBI-11522433;
+CC       Q8NDP4; Q7Z3S9: NOTCH2NLA; NbExp=3; IntAct=EBI-747580, EBI-945833;
+CC       Q8NDP4; Q9H8W4: PLEKHF2; NbExp=3; IntAct=EBI-747580, EBI-742388;
+CC       Q8NDP4; Q8WV44: TRIM41; NbExp=3; IntAct=EBI-747580, EBI-725997;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB55187.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AL833935; CAD38790.1; -; mRNA.
+DR   EMBL; AK027542; BAB55187.1; ALT_INIT; mRNA.
+DR   EMBL; BC032857; AAH32857.1; -; mRNA.
+DR   CCDS; CCDS12268.1; -.
+DR   RefSeq; NP_001335653.1; NM_001348724.1.
+DR   RefSeq; NP_001335654.1; NM_001348725.1.
+DR   RefSeq; NP_689475.1; NM_152262.2.
+DR   AlphaFoldDB; Q8NDP4; -.
+DR   SMR; Q8NDP4; -.
+DR   BioGRID; 124741; 23.
+DR   IntAct; Q8NDP4; 22.
+DR   MINT; Q8NDP4; -.
+DR   STRING; 9606.ENSP00000305077; -.
+DR   iPTMnet; Q8NDP4; -.
+DR   PhosphoSitePlus; Q8NDP4; -.
+DR   BioMuta; ZNF439; -.
+DR   DMDM; 30580628; -.
+DR   jPOST; Q8NDP4; -.
+DR   MassIVE; Q8NDP4; -.
+DR   MaxQB; Q8NDP4; -.
+DR   PaxDb; Q8NDP4; -.
+DR   PeptideAtlas; Q8NDP4; -.
+DR   ProteomicsDB; 73047; -.
+DR   Antibodypedia; 53866; 18 antibodies from 8 providers.
+DR   DNASU; 90594; -.
+DR   Ensembl; ENST00000304030.2; ENSP00000305077.2; ENSG00000171291.9.
+DR   GeneID; 90594; -.
+DR   KEGG; hsa:90594; -.
+DR   UCSC; uc002msr.4; human.
+DR   AGR; HGNC:20873; -.
+DR   CTD; 90594; -.
+DR   GeneCards; ZNF439; -.
+DR   HGNC; HGNC:20873; ZNF439.
+DR   HPA; ENSG00000171291; Low tissue specificity.
+DR   neXtProt; NX_Q8NDP4; -.
+DR   OpenTargets; ENSG00000171291; -.
+DR   PharmGKB; PA134886330; -.
+DR   VEuPathDB; HostDB:ENSG00000171291; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000163273; -.
+DR   HOGENOM; CLU_002678_44_5_1; -.
+DR   InParanoid; Q8NDP4; -.
+DR   OMA; QIHENTH; -.
+DR   OrthoDB; 4667724at2759; -.
+DR   PhylomeDB; Q8NDP4; -.
+DR   TreeFam; TF338854; -.
+DR   PathwayCommons; Q8NDP4; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q8NDP4; -.
+DR   BioGRID-ORCS; 90594; 5 hits in 1096 CRISPR screens.
+DR   ChiTaRS; ZNF439; human.
+DR   GenomeRNAi; 90594; -.
+DR   Pharos; Q8NDP4; Tdark.
+DR   PRO; PR:Q8NDP4; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q8NDP4; protein.
+DR   Bgee; ENSG00000171291; Expressed in cortical plate and 129 other tissues.
+DR   ExpressionAtlas; Q8NDP4; baseline and differential.
+DR   Genevisible; Q8NDP4; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 12.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24377; IP01015P-RELATED; 1.
+DR   PANTHER; PTHR24377:SF979; ZINC FINGER PROTEIN 670; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 5.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 11.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 6.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 11.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 11.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..499
+FT                   /note="Zinc finger protein 439"
+FT                   /id="PRO_0000047588"
+FT   DOMAIN          19..101
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         186..208
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         214..236
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         242..264
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         270..292
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         298..320
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         326..348
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         354..376
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         382..404
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         410..432
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         438..460
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         466..490
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   VARIANT         6
+FT                   /note="P -> S (in dbSNP:rs10421552)"
+FT                   /id="VAR_052827"
+FT   VARIANT         427
+FT                   /note="L -> S (in dbSNP:rs10500209)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_024216"
+SQ   SEQUENCE   499 AA;  58395 MW;  483E3238E280F229 CRC64;
+     MLSLSPILLY TCEMFQDPVA FKDVAVNFTQ EEWALLDISQ KNLYREVMLE TFWNLTSIGK
+     KWKDQNIEYE YQNPRRNFRS VTEEKVNEIK EDSHCGETFT PVPDDRLNFQ KKKASPEVKS
+     CDSFVCEVGL GNSSSNMNIR GDTGHKACEC QEYGPKPWKS QQPKKAFRYH PSLRTQERDH
+     TGKKPYACKE CGKNIIYHSS IQRHMVVHSG DGPYKCKFCG KAFHCLSLYL IHERTHTGEK
+     PYECKQCGKS FSYSATHRIH ERTHIGEKPY ECQECGKAFH SPRSCHRHER SHMGEKAYQC
+     KECGKAFMCP RYVRRHERTH SRKKLYECKQ CGKALSSLTS FQTHIRMHSG ERPYECKTCG
+     KGFYSAKSFQ RHEKTHSGEK PYKCKQCGKA FTRSGSFRYH ERTHTGEKPY ECKQCGKAFR
+     SAPNLQLHGR THTGEKPYQC KECGKAFRSA SQLRIHRRIH TGEKPYECKK CGKAFRYVQN
+     FRFHERTQTH KNALWRKTL
+//

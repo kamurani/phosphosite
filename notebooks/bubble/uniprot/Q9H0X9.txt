@@ -1,0 +1,511 @@
+ID   OSBL5_HUMAN             Reviewed;         879 AA.
+AC   Q9H0X9; A6NDP0; A6NJS8; B4DVB0; Q54A90; Q8N596; Q9BZB0; Q9P1Z4;
+DT   11-FEB-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   28-JUN-2023, entry version 175.
+DE   RecName: Full=Oxysterol-binding protein-related protein 5;
+DE            Short=ORP-5;
+DE            Short=OSBP-related protein 5;
+DE   AltName: Full=Oxysterol-binding protein homolog 1 {ECO:0000303|PubMed:12504849};
+GN   Name=OSBPL5;
+GN   Synonyms=KIAA1534, OBPH1 {ECO:0000303|PubMed:12504849}, ORP5;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), IMPRINTING, AND TISSUE SPECIFICITY.
+RX   PubMed=12504849; DOI=10.1006/geno.2002.7006;
+RA   Higashimoto K., Soejima H., Yatsuki H., Joh K., Uchiyama M., Obata Y.,
+RA   Ono R., Wang Y., Xin Z., Zhu X., Masuko S., Ishino F., Hatada I., Jinno Y.,
+RA   Iwasaka T., Katsuki T., Mukai T.;
+RT   "Characterization and imprinting status of OBPH1/Obph1 gene: implications
+RT   for an extended imprinting domain in human and mouse.";
+RL   Genomics 80:575-584(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=11735225; DOI=10.1006/geno.2001.6663;
+RA   Jaworski C.J., Moreira E., Li A., Lee R., Rodriguez I.R.;
+RT   "A family of 12 human genes containing oxysterol-binding domains.";
+RL   Genomics 78:185-196(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Liver;
+RA   Anniss A.M., Apostolopoulos J., Sparrow R.L.;
+RT   "Isolation and characterization of human oxysterol-binding protein-related
+RT   protein-5 (ORP-5).";
+RL   Submitted (AUG-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Uterus;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 3).
+RC   TISSUE=Small intestine, and Spleen;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Brain, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-61 (ISOFORM 1).
+RX   PubMed=11483621;
+RA   Lehto M., Laitinen S., Chinetti G., Johansson M., Ehnholm C., Staels B.,
+RA   Ikonen E., Olkkonen V.M.;
+RT   "The OSBP-related protein family in humans.";
+RL   J. Lipid Res. 42:1203-1213(2001).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 30-879 (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=10819331; DOI=10.1093/dnares/7.2.143;
+RA   Nagase T., Kikuno R., Ishikawa K., Hirosawa M., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XVII. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:143-150(2000).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=17428193; DOI=10.1042/bj20070176;
+RA   Suchanek M., Hynynen R., Wohlfahrt G., Lehto M., Johansson M., Saarinen H.,
+RA   Radzikowska A., Thiele C., Olkkonen V.M.;
+RT   "The mammalian oxysterol-binding protein-related proteins (ORPs) bind 25-
+RT   hydroxycholesterol in an evolutionarily conserved pocket.";
+RL   Biochem. J. 405:473-480(2007).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-747, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-747, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [14]
+RP   LACK OF IMPRINTING.
+RX   PubMed=20644730; DOI=10.1371/journal.pone.0011595;
+RA   Frost J.M., Udayashankar R., Moore H.D., Moore G.E.;
+RT   "Telomeric NAP1L4 and OSBPL5 of the KCNQ1 cluster, and the DECORIN gene are
+RT   not imprinted in human trophoblast stem cells.";
+RL   PLoS ONE 5:E11595-E11595(2010).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-747, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [16]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=21220512; DOI=10.1083/jcb.201004142;
+RA   Du X., Kumar J., Ferguson C., Schulz T.A., Ong Y.S., Hong W., Prinz W.A.,
+RA   Parton R.G., Brown A.J., Yang H.;
+RT   "A role for oxysterol-binding protein-related protein 5 in endosomal
+RT   cholesterol trafficking.";
+RL   J. Cell Biol. 192:121-135(2011).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-747, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [18]
+RP   FUNCTION.
+RX   PubMed=23934110; DOI=10.1038/nature12430;
+RA   Maeda K., Anand K., Chiapparino A., Kumar A., Poletto M., Kaksonen M.,
+RA   Gavin A.C.;
+RT   "Interactome map uncovers phosphatidylserine transport by oxysterol-binding
+RT   proteins.";
+RL   Nature 501:257-261(2013).
+RN   [19]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND MUTAGENESIS OF LEU-389 AND
+RP   478-HIS-HIS-479.
+RX   PubMed=26206935; DOI=10.1126/science.aab1370;
+RA   Chung J., Torta F., Masai K., Lucast L., Czapla H., Tanner L.B.,
+RA   Narayanaswamy P., Wenk M.R., Nakatsu F., De Camilli P.;
+RT   "PI4P/phosphatidylserine countertransport at ORP5- and ORP8-mediated ER-
+RT   plasma membrane contacts.";
+RL   Science 349:428-432(2015).
+RN   [20]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=30220461; DOI=10.1016/j.cell.2018.08.033;
+RA   Sandhu J., Li S., Fairall L., Pfisterer S.G., Gurnett J.E., Xiao X.,
+RA   Weston T.A., Vashi D., Ferrari A., Orozco J.L., Hartman C.L.,
+RA   Strugatsky D., Lee S.D., He C., Hong C., Jiang H., Bentolila L.A.,
+RA   Gatta A.T., Levine T.P., Ferng A., Lee R., Ford D.A., Young S.G.,
+RA   Ikonen E., Schwabe J.W.R., Tontonoz P.;
+RT   "Aster proteins facilitate nonvesicular plasma membrane to ER cholesterol
+RT   transport in mammalian cells.";
+RL   Cell 175:514-529(2018).
+CC   -!- FUNCTION: Lipid transporter involved in lipid countertransport between
+CC       the endoplasmic reticulum and the plasma membrane: specifically
+CC       exchanges phosphatidylserine with phosphatidylinositol 4-phosphate
+CC       (PI4P), delivering phosphatidylserine to the plasma membrane in
+CC       exchange for PI4P, which is degraded by the SAC1/SACM1L phosphatase in
+CC       the endoplasmic reticulum. Binds phosphatidylserine and PI4P in a
+CC       mutually exclusive manner (PubMed:23934110, PubMed:26206935). May
+CC       cooperate with NPC1 to mediate the exit of cholesterol from
+CC       endosomes/lysosomes (PubMed:21220512). Binds 25-hydroxycholesterol and
+CC       cholesterol (PubMed:17428193). {ECO:0000269|PubMed:17428193,
+CC       ECO:0000269|PubMed:21220512, ECO:0000269|PubMed:23934110,
+CC       ECO:0000269|PubMed:26206935}.
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum membrane
+CC       {ECO:0000269|PubMed:21220512, ECO:0000269|PubMed:26206935}; Single-pass
+CC       membrane protein {ECO:0000269|PubMed:21220512}. Note=Localizes to
+CC       endoplasmic reticulum-plasma membrane contact sites (EPCS). Localizes
+CC       to the cortical endoplasmic reticulum at the EPCS.
+CC       {ECO:0000269|PubMed:26206935, ECO:0000269|PubMed:30220461}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q9H0X9-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9H0X9-2; Sequence=VSP_043071;
+CC       Name=3;
+CC         IsoId=Q9H0X9-3; Sequence=VSP_057408, VSP_057409;
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed.
+CC       {ECO:0000269|PubMed:12504849, ECO:0000269|PubMed:21220512}.
+CC   -!- MISCELLANEOUS: According to a report, the gene is imprinted in
+CC       placenta, where it is predominantly expressed from the maternal allele
+CC       only. Not imprinted in other tissues (PubMed:12504849). According to
+CC       another report, it is not imprinted in trophoblast stem cells
+CC       (PubMed:20644730). {ECO:0000269|PubMed:12504849,
+CC       ECO:0000269|PubMed:20644730}.
+CC   -!- SIMILARITY: Belongs to the OSBP family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA96058.1; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Sequence of unknown origin in the N-terminal part.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB074006; BAB85686.1; -; mRNA.
+DR   EMBL; AF392453; AAL40666.1; -; mRNA.
+DR   EMBL; AF410430; AAK98617.1; -; mRNA.
+DR   EMBL; AL136918; CAB66852.1; -; mRNA.
+DR   EMBL; AK056510; BAG51735.1; -; mRNA.
+DR   EMBL; AK301003; BAG62622.1; -; mRNA.
+DR   EMBL; AC108448; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; KC877382; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; KF455307; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; KF455310; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471158; EAX02542.1; -; Genomic_DNA.
+DR   EMBL; CH471158; EAX02543.1; -; Genomic_DNA.
+DR   EMBL; BC032646; AAH32646.2; -; mRNA.
+DR   EMBL; BC039579; AAH39579.1; -; mRNA.
+DR   EMBL; AF331964; AAG53417.1; -; mRNA.
+DR   EMBL; AB040967; BAA96058.1; ALT_SEQ; mRNA.
+DR   CCDS; CCDS31343.1; -. [Q9H0X9-2]
+DR   CCDS; CCDS31344.1; -. [Q9H0X9-1]
+DR   RefSeq; NP_001137535.1; NM_001144063.1. [Q9H0X9-2]
+DR   RefSeq; NP_065947.1; NM_020896.3. [Q9H0X9-1]
+DR   RefSeq; NP_663613.1; NM_145638.2. [Q9H0X9-2]
+DR   RefSeq; XP_011518175.1; XM_011519873.2. [Q9H0X9-1]
+DR   RefSeq; XP_016872652.1; XM_017017163.1. [Q9H0X9-1]
+DR   AlphaFoldDB; Q9H0X9; -.
+DR   SMR; Q9H0X9; -.
+DR   BioGRID; 125380; 62.
+DR   DIP; DIP-52332N; -.
+DR   IntAct; Q9H0X9; 23.
+DR   MINT; Q9H0X9; -.
+DR   STRING; 9606.ENSP00000263650; -.
+DR   SwissLipids; SLP:000000527; -.
+DR   TCDB; 2.D.1.1.1; the pi4p/ps counter transporter (p/p-ct) family.
+DR   iPTMnet; Q9H0X9; -.
+DR   PhosphoSitePlus; Q9H0X9; -.
+DR   SwissPalm; Q9H0X9; -.
+DR   BioMuta; OSBPL5; -.
+DR   DMDM; 20139173; -.
+DR   EPD; Q9H0X9; -.
+DR   jPOST; Q9H0X9; -.
+DR   MassIVE; Q9H0X9; -.
+DR   MaxQB; Q9H0X9; -.
+DR   PaxDb; Q9H0X9; -.
+DR   PeptideAtlas; Q9H0X9; -.
+DR   ProteomicsDB; 5257; -.
+DR   ProteomicsDB; 80342; -. [Q9H0X9-1]
+DR   ProteomicsDB; 80343; -. [Q9H0X9-2]
+DR   Antibodypedia; 23281; 100 antibodies from 24 providers.
+DR   DNASU; 114879; -.
+DR   Ensembl; ENST00000263650.12; ENSP00000263650.7; ENSG00000021762.20. [Q9H0X9-1]
+DR   Ensembl; ENST00000348039.9; ENSP00000302872.8; ENSG00000021762.20. [Q9H0X9-2]
+DR   Ensembl; ENST00000389989.7; ENSP00000374639.3; ENSG00000021762.20. [Q9H0X9-2]
+DR   Ensembl; ENST00000525498.5; ENSP00000433342.1; ENSG00000021762.20. [Q9H0X9-3]
+DR   GeneID; 114879; -.
+DR   KEGG; hsa:114879; -.
+DR   MANE-Select; ENST00000263650.12; ENSP00000263650.7; NM_020896.4; NP_065947.1.
+DR   UCSC; uc001lxk.3; human. [Q9H0X9-1]
+DR   UCSC; uc010qxq.2; human.
+DR   AGR; HGNC:16392; -.
+DR   CTD; 114879; -.
+DR   DisGeNET; 114879; -.
+DR   GeneCards; OSBPL5; -.
+DR   HGNC; HGNC:16392; OSBPL5.
+DR   HPA; ENSG00000021762; Low tissue specificity.
+DR   MIM; 606733; gene.
+DR   neXtProt; NX_Q9H0X9; -.
+DR   OpenTargets; ENSG00000021762; -.
+DR   PharmGKB; PA32829; -.
+DR   VEuPathDB; HostDB:ENSG00000021762; -.
+DR   eggNOG; KOG2210; Eukaryota.
+DR   GeneTree; ENSGT00940000159535; -.
+DR   HOGENOM; CLU_012334_2_1_1; -.
+DR   InParanoid; Q9H0X9; -.
+DR   OMA; WESAKLW; -.
+DR   OrthoDB; 1018068at2759; -.
+DR   PhylomeDB; Q9H0X9; -.
+DR   TreeFam; TF312807; -.
+DR   PathwayCommons; Q9H0X9; -.
+DR   Reactome; R-HSA-1482801; Acyl chain remodelling of PS.
+DR   SignaLink; Q9H0X9; -.
+DR   BioGRID-ORCS; 114879; 11 hits in 1154 CRISPR screens.
+DR   ChiTaRS; OSBPL5; human.
+DR   GeneWiki; OSBPL5; -.
+DR   GenomeRNAi; 114879; -.
+DR   Pharos; Q9H0X9; Tbio.
+DR   PRO; PR:Q9H0X9; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q9H0X9; protein.
+DR   Bgee; ENSG00000021762; Expressed in pancreatic ductal cell and 182 other tissues.
+DR   ExpressionAtlas; Q9H0X9; baseline and differential.
+DR   Genevisible; Q9H0X9; HS.
+DR   GO; GO:0005829; C:cytosol; IBA:GO_Central.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0140268; C:endoplasmic reticulum-plasma membrane contact site; IDA:UniProtKB.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:HPA.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0015485; F:cholesterol binding; IDA:BHF-UCL.
+DR   GO; GO:0008142; F:oxysterol binding; NAS:UniProtKB.
+DR   GO; GO:0070273; F:phosphatidylinositol-4-phosphate binding; IDA:UniProtKB.
+DR   GO; GO:0001786; F:phosphatidylserine binding; IDA:UniProtKB.
+DR   GO; GO:0140343; F:phosphatidylserine transfer activity; IDA:GO_Central.
+DR   GO; GO:0005548; F:phospholipid transporter activity; TAS:Reactome.
+DR   GO; GO:0032934; F:sterol binding; IBA:GO_Central.
+DR   GO; GO:0015248; F:sterol transporter activity; IBA:GO_Central.
+DR   GO; GO:0008203; P:cholesterol metabolic process; NAS:UniProtKB.
+DR   GO; GO:0030301; P:cholesterol transport; NAS:UniProtKB.
+DR   GO; GO:0006893; P:Golgi to plasma membrane transport; NAS:UniProtKB.
+DR   GO; GO:0036150; P:phosphatidylserine acyl-chain remodeling; TAS:Reactome.
+DR   GO; GO:0015914; P:phospholipid transport; IDA:UniProtKB.
+DR   CDD; cd13286; PH_OPR5_ORP8; 1.
+DR   Gene3D; 1.10.287.2720; -; 1.
+DR   Gene3D; 2.40.160.120; -; 1.
+DR   Gene3D; 3.30.70.3490; -; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR037239; OSBP_sf.
+DR   InterPro; IPR000648; Oxysterol-bd.
+DR   InterPro; IPR018494; Oxysterol-bd_CS.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   PANTHER; PTHR10972; OXYSTEROL-BINDING PROTEIN-RELATED; 1.
+DR   PANTHER; PTHR10972:SF102; OXYSTEROL-BINDING PROTEIN-RELATED PROTEIN 5; 1.
+DR   Pfam; PF01237; Oxysterol_BP; 2.
+DR   Pfam; PF00169; PH; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SUPFAM; SSF144000; Oxysterol-binding protein-like; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   PROSITE; PS01013; OSBP; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Coiled coil; Endoplasmic reticulum; Lipid transport;
+KW   Lipid-binding; Membrane; Phosphoprotein; Reference proteome; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   CHAIN           1..879
+FT                   /note="Oxysterol-binding protein-related protein 5"
+FT                   /id="PRO_0000100373"
+FT   TRANSMEM        860..878
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          126..243
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   REGION          1..73
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          254..341
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          742..806
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          93..123
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        299..326
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        766..786
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         384..389
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol
+FT                   4-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58178"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         384..389
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-L-serine"
+FT                   /ligand_id="ChEBI:CHEBI:57262"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         446..449
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol
+FT                   4-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58178"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         449
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-L-serine"
+FT                   /ligand_id="ChEBI:CHEBI:57262"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         478..479
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol
+FT                   4-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58178"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         504
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-L-serine"
+FT                   /ligand_id="ChEBI:CHEBI:57262"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         670
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol
+FT                   4-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58178"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         674
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol
+FT                   4-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58178"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   BINDING         678
+FT                   /ligand="a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol
+FT                   4-phosphate)"
+FT                   /ligand_id="ChEBI:CHEBI:58178"
+FT                   /evidence="ECO:0000250|UniProtKB:Q02201"
+FT   MOD_RES         12
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9ER64"
+FT   MOD_RES         747
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1..48
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_057408"
+FT   VAR_SEQ         134..201
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_043071"
+FT   VAR_SEQ         161..201
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_057409"
+FT   VARIANT         90
+FT                   /note="T -> I (in dbSNP:rs6578323)"
+FT                   /id="VAR_060079"
+FT   VARIANT         774
+FT                   /note="A -> T (in dbSNP:rs2277301)"
+FT                   /id="VAR_020414"
+FT   MUTAGEN         389
+FT                   /note="L->D: Impaired lipid countertransport between the
+FT                   endoplasmic reticulum and the plasma membrane."
+FT                   /evidence="ECO:0000269|PubMed:26206935"
+FT   MUTAGEN         478..479
+FT                   /note="HH->AA: Impaired lipid countertransport between the
+FT                   endoplasmic reticulum and the plasma membrane."
+FT                   /evidence="ECO:0000269|PubMed:26206935"
+SQ   SEQUENCE   879 AA;  98616 MW;  7EF06544347CC60A CRC64;
+     MKEEAFLRRR FSLCPPSSTP QKVDPRKLTR NLLLSGDNEL YPLSPGKDME PNGPSLPRDE
+     GPPTPSSATK VPPAEYRLCN GSDKECVSPT ARVTKKETLK AQKENYRQEK KRATRQLLSA
+     LTDPSVVIMA DSLKIRGTLK SWTKLWCVLK PGVLLIYKTP KVGQWVGTVL LHCCELIERP
+     SKKDGFCFKL FHPLDQSVWA VKGPKGESVG SITQPLPSSY LIFRAASESD GRCWLDALEL
+     ALRCSSLLRL GTCKPGRDGE PGTSPDASPS SLCGLPASAT VHPDQDLFPL NGSSLENDAF
+     SDKSERENPE ESDTETQDHS RKTESGSDQS ETPGAPVRRG TTYVEQVQEE LGELGEASQV
+     ETVSEENKSL MWTLLKQLRP GMDLSRVVLP TFVLEPRSFL NKLSDYYYHA DLLSRAAVEE
+     DAYSRMKLVL RWYLSGFYKK PKGIKKPYNP ILGETFRCCW FHPQTDSRTF YIAEQVSHHP
+     PVSAFHVSNR KDGFCISGSI TAKSRFYGNS LSALLDGKAT LTFLNRAEDY TLTMPYAHCK
+     GILYGTMTLE LGGKVTIECA KNNFQAQLEF KLKPFFGGST SINQISGKIT SGEEVLASLS
+     GHWDRDVFIK EEGSGSSALF WTPSGEVRRQ RLRQHTVPLE EQTELESERL WQHVTRAISK
+     GDQHRATQEK FALEEAQRQR ARERQESLMP WKPQLFHLDP ITQEWHYRYE DHSPWDPLKD
+     IAQFEQDGIL RTLQQEAVAR QTTFLGSPGP RHERSGPDQR LRKASDQPSG HSQATESSGS
+     TPESCPELSD EEQDGDFVPG GESPCPRCRK EARRLQALHE AILSIREAQQ ELHRHLSAML
+     SSTARAAQAP TPGLLQSPRS WFLLCVFLAC QLFINHILK
+//

@@ -1,0 +1,567 @@
+ID   AT12A_HUMAN             Reviewed;        1039 AA.
+AC   P54707; Q13816; Q13817; Q16734; Q5W035; Q8N5U2;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   22-JUL-2008, sequence version 3.
+DT   28-JUN-2023, entry version 214.
+DE   RecName: Full=Potassium-transporting ATPase alpha chain 2;
+DE   AltName: Full=HK alpha 2 {ECO:0000250|UniProtKB:Q9TV52};
+DE   AltName: Full=Non-gastric H(+)/K(+) ATPase subunit alpha {ECO:0000303|PubMed:16914892};
+DE            EC=7.2.2.19 {ECO:0000269|PubMed:11341842, ECO:0000269|PubMed:7485470, ECO:0000269|PubMed:8853415};
+DE   AltName: Full=Non-gastric Na(+)/K(+) ATPase subunit alpha {ECO:0000303|PubMed:9774385};
+DE            EC=7.2.2.13 {ECO:0000269|PubMed:11341842, ECO:0000269|PubMed:9774385};
+DE   AltName: Full=Proton pump;
+DE   AltName: Full=Sodium pump {ECO:0000303|PubMed:9774385};
+GN   Name=ATP12A {ECO:0000303|PubMed:29391451,
+GN   ECO:0000312|HGNC:HGNC:13816};
+GN   Synonyms=ATP1AL1 {ECO:0000303|PubMed:7485470};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Kidney, and Skin;
+RX   PubMed=8045293; DOI=10.1016/0014-5793(94)00655-5;
+RA   Grishin A.V., Sverdlov V.E., Kostina M.B., Modyanov N.N.;
+RT   "Cloning and characterization of the entire cDNA encoded by ATP1AL1 -- a
+RT   member of the human Na,K/H,K-ATPase gene family.";
+RL   FEBS Lett. 349:144-150(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8838794; DOI=10.1006/geno.1996.0125;
+RA   Sverdlov V.E., Kostina M.B., Modyanov N.N.;
+RT   "Genomic organization of the human ATP1AL1 gene encoding a ouabain-
+RT   sensitive H,K-ATPase.";
+RL   Genomics 32:317-327(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Trachea;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057823; DOI=10.1038/nature02379;
+RA   Dunham A., Matthews L.H., Burton J., Ashurst J.L., Howe K.L.,
+RA   Ashcroft K.J., Beare D.M., Burford D.C., Hunt S.E., Griffiths-Jones S.,
+RA   Jones M.C., Keenan S.J., Oliver K., Scott C.E., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Andrews D.T., Ashwell R.I.S., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Bannerjee R., Barlow K.F., Bates K., Beasley H., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burrill W., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M.E., Clark S.Y., Clarke G., Clee C.M., Clegg S.C.,
+RA   Cobley V., Collins J.E., Corby N., Coville G.J., Deloukas P., Dhami P.,
+RA   Dunham I., Dunn M., Earthrowl M.E., Ellington A.G., Faulkner L.,
+RA   Frankish A.G., Frankland J., French L., Garner P., Garnett J.,
+RA   Gilbert J.G.R., Gilson C.J., Ghori J., Grafham D.V., Gribble S.M.,
+RA   Griffiths C., Hall R.E., Hammond S., Harley J.L., Hart E.A., Heath P.D.,
+RA   Howden P.J., Huckle E.J., Hunt P.J., Hunt A.R., Johnson C., Johnson D.,
+RA   Kay M., Kimberley A.M., King A., Laird G.K., Langford C.J., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Lloyd C., Loveland J.E., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., McLaren S.J., McMurray A., Milne S.,
+RA   Moore M.J.F., Nickerson T., Palmer S.A., Pearce A.V., Peck A.I., Pelan S.,
+RA   Phillimore B., Porter K.M., Rice C.M., Searle S., Sehra H.K., Shownkeen R.,
+RA   Skuce C.D., Smith M., Steward C.A., Sycamore N., Tester J., Thomas D.W.,
+RA   Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Wilming L., Wray P.W., Wright M.W., Young L.,
+RA   Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Beck S., Bentley D.R.,
+RA   Rogers J., Ross M.T.;
+RT   "The DNA sequence and analysis of human chromosome 13.";
+RL   Nature 428:522-528(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 77-348 AND 681-780.
+RX   PubMed=1847115; DOI=10.1016/0014-5793(91)80091-g;
+RA   Modyanov N.N., Petrukhin K.E., Sverdlov V.E., Grishin A.V., Orlova M.Y.,
+RA   Kostina M.B., Makarevich O.I., Broude N.E., Monastyrskaya G.S.,
+RA   Sverdlov E.D.;
+RT   "The family of human Na,K-ATPase genes. ATP1AL1 gene is transcriptionally
+RT   competent and probably encodes the related ion transport ATPase.";
+RL   FEBS Lett. 278:91-94(1991).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 183-253.
+RX   PubMed=3035563; DOI=10.1073/pnas.84.12.4039;
+RA   Shull M.M., Lingrel J.B.;
+RT   "Multiple genes encode the human Na+,K+-ATPase catalytic subunit.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84:4039-4043(1987).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 357-412.
+RX   PubMed=3036582; DOI=10.1016/0014-5793(87)80677-4;
+RA   Sverdlov E.D., Monastyrskaya G.S., Broude N.E., Ushkaryov Y.A.,
+RA   Allikmets R.L., Melkov A.M., Smirnov Y.V., Malyshev I.V., Dulubova I.E.,
+RA   Petrukhin K.E., Gryshin A.V., Kiyatkin N.I., Kostina M.B., Sverdlov V.E.,
+RA   Modyanov N.N., Ovchinnikov Y.A.;
+RT   "The family of human Na+,K+-ATPase genes. No less than five genes and/or
+RT   pseudogenes related to the alpha-subunit.";
+RL   FEBS Lett. 217:275-278(1987).
+RN   [10]
+RP   FUNCTION, CATALYTIC ACTIVITY, ACTIVITY REGULATION, AND SUBUNIT.
+RX   PubMed=7485470; DOI=10.1152/ajpcell.1995.269.4.c992;
+RA   Modyanov N.N., Mathews P.M., Grishin A.V., Beguin P., Beggah A.T.,
+RA   Rossier B.C., Horisberger J.D., Geering K.;
+RT   "Human ATP1AL1 gene encodes a ouabain-sensitive H-K-ATPase.";
+RL   Am. J. Physiol. 269:C992-C997(1995).
+RN   [11]
+RP   FUNCTION, CATALYTIC ACTIVITY, ACTIVITY REGULATION, AND SUBUNIT.
+RX   PubMed=8853415; DOI=10.1152/ajprenal.1996.271.3.f539;
+RA   Grishin A.V., Bevensee M.O., Modyanov N.N., Rajendran V., Boron W.F.,
+RA   Caplan M.J.;
+RT   "Functional expression of the cDNA encoded by the human ATP1AL1 gene.";
+RL   Am. J. Physiol. 271:F539-F551(1996).
+RN   [12]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=9872395; DOI=10.1016/s0014-5793(98)01483-5;
+RA   Pestov N.B., Romanova L.G., Korneenko T.V., Egorov M.V., Kostina M.B.,
+RA   Sverdlov V.E., Askari A., Shakhparonov M.I., Modyanov N.N.;
+RT   "Ouabain-sensitive H,K-ATPase: tissue-specific expression of the mammalian
+RT   genes encoding the catalytic alpha subunit.";
+RL   FEBS Lett. 440:320-324(1998).
+RN   [13]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=9774385; DOI=10.1074/jbc.273.43.27772;
+RA   Grishin A.V., Caplan M.J.;
+RT   "ATP1AL1, a member of the non-gastric H,K-ATPase family, functions as a
+RT   sodium pump.";
+RL   J. Biol. Chem. 273:27772-27778(1998).
+RN   [14]
+RP   FUNCTION, CATALYTIC ACTIVITY, ACTIVITY REGULATION, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RX   PubMed=11341842; DOI=10.1021/bi010191y;
+RA   Adams G., Tillekeratne M., Yu C., Pestov N.B., Modyanov N.N.;
+RT   "Catalytic function of nongastric H,K-ATPase expressed in Sf-21 insect
+RT   cells.";
+RL   Biochemistry 40:5765-5776(2001).
+RN   [15]
+RP   SUBCELLULAR LOCATION, AND MUTAGENESIS OF LYS-329.
+RX   PubMed=16914892; DOI=10.1159/000095169;
+RA   Lerner M., Lemke D., Bertram H., Schillers H., Oberleithner H.,
+RA   Caplan M.J., Reinhardt J.;
+RT   "An extracellular loop of the human non-gastric H,K-ATPase alpha-subunit is
+RT   involved in apical plasma membrane polarization.";
+RL   Cell. Physiol. Biochem. 18:75-84(2006).
+RN   [16]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=22179016; DOI=10.1159/000335860;
+RA   Streif D., Iglseder E., Hauser-Kronberger C., Fink K.G., Jakab M.,
+RA   Ritter M.;
+RT   "Expression of the non-gastric H+/K+ ATPase ATP12A in normal and
+RT   pathological human prostate tissue.";
+RL   Cell. Physiol. Biochem. 28:1287-1294(2011).
+RN   [17]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [18]
+RP   FUNCTION, TISSUE SPECIFICITY, AND INDUCTION BY IL13.
+RX   PubMed=29391451; DOI=10.1038/s41598-018-20444-8;
+RA   Lennox A.T., Coburn S.L., Leech J.A., Heidrich E.M., Kleyman T.R.,
+RA   Wenzel S.E., Pilewski J.M., Corcoran T.E., Myerburg M.M.;
+RT   "ATP12A promotes mucus dysfunction during Type 2 airway inflammation.";
+RL   Sci. Rep. 8:2109-2109(2018).
+CC   -!- FUNCTION: The catalytic subunit of a H(+)/K(+) ATPase and/or Na(+)/K(+)
+CC       ATPase pump which transports K(+) ions in exchange for Na(+) and/or
+CC       H(+) ions across the apical membrane of epithelial cells. Uses ATP as
+CC       an energy source to pump K(+) ions into the cell while transporting
+CC       Na(+) and/or H(+) ions to the extracellular compartment
+CC       (PubMed:9774385, PubMed:7485470, PubMed:8853415, PubMed:11341842).
+CC       Involved in the maintenance of electrolyte homeostasis through K(+) ion
+CC       absorption in kidney and colon (By similarity). In the airway
+CC       epithelium, may play a primary role in mucus acidification regulating
+CC       its viscosity and clearance (PubMed:29391451).
+CC       {ECO:0000250|UniProtKB:Q9Z1W8, ECO:0000269|PubMed:11341842,
+CC       ECO:0000269|PubMed:29391451, ECO:0000269|PubMed:7485470,
+CC       ECO:0000269|PubMed:8853415, ECO:0000269|PubMed:9774385}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H(+)(in) + H2O + K(+)(out) = ADP + 2 H(+)(out) +
+CC         K(+)(in) + phosphate; Xref=Rhea:RHEA:22044, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:29103, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=7.2.2.19;
+CC         Evidence={ECO:0000269|PubMed:11341842, ECO:0000269|PubMed:7485470,
+CC         ECO:0000269|PubMed:8853415};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:22045;
+CC         Evidence={ECO:0000305|PubMed:11341842, ECO:0000305|PubMed:7485470,
+CC         ECO:0000305|PubMed:8853415};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O + K(+)(out) + Na(+)(in) = ADP + H(+) + K(+)(in) +
+CC         Na(+)(out) + phosphate; Xref=Rhea:RHEA:18353, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:29101, ChEBI:CHEBI:29103,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:43474, ChEBI:CHEBI:456216;
+CC         EC=7.2.2.13; Evidence={ECO:0000269|PubMed:11341842,
+CC         ECO:0000269|PubMed:9774385};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:18354;
+CC         Evidence={ECO:0000305|PubMed:11341842, ECO:0000305|PubMed:9774385};
+CC   -!- ACTIVITY REGULATION: The ATPase activity is regulated by monovalent
+CC       cations and pH. Up-regulated by K(+) ions in a dose-dependent way.
+CC       Down-regulated by Na(+) ions (PubMed:11341842). Inhibited by
+CC       Na(+)/K(+)-ATPase inhibitor ouabain and H(+)/K(+)-ATPase inhibitor SCH-
+CC       28080 with an intermediate sensitivity to completely resistant
+CC       Na(+)/K(+)-ATPases and highly sensitive H(+)/K(+)-ATPases
+CC       (PubMed:7485470, PubMed:8853415, PubMed:11341842).
+CC       {ECO:0000269|PubMed:11341842, ECO:0000269|PubMed:7485470,
+CC       ECO:0000269|PubMed:8853415}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.2-7.8. {ECO:0000269|PubMed:11341842};
+CC   -!- SUBUNIT: The ATPase pump is composed of a catalytic alpha subunit and
+CC       an auxiliary non-catalytic beta subunit. The alpha subunit pairs with
+CC       the beta subunit of gastric H(+)/K(+) ATPase ATP4B or the beta subunit
+CC       of Na(+)/K(+) ATPases ATP1B1 and ATP1B3; this interaction is required
+CC       for the formation of a functionally active pump and its targeting at
+CC       the plasma membrane. {ECO:0000250|UniProtKB:P54708,
+CC       ECO:0000269|PubMed:7485470, ECO:0000269|PubMed:8853415}.
+CC   -!- SUBCELLULAR LOCATION: Apical cell membrane
+CC       {ECO:0000269|PubMed:16914892}; Multi-pass membrane protein
+CC       {ECO:0000255}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P54707-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P54707-2; Sequence=VSP_034640;
+CC   -!- TISSUE SPECIFICITY: Expressed in airway epithelial cells (at protein
+CC       level) (PubMed:29391451). Found in skin and kidney. Detected in
+CC       prostate basal cells (at protein level). Expression is increased in
+CC       benign prostate hyperplasia and tumor tissues (at protein level).
+CC       {ECO:0000269|PubMed:22179016, ECO:0000269|PubMed:29391451,
+CC       ECO:0000269|PubMed:9872395}.
+CC   -!- INDUCTION: Up-regulated by inflammatory cytokine IL13.
+CC       {ECO:0000269|PubMed:29391451}.
+CC   -!- SIMILARITY: Belongs to the cation transport ATPase (P-type) (TC 3.A.3)
+CC       family. Type IIC subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U02076; AAB37755.1; -; mRNA.
+DR   EMBL; L42563; AAC37589.2; -; Genomic_DNA.
+DR   EMBL; L42558; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42559; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42565; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42566; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42567; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42560; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42561; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42568; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42562; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; L42569; AAC37589.2; JOINED; Genomic_DNA.
+DR   EMBL; AK292968; BAF85657.1; -; mRNA.
+DR   EMBL; AL157364; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471075; EAX08346.1; -; Genomic_DNA.
+DR   EMBL; CH471075; EAX08345.1; -; Genomic_DNA.
+DR   EMBL; BC031609; AAH31609.1; -; mRNA.
+DR   EMBL; X69823; CAA49477.1; -; Genomic_DNA.
+DR   EMBL; X69824; CAA49478.1; -; Genomic_DNA.
+DR   EMBL; M16797; AAA51802.1; -; mRNA.
+DR   EMBL; M27574; AAA35576.1; -; Genomic_DNA.
+DR   CCDS; CCDS31948.1; -. [P54707-1]
+DR   CCDS; CCDS53858.1; -. [P54707-2]
+DR   PIR; A26641; A26641.
+DR   PIR; D27795; D27795.
+DR   PIR; E27397; E27397.
+DR   PIR; I38401; I38401.
+DR   PIR; S13028; S13028.
+DR   PIR; S31504; S31504.
+DR   RefSeq; NP_001172014.1; NM_001185085.1. [P54707-2]
+DR   RefSeq; NP_001667.4; NM_001676.5. [P54707-1]
+DR   AlphaFoldDB; P54707; -.
+DR   SMR; P54707; -.
+DR   BioGRID; 106969; 214.
+DR   IntAct; P54707; 59.
+DR   STRING; 9606.ENSP00000218548; -.
+DR   BindingDB; P54707; -.
+DR   ChEMBL; CHEMBL2933; -.
+DR   TCDB; 3.A.3.1.13; the p-type atpase (p-atpase) superfamily.
+DR   iPTMnet; P54707; -.
+DR   PhosphoSitePlus; P54707; -.
+DR   SwissPalm; P54707; -.
+DR   BioMuta; ATP12A; -.
+DR   DMDM; 212287925; -.
+DR   EPD; P54707; -.
+DR   jPOST; P54707; -.
+DR   MassIVE; P54707; -.
+DR   MaxQB; P54707; -.
+DR   PaxDb; P54707; -.
+DR   PeptideAtlas; P54707; -.
+DR   ProteomicsDB; 56695; -. [P54707-1]
+DR   ProteomicsDB; 56696; -. [P54707-2]
+DR   Antibodypedia; 22475; 149 antibodies from 28 providers.
+DR   DNASU; 479; -.
+DR   Ensembl; ENST00000218548.10; ENSP00000218548.6; ENSG00000075673.12. [P54707-2]
+DR   Ensembl; ENST00000381946.5; ENSP00000371372.3; ENSG00000075673.12. [P54707-1]
+DR   GeneID; 479; -.
+DR   KEGG; hsa:479; -.
+DR   MANE-Select; ENST00000381946.5; ENSP00000371372.3; NM_001676.7; NP_001667.4.
+DR   UCSC; uc001upp.4; human. [P54707-1]
+DR   AGR; HGNC:13816; -.
+DR   CTD; 479; -.
+DR   DisGeNET; 479; -.
+DR   GeneCards; ATP12A; -.
+DR   HGNC; HGNC:13816; ATP12A.
+DR   HPA; ENSG00000075673; Group enriched (esophagus, kidney, lymphoid tissue, placenta, skin).
+DR   MIM; 182360; gene.
+DR   neXtProt; NX_P54707; -.
+DR   OpenTargets; ENSG00000075673; -.
+DR   PharmGKB; PA25104; -.
+DR   VEuPathDB; HostDB:ENSG00000075673; -.
+DR   eggNOG; KOG0203; Eukaryota.
+DR   GeneTree; ENSGT00940000159259; -.
+DR   HOGENOM; CLU_002360_4_3_1; -.
+DR   InParanoid; P54707; -.
+DR   OMA; RRGKFCA; -.
+DR   OrthoDB; 203629at2759; -.
+DR   PhylomeDB; P54707; -.
+DR   TreeFam; TF312838; -.
+DR   BRENDA; 7.2.2.19; 2681.
+DR   PathwayCommons; P54707; -.
+DR   Reactome; R-HSA-936837; Ion transport by P-type ATPases.
+DR   SignaLink; P54707; -.
+DR   BioGRID-ORCS; 479; 8 hits in 1144 CRISPR screens.
+DR   ChiTaRS; ATP12A; human.
+DR   GeneWiki; ATP12A; -.
+DR   GenomeRNAi; 479; -.
+DR   Pharos; P54707; Tchem.
+DR   PRO; PR:P54707; -.
+DR   Proteomes; UP000005640; Chromosome 13.
+DR   RNAct; P54707; protein.
+DR   Bgee; ENSG00000075673; Expressed in trachea and 71 other tissues.
+DR   Genevisible; P54707; HS.
+DR   GO; GO:0015629; C:actin cytoskeleton; IDA:HPA.
+DR   GO; GO:0016324; C:apical plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0016323; C:basolateral plasma membrane; IEA:Ensembl.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0005889; C:potassium:proton exchanging ATPase complex; TAS:ProtInc.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008900; F:P-type potassium:proton transporter activity; IDA:UniProtKB.
+DR   GO; GO:0005391; F:P-type sodium:potassium-exchanging transporter activity; IDA:UniProtKB.
+DR   GO; GO:0030007; P:intracellular potassium ion homeostasis; IBA:GO_Central.
+DR   GO; GO:0006883; P:intracellular sodium ion homeostasis; IBA:GO_Central.
+DR   GO; GO:1990573; P:potassium ion import across plasma membrane; IBA:GO_Central.
+DR   GO; GO:1902600; P:proton transmembrane transport; IBA:GO_Central.
+DR   GO; GO:0006885; P:regulation of pH; IEA:Ensembl.
+DR   GO; GO:0036376; P:sodium ion export across plasma membrane; IBA:GO_Central.
+DR   CDD; cd02608; P-type_ATPase_Na-K_like; 1.
+DR   Gene3D; 3.40.1110.10; Calcium-transporting ATPase, cytoplasmic domain N; 1.
+DR   Gene3D; 2.70.150.10; Calcium-transporting ATPase, cytoplasmic transduction domain A; 1.
+DR   Gene3D; 1.20.1110.10; Calcium-transporting ATPase, transmembrane domain; 1.
+DR   Gene3D; 3.40.50.1000; HAD superfamily/HAD-like; 1.
+DR   InterPro; IPR006068; ATPase_P-typ_cation-transptr_C.
+DR   InterPro; IPR004014; ATPase_P-typ_cation-transptr_N.
+DR   InterPro; IPR023299; ATPase_P-typ_cyto_dom_N.
+DR   InterPro; IPR018303; ATPase_P-typ_P_site.
+DR   InterPro; IPR023298; ATPase_P-typ_TM_dom_sf.
+DR   InterPro; IPR008250; ATPase_P-typ_transduc_dom_A_sf.
+DR   InterPro; IPR036412; HAD-like_sf.
+DR   InterPro; IPR023214; HAD_sf.
+DR   InterPro; IPR005775; P-type_ATPase_IIC.
+DR   InterPro; IPR001757; P_typ_ATPase.
+DR   InterPro; IPR044492; P_typ_ATPase_HD_dom.
+DR   PANTHER; PTHR43294:SF1; POTASSIUM-TRANSPORTING ATPASE ALPHA CHAIN 2; 1.
+DR   PANTHER; PTHR43294; SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA; 1.
+DR   Pfam; PF13246; Cation_ATPase; 1.
+DR   Pfam; PF00689; Cation_ATPase_C; 1.
+DR   Pfam; PF00690; Cation_ATPase_N; 1.
+DR   Pfam; PF00122; E1-E2_ATPase; 1.
+DR   Pfam; PF00702; Hydrolase; 1.
+DR   PRINTS; PR00119; CATATPASE.
+DR   PRINTS; PR00121; NAKATPASE.
+DR   SFLD; SFLDS00003; Haloacid_Dehalogenase; 1.
+DR   SFLD; SFLDF00027; p-type_atpase; 1.
+DR   SMART; SM00831; Cation_ATPase_N; 1.
+DR   SUPFAM; SSF81653; Calcium ATPase, transduction domain A; 1.
+DR   SUPFAM; SSF81665; Calcium ATPase, transmembrane domain M; 1.
+DR   SUPFAM; SSF56784; HAD-like; 1.
+DR   SUPFAM; SSF81660; Metal cation-transporting ATPase, ATP-binding domain N; 1.
+DR   PROSITE; PS00154; ATPASE_E1_E2; 1.
+DR   TIGRFAMs; TIGR01106; ATPase-IIC_X-K; 1.
+DR   TIGRFAMs; TIGR01494; ATPase_P-type; 2.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; ATP-binding; Cell membrane; Hydrogen ion transport;
+KW   Ion transport; Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+KW   Phosphoprotein; Potassium; Potassium transport; Reference proteome; Sodium;
+KW   Sodium transport; Translocase; Transmembrane; Transmembrane helix;
+KW   Transport.
+FT   CHAIN           1..1039
+FT                   /note="Potassium-transporting ATPase alpha chain 2"
+FT                   /id="PRO_0000046260"
+FT   TOPO_DOM        1..102
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        103..123
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        124..146
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        147..167
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        168..303
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        304..323
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        324..335
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        336..353
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        354..787
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        788..807
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        808..817
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        818..838
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        839..858
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        859..881
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        882..933
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        934..953
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        954..967
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        968..986
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        987..1001
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        1002..1022
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1023..1039
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   ACT_SITE        391
+FT                   /note="4-aspartylphosphate intermediate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         732
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         736
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         958
+FT                   /note="Phosphoserine; by PKA"
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         266
+FT                   /note="E -> EASTSPV (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_034640"
+FT   VARIANT         863
+FT                   /note="P -> L (in dbSNP:rs2289909)"
+FT                   /id="VAR_020186"
+FT   MUTAGEN         329
+FT                   /note="K->E: Abolishes targeting to the apical plasma
+FT                   membrane."
+FT                   /evidence="ECO:0000269|PubMed:16914892"
+FT   CONFLICT        3
+FT                   /note="Q -> QLFQ (in Ref. 2; AAC37589)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        145
+FT                   /note="V -> VRLWGVQV (in Ref. 7; CAA49477)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        225..227
+FT                   /note="Missing (in Ref. 7; CAA49477)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        266
+FT                   /note="E -> V (in Ref. 7; CAA49477)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        382
+FT                   /note="L -> P (in Ref. 9; AAA35576)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        724..727
+FT                   /note="DAVV -> VGGQ (in Ref. 7; CAA49478)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        772..773
+FT                   /note="SI -> LH (in Ref. 7; CAA49478)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1039 AA;  115511 MW;  C906897E11FA406C CRC64;
+     MHQKTPEIYS VELSGTKDIV KTDKGDGKEK YRGLKNNCLE LKKKNHKEEF QKELHLDDHK
+     LSNRELEEKY GTDIIMGLSS TRAAELLARD GPNSLTPPKQ TPEIVKFLKQ MVGGFSILLW
+     VGAFLCWIAY GIQYSSDKSA SLNNVYLGCV LGLVVILTGI FAYYQEAKST NIMSSFNKMI
+     PQQALVIRDS EKKTIPSEQL VVGDIVEVKG GDQIPADIRV LSSQGCRVDN SSLTGESEPQ
+     PRSSEFTHEN PLETKNICFY STTCLEGTVT GMVINTGDRT IIGHIASLAS GVGNEKTPIA
+     IEIEHFVHIV AGVAVSIGIL FFIIAVSLKY QVLDSIIFLI GIIVANVPEG LLATVTVTLS
+     LTAKRMAKKN CLVKNLEAVE TLGSTSIICS DKTGTLTQNR MTVAHLWFDN QIFVADTSED
+     HSNQVFDQSS RTWASLSKII TLCNRAEFKP GQENVPIMKK AVIGDASETA LLKFSEVILG
+     DVMEIRKRNR KVAEIPFNST NKFQLSIHEM DDPHGKRFLM VMKGAPERIL EKCSTIMING
+     EEHPLDKSTA KTFHTAYMEL GGLGERVLGF CHLYLPADEF PETYSFDIDA MNFPTSNLCF
+     VGLLSMIDPP RSTVPDAVTK CRSAGIKVIM VTGDHPITAK AIAKSVGIIS ANSETVEDIA
+     HRLNIAVEQV NKRDAKAAVV TGMELKDMSS EQLDEILANY QEIVFARTSP QQKLIIVEGC
+     QRQDAVVAVT GDGVNDSPAL KKADIGIAMG IAGSDAAKNA ADMVLLDDNF ASIVTGVEEG
+     RLIFDNLKKT IAYSLTKNIA ELCPFLIYII VGLPLPIGTI TILFIDLGTD IIPSIALAYE
+     KAESDIMNRK PRHKNKDRLV NQPLAVYSYL HIGLMQALGA FLVYFTVYAQ EGFLPRTLIN
+     LRVEWEKDYV NDLKDSYGQE WTRYQREYLE WTGYTAFFVG ILVQQIADLI IRKTRRNSIF
+     QQGLFRNKVI WVGITSQIII GLILSYGLGS VTALSFTMLR AQYWFVAVPH AILIWVYDEV
+     RKLFIRLYPG SWWDKNMYY
+//

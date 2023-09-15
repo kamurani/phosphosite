@@ -1,0 +1,868 @@
+ID   P_HUMAN                 Reviewed;         838 AA.
+AC   Q04671; Q15211; Q15212; Q96EN1; Q9UMI5;
+DT   01-JUN-1994, integrated into UniProtKB/Swiss-Prot.
+DT   21-MAR-2006, sequence version 2.
+DT   28-JUN-2023, entry version 214.
+DE   RecName: Full=P protein;
+DE   AltName: Full=Melanocyte-specific transporter protein;
+DE   AltName: Full=Pink-eyed dilution protein homolog;
+GN   Name=OCA2 {ECO:0000312|HGNC:HGNC:8101}; Synonyms=D15S12, P;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 3), AND VARIANT ASP-257.
+RX   PubMed=8421497; DOI=10.1038/361072a0;
+RA   Rinchik E.M., Bultman S.J., Horsthemke B., Lee S.-T., Strunk K.M.,
+RA   Spritz R.A., Avidano K.A., Jong M.T.C., Nicholls R.D.;
+RT   "A gene for the mouse pink-eyed dilution locus and for human type II
+RT   oculocutaneous albinism.";
+RL   Nature 361:72-76(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORMS 1 AND 3), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND VARIANTS TRP-305; GLN-419; PHE-440; ARG-615 AND THR-722.
+RX   PubMed=7601462; DOI=10.1016/0888-7543(95)80220-g;
+RA   Lee S.-T., Nicholls R.D., Jong M.T.C., Fukai K., Spritz R.A.;
+RT   "Organization and sequence of the human P gene and identification of a new
+RT   family of transport proteins.";
+RL   Genomics 26:354-363(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 288-419, AND DISEASE.
+RC   TISSUE=Skin;
+RX   PubMed=1509264; DOI=10.1126/science.257.5073.1121;
+RA   Gardner J.M., Nakatsu Y., Gondo Y., Lee S., Lyon M.F., King R.A.,
+RA   Brilliant M.H.;
+RT   "The mouse pink-eyed dilution gene: association with human Prader-Willi and
+RT   Angelman syndromes.";
+RL   Science 257:1121-1124(1992).
+RN   [5]
+RP   FUNCTION.
+RX   PubMed=11310796; DOI=10.1034/j.1600-0749.2001.140203.x;
+RA   Brilliant M.H.;
+RT   "The mouse p (pink-eyed dilution) and human P genes, oculocutaneous
+RT   albinism type 2 (OCA2), and melanosomal pH.";
+RL   Pigment Cell Res. 14:86-93(2001).
+RN   [6]
+RP   POSSIBLE INVOLVEMENT IN SKIN COLOR VARIATION.
+RX   PubMed=11601658; DOI=10.1034/j.1600-0749.2001.140508.x;
+RA   Manga P., Orlow S.J.;
+RT   "Inverse correlation between pink-eyed dilution protein expression and
+RT   induction of melanogenesis by bafilomycin A1.";
+RL   Pigment Cell Res. 14:362-367(2001).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=15262401; DOI=10.1016/j.tig.2004.06.010;
+RA   Sturm R.A., Frudakis T.N.;
+RT   "Eye colour: portals into pigmentation genes and ancestry.";
+RL   Trends Genet. 20:327-332(2004).
+RN   [8]
+RP   REVIEW ON OCA2 VARIANTS.
+RX   PubMed=10094567;
+RX   DOI=10.1002/(sici)1098-1004(1999)13:2<99::aid-humu2>3.0.co;2-c;
+RA   Oetting W.S., King R.A.;
+RT   "Molecular basis of albinism: mutations and polymorphisms of pigmentation
+RT   genes associated with albinism.";
+RL   Hum. Mutat. 13:99-115(1999).
+RN   [9]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=22234890; DOI=10.1101/gr.128652.111;
+RA   Visser M., Kayser M., Palstra R.J.;
+RT   "HERC2 rs12913832 modulates human pigmentation by attenuating chromatin-
+RT   loop formation between a long-range enhancer and the OCA2 promoter.";
+RL   Genome Res. 22:446-455(2012).
+RN   [10]
+RP   FUNCTION, DEVELOPMENTAL STAGE, AND TISSUE SPECIFICITY.
+RX   PubMed=32966160; DOI=10.1091/mbc.e20-03-0200;
+RA   Le L., Escobar I.E., Ho T., Lefkovith A.J., Latteri E.,
+RA   Haltaufderhyde K.D., Dennis M.K., Plowright L., Sviderskaya E.V.,
+RA   Bennett D.C., Oancea E., Marks M.S.;
+RT   "SLC45A2 protein stability and regulation of melanosome pH determine
+RT   melanocyte pigmentation.";
+RL   Mol. Biol. Cell 31:2687-2702(2020).
+RN   [11]
+RP   VARIANTS OCA2.
+RX   PubMed=7874125;
+RA   Lee S.-T., Nicholls R.D., Schnur R.E., Guida L.C., Lu-Kuo J., Spinner N.B.,
+RA   Zackai E.H., Spritz R.A.;
+RT   "Diverse mutations of the P gene among African-Americans with type II
+RT   (tyrosinase-positive) oculocutaneous albinism (OCA2).";
+RL   Hum. Mol. Genet. 3:2047-2051(1994).
+RN   [12]
+RP   VARIANTS OCA2.
+RX   PubMed=7762554;
+RA   Spritz R.A., Fukai K., Holmes S.A., Luande J.;
+RT   "Frequent intragenic deletion of the P gene in Tanzanian patients with type
+RT   II oculocutaneous albinism (OCA2).";
+RL   Am. J. Hum. Genet. 56:1320-1323(1995).
+RN   [13]
+RP   VARIANTS OCA2.
+RX   PubMed=9259203;
+RX   DOI=10.1002/(sici)1098-1004(1997)10:2<175::aid-humu12>3.0.co;2-x;
+RA   Spritz R.A., Lee S.-T., Fukai K., Brondum-Nielsen K., Chitayat D.,
+RA   Lipson M.H., Musarella M.A., Rosenmann A., Weleber R.G.;
+RT   "Novel mutations of the P gene in type II oculocutaneous albinism (OCA2).";
+RL   Hum. Mutat. 10:175-177(1997).
+RN   [14]
+RP   VARIANTS OCA2 ARG-86; PHE-112; VAL-368; ILE-592; PRO-724 AND VAL-787, AND
+RP   VARIANT ASP-257.
+RX   PubMed=10671067;
+RA   Oetting W.S., Gardner J.M., Fryer J.P., Ching A., Durham-Pierre D.,
+RA   King R.A., Brilliant M.H.;
+RT   "Mutations of the human P gene associated with type II oculocutaneous
+RT   albinism (OCA2).";
+RL   Hum. Mutat. 12:434-434(1998).
+RN   [15]
+RP   VARIANTS OCA2 GLY-290; ILE-443; GLU-614; LEU-617; CYS-679; CYS-720; ARG-795
+RP   AND VAL-833 DEL, AND VARIANTS TRP-305 AND GLN-419.
+RX   PubMed=10987646; DOI=10.1007/s004390051090;
+RA   Passmore L.A., Kaesmann-Kellner B., Weber B.H.F.;
+RT   "Novel and recurrent mutations in the tyrosinase gene and the P gene in the
+RT   German albino population.";
+RL   Hum. Genet. 105:200-210(1999).
+RN   [16]
+RP   VARIANT OCA2 VAL-334, AND VARIANTS UNCLASSIFIED OCA MET-350; THR-370;
+RP   LYS-678; PHE-688 AND LEU-743.
+RX   PubMed=10649493;
+RX   DOI=10.1002/(sici)1098-1004(200002)15:2<166::aid-humu5>3.0.co;2-z;
+RA   Kerr R., Stevens G., Manga P., Salm S., John P., Haw T., Ramsay M.;
+RT   "Identification of P gene mutations in individuals with oculocutaneous
+RT   albinism in sub-Saharan Africa.";
+RL   Hum. Mutat. 15:166-172(2000).
+RN   [17]
+RP   VARIANTS TRP-305 AND GLN-419, AND INVOLVEMENT IN DETERMINATION OF EYE
+RP   COLOR.
+RX   PubMed=12163334;
+RA   Rebbeck T.R., Kanetsky P.A., Walker A.H., Holmes R., Halpern A.C.,
+RA   Schuchter L.M., Elder D.E., Guerry D.;
+RT   "P gene as an inherited biomarker of human eye color.";
+RL   Cancer Epidemiol. Biomarkers Prev. 11:782-784(2002).
+RN   [18]
+RP   VARIANTS OCA2 GLY-290; ILE-443; ASP-489; CYS-679 AND LEU-743.
+RX   PubMed=12876664; DOI=10.1086/377569;
+RA   King R.A., Willaert R.K., Schmidt R.M., Pietsch J., Savage S., Brott M.J.,
+RA   Fryer J.P., Summers C.G., Oetting W.S.;
+RT   "MC1R mutations modify the classic phenotype of oculocutaneous albinism
+RT   type 2 (OCA2).";
+RL   Am. J. Hum. Genet. 73:638-645(2003).
+RN   [19]
+RP   VARIANTS OCA2 THR-481 AND HIS-799.
+RX   PubMed=12727022; DOI=10.1016/s0923-1811(03)00005-7;
+RA   Kato A., Fukai K., Oiso N., Hosomi N., Saitoh S., Wada T., Shimizu H.,
+RA   Ishii M.;
+RT   "A novel P gene missense mutation in a Japanese patient with oculocutaneous
+RT   albinism type II (OCA2).";
+RL   J. Dermatol. Sci. 31:189-192(2003).
+RN   [20]
+RP   VARIANTS OCA2 TRP-10; LEU-198; LEU-211; ILE-394 AND THR-481, AND VARIANTS
+RP   MET-387 AND ARG-615.
+RX   PubMed=12713581; DOI=10.1046/j.1523-1747.2003.12127.x;
+RA   Suzuki T., Miyamura Y., Matsunaga J., Shimizu H., Kawachi Y., Ohyama N.,
+RA   Ishikawa O., Ishikawa T., Terao H., Tomita Y.;
+RT   "Six novel P gene mutations and oculocutaneous albinism type 2 frequency in
+RT   Japanese albino patients.";
+RL   J. Invest. Dermatol. 120:781-783(2003).
+RN   [21]
+RP   VARIANTS TRP-305 AND GLN-419, AND INVOLVEMENT IN SUSCEPTIBILITY TO
+RP   MELANOMA.
+RX   PubMed=15889046; DOI=10.1038/sj.ejhg.5201415;
+RG   Melan-Cohort;
+RA   Jannot A.-S., Meziani R., Bertrand G., Gerard B., Descamps V.,
+RA   Archimbaud A., Picard C., Ollivaud L., Basset-Seguin N., Kerob D.,
+RA   Lanternier G., Lebbe C., Saiag P., Crickx B., Clerget-Darpoux F.,
+RA   Grandchamp B., Soufir N.;
+RT   "Allele variations in the OCA2 gene (pink-eyed-dilution locus) are
+RT   associated with genetic susceptibility to melanoma.";
+RL   Eur. J. Hum. Genet. 13:913-920(2005).
+RN   [22]
+RP   INVOLVEMENT IN SHEP1, AND POLYMORPHISM.
+RX   PubMed=17236130; DOI=10.1086/510885;
+RA   Duffy D.L., Montgomery G.W., Chen W., Zhao Z.Z., Le L., James M.R.,
+RA   Hayward N.K., Martin N.G., Sturm R.A.;
+RT   "A three-single-nucleotide polymorphism haplotype in intron 1 of OCA2
+RT   explains most human eye-color variation.";
+RL   Am. J. Hum. Genet. 80:241-252(2007).
+RN   [23]
+RP   VARIANT [LARGE SCALE ANALYSIS] THR-773.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+RN   [24]
+RP   INVOLVEMENT IN SHEP1, AND POLYMORPHISM.
+RX   PubMed=17952075; DOI=10.1038/ng.2007.13;
+RA   Sulem P., Gudbjartsson D.F., Stacey S.N., Helgason A., Rafnar T.,
+RA   Magnusson K.P., Manolescu A., Karason A., Palsson A., Thorleifsson G.,
+RA   Jakobsdottir M., Steinberg S., Palsson S., Jonasson F., Sigurgeirsson B.,
+RA   Thorisdottir K., Ragnarsson R., Benediktsdottir K.R., Aben K.K.,
+RA   Kiemeney L.A., Olafsson J.H., Gulcher J., Kong A., Thorsteinsdottir U.,
+RA   Stefansson K.;
+RT   "Genetic determinants of hair, eye and skin pigmentation in Europeans.";
+RL   Nat. Genet. 39:1443-1452(2007).
+RN   [25]
+RP   VARIANTS OCA2 ILE-443; ASP-476; ARG-775 AND HIS-827.
+RX   PubMed=17385796; DOI=10.1002/pd.1713;
+RA   Hongyi L., Haiyun W., Hui Z., Qing W., Honglei D., Shu M., Weiying J.;
+RT   "Prenatal diagnosis of oculocutaneous albinism type II and novel mutations
+RT   in two Chinese families.";
+RL   Prenat. Diagn. 27:502-506(2007).
+RN   [26]
+RP   INVOLVEMENT IN SHEP1, AND POLYMORPHISM.
+RX   PubMed=18252221; DOI=10.1016/j.ajhg.2007.10.003;
+RA   Kayser M., Liu F., Janssens A.C.J.W., Rivadeneira F., Lao O., van Duijn K.,
+RA   Vermeulen M., Arp P., Jhamai M.M., van Ijcken W.F.J., den Dunnen J.T.,
+RA   Heath S., Zelenika D., Despriet D.D.G., Klaver C.C.W., Vingerling J.R.,
+RA   de Jong P.T.V.M., Hofman A., Aulchenko Y.S., Uitterlinden A.G.,
+RA   Oostra B.A., van Duijn C.M.;
+RT   "Three genome-wide association studies and a linkage analysis identify
+RT   HERC2 as a human iris color gene.";
+RL   Am. J. Hum. Genet. 82:411-423(2008).
+RN   [27]
+RP   VARIANT GLN-419, FUNCTION, INDUCTION, INVOLVEMENT IN SHEP1, INVOLVEMENT IN
+RP   SUSCEPTIBILITY TO MELANOMA, AND POLYMORPHISM.
+RX   PubMed=18252222; DOI=10.1016/j.ajhg.2007.11.005;
+RA   Sturm R.A., Duffy D.L., Zhao Z.Z., Leite F.P.M., Stark M.S., Hayward N.K.,
+RA   Martin N.G., Montgomery G.W.;
+RT   "A single SNP in an evolutionary conserved region within intron 86 of the
+RT   HERC2 gene determines human blue-brown eye color.";
+RL   Am. J. Hum. Genet. 82:424-431(2008).
+RN   [28]
+RP   INVOLVEMENT IN SHEP1, POLYMORPHISM, AND INDUCTION.
+RX   PubMed=18172690; DOI=10.1007/s00439-007-0460-x;
+RA   Eiberg H., Troelsen J., Nielsen M., Mikkelsen A., Mengel-From J.,
+RA   Kjaer K.W., Hansen L.;
+RT   "Blue eye color in humans may be caused by a perfectly associated founder
+RT   mutation in a regulatory element located within the HERC2 gene inhibiting
+RT   OCA2 expression.";
+RL   Hum. Genet. 123:177-187(2008).
+RN   [29]
+RP   VARIANTS OCA2 MET-404; TRP-419; ILE-633; CYS-679 AND CYS-684.
+RX   PubMed=23504663; DOI=10.1002/humu.22315;
+RA   Simeonov D.R., Wang X., Wang C., Sergeev Y., Dolinska M., Bower M.,
+RA   Fischer R., Winer D., Dubrovsky G., Balog J.Z., Huizing M., Hart R.,
+RA   Zein W.M., Gahl W.A., Brooks B.P., Adams D.R.;
+RT   "DNA variations in oculocutaneous albinism: an updated mutation list and
+RT   current outstanding issues in molecular diagnostics.";
+RL   Hum. Mutat. 34:827-835(2013).
+RN   [30]
+RP   FUNCTION, CHANNEL ACTIVITY, CHARACTERIZATION OF VARIANTS OCA2 ILE-443 AND
+RP   GLU-614, AND SUBCELLULAR LOCATION.
+RX   PubMed=25513726; DOI=10.7554/elife.04543;
+RA   Bellono N.W., Escobar I.E., Lefkovith A.J., Marks M.S., Oancea E.;
+RT   "An intracellular anion channel critical for pigmentation.";
+RL   Elife 3:e04543-e04543(2014).
+CC   -!- FUNCTION: Contributes to a melanosome-specific anion (chloride) current
+CC       that modulates melanosomal pH for optimal tyrosinase activity required
+CC       for melanogenesis and the melanosome maturation (PubMed:25513726,
+CC       PubMed:11310796, PubMed:15262401, PubMed:22234890). One of the
+CC       components of the mammalian pigmentary system (PubMed:15262401,
+CC       PubMed:18252222, PubMed:7601462). May serve as a key control point at
+CC       which ethnic skin color variation is determined. Major determinant of
+CC       brown and/or blue eye color (PubMed:15262401, PubMed:18252222,
+CC       PubMed:7601462). Seems to regulate the post-translational processing of
+CC       tyrosinase, which catalyzes the limiting reaction in melanin synthesis
+CC       (By similarity). {ECO:0000250|UniProtKB:Q62052,
+CC       ECO:0000269|PubMed:11310796, ECO:0000269|PubMed:15262401,
+CC       ECO:0000269|PubMed:18252222, ECO:0000269|PubMed:22234890,
+CC       ECO:0000269|PubMed:25513726, ECO:0000269|PubMed:7601462}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=chloride(in) = chloride(out); Xref=Rhea:RHEA:29823,
+CC         ChEBI:CHEBI:17996; Evidence={ECO:0000305|PubMed:25513726};
+CC   -!- SUBCELLULAR LOCATION: Melanosome membrane {ECO:0000269|PubMed:25513726,
+CC       ECO:0000269|PubMed:7601462}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:7601462}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q04671-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q04671-2; Sequence=VSP_012284;
+CC       Name=3;
+CC         IsoId=Q04671-3; Sequence=VSP_012285, VSP_012286;
+CC   -!- TISSUE SPECIFICITY: Expressed in melanocytes and retinal pigment
+CC       epithelium. {ECO:0000269|PubMed:25513726, ECO:0000269|PubMed:32966160}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed at early stages of melanosome
+CC       differentiation. {ECO:0000269|PubMed:32966160}.
+CC   -!- INDUCTION: Expression is under the control of an enhancer element that
+CC       is encoded in an intron of the close-by HERC2 gene. The enhancer
+CC       element containing the T-allele of the polymorphism rs12913832 mediates
+CC       binding of the transcription factors HLTF, LEF1 and MITF and increases
+CC       OCA2 expression. In contrast, transcription factor binding and OCA2
+CC       expression are reduced in carriers of the C-allele of polymorphism
+CC       rs12913832. Thus, people homozygous for the C-allele have light-colored
+CC       eyes, while people homozygous for the T-allele of polymorphism
+CC       rs12913832 most often have brown eyes. {ECO:0000269|PubMed:18172690,
+CC       ECO:0000269|PubMed:18252222, ECO:0000269|PubMed:22234890}.
+CC   -!- POLYMORPHISM: Genetic variants in OCA2 define the skin/hair/eye
+CC       pigmentation variation locus 1 (SHEP1) [MIM:227220]; also known as
+CC       skin/hair/eye pigmentation type 1, blue/nonblue eyes or skin/hair/eye
+CC       pigmentation type 1, blue/brown eyes or skin/hair/eye pigmentation type
+CC       1, blond/brown hair or eye color, brown/blue or eye color, blue/nonblue
+CC       or eye color type 3 (EYCL3) or brown eye color type 2 (BEY2) or hair
+CC       color type 3 (HCL3). Hair, eye and skin pigmentation are among the most
+CC       visible examples of human phenotypic variation, with a broad normal
+CC       range that is subject to substantial geographic stratification. In the
+CC       case of skin, individuals tend to have lighter pigmentation with
+CC       increasing distance from the equator. By contrast, the majority of
+CC       variation in human eye and hair color is found among individuals of
+CC       European ancestry, with most other human populations fixed for brown
+CC       eyes and black hair. OCA2 polymorphisms may act as a penetrance
+CC       modifier of the risk of malignant melanoma.
+CC       {ECO:0000269|PubMed:17236130, ECO:0000269|PubMed:17952075,
+CC       ECO:0000269|PubMed:18172690, ECO:0000269|PubMed:18252221,
+CC       ECO:0000269|PubMed:18252222}.
+CC   -!- DISEASE: Albinism, oculocutaneous, 2 (OCA2) [MIM:203200]: An autosomal
+CC       recessive disorder in which the biosynthesis of melanin pigment is
+CC       reduced in skin, hair, and eyes. Although affected infants may appear
+CC       at birth to have complete absence of melanin pigment, most patients
+CC       acquire small amounts of pigment with age. Visual anomalies include
+CC       decreased acuity and nystagmus. The phenotype is highly variable. The
+CC       hair of affected individuals may turn darker with age, and pigmented
+CC       nevi or freckles may be seen. African and African American individuals
+CC       may have yellow hair and blue-gray or hazel irides. One phenotypic
+CC       variant, 'brown OCA,' has been described in African and African
+CC       American populations and is characterized by light brown hair and skin
+CC       color and gray to tan irides. {ECO:0000269|PubMed:10649493,
+CC       ECO:0000269|PubMed:10671067, ECO:0000269|PubMed:10987646,
+CC       ECO:0000269|PubMed:12713581, ECO:0000269|PubMed:12727022,
+CC       ECO:0000269|PubMed:12876664, ECO:0000269|PubMed:17385796,
+CC       ECO:0000269|PubMed:23504663, ECO:0000269|PubMed:25513726,
+CC       ECO:0000269|PubMed:7762554, ECO:0000269|PubMed:7874125,
+CC       ECO:0000269|PubMed:9259203}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the CitM (TC 2.A.11) transporter family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Mutations of the P gene; Note=Retina International's
+CC       Scientific Newsletter;
+CC       URL="https://www.retina-international.org/files/sci-news/pgenemut.htm";
+CC   -!- WEB RESOURCE: Name=Albinism database (ADB); Note=P mutations;
+CC       URL="http://www.ifpcs.org/albinism/oca2mut.html";
+CC   -!- WEB RESOURCE: Name=Protein Spotlight; Note=Questioning colour - Issue
+CC       54 of January 2005;
+CC       URL="https://web.expasy.org/spotlight/back_issues/054";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M99564; AAA36477.1; -; mRNA.
+DR   EMBL; U19170; AAC13783.1; -; Genomic_DNA.
+DR   EMBL; U19153; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19154; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19156; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19158; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19160; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19162; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19164; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19166; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19169; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19168; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19167; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19165; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19163; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19161; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19159; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19157; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19155; AAC13783.1; JOINED; Genomic_DNA.
+DR   EMBL; U19176; AAC13784.1; -; Genomic_DNA.
+DR   EMBL; U19153; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19154; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19155; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19157; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19158; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19159; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19160; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19161; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19162; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19163; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19164; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19165; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19166; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19167; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19168; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19169; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19171; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19172; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19173; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19174; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; U19175; AAC13784.1; JOINED; Genomic_DNA.
+DR   EMBL; BC012097; AAH12097.1; -; mRNA.
+DR   EMBL; M97901; AAA36430.1; -; mRNA.
+DR   CCDS; CCDS10020.1; -. [Q04671-1]
+DR   CCDS; CCDS73701.1; -. [Q04671-2]
+DR   PIR; A57173; A57173.
+DR   PIR; S28911; S28911.
+DR   RefSeq; NP_000266.2; NM_000275.2. [Q04671-1]
+DR   RefSeq; NP_001287913.1; NM_001300984.1. [Q04671-2]
+DR   AlphaFoldDB; Q04671; -.
+DR   BioGRID; 111002; 5.
+DR   IntAct; Q04671; 3.
+DR   STRING; 9606.ENSP00000346659; -.
+DR   TCDB; 2.A.45.2.1; the arsenite-antimonite (arsb) efflux family.
+DR   GlyCosmos; Q04671; 5 sites, No reported glycans.
+DR   GlyGen; Q04671; 6 sites, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q04671; -.
+DR   PhosphoSitePlus; Q04671; -.
+DR   BioMuta; OCA2; -.
+DR   DMDM; 90110050; -.
+DR   MassIVE; Q04671; -.
+DR   PaxDb; Q04671; -.
+DR   PeptideAtlas; Q04671; -.
+DR   Antibodypedia; 22329; 204 antibodies from 25 providers.
+DR   DNASU; 4948; -.
+DR   Ensembl; ENST00000353809.9; ENSP00000261276.8; ENSG00000104044.16. [Q04671-2]
+DR   Ensembl; ENST00000354638.8; ENSP00000346659.3; ENSG00000104044.16. [Q04671-1]
+DR   GeneID; 4948; -.
+DR   KEGG; hsa:4948; -.
+DR   MANE-Select; ENST00000354638.8; ENSP00000346659.3; NM_000275.3; NP_000266.2.
+DR   UCSC; uc001zbh.6; human. [Q04671-1]
+DR   AGR; HGNC:8101; -.
+DR   CTD; 4948; -.
+DR   DisGeNET; 4948; -.
+DR   GeneCards; OCA2; -.
+DR   GeneReviews; OCA2; -.
+DR   HGNC; HGNC:8101; OCA2.
+DR   HPA; ENSG00000104044; Tissue enriched (choroid).
+DR   MalaCards; OCA2; -.
+DR   MIM; 203200; phenotype.
+DR   MIM; 227220; phenotype.
+DR   MIM; 611409; gene.
+DR   neXtProt; NX_Q04671; -.
+DR   OpenTargets; ENSG00000104044; -.
+DR   Orphanet; 98794; Angelman syndrome due to maternal 15q11q13 deletion.
+DR   Orphanet; 79432; Oculocutaneous albinism type 2.
+DR   Orphanet; 98754; Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15.
+DR   Orphanet; 177901; Prader-Willi syndrome due to paternal deletion of 15q11q13 type 1.
+DR   Orphanet; 177904; Prader-Willi syndrome due to paternal deletion of 15q11q13 type 2.
+DR   PharmGKB; PA31890; -.
+DR   VEuPathDB; HostDB:ENSG00000104044; -.
+DR   eggNOG; KOG2639; Eukaryota.
+DR   GeneTree; ENSGT01030000234550; -.
+DR   HOGENOM; CLU_011920_2_1_1; -.
+DR   InParanoid; Q04671; -.
+DR   OMA; HHRIRDK; -.
+DR   OrthoDB; 5481761at2759; -.
+DR   PhylomeDB; Q04671; -.
+DR   TreeFam; TF323556; -.
+DR   PathwayCommons; Q04671; -.
+DR   Reactome; R-HSA-5662702; Melanin biosynthesis.
+DR   SignaLink; Q04671; -.
+DR   SIGNOR; Q04671; -.
+DR   BioGRID-ORCS; 4948; 8 hits in 1142 CRISPR screens.
+DR   ChiTaRS; OCA2; human.
+DR   GeneWiki; OCA2; -.
+DR   GenomeRNAi; 4948; -.
+DR   Pharos; Q04671; Tbio.
+DR   PRO; PR:Q04671; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q04671; protein.
+DR   Bgee; ENSG00000104044; Expressed in pigmented layer of retina and 146 other tissues.
+DR   ExpressionAtlas; Q04671; baseline and differential.
+DR   Genevisible; Q04671; HS.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IDA:UniProtKB.
+DR   GO; GO:0010008; C:endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0005765; C:lysosomal membrane; IDA:UniProtKB.
+DR   GO; GO:0033162; C:melanosome membrane; IDA:UniProtKB.
+DR   GO; GO:0061778; F:intracellular chloride channel activity; IDA:UniProtKB.
+DR   GO; GO:0008283; P:cell population proliferation; IEA:Ensembl.
+DR   GO; GO:0035752; P:lysosomal lumen pH elevation; IDA:UniProtKB.
+DR   GO; GO:0042438; P:melanin biosynthetic process; IBA:GO_Central.
+DR   GO; GO:0006583; P:melanin biosynthetic process from tyrosine; IDA:UniProtKB.
+DR   GO; GO:0030318; P:melanocyte differentiation; IBA:GO_Central.
+DR   GO; GO:0007286; P:spermatid development; IEA:Ensembl.
+DR   CDD; cd01116; P_permease; 1.
+DR   InterPro; IPR004680; Cit_transptr-like_dom.
+DR   PANTHER; PTHR43568; P PROTEIN; 1.
+DR   PANTHER; PTHR43568:SF1; P PROTEIN; 1.
+DR   Pfam; PF03600; CitMHS; 1.
+PE   1: Evidence at protein level;
+KW   Albinism; Alternative splicing; Disease variant; Glycoprotein; Membrane;
+KW   Reference proteome; Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN           1..838
+FT                   /note="P protein"
+FT                   /id="PRO_0000172509"
+FT   TOPO_DOM        1..179
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        180..197
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        198..330
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        331..347
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        348..353
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        354..370
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        371..384
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        385..401
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        402..423
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        424..440
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        441..513
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        514..530
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        531..620
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        621..637
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        638..647
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        648..664
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        665..679
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        680..696
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        697..720
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        721..737
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        738..760
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        761..777
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        778..817
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        818..834
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        835..838
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   REGION          38..60
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          74..94
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        214
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        218
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        273
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        442
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        781
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         349..372
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_012284"
+FT   VAR_SEQ         652..668
+FT                   /note="WIAILGAIWLLILADIH -> GLGLVQAGRYYLSTPES (in isoform
+FT                   3)"
+FT                   /evidence="ECO:0000303|PubMed:8421497"
+FT                   /id="VSP_012285"
+FT   VAR_SEQ         669..838
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:8421497"
+FT                   /id="VSP_012286"
+FT   VARIANT         10
+FT                   /note="R -> W (in OCA2; dbSNP:rs554862186)"
+FT                   /evidence="ECO:0000269|PubMed:12713581"
+FT                   /id="VAR_020622"
+FT   VARIANT         27
+FT                   /note="G -> R (in OCA2; dbSNP:rs61738394)"
+FT                   /id="VAR_006117"
+FT   VARIANT         86
+FT                   /note="S -> R (in OCA2; dbSNP:rs772243109)"
+FT                   /evidence="ECO:0000269|PubMed:10671067"
+FT                   /id="VAR_006118"
+FT   VARIANT         112
+FT                   /note="C -> F (in OCA2; dbSNP:rs562649990)"
+FT                   /evidence="ECO:0000269|PubMed:10671067"
+FT                   /id="VAR_006119"
+FT   VARIANT         198
+FT                   /note="P -> L (in OCA2; dbSNP:rs183487020)"
+FT                   /evidence="ECO:0000269|PubMed:12713581"
+FT                   /id="VAR_020623"
+FT   VARIANT         206..211
+FT                   /note="Missing (in OCA2; severe)"
+FT                   /id="VAR_006120"
+FT   VARIANT         211
+FT                   /note="P -> L (in OCA2; dbSNP:rs190612616)"
+FT                   /evidence="ECO:0000269|PubMed:12713581"
+FT                   /id="VAR_020624"
+FT   VARIANT         241
+FT                   /note="P -> R (in dbSNP:rs2305253)"
+FT                   /id="VAR_022019"
+FT   VARIANT         257
+FT                   /note="A -> D (in dbSNP:rs1050968)"
+FT                   /evidence="ECO:0000269|PubMed:10671067,
+FT                   ECO:0000269|PubMed:8421497"
+FT                   /id="VAR_006121"
+FT   VARIANT         266
+FT                   /note="R -> W (in dbSNP:rs33929465)"
+FT                   /id="VAR_032094"
+FT   VARIANT         273..274
+FT                   /note="NW -> KV (in OCA2; dbSNP:rs797044784)"
+FT                   /id="VAR_006122"
+FT   VARIANT         290
+FT                   /note="R -> G (in OCA2; dbSNP:rs769408559)"
+FT                   /evidence="ECO:0000269|PubMed:10987646,
+FT                   ECO:0000269|PubMed:12876664"
+FT                   /id="VAR_020625"
+FT   VARIANT         305
+FT                   /note="R -> W (associated with nonblue eye color; could be
+FT                   a biomarker of cutaneous cancer risk; dbSNP:rs1800401)"
+FT                   /evidence="ECO:0000269|PubMed:10987646,
+FT                   ECO:0000269|PubMed:12163334, ECO:0000269|PubMed:15889046,
+FT                   ECO:0000269|PubMed:7601462"
+FT                   /id="VAR_006123"
+FT   VARIANT         334
+FT                   /note="A -> V (in OCA2; dbSNP:rs121918168)"
+FT                   /evidence="ECO:0000269|PubMed:10649493"
+FT                   /id="VAR_020626"
+FT   VARIANT         336
+FT                   /note="A -> V (in dbSNP:rs34010619)"
+FT                   /id="VAR_032095"
+FT   VARIANT         350
+FT                   /note="V -> M (in unclassified OCA; dbSNP:rs533478642)"
+FT                   /evidence="ECO:0000269|PubMed:10649493"
+FT                   /id="VAR_020627"
+FT   VARIANT         368
+FT                   /note="A -> V (in OCA2; dbSNP:rs61745150)"
+FT                   /evidence="ECO:0000269|PubMed:10671067"
+FT                   /id="VAR_006124"
+FT   VARIANT         370
+FT                   /note="I -> T (in unclassified OCA; dbSNP:rs34731820)"
+FT                   /evidence="ECO:0000269|PubMed:10649493"
+FT                   /id="VAR_020628"
+FT   VARIANT         385
+FT                   /note="F -> I (in OCA2; severe; dbSNP:rs137956605)"
+FT                   /id="VAR_006125"
+FT   VARIANT         387
+FT                   /note="T -> M (in dbSNP:rs150335311)"
+FT                   /evidence="ECO:0000269|PubMed:12713581"
+FT                   /id="VAR_020629"
+FT   VARIANT         394
+FT                   /note="M -> I (in OCA2; dbSNP:rs121918171)"
+FT                   /evidence="ECO:0000269|PubMed:12713581"
+FT                   /id="VAR_020630"
+FT   VARIANT         395
+FT                   /note="M -> L (in OCA2; severe; dbSNP:rs757286784)"
+FT                   /id="VAR_006126"
+FT   VARIANT         404
+FT                   /note="T -> M (in OCA2; dbSNP:rs144812594)"
+FT                   /evidence="ECO:0000269|PubMed:23504663"
+FT                   /id="VAR_006127"
+FT   VARIANT         419
+FT                   /note="R -> Q (associated with green/hazel eye color;
+FT                   dbSNP:rs1800407)"
+FT                   /evidence="ECO:0000269|PubMed:10987646,
+FT                   ECO:0000269|PubMed:12163334, ECO:0000269|PubMed:15889046,
+FT                   ECO:0000269|PubMed:18252222, ECO:0000269|PubMed:7601462"
+FT                   /id="VAR_006128"
+FT   VARIANT         419
+FT                   /note="R -> W (in OCA2; dbSNP:rs143218168)"
+FT                   /evidence="ECO:0000269|PubMed:23504663"
+FT                   /id="VAR_006129"
+FT   VARIANT         425
+FT                   /note="Missing (in OCA2; mild; dbSNP:rs752510351)"
+FT                   /id="VAR_006130"
+FT   VARIANT         440
+FT                   /note="L -> F (in dbSNP:rs1800408)"
+FT                   /evidence="ECO:0000269|PubMed:7601462"
+FT                   /id="VAR_007939"
+FT   VARIANT         440
+FT                   /note="L -> H"
+FT                   /id="VAR_006131"
+FT   VARIANT         443
+FT                   /note="V -> I (in OCA2; reduced flow of chloride ions; no
+FT                   effect on subcellular location; slightly increased luminal
+FT                   pH; dbSNP:rs121918166)"
+FT                   /evidence="ECO:0000269|PubMed:10987646,
+FT                   ECO:0000269|PubMed:12876664, ECO:0000269|PubMed:17385796,
+FT                   ECO:0000269|PubMed:25513726"
+FT                   /id="VAR_006132"
+FT   VARIANT         446
+FT                   /note="M -> V (in OCA2; mild; AROA form;
+FT                   dbSNP:rs140566426)"
+FT                   /id="VAR_006133"
+FT   VARIANT         473
+FT                   /note="I -> S (in OCA2)"
+FT                   /id="VAR_006134"
+FT   VARIANT         476
+FT                   /note="N -> D (in OCA2)"
+FT                   /evidence="ECO:0000269|PubMed:17385796"
+FT                   /id="VAR_043700"
+FT   VARIANT         481
+FT                   /note="A -> T (in OCA2; dbSNP:rs74653330)"
+FT                   /evidence="ECO:0000269|PubMed:12713581,
+FT                   ECO:0000269|PubMed:12727022"
+FT                   /id="VAR_007940"
+FT   VARIANT         489
+FT                   /note="N -> D (in OCA2; mild/severe; dbSNP:rs121918170)"
+FT                   /evidence="ECO:0000269|PubMed:12876664"
+FT                   /id="VAR_006135"
+FT   VARIANT         519
+FT                   /note="V -> A (in dbSNP:rs41446944)"
+FT                   /id="VAR_032096"
+FT   VARIANT         549
+FT                   /note="H -> Q (in OCA2)"
+FT                   /id="VAR_006136"
+FT   VARIANT         560
+FT                   /note="R -> H (in dbSNP:rs35110389)"
+FT                   /id="VAR_032097"
+FT   VARIANT         592
+FT                   /note="T -> I (in OCA2; dbSNP:rs1800413)"
+FT                   /evidence="ECO:0000269|PubMed:10671067"
+FT                   /id="VAR_006137"
+FT   VARIANT         614
+FT                   /note="K -> E (in OCA2; no effect on flow of chloride ions;
+FT                   no effect on subcellular location; no effect on luminal
+FT                   pH)"
+FT                   /evidence="ECO:0000269|PubMed:10987646,
+FT                   ECO:0000269|PubMed:25513726"
+FT                   /id="VAR_020631"
+FT   VARIANT         614
+FT                   /note="K -> N (in OCA2)"
+FT                   /id="VAR_006138"
+FT   VARIANT         615
+FT                   /note="H -> R (in dbSNP:rs1800414)"
+FT                   /evidence="ECO:0000269|PubMed:12713581,
+FT                   ECO:0000269|PubMed:7601462"
+FT                   /id="VAR_006139"
+FT   VARIANT         617
+FT                   /note="I -> L (in OCA2; dbSNP:rs763016773)"
+FT                   /evidence="ECO:0000269|PubMed:10987646"
+FT                   /id="VAR_020632"
+FT   VARIANT         633
+FT                   /note="V -> I (in OCA2; dbSNP:rs1372200062)"
+FT                   /evidence="ECO:0000269|PubMed:23504663"
+FT                   /id="VAR_072600"
+FT   VARIANT         652
+FT                   /note="W -> R (in OCA2; dbSNP:rs886043514)"
+FT                   /id="VAR_006140"
+FT   VARIANT         678
+FT                   /note="E -> K (in unclassified OCA)"
+FT                   /evidence="ECO:0000269|PubMed:10649493"
+FT                   /id="VAR_020633"
+FT   VARIANT         679
+FT                   /note="W -> C (in OCA2; dbSNP:rs121918169)"
+FT                   /evidence="ECO:0000269|PubMed:10987646,
+FT                   ECO:0000269|PubMed:12876664, ECO:0000269|PubMed:23504663"
+FT                   /id="VAR_020634"
+FT   VARIANT         679
+FT                   /note="W -> R (in OCA2; severe; dbSNP:rs751822606)"
+FT                   /id="VAR_006141"
+FT   VARIANT         684
+FT                   /note="F -> C (in OCA2; dbSNP:rs772754008)"
+FT                   /evidence="ECO:0000269|PubMed:23504663"
+FT                   /id="VAR_072601"
+FT   VARIANT         688
+FT                   /note="L -> F (in unclassified OCA)"
+FT                   /evidence="ECO:0000269|PubMed:10649493"
+FT                   /id="VAR_020635"
+FT   VARIANT         720
+FT                   /note="R -> C (in OCA2; dbSNP:rs141545475)"
+FT                   /evidence="ECO:0000269|PubMed:10987646"
+FT                   /id="VAR_020636"
+FT   VARIANT         722
+FT                   /note="I -> T (in dbSNP:rs1800417)"
+FT                   /evidence="ECO:0000269|PubMed:7601462"
+FT                   /id="VAR_006142"
+FT   VARIANT         724
+FT                   /note="A -> P (in OCA2)"
+FT                   /evidence="ECO:0000269|PubMed:10671067"
+FT                   /id="VAR_006143"
+FT   VARIANT         736
+FT                   /note="S -> L (in OCA2; dbSNP:rs780296175)"
+FT                   /id="VAR_006144"
+FT   VARIANT         743
+FT                   /note="P -> L (in OCA2 and unclassified OCA;
+FT                   dbSNP:rs121918167)"
+FT                   /evidence="ECO:0000269|PubMed:10649493,
+FT                   ECO:0000269|PubMed:12876664"
+FT                   /id="VAR_006145"
+FT   VARIANT         773
+FT                   /note="A -> T (in a breast cancer sample; somatic mutation;
+FT                   dbSNP:rs1184589806)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_036468"
+FT   VARIANT         775
+FT                   /note="G -> R (in OCA2)"
+FT                   /evidence="ECO:0000269|PubMed:17385796"
+FT                   /id="VAR_043701"
+FT   VARIANT         787
+FT                   /note="A -> V (in OCA2; dbSNP:rs200457227)"
+FT                   /evidence="ECO:0000269|PubMed:10671067"
+FT                   /id="VAR_006146"
+FT   VARIANT         795
+FT                   /note="G -> R (in OCA2)"
+FT                   /evidence="ECO:0000269|PubMed:10987646"
+FT                   /id="VAR_020637"
+FT   VARIANT         799
+FT                   /note="Q -> H (in OCA2)"
+FT                   /evidence="ECO:0000269|PubMed:12727022"
+FT                   /id="VAR_020638"
+FT   VARIANT         827
+FT                   /note="Y -> H (in OCA2; dbSNP:rs1255943449)"
+FT                   /evidence="ECO:0000269|PubMed:17385796"
+FT                   /id="VAR_043702"
+FT   VARIANT         833
+FT                   /note="Missing (in OCA2; dbSNP:rs751440917)"
+FT                   /evidence="ECO:0000269|PubMed:10987646"
+FT                   /id="VAR_021682"
+SQ   SEQUENCE   838 AA;  92850 MW;  A6158B9E55BD7199 CRC64;
+     MHLEGRDGRR YPGAPAVELL QTSVPSGLAE LVAGKRRLPR GAGGADPSHS CPRGAAGQSS
+     WAPAGQEFAS FLTKGRSHSS LPQMSSSRSK DSCFTENTPL LRNSLQEKGS RCIPVYHPEF
+     ITAEESWEDS SADWERRYLL SREVSGLSAS ASSEKGDLLD SPHIRLRLSK LRRCVQWLKV
+     MGLFAFVVLC SILFSLYPDQ GKLWQLLALS PLENYSVNLS SHVDSTLLQV DLAGALVASG
+     PSRPGREEHI VVELTQADAL GSRWRRPQQV THNWTVYLNP RRSEHSVMSR TFEVLTRETV
+     SISIRASLQQ TQAVPLLMAH QYLRGSVETQ VTIATAILAG VYALIIFEIV HRTLAAMLGS
+     LAALAALAVI GDRPSLTHVV EWIDFETLAL LFGMMILVAI FSETGFFDYC AVKAYRLSRG
+     RVWAMIIMLC LIAAVLSAFL DNVTTMLLFT PVTIRLCEVL NLDPRQVLIA EVIFTNIGGA
+     ATAIGDPPNV IIVSNQELRK MGLDFAGFTA HMFIGICLVL LVCFPLLRLL YWNRKLYNKE
+     PSEIVELKHE IHVWRLTAQR ISPASREETA VRRLLLGKVL ALEHLLARRL HTFHRQISQE
+     DKNWETNIQE LQKKHRISDG ILLAKCLTVL GFVIFMFFLN SFVPGIHLDL GWIAILGAIW
+     LLILADIHDF EIILHRVEWA TLLFFAALFV LMEALAHLHL IEYVGEQTAL LIKMVPEEQR
+     LIAAIVLVVW VSALASSLID NIPFTATMIP VLLNLSHDPE VGLPAPPLMY ALAFGACLGG
+     NGTLIGASAN VVCAGIAEQH GYGFSFMEFF RLGFPMMVVS CTVGMCYLLV AHVVVGWN
+//

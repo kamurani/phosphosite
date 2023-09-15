@@ -1,0 +1,542 @@
+ID   PA24B_HUMAN             Reviewed;         781 AA.
+AC   P0C869; B4DRT9; O95712; Q19KD5; Q19KD6; Q59GF9; Q8TB10; Q9UKV7;
+DT   02-SEP-2008, integrated into UniProtKB/Swiss-Prot.
+DT   13-JUL-2010, sequence version 2.
+DT   28-JUN-2023, entry version 118.
+DE   RecName: Full=Cytosolic phospholipase A2 beta {ECO:0000303|PubMed:16617059};
+DE            Short=cPLA2-beta {ECO:0000303|PubMed:16617059};
+DE            EC=3.1.1.4 {ECO:0000269|PubMed:10085124, ECO:0000269|PubMed:10358058, ECO:0000269|PubMed:16617059};
+DE   AltName: Full=Lysophospholipase A1 group IVB {ECO:0000305|PubMed:16617059};
+DE            EC=3.1.1.5 {ECO:0000269|PubMed:10358058, ECO:0000269|PubMed:16617059};
+DE   AltName: Full=Phospholipase A2 group IVB;
+GN   Name=PLA2G4B;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 5), FUNCTION (ISOFORM 5), CATALYTIC
+RP   ACTIVITY (ISOFORM 5), ACTIVITY REGULATION (ISOFORM 5), TISSUE SPECIFICITY,
+RP   AND MUTAGENESIS OF SER-335; HIS-417; ASP-615 AND ARG-632.
+RX   PubMed=10085124; DOI=10.1074/jbc.274.13.8823;
+RA   Pickard R.T., Strifler B.A., Kramer R.M., Sharp J.D.;
+RT   "Molecular cloning of two new human paralogs of 85-kDa cytosolic
+RT   phospholipase A2.";
+RL   J. Biol. Chem. 274:8823-8831(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 5), FUNCTION (ISOFORM 5), CATALYTIC
+RP   ACTIVITY (ISOFORM 5), ACTIVITY REGULATION (ISOFORM 5), AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=10358058; DOI=10.1074/jbc.274.24.17063;
+RA   Song C., Chang X.J., Bean K.M., Proia M.S., Knopf J.L., Kriz R.W.;
+RT   "Molecular characterization of cytosolic phospholipase A2-beta.";
+RL   J. Biol. Chem. 274:17063-17067(1999).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 2 AND 3), FUNCTION (ISOFORMS 3 AND 5),
+RP   CATALYTIC ACTIVITY (ISOFORMS 3 AND 5), BIOPHYSICOCHEMICAL PROPERTIES
+RP   (ISOFORMS 3 AND 5), SUBCELLULAR LOCATION (ISOFORMS 3 AND 5), AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=16617059; DOI=10.1074/jbc.m601770200;
+RA   Ghosh M., Loper R., Gelb M.H., Leslie C.C.;
+RT   "Identification of the expressed form of human cytosolic phospholipase
+RT   A2beta (cPLA2beta): cPLA2beta3 is a novel variant localized to mitochondria
+RT   and early endosomes.";
+RL   J. Biol. Chem. 281:16615-16624(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT CYS-191.
+RC   TISSUE=Tongue;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4).
+RC   TISSUE=Brain;
+RA   Totoki Y., Toyoda A., Takeda T., Sakaki Y., Tanaka A., Yokoyama S.,
+RA   Ohara O., Nagase T., Kikuno R.F.;
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16572171; DOI=10.1038/nature04601;
+RA   Zody M.C., Garber M., Sharpe T., Young S.K., Rowen L., O'Neill K.,
+RA   Whittaker C.A., Kamal M., Chang J.L., Cuomo C.A., Dewar K.,
+RA   FitzGerald M.G., Kodira C.D., Madan A., Qin S., Yang X., Abbasi N.,
+RA   Abouelleil A., Arachchi H.M., Baradarani L., Birditt B., Bloom S.,
+RA   Bloom T., Borowsky M.L., Burke J., Butler J., Cook A., DeArellano K.,
+RA   DeCaprio D., Dorris L. III, Dors M., Eichler E.E., Engels R., Fahey J.,
+RA   Fleetwood P., Friedman C., Gearin G., Hall J.L., Hensley G., Johnson E.,
+RA   Jones C., Kamat A., Kaur A., Locke D.P., Madan A., Munson G., Jaffe D.B.,
+RA   Lui A., Macdonald P., Mauceli E., Naylor J.W., Nesbitt R., Nicol R.,
+RA   O'Leary S.B., Ratcliffe A., Rounsley S., She X., Sneddon K.M.B.,
+RA   Stewart S., Sougnez C., Stone S.M., Topham K., Vincent D., Wang S.,
+RA   Zimmer A.R., Birren B.W., Hood L., Lander E.S., Nusbaum C.;
+RT   "Analysis of the DNA sequence and duplication history of human chromosome
+RT   15.";
+RL   Nature 440:671-675(2006).
+CC   -!- FUNCTION: Calcium-dependent phospholipase A1 and A2 and
+CC       lysophospholipase that may play a role in membrane phospholipid
+CC       remodeling. {ECO:0000269|PubMed:10085124, ECO:0000269|PubMed:10358058,
+CC       ECO:0000269|PubMed:16617059}.
+CC   -!- FUNCTION: [Isoform 3]: Calcium-dependent phospholipase A2 and
+CC       lysophospholipase. Cleaves the ester bond of the fatty acyl group
+CC       attached to the sn-2 position of phosphatidylethanolamines, producing
+CC       lysophospholipids that may be used in deacylation-reacylation cycles.
+CC       Hydrolyzes lysophosphatidylcholines with low efficiency but is
+CC       inefficient toward phosphatidylcholines. {ECO:0000269|PubMed:16617059}.
+CC   -!- FUNCTION: [Isoform 5]: Calcium-dependent phospholipase A1 and A2 and
+CC       lysophospholipase. Cleaves the ester bond of the fatty acyl group
+CC       attached to the sn-1 or sn-2 position of diacyl phospholipids
+CC       (phospholipase A1 and A2 activity, respectively), producing
+CC       lysophospholipids that may be used in deacylation-reacylation cycles.
+CC       Can further hydrolyze lysophospholipids enabling complete deacylation.
+CC       Has no activity toward alkylacyl phospholipids.
+CC       {ECO:0000269|PubMed:10085124, ECO:0000269|PubMed:10358058,
+CC       ECO:0000269|PubMed:16617059}.
+CC   -!- CATALYTIC ACTIVITY: [Isoform 5]:
+CC       Reaction=a 1,2-diacyl-sn-glycero-3-phosphocholine + H2O = a 1-acyl-sn-
+CC         glycero-3-phosphocholine + a fatty acid + H(+); Xref=Rhea:RHEA:15801,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:28868,
+CC         ChEBI:CHEBI:57643, ChEBI:CHEBI:58168; EC=3.1.1.4;
+CC         Evidence={ECO:0000269|PubMed:10085124, ECO:0000269|PubMed:10358058,
+CC         ECO:0000269|PubMed:16617059};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:15802;
+CC         Evidence={ECO:0000305|PubMed:10085124, ECO:0000305|PubMed:10358058,
+CC         ECO:0000305|PubMed:16617059};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a 1-acyl-sn-glycero-3-phosphocholine + H2O = a fatty acid +
+CC         H(+) + sn-glycerol 3-phosphocholine; Xref=Rhea:RHEA:15177,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:16870,
+CC         ChEBI:CHEBI:28868, ChEBI:CHEBI:58168; EC=3.1.1.5;
+CC         Evidence={ECO:0000269|PubMed:10358058, ECO:0000269|PubMed:16617059};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:15178;
+CC         Evidence={ECO:0000305|PubMed:10358058, ECO:0000305|PubMed:16617059};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 3]:
+CC       Reaction=1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-
+CC         phosphoethanolamine + H2O = (9Z,12Z)-octadecadienoate + 1-
+CC         hexadecanoyl-sn-glycero-3-phosphoethanolamine + H(+);
+CC         Xref=Rhea:RHEA:40815, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:30245, ChEBI:CHEBI:73004, ChEBI:CHEBI:73008;
+CC         Evidence={ECO:0000269|PubMed:16617059};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:40816;
+CC         Evidence={ECO:0000305|PubMed:16617059};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 3]:
+CC       Reaction=1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-
+CC         3-phosphoethanolamine + H2O = (5Z,8Z,11Z,14Z)-eicosatetraenoate + 1-
+CC         hexadecanoyl-sn-glycero-3-phosphoethanolamine + H(+);
+CC         Xref=Rhea:RHEA:40431, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:32395, ChEBI:CHEBI:73004, ChEBI:CHEBI:73009;
+CC         Evidence={ECO:0000269|PubMed:16617059};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:40432;
+CC         Evidence={ECO:0000305|PubMed:16617059};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 3]:
+CC       Reaction=1-hexadecanoyl-sn-glycero-3-phosphocholine + H2O = H(+) +
+CC         hexadecanoate + sn-glycerol 3-phosphocholine; Xref=Rhea:RHEA:40435,
+CC         ChEBI:CHEBI:7896, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:16870, ChEBI:CHEBI:72998;
+CC         Evidence={ECO:0000269|PubMed:16617059};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:40436;
+CC         Evidence={ECO:0000305|PubMed:16617059};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 5]:
+CC       Reaction=1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-
+CC         3-phosphocholine + H2O = (5Z,8Z,11Z,14Z)-eicosatetraenoate + 1-
+CC         hexadecanoyl-sn-glycero-3-phosphocholine + H(+);
+CC         Xref=Rhea:RHEA:40427, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:32395, ChEBI:CHEBI:72998, ChEBI:CHEBI:73003;
+CC         Evidence={ECO:0000269|PubMed:10085124, ECO:0000269|PubMed:10358058};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:40428;
+CC         Evidence={ECO:0000305|PubMed:10085124, ECO:0000305|PubMed:10358058};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 5]:
+CC       Reaction=1-hexadecanoyl-sn-glycero-3-phosphocholine + H2O = H(+) +
+CC         hexadecanoate + sn-glycerol 3-phosphocholine; Xref=Rhea:RHEA:40435,
+CC         ChEBI:CHEBI:7896, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:16870, ChEBI:CHEBI:72998;
+CC         Evidence={ECO:0000269|PubMed:10358058, ECO:0000269|PubMed:16617059};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:40436;
+CC         Evidence={ECO:0000305|PubMed:10358058, ECO:0000305|PubMed:16617059};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 5]:
+CC       Reaction=1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-
+CC         3-phosphocholine + H2O = 2-(5Z,8Z,11Z,14Z)-eicosatetraenoyl-sn-
+CC         glycero-3-phosphocholine + H(+) + hexadecanoate;
+CC         Xref=Rhea:RHEA:40571, ChEBI:CHEBI:7896, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:73003, ChEBI:CHEBI:76079;
+CC         Evidence={ECO:0000269|PubMed:10358058};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:40572;
+CC         Evidence={ECO:0000305|PubMed:10358058};
+CC   -!- CATALYTIC ACTIVITY: [Isoform 5]:
+CC       Reaction=1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-
+CC         3-phosphoethanolamine + H2O = (5Z,8Z,11Z,14Z)-eicosatetraenoate + 1-
+CC         hexadecanoyl-sn-glycero-3-phosphoethanolamine + H(+);
+CC         Xref=Rhea:RHEA:40431, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:32395, ChEBI:CHEBI:73004, ChEBI:CHEBI:73009;
+CC         Evidence={ECO:0000269|PubMed:10358058, ECO:0000269|PubMed:16617059};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:40432;
+CC         Evidence={ECO:0000305|PubMed:10358058, ECO:0000305|PubMed:16617059};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU00041};
+CC   -!- ACTIVITY REGULATION: [Isoform 5]: Stimulated by cytosolic Ca(2+).
+CC       {ECO:0000269|PubMed:10085124, ECO:0000269|PubMed:10358058}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES: [Isoform 3]:
+CC       Kinetic parameters:
+CC         Note=The specific activity is 0.8 nmol/min/ug enzyme with
+CC         1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine
+CC         as substrate. The specific activity is 0.3 nmol/min/ug enzyme with
+CC         1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphoethanolamine
+CC         as substrate. The specific activity is 1.6 nmol/min/ug enzyme with
+CC         1-hexadecanoyl-sn-glycero-3-phosphocholine as substrate.
+CC         {ECO:0000269|PubMed:16617059};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES: [Isoform 5]:
+CC       Kinetic parameters:
+CC         Note=The specific activity is 2.1 nmol/min/ug enzyme with
+CC         1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine
+CC         as substrate. The specific activity is 0.6 nmol/min/ug enzyme with
+CC         1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine
+CC         as substrate. The specific activity is 140 nmol/min/ug enzyme with
+CC         1-hexadecanoyl-sn-glycero-3-phosphocholine as substrate.
+CC         {ECO:0000269|PubMed:16617059};
+CC   -!- SUBCELLULAR LOCATION: [Isoform 3]: Cytoplasm, cytosol
+CC       {ECO:0000269|PubMed:16617059}. Mitochondrion membrane
+CC       {ECO:0000269|PubMed:16617059}; Peripheral membrane protein. Early
+CC       endosome membrane {ECO:0000269|PubMed:16617059}; Peripheral membrane
+CC       protein. Note=Translocates to membrane vesicles in a calcium-dependent
+CC       fashion. {ECO:0000269|PubMed:16617059}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 5]: Cytoplasm, cytosol
+CC       {ECO:0000269|PubMed:16617059}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=1;
+CC         IsoId=P0C869-1, O95712-1; Sequence=Displayed;
+CC       Name=2; Synonyms=beta2;
+CC         IsoId=P0C869-7; Sequence=VSP_039387, VSP_039389, VSP_039390;
+CC       Name=3; Synonyms=beta3;
+CC         IsoId=P0C869-8; Sequence=VSP_039387, VSP_039388;
+CC       Name=4;
+CC         IsoId=P0C869-4, O95712-4; Sequence=VSP_019871;
+CC       Name=5; Synonyms=Beta1;
+CC         IsoId=P0C869-6; Sequence=VSP_039387;
+CC   -!- TISSUE SPECIFICITY: Widely expressed. Expressed at higher level in
+CC       brain, heart, liver, cerebellum and pancreas.
+CC       {ECO:0000269|PubMed:10085124, ECO:0000269|PubMed:10358058,
+CC       ECO:0000269|PubMed:16617059}.
+CC   -!- DOMAIN: The N-terminal C2 domain associates with lipid membranes upon
+CC       calcium binding. It modulates enzyme activity by presenting the active
+CC       site to its substrate in response to elevations of cytosolic Ca(2+) (By
+CC       similarity). {ECO:0000250}.
+CC   -!- MISCELLANEOUS: [Isoform 2]: Based on a naturally occurring readthrough
+CC       transcript which produces a JMJD7-PLA2G4B fusion protein.
+CC       {ECO:0000305}.
+CC   -!- MISCELLANEOUS: [Isoform 3]: Based on a naturally occurring readthrough
+CC       transcript which produces a JMJD7-PLA2G4B fusion protein.
+CC       {ECO:0000305}.
+CC   -!- MISCELLANEOUS: [Isoform 5]: Based on a naturally occurring readthrough
+CC       transcript which produces a JMJD7-PLA2G4B fusion protein.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: Most tissues also express read-through transcripts from this
+CC       gene into the upstream gene (JMJD7), some of which may encode fusion
+CC       proteins. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAD92387.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF065215; AAC78836.1; -; mRNA.
+DR   EMBL; AF121908; AAD32135.1; -; mRNA.
+DR   EMBL; DQ523799; ABF69195.1; -; mRNA.
+DR   EMBL; DQ523800; ABF69196.1; -; mRNA.
+DR   EMBL; AK299419; BAG61401.1; -; mRNA.
+DR   EMBL; AB209150; BAD92387.1; ALT_INIT; mRNA.
+DR   EMBL; AC020659; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS45241.1; -.
+DR   RefSeq; NP_001108105.1; NM_001114633.1. [P0C869-1]
+DR   RefSeq; NP_001185517.1; NM_001198588.1. [P0C869-7]
+DR   RefSeq; NP_005081.1; NM_005090.3. [P0C869-6]
+DR   AlphaFoldDB; P0C869; -.
+DR   SMR; P0C869; -.
+DR   BioGRID; 114229; 32.
+DR   BioGRID; 936685; 6.
+DR   IntAct; P0C869; 5.
+DR   STRING; 9606.ENSP00000396045; -.
+DR   BindingDB; P0C869; -.
+DR   ChEMBL; CHEMBL4136; -.
+DR   SwissLipids; SLP:000000616; -. [P0C869-8]
+DR   SwissLipids; SLP:000000617; -. [P0C869-6]
+DR   iPTMnet; P0C869; -.
+DR   PhosphoSitePlus; P0C869; -.
+DR   BioMuta; PLA2G4B; -.
+DR   DMDM; 300669659; -.
+DR   EPD; P0C869; -.
+DR   jPOST; P0C869; -.
+DR   MassIVE; P0C869; -.
+DR   MaxQB; P0C869; -.
+DR   PaxDb; P0C869; -.
+DR   PeptideAtlas; P0C869; -.
+DR   ProteomicsDB; 52403; -.
+DR   ProteomicsDB; 52404; -. [P0C869-4]
+DR   ProteomicsDB; 52405; -. [P0C869-6]
+DR   ProteomicsDB; 52406; -. [P0C869-7]
+DR   ProteomicsDB; 52407; -. [P0C869-8]
+DR   Antibodypedia; 70595; 115 antibodies from 16 providers.
+DR   DNASU; 8681; -.
+DR   Ensembl; ENST00000452633.5; ENSP00000396045.1; ENSG00000243708.11. [P0C869-1]
+DR   Ensembl; ENST00000458483.4; ENSP00000416610.1; ENSG00000243708.11. [P0C869-1]
+DR   GeneID; 100137049; -.
+DR   GeneID; 8681; -.
+DR   KEGG; hsa:100137049; -.
+DR   KEGG; hsa:8681; -.
+DR   MANE-Select; ENST00000458483.4; ENSP00000416610.1; NM_001114633.2; NP_001108105.1.
+DR   UCSC; uc010bco.4; human.
+DR   AGR; HGNC:34449; -.
+DR   AGR; HGNC:9036; -.
+DR   CTD; 100137049; -.
+DR   CTD; 8681; -.
+DR   DisGeNET; 100137049; -.
+DR   DisGeNET; 8681; -.
+DR   GeneCards; PLA2G4B; -.
+DR   HGNC; HGNC:9036; PLA2G4B.
+DR   HPA; ENSG00000243708; Low tissue specificity.
+DR   MIM; 606088; gene.
+DR   neXtProt; NX_P0C869; -.
+DR   OpenTargets; ENSG00000168970; -.
+DR   OpenTargets; ENSG00000243708; -.
+DR   PharmGKB; PA165479070; -.
+DR   VEuPathDB; HostDB:ENSG00000243708; -.
+DR   eggNOG; KOG1028; Eukaryota.
+DR   eggNOG; KOG1325; Eukaryota.
+DR   GeneTree; ENSGT01030000234606; -.
+DR   HOGENOM; CLU_011663_0_0_1; -.
+DR   InParanoid; P0C869; -.
+DR   OMA; ECHAFSD; -.
+DR   OrthoDB; 4250045at2759; -.
+DR   PhylomeDB; P0C869; -.
+DR   TreeFam; TF325228; -.
+DR   PathwayCommons; P0C869; -.
+DR   Reactome; R-HSA-1482788; Acyl chain remodelling of PC.
+DR   Reactome; R-HSA-1482801; Acyl chain remodelling of PS.
+DR   Reactome; R-HSA-1482839; Acyl chain remodelling of PE.
+DR   Reactome; R-HSA-1482925; Acyl chain remodelling of PG.
+DR   Reactome; R-HSA-1483115; Hydrolysis of LPC.
+DR   Reactome; R-HSA-1483166; Synthesis of PA.
+DR   Reactome; R-HSA-381038; XBP1(S) activates chaperone genes.
+DR   SignaLink; P0C869; -.
+DR   BioGRID-ORCS; 100137049; 31 hits in 1113 CRISPR screens.
+DR   BioGRID-ORCS; 8681; 12 hits in 977 CRISPR screens.
+DR   GeneWiki; PLA2G4B; -.
+DR   Pharos; P0C869; Tchem.
+DR   PRO; PR:P0C869; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; P0C869; protein.
+DR   Bgee; ENSG00000243708; Expressed in lower esophagus mucosa and 92 other tissues.
+DR   ExpressionAtlas; P0C869; baseline and differential.
+DR   Genevisible; P0C869; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0031901; C:early endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; TAS:UniProtKB.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IDA:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; IBA:GO_Central.
+DR   GO; GO:0047498; F:calcium-dependent phospholipase A2 activity; IDA:UniProtKB.
+DR   GO; GO:0005544; F:calcium-dependent phospholipid binding; IBA:GO_Central.
+DR   GO; GO:0004622; F:lysophospholipase activity; IDA:UniProtKB.
+DR   GO; GO:0102545; F:phosphatidyl phospholipase B activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008970; F:phospholipase A1 activity; IDA:UniProtKB.
+DR   GO; GO:0004623; F:phospholipase A2 activity; TAS:Reactome.
+DR   GO; GO:0019369; P:arachidonic acid metabolic process; NAS:UniProtKB.
+DR   GO; GO:0019722; P:calcium-mediated signaling; NAS:UniProtKB.
+DR   GO; GO:0046475; P:glycerophospholipid catabolic process; IDA:UniProtKB.
+DR   GO; GO:0006954; P:inflammatory response; NAS:UniProtKB.
+DR   GO; GO:0007567; P:parturition; NAS:UniProtKB.
+DR   GO; GO:0036151; P:phosphatidylcholine acyl-chain remodeling; IDA:UniProtKB.
+DR   GO; GO:0036152; P:phosphatidylethanolamine acyl-chain remodeling; IDA:UniProtKB.
+DR   GO; GO:0036148; P:phosphatidylglycerol acyl-chain remodeling; TAS:Reactome.
+DR   CDD; cd04036; C2_cPLA2; 1.
+DR   CDD; cd07201; cPLA2_Grp-IVB-IVD-IVE-IVF; 1.
+DR   Gene3D; 2.60.40.150; C2 domain; 1.
+DR   Gene3D; 3.40.1090.10; Cytosolic phospholipase A2 catalytic domain; 1.
+DR   InterPro; IPR016035; Acyl_Trfase/lysoPLipase.
+DR   InterPro; IPR041847; C2_cPLA2.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR035892; C2_domain_sf.
+DR   InterPro; IPR040723; cPLA2_C2.
+DR   InterPro; IPR002642; LysoPLipase_cat_dom.
+DR   PANTHER; PTHR10728; CYTOSOLIC PHOSPHOLIPASE A2; 1.
+DR   PANTHER; PTHR10728:SF32; CYTOSOLIC PHOSPHOLIPASE A2 BETA; 1.
+DR   Pfam; PF00168; C2; 1.
+DR   Pfam; PF18695; cPLA2_C2; 1.
+DR   Pfam; PF01735; PLA2_B; 1.
+DR   SMART; SM00239; C2; 1.
+DR   SMART; SM00022; PLAc; 1.
+DR   SUPFAM; SSF49562; C2 domain (Calcium/lipid-binding domain, CaLB); 1.
+DR   SUPFAM; SSF52151; FabD/lysophospholipase-like; 1.
+DR   PROSITE; PS50004; C2; 1.
+DR   PROSITE; PS51210; PLA2C; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Calcium; Cytoplasm; Endosome; Hydrolase;
+KW   Lipid degradation; Lipid metabolism; Membrane; Metal-binding;
+KW   Mitochondrion; Reference proteome.
+FT   CHAIN           1..781
+FT                   /note="Cytosolic phospholipase A2 beta"
+FT                   /id="PRO_0000247021"
+FT   DOMAIN          1..112
+FT                   /note="C2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   DOMAIN          246..781
+FT                   /note="PLA2c"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00555"
+FT   ACT_SITE        335
+FT                   /note="Nucleophile"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        615
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         26
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         26
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         32
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         82
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         82
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         84
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         84
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         90
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   VAR_SEQ         1..299
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|Ref.5"
+FT                   /id="VSP_019871"
+FT   VAR_SEQ         1..3
+FT                   /note="MAV -> MAEAALEAVRSELREFPAAARELCVPLAVPYLDKPPTPLHFYRDW
+FT                   VCPNRPCIIRNALQHWPALQKWSLPYFRATVGSTEVSVAVTPDGYADAVRGDRFMMPAE
+FT                   RRLPLSFVLDVLEGRAQHPGVLYVQKQCSNLPSELPQLLPDLESHVPWASEALGKMPDA
+FT                   VNFWLGEAAAVTSLHKDHYENLYCVVSGEKHFLFHPPSDRPFIPYELYTPATYQLTEEG
+FT                   TFKVVDEEAMEK (in isoform 2, isoform 3 and isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:10085124,
+FT                   ECO:0000303|PubMed:10358058, ECO:0000303|PubMed:16617059"
+FT                   /id="VSP_039387"
+FT   VAR_SEQ         641..765
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:16617059"
+FT                   /id="VSP_039388"
+FT   VAR_SEQ         650..662
+FT                   /note="QLQLLGRFCQEQG -> GSGGHPRRRQLGR (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:16617059"
+FT                   /id="VSP_039389"
+FT   VAR_SEQ         663..781
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:16617059"
+FT                   /id="VSP_039390"
+FT   VARIANT         191
+FT                   /note="R -> C (in dbSNP:rs3816533)"
+FT                   /evidence="ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_027047"
+FT   VARIANT         239
+FT                   /note="M -> I (in dbSNP:rs2290552)"
+FT                   /id="VAR_027048"
+FT   VARIANT         391
+FT                   /note="R -> H (in dbSNP:rs34807597)"
+FT                   /id="VAR_034365"
+FT   VARIANT         591
+FT                   /note="T -> I (in dbSNP:rs36126315)"
+FT                   /id="VAR_060082"
+FT   MUTAGEN         335
+FT                   /note="S->A: Abolishes enzyme activity."
+FT                   /evidence="ECO:0000269|PubMed:10085124"
+FT   MUTAGEN         417
+FT                   /note="H->A: No effect."
+FT                   /evidence="ECO:0000269|PubMed:10085124"
+FT   MUTAGEN         615
+FT                   /note="D->A: Abolishes enzyme activity."
+FT                   /evidence="ECO:0000269|PubMed:10085124"
+FT   MUTAGEN         632
+FT                   /note="R->A: Abolishes enzyme activity."
+FT                   /evidence="ECO:0000269|PubMed:10085124"
+FT   CONFLICT        138
+FT                   /note="L -> F (in Ref. 2; AAD32135)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        162
+FT                   /note="Q -> P (in Ref. 3; ABF69195/ABF69196)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        438
+FT                   /note="A -> V (in Ref. 3; ABF69195)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        517
+FT                   /note="S -> P (in Ref. 3; ABF69195)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        575
+FT                   /note="R -> C (in Ref. 4; BAG61401)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        723
+FT                   /note="G -> E (in Ref. 4; BAG61401)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   781 AA;  87978 MW;  4C5C6861E7BAB1B8 CRC64;
+     MAVAEVSRTC LLTVRVLQAH RLPSKDLVTP SDCYVTLWLP TACSHRLQTR TVKNSSSPVW
+     NQSFHFRIHR QLKNVMELKV FDQDLVTGDD PVLSVLFDAG TLRAGEFRRE SFSLSPQGEG
+     RLEVEFRLQS LADRGEWLVS NGVLVARELS CLHVQLEETG DQKSSEHRVQ LVVPGSCEGP
+     QEASVGTGTF RFHCPACWEQ ELSIRLQDAP EEQLKAPLSA LPSGQVVRLV FPTSQEPLMR
+     VELKKEAGLR ELAVRLGFGP CAEEQAFLSR RKQVVAAALR QALQLDGDLQ EDEIPVVAIM
+     ATGGGIRAMT SLYGQLAGLK ELGLLDCVSY ITGASGSTWA LANLYEDPEW SQKDLAGPTE
+     LLKTQVTKNK LGVLAPSQLQ RYRQELAERA RLGYPSCFTN LWALINEALL HDEPHDHKLS
+     DQREALSHGQ NPLPIYCALN TKGQSLTTFE FGEWCEFSPY EVGFPKYGAF IPSELFGSEF
+     FMGQLMKRLP ESRICFLEGI WSNLYAANLQ DSLYWASEPS QFWDRWVRNQ ANLDKEQVPL
+     LKIEEPPSTA GRIAEFFTDL LTWRPLAQAT HNFLRGLHFH KDYFQHPHFS TWKATTLDGL
+     PNQLTPSEPH LCLLDVGYLI NTSCLPLLQP TRDVDLILSL DYNLHGAFQQ LQLLGRFCQE
+     QGIPFPPISP SPEEQLQPRE CHTFSDPTCP GAPAVLHFPL VSDSFREYSA PGVRRTPEEA
+     AAGEVNLSSS DSPYHYTKVT YSQEDVDKLL HLTHYNVCNN QEQLLEALRQ AVQRRRQRRP
+     H
+//

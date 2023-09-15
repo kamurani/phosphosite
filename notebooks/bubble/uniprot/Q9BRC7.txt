@@ -1,0 +1,466 @@
+ID   PLCD4_HUMAN             Reviewed;         762 AA.
+AC   Q9BRC7; Q53FS8;
+DT   02-OCT-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   28-JUN-2023, entry version 181.
+DE   RecName: Full=1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-4 {ECO:0000305};
+DE            Short=hPLCD4;
+DE            EC=3.1.4.11 {ECO:0000269|PubMed:15140260};
+DE   AltName: Full=Phosphoinositide phospholipase C-delta-4;
+DE   AltName: Full=Phospholipase C-delta-4;
+DE            Short=PLC-delta-4;
+GN   Name=PLCD4 {ECO:0000312|HGNC:HGNC:9062};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), FUNCTION, SUBCELLULAR LOCATION,
+RP   TISSUE SPECIFICITY, AND CATALYTIC ACTIVITY.
+RX   PubMed=15140260; DOI=10.1186/1476-4598-3-15;
+RA   Leung D.W., Tompkins C., Brewer J., Ball A., Coon M., Morris V.,
+RA   Waggoner D., Singer J.W.;
+RT   "Phospholipase C delta-4 overexpression upregulates ErbB1/2 expression, Erk
+RT   signaling pathway, and proliferation in MCF-7 cells.";
+RL   Mol. Cancer 3:15-15(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Kidney proximal tubule;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   IDENTIFICATION.
+RX   PubMed=10702683; DOI=10.1159/000015437;
+RA   Kim H., Suh P.-G., Ryu S.H., Park S.H.;
+RT   "Assignment of the human PLC delta4 gene (PLCD4) to human chromosome band
+RT   2q35 by fluorescence in situ hybridization.";
+RL   Cytogenet. Cell Genet. 87:254-255(1999).
+RN   [5]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=15505048; DOI=10.1167/iovs.04-0084;
+RA   Landreville S., Coulombe S., Carrier P., Gelb M.H., Guerin S.L.,
+RA   Salesse C.;
+RT   "Expression of phospholipases A2 and C in human corneal epithelial cells.";
+RL   Invest. Ophthalmol. Vis. Sci. 45:3997-4003(2004).
+RN   [6]
+RP   FUNCTION (ISOFORM 2), INTERACTION WITH GNAI3, GBA MOTIF, AND MUTAGENESIS OF
+RP   224-LEU--LEU-228; PHE-227 AND 227-PHE-LEU-228.
+RX   PubMed=30194280; DOI=10.1074/jbc.ra118.003580;
+RA   Maziarz M., Broselid S., DiGiacomo V., Park J.C., Luebbers A.,
+RA   Garcia-Navarrete L., Blanco-Canosa J.B., Baillie G.S., Garcia-Marcos M.;
+RT   "A biochemical and genetic discovery pipeline identifies PLCdelta4b as a
+RT   nonreceptor activator of heterotrimeric G-proteins.";
+RL   J. Biol. Chem. 293:16964-16983(2018).
+CC   -!- FUNCTION: Hydrolyzes the phosphatidylinositol 4,5-bisphosphate (PIP2)
+CC       to generate 2 second messenger molecules diacylglycerol (DAG) and
+CC       inositol 1,4,5-trisphosphate (IP3). DAG mediates the activation of
+CC       protein kinase C (PKC), while IP3 releases Ca(2+) from intracellular
+CC       stores. Required for acrosome reaction in sperm during fertilization,
+CC       probably by acting as an important enzyme for intracellular Ca(2+)
+CC       mobilization in the zona pellucida-induced acrosome reaction. May play
+CC       a role in cell growth. Modulates the liver regeneration in cooperation
+CC       with nuclear PKC. Overexpression up-regulates the Erk signaling pathway
+CC       and proliferation. {ECO:0000269|PubMed:15140260}.
+CC   -!- FUNCTION: [Isoform 2]: Acts as a non-receptor guanine nucleotide
+CC       exchange factor which binds to and activates guanine nucleotide-binding
+CC       protein (G-protein) alpha subunit GNAI3. {ECO:0000269|PubMed:30194280}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol-4,5-
+CC         bisphosphate) + H2O = 1D-myo-inositol 1,4,5-trisphosphate + a 1,2-
+CC         diacyl-sn-glycerol + H(+); Xref=Rhea:RHEA:33179, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:17815, ChEBI:CHEBI:58456,
+CC         ChEBI:CHEBI:203600; EC=3.1.4.11;
+CC         Evidence={ECO:0000269|PubMed:15140260};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:33180;
+CC         Evidence={ECO:0000305|PubMed:15140260};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol) + H2O =
+CC         1D-myo-inositol 1-phosphate + a 1,2-diacyl-sn-glycerol + H(+);
+CC         Xref=Rhea:RHEA:43484, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:17815, ChEBI:CHEBI:57880, ChEBI:CHEBI:58433;
+CC         Evidence={ECO:0000269|PubMed:15140260};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:43485;
+CC         Evidence={ECO:0000305|PubMed:15140260};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU00041};
+CC       Note=Binds 5 Ca(2+) ions per subunit. Two of the Ca(2+) ions are bound
+CC       to the C2 domain. {ECO:0000250};
+CC   -!- SUBUNIT: Interacts with GRIP1 (By similarity).
+CC       {ECO:0000250|UniProtKB:Q8K3R3}.
+CC   -!- SUBUNIT: [Isoform 2]: Interacts (via GBA motif) with guanine
+CC       nucleotide-binding protein G(i) alpha subunit GNAI3 (inactive GDP-bound
+CC       form); high-affinity interaction (PubMed:30194280).
+CC       {ECO:0000269|PubMed:30194280}.
+CC   -!- SUBUNIT: [Isoform 1]: Interacts (via GBA motif) with guanine
+CC       nucleotide-binding protein G(i) alpha subunit GNAI3 (inactive GDP-bound
+CC       form); low-affinity interaction (PubMed:30194280).
+CC       {ECO:0000269|PubMed:30194280}.
+CC   -!- INTERACTION:
+CC       Q9BRC7; P50221: MEOX1; NbExp=3; IntAct=EBI-748799, EBI-2864512;
+CC       Q9BRC7; Q6FHY5: MEOX2; NbExp=3; IntAct=EBI-748799, EBI-16439278;
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000250}; Peripheral membrane
+CC       protein {ECO:0000250}. Nucleus {ECO:0000250}. Cytoplasm
+CC       {ECO:0000269|PubMed:15140260}. Endoplasmic reticulum {ECO:0000250}.
+CC       Note=Localizes primarily to intracellular membranes mostly to the
+CC       endoplasmic reticulum.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9BRC7-1; Sequence=Displayed;
+CC       Name=2; Synonyms=PLCD4b;
+CC         IsoId=Q9BRC7-2; Sequence=VSP_028501, VSP_028502;
+CC   -!- TISSUE SPECIFICITY: Highly expressed in skeletal muscle and kidney
+CC       tissues, and at moderate level in intestinal tissue. Expressed in
+CC       corneal epithelial cells. {ECO:0000269|PubMed:15140260,
+CC       ECO:0000269|PubMed:15505048}.
+CC   -!- DOMAIN: The PDZ-binding motif mediates the interaction with GRIP1.
+CC   -!- DOMAIN: The C2 domain mediates pre-localization to the membrane prior
+CC       to Ca(2+) import and non-selective Ca(2+)-mediated targeting to various
+CC       cellular membranes.
+CC   -!- DOMAIN: The PH domain is not a critical determinant of the membrane
+CC       localization.
+CC   -!- DOMAIN: The GBA (G-alpha binding and activating) motif mediates binding
+CC       to the alpha subunits of guanine nucleotide-binding proteins (G
+CC       proteins). {ECO:0000269|PubMed:30194280}.
+CC   -!- MISCELLANEOUS: [Isoform 1]: Acceptor splice site between exons 4 and 5
+CC       is non-canonical but conserved through species for that particular
+CC       gene.
+CC   -!- MISCELLANEOUS: [Isoform 2]: May be produced at very low levels due to a
+CC       premature stop codon in the mRNA, leading to nonsense-mediated mRNA
+CC       decay. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY512961; AAS82574.1; -; mRNA.
+DR   EMBL; AK223203; BAD96923.1; -; mRNA.
+DR   EMBL; BC006355; AAH06355.1; -; mRNA.
+DR   CCDS; CCDS46516.1; -. [Q9BRC7-1]
+DR   RefSeq; NP_116115.1; NM_032726.3. [Q9BRC7-1]
+DR   AlphaFoldDB; Q9BRC7; -.
+DR   SMR; Q9BRC7; -.
+DR   BioGRID; 124273; 32.
+DR   IntAct; Q9BRC7; 4.
+DR   STRING; 9606.ENSP00000388631; -.
+DR   SwissLipids; SLP:000001758; -.
+DR   iPTMnet; Q9BRC7; -.
+DR   PhosphoSitePlus; Q9BRC7; -.
+DR   BioMuta; PLCD4; -.
+DR   DMDM; 74732863; -.
+DR   jPOST; Q9BRC7; -.
+DR   MassIVE; Q9BRC7; -.
+DR   PaxDb; Q9BRC7; -.
+DR   PeptideAtlas; Q9BRC7; -.
+DR   ProteomicsDB; 78756; -. [Q9BRC7-1]
+DR   ProteomicsDB; 78757; -. [Q9BRC7-2]
+DR   Antibodypedia; 4087; 126 antibodies from 21 providers.
+DR   DNASU; 84812; -.
+DR   Ensembl; ENST00000417849.5; ENSP00000396942.1; ENSG00000115556.14. [Q9BRC7-1]
+DR   Ensembl; ENST00000450993.7; ENSP00000388631.2; ENSG00000115556.14. [Q9BRC7-1]
+DR   GeneID; 84812; -.
+DR   KEGG; hsa:84812; -.
+DR   MANE-Select; ENST00000450993.7; ENSP00000388631.2; NM_032726.4; NP_116115.1.
+DR   UCSC; uc061smf.1; human. [Q9BRC7-1]
+DR   AGR; HGNC:9062; -.
+DR   CTD; 84812; -.
+DR   DisGeNET; 84812; -.
+DR   GeneCards; PLCD4; -.
+DR   HGNC; HGNC:9062; PLCD4.
+DR   HPA; ENSG00000115556; Group enriched (retina, skeletal muscle).
+DR   MIM; 605939; gene.
+DR   neXtProt; NX_Q9BRC7; -.
+DR   OpenTargets; ENSG00000115556; -.
+DR   PharmGKB; PA33390; -.
+DR   VEuPathDB; HostDB:ENSG00000115556; -.
+DR   eggNOG; KOG0169; Eukaryota.
+DR   GeneTree; ENSGT00940000156180; -.
+DR   HOGENOM; CLU_002738_0_2_1; -.
+DR   InParanoid; Q9BRC7; -.
+DR   OrthoDB; 2900494at2759; -.
+DR   PhylomeDB; Q9BRC7; -.
+DR   TreeFam; TF313216; -.
+DR   PathwayCommons; Q9BRC7; -.
+DR   Reactome; R-HSA-1855204; Synthesis of IP3 and IP4 in the cytosol.
+DR   SignaLink; Q9BRC7; -.
+DR   SIGNOR; Q9BRC7; -.
+DR   BioGRID-ORCS; 84812; 7 hits in 1149 CRISPR screens.
+DR   ChiTaRS; PLCD4; human.
+DR   GeneWiki; PLCD4; -.
+DR   GenomeRNAi; 84812; -.
+DR   Pharos; Q9BRC7; Tbio.
+DR   PRO; PR:Q9BRC7; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; Q9BRC7; protein.
+DR   Bgee; ENSG00000115556; Expressed in hindlimb stylopod muscle and 120 other tissues.
+DR   ExpressionAtlas; Q9BRC7; baseline and differential.
+DR   Genevisible; Q9BRC7; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:HPA.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0001965; F:G-protein alpha-subunit binding; IPI:UniProtKB.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IDA:UniProtKB.
+DR   GO; GO:0004435; F:phosphatidylinositol phospholipase C activity; IEA:UniProtKB-EC.
+DR   GO; GO:0007340; P:acrosome reaction; IEA:Ensembl.
+DR   GO; GO:0035556; P:intracellular signal transduction; IEA:InterPro.
+DR   GO; GO:0016042; P:lipid catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0007264; P:small GTPase mediated signal transduction; IDA:UniProtKB.
+DR   CDD; cd00275; C2_PLC_like; 1.
+DR   CDD; cd13363; PH_PLC_delta; 1.
+DR   Gene3D; 2.60.40.150; C2 domain; 1.
+DR   Gene3D; 1.10.238.10; EF-hand; 2.
+DR   Gene3D; 3.20.20.190; Phosphatidylinositol (PI) phosphodiesterase; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR035892; C2_domain_sf.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR018247; EF_Hand_1_Ca_BS.
+DR   InterPro; IPR002048; EF_hand_dom.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR001192; PI-PLC_fam.
+DR   InterPro; IPR017946; PLC-like_Pdiesterase_TIM-brl.
+DR   InterPro; IPR015359; PLC_EF-hand-like.
+DR   InterPro; IPR000909; PLipase_C_PInositol-sp_X_dom.
+DR   InterPro; IPR001711; PLipase_C_Pinositol-sp_Y.
+DR   PANTHER; PTHR10336:SF31; 1-PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE PHOSPHODIESTERASE DELTA-4; 1.
+DR   PANTHER; PTHR10336; PHOSPHOINOSITIDE-SPECIFIC PHOSPHOLIPASE C FAMILY PROTEIN; 1.
+DR   Pfam; PF00168; C2; 1.
+DR   Pfam; PF13202; EF-hand_5; 1.
+DR   Pfam; PF09279; EF-hand_like; 1.
+DR   Pfam; PF00169; PH; 1.
+DR   Pfam; PF00388; PI-PLC-X; 1.
+DR   Pfam; PF00387; PI-PLC-Y; 1.
+DR   PRINTS; PR00390; PHPHLIPASEC.
+DR   SMART; SM00239; C2; 1.
+DR   SMART; SM00054; EFh; 3.
+DR   SMART; SM00233; PH; 1.
+DR   SMART; SM00148; PLCXc; 1.
+DR   SMART; SM00149; PLCYc; 1.
+DR   SUPFAM; SSF49562; C2 domain (Calcium/lipid-binding domain, CaLB); 1.
+DR   SUPFAM; SSF47473; EF-hand; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   SUPFAM; SSF51695; PLC-like phosphodiesterases; 1.
+DR   PROSITE; PS50004; C2; 1.
+DR   PROSITE; PS00018; EF_HAND_1; 2.
+DR   PROSITE; PS50222; EF_HAND_2; 3.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+DR   PROSITE; PS50007; PIPLC_X_DOMAIN; 1.
+DR   PROSITE; PS50008; PIPLC_Y_DOMAIN; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Calcium; Cytoplasm; Endoplasmic reticulum;
+KW   Guanine-nucleotide releasing factor; Hydrolase; Lipid degradation;
+KW   Lipid metabolism; Membrane; Metal-binding; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repeat; Transducer.
+FT   CHAIN           1..762
+FT                   /note="1-phosphatidylinositol 4,5-bisphosphate
+FT                   phosphodiesterase delta-4"
+FT                   /id="PRO_0000306824"
+FT   DOMAIN          16..124
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          134..169
+FT                   /note="EF-hand 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   DOMAIN          170..205
+FT                   /note="EF-hand 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   DOMAIN          206..237
+FT                   /note="EF-hand 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   DOMAIN          290..435
+FT                   /note="PI-PLC X-box"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00270"
+FT   DOMAIN          493..609
+FT                   /note="PI-PLC Y-box"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00271"
+FT   DOMAIN          609..736
+FT                   /note="C2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   REGION          26..53
+FT                   /note="Substrate binding"
+FT                   /evidence="ECO:0000250"
+FT   REGION          443..483
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           213..243
+FT                   /note="GBA"
+FT                   /evidence="ECO:0000269|PubMed:30194280"
+FT   MOTIF           731..734
+FT                   /note="PDZ-binding"
+FT   COMPBIAS        443..463
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        305
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00270"
+FT   ACT_SITE        350
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00270"
+FT   BINDING         147
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         149
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         151
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         153
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         158
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         183
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         185
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         187
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         189
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         194
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448"
+FT   BINDING         306
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         335
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         337
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         384
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         433
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         435
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         522
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         549
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         650
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="4"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         652
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="4"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         676
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="4"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         705
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="5"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         706
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="5"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         707
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="5"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         457
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q62711"
+FT   VAR_SEQ         259..272
+FT                   /note="KLRHVLSMDGFLSY -> ASEEDPGEGEEVNT (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15140260"
+FT                   /id="VSP_028501"
+FT   VAR_SEQ         273..762
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15140260"
+FT                   /id="VSP_028502"
+FT   MUTAGEN         224..228
+FT                   /note="LLEFL->ALEAA: Abolishes binding to and activation of
+FT                   GNAI3."
+FT                   /evidence="ECO:0000269|PubMed:30194280"
+FT   MUTAGEN         227..228
+FT                   /note="FL->AA: Abolishes binding to GNAI3."
+FT                   /evidence="ECO:0000269|PubMed:30194280"
+FT   MUTAGEN         227
+FT                   /note="F->A: Marked but incomplete decrease in GNAI3
+FT                   binding and reduced activation of G-protein signaling."
+FT                   /evidence="ECO:0000269|PubMed:30194280"
+FT   CONFLICT        98
+FT                   /note="R -> H (in Ref. 2; BAD96923)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   762 AA;  87585 MW;  5444BE5CE2AEA3EF CRC64;
+     MASLLQDQLT TDQDLLLMQE GMPMRKVRSK SWKKLRYFRL QNDGMTVWHA RQARGSAKPS
+     FSISDVETIR NGHDSELLRS LAEELPLEQG FTIVFHGRRS NLDLMANSVE EAQIWMRGLQ
+     LLVDLVTSMD HQERLDQWLS DWFQRGDKNQ DGKMSFQEVQ RLLHLMNVEM DQEYAFSLFQ
+     AADTSQSGTL EGEEFVQFYK ALTKRAEVQE LFESFSADGQ KLTLLEFLDF LQEEQKERDC
+     TSELALELID RYEPSDSGKL RHVLSMDGFL SYLCSKDGDI FNPACLPIYQ DMTQPLNHYF
+     ICSSHNTYLV GDQLCGQSSV EGYIRALKRG CRCVEVDVWD GPSGEPVVYH GHTLTSRILF
+     KDVVATVAQY AFQTSDYPVI LSLETHCSWE QQQTMARHLT EILGEQLLST TLDGVLPTQL
+     PSPEELRRKI LVKGKKLTLE EDLEYEEEEA EPELEESELA LESQFETEPE PQEQNLQNKD
+     KKKKSKPILC PALSSLVIYL KSVSFRSFTH SKEHYHFYEI SSFSETKAKR LIKEAGNEFV
+     QHNTWQLSRV YPSGLRTDSS NYNPQELWNA GCQMVAMNMQ TAGLEMDICD GHFRQNGGCG
+     YVLKPDFLRD IQSSFHPEKP ISPFKAQTLL IQVISGQQLP KVDKTKEGSI VDPLVKVQIF
+     GVRLDTARQE TNYVENNGFN PYWGQTLCFR VLVPELAMLR FVVMDYDWKS RNDFIGQYTL
+     PWTCMQQGYR HIHLLSKDGI SLRPASIFVY ICIQEGLEGD ES
+//

@@ -1,0 +1,378 @@
+ID   TINAG_HUMAN             Reviewed;         476 AA.
+AC   Q9UJW2; Q5T467; Q9UJW1; Q9ULZ4;
+DT   15-AUG-2003, integrated into UniProtKB/Swiss-Prot.
+DT   11-JAN-2011, sequence version 3.
+DT   28-JUN-2023, entry version 177.
+DE   RecName: Full=Tubulointerstitial nephritis antigen;
+DE            Short=TIN-Ag;
+GN   Name=TINAG;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000312|EMBL:AAF08931.1};
+RN   [1] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, AND VARIANT
+RP   PRO-158.
+RC   TISSUE=Kidney {ECO:0000269|PubMed:10652240};
+RX   PubMed=10652240; DOI=10.1006/bbrc.2000.2103;
+RA   Ikeda M., Takemura T., Hino S., Yoshioka K.;
+RT   "Molecular cloning, expression, and chromosomal localization of a human
+RT   tubulointerstitial nephritis antigen.";
+RL   Biochem. Biophys. Res. Commun. 268:225-230(2000).
+RN   [2] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), TISSUE SPECIFICITY,
+RP   SUBCELLULAR LOCATION, AND VARIANT PRO-158.
+RC   TISSUE=Kidney {ECO:0000269|PubMed:10752525};
+RX   PubMed=10752525; DOI=10.1681/asn.v114658;
+RA   Zhou B., Nelson T.R., Kashtan C., Gleason B., Michael A.F., Vlassi M.,
+RA   Charonis A.S.;
+RT   "Identification of two alternatively spliced forms of human
+RT   tubulointerstitial nephritis antigen (TIN-Ag).";
+RL   J. Am. Soc. Nephrol. 11:658-668(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Kidney;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000305}
+RP   IDENTIFICATION, AND INVOLVEMENT IN TUBULOINTERSTITIAL NEPHRITIS.
+RC   TISSUE=Kidney {ECO:0000269|PubMed:3553704};
+RX   PubMed=3553704; DOI=10.1038/ki.1987.69;
+RA   Fliger F.D., Wieslander J., Brentjens J.R., Andres G.A., Butkowski R.J.;
+RT   "Identification of a target antigen in human anti-tubular basement membrane
+RT   nephritis.";
+RL   Kidney Int. 31:800-807(1987).
+RN   [7] {ECO:0000305}
+RP   TISSUE SPECIFICITY, AND SUBCELLULAR LOCATION.
+RX   PubMed=1762287; DOI=10.1038/ki.1991.283;
+RA   Butkowski R.J., Kleppel M.M., Katz A., Michael A.F., Fish A.J.;
+RT   "Distribution of tubulointerstitial nephritis antigen and evidence for
+RT   multiple forms.";
+RL   Kidney Int. 40:838-846(1991).
+RN   [8] {ECO:0000305}
+RP   DISEASE.
+RX   PubMed=1466368; DOI=10.1016/0002-9343(92)90205-p;
+RA   Katz A., Fish A.J., Santamaria P., Nevins T.E., Kim Y., Butkowski R.J.;
+RT   "Role of antibodies to tubulointerstitial nephritis antigen in human anti-
+RT   tubular basement membrane nephritis associated with membranous
+RT   nephropathy.";
+RL   Am. J. Med. 93:691-698(1992).
+RN   [9] {ECO:0000305}
+RP   FUNCTION.
+RX   PubMed=8770961; DOI=10.1038/ki.1996.20;
+RA   Chen Y., Krishnamurti U., Wayner E.A., Michael A.F., Charonis A.S.;
+RT   "Receptors in proximal tubular epithelial cells for tubulointerstitial
+RT   nephritis antigen.";
+RL   Kidney Int. 49:153-157(1996).
+RN   [10] {ECO:0000305}
+RP   DEVELOPMENTAL STAGE.
+RX   PubMed=9643646; DOI=10.3109/03008209809028899;
+RA   Nelson T.R., Kim Y., Michael A.F., Butkowski R.J., Charonis A.S.;
+RT   "Tubulointerstitial nephritis antigen (TIN-ag) is expressed in distinct
+RT   segments of the developing human nephron.";
+RL   Connect. Tissue Res. 37:53-60(1998).
+CC   -!- FUNCTION: Mediates adhesion of proximal tubule epithelial cells via
+CC       integrins alpha3-beta1 and alphaV-beta3. This is a non catalytic
+CC       peptidase C1 family protein. {ECO:0000269|PubMed:8770961}.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space, extracellular
+CC       matrix, basement membrane {ECO:0000269|PubMed:10752525,
+CC       ECO:0000269|PubMed:1762287}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=TIN1 {ECO:0000269|PubMed:10752525};
+CC         IsoId=Q9UJW2-1; Sequence=Displayed;
+CC       Name=2; Synonyms=TIN2 {ECO:0000269|PubMed:10752525};
+CC         IsoId=Q9UJW2-2; Sequence=VSP_050567, VSP_050568;
+CC   -!- TISSUE SPECIFICITY: Expressed in the kidney cortex, small intestine and
+CC       cornea. {ECO:0000269|PubMed:10652240, ECO:0000269|PubMed:10752525,
+CC       ECO:0000269|PubMed:1762287}.
+CC   -!- DEVELOPMENTAL STAGE: Initially observed in the Bowman capsule during
+CC       early glomerular capillary loop formation in the kidney. In more
+CC       developmentally mature glomeruli, following transition from early to
+CC       mid-capillary loop stage, expression is higher in the proximal tubular
+CC       basement membrane than in the distal basement membrane and Bowman
+CC       capsule. {ECO:0000269|PubMed:9643646}.
+CC   -!- PTM: It has been suggested that the active SMB domain may be permitted
+CC       considerable disulfide bond heterogeneity or variability, thus 2
+CC       alternate disulfide patterns based on 3D structures are described with
+CC       1 disulfide bond conserved in both.
+CC   -!- MISCELLANEOUS: Antibodies against TINAG are found in sera of patients
+CC       with tubulointerstitial nephritis, a rare autoimmune disorder that
+CC       causes acute and chronic renal injury.
+CC   -!- MISCELLANEOUS: [Isoform 1]: Major isoform.
+CC   -!- SIMILARITY: Belongs to the peptidase C1 family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU10090}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB022277; BAA84949.1; -; mRNA.
+DR   EMBL; AF195116; AAF08931.1; -; mRNA.
+DR   EMBL; AF195117; AAF08932.1; -; mRNA.
+DR   EMBL; AK312918; BAG35763.1; -; mRNA.
+DR   EMBL; AL359380; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL589946; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471081; EAX04437.1; -; Genomic_DNA.
+DR   CCDS; CCDS4955.1; -. [Q9UJW2-1]
+DR   PIR; JC7189; JC7189.
+DR   RefSeq; NP_055279.3; NM_014464.3. [Q9UJW2-1]
+DR   AlphaFoldDB; Q9UJW2; -.
+DR   SMR; Q9UJW2; -.
+DR   BioGRID; 118107; 75.
+DR   IntAct; Q9UJW2; 24.
+DR   STRING; 9606.ENSP00000259782; -.
+DR   MEROPS; C01.973; -.
+DR   GlyCosmos; Q9UJW2; 6 sites, 2 glycans.
+DR   GlyGen; Q9UJW2; 6 sites, 2 O-linked glycans (1 site).
+DR   iPTMnet; Q9UJW2; -.
+DR   PhosphoSitePlus; Q9UJW2; -.
+DR   BioMuta; TINAG; -.
+DR   DMDM; 317373501; -.
+DR   EPD; Q9UJW2; -.
+DR   jPOST; Q9UJW2; -.
+DR   MassIVE; Q9UJW2; -.
+DR   PaxDb; Q9UJW2; -.
+DR   PeptideAtlas; Q9UJW2; -.
+DR   ProteomicsDB; 84670; -. [Q9UJW2-1]
+DR   ProteomicsDB; 84671; -. [Q9UJW2-2]
+DR   ABCD; Q9UJW2; 4 sequenced antibodies.
+DR   Antibodypedia; 31018; 89 antibodies from 21 providers.
+DR   DNASU; 27283; -.
+DR   Ensembl; ENST00000259782.9; ENSP00000259782.4; ENSG00000137251.16. [Q9UJW2-1]
+DR   GeneID; 27283; -.
+DR   KEGG; hsa:27283; -.
+DR   MANE-Select; ENST00000259782.9; ENSP00000259782.4; NM_014464.4; NP_055279.3.
+DR   UCSC; uc003pcj.3; human. [Q9UJW2-1]
+DR   AGR; HGNC:14599; -.
+DR   CTD; 27283; -.
+DR   DisGeNET; 27283; -.
+DR   GeneCards; TINAG; -.
+DR   HGNC; HGNC:14599; TINAG.
+DR   HPA; ENSG00000137251; Tissue enriched (kidney).
+DR   MIM; 606749; gene.
+DR   neXtProt; NX_Q9UJW2; -.
+DR   OpenTargets; ENSG00000137251; -.
+DR   PharmGKB; PA37905; -.
+DR   VEuPathDB; HostDB:ENSG00000137251; -.
+DR   eggNOG; KOG1544; Eukaryota.
+DR   GeneTree; ENSGT00940000161065; -.
+DR   HOGENOM; CLU_012184_3_2_1; -.
+DR   InParanoid; Q9UJW2; -.
+DR   OMA; HTNGPCP; -.
+DR   OrthoDB; 808912at2759; -.
+DR   PhylomeDB; Q9UJW2; -.
+DR   TreeFam; TF313765; -.
+DR   PathwayCommons; Q9UJW2; -.
+DR   SignaLink; Q9UJW2; -.
+DR   BioGRID-ORCS; 27283; 16 hits in 1146 CRISPR screens.
+DR   GeneWiki; TINAG; -.
+DR   GenomeRNAi; 27283; -.
+DR   Pharos; Q9UJW2; Tbio.
+DR   PRO; PR:Q9UJW2; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q9UJW2; protein.
+DR   Bgee; ENSG00000137251; Expressed in kidney epithelium and 52 other tissues.
+DR   ExpressionAtlas; Q9UJW2; baseline and differential.
+DR   Genevisible; Q9UJW2; HS.
+DR   GO; GO:0005604; C:basement membrane; IDA:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; IBA:GO_Central.
+DR   GO; GO:0004197; F:cysteine-type endopeptidase activity; TAS:ProtInc.
+DR   GO; GO:0000166; F:nucleotide binding; TAS:ProtInc.
+DR   GO; GO:0007155; P:cell adhesion; IDA:UniProtKB.
+DR   GO; GO:0006508; P:proteolysis; IEA:InterPro.
+DR   CDD; cd02620; Peptidase_C1A_CathepsinB; 1.
+DR   Gene3D; 3.90.70.10; Cysteine proteinases; 1.
+DR   InterPro; IPR038765; Papain-like_cys_pep_sf.
+DR   InterPro; IPR025661; Pept_asp_AS.
+DR   InterPro; IPR013128; Peptidase_C1A.
+DR   InterPro; IPR000668; Peptidase_C1A_C.
+DR   InterPro; IPR001212; Somatomedin_B_dom.
+DR   PANTHER; PTHR12411; CYSTEINE PROTEASE FAMILY C1-RELATED; 1.
+DR   PANTHER; PTHR12411:SF274; TUBULOINTERSTITIAL NEPHRITIS ANTIGEN; 1.
+DR   Pfam; PF00112; Peptidase_C1; 1.
+DR   Pfam; PF01033; Somatomedin_B; 1.
+DR   SMART; SM00645; Pept_C1; 1.
+DR   SMART; SM00201; SO; 1.
+DR   SUPFAM; SSF54001; Cysteine proteinases; 1.
+DR   PROSITE; PS00524; SMB_1; 1.
+DR   PROSITE; PS50958; SMB_2; 1.
+DR   PROSITE; PS00640; THIOL_PROTEASE_ASN; 1.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Basement membrane; Cell adhesion; Disulfide bond;
+KW   Extracellular matrix; Glycoprotein; Reference proteome; Secreted.
+FT   CHAIN           1..476
+FT                   /note="Tubulointerstitial nephritis antigen"
+FT                   /id="PRO_0000050600"
+FT   DOMAIN          59..107
+FT                   /note="SMB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00350"
+FT   SITE            49..50
+FT                   /note="Cleavage; by furin"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        38
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        175
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        314
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        360
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        455
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        63..70
+FT                   /note="Alternate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00350"
+FT   DISULFID        70..102
+FT                   /note="Alternate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00350"
+FT   DISULFID        81..95
+FT                   /note="Alternate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00350"
+FT   DISULFID        81..83
+FT                   /note="Alternate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00350"
+FT   DISULFID        87..94
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00350"
+FT   DISULFID        95..102
+FT                   /note="Alternate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00350"
+FT   VAR_SEQ         119..169
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:10752525"
+FT                   /id="VSP_050567"
+FT   VAR_SEQ         209..300
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:10752525"
+FT                   /id="VSP_050568"
+FT   VARIANT         3
+FT                   /note="T -> A (in dbSNP:rs16885197)"
+FT                   /id="VAR_047091"
+FT   VARIANT         22
+FT                   /note="Q -> R (in dbSNP:rs2297980)"
+FT                   /id="VAR_047092"
+FT   VARIANT         158
+FT                   /note="S -> P (in dbSNP:rs1058768)"
+FT                   /evidence="ECO:0000269|PubMed:10652240,
+FT                   ECO:0000269|PubMed:10752525"
+FT                   /id="VAR_047093"
+FT   VARIANT         413
+FT                   /note="V -> I (in dbSNP:rs34011963)"
+FT                   /id="VAR_047094"
+FT   VARIANT         433
+FT                   /note="I -> L (in dbSNP:rs3736352)"
+FT                   /id="VAR_047095"
+FT   CONFLICT        7..8
+FT                   /note="IL -> FS (in Ref. 2; AAF08931/AAF08932)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        175
+FT                   /note="N -> I (in Ref. 2; AAF08932)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        199
+FT                   /note="P -> L (in Ref. 1; BAA84949)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        333
+FT                   /note="H -> D (in Ref. 2; AAF08931/AAF08932)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        381
+FT                   /note="R -> H (in Ref. 1; BAA84949)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        421
+FT                   /note="L -> R (in Ref. 2; AAF08932)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        437
+FT                   /note="S -> F (in Ref. 2; AAF08931/AAF08932)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        463
+FT                   /note="I -> V (in Ref. 2; AAF08931/AAF08932)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   476 AA;  54605 MW;  6D90C734DAC3A5AE CRC64;
+     MWTGYKILIF SYLTTEIWME KQYLSQREVD LEAYFTRNHT VLQGTRFKRA IFQGQYCRNF
+     GCCEDRDDGC VTEFYAANAL CYCDKFCDRE NSDCCPDYKS FCREEKEWPP HTQPWYPEGC
+     FKDGQHYEEG SVIKENCNSC TCSGQQWKCS QHVCLVRSEL IEQVNKGDYG WTAQNYSQFW
+     GMTLEDGFKF RLGTLPPSPM LLSMNEMTAS LPATTDLPEF FVASYKWPGW THGPLDQKNC
+     AASWAFSTAS VAADRIAIQS KGRYTANLSP QNLISCCAKN RHGCNSGSID RAWWYLRKRG
+     LVSHACYPLF KDQNATNNGC AMASRSDGRG KRHATKPCPN NVEKSNRIYQ CSPPYRVSSN
+     ETEIMKEIMQ NGPVQAIMQV REDFFHYKTG IYRHVTSTNK ESEKYRKLQT HAVKLTGWGT
+     LRGAQGQKEK FWIAANSWGK SWGENGYFRI LRGVNESDIE KLIIAAWGQL TSSDEP
+//

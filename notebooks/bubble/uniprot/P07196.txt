@@ -1,0 +1,743 @@
+ID   NFL_HUMAN               Reviewed;         543 AA.
+AC   P07196; B9ZVN2; Q16154; Q8IU72;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   28-JUN-2023, entry version 235.
+DE   RecName: Full=Neurofilament light polypeptide;
+DE            Short=NF-L;
+DE   AltName: Full=68 kDa neurofilament protein;
+DE   AltName: Full=Neurofilament triplet L protein;
+GN   Name=NEFL; Synonyms=NF68, NFL;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3034332; DOI=10.1016/0167-4781(87)90041-8;
+RA   Julien J.-P., Grosveld F., Yazdanbaksh K., Flavell D., Meijer D.,
+RA   Mushynski W.;
+RT   "The structure of a human neurofilament gene (NF-L): a unique exon-intron
+RT   organization in the intermediate filament gene family.";
+RL   Biochim. Biophys. Acta 909:10-20(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=12432080; DOI=10.1242/jcs.00148;
+RA   Perez-Olle R., Leung C.L., Liem R.K.;
+RT   "Effects of Charcot-Marie-Tooth-linked mutations of the neurofilament light
+RT   subunit on intermediate filament formation.";
+RL   J. Cell Sci. 115:4937-4946(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16421571; DOI=10.1038/nature04406;
+RA   Nusbaum C., Mikkelsen T.S., Zody M.C., Asakawa S., Taudien S., Garber M.,
+RA   Kodira C.D., Schueler M.G., Shimizu A., Whittaker C.A., Chang J.L.,
+RA   Cuomo C.A., Dewar K., FitzGerald M.G., Yang X., Allen N.R., Anderson S.,
+RA   Asakawa T., Blechschmidt K., Bloom T., Borowsky M.L., Butler J., Cook A.,
+RA   Corum B., DeArellano K., DeCaprio D., Dooley K.T., Dorris L. III,
+RA   Engels R., Gloeckner G., Hafez N., Hagopian D.S., Hall J.L., Ishikawa S.K.,
+RA   Jaffe D.B., Kamat A., Kudoh J., Lehmann R., Lokitsang T., Macdonald P.,
+RA   Major J.E., Matthews C.D., Mauceli E., Menzel U., Mihalev A.H.,
+RA   Minoshima S., Murayama Y., Naylor J.W., Nicol R., Nguyen C., O'Leary S.B.,
+RA   O'Neill K., Parker S.C.J., Polley A., Raymond C.K., Reichwald K.,
+RA   Rodriguez J., Sasaki T., Schilhabel M., Siddiqui R., Smith C.L.,
+RA   Sneddon T.P., Talamas J.A., Tenzin P., Topham K., Venkataraman V., Wen G.,
+RA   Yamazaki S., Young S.K., Zeng Q., Zimmer A.R., Rosenthal A., Birren B.W.,
+RA   Platzer M., Shimizu N., Lander E.S.;
+RT   "DNA sequence and analysis of human chromosome 8.";
+RL   Nature 439:331-335(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-11.
+RX   PubMed=8180132;
+RA   Pospelov V.A., Pospelova T.V., Julien J.-P.;
+RT   "AP-1 and Krox-24 transcription factors activate the neurofilament light
+RT   gene promoter in P19 embryonal carcinoma cells.";
+RL   Cell Growth Differ. 5:187-196(1994).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 38-54; 213-224; 340-353; 380-390 AND 422-437, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Fetal brain cortex;
+RA   Lubec G., Chen W.-Q., Sun Y.;
+RL   Submitted (DEC-2008) to UniProtKB.
+RN   [8]
+RP   PROTEIN SEQUENCE OF 468-473.
+RC   TISSUE=Brain;
+RX   PubMed=6135695; DOI=10.1093/jb/93.3.825;
+RA   Nomata Y., Watanabe T., Wada H.;
+RT   "Highly acidic proteins from human brain: purification and properties of
+RT   Glu-50 protein.";
+RL   J. Biochem. 93:825-831(1983).
+RN   [9]
+RP   PHOSPHORYLATION BY PKN1.
+RX   PubMed=8621664; DOI=10.1074/jbc.271.16.9816;
+RA   Mukai H., Toshimori M., Shibata H., Kitagawa M., Shimakawa M., Miyahara M.,
+RA   Sunakawa H., Ono Y.;
+RT   "PKN associates and phosphorylates the head-rod domain of neurofilament
+RT   protein.";
+RL   J. Biol. Chem. 271:9816-9822(1996).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [11]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.m111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C., Meinnel T.,
+RA   Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [12]
+RP   VARIANT CMT2E PRO-332.
+RX   PubMed=10841809; DOI=10.1086/302962;
+RA   Mersiyanova I.V., Perepelov A.V., Polyakov A.V., Sitnikov V.F.,
+RA   Dadali E.L., Oparin R.B., Petrin A.N., Evgrafov O.V.;
+RT   "A new variant of Charcot-Marie-Tooth disease type 2 is probably the result
+RT   of a mutation in the neurofilament-light gene.";
+RL   Am. J. Hum. Genet. 67:37-46(2000).
+RN   [13]
+RP   VARIANT CMT2E ARG-8.
+RX   PubMed=11220745;
+RX   DOI=10.1002/1531-8249(20010201)49:2<245::aid-ana45>3.0.co;2-a;
+RA   De Jonghe P., Mersivanova I., Nelis E., Del Favero J., Martin J.-J.,
+RA   Van Broeckhoven C., Evgrafov O., Timmerman V.;
+RT   "Further evidence that neurofilament light chain gene mutations can cause
+RT   Charcot-Marie-Tooth disease type 2E.";
+RL   Ann. Neurol. 49:245-249(2001).
+RN   [14]
+RP   VARIANT CMT2E SER-22.
+RX   PubMed=12481988; DOI=10.1007/s10048-002-0138-4;
+RA   Georgiou D.-M., Zidar J., Korosec M., Middleton L.T., Kyriakides T.,
+RA   Christodoulou K.;
+RT   "A novel NF-L mutation Pro22Ser is associated with CMT2 in a large
+RT   Slovenian family.";
+RL   Neurogenetics 4:93-96(2002).
+RN   [15]
+RP   VARIANTS CMT1F ARG-8; LEU-8; GLN-8; LYS-90; SER-98 AND GLU-527 DEL, AND
+RP   VARIANTS LYS-7 AND ASN-468.
+RX   PubMed=12566280; DOI=10.1093/brain/awg059;
+RA   Jordanova A., De Jonghe P., Boerkoel C.F., Takashima H., De Vriendt E.,
+RA   Ceuterick C., Martin J.-J., Butler I.J., Mancias P., Papasozomenos S.C.,
+RA   Terespolsky D., Potocki L., Brown C.W., Shy M., Rita D.A., Tournev I.,
+RA   Kremensky I., Lupski J.R., Timmerman V.;
+RT   "Mutations in the neurofilament light chain gene (NEFL) cause early onset
+RT   severe Charcot-Marie-Tooth disease.";
+RL   Brain 126:590-597(2003).
+RN   [16]
+RP   VARIANT CMT2E PRO-336, AND VARIANT CMT1F LYS-396.
+RX   PubMed=15241803; DOI=10.1002/humu.9261;
+RA   Choi B.-O., Lee M.S., Shin S.H., Hwang J.H., Choi K.-G., Kim W.-K.,
+RA   Sunwoo I.N., Kim N.K., Chung K.W.;
+RT   "Mutational analysis of PMP22, MPZ, GJB1, EGR2 and NEFL in Korean Charcot-
+RT   Marie-Tooth neuropathy patients.";
+RL   Hum. Mutat. 24:185-186(2004).
+RN   [17]
+RP   VARIANT CMTDIG LYS-396.
+RX   PubMed=14733962; DOI=10.1016/j.nmd.2003.10.003;
+RA   Zuechner S., Vorgerd M., Sindern E., Schroeder J.M.;
+RT   "The novel neurofilament light (NEFL) mutation Glu397Lys is associated with
+RT   a clinically and morphologically heterogeneous type of Charcot-Marie-Tooth
+RT   neuropathy.";
+RL   Neuromuscul. Disord. 14:147-157(2004).
+RN   [18]
+RP   VARIANTS MET-213 AND ASN-468, VARIANTS CMT2E SER-22; PRO-268 AND
+RP   322-CYS--ASN-326 DEL, AND VARIANT CMTDIG LYS-396.
+RX   PubMed=17052987; DOI=10.1093/brain/awl284;
+RA   Fabrizi G.M., Cavallaro T., Angiari C., Cabrini I., Taioli F., Malerba G.,
+RA   Bertolasi L., Rizzuto N.;
+RT   "Charcot-Marie-Tooth disease type 2E, a disorder of the cytoskeleton.";
+RL   Brain 130:394-403(2007).
+RN   [19]
+RP   VARIANTS CMT2E ARG-8; SER-22 AND LYS-396.
+RX   PubMed=22206013; DOI=10.1371/journal.pone.0029393;
+RA   Lin K.P., Soong B.W., Yang C.C., Huang L.W., Chang M.H., Lee I.H.,
+RA   Antonellis A., Lee Y.C.;
+RT   "The mutational spectrum in a cohort of Charcot-Marie-Tooth disease type 2
+RT   among the Han Chinese in Taiwan.";
+RL   PLoS ONE 6:E29393-E29393(2011).
+RN   [20]
+RP   VARIANT CMTDIG LYS-396, AND INVOLVEMENT IN CMTDIG.
+RX   PubMed=25877835; DOI=10.1007/s00415-015-7709-4;
+RA   Berciano J., Garcia A., Peeters K., Gallardo E., De Vriendt E.,
+RA   Pelayo-Negro A.L., Infante J., Jordanova A.;
+RT   "NEFL E396K mutation is associated with a novel dominant intermediate
+RT   Charcot-Marie-Tooth disease phenotype.";
+RL   J. Neurol. 262:1289-1300(2015).
+RN   [21]
+RP   VARIANTS CMT2E CYS-265; PRO-268; PRO-336 AND LEU-440.
+RX   PubMed=25802885; DOI=10.1002/mgg3.126;
+RA   Drew A.P., Zhu D., Kidambi A., Ly C., Tey S., Brewer M.H., Ahmad-Annuar A.,
+RA   Nicholson G.A., Kennerson M.L.;
+RT   "Improved inherited peripheral neuropathy genetic diagnosis by whole-exome
+RT   sequencing.";
+RL   Mol. Genet. Genomic Med. 3:143-154(2015).
+RN   [22]
+RP   VARIANT CMTDIG SER-98, AND INVOLVEMENT IN CMTDIG.
+RX   PubMed=26645395; DOI=10.1007/s00415-015-7985-z;
+RA   Berciano J., Peeters K., Garcia A., Lopez-Alburquerque T., Gallardo E.,
+RA   Hernandez-Fabian A., Pelayo-Negro A.L., De Vriendt E., Infante J.,
+RA   Jordanova A.;
+RT   "NEFL N98S mutation: another cause of dominant intermediate Charcot-Marie-
+RT   Tooth disease with heterogeneous early-onset phenotype.";
+RL   J. Neurol. 263:361-369(2016).
+CC   -!- FUNCTION: Neurofilaments usually contain three intermediate filament
+CC       proteins: NEFL, NEFM, and NEFH which are involved in the maintenance of
+CC       neuronal caliber. May additionally cooperate with the neuronal
+CC       intermediate filament proteins PRPH and INA to form neuronal
+CC       filamentous networks (By similarity). {ECO:0000250|UniProtKB:P08551}.
+CC   -!- SUBUNIT: Forms homodimers (in vitro) (By similarity). Forms
+CC       heterodimers with NEFH or NEFM; which can further hetero-oligomerize
+CC       (in vitro) (By similarity). Forms heterodimers with INA (in vitro) (By
+CC       similarity). Interacts with ARHGEF28. Interacts with TRIM2.
+CC       {ECO:0000250, ECO:0000250|UniProtKB:P19527}.
+CC   -!- INTERACTION:
+CC       P07196; P20933: AGA; NbExp=3; IntAct=EBI-475646, EBI-1223922;
+CC       P07196; P13928: ANXA8; NbExp=3; IntAct=EBI-475646, EBI-2556915;
+CC       P07196; Q9NP61: ARFGAP3; NbExp=3; IntAct=EBI-475646, EBI-2875816;
+CC       P07196; Q9Y575-3: ASB3; NbExp=3; IntAct=EBI-475646, EBI-14199987;
+CC       P07196; P21281: ATP6V1B2; NbExp=3; IntAct=EBI-475646, EBI-4290814;
+CC       P07196; O95817: BAG3; NbExp=3; IntAct=EBI-475646, EBI-747185;
+CC       P07196; Q8IXM2: BAP18; NbExp=3; IntAct=EBI-475646, EBI-4280811;
+CC       P07196; Q8N865: C7orf31; NbExp=3; IntAct=EBI-475646, EBI-10174456;
+CC       P07196; Q96LL4: C8orf48; NbExp=3; IntAct=EBI-475646, EBI-751596;
+CC       P07196; Q8N5S9-2: CAMKK1; NbExp=3; IntAct=EBI-475646, EBI-25850646;
+CC       P07196; Q8IYE1: CCDC13; NbExp=3; IntAct=EBI-475646, EBI-10961312;
+CC       P07196; P0C7W6: CCDC172; NbExp=3; IntAct=EBI-475646, EBI-2548868;
+CC       P07196; A0A1B0GWI1: CCDC196; NbExp=3; IntAct=EBI-475646, EBI-10181422;
+CC       P07196; Q6P2R3: CEP57L1; NbExp=3; IntAct=EBI-475646, EBI-12696312;
+CC       P07196; Q494V2-2: CFAP100; NbExp=3; IntAct=EBI-475646, EBI-11953200;
+CC       P07196; Q9Y240: CLEC11A; NbExp=3; IntAct=EBI-475646, EBI-3957044;
+CC       P07196; Q8IUI8: CRLF3; NbExp=3; IntAct=EBI-475646, EBI-2872414;
+CC       P07196; Q7L576: CYFIP1; NbExp=3; IntAct=EBI-475646, EBI-1048143;
+CC       P07196; Q5TAQ9-2: DCAF8; NbExp=3; IntAct=EBI-475646, EBI-25842815;
+CC       P07196; P17661: DES; NbExp=7; IntAct=EBI-475646, EBI-1055572;
+CC       P07196; P63172: DYNLT1; NbExp=3; IntAct=EBI-475646, EBI-1176455;
+CC       P07196; Q6UXG2-3: ELAPOR1; NbExp=3; IntAct=EBI-475646, EBI-12920100;
+CC       P07196; Q9H6S3: EPS8L2; NbExp=3; IntAct=EBI-475646, EBI-3940939;
+CC       P07196; Q99504: EYA3; NbExp=3; IntAct=EBI-475646, EBI-9089567;
+CC       P07196; Q6P587-2: FAHD1; NbExp=3; IntAct=EBI-475646, EBI-12902289;
+CC       P07196; Q8IZU1: FAM9A; NbExp=3; IntAct=EBI-475646, EBI-8468186;
+CC       P07196; Q8TC84: FANK1; NbExp=3; IntAct=EBI-475646, EBI-21975404;
+CC       P07196; Q53R41: FASTKD1; NbExp=3; IntAct=EBI-475646, EBI-3957005;
+CC       P07196; Q7L622: G2E3; NbExp=3; IntAct=EBI-475646, EBI-751757;
+CC       P07196; P14136: GFAP; NbExp=9; IntAct=EBI-475646, EBI-744302;
+CC       P07196; Q9NXC2: GFOD1; NbExp=3; IntAct=EBI-475646, EBI-8799578;
+CC       P07196; Q08379: GOLGA2; NbExp=3; IntAct=EBI-475646, EBI-618309;
+CC       P07196; Q9BQQ3: GORASP1; NbExp=3; IntAct=EBI-475646, EBI-2561458;
+CC       P07196; A0A024R8L2: hCG_1987119; NbExp=3; IntAct=EBI-475646, EBI-14103818;
+CC       P07196; Q14005-2: IL16; NbExp=3; IntAct=EBI-475646, EBI-17178971;
+CC       P07196; Q6ZU52: KIAA0408; NbExp=3; IntAct=EBI-475646, EBI-739493;
+CC       P07196; Q9BVG8-5: KIFC3; NbExp=3; IntAct=EBI-475646, EBI-14069005;
+CC       P07196; Q6P597-2: KLC3; NbExp=3; IntAct=EBI-475646, EBI-11033402;
+CC       P07196; P13646: KRT13; NbExp=3; IntAct=EBI-475646, EBI-1223876;
+CC       P07196; P19012: KRT15; NbExp=3; IntAct=EBI-475646, EBI-739566;
+CC       P07196; P05783: KRT18; NbExp=3; IntAct=EBI-475646, EBI-297888;
+CC       P07196; P08727: KRT19; NbExp=3; IntAct=EBI-475646, EBI-742756;
+CC       P07196; Q14525: KRT33B; NbExp=3; IntAct=EBI-475646, EBI-1049638;
+CC       P07196; Q8IUC2: KRTAP8-1; NbExp=3; IntAct=EBI-475646, EBI-10261141;
+CC       P07196; Q14847-2: LASP1; NbExp=3; IntAct=EBI-475646, EBI-9088686;
+CC       P07196; A2RU56: LOC401296; NbExp=3; IntAct=EBI-475646, EBI-9088215;
+CC       P07196; Q9NS73-5: MBIP; NbExp=3; IntAct=EBI-475646, EBI-10182361;
+CC       P07196; P51608: MECP2; NbExp=3; IntAct=EBI-475646, EBI-1189067;
+CC       P07196; Q15049: MLC1; NbExp=3; IntAct=EBI-475646, EBI-8475277;
+CC       P07196; Q8IXL7-2: MSRB3; NbExp=3; IntAct=EBI-475646, EBI-10699187;
+CC       P07196; Q13614: MTMR2; NbExp=2; IntAct=EBI-475646, EBI-475631;
+CC       P07196; Q99608: NDN; NbExp=4; IntAct=EBI-475646, EBI-718177;
+CC       P07196; O76041: NEBL; NbExp=3; IntAct=EBI-475646, EBI-2880203;
+CC       P07196; P07197: NEFM; NbExp=4; IntAct=EBI-475646, EBI-1105035;
+CC       P07196; Q9HC98-4: NEK6; NbExp=3; IntAct=EBI-475646, EBI-11750983;
+CC       P07196; Q9Y5B8: NME7; NbExp=3; IntAct=EBI-475646, EBI-744782;
+CC       P07196; Q6X4W1-6: NSMF; NbExp=3; IntAct=EBI-475646, EBI-25842707;
+CC       P07196; Q7Z417: NUFIP2; NbExp=3; IntAct=EBI-475646, EBI-1210753;
+CC       P07196; O43482: OIP5; NbExp=3; IntAct=EBI-475646, EBI-536879;
+CC       P07196; Q9P286: PAK5; NbExp=3; IntAct=EBI-475646, EBI-741896;
+CC       P07196; Q9BRX2: PELO; NbExp=3; IntAct=EBI-475646, EBI-1043580;
+CC       P07196; Q96LB9: PGLYRP3; NbExp=3; IntAct=EBI-475646, EBI-12339509;
+CC       P07196; Q16512: PKN1; NbExp=3; IntAct=EBI-475646, EBI-602382;
+CC       P07196; Q6NYC8: PPP1R18; NbExp=3; IntAct=EBI-475646, EBI-2557469;
+CC       P07196; Q8NI37: PPTC7; NbExp=3; IntAct=EBI-475646, EBI-9089276;
+CC       P07196; Q9Y5P3: RAI2; NbExp=3; IntAct=EBI-475646, EBI-746228;
+CC       P07196; Q96PK6: RBM14; NbExp=3; IntAct=EBI-475646, EBI-954272;
+CC       P07196; Q9P2K3-2: RCOR3; NbExp=3; IntAct=EBI-475646, EBI-1504830;
+CC       P07196; Q8TCX5: RHPN1; NbExp=3; IntAct=EBI-475646, EBI-746325;
+CC       P07196; Q8N488: RYBP; NbExp=3; IntAct=EBI-475646, EBI-752324;
+CC       P07196; P25815: S100P; NbExp=3; IntAct=EBI-475646, EBI-743700;
+CC       P07196; P12757: SKIL; NbExp=6; IntAct=EBI-475646, EBI-2902468;
+CC       P07196; Q8NB12: SMYD1; NbExp=3; IntAct=EBI-475646, EBI-8463848;
+CC       P07196; Q13573: SNW1; NbExp=3; IntAct=EBI-475646, EBI-632715;
+CC       P07196; Q99932-2: SPAG8; NbExp=3; IntAct=EBI-475646, EBI-11959123;
+CC       P07196; Q9H7C4: SYNC; NbExp=3; IntAct=EBI-475646, EBI-11285923;
+CC       P07196; Q9BQG1: SYT3; NbExp=3; IntAct=EBI-475646, EBI-17284568;
+CC       P07196; Q86TJ2-3: TADA2B; NbExp=3; IntAct=EBI-475646, EBI-18173581;
+CC       P07196; Q5VWN6: TASOR2; NbExp=3; IntAct=EBI-475646, EBI-745958;
+CC       P07196; Q8TDR4: TCP10L; NbExp=3; IntAct=EBI-475646, EBI-3923210;
+CC       P07196; Q13569: TDG; NbExp=3; IntAct=EBI-475646, EBI-348333;
+CC       P07196; P54274: TERF1; NbExp=2; IntAct=EBI-475646, EBI-710997;
+CC       P07196; Q5W5X9-3: TTC23; NbExp=3; IntAct=EBI-475646, EBI-9090990;
+CC       P07196; Q9UGJ1-2: TUBGCP4; NbExp=3; IntAct=EBI-475646, EBI-10964469;
+CC       P07196; Q5VYS8-5: TUT7; NbExp=3; IntAct=EBI-475646, EBI-9088812;
+CC       P07196; O75604: USP2; NbExp=3; IntAct=EBI-475646, EBI-743272;
+CC       P07196; P45880: VDAC2; NbExp=3; IntAct=EBI-475646, EBI-354022;
+CC       P07196; P08670: VIM; NbExp=3; IntAct=EBI-475646, EBI-353844;
+CC       P07196; P58304: VSX2; NbExp=3; IntAct=EBI-475646, EBI-6427899;
+CC       P07196; Q53FD0-2: ZC2HC1C; NbExp=3; IntAct=EBI-475646, EBI-14104088;
+CC       P07196; Q15776: ZKSCAN8; NbExp=3; IntAct=EBI-475646, EBI-2602314;
+CC       P07196; Q9UJW8-4: ZNF180; NbExp=3; IntAct=EBI-475646, EBI-12055755;
+CC       P07196; Q9NR11-2: ZNF302; NbExp=3; IntAct=EBI-475646, EBI-12988373;
+CC       P07196; Q9C0F3: ZNF436; NbExp=3; IntAct=EBI-475646, EBI-8489702;
+CC       P07196; Q96MN9-2: ZNF488; NbExp=3; IntAct=EBI-475646, EBI-25831733;
+CC       P07196; Q68EA5: ZNF57; NbExp=3; IntAct=EBI-475646, EBI-8490788;
+CC       P07196; Q7Z3I7: ZNF572; NbExp=3; IntAct=EBI-475646, EBI-10172590;
+CC       P07196; Q96N77-2: ZNF641; NbExp=3; IntAct=EBI-475646, EBI-12939666;
+CC       P07196; Q3KNS6-3: ZNF829; NbExp=3; IntAct=EBI-475646, EBI-18036029;
+CC       P07196; O15535: ZSCAN9; NbExp=3; IntAct=EBI-475646, EBI-751531;
+CC       P07196; Q86V28; NbExp=3; IntAct=EBI-475646, EBI-10259496;
+CC       P07196; P14079: tax; Xeno; NbExp=4; IntAct=EBI-475646, EBI-9675698;
+CC   -!- SUBCELLULAR LOCATION: Cell projection, axon
+CC       {ECO:0000250|UniProtKB:P08551}. Cytoplasm, cytoskeleton
+CC       {ECO:0000250|UniProtKB:P08551}.
+CC   -!- DOMAIN: The extra mass and high charge density that distinguish the
+CC       neurofilament proteins from all other intermediate filament proteins
+CC       are due to the tailpiece extensions. This region may form a charged
+CC       scaffolding structure suitable for interaction with other neuronal
+CC       components or ions.
+CC   -!- PTM: O-glycosylated. {ECO:0000250}.
+CC   -!- PTM: Phosphorylated in the head and rod regions by the PKC kinase PKN1,
+CC       leading to the inhibition of polymerization.
+CC       {ECO:0000269|PubMed:8621664}.
+CC   -!- PTM: Ubiquitinated in the presence of TRIM2 and UBE2D1. {ECO:0000250}.
+CC   -!- DISEASE: Charcot-Marie-Tooth disease, demyelinating, 1F (CMT1F)
+CC       [MIM:607734]: A dominant demyelinating form of Charcot-Marie-Tooth
+CC       disease, a disorder of the peripheral nervous system, characterized by
+CC       progressive weakness and atrophy, initially of the peroneal muscles and
+CC       later of the distal muscles of the arms. Charcot-Marie-Tooth disease is
+CC       classified in two main groups on the basis of electrophysiologic
+CC       properties and histopathology: primary peripheral demyelinating
+CC       neuropathies (designated CMT1 when they are dominantly inherited) and
+CC       primary peripheral axonal neuropathies (CMT2). Demyelinating
+CC       neuropathies are characterized by severely reduced nerve conduction
+CC       velocities (less than 38 m/sec), segmental demyelination and
+CC       remyelination with onion bulb formations on nerve biopsy, slowly
+CC       progressive distal muscle atrophy and weakness, absent deep tendon
+CC       reflexes, and hollow feet. CMT1F is characterized by onset in infancy
+CC       or childhood (range 1 to 13 years). {ECO:0000269|PubMed:12566280,
+CC       ECO:0000269|PubMed:15241803}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Charcot-Marie-Tooth disease, axonal, 2E (CMT2E) [MIM:607684]:
+CC       A dominant axonal form of Charcot-Marie-Tooth disease, a disorder of
+CC       the peripheral nervous system, characterized by progressive weakness
+CC       and atrophy, initially of the peroneal muscles and later of the distal
+CC       muscles of the arms. Charcot-Marie-Tooth disease is classified in two
+CC       main groups on the basis of electrophysiologic properties and
+CC       histopathology: primary peripheral demyelinating neuropathies
+CC       (designated CMT1 when they are dominantly inherited) and primary
+CC       peripheral axonal neuropathies (CMT2). Neuropathies of the CMT2 group
+CC       are characterized by signs of axonal degeneration in the absence of
+CC       obvious myelin alterations, normal or slightly reduced nerve conduction
+CC       velocities, and progressive distal muscle weakness and atrophy.
+CC       {ECO:0000269|PubMed:10841809, ECO:0000269|PubMed:11220745,
+CC       ECO:0000269|PubMed:12481988, ECO:0000269|PubMed:15241803,
+CC       ECO:0000269|PubMed:17052987, ECO:0000269|PubMed:22206013,
+CC       ECO:0000269|PubMed:25802885}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Charcot-Marie-Tooth disease, dominant intermediate G (CMTDIG)
+CC       [MIM:617882]: An autosomal dominant, intermediate form of Charcot-
+CC       Marie-Tooth disease, a disorder of the peripheral nervous system,
+CC       characterized by progressive weakness and atrophy, initially of the
+CC       peroneal muscles and later of the distal muscles of the arms. Dominant
+CC       intermediate forms are characterized by clinical and pathologic
+CC       features intermediate between demyelinating and axonal peripheral
+CC       neuropathies, and motor median nerve conduction velocities ranging from
+CC       25 to 45 m/sec. CMTDIG is phenotypically variable. Most affected
+CC       individuals have onset in the first or second decades of slowly
+CC       progressive distal motor weakness and atrophy, resulting in gait
+CC       instability and distal upper limb impairment, as well as distal sensory
+CC       impairment. {ECO:0000269|PubMed:14733962, ECO:0000269|PubMed:17052987,
+CC       ECO:0000269|PubMed:25877835, ECO:0000269|PubMed:26645395}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- MISCELLANEOUS: NF-L is the most abundant of the three neurofilament
+CC       proteins and, like the other nonepithelial intermediate filament
+CC       proteins, it can form homomeric 10-nm filaments.
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   -!- WEB RESOURCE: Name=Inherited peripheral neuropathies mutation db;
+CC       URL="https://uantwerpen.vib.be/CMTMutations";
+CC   -!- WEB RESOURCE: Name=Human Intermediate Filament Mutation Database;
+CC       URL="http://www.interfil.org";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X05608; CAA29097.1; -; Genomic_DNA.
+DR   EMBL; AY156690; AAN74826.1; -; mRNA.
+DR   EMBL; AC107373; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471080; EAW63598.1; -; Genomic_DNA.
+DR   EMBL; CH471080; EAW63599.1; -; Genomic_DNA.
+DR   EMBL; CH471080; EAW63600.1; -; Genomic_DNA.
+DR   EMBL; BC039237; AAH39237.1; -; mRNA.
+DR   EMBL; S70309; AAD14057.1; -; Genomic_DNA.
+DR   CCDS; CCDS75712.1; -.
+DR   PIR; S07144; S07144.
+DR   RefSeq; NP_006149.2; NM_006158.4.
+DR   AlphaFoldDB; P07196; -.
+DR   SMR; P07196; -.
+DR   BioGRID; 110822; 131.
+DR   IntAct; P07196; 145.
+DR   MINT; P07196; -.
+DR   STRING; 9606.ENSP00000482169; -.
+DR   GlyCosmos; P07196; 22 sites, 1 glycan.
+DR   GlyGen; P07196; 24 sites, 1 O-linked glycan (21 sites).
+DR   iPTMnet; P07196; -.
+DR   PhosphoSitePlus; P07196; -.
+DR   SwissPalm; P07196; -.
+DR   BioMuta; NEFL; -.
+DR   DMDM; 62511894; -.
+DR   UCD-2DPAGE; P07196; -.
+DR   EPD; P07196; -.
+DR   jPOST; P07196; -.
+DR   MassIVE; P07196; -.
+DR   MaxQB; P07196; -.
+DR   PeptideAtlas; P07196; -.
+DR   ProteomicsDB; 51961; -.
+DR   ABCD; P07196; 1 sequenced antibody.
+DR   Antibodypedia; 73404; 1182 antibodies from 41 providers.
+DR   DNASU; 4747; -.
+DR   Ensembl; ENST00000610854.2; ENSP00000482169.2; ENSG00000277586.4.
+DR   GeneID; 4747; -.
+DR   KEGG; hsa:4747; -.
+DR   MANE-Select; ENST00000610854.2; ENSP00000482169.2; NM_006158.5; NP_006149.2.
+DR   UCSC; uc033bfe.2; human.
+DR   AGR; HGNC:7739; -.
+DR   CTD; 4747; -.
+DR   DisGeNET; 4747; -.
+DR   GeneCards; NEFL; -.
+DR   GeneReviews; NEFL; -.
+DR   HGNC; HGNC:7739; NEFL.
+DR   HPA; ENSG00000277586; Tissue enriched (brain).
+DR   MalaCards; NEFL; -.
+DR   MIM; 162280; gene.
+DR   MIM; 607684; phenotype.
+DR   MIM; 607734; phenotype.
+DR   MIM; 617882; phenotype.
+DR   neXtProt; NX_P07196; -.
+DR   OpenTargets; ENSG00000277586; -.
+DR   Orphanet; 99939; Autosomal dominant Charcot-Marie-Tooth disease type 2E.
+DR   Orphanet; 101085; Charcot-Marie-Tooth disease type 1F.
+DR   Orphanet; 228374; Charcot-Marie-Tooth disease type 2B5.
+DR   PharmGKB; PA31542; -.
+DR   VEuPathDB; HostDB:ENSG00000277586; -.
+DR   eggNOG; ENOG502QSXY; Eukaryota.
+DR   GeneTree; ENSGT00940000156208; -.
+DR   HOGENOM; CLU_012560_7_3_1; -.
+DR   InParanoid; P07196; -.
+DR   OMA; VYSQAMY; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; P07196; -.
+DR   PathwayCommons; P07196; -.
+DR   Reactome; R-HSA-438066; Unblocking of NMDA receptors, glutamate binding and activation.
+DR   Reactome; R-HSA-442982; Ras activation upon Ca2+ influx through NMDA receptor.
+DR   Reactome; R-HSA-5673001; RAF/MAP kinase cascade.
+DR   Reactome; R-HSA-9609736; Assembly and cell surface presentation of NMDA receptors.
+DR   Reactome; R-HSA-9617324; Negative regulation of NMDA receptor-mediated neuronal transmission.
+DR   Reactome; R-HSA-9620244; Long-term potentiation.
+DR   SignaLink; P07196; -.
+DR   SIGNOR; P07196; -.
+DR   BioGRID-ORCS; 4747; 11 hits in 259 CRISPR screens.
+DR   ChiTaRS; NEFL; human.
+DR   GeneWiki; NEFL; -.
+DR   GenomeRNAi; 4747; -.
+DR   Pharos; P07196; Tbio.
+DR   PRO; PR:P07196; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; P07196; protein.
+DR   Bgee; ENSG00000277586; Expressed in dorsal root ganglion and 157 other tissues.
+DR   Genevisible; P07196; HS.
+DR   GO; GO:0030424; C:axon; IDA:UniProtKB.
+DR   GO; GO:1904115; C:axon cytoplasm; IEA:GOC.
+DR   GO; GO:0098981; C:cholinergic synapse; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; ISS:BHF-UCL.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0030426; C:growth cone; IEA:Ensembl.
+DR   GO; GO:0005882; C:intermediate filament; IBA:GO_Central.
+DR   GO; GO:0005883; C:neurofilament; IDA:UniProtKB.
+DR   GO; GO:0031594; C:neuromuscular junction; IEA:Ensembl.
+DR   GO; GO:0099160; C:postsynaptic intermediate filament cytoskeleton; IBA:GO_Central.
+DR   GO; GO:0099182; C:presynaptic intermediate filament cytoskeleton; IEA:Ensembl.
+DR   GO; GO:0098685; C:Schaffer collateral - CA1 synapse; IEA:Ensembl.
+DR   GO; GO:0042802; F:identical protein binding; IPI:UniProtKB.
+DR   GO; GO:0043274; F:phospholipase binding; IEA:Ensembl.
+DR   GO; GO:0019904; F:protein domain specific binding; IEA:Ensembl.
+DR   GO; GO:0044877; F:protein-containing complex binding; IEA:Ensembl.
+DR   GO; GO:0030674; F:protein-macromolecule adaptor activity; ISS:BHF-UCL.
+DR   GO; GO:0005200; F:structural constituent of cytoskeleton; IDA:UniProtKB.
+DR   GO; GO:0099184; F:structural constituent of postsynaptic intermediate filament cytoskeleton; IBA:GO_Central.
+DR   GO; GO:0008089; P:anterograde axonal transport; IMP:UniProtKB.
+DR   GO; GO:0019896; P:axonal transport of mitochondrion; IMP:UniProtKB.
+DR   GO; GO:0007409; P:axonogenesis; IEA:Ensembl.
+DR   GO; GO:0021987; P:cerebral cortex development; IEA:Ensembl.
+DR   GO; GO:0021766; P:hippocampus development; IEA:Ensembl.
+DR   GO; GO:0045109; P:intermediate filament organization; IMP:UniProtKB.
+DR   GO; GO:0045105; P:intermediate filament polymerization or depolymerization; IEA:Ensembl.
+DR   GO; GO:0040011; P:locomotion; IEA:Ensembl.
+DR   GO; GO:0000226; P:microtubule cytoskeleton organization; IEA:Ensembl.
+DR   GO; GO:0097049; P:motor neuron apoptotic process; IEA:Ensembl.
+DR   GO; GO:2000672; P:negative regulation of motor neuron apoptotic process; IEA:Ensembl.
+DR   GO; GO:0033693; P:neurofilament bundle assembly; IDA:UniProtKB.
+DR   GO; GO:0060052; P:neurofilament cytoskeleton organization; IEA:Ensembl.
+DR   GO; GO:0050885; P:neuromuscular process controlling balance; IEA:Ensembl.
+DR   GO; GO:0014012; P:peripheral nervous system axon regeneration; IEA:Ensembl.
+DR   GO; GO:0050772; P:positive regulation of axonogenesis; IEA:Ensembl.
+DR   GO; GO:0099170; P:postsynaptic modulation of chemical synaptic transmission; IEA:Ensembl.
+DR   GO; GO:0051258; P:protein polymerization; IEA:Ensembl.
+DR   GO; GO:0031133; P:regulation of axon diameter; IEA:Ensembl.
+DR   GO; GO:0090128; P:regulation of synapse maturation; IEA:Ensembl.
+DR   GO; GO:1903937; P:response to acrylamide; IEA:Ensembl.
+DR   GO; GO:0051412; P:response to corticosterone; IEA:Ensembl.
+DR   GO; GO:0043434; P:response to peptide hormone; IEA:Ensembl.
+DR   GO; GO:1903935; P:response to sodium arsenite; IEA:Ensembl.
+DR   GO; GO:0009636; P:response to toxic substance; IEA:Ensembl.
+DR   GO; GO:0008090; P:retrograde axonal transport; IMP:UniProtKB.
+DR   GO; GO:0021510; P:spinal cord development; IEA:Ensembl.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR018039; IF_conserved.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR006821; Intermed_filament_DNA-bd.
+DR   PANTHER; PTHR45652; GLIAL FIBRILLARY ACIDIC PROTEIN; 1.
+DR   PANTHER; PTHR45652:SF8; NEUROFILAMENT LIGHT POLYPEPTIDE; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   Pfam; PF04732; Filament_head; 1.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   PROSITE; PS00226; IF_ROD_1; 1.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Cell projection; Charcot-Marie-Tooth disease; Coiled coil;
+KW   Cytoplasm; Cytoskeleton; Direct protein sequencing; Disease variant;
+KW   Glycoprotein; Intermediate filament; Methylation; Neurodegeneration;
+KW   Neuropathy; Phosphoprotein; Reference proteome; Ubl conjugation.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0007744|PubMed:22223895"
+FT   CHAIN           2..543
+FT                   /note="Neurofilament light polypeptide"
+FT                   /id="PRO_0000063787"
+FT   DOMAIN          90..400
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          2..92
+FT                   /note="Head"
+FT   REGION          93..124
+FT                   /note="Coil 1A"
+FT   REGION          125..137
+FT                   /note="Linker 1"
+FT   REGION          138..234
+FT                   /note="Coil 1B"
+FT   REGION          235..252
+FT                   /note="Linker 12"
+FT   REGION          253..271
+FT                   /note="Coil 2A"
+FT   REGION          272..280
+FT                   /note="Linker 2"
+FT   REGION          281..396
+FT                   /note="Coil 2B"
+FT   REGION          381..391
+FT                   /note="Epitope; recognized by IF-specific monoclonal
+FT                   antibody"
+FT   REGION          397..543
+FT                   /note="Tail"
+FT   REGION          397..443
+FT                   /note="Tail, subdomain A"
+FT   REGION          444..543
+FT                   /note="Tail, subdomain B (acidic)"
+FT   REGION          462..543
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        470..522
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        523..543
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         2
+FT                   /note="N-acetylserine"
+FT                   /evidence="ECO:0007744|PubMed:22223895"
+FT   MOD_RES         23
+FT                   /note="Asymmetric dimethylarginine; alternate"
+FT                   /evidence="ECO:0000250|UniProtKB:P08551"
+FT   MOD_RES         23
+FT                   /note="Omega-N-methylarginine; alternate"
+FT                   /evidence="ECO:0000250|UniProtKB:P08551"
+FT   MOD_RES         30
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0000250|UniProtKB:P08551"
+FT   MOD_RES         43
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:P08551"
+FT   MOD_RES         56
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P02548"
+FT   MOD_RES         67
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P02548"
+FT   MOD_RES         103
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P19527"
+FT   MOD_RES         472
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P02548"
+FT   MOD_RES         502
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P19527"
+FT   MOD_RES         520
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:P19527"
+FT   CARBOHYD        21
+FT                   /note="O-linked (GlcNAc) threonine"
+FT                   /evidence="ECO:0000250"
+FT   CARBOHYD        27
+FT                   /note="O-linked (GlcNAc) serine"
+FT                   /evidence="ECO:0000250"
+FT   VARIANT         7
+FT                   /note="E -> K (in a Charcot-Marie-Tooth disease patient;
+FT                   dbSNP:rs57848467)"
+FT                   /evidence="ECO:0000269|PubMed:12566280"
+FT                   /id="VAR_016017"
+FT   VARIANT         8
+FT                   /note="P -> L (in CMT1F; dbSNP:rs61491953)"
+FT                   /evidence="ECO:0000269|PubMed:12566280"
+FT                   /id="VAR_016018"
+FT   VARIANT         8
+FT                   /note="P -> Q (in CMT1F; dbSNP:rs61491953)"
+FT                   /evidence="ECO:0000269|PubMed:12566280"
+FT                   /id="VAR_016019"
+FT   VARIANT         8
+FT                   /note="P -> R (in CMT2E and CMT1F; dbSNP:rs61491953)"
+FT                   /evidence="ECO:0000269|PubMed:11220745,
+FT                   ECO:0000269|PubMed:12566280, ECO:0000269|PubMed:22206013"
+FT                   /id="VAR_016020"
+FT   VARIANT         22
+FT                   /note="P -> S (in CMT2E; dbSNP:rs28928910)"
+FT                   /evidence="ECO:0000269|PubMed:12481988,
+FT                   ECO:0000269|PubMed:17052987, ECO:0000269|PubMed:22206013"
+FT                   /id="VAR_016021"
+FT   VARIANT         90
+FT                   /note="E -> K (in CMT1F; dbSNP:rs58332872)"
+FT                   /evidence="ECO:0000269|PubMed:12566280"
+FT                   /id="VAR_016022"
+FT   VARIANT         98
+FT                   /note="N -> S (in CMT1F and CMTDIG; dbSNP:rs58982919)"
+FT                   /evidence="ECO:0000269|PubMed:12566280,
+FT                   ECO:0000269|PubMed:26645395"
+FT                   /id="VAR_016023"
+FT   VARIANT         213
+FT                   /note="I -> M (in dbSNP:rs62636522)"
+FT                   /evidence="ECO:0000269|PubMed:17052987"
+FT                   /id="VAR_081565"
+FT   VARIANT         265
+FT                   /note="Y -> C (in CMT2E; unknown pathological significance;
+FT                   dbSNP:rs587777880)"
+FT                   /evidence="ECO:0000269|PubMed:25802885"
+FT                   /id="VAR_081566"
+FT   VARIANT         268
+FT                   /note="L -> P (in CMT2E; dbSNP:rs62636502)"
+FT                   /evidence="ECO:0000269|PubMed:17052987,
+FT                   ECO:0000269|PubMed:25802885"
+FT                   /id="VAR_081567"
+FT   VARIANT         322..326
+FT                   /note="Missing (in CMT2E; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:17052987"
+FT                   /id="VAR_081568"
+FT   VARIANT         332
+FT                   /note="Q -> P (in CMT2E; dbSNP:rs59443585)"
+FT                   /evidence="ECO:0000269|PubMed:10841809"
+FT                   /id="VAR_009703"
+FT   VARIANT         336
+FT                   /note="L -> P (in CMT2E; unknown pathological significance;
+FT                   dbSNP:rs587777881)"
+FT                   /evidence="ECO:0000269|PubMed:15241803,
+FT                   ECO:0000269|PubMed:25802885"
+FT                   /id="VAR_021613"
+FT   VARIANT         396
+FT                   /note="E -> K (in CMTDIG and CMT2E; dbSNP:rs62636503)"
+FT                   /evidence="ECO:0000269|PubMed:14733962,
+FT                   ECO:0000269|PubMed:15241803, ECO:0000269|PubMed:17052987,
+FT                   ECO:0000269|PubMed:22206013, ECO:0000269|PubMed:25877835"
+FT                   /id="VAR_021614"
+FT   VARIANT         440
+FT                   /note="P -> L (in CMT2E; unknown pathological significance;
+FT                   dbSNP:rs587777882)"
+FT                   /evidence="ECO:0000269|PubMed:25802885"
+FT                   /id="VAR_081569"
+FT   VARIANT         468
+FT                   /note="D -> N (in dbSNP:rs57153321)"
+FT                   /evidence="ECO:0000269|PubMed:12566280,
+FT                   ECO:0000269|PubMed:17052987"
+FT                   /id="VAR_016024"
+FT   VARIANT         527
+FT                   /note="Missing (in CMT1F; dbSNP:rs3832558)"
+FT                   /evidence="ECO:0000269|PubMed:12566280"
+FT                   /id="VAR_016025"
+FT   CONFLICT        28
+FT                   /note="Missing (in Ref. 1; CAA29097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        155
+FT                   /note="N -> TN (in Ref. 1)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        161
+FT                   /note="Q -> R (in Ref. 1; CAA29097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        165
+FT                   /note="E -> EE (in Ref. 1; CAA29097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        195
+FT                   /note="A -> R (in Ref. 1; CAA29097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        452
+FT                   /note="I -> T (in Ref. 1; CAA29097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        461
+FT                   /note="A -> S (in Ref. 1; CAA29097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        472
+FT                   /note="S -> D (in Ref. 8; AA sequence)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   543 AA;  61517 MW;  98C1712D8ACFF33A CRC64;
+     MSSFSYEPYY STSYKRRYVE TPRVHISSVR SGYSTARSAY SSYSAPVSSS LSVRRSYSSS
+     SGSLMPSLEN LDLSQVAAIS NDLKSIRTQE KAQLQDLNDR FASFIERVHE LEQQNKVLEA
+     ELLVLRQKHS EPSRFRALYE QEIRDLRLAA EDATNEKQAL QGEREGLEET LRNLQARYEE
+     EVLSREDAEG RLMEARKGAD EAALARAELE KRIDSLMDEI SFLKKVHEEE IAELQAQIQY
+     AQISVEMDVT KPDLSAALKD IRAQYEKLAA KNMQNAEEWF KSRFTVLTES AAKNTDAVRA
+     AKDEVSESRR LLKAKTLEIE ACRGMNEALE KQLQELEDKQ NADISAMQDT INKLENELRT
+     TKSEMARYLK EYQDLLNVKM ALDIEIAAYR KLLEGEETRL SFTSVGSITS GYSQSSQVFG
+     RSAYGGLQTS SYLMSTRSFP SYYTSHVQEE QIEVEETIEA AKAEEAKDEP PSEGEAEEEE
+     KDKEEAEEEE AAEEEEAAKE ESEEAKEEEE GGEGEEGEET KEAEEEEKKV EGAGEEQAAK
+     KKD
+//

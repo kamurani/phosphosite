@@ -1,0 +1,161 @@
+ID   LRC53_HUMAN             Reviewed;        1247 AA.
+AC   A6NM62;
+DT   05-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   22-JUL-2008, sequence version 2.
+DT   28-JUN-2023, entry version 105.
+DE   RecName: Full=Leucine-rich repeat-containing protein 53;
+GN   Name=LRRC53;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Single-pass membrane
+CC       protein {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC105271; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS90978.1; -.
+DR   RefSeq; XP_016858569.1; XM_017003080.1.
+DR   AlphaFoldDB; A6NM62; -.
+DR   SMR; A6NM62; -.
+DR   iPTMnet; A6NM62; -.
+DR   PhosphoSitePlus; A6NM62; -.
+DR   BioMuta; LRRC53; -.
+DR   jPOST; A6NM62; -.
+DR   PaxDb; A6NM62; -.
+DR   PeptideAtlas; A6NM62; -.
+DR   ProteomicsDB; 1517; -.
+DR   Antibodypedia; 66009; 17 antibodies from 3 providers.
+DR   Ensembl; ENST00000294635.5; ENSP00000294635.4; ENSG00000162621.7.
+DR   MANE-Select; ENST00000294635.5; ENSP00000294635.4; NM_001382280.1; NP_001369209.1.
+DR   UCSC; uc057hqj.1; human.
+DR   AGR; HGNC:25255; -.
+DR   GeneCards; LRRC53; -.
+DR   HGNC; HGNC:25255; LRRC53.
+DR   HPA; ENSG00000162621; Tissue enriched (brain).
+DR   neXtProt; NX_A6NM62; -.
+DR   VEuPathDB; HostDB:ENSG00000162621; -.
+DR   eggNOG; KOG0619; Eukaryota.
+DR   GeneTree; ENSGT00940000161095; -.
+DR   HOGENOM; CLU_280737_0_0_1; -.
+DR   InParanoid; A6NM62; -.
+DR   OMA; WKQQKNQ; -.
+DR   OrthoDB; 5195948at2759; -.
+DR   PhylomeDB; A6NM62; -.
+DR   TreeFam; TF341942; -.
+DR   PathwayCommons; A6NM62; -.
+DR   SignaLink; A6NM62; -.
+DR   BioGRID-ORCS; 105378803; 2 hits in 145 CRISPR screens.
+DR   Pharos; A6NM62; Tdark.
+DR   PRO; PR:A6NM62; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; A6NM62; protein.
+DR   Bgee; ENSG00000162621; Expressed in calcaneal tendon and 16 other tissues.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 2.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   PANTHER; PTHR24369; ANTIGEN BSP, PUTATIVE-RELATED; 1.
+DR   PANTHER; PTHR24369:SF161; LEUCINE-RICH REPEAT-CONTAINING PROTEIN 53; 1.
+DR   Pfam; PF13855; LRR_8; 2.
+DR   SMART; SM00369; LRR_TYP; 6.
+DR   SUPFAM; SSF52058; L domain-like; 1.
+DR   PROSITE; PS51450; LRR; 7.
+PE   4: Predicted;
+KW   Leucine-rich repeat; Membrane; Reference proteome; Repeat; Transmembrane;
+KW   Transmembrane helix.
+FT   CHAIN           1..1247
+FT                   /note="Leucine-rich repeat-containing protein 53"
+FT                   /id="PRO_0000317367"
+FT   TRANSMEM        294..314
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          34..55
+FT                   /note="LRR 1"
+FT   REPEAT          58..79
+FT                   /note="LRR 2"
+FT   REPEAT          82..102
+FT                   /note="LRR 3"
+FT   REPEAT          108..129
+FT                   /note="LRR 4"
+FT   REPEAT          132..153
+FT                   /note="LRR 5"
+FT   REPEAT          158..179
+FT                   /note="LRR 6"
+FT   REPEAT          182..203
+FT                   /note="LRR 7"
+FT   DOMAIN          214..271
+FT                   /note="LRRCT"
+FT   REGION          828..866
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          887..927
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1223..1247
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        828..844
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+SQ   SEQUENCE   1247 AA;  140742 MW;  A22DDB8BB3BEA9B3 CRC64;
+     MLRLVAACPE SCVVCTKDVT LCHQLTYIVA APMTTRVLII TDGYLSSIES TNLSLLFNLA
+     LLSLSRNGIE DVQEDALHGL TMLRTLLLEH NQISSSSLTD HTFSKLHSLQ VLVLSNNALR
+     TLRGSWFRNT SGLTRLQLDG NQITNLTDSS FGGTNLHSLR YLDLSNNFIS YIGKDAFRPL
+     PQLQEVDLSR NRLAHMPDVF TPLKQLILLS LDKNQWSCTC DLHPLARFLR NYIKSSAHTL
+     RNAKDLNCQP STAAVAAAQS VLRLSETNCD SKAPNFTLVL KDRSPLLPGP DVALLTVLGF
+     AGAVGLTCLG LVVFNWKLHQ GKANEHTSEN LCCRTFDEPL CAHEARNYHT KGYCNCHLTQ
+     ENEIKVMSTV GSRKEMPLLQ ENSHQATSAS ESATLDGSFR NLKKKDRGVG STLFCQDGRL
+     LHSECSEPPG NMRAFNEAGL LTTYNPRKVQ KLWNLEPGEV QPQTLQHHII RTEDISSDIF
+     RRRYATPASA LAGESLEKRL TNESWQPPIE KEDNGLHPHR QRHFITSSSS KPCEPEEHYV
+     QKIVQKNRSK YDDPCGLLKQ SKPRYFQPNN SLICKYVPCE QFEDYMKEKK PNRRQHSKPE
+     KEQIQINSAI EKFLMSEDNI DLSGLSTKTK KAYSPKRVIF HDPDLVEINR SMMSPKISTP
+     WKRQKNQSNQ LTKLDVKKFS NTGERNKGEK WFTNSWVLKR KRTPQSDLKG KIKGQNLKLN
+     LHPFRKVRVH PEKSLSSLPK QCKQVLLPPK KLSKTSETEA KINTVCSADF LQQSESSNYV
+     RLTSKRLPLK HDSKQTPYYQ RNTKRAPLLS ANNLRVVNQS SIESSCYSAG HIPDGNTSKL
+     PQPTPTDAEH RHSHSQFSTE QMEDATQLES KVLSYLATTW ENTGSDVLPF QHSRRATDQG
+     TTESTEHMGQ NVSKTSELNQ FSLSPRNQTQ LLDAHKTDSY NKEYTLDQNE ALQHREQNSS
+     HAQLENKEKT LMTKPQISHQ IVENCIMDKE ENDVEKKLSK TETYDSSLIP QTQSKNNLSF
+     MKTNSIPYQN RIELPKDIST SPVSSQAVWH LTNSSEKGID STNALPRNDG TEALEIKIVG
+     KEEKNMLDES KTDSSMLTQI SQMTLKGITK ERQQTWENGT SEKYILHDAS SAEETITAKD
+     LSITSSHETQ NRILCSEVDP EVNSNVHNFR EVQNIQPDKD SAHKEGAMTV ETHEALSFLP
+     GLKDSFEAEN EVFLVPSRIN EAENSAPKPV LYPPSAEYAT TSPLETE
+//

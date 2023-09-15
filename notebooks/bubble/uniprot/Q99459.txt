@@ -1,0 +1,969 @@
+ID   CDC5L_HUMAN             Reviewed;         802 AA.
+AC   Q99459; Q76N46; Q99974;
+DT   16-AUG-2005, integrated into UniProtKB/Swiss-Prot.
+DT   16-AUG-2005, sequence version 2.
+DT   28-JUN-2023, entry version 214.
+DE   RecName: Full=Cell division cycle 5-like protein;
+DE            Short=Cdc5-like protein;
+DE   AltName: Full=Pombe cdc5-related protein;
+GN   Name=CDC5L; Synonyms=KIAA0432, PCDC5RP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, SUBCELLULAR LOCATION,
+RP   PHOSPHORYLATION, AND FUNCTION.
+RC   TISSUE=Epithelium;
+RX   PubMed=9038199; DOI=10.1074/jbc.272.9.5833;
+RA   Bernstein H.S., Coughlin S.R.;
+RT   "Pombe Cdc5-related protein. A putative human transcription factor
+RT   implicated in mitogen-activated signaling.";
+RL   J. Biol. Chem. 272:5833-5837(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], CHROMOSOMAL TRANSLOCATION WITH USF2, TISSUE
+RP   SPECIFICITY, AND SUBCELLULAR LOCATION.
+RC   TISSUE=Fetal kidney;
+RX   PubMed=9598309; DOI=10.1006/geno.1998.5254;
+RA   Groenen P.M.A., Vanderlinden G., Devriendt K., Fryns J.-P.,
+RA   Van de Ven W.J.M.;
+RT   "Rearrangement of the human CDC5L gene by a t(6;19)(p21;q13.1) in a patient
+RT   with multicystic renal dysplasia.";
+RL   Genomics 49:218-229(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, AND FUNCTION.
+RC   TISSUE=Vascular endothelial cell;
+RX   PubMed=9632794; DOI=10.1128/mcb.18.7.4097;
+RA   Ohi R., Feoktistova A., McCann S., Valentine V., Look A.T., Lipsick J.S.,
+RA   Gould K.L.;
+RT   "Myb-related Schizosaccharomyces pombe cdc5p is structurally and
+RT   functionally conserved in eukaryotes.";
+RL   Mol. Cell. Biol. 18:4097-4108(1998).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=9455477; DOI=10.1093/dnares/4.5.307;
+RA   Ishikawa K., Nagase T., Nakajima D., Seki N., Ohira M., Miyajima N.,
+RA   Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. VIII. 78
+RT   new cDNA clones from brain which code for large proteins in vitro.";
+RL   DNA Res. 4:307-313(1997).
+RN   [5]
+RP   SEQUENCE REVISION.
+RX   PubMed=12168954; DOI=10.1093/dnares/9.3.99;
+RA   Nakajima D., Okazaki N., Yamakawa H., Kikuno R., Ohara O., Nagase T.;
+RT   "Construction of expression-ready cDNA clones for KIAA genes: manual
+RT   curation of 330 KIAA cDNA clones.";
+RL   DNA Res. 9:99-106(2002).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RG   NIEHS SNPs program;
+RL   Submitted (JAN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 8-162.
+RX   PubMed=8917598; DOI=10.1073/pnas.93.23.13371;
+RA   Hirayama T., Shinozaki K.;
+RT   "A cdc5+ homolog of a higher plant, Arabidopsis thaliana.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 93:13371-13376(1996).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 259-614, INTERACTION WITH PPP1R8, SUBCELLULAR
+RP   LOCATION, AND PHOSPHORYLATION.
+RC   TISSUE=Epithelium;
+RX   PubMed=10827081; DOI=10.1074/jbc.m001676200;
+RA   Boudrez A., Beullens M., Groenen P.M.A., Van Eynde A., Vulsteke V.,
+RA   Jagiello I., Murray M., Krainer A.R., Stalmans W., Bollen M.;
+RT   "NIPP1-mediated interaction of protein phosphatase-1 with CDC5L, a
+RT   regulator of pre-mRNA splicing and mitotic entry.";
+RL   J. Biol. Chem. 275:25411-25417(2000).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=9468527; DOI=10.1074/jbc.273.8.4666;
+RA   Bernstein H.S., Coughlin S.R.;
+RT   "A mammalian homolog of fission yeast Cdc5 regulates G2 progression and
+RT   mitotic entry.";
+RL   J. Biol. Chem. 273:4666-4671(1998).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY AS PART OF THE SPLICEOSOME.
+RX   PubMed=9731529; DOI=10.1038/1700;
+RA   Neubauer G., King A., Rappsilber J., Calvio C., Watson M., Ajuh P.,
+RA   Sleeman J., Lamond A.I., Mann M.;
+RT   "Mass spectrometry and EST-database searching allows characterization of
+RT   the multi-protein spliceosome complex.";
+RL   Nat. Genet. 20:46-50(1998).
+RN   [13]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=10570151; DOI=10.1073/pnas.96.24.13789;
+RA   Burns C.G., Ohi R., Krainer A.R., Gould K.L.;
+RT   "Evidence that Myb-related CDC5 proteins are required for pre-mRNA
+RT   splicing.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:13789-13794(1999).
+RN   [14]
+RP   RNA-BINDING, AND FUNCTION.
+RX   PubMed=11101529; DOI=10.1093/emboj/19.23.6569;
+RA   Ajuh P., Kuster B., Panov K., Zomerdijk J.C.B.M., Mann M., Lamond A.I.;
+RT   "Functional analysis of the human CDC5L complex and identification of its
+RT   components by mass spectrometry.";
+RL   EMBO J. 19:6569-6581(2000).
+RN   [15]
+RP   DNA-BINDING, SUBUNIT, MUTAGENESIS OF TRP-31; TRP-53 AND TRP-82, AND
+RP   FUNCTION.
+RX   PubMed=11082045; DOI=10.1242/jcs.113.24.4523;
+RA   Lei X.-H., Shen X., Xu X.-Q., Bernstein H.S.;
+RT   "Human Cdc5, a regulator of mitotic entry, can act as a site-specific DNA
+RT   binding protein.";
+RL   J. Cell Sci. 113:4523-4531(2000).
+RN   [16]
+RP   FUNCTION, INTERACTION WITH PLRG1, AND SUBCELLULAR LOCATION.
+RX   PubMed=11544257; DOI=10.1074/jbc.m105453200;
+RA   Ajuh P., Sleeman J., Chusainow J., Lamond A.I.;
+RT   "A direct interaction between the carboxyl-terminal region of CDC5L and the
+RT   WD40 domain of PLRG1 is essential for pre-mRNA splicing.";
+RL   J. Biol. Chem. 276:42370-42381(2001).
+RN   [17]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND IDENTIFICATION IN THE SPLICEOSOMAL
+RP   C COMPLEX.
+RX   PubMed=11991638; DOI=10.1017/s1355838202021088;
+RA   Jurica M.S., Licklider L.J., Gygi S.P., Grigorieff N., Moore M.J.;
+RT   "Purification and characterization of native spliceosomes suitable for
+RT   three-dimensional structural analysis.";
+RL   RNA 8:426-439(2002).
+RN   [18]
+RP   FUNCTION, INTERACTION WITH TTF2, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=12927788; DOI=10.1016/s0006-291x(03)01486-4;
+RA   Leonard D., Ajuh P., Lamond A.I., Legerski R.J.;
+RT   "hLodestar/HuF2 interacts with CDC5L and is involved in pre-mRNA
+RT   splicing.";
+RL   Biochem. Biophys. Res. Commun. 308:793-801(2003).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-303, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [20]
+RP   SUBUNIT, SUBCELLULAR LOCATION, FUNCTION, PHOSPHORYLATION AT THR-227;
+RP   SER-303; SER-358; THR-385; THR-404; THR-411; SER-417; THR-424 AND THR-438,
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND MUTAGENESIS OF THR-411 AND
+RP   THR-438.
+RX   PubMed=18583928; DOI=10.4161/cc.7.12.6017;
+RA   Graub R., Lancero H., Pedersen A., Chu M., Padmanabhan K., Xu X.Q.,
+RA   Spitz P., Chalkley R., Burlingame A.L., Stokoe D., Bernstein H.S.;
+RT   "Cell cycle-dependent phosphorylation of human CDC5 regulates RNA
+RT   processing.";
+RL   Cell Cycle 7:1795-1803(2008).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-385 AND THR-396, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D., Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient
+RT   phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [22]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND INTERACTION WITH CTNNBL1.
+RX   PubMed=18722174; DOI=10.1016/j.molcel.2008.07.009;
+RA   Conticello S.G., Ganesh K., Xue K., Lu M., Rada C., Neuberger M.S.;
+RT   "Interaction between antibody-diversification enzyme AID and spliceosome-
+RT   associated factor CTNNBL1.";
+RL   Mol. Cell 31:474-484(2008).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-227; THR-377; THR-385;
+RP   THR-396; THR-415; THR-424; THR-430; SER-437; THR-438 AND THR-442, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [24]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [25]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-385 AND THR-396, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [26]
+RP   IDENTIFICATION AS A COMPONENT OF THE PRP19-CDC5L SPLICING COMPLEX,
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND INTERACTION WITH CTNNBL1; PRPF19
+RP   AND BCAS2.
+RX   PubMed=20176811; DOI=10.1128/mcb.01505-09;
+RA   Grote M., Wolf E., Will C.L., Lemm I., Agafonov D.E., Schomburg A.,
+RA   Fischle W., Urlaub H., Luhrmann R.;
+RT   "Molecular architecture of the human Prp19/CDC5L complex.";
+RL   Mol. Cell. Biol. 30:2105-2119(2010).
+RN   [27]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-303; THR-377 AND THR-396, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [28]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [29]
+RP   INTERACTION WITH CTNNBL1.
+RX   PubMed=21385873; DOI=10.1074/jbc.m110.208769;
+RA   Ganesh K., Adam S., Taylor B., Simpson P., Rada C., Neuberger M.;
+RT   "CTNNBL1 is a novel nuclear localization sequence-binding protein that
+RT   recognizes RNA-splicing factors CDC5L and Prp31.";
+RL   J. Biol. Chem. 286:17091-17102(2011).
+RN   [30]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-377; THR-385 AND THR-396, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [31]
+RP   INTERACTION WITH USB1.
+RX   PubMed=23022480; DOI=10.1016/j.celrep.2012.08.031;
+RA   Shchepachev V., Wischnewski H., Missiaglia E., Soneson C., Azzalin C.M.;
+RT   "Mpn1, mutated in poikiloderma with neutropenia protein 1, is a conserved
+RT   3'-to-5' RNA exonuclease processing U6 small nuclear RNA.";
+RL   Cell Rep. 2:855-865(2012).
+RN   [32]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-303; THR-377; THR-385;
+RP   THR-396; SER-417; THR-424; THR-430 AND THR-438, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [33]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-396, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [34]
+RP   FUNCTION.
+RX   PubMed=24332808; DOI=10.1016/j.molcel.2013.11.002;
+RA   Marechal A., Li J.M., Ji X.Y., Wu C.S., Yazinski S.A., Nguyen H.D., Liu S.,
+RA   Jimenez A.E., Jin J., Zou L.;
+RT   "PRP19 transforms into a sensor of RPA-ssDNA after DNA damage and drives
+RT   ATR activation via a ubiquitin-mediated circuitry.";
+RL   Mol. Cell 53:235-246(2014).
+RN   [35]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-219, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25772364; DOI=10.1016/j.celrep.2015.02.033;
+RA   Hendriks I.A., Treffers L.W., Verlaan-de Vries M., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "SUMO-2 orchestrates chromatin modifiers in response to DNA damage.";
+RL   Cell Rep. 10:1778-1791(2015).
+RN   [36]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-219, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to replication
+RT   stress reveals novel small ubiquitin-like modified target proteins and
+RT   acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [37]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-135; LYS-219 AND LYS-487, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [38]
+RP   INTERACTION WITH CTNNBL1.
+RX   PubMed=32484799; DOI=10.1172/jci131297;
+RA   Kuhny M., Forbes L.R., Cakan E., Vega-Loza A., Kostiuk V., Dinesh R.K.,
+RA   Glauzy S., Stray-Pedersen A., Pezzi A.E., Hanson I.C., Vargas-Hernandez A.,
+RA   Xu M.L., Coban-Akdemir Z.H., Jhangiani S.N., Muzny D.M., Gibbs R.A.,
+RA   Lupski J.R., Chinn I.K., Schatz D.G., Orange J.S., Meffre E.;
+RT   "Disease-associated CTNNBL1 mutation impairs somatic hypermutation by
+RT   decreasing nuclear AID.";
+RL   J. Clin. Invest. 130:4411-4422(2020).
+RN   [39]
+RP   STRUCTURE BY NMR OF 7-112.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the MYB DNA-binding domain of human cell division
+RT   cycle 5-like protein.";
+RL   Submitted (APR-2007) to the PDB data bank.
+RN   [40] {ECO:0007744|PDB:5XJC}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.60 ANGSTROMS), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND SUBUNIT.
+RX   PubMed=28502770; DOI=10.1016/j.cell.2017.04.033;
+RA   Zhang X., Yan C., Hang J., Finci L.I., Lei J., Shi Y.;
+RT   "An Atomic Structure of the Human Spliceosome.";
+RL   Cell 169:918-929(2017).
+RN   [41] {ECO:0007744|PDB:5MQF}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (5.90 ANGSTROMS), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND SUBUNIT.
+RX   PubMed=28076346; DOI=10.1038/nature21079;
+RA   Bertram K., Agafonov D.E., Liu W.T., Dybkov O., Will C.L., Hartmuth K.,
+RA   Urlaub H., Kastner B., Stark H., Luhrmann R.;
+RT   "Cryo-EM structure of a human spliceosome activated for step 2 of
+RT   splicing.";
+RL   Nature 542:318-323(2017).
+RN   [42] {ECO:0007744|PDB:6FF4, ECO:0007744|PDB:6FF7}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.40 ANGSTROMS), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND SUBUNIT.
+RX   PubMed=29361316; DOI=10.1016/j.cell.2018.01.010;
+RA   Haselbach D., Komarov I., Agafonov D.E., Hartmuth K., Graf B., Dybkov O.,
+RA   Urlaub H., Kastner B., Luhrmann R., Stark H.;
+RT   "Structure and Conformational Dynamics of the Human Spliceosomal Bact
+RT   Complex.";
+RL   Cell 172:454-464(2018).
+RN   [43] {ECO:0007744|PDB:5Z56, ECO:0007744|PDB:5Z57, ECO:0007744|PDB:5Z58}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (4.90 ANGSTROMS), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND SUBUNIT.
+RX   PubMed=29360106; DOI=10.1038/cr.2018.14;
+RA   Zhang X., Yan C., Zhan X., Li L., Lei J., Shi Y.;
+RT   "Structure of the human activated spliceosome in three conformational
+RT   states.";
+RL   Cell Res. 28:307-322(2018).
+RN   [44] {ECO:0007744|PDB:5YZG}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (4.10 ANGSTROMS), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND SUBUNIT.
+RX   PubMed=29301961; DOI=10.1126/science.aar6401;
+RA   Zhan X., Yan C., Zhang X., Lei J., Shi Y.;
+RT   "Structure of a human catalytic step I spliceosome.";
+RL   Science 359:537-545(2018).
+RN   [45] {ECO:0007744|PDB:6ICZ, ECO:0007744|PDB:6ID0, ECO:0007744|PDB:6ID1}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.86 ANGSTROMS), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND SUBUNIT.
+RX   PubMed=30728453; DOI=10.1038/s41422-019-0143-x;
+RA   Zhang X., Zhan X., Yan C., Zhang W., Liu D., Lei J., Shi Y.;
+RT   "Structures of the human spliceosomes before and after release of the
+RT   ligated exon.";
+RL   Cell Res. 29:274-285(2019).
+RN   [46] {ECO:0007744|PDB:6QDV}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.30 ANGSTROMS), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND SUBUNIT.
+RX   PubMed=30705154; DOI=10.1126/science.aaw5569;
+RA   Fica S.M., Oubridge C., Wilkinson M.E., Newman A.J., Nagai K.;
+RT   "A human postcatalytic spliceosome structure reveals essential roles of
+RT   metazoan factors for exon ligation.";
+RL   Science 363:710-714(2019).
+RN   [47] {ECO:0007744|PDB:7DVQ}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.89 ANGSTROMS), FUNCTION, AND SUBUNIT.
+RX   PubMed=33509932; DOI=10.1126/science.abg0879;
+RA   Bai R., Wan R., Wang L., Xu K., Zhang Q., Lei J., Shi Y.;
+RT   "Structure of the activated human minor spliceosome.";
+RL   Science 371:0-0(2021).
+CC   -!- FUNCTION: DNA-binding protein involved in cell cycle control. May act
+CC       as a transcription activator. Plays role in pre-mRNA splicing as core
+CC       component of precatalytic, catalytic and postcatalytic spliceosomal
+CC       complexes (PubMed:11991638, PubMed:20176811, PubMed:28502770,
+CC       PubMed:28076346, PubMed:29361316, PubMed:29360106, PubMed:29301961,
+CC       PubMed:30728453, PubMed:30705154). Component of the PRP19-CDC5L complex
+CC       that forms an integral part of the spliceosome and is required for
+CC       activating pre-mRNA splicing. The PRP19-CDC5L complex may also play a
+CC       role in the response to DNA damage (DDR) (PubMed:20176811). As a
+CC       component of the minor spliceosome, involved in the splicing of U12-
+CC       type introns in pre-mRNAs (Probable). {ECO:0000269|PubMed:10570151,
+CC       ECO:0000269|PubMed:11082045, ECO:0000269|PubMed:11101529,
+CC       ECO:0000269|PubMed:11544257, ECO:0000269|PubMed:11991638,
+CC       ECO:0000269|PubMed:12927788, ECO:0000269|PubMed:18583928,
+CC       ECO:0000269|PubMed:20176811, ECO:0000269|PubMed:24332808,
+CC       ECO:0000269|PubMed:28076346, ECO:0000269|PubMed:28502770,
+CC       ECO:0000269|PubMed:29301961, ECO:0000269|PubMed:29360106,
+CC       ECO:0000269|PubMed:29361316, ECO:0000269|PubMed:30705154,
+CC       ECO:0000269|PubMed:30728453, ECO:0000269|PubMed:9038199,
+CC       ECO:0000269|PubMed:9468527, ECO:0000269|PubMed:9632794,
+CC       ECO:0000305|PubMed:33509932}.
+CC   -!- SUBUNIT: Homodimer. Interacts with DAPK3 (By similarity). Component of
+CC       the precatalytic, catalytic and postcatalytic spliceosome complexes
+CC       (PubMed:11991638, PubMed:28502770, PubMed:28076346, PubMed:29361316,
+CC       PubMed:29360106, PubMed:29301961, PubMed:30728453, PubMed:30705154).
+CC       Part of a spliceosomal 'core' complex consisting of CDC5L, PLRG1,
+CC       SPF27, CCAP1, CCAP3 and CCAP6. Interacts with PLRG1, Lodestar/TTF2, and
+CC       NIPP1/PPP1R8. Component of the minor spliceosome, which splices U12-
+CC       type introns. Within this complex, interacts with SCNM1
+CC       (PubMed:33509932). Component of the PRP19-CDC5L splicing complex
+CC       composed of a core complex comprising a homotetramer of PRPF19, CDC5L,
+CC       PLRG1 and BCAS2, and at least three less stably associated proteins
+CC       CTNNBL1, CWC15 and HSPA8. The interaction with CTNNBL1 is direct
+CC       (PubMed:18722174, PubMed:20176811, PubMed:21385873, PubMed:32484799).
+CC       Interacts (via its C-terminus) directly in the complex with PRPF19 and
+CC       BCAS2. Interacts (via its C-terminus) directly with PRGL1 (via its WD40
+CC       repeat domain); the interaction is required for mRNA splicing but not
+CC       for spliceosome assembly. Interacts with PRPF19 (via N-terminus) (By
+CC       similarity). Interacts with USB1 (PubMed:23022480).
+CC       {ECO:0000250|UniProtKB:O08837, ECO:0000269|PubMed:10827081,
+CC       ECO:0000269|PubMed:11082045, ECO:0000269|PubMed:11544257,
+CC       ECO:0000269|PubMed:11991638, ECO:0000269|PubMed:12927788,
+CC       ECO:0000269|PubMed:18583928, ECO:0000269|PubMed:18722174,
+CC       ECO:0000269|PubMed:20176811, ECO:0000269|PubMed:21385873,
+CC       ECO:0000269|PubMed:23022480, ECO:0000269|PubMed:28076346,
+CC       ECO:0000269|PubMed:28502770, ECO:0000269|PubMed:29301961,
+CC       ECO:0000269|PubMed:29360106, ECO:0000269|PubMed:29361316,
+CC       ECO:0000269|PubMed:30705154, ECO:0000269|PubMed:30728453,
+CC       ECO:0000269|PubMed:32484799, ECO:0000269|PubMed:33509932}.
+CC   -!- INTERACTION:
+CC       Q99459; Q13535: ATR; NbExp=3; IntAct=EBI-374880, EBI-968983;
+CC       Q99459; O75934: BCAS2; NbExp=13; IntAct=EBI-374880, EBI-1050106;
+CC       Q99459; Q99459: CDC5L; NbExp=2; IntAct=EBI-374880, EBI-374880;
+CC       Q99459; Q8WYA6: CTNNBL1; NbExp=7; IntAct=EBI-374880, EBI-748128;
+CC       Q99459; Q08379: GOLGA2; NbExp=6; IntAct=EBI-374880, EBI-618309;
+CC       Q99459; Q0D2H9: GOLGA8DP; NbExp=3; IntAct=EBI-374880, EBI-10181276;
+CC       Q99459; Q08AF8: GOLGA8G; NbExp=3; IntAct=EBI-374880, EBI-10181260;
+CC       Q99459; P07910: HNRNPC; NbExp=2; IntAct=EBI-374880, EBI-357966;
+CC       Q99459; P52272: HNRNPM; NbExp=7; IntAct=EBI-374880, EBI-486809;
+CC       Q99459; Q9UJC3: HOOK1; NbExp=5; IntAct=EBI-374880, EBI-746704;
+CC       Q99459; P42858: HTT; NbExp=3; IntAct=EBI-374880, EBI-466029;
+CC       Q99459; Q63ZY3: KANK2; NbExp=3; IntAct=EBI-374880, EBI-2556193;
+CC       Q99459; Q7Z3B3: KANSL1; NbExp=3; IntAct=EBI-374880, EBI-740244;
+CC       Q99459; O60341: KDM1A; NbExp=3; IntAct=EBI-374880, EBI-710124;
+CC       Q99459; O95751: LDOC1; NbExp=3; IntAct=EBI-374880, EBI-740738;
+CC       Q99459; Q5JR59-3: MTUS2; NbExp=3; IntAct=EBI-374880, EBI-11522433;
+CC       Q99459; Q13416: ORC2; NbExp=2; IntAct=EBI-374880, EBI-374957;
+CC       Q99459; O43660: PLRG1; NbExp=8; IntAct=EBI-374880, EBI-1051504;
+CC       Q99459; P62136: PPP1CA; NbExp=2; IntAct=EBI-374880, EBI-357253;
+CC       Q99459; Q96KQ4: PPP1R13B; NbExp=5; IntAct=EBI-374880, EBI-1105153;
+CC       Q99459; Q9UMS4: PRPF19; NbExp=11; IntAct=EBI-374880, EBI-395746;
+CC       Q99459; Q15428: SF3A2; NbExp=2; IntAct=EBI-374880, EBI-2462271;
+CC       Q99459; Q01082: SPTBN1; NbExp=3; IntAct=EBI-374880, EBI-351561;
+CC       Q99459; Q8N3V7: SYNPO; NbExp=5; IntAct=EBI-374880, EBI-352936;
+CC       Q99459; Q05BL1: TP53BP2; NbExp=3; IntAct=EBI-374880, EBI-11952721;
+CC       Q99459; Q9UNY4: TTF2; NbExp=5; IntAct=EBI-374880, EBI-2322921;
+CC       Q99459; P40222: TXLNA; NbExp=3; IntAct=EBI-374880, EBI-359793;
+CC       Q99459; Q8N6Y0: USHBP1; NbExp=3; IntAct=EBI-374880, EBI-739895;
+CC       Q99459; Q8N1B4: VPS52; NbExp=3; IntAct=EBI-374880, EBI-2799833;
+CC       Q99459; Q9UGI0: ZRANB1; NbExp=3; IntAct=EBI-374880, EBI-527853;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:10570151,
+CC       ECO:0000269|PubMed:11544257, ECO:0000269|PubMed:18583928,
+CC       ECO:0000269|PubMed:28076346, ECO:0000269|PubMed:28502770,
+CC       ECO:0000269|PubMed:29301961, ECO:0000269|PubMed:29360106,
+CC       ECO:0000269|PubMed:29361316, ECO:0000269|PubMed:30705154,
+CC       ECO:0000269|PubMed:30728453, ECO:0000269|PubMed:9038199,
+CC       ECO:0000269|PubMed:9598309}. Nucleus speckle
+CC       {ECO:0000269|PubMed:10570151, ECO:0000269|PubMed:10827081,
+CC       ECO:0000269|PubMed:11544257}. Cytoplasm {ECO:0000269|PubMed:9038199}.
+CC       Note=May shuttle between cytoplasm and nucleus.
+CC       {ECO:0000269|PubMed:9038199}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed in both fetal and adult
+CC       tissues. {ECO:0000269|PubMed:9038199, ECO:0000269|PubMed:9598309,
+CC       ECO:0000269|PubMed:9632794}.
+CC   -!- PTM: Phosphorylated on serine and threonine residues. Phosphorylation
+CC       on Thr-411 and Thr-438 is required for CDC5L-mediated mRNA splicing.
+CC       Has no effect on subcellular location nor on homodimerization.
+CC       Phosphorylated in vitro by CDK2. Phosphorylation enhances interaction
+CC       with PPP1R8. {ECO:0000269|PubMed:10827081, ECO:0000269|PubMed:18583928,
+CC       ECO:0000269|PubMed:9038199}.
+CC   -!- DISEASE: Note=A chromosomal aberration involving CDC5L is found in
+CC       multicystic renal dysplasia. Translocation t(6;19)(p21;q13.1) with
+CC       USF2.
+CC   -!- SIMILARITY: Belongs to the CEF1 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA24862.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/cdc5l/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U86753; AAB61210.1; -; mRNA.
+DR   EMBL; AB007892; BAA24862.2; ALT_INIT; mRNA.
+DR   EMBL; AY518540; AAR89913.1; -; Genomic_DNA.
+DR   EMBL; AL133262; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL353588; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC001568; AAH01568.1; -; mRNA.
+DR   EMBL; D85423; BAA20885.1; -; mRNA.
+DR   CCDS; CCDS4912.1; -.
+DR   RefSeq; NP_001244.1; NM_001253.3.
+DR   PDB; 2DIM; NMR; -; A=7-63.
+DR   PDB; 2DIN; NMR; -; A=59-111.
+DR   PDB; 5MQF; EM; 5.90 A; L=1-802.
+DR   PDB; 5XJC; EM; 3.60 A; L=1-802.
+DR   PDB; 5YZG; EM; 4.10 A; L=1-802.
+DR   PDB; 5Z56; EM; 5.10 A; L=1-802.
+DR   PDB; 5Z57; EM; 6.50 A; L=1-802.
+DR   PDB; 5Z58; EM; 4.90 A; L=1-802.
+DR   PDB; 6FF4; EM; 16.00 A; L=1-802.
+DR   PDB; 6FF7; EM; 4.50 A; L=1-802.
+DR   PDB; 6ICZ; EM; 3.00 A; L=1-802.
+DR   PDB; 6ID0; EM; 2.90 A; L=1-802.
+DR   PDB; 6ID1; EM; 2.86 A; L=1-802.
+DR   PDB; 6QDV; EM; 3.30 A; O=1-802.
+DR   PDB; 6ZYM; EM; 3.40 A; L=1-802.
+DR   PDB; 7A5P; EM; 5.00 A; L=1-802.
+DR   PDB; 7AAV; EM; 4.20 A; L=1-802.
+DR   PDB; 7ABG; EM; 7.80 A; L=1-802.
+DR   PDB; 7ABH; EM; 4.50 A; L=1-802.
+DR   PDB; 7ABI; EM; 8.00 A; L=1-802.
+DR   PDB; 7DVQ; EM; 2.89 A; L=1-802.
+DR   PDB; 7W59; EM; 3.60 A; L=1-802.
+DR   PDB; 7W5A; EM; 3.60 A; L=1-802.
+DR   PDB; 7W5B; EM; 4.30 A; L=1-802.
+DR   PDBsum; 2DIM; -.
+DR   PDBsum; 2DIN; -.
+DR   PDBsum; 5MQF; -.
+DR   PDBsum; 5XJC; -.
+DR   PDBsum; 5YZG; -.
+DR   PDBsum; 5Z56; -.
+DR   PDBsum; 5Z57; -.
+DR   PDBsum; 5Z58; -.
+DR   PDBsum; 6FF4; -.
+DR   PDBsum; 6FF7; -.
+DR   PDBsum; 6ICZ; -.
+DR   PDBsum; 6ID0; -.
+DR   PDBsum; 6ID1; -.
+DR   PDBsum; 6QDV; -.
+DR   PDBsum; 6ZYM; -.
+DR   PDBsum; 7A5P; -.
+DR   PDBsum; 7AAV; -.
+DR   PDBsum; 7ABG; -.
+DR   PDBsum; 7ABH; -.
+DR   PDBsum; 7ABI; -.
+DR   PDBsum; 7DVQ; -.
+DR   PDBsum; 7W59; -.
+DR   PDBsum; 7W5A; -.
+DR   PDBsum; 7W5B; -.
+DR   AlphaFoldDB; Q99459; -.
+DR   BMRB; Q99459; -.
+DR   SMR; Q99459; -.
+DR   BioGRID; 107424; 836.
+DR   ComplexPortal; CPX-5824; PRP19-CDC5L complex.
+DR   CORUM; Q99459; -.
+DR   DIP; DIP-31731N; -.
+DR   IntAct; Q99459; 675.
+DR   MINT; Q99459; -.
+DR   STRING; 9606.ENSP00000360532; -.
+DR   GlyCosmos; Q99459; 1 site, 1 glycan.
+DR   GlyGen; Q99459; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q99459; -.
+DR   MetOSite; Q99459; -.
+DR   PhosphoSitePlus; Q99459; -.
+DR   SwissPalm; Q99459; -.
+DR   BioMuta; CDC5L; -.
+DR   DMDM; 73619933; -.
+DR   EPD; Q99459; -.
+DR   jPOST; Q99459; -.
+DR   MassIVE; Q99459; -.
+DR   MaxQB; Q99459; -.
+DR   PaxDb; Q99459; -.
+DR   PeptideAtlas; Q99459; -.
+DR   ProteomicsDB; 78277; -.
+DR   Antibodypedia; 1422; 346 antibodies from 34 providers.
+DR   DNASU; 988; -.
+DR   Ensembl; ENST00000371477.4; ENSP00000360532.3; ENSG00000096401.8.
+DR   GeneID; 988; -.
+DR   KEGG; hsa:988; -.
+DR   MANE-Select; ENST00000371477.4; ENSP00000360532.3; NM_001253.4; NP_001244.1.
+DR   UCSC; uc003oxl.4; human.
+DR   AGR; HGNC:1743; -.
+DR   CTD; 988; -.
+DR   DisGeNET; 988; -.
+DR   GeneCards; CDC5L; -.
+DR   HGNC; HGNC:1743; CDC5L.
+DR   HPA; ENSG00000096401; Low tissue specificity.
+DR   MIM; 602868; gene.
+DR   neXtProt; NX_Q99459; -.
+DR   OpenTargets; ENSG00000096401; -.
+DR   PharmGKB; PA26270; -.
+DR   VEuPathDB; HostDB:ENSG00000096401; -.
+DR   eggNOG; KOG0050; Eukaryota.
+DR   GeneTree; ENSGT00550000074922; -.
+DR   HOGENOM; CLU_009082_0_0_1; -.
+DR   InParanoid; Q99459; -.
+DR   OMA; QVYQRGL; -.
+DR   OrthoDB; 131128at2759; -.
+DR   PhylomeDB; Q99459; -.
+DR   TreeFam; TF101061; -.
+DR   PathwayCommons; Q99459; -.
+DR   Reactome; R-HSA-72163; mRNA Splicing - Major Pathway.
+DR   SignaLink; Q99459; -.
+DR   SIGNOR; Q99459; -.
+DR   BioGRID-ORCS; 988; 844 hits in 1184 CRISPR screens.
+DR   ChiTaRS; CDC5L; human.
+DR   EvolutionaryTrace; Q99459; -.
+DR   GeneWiki; CDC5L; -.
+DR   GenomeRNAi; 988; -.
+DR   Pharos; Q99459; Tbio.
+DR   PRO; PR:Q99459; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q99459; protein.
+DR   Bgee; ENSG00000096401; Expressed in buccal mucosa cell and 211 other tissues.
+DR   Genevisible; Q99459; HS.
+DR   GO; GO:0071013; C:catalytic step 2 spliceosome; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:CACAO.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0016607; C:nuclear speck; IDA:BHF-UCL.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0000974; C:Prp19 complex; IDA:UniProtKB.
+DR   GO; GO:0005681; C:spliceosomal complex; IPI:ComplexPortal.
+DR   GO; GO:0071007; C:U2-type catalytic step 2 spliceosome; IDA:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; NAS:UniProtKB.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:0071987; F:WD40-repeat domain binding; IDA:UniProtKB.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0000077; P:DNA damage checkpoint signaling; IMP:UniProtKB.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-KW.
+DR   GO; GO:0000398; P:mRNA splicing, via spliceosome; IDA:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:NTNU_SB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd00167; SANT; 1.
+DR   CDD; cd11659; SANT_CDC5_II; 1.
+DR   Gene3D; 1.10.10.60; Homeodomain-like; 2.
+DR   InterPro; IPR047242; CDC5L/Cef1.
+DR   InterPro; IPR021786; Cdc5p/Cef1_C.
+DR   InterPro; IPR009057; Homeobox-like_sf.
+DR   InterPro; IPR017930; Myb_dom.
+DR   InterPro; IPR001005; SANT/Myb.
+DR   InterPro; IPR047240; SANT_CDC5L_II.
+DR   PANTHER; PTHR45885; CELL DIVISION CYCLE 5-LIKE PROTEIN; 1.
+DR   PANTHER; PTHR45885:SF1; CELL DIVISION CYCLE 5-LIKE PROTEIN; 1.
+DR   Pfam; PF11831; Myb_Cef; 1.
+DR   Pfam; PF13921; Myb_DNA-bind_6; 1.
+DR   SMART; SM00717; SANT; 2.
+DR   SUPFAM; SSF46689; Homeodomain-like; 1.
+DR   PROSITE; PS51294; HTH_MYB; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Cell cycle; Chromosomal rearrangement;
+KW   Coiled coil; Cytoplasm; DNA damage; DNA repair; DNA-binding;
+KW   Isopeptide bond; mRNA processing; mRNA splicing; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repeat; RNA-binding; Spliceosome; Transcription;
+KW   Transcription regulation; Ubl conjugation.
+FT   CHAIN           1..802
+FT                   /note="Cell division cycle 5-like protein"
+FT                   /id="PRO_0000197091"
+FT   DOMAIN          1..56
+FT                   /note="HTH myb-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00625"
+FT   DOMAIN          57..108
+FT                   /note="HTH myb-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00625"
+FT   DNA_BIND        31..54
+FT                   /note="H-T-H motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00625"
+FT   DNA_BIND        82..104
+FT                   /note="H-T-H motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00625"
+FT   REGION          108..143
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          200..206
+FT                   /note="Required for interaction with CTNNBL1"
+FT                   /evidence="ECO:0000269|PubMed:21385873"
+FT   REGION          247..278
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          260..606
+FT                   /note="Interaction with PPP1R8"
+FT                   /evidence="ECO:0000269|PubMed:10827081"
+FT   REGION          408..443
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          501..659
+FT                   /note="Interaction with DAPK3"
+FT                   /evidence="ECO:0000250|UniProtKB:O08837"
+FT   REGION          706..800
+FT                   /note="Interaction with PLRG1"
+FT                   /evidence="ECO:0000269|PubMed:11544257"
+FT   COILED          142..245
+FT                   /evidence="ECO:0000255"
+FT   COILED          676..701
+FT                   /evidence="ECO:0000255"
+FT   COILED          764..802
+FT                   /evidence="ECO:0000255"
+FT   MOTIF           165..271
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        108..142
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        247..261
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        408..437
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   SITE            414
+FT                   /note="Breakpoint for translocation"
+FT   MOD_RES         227
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:18583928,
+FT                   ECO:0007744|PubMed:18669648"
+FT   MOD_RES         303
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:18583928,
+FT                   ECO:0007744|PubMed:17081983, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         358
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:18583928"
+FT   MOD_RES         377
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         385
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:18583928,
+FT                   ECO:0007744|PubMed:18220336, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         396
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18220336,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         404
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:18583928"
+FT   MOD_RES         411
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:18583928"
+FT   MOD_RES         415
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         417
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:18583928,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         424
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:18583928,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         430
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         437
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         438
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:18583928,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         442
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   CROSSLNK        135
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        219
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:25772364, ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        487
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         459
+FT                   /note="Y -> C (in dbSNP:rs11572006)"
+FT                   /id="VAR_050181"
+FT   MUTAGEN         31
+FT                   /note="W->G: Abolishes DNA-binding; when associated with
+FT                   G-53 and G-82."
+FT                   /evidence="ECO:0000269|PubMed:11082045"
+FT   MUTAGEN         53
+FT                   /note="W->G: Abolishes DNA-binding; when associated with
+FT                   G-31 and G-82."
+FT                   /evidence="ECO:0000269|PubMed:11082045"
+FT   MUTAGEN         82
+FT                   /note="W->G: Abolishes DNA-binding; when associated with
+FT                   G-31 and G-53."
+FT                   /evidence="ECO:0000269|PubMed:11082045"
+FT   MUTAGEN         227
+FT                   /note="T->A: Abolishes phosphorylation. No effect on
+FT                   homodimerization nor on nuclear localization; when
+FT                   associated with A-303; A-358; A-385; A-404; A-411; A-417;
+FT                   A-424 and A-438."
+FT   MUTAGEN         303
+FT                   /note="S->A: Abolishes phosphorylation. No effect on
+FT                   homodimerization nor on nuclear localization; when
+FT                   associated with A-227; A-358; A-385; A-404; A-411; A-417;
+FT                   A-424 and A-438."
+FT   MUTAGEN         358
+FT                   /note="S->A: Abolishes phosphorylation. No effect on
+FT                   homodimerization nor on nuclear localization; when
+FT                   associated with A-227; A-303; A-385; A-404; A-411; A-417;
+FT                   A-424 and A-438."
+FT   MUTAGEN         404
+FT                   /note="T->A: Abolishes phosphorylation. No effect on
+FT                   homodimerization nor on nuclear localization; when
+FT                   associated with A-227; A-303; A-358; A-385; A-411; A-417;
+FT                   A-424 and A-438."
+FT   MUTAGEN         411
+FT                   /note="T->A: Abolishes phosphorylation. Markedly diminished
+FT                   pre-mRNA splicing activity; when associated with A-438. No
+FT                   effect on homodimerization nor on nuclear localization;
+FT                   when associated with A-227; A-303; A-358; A-385; A-404;
+FT                   A-417; A-424 and A-438."
+FT                   /evidence="ECO:0000269|PubMed:18583928"
+FT   MUTAGEN         417
+FT                   /note="S->A: Abolishes phosphorylation. No effect on
+FT                   homodimerization nor on nuclear localization; when
+FT                   associated with A-227; A-303; A-358; A-385; A-404; A-411;
+FT                   A-424 and A-438."
+FT   MUTAGEN         424
+FT                   /note="T->A: Abolishes phosphorylation. No effect on
+FT                   homodimerization nor on nuclear localization; when
+FT                   associated with A-227; A-303; A-358; A-385; A-404; A-411;
+FT                   A-417 and A-438."
+FT   MUTAGEN         438
+FT                   /note="T->A: Abolishes phosphorylation. Markedly diminished
+FT                   pre-mRNA splicing activity; when associated with A-411. No
+FT                   effect on homodimerization nor on nuclear localization;
+FT                   when associated with A-227; A-303; A-358; A-385; A-404;
+FT                   A-411; A-417 and A-424."
+FT                   /evidence="ECO:0000269|PubMed:18583928"
+FT   CONFLICT        12
+FT                   /note="R -> K (in Ref. 9; BAA20885)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           13..26
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           31..34
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   TURN            35..37
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   STRAND          38..40
+FT                   /evidence="ECO:0007829|PDB:7DVQ"
+FT   HELIX           43..53
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   STRAND          56..58
+FT                   /evidence="ECO:0007829|PDB:2DIM"
+FT   HELIX           65..77
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   STRAND          78..80
+FT                   /evidence="ECO:0007829|PDB:6FF4"
+FT   HELIX           82..89
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           93..111
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           132..134
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   STRAND          141..143
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           146..160
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           165..194
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   STRAND          205..207
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   TURN            208..211
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   TURN            239..241
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           244..248
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           252..269
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   STRAND          505..507
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           508..525
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           529..533
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           546..551
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           557..570
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           594..607
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           615..628
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           691..789
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+FT   HELIX           791..794
+FT                   /evidence="ECO:0007829|PDB:6ID1"
+SQ   SEQUENCE   802 AA;  92251 MW;  3390F91EE7E79DA6 CRC64;
+     MPRIMIKGGV WRNTEDEILK AAVMKYGKNQ WSRIASLLHR KSAKQCKARW YEWLDPSIKK
+     TEWSREEEEK LLHLAKLMPT QWRTIAPIIG RTAAQCLEHY EFLLDKAAQR DNEEETTDDP
+     RKLKPGEIDP NPETKPARPD PIDMDEDELE MLSEARARLA NTQGKKAKRK AREKQLEEAR
+     RLAALQKRRE LRAAGIEIQK KRKRKRGVDY NAEIPFEKKP ALGFYDTSEE NYQALDADFR
+     KLRQQDLDGE LRSEKEGRDR KKDKQHLKRK KESDLPSAIL QTSGVSEFTK KRSKLVLPAP
+     QISDAELQEV VKVGQASEIA RQTAEESGIT NSASSTLLSE YNVTNNSVAL RTPRTPASQD
+     RILQEAQNLM ALTNVDTPLK GGLNTPLHES DFSGVTPQRQ VVQTPNTVLS TPFRTPSNGA
+     EGLTPRSGTT PKPVINSTPG RTPLRDKLNI NPEDGMADYS DPSYVKQMER ESREHLRLGL
+     LGLPAPKNDF EIVLPENAEK ELEEREIDDT YIEDAADVDA RKQAIRDAER VKEMKRMHKA
+     VQKDLPRPSE VNETILRPLN VEPPLTDLQK SEELIKKEMI TMLHYDLLHH PYEPSGNKKG
+     KTVGFGTNNS EHITYLEHNP YEKFSKEELK KAQDVLVQEM EVVKQGMSHG ELSSEAYNQV
+     WEECYSQVLY LPGQSRYTRA NLASKKDRIE SLEKRLEINR GHMTTEAKRA AKMEKKMKIL
+     LGGYQSRAMG LMKQLNDLWD QIEQAHLELR TFEELKKHED SAIPRRLECL KEDVQRQQER
+     EKELQHRYAD LLLEKETLKS KF
+//

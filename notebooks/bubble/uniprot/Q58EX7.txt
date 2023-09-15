@@ -1,0 +1,422 @@
+ID   PKHG4_HUMAN             Reviewed;        1191 AA.
+AC   Q58EX7; Q4G0J8; Q4H485; Q56A69; Q9H7K4; Q9UFW0;
+DT   07-MAR-2006, integrated into UniProtKB/Swiss-Prot.
+DT   26-APR-2005, sequence version 1.
+DT   28-JUN-2023, entry version 150.
+DE   RecName: Full=Puratrophin-1;
+DE   AltName: Full=Pleckstrin homology domain-containing family G member 4;
+DE            Short=PH domain-containing family G member 4;
+DE   AltName: Full=Purkinje cell atrophy-associated protein 1;
+GN   Name=PLEKHG4; Synonyms=PRTPHN1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 3), AND TISSUE SPECIFICITY.
+RC   TISSUE=Cerebellum;
+RX   PubMed=16001362; DOI=10.1086/432518;
+RA   Ishikawa K., Toru S., Tsunemi T., Li M., Kobayashi K., Yokota T., Amino T.,
+RA   Owada K., Fujigasaki H., Sakamoto M., Tomimitsu H., Takashima M.,
+RA   Kumagai J., Noguchi Y., Kawashima Y., Ohkoshi N., Ishida G., Gomyoda M.,
+RA   Yoshida M., Hashizume Y., Saito Y., Murayama S., Yamanouchi H.,
+RA   Mizutani T., Kondo I., Toda T., Mizusawa H.;
+RT   "An autosomal dominant cerebellar ataxia linked to chromosome 16q22.1 is
+RT   associated with a single-nucleotide substitution in the 5' untranslated
+RT   region of the gene encoding a protein with spectrin repeat and Rho guanine-
+RT   nucleotide exchange-factor domains.";
+RL   Am. J. Hum. Genet. 77:280-296(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Spleen;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Brain, Eye, and Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 278-1191 (ISOFORMS 1/2).
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [5]
+RP   LACK OF INVOLVEMENT IN SPINOCEREBELLAR ATAXIA, AND REDEFINITION OF THE
+RP   SPINOCEREBELLAR ATAXIA LOCUS ON CHROMOSOME 16.
+RX   PubMed=17611710; DOI=10.1007/s10038-007-0154-1;
+RA   Amino T., Ishikawa K., Toru S., Ishiguro T., Sato N., Tsunemi T.,
+RA   Murata M., Kobayashi K., Inazawa J., Toda T., Mizusawa H.;
+RT   "Redefining the disease locus of 16q22.1-linked autosomal dominant
+RT   cerebellar ataxia.";
+RL   J. Hum. Genet. 52:643-649(2007).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-64, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-64, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+CC   -!- FUNCTION: Possible role in intracellular signaling and cytoskeleton
+CC       dynamics at the Golgi.
+CC   -!- INTERACTION:
+CC       Q58EX7; Q9NQ94: A1CF; NbExp=3; IntAct=EBI-949255, EBI-2809489;
+CC       Q58EX7; Q12774: ARHGEF5; NbExp=3; IntAct=EBI-949255, EBI-602199;
+CC       Q58EX7; Q9H6L4: ARMC7; NbExp=3; IntAct=EBI-949255, EBI-742909;
+CC       Q58EX7; Q9BXY8: BEX2; NbExp=3; IntAct=EBI-949255, EBI-745073;
+CC       Q58EX7; Q96HB5: CCDC120; NbExp=3; IntAct=EBI-949255, EBI-744556;
+CC       Q58EX7; P42773: CDKN2C; NbExp=3; IntAct=EBI-949255, EBI-711290;
+CC       Q58EX7; Q9UKJ5: CHIC2; NbExp=3; IntAct=EBI-949255, EBI-741528;
+CC       Q58EX7; Q9BTE7: DCUN1D5; NbExp=3; IntAct=EBI-949255, EBI-3924013;
+CC       Q58EX7; Q6W0C5: DPPA3; NbExp=3; IntAct=EBI-949255, EBI-12082590;
+CC       Q58EX7; Q86UW9: DTX2; NbExp=3; IntAct=EBI-949255, EBI-740376;
+CC       Q58EX7; Q9UII6: DUSP13; NbExp=3; IntAct=EBI-949255, EBI-749800;
+CC       Q58EX7; Q3B820: FAM161A; NbExp=3; IntAct=EBI-949255, EBI-719941;
+CC       Q58EX7; Q7Z6J4: FGD2; NbExp=3; IntAct=EBI-949255, EBI-1057190;
+CC       Q58EX7; P23771-2: GATA3; NbExp=3; IntAct=EBI-949255, EBI-6672518;
+CC       Q58EX7; O75603: GCM2; NbExp=3; IntAct=EBI-949255, EBI-10188645;
+CC       Q58EX7; O43708: GSTZ1; NbExp=3; IntAct=EBI-949255, EBI-748043;
+CC       Q58EX7; P08631-2: HCK; NbExp=3; IntAct=EBI-949255, EBI-9834454;
+CC       Q58EX7; P17482: HOXB9; NbExp=3; IntAct=EBI-949255, EBI-745290;
+CC       Q58EX7; P31273: HOXC8; NbExp=3; IntAct=EBI-949255, EBI-1752118;
+CC       Q58EX7; P12035: KRT3; NbExp=3; IntAct=EBI-949255, EBI-2430095;
+CC       Q58EX7; O95678: KRT75; NbExp=3; IntAct=EBI-949255, EBI-2949715;
+CC       Q58EX7; Q96EH3: MALSU1; NbExp=3; IntAct=EBI-949255, EBI-2339737;
+CC       Q58EX7; P43243: MATR3; NbExp=3; IntAct=EBI-949255, EBI-352602;
+CC       Q58EX7; Q99750: MDFI; NbExp=3; IntAct=EBI-949255, EBI-724076;
+CC       Q58EX7; P53582: METAP1; NbExp=3; IntAct=EBI-949255, EBI-1051435;
+CC       Q58EX7; Q8IVT4: MGC50722; NbExp=3; IntAct=EBI-949255, EBI-14086479;
+CC       Q58EX7; Q8IXL7-2: MSRB3; NbExp=3; IntAct=EBI-949255, EBI-10699187;
+CC       Q58EX7; Q13330: MTA1; NbExp=3; IntAct=EBI-949255, EBI-714236;
+CC       Q58EX7; Q9P2K5-2: MYEF2; NbExp=3; IntAct=EBI-949255, EBI-10318831;
+CC       Q58EX7; Q9NP98: MYOZ1; NbExp=3; IntAct=EBI-949255, EBI-744402;
+CC       Q58EX7; Q8N6N6: NATD1; NbExp=3; IntAct=EBI-949255, EBI-8656665;
+CC       Q58EX7; P32242: OTX1; NbExp=3; IntAct=EBI-949255, EBI-740446;
+CC       Q58EX7; P16118: PFKFB1; NbExp=3; IntAct=EBI-949255, EBI-709807;
+CC       Q58EX7; Q99959-2: PKP2; NbExp=3; IntAct=EBI-949255, EBI-10987518;
+CC       Q58EX7; Q7Z5V6-2: PPP1R32; NbExp=3; IntAct=EBI-949255, EBI-12000762;
+CC       Q58EX7; Q99633: PRPF18; NbExp=3; IntAct=EBI-949255, EBI-2798416;
+CC       Q58EX7; Q8WWY3: PRPF31; NbExp=3; IntAct=EBI-949255, EBI-1567797;
+CC       Q58EX7; P20618: PSMB1; NbExp=3; IntAct=EBI-949255, EBI-372273;
+CC       Q58EX7; Q13671: RIN1; NbExp=3; IntAct=EBI-949255, EBI-366017;
+CC       Q58EX7; Q8IYX7: SAXO1; NbExp=3; IntAct=EBI-949255, EBI-3957636;
+CC       Q58EX7; Q9C0A6-3: SETD5; NbExp=3; IntAct=EBI-949255, EBI-12233047;
+CC       Q58EX7; Q9H788: SH2D4A; NbExp=3; IntAct=EBI-949255, EBI-747035;
+CC       Q58EX7; Q6ZSJ9: SHISA6; NbExp=3; IntAct=EBI-949255, EBI-12037847;
+CC       Q58EX7; Q15475: SIX1; NbExp=3; IntAct=EBI-949255, EBI-743675;
+CC       Q58EX7; P49901: SMCP; NbExp=3; IntAct=EBI-949255, EBI-750494;
+CC       Q58EX7; Q9H0W8: SMG9; NbExp=3; IntAct=EBI-949255, EBI-2872322;
+CC       Q58EX7; Q9NU19: TBC1D22B; NbExp=3; IntAct=EBI-949255, EBI-8787464;
+CC       Q58EX7; O95935: TBX18; NbExp=3; IntAct=EBI-949255, EBI-12085364;
+CC       Q58EX7; Q9BXF9: TEKT3; NbExp=3; IntAct=EBI-949255, EBI-8644516;
+CC       Q58EX7; Q8NEK8: TENT5D; NbExp=3; IntAct=EBI-949255, EBI-744726;
+CC       Q58EX7; Q7Z6R9: TFAP2D; NbExp=3; IntAct=EBI-949255, EBI-11952651;
+CC       Q58EX7; Q92734: TFG; NbExp=3; IntAct=EBI-949255, EBI-357061;
+CC       Q58EX7; Q96PN8: TSSK3; NbExp=3; IntAct=EBI-949255, EBI-3918381;
+CC       Q58EX7; Q5W5X9-3: TTC23; NbExp=3; IntAct=EBI-949255, EBI-9090990;
+CC       Q58EX7; O75604: USP2; NbExp=3; IntAct=EBI-949255, EBI-743272;
+CC       Q58EX7; A5D8V6: VPS37C; NbExp=3; IntAct=EBI-949255, EBI-2559305;
+CC       Q58EX7; Q8WYQ9: ZCCHC14; NbExp=3; IntAct=EBI-949255, EBI-3937908;
+CC       Q58EX7; Q9UQR1-2: ZNF148; NbExp=3; IntAct=EBI-949255, EBI-11742222;
+CC       Q58EX7; Q9P2F9: ZNF319; NbExp=3; IntAct=EBI-949255, EBI-11993110;
+CC       Q58EX7; Q5T619: ZNF648; NbExp=3; IntAct=EBI-949255, EBI-11985915;
+CC       Q58EX7-2; P21810: BGN; NbExp=3; IntAct=EBI-21503705, EBI-762076;
+CC       Q58EX7-2; P55212: CASP6; NbExp=3; IntAct=EBI-21503705, EBI-718729;
+CC       Q58EX7-2; Q8NI60: COQ8A; NbExp=3; IntAct=EBI-21503705, EBI-745535;
+CC       Q58EX7-2; O75460-2: ERN1; NbExp=3; IntAct=EBI-21503705, EBI-25852368;
+CC       Q58EX7-2; Q0VDC6: FKBP1A; NbExp=3; IntAct=EBI-21503705, EBI-10226858;
+CC       Q58EX7-2; P28799: GRN; NbExp=3; IntAct=EBI-21503705, EBI-747754;
+CC       Q58EX7-2; P54652: HSPA2; NbExp=3; IntAct=EBI-21503705, EBI-356991;
+CC       Q58EX7-2; P04792: HSPB1; NbExp=3; IntAct=EBI-21503705, EBI-352682;
+CC       Q58EX7-2; O60333-2: KIF1B; NbExp=3; IntAct=EBI-21503705, EBI-10975473;
+CC       Q58EX7-2; O14901: KLF11; NbExp=3; IntAct=EBI-21503705, EBI-948266;
+CC       Q58EX7-2; P13473-2: LAMP2; NbExp=3; IntAct=EBI-21503705, EBI-21591415;
+CC       Q58EX7-2; P60891: PRPS1; NbExp=3; IntAct=EBI-21503705, EBI-749195;
+CC       Q58EX7-2; O76024: WFS1; NbExp=3; IntAct=EBI-21503705, EBI-720609;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q58EX7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q58EX7-2; Sequence=VSP_017329;
+CC       Name=3; Synonyms=short;
+CC         IsoId=Q58EX7-3; Sequence=VSP_017330, VSP_017331;
+CC   -!- TISSUE SPECIFICITY: Expressed in kidney, Leydig cells in the testis,
+CC       epithelial cells in the prostate gland and Langerhans islet in the
+CC       pancreas. Isoform 1 and isoform 3 are strongly expressed in Purkinje
+CC       cells and to a lower extent in other neurons (at protein level). Widely
+CC       expressed at low levels. More strongly expressed in testis and
+CC       pancreas. {ECO:0000269|PubMed:16001362}.
+CC   -!- CAUTION: Defects in PLEKHG4 were initially thought (PubMed:16001362) to
+CC       be the cause of spinocerebellar ataxia 16q22-linked. However, it was
+CC       later shown (PubMed:17611710) that it is not the case. Spinocerebellar
+CC       ataxia 16q22-linked, also known as spinocerebellar ataxia type 31
+CC       (SCA31), is caused by defects in BEAN gene.
+CC       {ECO:0000305|PubMed:16001362, ECO:0000305|PubMed:17611710}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH82974.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=BAB15765.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB197663; BAE07054.1; -; mRNA.
+DR   EMBL; AB197664; BAE07055.1; -; mRNA.
+DR   EMBL; AK024475; BAB15765.1; ALT_INIT; mRNA.
+DR   EMBL; BC054486; AAH54486.1; -; mRNA.
+DR   EMBL; BC063501; AAH63501.1; -; mRNA.
+DR   EMBL; BC082974; AAH82974.1; ALT_FRAME; mRNA.
+DR   EMBL; AL117435; CAB55923.1; -; mRNA.
+DR   CCDS; CCDS32466.1; -. [Q58EX7-1]
+DR   CCDS; CCDS45512.1; -. [Q58EX7-2]
+DR   PIR; T17233; T17233.
+DR   RefSeq; NP_001123199.1; NM_001129727.2. [Q58EX7-1]
+DR   RefSeq; NP_001123200.1; NM_001129728.1. [Q58EX7-1]
+DR   RefSeq; NP_001123201.1; NM_001129729.2. [Q58EX7-1]
+DR   RefSeq; NP_001123203.1; NM_001129731.2. [Q58EX7-2]
+DR   RefSeq; XP_011521287.1; XM_011522985.2. [Q58EX7-1]
+DR   RefSeq; XP_011521288.1; XM_011522986.2. [Q58EX7-1]
+DR   RefSeq; XP_011521289.1; XM_011522987.2. [Q58EX7-1]
+DR   RefSeq; XP_011521290.1; XM_011522988.2. [Q58EX7-1]
+DR   AlphaFoldDB; Q58EX7; -.
+DR   SMR; Q58EX7; -.
+DR   BioGRID; 117402; 158.
+DR   IntAct; Q58EX7; 86.
+DR   MINT; Q58EX7; -.
+DR   STRING; 9606.ENSP00000353646; -.
+DR   GlyGen; Q58EX7; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q58EX7; -.
+DR   PhosphoSitePlus; Q58EX7; -.
+DR   BioMuta; PLEKHG4; -.
+DR   DMDM; 74755121; -.
+DR   EPD; Q58EX7; -.
+DR   jPOST; Q58EX7; -.
+DR   MassIVE; Q58EX7; -.
+DR   MaxQB; Q58EX7; -.
+DR   PaxDb; Q58EX7; -.
+DR   PeptideAtlas; Q58EX7; -.
+DR   ProteomicsDB; 62615; -. [Q58EX7-1]
+DR   ProteomicsDB; 62616; -. [Q58EX7-2]
+DR   ProteomicsDB; 62617; -. [Q58EX7-3]
+DR   Antibodypedia; 29493; 111 antibodies from 21 providers.
+DR   DNASU; 25894; -.
+DR   Ensembl; ENST00000360461.9; ENSP00000353646.5; ENSG00000196155.13. [Q58EX7-1]
+DR   Ensembl; ENST00000379344.8; ENSP00000368649.3; ENSG00000196155.13. [Q58EX7-1]
+DR   Ensembl; ENST00000393966.1; ENSP00000462601.1; ENSG00000196155.13. [Q58EX7-3]
+DR   Ensembl; ENST00000427155.6; ENSP00000401118.2; ENSG00000196155.13. [Q58EX7-1]
+DR   Ensembl; ENST00000450733.5; ENSP00000398030.1; ENSG00000196155.13. [Q58EX7-2]
+DR   Ensembl; ENST00000563969.5; ENSP00000457086.1; ENSG00000196155.13. [Q58EX7-3]
+DR   GeneID; 25894; -.
+DR   KEGG; hsa:25894; -.
+DR   MANE-Select; ENST00000379344.8; ENSP00000368649.3; NM_001129729.3; NP_001123201.1.
+DR   UCSC; uc002eso.5; human. [Q58EX7-1]
+DR   AGR; HGNC:24501; -.
+DR   CTD; 25894; -.
+DR   DisGeNET; 25894; -.
+DR   GeneCards; PLEKHG4; -.
+DR   HGNC; HGNC:24501; PLEKHG4.
+DR   HPA; ENSG00000196155; Tissue enhanced (testis).
+DR   MalaCards; PLEKHG4; -.
+DR   MIM; 609526; gene.
+DR   neXtProt; NX_Q58EX7; -.
+DR   OpenTargets; ENSG00000196155; -.
+DR   Orphanet; 98765; Spinocerebellar ataxia type 4.
+DR   PharmGKB; PA142671163; -.
+DR   VEuPathDB; HostDB:ENSG00000196155; -.
+DR   eggNOG; KOG0689; Eukaryota.
+DR   GeneTree; ENSGT00940000158845; -.
+DR   HOGENOM; CLU_1408307_0_0_1; -.
+DR   InParanoid; Q58EX7; -.
+DR   OMA; GENDSQG; -.
+DR   OrthoDB; 2958732at2759; -.
+DR   PhylomeDB; Q58EX7; -.
+DR   TreeFam; TF334329; -.
+DR   PathwayCommons; Q58EX7; -.
+DR   Reactome; R-HSA-8980692; RHOA GTPase cycle.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   SignaLink; Q58EX7; -.
+DR   SIGNOR; Q58EX7; -.
+DR   BioGRID-ORCS; 25894; 21 hits in 1160 CRISPR screens.
+DR   ChiTaRS; PLEKHG4; human.
+DR   GeneWiki; PLEKHG4; -.
+DR   GenomeRNAi; 25894; -.
+DR   Pharos; Q58EX7; Tbio.
+DR   PRO; PR:Q58EX7; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   RNAct; Q58EX7; protein.
+DR   Bgee; ENSG00000196155; Expressed in right testis and 131 other tissues.
+DR   ExpressionAtlas; Q58EX7; baseline and differential.
+DR   Genevisible; Q58EX7; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0019898; C:extrinsic component of membrane; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IBA:GO_Central.
+DR   GO; GO:0007411; P:axon guidance; IBA:GO_Central.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   CDD; cd13242; PH_puratrophin-1; 1.
+DR   CDD; cd00160; RhoGEF; 1.
+DR   Gene3D; 1.20.900.10; Dbl homology (DH) domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR036865; CRAL-TRIO_dom_sf.
+DR   InterPro; IPR035899; DBL_dom_sf.
+DR   InterPro; IPR000219; DH-domain.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   PANTHER; PTHR45845:SF4; PLECKSTRIN HOMOLOGY DOMAIN-CONTAINING, FAMILY G (WITH RHOGEF DOMAIN) MEMBER 4; 1.
+DR   PANTHER; PTHR45845; RHO GUANINE NUCLEOTIDE EXCHANGE FACTOR-RELATED; 1.
+DR   Pfam; PF00621; RhoGEF; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SMART; SM00325; RhoGEF; 1.
+DR   SUPFAM; SSF52087; CRAL/TRIO domain; 1.
+DR   SUPFAM; SSF48065; DBL homology domain (DH-domain); 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   PROSITE; PS50010; DH_2; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Guanine-nucleotide releasing factor; Phosphoprotein;
+KW   Reference proteome.
+FT   CHAIN           1..1191
+FT                   /note="Puratrophin-1"
+FT                   /id="PRO_0000224996"
+FT   DOMAIN          732..908
+FT                   /note="DH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00062"
+FT   DOMAIN          920..1027
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   REGION          1..152
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          707..728
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1150..1176
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1..16
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        27..41
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        83..97
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1152..1176
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         64
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         118..198
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_017329"
+FT   VAR_SEQ         167..193
+FT                   /note="APSGSGLPKPADCLLAQDLCWELLASG -> GKEGWAREVWEGNGDAWRDEC
+FT                   QDFGGL (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:16001362"
+FT                   /id="VSP_017330"
+FT   VAR_SEQ         194..1191
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:16001362"
+FT                   /id="VSP_017331"
+FT   VARIANT         412
+FT                   /note="T -> I (in dbSNP:rs11860295)"
+FT                   /id="VAR_050509"
+FT   VARIANT         525
+FT                   /note="D -> G (in dbSNP:rs8044843)"
+FT                   /id="VAR_050510"
+FT   VARIANT         830
+FT                   /note="R -> H (in dbSNP:rs3868142)"
+FT                   /id="VAR_050511"
+FT   VARIANT         1064
+FT                   /note="R -> H (in dbSNP:rs56077142)"
+FT                   /id="VAR_061519"
+FT   VARIANT         1090
+FT                   /note="S -> T (in dbSNP:rs17680862)"
+FT                   /id="VAR_050512"
+FT   CONFLICT        474
+FT                   /note="W -> L (in Ref. 3; AAH54486)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        998
+FT                   /note="R -> G (in Ref. 3; AAH54486)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1134
+FT                   /note="P -> L (in Ref. 4; CAB55923)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1191 AA;  130803 MW;  ACFF5EE342CE56FD CRC64;
+     MERPLENGDE SPDSQGHATD WRFAVCSFRD AWEEEEPASQ MHVKDPGPPR PPAGATQDEE
+     LQGSPLSRKF QLPPAADESG DAQRGTVESS SVLSEGPGPS GVESLLCPMS SHLSLAQGES
+     DTPGVGLVGD PGPSRAMPSG LSPGALDSDP VGLGDPLSEI SKLLEAAPSG SGLPKPADCL
+     LAQDLCWELL ASGMATLPGT RDVQGRAVLL LCAHSPAWLQ SECSSQELIR LLLYLRSIPR
+     PEVQALGLTV LVDARICAPS SSLFSGLSQL QEAAPGAVYQ VLLVGSTLLK EVPSGLQLEQ
+     LPSQSLLTHI PTAGLPTSLG GGLPYCHQAW LDFRRRLEAL LQNCQAACAL LQGAIESVKA
+     VPQPMEPGEV GQLLQQTEVL MQQVLDSPWL AWLQCQGGRE LTWLKQEVPE VTLSPDYRTA
+     MDKADELYDR VDGLLHQLTL QSNQRIQALE LVQTLEARES GLHQIEVWLQ QVGWPALEEA
+     GEPSLDMLLQ AQGSFQELYQ VAQEQVRQGE KFLQPLTGWE AAELDPPGAR FLALRAQLTE
+     FSRALAQRCQ RLADAERLFQ LFREALTWAE EGQRVLAELE QERPGVVLQQ LQLHWTRHPD
+     LPPAHFRKMW ALATGLGSEA IRQECRWAWA RCQDTWLALD QKLEASLKLP PVGSTASLCV
+     SQVPAAPAHP PLRKAYSFDR NLGQSLSEPA CHCHHAATIA ACRRPEAGGG ALPQASPTVP
+     PPGSSDPRSL NRLQLVLAEM VATEREYVRA LEYTMENYFP ELDRPDVPQG LRGQRAHLFG
+     NLEKLRDFHC HFFLRELEAC TRHPPRVAYA FLRHRVQFGM YALYSKNKPR SDALMSSYGH
+     TFFKDKQQAL GDHLDLASYL LKPIQRMGKY ALLLQELARA CGGPTQELSA LREAQSLVHF
+     QLRHGNDLLA MDAIQGCDVN LKEQGQLVRQ DEFVVRTGRH KSVRRIFLFE ELLLFSKPRH
+     GPTGVDTFAY KRSFKMADLG LTECCGNSNL RFEIWFRRRK ARDTFVLQAS SLAIKQAWTA
+     DISHLLWRQA VHNKEVRMAE MVSMGVGNKA FRDIAPSEEA INDRTVNYVL KCREVRSRAS
+     IAVAPFDHDS LYLGASNSLP GDPASCSVLG SLNLHLYRDP ALLGLRCPLY PSFPEEAALE
+     AEAELGGQPS LTAEDSEISS QCPSASGSSG SDSSCVSGQA LGRGLEDLPC V
+//

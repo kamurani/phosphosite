@@ -1,0 +1,344 @@
+ID   GBP4_HUMAN              Reviewed;         640 AA.
+AC   Q96PP9; B2R630; Q05D63; Q6NSL0; Q86T99;
+DT   24-OCT-2003, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 2.
+DT   28-JUN-2023, entry version 162.
+DE   RecName: Full=Guanylate-binding protein 4;
+DE            EC=3.6.5.- {ECO:0000250|UniProtKB:P32455};
+DE   AltName: Full=GTP-binding protein 4 {ECO:0000303|Ref.1};
+DE            Short=GBP-4 {ECO:0000303|Ref.1};
+DE   AltName: Full=Guanine nucleotide-binding protein 4;
+GN   Name=GBP4 {ECO:0000303|Ref.1, ECO:0000312|HGNC:HGNC:20480};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Avdalovic A., Fu H., Tsurushita N.;
+RT   "Human GBP-4 and -5: new members of the IFN-gamma-inducible guanylate
+RT   binding protein family.";
+RL   Submitted (JUL-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Spinal cord;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Spleen;
+RX   PubMed=12693554; DOI=10.1093/dnares/10.1.49;
+RA   Jikuya H., Takano J., Kikuno R., Hirosawa M., Nagase T., Nomura N.,
+RA   Ohara O.;
+RT   "Characterization of long cDNA clones from human adult spleen. II. The
+RT   complete sequences of 81 cDNA clones.";
+RL   DNA Res. 10:49-57(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   SUBCELLULAR LOCATION, AND INDUCTION.
+RX   PubMed=17266443; DOI=10.1089/jir.2007.0086;
+RA   Tripal P., Bauer M., Naschberger E., Mortinger T., Hohenadl C., Cornali E.,
+RA   Thurau M., Sturzl M.;
+RT   "Unique features of different members of the human guanylate-binding
+RT   protein family.";
+RL   J. Interferon Cytokine Res. 27:44-52(2007).
+RN   [7]
+RP   SUBCELLULAR LOCATION, AND DIMERIZATION.
+RX   PubMed=21151871; DOI=10.1371/journal.pone.0014246;
+RA   Britzen-Laurent N., Bauer M., Berton V., Fischer N., Syguda A.,
+RA   Reipschlager S., Naschberger E., Herrmann C., Sturzl M.;
+RT   "Intracellular trafficking of guanylate-binding proteins is regulated by
+RT   heterodimerization in a hierarchical manner.";
+RL   PLoS ONE 5:E14246-E14246(2010).
+RN   [8]
+RP   UBIQUITINATION (MICROBIAL INFECTION).
+RX   PubMed=29024643; DOI=10.1016/j.chom.2017.09.007;
+RA   Wandel M.P., Pathe C., Werner E.I., Ellison C.J., Boyle K.B.,
+RA   von der Malsburg A., Rohde J., Randow F.;
+RT   "GBPs inhibit motility of Shigella flexneri but are targeted for
+RT   degradation by the bacterial ubiquitin ligase IpaH9.8.";
+RL   Cell Host Microbe 22:507-518(2017).
+RN   [9]
+RP   UBIQUITINATION (MICROBIAL INFECTION).
+RX   PubMed=29144452; DOI=10.1038/nature24467;
+RA   Li P., Jiang W., Yu Q., Liu W., Zhou P., Li J., Xu J., Xu B., Wang F.,
+RA   Shao F.;
+RT   "Ubiquitination and degradation of GBPs by a Shigella effector to suppress
+RT   host defence.";
+RL   Nature 551:378-383(2017).
+CC   -!- FUNCTION: Interferon (IFN)-inducible GTPase that plays important roles
+CC       in innate immunity against a diverse range of bacterial, viral and
+CC       protozoan pathogens (By similarity). Negatively regulates the antiviral
+CC       response by inhibiting activation of IRF7 transcription factor (By
+CC       similarity). {ECO:0000250|UniProtKB:A4UUI3}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=GTP + H2O = GDP + H(+) + phosphate; Xref=Rhea:RHEA:19669,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:37565,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:58189;
+CC         Evidence={ECO:0000250|UniProtKB:P32455};
+CC   -!- SUBUNIT: Heterodimer with other family members, including GBP1, GBP2
+CC       and GBP5 (PubMed:21151871). Dimerization regulates subcellular location
+CC       (PubMed:21151871). Interacts with IRF7; preventing interaction between
+CC       TRAF6 and IRF7, resulting in impaired TRAF6-mediated IRF7
+CC       ubiquitination (By similarity). {ECO:0000250|UniProtKB:A4UUI3,
+CC       ECO:0000269|PubMed:21151871}.
+CC   -!- INTERACTION:
+CC       Q96PP9; P32455: GBP1; NbExp=2; IntAct=EBI-20840650, EBI-2869161;
+CC       Q96PP9; P32456: GBP2; NbExp=2; IntAct=EBI-20840650, EBI-714388;
+CC       Q96PP9; Q96PP9: GBP4; NbExp=2; IntAct=EBI-20840650, EBI-20840650;
+CC       Q96PP9; Q96PP8: GBP5; NbExp=2; IntAct=EBI-20840650, EBI-749932;
+CC   -!- SUBCELLULAR LOCATION: Golgi apparatus membrane
+CC       {ECO:0000269|PubMed:21151871}. Cytoplasm {ECO:0000269|PubMed:17266443}.
+CC       Nucleus {ECO:0000269|PubMed:17266443}. Cytoplasm, perinuclear region
+CC       {ECO:0000269|PubMed:21151871}. Note=Heterodimers with GBP1, GBP2 and
+CC       GBP5 localize in the compartment of the prenylated GBPs: with GBP1 in a
+CC       vesicle-like compartment, with GBP2, around the nucleus and with GBP5,
+CC       at the Golgi apparatus. {ECO:0000269|PubMed:21151871}.
+CC   -!- INDUCTION: By IFNG during macrophage activation.
+CC       {ECO:0000269|PubMed:17266443}.
+CC   -!- PTM: (Microbial infection) Ubiquitinated by S.flexneri IpaH9.8, leading
+CC       to its degradation by the proteasome, thereby preventing its ability to
+CC       promote host defense against bacterial infection.
+CC       {ECO:0000269|PubMed:29024643, ECO:0000269|PubMed:29144452}.
+CC   -!- SIMILARITY: Belongs to the TRAFAC class dynamin-like GTPase
+CC       superfamily. GB1/RHD3 GTPase family. GB1 subfamily.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01052}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAC85144.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF288814; AAL02054.1; -; mRNA.
+DR   EMBL; AL832576; CAD89936.1; -; mRNA.
+DR   EMBL; AK131094; BAC85144.1; ALT_INIT; mRNA.
+DR   EMBL; AK312417; BAG35327.1; -; mRNA.
+DR   EMBL; BC017889; AAH17889.1; -; mRNA.
+DR   EMBL; BC070055; AAH70055.1; -; mRNA.
+DR   CCDS; CCDS721.1; -.
+DR   RefSeq; NP_443173.2; NM_052941.4.
+DR   AlphaFoldDB; Q96PP9; -.
+DR   SMR; Q96PP9; -.
+DR   BioGRID; 125430; 5.
+DR   IntAct; Q96PP9; 4.
+DR   STRING; 9606.ENSP00000359490; -.
+DR   iPTMnet; Q96PP9; -.
+DR   PhosphoSitePlus; Q96PP9; -.
+DR   BioMuta; GBP4; -.
+DR   DMDM; 116242487; -.
+DR   EPD; Q96PP9; -.
+DR   jPOST; Q96PP9; -.
+DR   MassIVE; Q96PP9; -.
+DR   MaxQB; Q96PP9; -.
+DR   PaxDb; Q96PP9; -.
+DR   PeptideAtlas; Q96PP9; -.
+DR   ProteomicsDB; 77726; -.
+DR   Antibodypedia; 33614; 231 antibodies from 29 providers.
+DR   DNASU; 115361; -.
+DR   Ensembl; ENST00000355754.7; ENSP00000359490.5; ENSG00000162654.9.
+DR   GeneID; 115361; -.
+DR   KEGG; hsa:115361; -.
+DR   MANE-Select; ENST00000355754.7; ENSP00000359490.5; NM_052941.5; NP_443173.2.
+DR   UCSC; uc001dnb.4; human.
+DR   AGR; HGNC:20480; -.
+DR   CTD; 115361; -.
+DR   DisGeNET; 115361; -.
+DR   GeneCards; GBP4; -.
+DR   HGNC; HGNC:20480; GBP4.
+DR   HPA; ENSG00000162654; Low tissue specificity.
+DR   MIM; 612466; gene.
+DR   neXtProt; NX_Q96PP9; -.
+DR   OpenTargets; ENSG00000162654; -.
+DR   PharmGKB; PA134959399; -.
+DR   VEuPathDB; HostDB:ENSG00000162654; -.
+DR   eggNOG; KOG2037; Eukaryota.
+DR   GeneTree; ENSGT00940000164661; -.
+DR   HOGENOM; CLU_018608_2_1_1; -.
+DR   InParanoid; Q96PP9; -.
+DR   OMA; AMEDHRQ; -.
+DR   OrthoDB; 5309032at2759; -.
+DR   PhylomeDB; Q96PP9; -.
+DR   TreeFam; TF331602; -.
+DR   PathwayCommons; Q96PP9; -.
+DR   Reactome; R-HSA-877300; Interferon gamma signaling.
+DR   SignaLink; Q96PP9; -.
+DR   BioGRID-ORCS; 115361; 10 hits in 1153 CRISPR screens.
+DR   ChiTaRS; GBP4; human.
+DR   GenomeRNAi; 115361; -.
+DR   Pharos; Q96PP9; Tbio.
+DR   PRO; PR:Q96PP9; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q96PP9; protein.
+DR   Bgee; ENSG00000162654; Expressed in leukocyte and 146 other tissues.
+DR   Genevisible; Q96PP9; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:HPA.
+DR   GO; GO:0000139; C:Golgi membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0005525; F:GTP binding; IBA:GO_Central.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0071346; P:cellular response to type II interferon; IEP:UniProtKB.
+DR   GO; GO:0050830; P:defense response to Gram-positive bacterium; IBA:GO_Central.
+DR   GO; GO:0042832; P:defense response to protozoan; IBA:GO_Central.
+DR   CDD; cd01851; GBP; 1.
+DR   CDD; cd16269; GBP_C; 1.
+DR   Gene3D; 1.20.1000.10; Guanylate-binding protein, C-terminal domain; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 1.
+DR   InterPro; IPR030386; G_GB1_RHD3_dom.
+DR   InterPro; IPR037684; GBP_C.
+DR   InterPro; IPR003191; Guanylate-bd/ATL_C.
+DR   InterPro; IPR036543; Guanylate-bd_C_sf.
+DR   InterPro; IPR015894; Guanylate-bd_N.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10751; GUANYLATE BINDING PROTEIN; 1.
+DR   PANTHER; PTHR10751:SF17; GUANYLATE-BINDING PROTEIN 4; 1.
+DR   Pfam; PF02263; GBP; 1.
+DR   Pfam; PF02841; GBP_C; 1.
+DR   SUPFAM; SSF48340; Interferon-induced guanylate-binding protein 1 (GBP1), C-terminal domain; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS51715; G_GB1_RHD3; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil; Cytoplasm; Golgi apparatus; GTP-binding; Hydrolase; Immunity;
+KW   Innate immunity; Membrane; Nucleotide-binding; Nucleus; Reference proteome;
+KW   Ubl conjugation.
+FT   CHAIN           1..640
+FT                   /note="Guanylate-binding protein 4"
+FT                   /id="PRO_0000190968"
+FT   DOMAIN          50..292
+FT                   /note="GB1/RHD3-type G"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01052"
+FT   REGION          1..325
+FT                   /note="GTPase domain (Globular)"
+FT                   /evidence="ECO:0000250|UniProtKB:P32455"
+FT   COILED          499..612
+FT                   /evidence="ECO:0000255"
+FT   BINDING         60..67
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000250|UniProtKB:P32455"
+FT   BINDING         82..84
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000250|UniProtKB:P32455"
+FT   BINDING         112..116
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000250|UniProtKB:P32455"
+FT   VARIANT         125
+FT                   /note="K -> E (in dbSNP:rs17130745)"
+FT                   /id="VAR_028283"
+FT   VARIANT         379
+FT                   /note="I -> V (in dbSNP:rs1831240)"
+FT                   /id="VAR_028284"
+FT   VARIANT         541
+FT                   /note="Y -> N (in dbSNP:rs655260)"
+FT                   /id="VAR_028285"
+FT   VARIANT         542
+FT                   /note="M -> I (in dbSNP:rs1142886)"
+FT                   /id="VAR_033952"
+FT   VARIANT         545
+FT                   /note="M -> I (in dbSNP:rs1142889)"
+FT                   /id="VAR_033953"
+FT   VARIANT         545
+FT                   /note="M -> L (in dbSNP:rs1142888)"
+FT                   /id="VAR_033954"
+FT   VARIANT         546
+FT                   /note="E -> K (in dbSNP:rs1142890)"
+FT                   /id="VAR_033955"
+FT   VARIANT         549
+FT                   /note="L -> M (in dbSNP:rs608339)"
+FT                   /id="VAR_028286"
+FT   VARIANT         551
+FT                   /note="E -> G (in dbSNP:rs561042)"
+FT                   /id="VAR_028288"
+FT   VARIANT         551
+FT                   /note="E -> K (in dbSNP:rs561037)"
+FT                   /id="VAR_028287"
+FT   CONFLICT        298
+FT                   /note="E -> K (in Ref. 5; AAH70055)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        402..410
+FT                   /note="IEKKKGDFV -> KKKKKKKKK (in Ref. 5; AAH17889)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        416
+FT                   /note="A -> P (in Ref. 4; BAG35327)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        502
+FT                   /note="A -> S (in Ref. 5; AAH70055)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        541..542
+FT                   /note="YM -> NI (in Ref. 1; AAL02054 and 3; BAC85144)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        545..546
+FT                   /note="ME -> LK (in Ref. 1; AAL02054 and 3; BAC85144)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        549..551
+FT                   /note="LEE -> MER (in Ref. 1; AAL02054 and 3; BAC85144)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        582
+FT                   /note="K -> R (in Ref. 4; BAG35327)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   640 AA;  73165 MW;  06ABFF47E615DAFC CRC64;
+     MGERTLHAAV PTPGYPESES IMMAPICLVE NQEEQLTVNS KALEILDKIS QPVVVVAIVG
+     LYRTGKSYLM NRLAGKRNGF PLGSTVQSET KGIWMWCVPH LSKPNHTLVL LDTEGLGDVE
+     KSNPKNDSWI FALAVLLSSS FVYNSVSTIN HQALEQLHYV TELAELIRAK SCPRPDEAED
+     SSEFASFFPD FIWTVRDFTL ELKLDGNPIT EDEYLENALK LIPGKNPKIQ NSNMPRECIR
+     HFFRKRKCFV FDRPTNDKQY LNHMDEVPEE NLERHFLMQS DNFCSYIFTH AKTKTLREGI
+     IVTGKRLGTL VVTYVDAINS GAVPCLENAV TALAQLENPA AVQRAADHYS QQMAQQLRLP
+     TDTLQELLDV HAACEREAIA VFMEHSFKDE NHEFQKKLVD TIEKKKGDFV LQNEEASAKY
+     CQAELKRLSE HLTESILRGI FSVPGGHNLY LEEKKQVEWD YKLVPRKGVK ANEVLQNFLQ
+     SQVVVEESIL QSDKALTAGE KAIAAERAMK EAAEKEQELL REKQKEQQQM MEAQERSFQE
+     YMAQMEKKLE EERENLLREH ERLLKHKLKV QEEMLKEEFQ KKSEQLNKEI NQLKEKIEST
+     KNEQLRLLKI LDMASNIMIV TLPGASKLLG VGTKYLGSRI
+//

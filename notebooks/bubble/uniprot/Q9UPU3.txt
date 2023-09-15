@@ -1,0 +1,253 @@
+ID   SORC3_HUMAN             Reviewed;        1222 AA.
+AC   Q9UPU3; Q5VXF9; Q9NQJ2;
+DT   13-DEC-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2002, sequence version 2.
+DT   28-JUN-2023, entry version 170.
+DE   RecName: Full=VPS10 domain-containing receptor SorCS3;
+DE   Flags: Precursor;
+GN   Name=SORCS3; Synonyms=KIAA1059;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=11499680; DOI=10.1007/s004390100504;
+RA   Hampe W., Rezgaoui M., Hermans-Borgmeyer I., Schaller H.C.;
+RT   "The genes for the human VPS10 domain-containing receptors are large and
+RT   contain many small exons.";
+RL   Hum. Genet. 108:529-536(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=10470851; DOI=10.1093/dnares/6.3.197;
+RA   Kikuno R., Nagase T., Ishikawa K., Hirosawa M., Miyajima N., Tanaka A.,
+RA   Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIV. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 6:197-205(1999).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+CC   -!- INTERACTION:
+CC       Q9UPU3; P54253: ATXN1; NbExp=3; IntAct=EBI-7484437, EBI-930964;
+CC       Q9UPU3; Q9BRQ0: PYGO2; NbExp=3; IntAct=EBI-7484437, EBI-932471;
+CC   -!- SUBCELLULAR LOCATION: Membrane; Single-pass type I membrane protein.
+CC   -!- TISSUE SPECIFICITY: Highly expressed in brain.
+CC   -!- SIMILARITY: Belongs to the VPS10-related sortilin family. SORCS
+CC       subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB028982; BAA83011.2; -; mRNA.
+DR   EMBL; AL161646; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL353900; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL358949; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL365449; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL445492; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL596118; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS7558.1; -.
+DR   RefSeq; NP_055793.1; NM_014978.2.
+DR   AlphaFoldDB; Q9UPU3; -.
+DR   SMR; Q9UPU3; -.
+DR   BioGRID; 116635; 4.
+DR   IntAct; Q9UPU3; 3.
+DR   MINT; Q9UPU3; -.
+DR   STRING; 9606.ENSP00000358715; -.
+DR   TCDB; 9.A.63.1.4; the retromer-dependent vacuolar protein sorting (r-vps) family.
+DR   GlyCosmos; Q9UPU3; 8 sites, No reported glycans.
+DR   GlyGen; Q9UPU3; 8 sites.
+DR   iPTMnet; Q9UPU3; -.
+DR   PhosphoSitePlus; Q9UPU3; -.
+DR   BioMuta; SORCS3; -.
+DR   DMDM; 27151703; -.
+DR   EPD; Q9UPU3; -.
+DR   MassIVE; Q9UPU3; -.
+DR   PaxDb; Q9UPU3; -.
+DR   PeptideAtlas; Q9UPU3; -.
+DR   ProteomicsDB; 85445; -.
+DR   Antibodypedia; 31628; 62 antibodies from 15 providers.
+DR   DNASU; 22986; -.
+DR   Ensembl; ENST00000369701.8; ENSP00000358715.3; ENSG00000156395.14.
+DR   GeneID; 22986; -.
+DR   KEGG; hsa:22986; -.
+DR   MANE-Select; ENST00000369701.8; ENSP00000358715.3; NM_014978.3; NP_055793.1.
+DR   UCSC; uc001kyi.1; human.
+DR   AGR; HGNC:16699; -.
+DR   CTD; 22986; -.
+DR   DisGeNET; 22986; -.
+DR   GeneCards; SORCS3; -.
+DR   HGNC; HGNC:16699; SORCS3.
+DR   HPA; ENSG00000156395; Tissue enriched (brain).
+DR   MIM; 606285; gene.
+DR   neXtProt; NX_Q9UPU3; -.
+DR   OpenTargets; ENSG00000156395; -.
+DR   PharmGKB; PA134949387; -.
+DR   VEuPathDB; HostDB:ENSG00000156395; -.
+DR   eggNOG; KOG3511; Eukaryota.
+DR   GeneTree; ENSGT01030000234563; -.
+DR   HOGENOM; CLU_010702_0_0_1; -.
+DR   InParanoid; Q9UPU3; -.
+DR   OMA; RRNDGNC; -.
+DR   OrthoDB; 5840at2759; -.
+DR   PhylomeDB; Q9UPU3; -.
+DR   TreeFam; TF324918; -.
+DR   PathwayCommons; Q9UPU3; -.
+DR   SignaLink; Q9UPU3; -.
+DR   BioGRID-ORCS; 22986; 10 hits in 1151 CRISPR screens.
+DR   ChiTaRS; SORCS3; human.
+DR   GenomeRNAi; 22986; -.
+DR   Pharos; Q9UPU3; Tbio.
+DR   PRO; PR:Q9UPU3; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; Q9UPU3; protein.
+DR   Bgee; ENSG00000156395; Expressed in ventricular zone and 85 other tissues.
+DR   ExpressionAtlas; Q9UPU3; baseline and differential.
+DR   Genevisible; Q9UPU3; HS.
+DR   GO; GO:0098978; C:glutamatergic synapse; IEA:Ensembl.
+DR   GO; GO:0016020; C:membrane; NAS:UniProtKB.
+DR   GO; GO:0098839; C:postsynaptic density membrane; IEA:Ensembl.
+DR   GO; GO:0008188; F:neuropeptide receptor activity; NAS:UniProtKB.
+DR   GO; GO:0007612; P:learning; IEA:Ensembl.
+DR   GO; GO:0007613; P:memory; IEA:Ensembl.
+DR   GO; GO:0007218; P:neuropeptide signaling pathway; NAS:UniProtKB.
+DR   GO; GO:0099170; P:postsynaptic modulation of chemical synaptic transmission; IEA:Ensembl.
+DR   GO; GO:1900452; P:regulation of long-term synaptic depression; IEA:Ensembl.
+DR   Gene3D; 2.10.70.80; -; 1.
+DR   Gene3D; 3.30.60.270; -; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   Gene3D; 2.130.10.10; YVTN repeat-like/Quinoprotein amine dehydrogenase; 1.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR000601; PKD_dom.
+DR   InterPro; IPR035986; PKD_dom_sf.
+DR   InterPro; IPR031777; Sortilin_C.
+DR   InterPro; IPR031778; Sortilin_N.
+DR   InterPro; IPR006581; VPS10.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   PANTHER; PTHR12106; SORTILIN RELATED; 1.
+DR   PANTHER; PTHR12106:SF10; VPS10 DOMAIN-CONTAINING RECEPTOR SORCS3; 1.
+DR   Pfam; PF00801; PKD; 1.
+DR   Pfam; PF15902; Sortilin-Vps10; 1.
+DR   Pfam; PF15901; Sortilin_C; 1.
+DR   SMART; SM00602; VPS10; 1.
+DR   SUPFAM; SSF110296; Oligoxyloglucan reducing end-specific cellobiohydrolase; 1.
+DR   SUPFAM; SSF49299; PKD domain; 2.
+DR   PROSITE; PS50093; PKD; 1.
+PE   1: Evidence at protein level;
+KW   Glycoprotein; Membrane; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..33
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           34..1222
+FT                   /note="VPS10 domain-containing receptor SorCS3"
+FT                   /id="PRO_0000033174"
+FT   TOPO_DOM        34..1125
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        1126..1146
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1147..1222
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          231..242
+FT                   /note="BNR 1"
+FT   REPEAT          279..290
+FT                   /note="BNR 2"
+FT   REPEAT          320..331
+FT                   /note="BNR 3"
+FT   REPEAT          515..526
+FT                   /note="BNR 4"
+FT   REPEAT          592..603
+FT                   /note="BNR 5"
+FT   REPEAT          634..645
+FT                   /note="BNR 6"
+FT   DOMAIN          827..917
+FT                   /note="PKD"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00151"
+FT   REGION          40..70
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          87..180
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        159..173
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        207
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        456
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        789
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        800
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        840
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        932
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        953
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1065
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+SQ   SEQUENCE   1222 AA;  135755 MW;  57671F993B09D597 CRC64;
+     MEAARTERPA GRPGAPLVRT GLLLLSTWVL AGAEITWDAT GGPGRPAAPA SRPPALSPLS
+     PRAVASQWPE ELASARRAAV LGRRAGPELL PQQGGGRGGE MQVEAGGTSP AGERRGRGIP
+     APAKLGGARR SRRAQPPITQ ERGDAWATAP ADGSRGSRPL AKGSREEVKA PRAGGSAAED
+     LRLPSTSFAL TGDSAHNQAM VHWSGHNSSV ILILTKLYDF NLGSVTESSL WRSTDYGTTY
+     EKLNDKVGLK TVLSYLYVNP TNKRKIMLLS DPEMESSILI SSDEGATYQK YRLTFYIQSL
+     LFHPKQEDWV LAYSLDQKLY SSMDFGRRWQ LMHERITPNR FYWSVAGLDK EADLVHMEVR
+     TTDGYAHYLT CRIQECAETT RSGPFARSID ISSLVVQDEY IFIQVTTSGR ASYYVSYRRE
+     AFAQIKLPKY SLPKDMHIIS TDENQVFAAV QEWNQNDTYN LYISDTRGIY FTLAMENIKS
+     SRGLMGNIII ELYEVAGIKG IFLANKKVDD QVKTYITYNK GRDWRLLQAP DVDLRGSPVH
+     CLLPFCSLHL HLQLSENPYS SGRISSKETA PGLVVATGNI GPELSYTDIG VFISSDGGNT
+     WRQIFDEEYN VWFLDWGGAL VAMKHTPLPV RHLWVSFDEG HSWDKYGFTS VPLFVDGALV
+     EAGMETHIMT VFGHFSLRSE WQLVKVDYKS IFSRHCTKED YQTWHLLNQG EPCVMGERKI
+     FKKRKPGAQC ALGRDHSGSV VSEPCVCANW DFECDYGYER HGESQCVPAF WYNPASPSKD
+     CSLGQSYLNS TGYRRIVSNN CTDGLREKYT AKAQMCPGKA PRGLHVVTTD GRLVAEQGHN
+     ATFIILMEEG DLQRTNIQLD FGDGIAVSYA NFSPIEDGIK HVYKSAGIFQ VTAYAENNLG
+     SDTAVLFLHV VCPVEHVHLR VPFVAIRNKE VNISAVVWPS QLGTLTYFWW FGNSTKPLIT
+     LDSSISFTFL AEGTDTITVQ VAAGNALIQD TKEIAVHEYF QSQLLSFSPN LDYHNPDIPE
+     WRKDIGNVIK RALVKVTSVP EDQILIAVFP GLPTSAELFI LPPKNLTERR KGNEGDLEQI
+     VETLFNALNQ NLVQFELKPG VQVIVYVTQL TLAPLVDSSA GHSSSAMLML LSVVFVGLAV
+     FLIYKFKRKI PWINIYAQVQ HDKEQEMIGS VSQSENAPKI TLSDFTEPEE LLDKELDTRV
+     IGGIATIANS ESTKEIPNCT SV
+//

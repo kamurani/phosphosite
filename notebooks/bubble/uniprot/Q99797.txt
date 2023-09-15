@@ -1,0 +1,328 @@
+ID   MIPEP_HUMAN             Reviewed;         713 AA.
+AC   Q99797; Q5JV15; Q5T9Q9; Q96G65;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   26-FEB-2008, sequence version 2.
+DT   28-JUN-2023, entry version 189.
+DE   RecName: Full=Mitochondrial intermediate peptidase;
+DE            Short=MIP;
+DE            EC=3.4.24.59;
+DE   Flags: Precursor;
+GN   Name=MIPEP; Synonyms=MIP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT GLY-488.
+RC   TISSUE=Liver;
+RX   PubMed=9073519; DOI=10.1006/geno.1996.4586;
+RA   Chew A., Buck E.A., Peretz S., Sirugo G., Rinaldo P., Isaya G.;
+RT   "Cloning, expression, and chromosomal assignment of the human mitochondrial
+RT   intermediate peptidase gene (MIPEP).";
+RL   Genomics 40:493-496(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT GLY-488.
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057823; DOI=10.1038/nature02379;
+RA   Dunham A., Matthews L.H., Burton J., Ashurst J.L., Howe K.L.,
+RA   Ashcroft K.J., Beare D.M., Burford D.C., Hunt S.E., Griffiths-Jones S.,
+RA   Jones M.C., Keenan S.J., Oliver K., Scott C.E., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Andrews D.T., Ashwell R.I.S., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Bannerjee R., Barlow K.F., Bates K., Beasley H., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burrill W., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M.E., Clark S.Y., Clarke G., Clee C.M., Clegg S.C.,
+RA   Cobley V., Collins J.E., Corby N., Coville G.J., Deloukas P., Dhami P.,
+RA   Dunham I., Dunn M., Earthrowl M.E., Ellington A.G., Faulkner L.,
+RA   Frankish A.G., Frankland J., French L., Garner P., Garnett J.,
+RA   Gilbert J.G.R., Gilson C.J., Ghori J., Grafham D.V., Gribble S.M.,
+RA   Griffiths C., Hall R.E., Hammond S., Harley J.L., Hart E.A., Heath P.D.,
+RA   Howden P.J., Huckle E.J., Hunt P.J., Hunt A.R., Johnson C., Johnson D.,
+RA   Kay M., Kimberley A.M., King A., Laird G.K., Langford C.J., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Lloyd C., Loveland J.E., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., McLaren S.J., McMurray A., Milne S.,
+RA   Moore M.J.F., Nickerson T., Palmer S.A., Pearce A.V., Peck A.I., Pelan S.,
+RA   Phillimore B., Porter K.M., Rice C.M., Searle S., Sehra H.K., Shownkeen R.,
+RA   Skuce C.D., Smith M., Steward C.A., Sycamore N., Tester J., Thomas D.W.,
+RA   Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Wilming L., Wray P.W., Wright M.W., Young L.,
+RA   Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Beck S., Bentley D.R.,
+RA   Rogers J., Ross M.T.;
+RT   "The DNA sequence and analysis of human chromosome 13.";
+RL   Nature 428:522-528(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT GLY-488.
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-126, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [7]
+RP   INVOLVEMENT IN COXPD31, AND VARIANTS COXPD31 GLN-71; PHE-306; GLU-343;
+RP   ASP-512 AND ARG-582.
+RX   PubMed=27799064; DOI=10.1186/s13073-016-0360-6;
+RA   Eldomery M.K., Akdemir Z.C., Voegtle F.N., Charng W.L., Mulica P.,
+RA   Rosenfeld J.A., Gambin T., Gu S., Burrage L.C., Al Shamsi A., Penney S.,
+RA   Jhangiani S.N., Zimmerman H.H., Muzny D.M., Wang X., Tang J., Medikonda R.,
+RA   Ramachandran P.V., Wong L.J., Boerwinkle E., Gibbs R.A., Eng C.M.,
+RA   Lalani S.R., Hertecant J., Rodenburg R.J., Abdul-Rahman O.A., Yang Y.,
+RA   Xia F., Wang M.C., Lupski J.R., Meisinger C., Sutton V.R.;
+RT   "MIPEP recessive variants cause a syndrome of left ventricular non-
+RT   compaction, hypotonia, and infantile death.";
+RL   Genome Med. 8:106-106(2016).
+CC   -!- FUNCTION: Cleaves proteins, imported into the mitochondrion, to their
+CC       mature size.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Release of an N-terminal octapeptide as second stage of
+CC         processing of some proteins imported into the mitochondrion.;
+CC         EC=3.4.24.59;
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 1 zinc ion. {ECO:0000250};
+CC   -!- ACTIVITY REGULATION: Activity is divalent cation-dependent. It is
+CC       stimulated by manganese, magnesium or calcium ions and reversibly
+CC       inhibited by zinc, cobalt and iron (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion matrix.
+CC   -!- DISEASE: Combined oxidative phosphorylation deficiency 31 (COXPD31)
+CC       [MIM:617228]: An autosomal recessive, severe mitochondrial disease with
+CC       multisystemic manifestations appearing soon after birth or in early
+CC       infancy. Clinical features include left ventricular non-compaction,
+CC       global developmental delay, severe hypotonia, seizures, cataract, and
+CC       abnormal movements. Death may occur in early childhood.
+CC       {ECO:0000269|PubMed:27799064}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the peptidase M3 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U80034; AAC51231.1; -; mRNA.
+DR   EMBL; AK291923; BAF84612.1; -; mRNA.
+DR   EMBL; AL157368; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL139080; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL445985; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC009934; AAH09934.1; -; mRNA.
+DR   CCDS; CCDS9303.1; -.
+DR   RefSeq; NP_005923.2; NM_005932.3.
+DR   AlphaFoldDB; Q99797; -.
+DR   SMR; Q99797; -.
+DR   BioGRID; 110431; 101.
+DR   IntAct; Q99797; 32.
+DR   MINT; Q99797; -.
+DR   STRING; 9606.ENSP00000371607; -.
+DR   MEROPS; M03.006; -.
+DR   iPTMnet; Q99797; -.
+DR   MetOSite; Q99797; -.
+DR   PhosphoSitePlus; Q99797; -.
+DR   SwissPalm; Q99797; -.
+DR   BioMuta; MIPEP; -.
+DR   DMDM; 182639267; -.
+DR   EPD; Q99797; -.
+DR   jPOST; Q99797; -.
+DR   MassIVE; Q99797; -.
+DR   MaxQB; Q99797; -.
+DR   PaxDb; Q99797; -.
+DR   PeptideAtlas; Q99797; -.
+DR   ProteomicsDB; 78477; -.
+DR   Antibodypedia; 22428; 445 antibodies from 28 providers.
+DR   DNASU; 4285; -.
+DR   Ensembl; ENST00000382172.4; ENSP00000371607.3; ENSG00000027001.10.
+DR   GeneID; 4285; -.
+DR   KEGG; hsa:4285; -.
+DR   MANE-Select; ENST00000382172.4; ENSP00000371607.3; NM_005932.4; NP_005923.3.
+DR   UCSC; uc001uox.5; human.
+DR   AGR; HGNC:7104; -.
+DR   CTD; 4285; -.
+DR   DisGeNET; 4285; -.
+DR   GeneCards; MIPEP; -.
+DR   HGNC; HGNC:7104; MIPEP.
+DR   HPA; ENSG00000027001; Low tissue specificity.
+DR   MalaCards; MIPEP; -.
+DR   MIM; 602241; gene.
+DR   MIM; 617228; phenotype.
+DR   neXtProt; NX_Q99797; -.
+DR   OpenTargets; ENSG00000027001; -.
+DR   Orphanet; 478049; Lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome.
+DR   PharmGKB; PA30822; -.
+DR   VEuPathDB; HostDB:ENSG00000027001; -.
+DR   eggNOG; KOG2090; Eukaryota.
+DR   GeneTree; ENSGT00950000183171; -.
+DR   HOGENOM; CLU_001805_0_2_1; -.
+DR   InParanoid; Q99797; -.
+DR   OMA; ALMFEYM; -.
+DR   OrthoDB; 735202at2759; -.
+DR   PhylomeDB; Q99797; -.
+DR   TreeFam; TF105715; -.
+DR   PathwayCommons; Q99797; -.
+DR   SignaLink; Q99797; -.
+DR   BioGRID-ORCS; 4285; 275 hits in 1159 CRISPR screens.
+DR   ChiTaRS; MIPEP; human.
+DR   GenomeRNAi; 4285; -.
+DR   Pharos; Q99797; Tbio.
+DR   PRO; PR:Q99797; -.
+DR   Proteomes; UP000005640; Chromosome 13.
+DR   RNAct; Q99797; protein.
+DR   Bgee; ENSG00000027001; Expressed in right atrium auricular region and 160 other tissues.
+DR   Genevisible; Q99797; HS.
+DR   GO; GO:0005759; C:mitochondrial matrix; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005739; C:mitochondrion; IDA:HPA.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004222; F:metalloendopeptidase activity; IBA:GO_Central.
+DR   GO; GO:0006518; P:peptide metabolic process; IBA:GO_Central.
+DR   GO; GO:0006627; P:protein processing involved in protein targeting to mitochondrion; IBA:GO_Central.
+DR   CDD; cd06457; M3A_MIP; 1.
+DR   Gene3D; 1.10.1370.40; -; 1.
+DR   Gene3D; 3.40.390.10; Collagenase (Catalytic Domain); 1.
+DR   Gene3D; 1.10.1370.10; Neurolysin, domain 3; 1.
+DR   InterPro; IPR033851; M3A_MIP.
+DR   InterPro; IPR024079; MetalloPept_cat_dom_sf.
+DR   InterPro; IPR024077; Neurolysin/TOP_dom2.
+DR   InterPro; IPR045090; Pept_M3A_M3B.
+DR   InterPro; IPR001567; Pept_M3A_M3B_dom.
+DR   PANTHER; PTHR11804:SF79; MITOCHONDRIAL INTERMEDIATE PEPTIDASE; 1.
+DR   PANTHER; PTHR11804; PROTEASE M3 THIMET OLIGOPEPTIDASE-RELATED; 1.
+DR   Pfam; PF01432; Peptidase_M3; 1.
+DR   SUPFAM; SSF55486; Metalloproteases ('zincins'), catalytic domain; 1.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Calcium; Cobalt; Disease variant; Hydrolase; Iron; Magnesium;
+KW   Manganese; Metal-binding; Metalloprotease; Mitochondrion;
+KW   Primary mitochondrial disease; Protease; Reference proteome;
+KW   Transit peptide; Zinc.
+FT   TRANSIT         1..35
+FT                   /note="Mitochondrion"
+FT   CHAIN           36..713
+FT                   /note="Mitochondrial intermediate peptidase"
+FT                   /id="PRO_0000028579"
+FT   ACT_SITE        496
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   BINDING         495
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   BINDING         499
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   BINDING         502
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   MOD_RES         126
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   VARIANT         71
+FT                   /note="L -> Q (in COXPD31; dbSNP:rs1057518740)"
+FT                   /evidence="ECO:0000269|PubMed:27799064"
+FT                   /id="VAR_078009"
+FT   VARIANT         137
+FT                   /note="A -> V (in dbSNP:rs2312296)"
+FT                   /id="VAR_038934"
+FT   VARIANT         306
+FT                   /note="L -> F (in COXPD31; dbSNP:rs143912947)"
+FT                   /evidence="ECO:0000269|PubMed:27799064"
+FT                   /id="VAR_078010"
+FT   VARIANT         340
+FT                   /note="R -> Q (in dbSNP:rs11551114)"
+FT                   /id="VAR_038935"
+FT   VARIANT         343
+FT                   /note="K -> E (in COXPD31; dbSNP:rs1057518741)"
+FT                   /evidence="ECO:0000269|PubMed:27799064"
+FT                   /id="VAR_078011"
+FT   VARIANT         453
+FT                   /note="R -> H (in dbSNP:rs12858248)"
+FT                   /id="VAR_038936"
+FT   VARIANT         488
+FT                   /note="S -> G (in dbSNP:rs7333040)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:9073519"
+FT                   /id="VAR_038937"
+FT   VARIANT         512
+FT                   /note="H -> D (in COXPD31; unknown pathological
+FT                   significance; dbSNP:rs779598020)"
+FT                   /evidence="ECO:0000269|PubMed:27799064"
+FT                   /id="VAR_078012"
+FT   VARIANT         582
+FT                   /note="L -> R (in COXPD31; unknown pathological
+FT                   significance; dbSNP:rs1057518739)"
+FT                   /evidence="ECO:0000269|PubMed:27799064"
+FT                   /id="VAR_078013"
+FT   CONFLICT        63..64
+FT                   /note="RG -> AR (in Ref. 1; AAC51231)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        200
+FT                   /note="E -> Q (in Ref. 1; AAC51231)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        348
+FT                   /note="P -> A (in Ref. 1; AAC51231)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        467
+FT                   /note="V -> L (in Ref. 1; AAC51231)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   713 AA;  80641 MW;  9DBB26B74355B9C1 CRC64;
+     MLCVGRLGGL GARAAALPPR RAGRGSLEAG IRARRVSTSW SPVGAAFNVK PQGSRLDLFG
+     ERRGLFGVPE LSAPEGFHIA QEKALRKTEL LVDRACSTPP GPQTVLIFDE LSDSLCRVAD
+     LADFVKIAHP EPAFREAAEE ACRSIGTMVE KLNTNVDLYQ SLQKLLADKK LVDSLDPETR
+     RVAELFMFDF EISGIHLDKE KRKRAVDLNV KILDLSSTFL MGTNFPNKIE KHLLPEHIRR
+     NFTSAGDHII IDGLHAESPD DLVREAAYKI FLYPNAGQLK CLEELLSSRD LLAKLVGYST
+     FSHRALQGTI AKNPETVMQF LEKLSDKLSE RTLKDFEMIR GMKMKLNPQN SEVMPWDPPY
+     YSGVIRAERY NIEPSLYCPF FSLGACMEGL NILLNRLLGI SLYAEQPAKG EVWSEDVRKL
+     AVVHESEGLL GYIYCDFFQR ADKPHQDCHF TIRGGRLKED GDYQLPVVVL MLNLPRSSRS
+     SPTLLTPSMM ENLFHEMGHA MHSMLGRTRY QHVTGTRCPT DFAEVPSILM EYFANDYRVV
+     NQFARHYQTG QPLPKNMVSR LCESKKVCAA ADMQLQVFYA TLDQIYHGKH PLRNSTTDIL
+     KETQEKFYGL PYVPNTAWQL RFSHLVGYGA RYYSYLMSRA VASMVWKECF LQDPFNRAAG
+     ERYRREMLAH GGGREPMLMV EGMLQKCPSV DDFVSALVSD LDLDFETFLM DSE
+//

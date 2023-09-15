@@ -1,0 +1,542 @@
+ID   VP13C_HUMAN             Reviewed;        3753 AA.
+AC   Q709C8; Q6ISR4; Q702P2; Q702P3; Q709C9; Q9NXN8; Q9P2C6;
+DT   28-NOV-2006, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   28-JUN-2023, entry version 146.
+DE   RecName: Full=Intermembrane lipid transfer protein VPS13C {ECO:0000303|PubMed:30093493};
+DE   AltName: Full=Vacuolar protein sorting-associated protein 13C {ECO:0000305};
+GN   Name=VPS13C {ECO:0000312|EMBL:AAH69387.1};
+GN   Synonyms=KIAA1421 {ECO:0000312|EMBL:BAA92659.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:CAE75583.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2; 3 AND 4), AND TISSUE
+RP   SPECIFICITY.
+RC   TISSUE=Lymphoblast {ECO:0000269|PubMed:15498460};
+RX   PubMed=15498460; DOI=10.1016/j.ygeno.2004.04.012;
+RA   Velayos-Baeza A., Vettori A., Copley R.R., Dobson-Stone C., Monaco A.P.;
+RT   "Analysis of the human VPS13 gene family.";
+RL   Genomics 84:536-549(2004).
+RN   [2] {ECO:0000305, ECO:0000312|EMBL:BAA92659.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-1439 (ISOFORMS 1/2), AND
+RP   VARIANT LYS-974.
+RC   TISSUE=Brain {ECO:0000312|EMBL:BAA92659.1};
+RX   PubMed=10718198; DOI=10.1093/dnares/7.1.65;
+RA   Nagase T., Kikuno R., Ishikawa K., Hirosawa M., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XVI. The
+RT   complete sequences of 150 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:65-73(2000).
+RN   [3] {ECO:0000305, ECO:0000312|EMBL:BAA90972.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 3305-3753 (ISOFORMS 1/3).
+RC   TISSUE=Colon {ECO:0000312|EMBL:BAA90972.1};
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4] {ECO:0000305, ECO:0000312|EMBL:AAH69387.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 3305-3753 (ISOFORMS 1/3).
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-614; SER-619; THR-624 AND
+RP   SER-737, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [7]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-3538, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-737; SER-842 AND SER-3641,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-2473, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [12]
+RP   METHYLATION [LARGE SCALE ANALYSIS] AT ARG-3526, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Colon carcinoma;
+RX   PubMed=24129315; DOI=10.1074/mcp.o113.027870;
+RA   Guo A., Gu H., Zhou J., Mulhern D., Wang Y., Lee K.A., Yang V., Aguiar M.,
+RA   Kornhauser J., Jia X., Ren J., Beausoleil S.A., Silva J.C., Vemulapalli V.,
+RA   Bedford M.T., Comb M.J.;
+RT   "Immunoaffinity enrichment and mass spectrometry analysis of protein
+RT   methylation.";
+RL   Mol. Cell. Proteomics 13:372-387(2014).
+RN   [13]
+RP   FUNCTION, SUBCELLULAR LOCATION, INVOLVEMENT IN PARK23, AND VARIANT PARK23
+RP   ARG-1389.
+RX   PubMed=26942284; DOI=10.1016/j.ajhg.2016.01.014;
+RG   French Parkinson's Disease Genetics Study (PDG);
+RG   International Parkinson's Disease Genomics Consortium (IPDGC);
+RG   International Parkinson's Disease Genomics Consortium IPDGC;
+RA   Lesage S., Drouet V., Majounie E., Deramecourt V., Jacoupy M., Nicolas A.,
+RA   Cormier-Dequaire F., Hassoun S.M., Pujol C., Ciura S., Erpapazoglou Z.,
+RA   Usenko T., Maurage C.A., Sahbatou M., Liebau S., Ding J., Bilgic B.,
+RA   Emre M., Erginel-Unaltuna N., Guven G., Tison F., Tranchant C.,
+RA   Vidailhet M., Corvol J.C., Krack P., Leutenegger A.L., Nalls M.A.,
+RA   Hernandez D.G., Heutink P., Gibbs J.R., Hardy J., Wood N.W., Gasser T.,
+RA   Durr A., Deleuze J.F., Tazir M., Destee A., Lohmann E., Kabashi E.,
+RA   Singleton A., Corti O., Brice A.;
+RT   "Loss of mitochondrial morphology, transmembrane potential, and respiration
+RT   function in autosomal-recessive parkinsonism causes mitochondrial
+RT   dysfunction and increases PINK1/Parkin-dependent mitophagy.";
+RL   Am. J. Hum. Genet. 98:500-513(2016).
+RN   [14]
+RP   VARIANT PHE-2872.
+RX   PubMed=25787250; DOI=10.1073/pnas.1503696112;
+RA   Cromer M.K., Choi M., Nelson-Williams C., Fonseca A.L., Kunstman J.W.,
+RA   Korah R.M., Overton J.D., Mane S., Kenney B., Malchoff C.D., Stalberg P.,
+RA   Akerstroem G., Westin G., Hellman P., Carling T., Bjoerklund P.,
+RA   Lifton R.P.;
+RT   "Neomorphic effects of recurrent somatic mutations in Yin Yang 1 in
+RT   insulin-producing adenomas.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 112:4062-4067(2015).
+RN   [15]
+RP   SUBCELLULAR LOCATION, DOMAIN FFAT MOTIF, AND MUTAGENESIS OF
+RP   878-TYR-PHE-879.
+RX   PubMed=30093493; DOI=10.1083/jcb.201807019;
+RA   Kumar N., Leonzino M., Hancock-Cerutti W., Horenkamp F.A., Li P.,
+RA   Lees J.A., Wheeler H., Reinisch K.M., De Camilli P.;
+RT   "VPS13A and VPS13C are lipid transport proteins differentially localized at
+RT   ER contact sites.";
+RL   J. Cell Biol. 217:3625-3639(2018).
+CC   -!- FUNCTION: Mediates the transfer of lipids between membranes at
+CC       organelle contact sites (By similarity). Necessary for proper
+CC       mitochondrial function and maintenance of mitochondrial transmembrane
+CC       potential (PubMed:26942284). Involved in the regulation of PINK1/PRKN-
+CC       mediated mitophagy in response to mitochondrial depolarization
+CC       (PubMed:26942284). {ECO:0000250|UniProtKB:Q07878,
+CC       ECO:0000269|PubMed:26942284}.
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion outer membrane
+CC       {ECO:0000269|PubMed:26942284}. Lipid droplet
+CC       {ECO:0000269|PubMed:30093493}. Endoplasmic reticulum membrane
+CC       {ECO:0000269|PubMed:30093493}. Lysosome membrane
+CC       {ECO:0000269|PubMed:30093493}. Late endosome membrane
+CC       {ECO:0000269|PubMed:30093493}. Note=May localize to endoplasmic
+CC       reticulum-endolysosome contact sites. {ECO:0000269|PubMed:30093493}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1 {ECO:0000269|PubMed:15498460}; Synonyms=2A
+CC       {ECO:0000269|PubMed:15498460};
+CC         IsoId=Q709C8-1; Sequence=Displayed;
+CC       Name=2 {ECO:0000269|PubMed:15498460}; Synonyms=2B
+CC       {ECO:0000269|PubMed:15498460};
+CC         IsoId=Q709C8-2; Sequence=VSP_052244, VSP_052245;
+CC       Name=3 {ECO:0000269|PubMed:15498460}; Synonyms=1A
+CC       {ECO:0000269|PubMed:15498460};
+CC         IsoId=Q709C8-3; Sequence=VSP_052243;
+CC       Name=4 {ECO:0000269|PubMed:15498460}; Synonyms=1B
+CC       {ECO:0000269|PubMed:15498460};
+CC         IsoId=Q709C8-4; Sequence=VSP_052243, VSP_052244, VSP_052245;
+CC   -!- TISSUE SPECIFICITY: Widely expressed. {ECO:0000269|PubMed:15498460}.
+CC   -!- DOMAIN: The FFAT motif is required for localization to the endoplasmic
+CC       reticulum. {ECO:0000269|PubMed:30093493}.
+CC   -!- DISEASE: Parkinson disease 23, autosomal recessive, early onset
+CC       (PARK23) [MIM:616840]: An autosomal recessive, early-onset form of
+CC       Parkinson disease, a complex neurodegenerative disorder characterized
+CC       by bradykinesia, resting tremor, muscular rigidity and postural
+CC       instability, as well as by a clinically significant response to
+CC       treatment with levodopa. The pathology involves the loss of
+CC       dopaminergic neurons in the substantia nigra and the presence of Lewy
+CC       bodies (intraneuronal accumulations of aggregated proteins), in
+CC       surviving neurons in various areas of the brain.
+CC       {ECO:0000269|PubMed:26942284}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the VPS13 family. {ECO:0000255}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA90972.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAA92659.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ608770; CAE75582.1; -; mRNA.
+DR   EMBL; AJ608771; CAE75583.1; -; mRNA.
+DR   EMBL; AJ626860; CAF25187.1; -; mRNA.
+DR   EMBL; AJ626861; CAF25188.1; -; mRNA.
+DR   EMBL; AB037842; BAA92659.1; ALT_INIT; mRNA.
+DR   EMBL; AK000143; BAA90972.1; ALT_INIT; mRNA.
+DR   EMBL; BC069387; AAH69387.1; -; mRNA.
+DR   CCDS; CCDS10180.1; -. [Q709C8-3]
+DR   CCDS; CCDS32257.1; -. [Q709C8-1]
+DR   CCDS; CCDS45272.1; -. [Q709C8-2]
+DR   CCDS; CCDS58367.1; -. [Q709C8-4]
+DR   RefSeq; NP_001018098.1; NM_001018088.2. [Q709C8-2]
+DR   RefSeq; NP_060154.3; NM_017684.4. [Q709C8-3]
+DR   RefSeq; NP_060550.2; NM_018080.3. [Q709C8-4]
+DR   RefSeq; NP_065872.1; NM_020821.2. [Q709C8-1]
+DR   SMR; Q709C8; -.
+DR   BioGRID; 120186; 105.
+DR   ELM; Q709C8; -.
+DR   IntAct; Q709C8; 23.
+DR   MINT; Q709C8; -.
+DR   STRING; 9606.ENSP00000261517; -.
+DR   CarbonylDB; Q709C8; -.
+DR   GlyGen; Q709C8; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q709C8; -.
+DR   MetOSite; Q709C8; -.
+DR   PhosphoSitePlus; Q709C8; -.
+DR   BioMuta; VPS13C; -.
+DR   DMDM; 74712594; -.
+DR   EPD; Q709C8; -.
+DR   jPOST; Q709C8; -.
+DR   MassIVE; Q709C8; -.
+DR   MaxQB; Q709C8; -.
+DR   PaxDb; Q709C8; -.
+DR   PeptideAtlas; Q709C8; -.
+DR   ProteomicsDB; 68512; -. [Q709C8-1]
+DR   ProteomicsDB; 68513; -. [Q709C8-2]
+DR   ProteomicsDB; 68514; -. [Q709C8-3]
+DR   ProteomicsDB; 68515; -. [Q709C8-4]
+DR   Antibodypedia; 50681; 13 antibodies from 8 providers.
+DR   DNASU; 54832; -.
+DR   Ensembl; ENST00000249837.7; ENSP00000249837.3; ENSG00000129003.19. [Q709C8-3]
+DR   Ensembl; ENST00000395898.3; ENSP00000379235.3; ENSG00000129003.19. [Q709C8-4]
+DR   Ensembl; ENST00000644861.2; ENSP00000493560.2; ENSG00000129003.19. [Q709C8-1]
+DR   Ensembl; ENST00000645819.1; ENSP00000496179.1; ENSG00000129003.19. [Q709C8-2]
+DR   GeneID; 54832; -.
+DR   KEGG; hsa:54832; -.
+DR   MANE-Select; ENST00000644861.2; ENSP00000493560.2; NM_020821.3; NP_065872.1.
+DR   UCSC; uc002agz.4; human. [Q709C8-1]
+DR   AGR; HGNC:23594; -.
+DR   CTD; 54832; -.
+DR   DisGeNET; 54832; -.
+DR   GeneCards; VPS13C; -.
+DR   HGNC; HGNC:23594; VPS13C.
+DR   HPA; ENSG00000129003; Low tissue specificity.
+DR   MalaCards; VPS13C; -.
+DR   MIM; 608879; gene.
+DR   MIM; 616840; phenotype.
+DR   neXtProt; NX_Q709C8; -.
+DR   OpenTargets; ENSG00000129003; -.
+DR   Orphanet; 2828; Young-onset Parkinson disease.
+DR   PharmGKB; PA134990089; -.
+DR   VEuPathDB; HostDB:ENSG00000129003; -.
+DR   eggNOG; KOG1809; Eukaryota.
+DR   GeneTree; ENSGT00950000183083; -.
+DR   HOGENOM; CLU_000135_1_1_1; -.
+DR   InParanoid; Q709C8; -.
+DR   OMA; WQLGFHM; -.
+DR   OrthoDB; 199953at2759; -.
+DR   PhylomeDB; Q709C8; -.
+DR   TreeFam; TF300316; -.
+DR   PathwayCommons; Q709C8; -.
+DR   SignaLink; Q709C8; -.
+DR   BioGRID-ORCS; 54832; 8 hits in 1163 CRISPR screens.
+DR   ChiTaRS; VPS13C; human.
+DR   GenomeRNAi; 54832; -.
+DR   Pharos; Q709C8; Tbio.
+DR   PRO; PR:Q709C8; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q709C8; protein.
+DR   Bgee; ENSG00000129003; Expressed in calcaneal tendon and 204 other tissues.
+DR   ExpressionAtlas; Q709C8; baseline and differential.
+DR   Genevisible; Q709C8; HS.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ParkinsonsUK-UCL.
+DR   GO; GO:0005829; C:cytosol; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0032127; C:dense core granule membrane; IEA:Ensembl.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IDA:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0019898; C:extrinsic component of membrane; IBA:GO_Central.
+DR   GO; GO:0005770; C:late endosome; IDA:UniProtKB.
+DR   GO; GO:0031902; C:late endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005811; C:lipid droplet; IDA:UniProtKB.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005764; C:lysosome; IDA:UniProtKB.
+DR   GO; GO:0005741; C:mitochondrial outer membrane; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0006895; P:Golgi to endosome transport; TAS:ParkinsonsUK-UCL.
+DR   GO; GO:0006869; P:lipid transport; IEA:UniProtKB-KW.
+DR   GO; GO:0007005; P:mitochondrion organization; IMP:ParkinsonsUK-UCL.
+DR   GO; GO:1905090; P:negative regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization; IMP:ParkinsonsUK-UCL.
+DR   GO; GO:0045053; P:protein retention in Golgi apparatus; IBA:GO_Central.
+DR   GO; GO:0006623; P:protein targeting to vacuole; IBA:GO_Central.
+DR   GO; GO:0032868; P:response to insulin; IEA:Ensembl.
+DR   InterPro; IPR015412; Atg2/VPS13_C.
+DR   InterPro; IPR026847; VPS13.
+DR   InterPro; IPR026854; VPS13-like_N.
+DR   InterPro; IPR031645; VPS13_DH-like.
+DR   InterPro; IPR031646; VPS13_extend_chorein.
+DR   InterPro; IPR031642; VPS13_mid_RBG.
+DR   InterPro; IPR009543; VPS13_VAB.
+DR   PANTHER; PTHR16166:SF125; VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN 13C; 1.
+DR   PANTHER; PTHR16166; VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN VPS13; 1.
+DR   Pfam; PF09333; ATG_C; 1.
+DR   Pfam; PF12624; Chorein_N; 1.
+DR   Pfam; PF06650; SHR-BD; 1.
+DR   Pfam; PF16908; VPS13; 1.
+DR   Pfam; PF16909; VPS13_C; 1.
+DR   Pfam; PF16910; VPS13_mid_rpt; 3.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Disease variant; Endoplasmic reticulum;
+KW   Endosome; Lipid droplet; Lipid transport; Lysosome; Membrane; Methylation;
+KW   Mitochondrion; Mitochondrion outer membrane; Neurodegeneration;
+KW   Parkinson disease; Parkinsonism; Phosphoprotein; Reference proteome;
+KW   Transport.
+FT   CHAIN           1..3753
+FT                   /note="Intermembrane lipid transfer protein VPS13C"
+FT                   /id="PRO_0000262949"
+FT   DOMAIN          3..116
+FT                   /note="Chorein N-terminal"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          2766..3016
+FT                   /note="SHR-BD"
+FT                   /evidence="ECO:0000255"
+FT   REGION          150..176
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2415..3309
+FT                   /note="Required for late endosome/lysosome localization"
+FT                   /evidence="ECO:0000269|PubMed:30093493"
+FT   REGION          3310..3753
+FT                   /note="Required for lipid droplet localization"
+FT                   /evidence="ECO:0000269|PubMed:30093493"
+FT   MOTIF           877..883
+FT                   /note="FFAT"
+FT                   /evidence="ECO:0000305"
+FT   COMPBIAS        150..164
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         132
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BX70"
+FT   MOD_RES         614
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         619
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         624
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         737
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         842
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         872
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BX70"
+FT   MOD_RES         874
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BX70"
+FT   MOD_RES         1979
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BX70"
+FT   MOD_RES         2473
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         3519
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BX70"
+FT   MOD_RES         3526
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         3538
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         3641
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         129..171
+FT                   /note="Missing (in isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15498460"
+FT                   /id="VSP_052243"
+FT   VAR_SEQ         3622..3627
+FT                   /note="NHIKKL -> QELEIQE (in isoform 2 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15498460"
+FT                   /id="VSP_052244"
+FT   VAR_SEQ         3628..3753
+FT                   /note="Missing (in isoform 2 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15498460"
+FT                   /id="VSP_052245"
+FT   VARIANT         153
+FT                   /note="R -> H (in dbSNP:rs12595158)"
+FT                   /id="VAR_029548"
+FT   VARIANT         974
+FT                   /note="R -> K (in dbSNP:rs3784634)"
+FT                   /evidence="ECO:0000269|PubMed:10718198"
+FT                   /id="VAR_029549"
+FT   VARIANT         1132
+FT                   /note="I -> V (in dbSNP:rs3784635)"
+FT                   /id="VAR_029550"
+FT   VARIANT         1302
+FT                   /note="Y -> C (in dbSNP:rs2303405)"
+FT                   /id="VAR_029551"
+FT   VARIANT         1389
+FT                   /note="G -> R (in PARK23; dbSNP:rs369100678)"
+FT                   /evidence="ECO:0000269|PubMed:26942284"
+FT                   /id="VAR_076363"
+FT   VARIANT         1485
+FT                   /note="T -> A (in dbSNP:rs8026956)"
+FT                   /id="VAR_029552"
+FT   VARIANT         1495
+FT                   /note="I -> V (in dbSNP:rs11629598)"
+FT                   /id="VAR_029553"
+FT   VARIANT         1592
+FT                   /note="S -> Y (in dbSNP:rs11629838)"
+FT                   /id="VAR_029554"
+FT   VARIANT         2322
+FT                   /note="V -> M (in dbSNP:rs12907567)"
+FT                   /id="VAR_029555"
+FT   VARIANT         2808
+FT                   /note="K -> R (in dbSNP:rs34060567)"
+FT                   /id="VAR_053808"
+FT   VARIANT         2872
+FT                   /note="C -> F"
+FT                   /evidence="ECO:0000269|PubMed:25787250"
+FT                   /id="VAR_074191"
+FT   VARIANT         2913
+FT                   /note="S -> N (in dbSNP:rs10851704)"
+FT                   /id="VAR_029556"
+FT   MUTAGEN         878..879
+FT                   /note="YF->SL: Abnormal localization to the cytosol."
+FT                   /evidence="ECO:0000269|PubMed:30093493"
+SQ   SEQUENCE   3753 AA;  422390 MW;  8B51A6778A89F639 CRC64;
+     MVLESVVADL LNRFLGDYVE NLNKSQLKLG IWGGNVALDN LQIKENALSE LDVPFKVKAG
+     QIDKLTLKIP WKNLYGEAVV ATLEGLYLLV VPGASIKYDA VKEEKSLQDV KQKELSRIEE
+     ALQKAAEKGT HSGEFIYGLE NFVYKDIKPG RKRKKHKKHF KKPFKGLDRS KDKPKEAKKD
+     TFVEKLATQV IKNVQVKITD IHIKYEDDVT DPKRPLSFGV TLGELSLLTA NEHWTPCILN
+     EADKIIYKLI RLDSLSAYWN VNCSMSYQRS REQILDQLKN EILTSGNIPP NYQYIFQPIS
+     ASAKLYMNPY AESELKTPKL DCNIEIQNIA IELTKPQYLS MIDLLESVDY MVRNAPYRKY
+     KPYLPLHTNG RRWWKYAIDS VLEVHIRRYT QMWSWSNIKK HRQLLKSYKI AYKNKLTQSK
+     VSEEIQKEIQ DLEKTLDVFN IILARQQAQV EVIRSGQKLR KKSADTGEKR GGWFSGLWGK
+     KESKKKDEES LIPETIDDLM TPEEKDKLFT AIGYSESTHN LTLPKQYVAH IMTLKLVSTS
+     VTIRENKNIP EILKIQIIGL GTQVSQRPGA QALKVEAKLE HWYITGLRQQ DIVPSLVASI
+     GDTTSSLLKI KFETNPEDSP ADQTLIVQSQ PVEVIYDAKT VNAVVEFFQS NKGLDLEQIT
+     SATLMKLEEI KERTATGLTH IIETRKVLDL RINLKPSYLV VPQTGFHHEK SDLLILDFGT
+     FQLNSKDQGL QKTTNSSLEE IMDKAYDKFD VEIKNVQLLF ARAEETWKKC RFQHPSTMHI
+     LQPMDIHVEL AKAMVEKDIR MARFKVSGGL PLMHVRISDQ KMKDVLYLMN SIPLPQKSSA
+     QSPERQVSSI PIISGGTKGL LGTSLLLDTV ESESDDEYFD AEDGEPQTCK SMKGSELKKA
+     AEVPNEELIN LLLKFEIKEV ILEFTKQQKE EDTILVFNVT QLGTEATMRT FDLTVVSYLK
+     KISLDYHEIE GSKRKPLHLI SSSDKPGLDL LKVEYIKADK NGPSFQTAFG KTEQTVKVAF
+     SSLNLLLQTQ ALVASINYLT TIIPSDDQSI SVAKEVQIST EKQQKNSTLP KAIVSSRDSD
+     IIDFRLFAKL NAFCVIVCNE KNNIAEIKIQ GLDSSLSLQS RKQSLFARLE NIIVTDVDPK
+     TVHKKAVSIM GNEVFRFNLD LYPDATEGDL YTDMSKVDGV LSLNVGCIQI VYLHKFLMSL
+     LNFLNNFQTA KESLSAATAQ AAERAATSVK DLAQRSFRVS INIDLKAPVI VIPQSSISTN
+     AVVVDLGLIR VHNQFSLVSD EDYLNPPVID RMDVQLTKLT LYRTVIQPGI YHPDIQLLHP
+     INLEFLVNRN LAASWYHKVP VVEIKGHLDS MNVSLNQEDL NLLFRILTEN LCEGTEDLDK
+     VKPRVQETGE IKEPLEISIS QDVHDSKNTL TTGVEEIRSV DIINMLLNFE IKEVVVTLMK
+     KSEKKGRPLH ELNVLQLGME AKVKTYDMTA KAYLKKISMQ CFDFTDSKGE PLHIINSSNV
+     TDEPLLKMLL TKADSDGPEF KTIHDSTKQR LKVSFASLDL VLHLEALLSF MDFLSSAAPF
+     SEPSSSEKES ELKPLVGESR SIAVKAVSSN ISQKDVFDLK ITAELNAFNV FVCDQKCNIA
+     DIKIHGMDAS ISVKPKQTDV FARLKDIIVM NVDLQSIHKK AVSILGDEVF RFQLTLYPDA
+     TEGEAYADMS KVDGKLSFKV GCIQIVYVHK FFMSLLNFLN NFQTAKEALS TATVQAAERA
+     ASSMKDLAQK SFRLLMDINL KAPVIIIPQS SVSPNAVIAD LGLIRVENKF SLVPMEHYSL
+     PPVIDKMNIE LTQLKLSRTI LQASLPQNDI EILKPVNMLL SIQRNLAAAW YVQIPGMEIK
+     GKLKPMQVAL SEDDLTVLMK ILLENLGEAS SQPSPTQSVQ ETVRVRKVDV SSVPDHLKEQ
+     EDWTDSKLSM NQIVSLQFDF HFESLSIILY NNDINQESGV AFHNDSFQLG ELRLHLMASS
+     GKMFKDGSMN VSVKLKTCTL DDLREGIERA TSRMIDRKND QDNNSSMIDI SYKQDKNGSQ
+     IDAVLDKLYV CASVEFLMTV ADFFIKAVPQ SPENVAKETQ ILPRQTATGK VKIEKDDSVR
+     PNMTLKAMIT DPEVVFVASL TKADAPALTA SFQCNLSLST SKLEQMMEAS VRDLKVLACP
+     FLREKRGKNI TTVLQPCSLF MEKCTWASGK QNINIMVKEF IIKISPIILN TVLTIMAALS
+     PKTKEDGSKD TSKEMENLWG IKSINDYNTW FLGVDTATEI TESFKGIEHS LIEENCGVVV
+     ESIQVTLECG LGHRTVPLLL AESKFSGNIK NWTSLMAAVA DVTLQVHYYN EIHAVWEPLI
+     ERVEGKRQWN LRLDVKKNPV QDKSLLPGDD FIPEPQMAIH ISSGNTMNIT ISKSCLNVFN
+     NLAKGFSEGT ASTFDYSLKD RAPFTVKNAV GVPIKVKPNC NLRVMGFPEK SDIFDVDAGQ
+     NLELEYASMV PSSQGNLSIL SRQESSFFTL TIVPHGYTEV ANIPVARPGR RLYNVRNPNA
+     SHSDSVLVQI DATEGNKVIT LRSPLQIKNH FSIAFIIYKF VKNVKLLERI GIARPEEEFH
+     VPLDSYRCQL FIQPAGILEH QYKESTTYIS WKEELHRSRE VRCMLQCPSV EVSFLPLIVN
+     TVALPDELSY ICTHGEDWDV AYIIHLYPSL TLRNLLPYSL RYLLEGTAET HELAEGSTAD
+     VLHSRISGEI MELVLVKYQG KNWNGHFRIR DTLPEFFPVC FSSDSTEVTT VDLSVHVRRI
+     GSRMVLSVFS PYWLINKTTR VLQYRSEDIH VKHPADFRDI ILFSFKKKNI FTKNKVQLKI
+     STSAWSSSFS LDTVGSYGCV KCPANNMEYL VGVSIKMSSF NLSRIVTLTP FCTIANKSSL
+     ELEVGEIASD GSMPTNKWNY IASSECLPFW PESLSGKLCV RVVGCEGSSK PFFYNRQDNG
+     TLLSLEDLNG GILVDVNTAE HSTVITFSDY HEGSAPALIM NHTPWDILTY KQSGSPEEMV
+     LLPRQARLFA WADPTGTRKL TWTYAANVGE HDLLKDGCGQ FPYDANIQIH WVSFLDGRQR
+     VLLFTDDVAL VSKALQAEEM EQADYEITLS LHSLGLSLVN NESKQEVSYI GITSSGVVWE
+     VKPKQKWKPF SQKQIILLEQ SYQKHQISRD HGWIKLDNNF EVNFDKDPME MRLPIRSPIK
+     RDFLSGIQIE FKQSSHQRSL RARLYWLQVD NQLPGAMFPV VFHPVAPPKS IALDSEPKPF
+     IDVSVITRFN EYSKVLQFKY FMVLIQEMAL KIDQGFLGAI IALFTPTTDP EAERRRTKLI
+     QQDIDALNAE LMETSMTDMS ILSFFEHFHI SPVKLHLSLS LGSGGEESDK EKQEMFAVHS
+     VNLLLKSIGA TLTDVDDLIF KLAYYEIRYQ FYKRDQLIWS VVRHYSEQFL KQMYVLVLGL
+     DVLGNPFGLI RGLSEGVEAL FYEPFQGAVQ GPEEFAEGLV IGVRSLFGHT VGGAAGVVSR
+     ITGSVGKGLA AITMDKEYQQ KRREELSRQP RDFGDSLARG GKGFLRGVVG GVTGIITKPV
+     EGAKKEGAAG FFKGIGKGLV GAVARPTGGI VDMASSTFQG IQRAAESTEE VSSLRPPRLI
+     HEDGIIRPYD RQESEGSDLL ENHIKKLEGE TYRYHCAIPG SKKTILMVTN RRVLCIKEVE
+     ILGLMCVDWQ CPFEDFVFPP SVSENVLKIS VKEQGLFHKK DSANQGCVRK VYLKDTATAE
+     RACNAIEDAQ STRQQQKLMK QSSVRLLRPQ LPS
+//

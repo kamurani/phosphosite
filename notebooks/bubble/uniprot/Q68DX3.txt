@@ -1,0 +1,436 @@
+ID   FRPD2_HUMAN             Reviewed;        1309 AA.
+AC   Q68DX3; B7WNW0; B7ZML5; Q2VY07; Q6GMQ9; Q6ZN38; Q6ZWI2; Q8N5T9;
+DT   02-OCT-2007, integrated into UniProtKB/Swiss-Prot.
+DT   31-MAY-2011, sequence version 3.
+DT   28-JUN-2023, entry version 167.
+DE   RecName: Full=FERM and PDZ domain-containing protein 2;
+DE   AltName: Full=PDZ domain-containing protein 4;
+DE   AltName: Full=PDZ domain-containing protein 5C;
+GN   Name=FRMPD2; Synonyms=PDZD5C, PDZK4, PDZK5C;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 5).
+RA   Xu J., Xie Y., Mao Y.;
+RT   "Identification of a novel PDZ domain-containing gene.";
+RL   Submitted (NOV-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2 AND 3), AND VARIANTS
+RP   GLU-534 AND LYS-1021.
+RC   TISSUE=Hippocampus, and Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT LYS-1021.
+RC   TISSUE=Retina;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 4 AND 5).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION, INTERACTION WITH ARVCF; CTNND2 AND PKP4, MUTAGENESIS OF LYS-955,
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=19706687; DOI=10.1242/jcs.046854;
+RA   Stenzel N., Fetzer C.P., Heumann R., Erdmann K.S.;
+RT   "PDZ-domain-directed basolateral targeting of the peripheral membrane
+RT   protein FRMPD2 in epithelial cells.";
+RL   J. Cell Sci. 122:3374-3384(2009).
+RN   [7]
+RP   VARIANT [LARGE SCALE ANALYSIS] TRP-727.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+RN   [8]
+RP   VARIANT ARG-351.
+RX   PubMed=22068589; DOI=10.1093/hmg/ddr509;
+RA   Khan K., Logan C.V., McKibbin M., Sheridan E., Elcioglu N.H., Yenice O.,
+RA   Parry D.A., Fernandez-Fuentes N., Abdelhamed Z.I., Al-Maskari A.,
+RA   Poulter J.A., Mohamed M.D., Carr I.M., Morgan J.E., Jafri H., Raashid Y.,
+RA   Taylor G.R., Johnson C.A., Inglehearn C.F., Toomes C., Ali M.;
+RT   "Next generation sequencing identifies mutations in Atonal homolog 7
+RT   (ATOH7) in families with global eye developmental defects.";
+RL   Hum. Mol. Genet. 21:776-783(2012).
+CC   -!- FUNCTION: May play a role in the regulation of tight junction
+CC       formation. Binds phosphatidylinositol 3,4-bisphosphate (PtdIns(3,4)P2).
+CC       {ECO:0000269|PubMed:19706687}.
+CC   -!- SUBUNIT: Interacts (via the PDZ 2 domain) with CTNND2 (via the extreme
+CC       C-terminus). Interacts (via the PDZ 2 domain) with PKP4 (via the
+CC       extreme C-terminus); this interaction directed FRMPD2 to the
+CC       basolateral membranes. Interacts (via the PDZ 2 domain) with ARVCF (via
+CC       the extreme C-terminus). {ECO:0000269|PubMed:19706687}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000305}. Basolateral cell
+CC       membrane {ECO:0000269|PubMed:19706687}. Cell junction, tight junction
+CC       {ECO:0000269|PubMed:19706687}. Note=Colocalizes with CTNNB1, CDH1 and
+CC       PKP4 at the basolateral membrane. Colocalizes with TJP1 at tight
+CC       junctions. Its recruitment to cell-cell contacts requires CDH1.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=1;
+CC         IsoId=Q68DX3-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q68DX3-2; Sequence=VSP_028523, VSP_028524, VSP_028527;
+CC       Name=3;
+CC         IsoId=Q68DX3-3; Sequence=VSP_028525, VSP_028526;
+CC       Name=4;
+CC         IsoId=Q68DX3-4; Sequence=VSP_028522, VSP_028528;
+CC       Name=5;
+CC         IsoId=Q68DX3-5; Sequence=VSP_028521;
+CC   -!- TISSUE SPECIFICITY: Expressed in epithelial cells.
+CC       {ECO:0000269|PubMed:19706687}.
+CC   -!- DOMAIN: The FERM and PDZ 2 domains are necessary for localization to
+CC       the basolateral cell membrane. The FERM domain binds to
+CC       phosphatidylinositol 3,4-bisphosphate (PtdIns(3,4)P2) and is sufficient
+CC       for membrane localization.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY491519; AAS79660.1; -; mRNA.
+DR   EMBL; AK123038; BAC85520.1; -; mRNA.
+DR   EMBL; AK131386; BAD18537.1; -; mRNA.
+DR   EMBL; CR749241; CAH18097.1; -; mRNA.
+DR   EMBL; AC013284; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC074325; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC031614; AAH31614.1; -; mRNA.
+DR   EMBL; BC073954; AAH73954.1; -; mRNA.
+DR   EMBL; BC144635; AAI44636.1; -; mRNA.
+DR   EMBL; BC144639; AAI44640.1; -; mRNA.
+DR   CCDS; CCDS31195.1; -. [Q68DX3-1]
+DR   CCDS; CCDS81460.1; -. [Q68DX3-2]
+DR   RefSeq; NP_001018081.3; NM_001018071.3. [Q68DX3-1]
+DR   RefSeq; NP_001035977.2; NM_001042512.2. [Q68DX3-4]
+DR   RefSeq; NP_001305120.1; NM_001318191.1.
+DR   RefSeq; XP_016871233.1; XM_017015744.1. [Q68DX3-5]
+DR   AlphaFoldDB; Q68DX3; -.
+DR   SMR; Q68DX3; -.
+DR   BioGRID; 126788; 17.
+DR   IntAct; Q68DX3; 2.
+DR   STRING; 9606.ENSP00000363317; -.
+DR   GlyGen; Q68DX3; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q68DX3; -.
+DR   PhosphoSitePlus; Q68DX3; -.
+DR   BioMuta; FRMPD2; -.
+DR   DMDM; 334302902; -.
+DR   jPOST; Q68DX3; -.
+DR   MassIVE; Q68DX3; -.
+DR   PaxDb; Q68DX3; -.
+DR   PeptideAtlas; Q68DX3; -.
+DR   ProteomicsDB; 66110; -. [Q68DX3-1]
+DR   ProteomicsDB; 66111; -. [Q68DX3-2]
+DR   ProteomicsDB; 66112; -. [Q68DX3-3]
+DR   Antibodypedia; 13728; 79 antibodies from 21 providers.
+DR   DNASU; 143162; -.
+DR   Ensembl; ENST00000305531.3; ENSP00000307079.3; ENSG00000170324.21. [Q68DX3-2]
+DR   Ensembl; ENST00000374201.8; ENSP00000363317.3; ENSG00000170324.21. [Q68DX3-1]
+DR   GeneID; 143162; -.
+DR   KEGG; hsa:143162; -.
+DR   MANE-Select; ENST00000374201.8; ENSP00000363317.3; NM_001018071.4; NP_001018081.4.
+DR   UCSC; uc001jgg.5; human. [Q68DX3-1]
+DR   AGR; HGNC:28572; -.
+DR   CTD; 143162; -.
+DR   DisGeNET; 143162; -.
+DR   GeneCards; FRMPD2; -.
+DR   HGNC; HGNC:28572; FRMPD2.
+DR   HPA; ENSG00000170324; Tissue enhanced (brain, choroid plexus, retina).
+DR   MIM; 613323; gene.
+DR   neXtProt; NX_Q68DX3; -.
+DR   OpenTargets; ENSG00000170324; -.
+DR   PharmGKB; PA134947461; -.
+DR   VEuPathDB; HostDB:ENSG00000170324; -.
+DR   eggNOG; KOG0792; Eukaryota.
+DR   eggNOG; KOG3528; Eukaryota.
+DR   GeneTree; ENSGT00940000161964; -.
+DR   HOGENOM; CLU_079375_0_0_1; -.
+DR   InParanoid; Q68DX3; -.
+DR   OMA; LAMCEDQ; -.
+DR   OrthoDB; 2910505at2759; -.
+DR   PhylomeDB; Q68DX3; -.
+DR   TreeFam; TF315388; -.
+DR   PathwayCommons; Q68DX3; -.
+DR   SignaLink; Q68DX3; -.
+DR   BioGRID-ORCS; 143162; 10 hits in 1145 CRISPR screens.
+DR   ChiTaRS; FRMPD2; human.
+DR   GenomeRNAi; 143162; -.
+DR   Pharos; Q68DX3; Tbio.
+DR   PRO; PR:Q68DX3; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; Q68DX3; protein.
+DR   Bgee; ENSG00000170324; Expressed in superior frontal gyrus and 95 other tissues.
+DR   ExpressionAtlas; Q68DX3; baseline and differential.
+DR   Genevisible; Q68DX3; HS.
+DR   GO; GO:0045177; C:apical part of cell; IBA:GO_Central.
+DR   GO; GO:0016323; C:basolateral plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0005923; C:bicellular tight junction; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005856; C:cytoskeleton; IEA:InterPro.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005545; F:1-phosphatidylinositol binding; IDA:UniProtKB.
+DR   GO; GO:0070830; P:bicellular tight junction assembly; IMP:UniProtKB.
+DR   GO; GO:0031023; P:microtubule organizing center organization; IBA:GO_Central.
+DR   GO; GO:0070507; P:regulation of microtubule cytoskeleton organization; IBA:GO_Central.
+DR   CDD; cd14473; FERM_B-lobe; 1.
+DR   CDD; cd13187; FERM_C_PTPH13; 1.
+DR   CDD; cd17196; FERM_F1_FRMPD2; 1.
+DR   CDD; cd00992; PDZ_signaling; 3.
+DR   Gene3D; 1.20.80.10; -; 1.
+DR   Gene3D; 2.30.42.10; -; 3.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   Gene3D; 1.10.510.10; Transferase(Phosphotransferase) domain 1; 1.
+DR   InterPro; IPR019749; Band_41_domain.
+DR   InterPro; IPR014352; FERM/acyl-CoA-bd_prot_sf.
+DR   InterPro; IPR035963; FERM_2.
+DR   InterPro; IPR019748; FERM_central.
+DR   InterPro; IPR000299; FERM_domain.
+DR   InterPro; IPR018979; FERM_N.
+DR   InterPro; IPR018980; FERM_PH-like_C.
+DR   InterPro; IPR011019; KIND_dom.
+DR   InterPro; IPR001478; PDZ.
+DR   InterPro; IPR036034; PDZ_sf.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR029071; Ubiquitin-like_domsf.
+DR   PANTHER; PTHR46900:SF3; NON-SPECIFIC PROTEIN-TYROSINE KINASE; 1.
+DR   PANTHER; PTHR46900; TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 13; 1.
+DR   Pfam; PF09380; FERM_C; 1.
+DR   Pfam; PF00373; FERM_M; 1.
+DR   Pfam; PF09379; FERM_N; 1.
+DR   Pfam; PF00595; PDZ; 3.
+DR   PRINTS; PR00935; BAND41.
+DR   SMART; SM00295; B41; 1.
+DR   SMART; SM01196; FERM_C; 1.
+DR   SMART; SM00750; KIND; 1.
+DR   SMART; SM00228; PDZ; 3.
+DR   SUPFAM; SSF50156; PDZ domain-like; 3.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   SUPFAM; SSF47031; Second domain of FERM; 1.
+DR   SUPFAM; SSF54236; Ubiquitin-like; 1.
+DR   PROSITE; PS50057; FERM_3; 1.
+DR   PROSITE; PS51377; KIND; 1.
+DR   PROSITE; PS50106; PDZ; 3.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell junction; Cell membrane; Cytoplasm; Membrane;
+KW   Reference proteome; Repeat; Tight junction.
+FT   CHAIN           1..1309
+FT                   /note="FERM and PDZ domain-containing protein 2"
+FT                   /id="PRO_0000306854"
+FT   DOMAIN          15..197
+FT                   /note="KIND"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00709"
+FT   DOMAIN          342..642
+FT                   /note="FERM"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00084"
+FT   DOMAIN          775..861
+FT                   /note="PDZ 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00143"
+FT   DOMAIN          950..1035
+FT                   /note="PDZ 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00143"
+FT   DOMAIN          1079..1167
+FT                   /note="PDZ 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00143"
+FT   REGION          214..249
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          266..302
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          859..880
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1204..1228
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        235..249
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        274..302
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         1..1048
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:15489334, ECO:0000303|Ref.1"
+FT                   /id="VSP_028521"
+FT   VAR_SEQ         1..989
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_028522"
+FT   VAR_SEQ         1..8
+FT                   /note="MQPLTKDA -> MHVFIV (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_028523"
+FT   VAR_SEQ         103..124
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_028524"
+FT   VAR_SEQ         391..392
+FT                   /note="KE -> GE (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_028525"
+FT   VAR_SEQ         393..1309
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_028526"
+FT   VAR_SEQ         486
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_028527"
+FT   VAR_SEQ         990..996
+FT                   /note="KEGQILQ -> MTSIPFP (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_028528"
+FT   VARIANT         20
+FT                   /note="A -> T (in dbSNP:rs11101272)"
+FT                   /id="VAR_055540"
+FT   VARIANT         239
+FT                   /note="T -> M (in dbSNP:rs55802136)"
+FT                   /id="VAR_061034"
+FT   VARIANT         351
+FT                   /note="G -> R (in dbSNP:rs116143480)"
+FT                   /evidence="ECO:0000269|PubMed:22068589"
+FT                   /id="VAR_072402"
+FT   VARIANT         534
+FT                   /note="K -> E (in dbSNP:rs1864345)"
+FT                   /evidence="ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_055541"
+FT   VARIANT         727
+FT                   /note="R -> W (in a colorectal cancer sample; somatic
+FT                   mutation; dbSNP:rs115907611)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035446"
+FT   VARIANT         1021
+FT                   /note="T -> K (in dbSNP:rs1898784)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:17974005"
+FT                   /id="VAR_065253"
+FT   MUTAGEN         955
+FT                   /note="K->E: Abolishes the basolateral membrane
+FT                   localization."
+FT                   /evidence="ECO:0000269|PubMed:19706687"
+FT   CONFLICT        601
+FT                   /note="K -> E (in Ref. 3; CAH18097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        624
+FT                   /note="S -> G (in Ref. 3; CAH18097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        826
+FT                   /note="I -> T (in Ref. 3; CAH18097)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        874
+FT                   /note="S -> G (in Ref. 2; BAC85520)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        895
+FT                   /note="L -> S (in Ref. 2; BAC85520)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        969
+FT                   /note="N -> M (in Ref. 5; AAH73954/AAI44636/AAI44640)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1077
+FT                   /note="K -> N (in Ref. 1; AAS79660)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1174
+FT                   /note="L -> M (in Ref. 2; BAC85520)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1214
+FT                   /note="S -> F (in Ref. 1; AAS79660)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1309 AA;  144282 MW;  7684E687FA8522B4 CRC64;
+     MQPLTKDAGM SLSSVTLASA LQVRGEALSE EEIWSLLFLA AEQLLEDLRN DSSDYVVCPW
+     SALLSAAGSL SFQGRVSHIE AAPFKAPELL QGQSEDEQPD ASQMHVYSLG MTLYWSAGFH
+     VPPHQPLQLC EPLHSILLTM CEDQPHRRCT LQSVLEACRV HEKEVSVYPA PAGLHIRRLV
+     GLVLGTISEV EKRVVEESSS VQQNRSYLLR KRLRGTSSES PAAQAPECLH PCRVSERSTE
+     TQSSPEPHWS TLTHSHCSLL VNRALPGADP QDQQAGRRLS SGSVHSAADS SWPTTPSQRG
+     FLQRRSKFSR PEFILLAGEA PMTLHLPGSV VTKKGKSYLA LRDLCVVLLN GQHLEVKCDV
+     ESTVGAVFNA VTSFANLEEL TYFGLAYMKS KEFFFLDSET RLCKIAPEGW REQPQKTSMN
+     TFTLFLRIKF FVSHYGLLQH SLTRHQFYLQ LRKDILEERL YCNEEILLQL GVLALQAEFG
+     NYPKEQVESK PYFHVEDYIP ASLIERMTAL RVQVEVSEMH RLSSALWGED AELKFLRVTQ
+     QLPEYGVLVH QVFSEKRRPE EEMALGICAK GVIVYEVKNN SRIAMLRFQW RETGKISTYQ
+     KKFTITSSVT GKKHTFVTDS AKTSKYLLDL CSAQHGFNAQ MGSGQPSHVL FDHDKFVQMA
+     NLSPAHQARS KPLIWIQRLS CSENELFVSR LQGAAGGLLS TSMDNFNVDG SKEAGAEGIG
+     RSPCTGREQL KSACVIQKPM TWDSLSGPPV QSMHAGSKNN RRKSFIAEPG REIVRVTLKR
+     DPHRGFGFVI NEGEYSGQAD PGIFISSIIP GGPAEKAKTI KPGGQILALN HISLEGFTFN
+     MAVRMIQNSP DNIELIISQS KGVGGNNPDE EKNSTANSGV SSTDILSFGY QGSLLSHTQD
+     QDRNTEELDM AGVQSLVPRL RHQLSFLPLK GAGSSCPPSP PEISAGEIYF VELVKEDGTL
+     GFSVTGGINT SVPYGGIYVK SIVPGGPAAK EGQILQGDRL LQVDGVILCG LTHKQAVQCL
+     TGPGQVARLV LERRVPRSTQ QCPSANDSMG DERTAVSLVT ALPGRPSSCV SVTDGPKFEV
+     KLKKNANGLG FSFVQMEKES CSHLKSDLVR IKRLFPGQPA EENGAIAAGD IILAVNGRST
+     EGLIFQEVLH LLRGAPQEVT LLLCRPPPGA LPELEQEWQT PELSADKEFT RATCTDSCTS
+     PILDQEDSWR DSASPDAGEG LGLRPESSQK AIREAQWGQN RERPWASSLT HSPESHPHLC
+     KLHQERDEST LATSLEKDVR QNCYSVCDIM RLGRYSFSSP LTRLSTDIF
+//

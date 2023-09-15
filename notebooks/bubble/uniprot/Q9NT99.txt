@@ -1,0 +1,275 @@
+ID   LRC4B_HUMAN             Reviewed;         713 AA.
+AC   Q9NT99; Q3ZCQ4; Q58F20;
+DT   04-APR-2006, integrated into UniProtKB/Swiss-Prot.
+DT   04-APR-2006, sequence version 3.
+DT   28-JUN-2023, entry version 166.
+DE   RecName: Full=Leucine-rich repeat-containing protein 4B;
+DE   AltName: Full=Netrin-G3 ligand;
+DE            Short=NGL-3;
+DE   Flags: Precursor;
+GN   Name=LRRC4B; Synonyms=LRIG4;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 208-713.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 216-636.
+RC   TISSUE=Amygdala;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+CC   -!- FUNCTION: Synaptic adhesion protein. Regulates the formation of
+CC       excitatory synapses. The trans-synaptic adhesion between LRRC4B and
+CC       PTPRF regulates the formation of excitatory synapses in a bidirectional
+CC       manner (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Interacts with PTPRF. Interacts with DLG4. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Membrane; Single-pass membrane protein.
+CC       Presynaptic cell membrane {ECO:0000250}.
+CC   -!- DOMAIN: The last 4 C-terminal residues bind to the first 2 PDZ domains
+CC       of DLG4. {ECO:0000250}.
+CC   -!- PTM: N-glycosylated. O-glycosylated; contains sialic acid.
+CC       {ECO:0000250}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH19687.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC008743; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC019687; AAH19687.1; ALT_INIT; mRNA.
+DR   EMBL; BC056207; AAH56207.1; -; mRNA.
+DR   EMBL; AL137451; CAB70743.2; -; mRNA.
+DR   CCDS; CCDS42595.1; -.
+DR   PIR; T46266; T46266.
+DR   RefSeq; NP_001073926.1; NM_001080457.1.
+DR   RefSeq; NP_001335497.1; NM_001348568.1.
+DR   RefSeq; XP_005259486.1; XM_005259429.4.
+DR   RefSeq; XP_006723569.1; XM_006723506.3.
+DR   RefSeq; XP_011525822.1; XM_011527520.2.
+DR   AlphaFoldDB; Q9NT99; -.
+DR   SMR; Q9NT99; -.
+DR   BioGRID; 125098; 13.
+DR   IntAct; Q9NT99; 4.
+DR   STRING; 9606.ENSP00000471502; -.
+DR   TCDB; 8.A.43.1.24; the neat-domain containing methaemoglobin heme sequestration (n-mhs) family.
+DR   GlyCosmos; Q9NT99; 10 sites, 1 glycan.
+DR   GlyGen; Q9NT99; 10 sites, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9NT99; -.
+DR   PhosphoSitePlus; Q9NT99; -.
+DR   BioMuta; LRRC4B; -.
+DR   DMDM; 91207142; -.
+DR   EPD; Q9NT99; -.
+DR   MassIVE; Q9NT99; -.
+DR   MaxQB; Q9NT99; -.
+DR   PaxDb; Q9NT99; -.
+DR   PeptideAtlas; Q9NT99; -.
+DR   ProteomicsDB; 82604; -.
+DR   Antibodypedia; 53687; 96 antibodies from 19 providers.
+DR   DNASU; 94030; -.
+DR   Ensembl; ENST00000389201.7; ENSP00000373853.3; ENSG00000131409.13.
+DR   Ensembl; ENST00000599957.5; ENSP00000471502.1; ENSG00000131409.13.
+DR   Ensembl; ENST00000652263.1; ENSP00000498662.1; ENSG00000131409.13.
+DR   GeneID; 94030; -.
+DR   KEGG; hsa:94030; -.
+DR   MANE-Select; ENST00000652263.1; ENSP00000498662.1; NM_001080457.2; NP_001073926.1.
+DR   UCSC; uc002pss.4; human.
+DR   AGR; HGNC:25042; -.
+DR   CTD; 94030; -.
+DR   GeneCards; LRRC4B; -.
+DR   HGNC; HGNC:25042; LRRC4B.
+DR   HPA; ENSG00000131409; Tissue enhanced (brain, cervix, pituitary gland).
+DR   neXtProt; NX_Q9NT99; -.
+DR   OpenTargets; ENSG00000131409; -.
+DR   PharmGKB; PA134890612; -.
+DR   VEuPathDB; HostDB:ENSG00000131409; -.
+DR   eggNOG; KOG0619; Eukaryota.
+DR   GeneTree; ENSGT00940000160261; -.
+DR   HOGENOM; CLU_000288_18_24_1; -.
+DR   InParanoid; Q9NT99; -.
+DR   OMA; HYNNNTT; -.
+DR   OrthoDB; 4239630at2759; -.
+DR   PhylomeDB; Q9NT99; -.
+DR   TreeFam; TF324303; -.
+DR   PathwayCommons; Q9NT99; -.
+DR   Reactome; R-HSA-388844; Receptor-type tyrosine-protein phosphatases.
+DR   SignaLink; Q9NT99; -.
+DR   SIGNOR; Q9NT99; -.
+DR   BioGRID-ORCS; 94030; 12 hits in 1149 CRISPR screens.
+DR   ChiTaRS; LRRC4B; human.
+DR   GenomeRNAi; 94030; -.
+DR   Pharos; Q9NT99; Tbio.
+DR   PRO; PR:Q9NT99; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q9NT99; protein.
+DR   Bgee; ENSG00000131409; Expressed in cortical plate and 103 other tissues.
+DR   ExpressionAtlas; Q9NT99; baseline and differential.
+DR   Genevisible; Q9NT99; HS.
+DR   GO; GO:0044300; C:cerebellar mossy fiber; IEA:Ensembl.
+DR   GO; GO:0098978; C:glutamatergic synapse; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0098839; C:postsynaptic density membrane; IEA:Ensembl.
+DR   GO; GO:0042734; C:presynaptic membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005102; F:signaling receptor binding; IBA:GO_Central.
+DR   GO; GO:0051965; P:positive regulation of synapse assembly; ISS:BHF-UCL.
+DR   GO; GO:0099151; P:regulation of postsynaptic density assembly; IBA:GO_Central.
+DR   GO; GO:1905606; P:regulation of presynapse assembly; IBA:GO_Central.
+DR   GO; GO:0099560; P:synaptic membrane adhesion; IBA:GO_Central.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 1.
+DR   InterPro; IPR000483; Cys-rich_flank_reg_C.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR013098; Ig_I-set.
+DR   InterPro; IPR003599; Ig_sub.
+DR   InterPro; IPR003598; Ig_sub2.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   InterPro; IPR000372; LRRNT.
+DR   PANTHER; PTHR24369; ANTIGEN BSP, PUTATIVE-RELATED; 1.
+DR   PANTHER; PTHR24369:SF102; LEUCINE-RICH REPEAT-CONTAINING PROTEIN 4B; 1.
+DR   Pfam; PF07679; I-set; 1.
+DR   Pfam; PF13855; LRR_8; 4.
+DR   SMART; SM00409; IG; 1.
+DR   SMART; SM00408; IGc2; 1.
+DR   SMART; SM00369; LRR_TYP; 8.
+DR   SMART; SM00082; LRRCT; 1.
+DR   SMART; SM00013; LRRNT; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF52058; L domain-like; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS51450; LRR; 7.
+PE   2: Evidence at transcript level;
+KW   Cell membrane; Cell projection; Disulfide bond; Glycoprotein;
+KW   Immunoglobulin domain; Leucine-rich repeat; Membrane; Phosphoprotein;
+KW   Reference proteome; Repeat; Signal; Synapse; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..35
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           36..713
+FT                   /note="Leucine-rich repeat-containing protein 4B"
+FT                   /id="PRO_0000231654"
+FT   TOPO_DOM        36..576
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        577..597
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        598..713
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          48..86
+FT                   /note="LRRNT"
+FT   REPEAT          87..108
+FT                   /note="LRR 1"
+FT   REPEAT          111..132
+FT                   /note="LRR 2"
+FT   REPEAT          135..156
+FT                   /note="LRR 3"
+FT   REPEAT          159..180
+FT                   /note="LRR 4"
+FT   REPEAT          183..205
+FT                   /note="LRR 5"
+FT   REPEAT          208..229
+FT                   /note="LRR 6"
+FT   REPEAT          230..251
+FT                   /note="LRR 7"
+FT   REPEAT          254..275
+FT                   /note="LRR 8"
+FT   REPEAT          278..299
+FT                   /note="LRR 9"
+FT   DOMAIN          311..363
+FT                   /note="LRRCT"
+FT   DOMAIN          364..452
+FT                   /note="Ig-like C2-type"
+FT   REGION          497..551
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          694..713
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         693
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C192"
+FT   CARBOHYD        224
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        283
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        333
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        374
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        400
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        422
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        425
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        444
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        452
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        385..436
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   CONFLICT        637..638
+FT                   /note="AV -> TA (in Ref. 2; AAH56207)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   713 AA;  76434 MW;  085B5CACE28038D9 CRC64;
+     MARARGSPCP PLPPGRMSWP HGALLFLWLF SPPLGAGGGG VAVTSAAGGG SPPATSCPVA
+     CSCSNQASRV ICTRRDLAEV PASIPVNTRY LNLQENGIQV IRTDTFKHLR HLEILQLSKN
+     LVRKIEVGAF NGLPSLNTLE LFDNRLTTVP TQAFEYLSKL RELWLRNNPI ESIPSYAFNR
+     VPSLRRLDLG ELKRLEYISE AAFEGLVNLR YLNLGMCNLK DIPNLTALVR LEELELSGNR
+     LDLIRPGSFQ GLTSLRKLWL MHAQVATIER NAFDDLKSLE ELNLSHNNLM SLPHDLFTPL
+     HRLERVHLNH NPWHCNCDVL WLSWWLKETV PSNTTCCARC HAPAGLKGRY IGELDQSHFT
+     CYAPVIVEPP TDLNVTEGMA AELKCRTGTS MTSVNWLTPN GTLMTHGSYR VRISVLHDGT
+     LNFTNVTVQD TGQYTCMVTN SAGNTTASAT LNVSAVDPVA AGGTGSGGGG PGGSGGVGGG
+     SGGYTYFTTV TVETLETQPG EEALQPRGTE KEPPGPTTDG VWGGGRPGDA AGPASSSTTA
+     PAPRSSRPTE KAFTVPITDV TENALKDLDD VMKTTKIIIG CFVAITFMAA VMLVAFYKLR
+     KQHQLHKHHG PTRTVEIINV EDELPAASAV SVAAAAAVAS GGGVGGDSHL ALPALERDHL
+     NHHHYVAAAF KAHYSSNPSG GGCGGKGPPG LNSIHEPLLF KSGSKENVQE TQI
+//

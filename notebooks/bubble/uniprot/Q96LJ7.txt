@@ -1,0 +1,421 @@
+ID   DHRS1_HUMAN             Reviewed;         313 AA.
+AC   Q96LJ7; D3DS71; Q8NDG3; Q96B59; Q96CQ5;
+DT   10-OCT-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   28-JUN-2023, entry version 165.
+DE   RecName: Full=Dehydrogenase/reductase SDR family member 1 {ECO:0000303|PubMed:12153138};
+DE            EC=1.1.1.- {ECO:0000269|PubMed:30031147};
+DE   AltName: Full=Short chain dehydrogenase/reductase family 19C member 1 {ECO:0000303|PubMed:19027726};
+DE            Short=Protein SDR19C1 {ECO:0000303|PubMed:19027726};
+GN   Name=DHRS1 {ECO:0000312|HGNC:HGNC:16445}; Synonyms=SDR19C1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Fetal brain;
+RX   PubMed=12153138; DOI=10.1023/a:1015722001960;
+RA   Wu Q., Xu M., Cheng C., Zhou Z., Huang Y., Zhao W., Zeng L., Xu J., Fu X.,
+RA   Ying K., Xie Y., Mao Y.;
+RT   "Molecular cloning and characterization of a novel dehydrogenase/reductase
+RT   (SDR family) member 1 gene from human fetal brain.";
+RL   Mol. Biol. Rep. 28:193-198(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Fetal brain;
+RA   Li W.B., Gruber C., Jessee J., Polayes D.;
+RT   "Full-length cDNA libraries and normalization.";
+RL   Submitted (FEB-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Pancreas, and Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   GENE FAMILY, AND NOMENCLATURE.
+RX   PubMed=19027726; DOI=10.1016/j.cbi.2008.10.040;
+RA   Persson B., Kallberg Y., Bray J.E., Bruford E., Dellaporta S.L.,
+RA   Favia A.D., Duarte R.G., Joernvall H., Kavanagh K.L., Kedishvili N.,
+RA   Kisiela M., Maser E., Mindnich R., Orchard S., Penning T.M., Thornton J.M.,
+RA   Adamski J., Oppermann U.;
+RT   "The SDR (short-chain dehydrogenase/reductase and related enzymes)
+RT   nomenclature initiative.";
+RL   Chem. Biol. Interact. 178:94-98(2009).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [9]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [11]
+RP   FUNCTION, CATALYTIC ACTIVITY, SUBCELLULAR LOCATION, AND REGION.
+RX   PubMed=30031147; DOI=10.1016/j.jsbmb.2018.07.013;
+RA   Zemanova L., Navratilova H., Andrys R., Sperkova K., Andrejs J.,
+RA   Kozakova K., Meier M., Moeller G., Novotna E., Safr M., Adamski J.,
+RA   Wsol V.;
+RT   "Initial characterization of human DHRS1 (SDR19C1), a member of the short-
+RT   chain dehydrogenase/reductase superfamily.";
+RL   J. Steroid Biochem. Mol. Biol. 185:80-89(2019).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 3-262.
+RG   Structural genomics consortium (SGC);
+RT   "Crystal structure of human SDR family member 1.";
+RL   Submitted (AUG-2007) to the PDB data bank.
+CC   -!- FUNCTION: NADPH-dependent oxidoreductase which catalyzes the reduction
+CC       of steroids (estrone, androstene-3,17-dione and cortisone) as well as
+CC       prostaglandin E1, isatin and xenobiotics in vitro (PubMed:30031147).
+CC       May have a role in steroid and/or xenobiotic metabolism
+CC       (PubMed:30031147). {ECO:0000269|PubMed:30031147}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=17alpha-estradiol + NADP(+) = estrone + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:16705, ChEBI:CHEBI:15378, ChEBI:CHEBI:17160,
+CC         ChEBI:CHEBI:17263, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         Evidence={ECO:0000305|PubMed:30031147};
+CC       PhysiologicalDirection=right-to-left; Xref=Rhea:RHEA:16707;
+CC         Evidence={ECO:0000305|PubMed:30031147};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=NADP(+) + testosterone = androst-4-ene-3,17-dione + H(+) +
+CC         NADPH; Xref=Rhea:RHEA:14981, ChEBI:CHEBI:15378, ChEBI:CHEBI:16422,
+CC         ChEBI:CHEBI:17347, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         Evidence={ECO:0000305|PubMed:30031147};
+CC       PhysiologicalDirection=right-to-left; Xref=Rhea:RHEA:14983;
+CC         Evidence={ECO:0000305|PubMed:30031147};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H(+) + NADPH + prostaglandin E1 = NADP(+) + prostaglandin F1;
+CC         Xref=Rhea:RHEA:68612, ChEBI:CHEBI:15378, ChEBI:CHEBI:57397,
+CC         ChEBI:CHEBI:57783, ChEBI:CHEBI:58349, ChEBI:CHEBI:178049;
+CC         Evidence={ECO:0000305|PubMed:30031147};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:68613;
+CC         Evidence={ECO:0000305|PubMed:30031147};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H(+) + isatin + NADPH = 3-hydroxyindolin-2-one + NADP(+);
+CC         Xref=Rhea:RHEA:68608, ChEBI:CHEBI:15378, ChEBI:CHEBI:27539,
+CC         ChEBI:CHEBI:28536, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         Evidence={ECO:0000269|PubMed:30031147};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:68609;
+CC         Evidence={ECO:0000305|PubMed:30031147};
+CC   -!- INTERACTION:
+CC       Q96LJ7; Q12982: BNIP2; NbExp=3; IntAct=EBI-746300, EBI-752094;
+CC       Q96LJ7; Q9NR28: DIABLO; NbExp=3; IntAct=EBI-746300, EBI-517508;
+CC       Q96LJ7; O76011: KRT34; NbExp=3; IntAct=EBI-746300, EBI-1047093;
+CC       Q96LJ7; Q07627: KRTAP1-1; NbExp=3; IntAct=EBI-746300, EBI-11959885;
+CC       Q96LJ7; Q8IUG1: KRTAP1-3; NbExp=3; IntAct=EBI-746300, EBI-11749135;
+CC       Q96LJ7; P60410: KRTAP10-8; NbExp=8; IntAct=EBI-746300, EBI-10171774;
+CC       Q96LJ7; P60411: KRTAP10-9; NbExp=3; IntAct=EBI-746300, EBI-10172052;
+CC       Q96LJ7; Q8IUC1: KRTAP11-1; NbExp=3; IntAct=EBI-746300, EBI-1052037;
+CC       Q96LJ7; P59990: KRTAP12-1; NbExp=3; IntAct=EBI-746300, EBI-10210845;
+CC       Q96LJ7; P59991: KRTAP12-2; NbExp=3; IntAct=EBI-746300, EBI-10176379;
+CC       Q96LJ7; P60328: KRTAP12-3; NbExp=3; IntAct=EBI-746300, EBI-11953334;
+CC       Q96LJ7; Q9BYR7: KRTAP3-2; NbExp=3; IntAct=EBI-746300, EBI-751260;
+CC       Q96LJ7; Q9BYQ7: KRTAP4-1; NbExp=3; IntAct=EBI-746300, EBI-34579671;
+CC       Q96LJ7; Q9BYQ6: KRTAP4-11; NbExp=3; IntAct=EBI-746300, EBI-10302392;
+CC       Q96LJ7; Q6L8H4: KRTAP5-1; NbExp=3; IntAct=EBI-746300, EBI-12074540;
+CC       Q96LJ7; Q701N4: KRTAP5-2; NbExp=3; IntAct=EBI-746300, EBI-11958178;
+CC       Q96LJ7; P26371: KRTAP5-9; NbExp=3; IntAct=EBI-746300, EBI-3958099;
+CC       Q96LJ7; Q3LI66: KRTAP6-2; NbExp=3; IntAct=EBI-746300, EBI-11962084;
+CC       Q96LJ7; Q9BYQ0: KRTAP9-8; NbExp=3; IntAct=EBI-746300, EBI-11958364;
+CC       Q96LJ7; P13473-2: LAMP2; NbExp=3; IntAct=EBI-746300, EBI-21591415;
+CC       Q96LJ7; O14633: LCE2B; NbExp=3; IntAct=EBI-746300, EBI-11478468;
+CC       Q96LJ7; Q969G2: LHX4; NbExp=3; IntAct=EBI-746300, EBI-2865388;
+CC       Q96LJ7; Q99750: MDFI; NbExp=4; IntAct=EBI-746300, EBI-724076;
+CC       Q96LJ7; Q5JR59-3: MTUS2; NbExp=3; IntAct=EBI-746300, EBI-11522433;
+CC       Q96LJ7; Q7Z3S9: NOTCH2NLA; NbExp=3; IntAct=EBI-746300, EBI-945833;
+CC       Q96LJ7; P0DPK4: NOTCH2NLC; NbExp=3; IntAct=EBI-746300, EBI-22310682;
+CC       Q96LJ7; O75400-2: PRPF40A; NbExp=3; IntAct=EBI-746300, EBI-5280197;
+CC       Q96LJ7; Q9Y371: SH3GLB1; NbExp=3; IntAct=EBI-746300, EBI-2623095;
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum
+CC       {ECO:0000269|PubMed:30031147}. Note=May be attached to the ER membrane
+CC       by its C-terminus segment. {ECO:0000269|PubMed:30031147}.
+CC   -!- TISSUE SPECIFICITY: Detected in heart, liver, adrenal glands, and at
+CC       low levels in skeletal muscle, kidney, pancreas and brain.
+CC       {ECO:0000269|PubMed:12153138, ECO:0000269|PubMed:30031147}.
+CC   -!- DOMAIN: May be attached to the ER membrane by its C-terminus segment.
+CC       {ECO:0000269|PubMed:30031147}.
+CC   -!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases (SDR)
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF418205; AAN32660.1; -; mRNA.
+DR   EMBL; BX247980; CAD62314.1; -; mRNA.
+DR   EMBL; AK058159; BAB71694.1; -; mRNA.
+DR   EMBL; AL833917; CAD38773.1; -; mRNA.
+DR   EMBL; CH471078; EAW66036.1; -; Genomic_DNA.
+DR   EMBL; CH471078; EAW66037.1; -; Genomic_DNA.
+DR   EMBL; CH471078; EAW66040.1; -; Genomic_DNA.
+DR   EMBL; BC014057; AAH14057.1; -; mRNA.
+DR   EMBL; BC015943; AAH15943.1; -; mRNA.
+DR   CCDS; CCDS9623.1; -.
+DR   RefSeq; NP_001129522.1; NM_001136050.2.
+DR   RefSeq; NP_612461.1; NM_138452.2.
+DR   PDB; 2QQ5; X-ray; 1.80 A; A=3-262.
+DR   PDBsum; 2QQ5; -.
+DR   AlphaFoldDB; Q96LJ7; -.
+DR   SMR; Q96LJ7; -.
+DR   BioGRID; 125457; 53.
+DR   IntAct; Q96LJ7; 30.
+DR   MINT; Q96LJ7; -.
+DR   STRING; 9606.ENSP00000288111; -.
+DR   iPTMnet; Q96LJ7; -.
+DR   PhosphoSitePlus; Q96LJ7; -.
+DR   SwissPalm; Q96LJ7; -.
+DR   BioMuta; DHRS1; -.
+DR   DMDM; 37999854; -.
+DR   EPD; Q96LJ7; -.
+DR   jPOST; Q96LJ7; -.
+DR   MassIVE; Q96LJ7; -.
+DR   MaxQB; Q96LJ7; -.
+DR   PaxDb; Q96LJ7; -.
+DR   PeptideAtlas; Q96LJ7; -.
+DR   ProteomicsDB; 77214; -.
+DR   Antibodypedia; 23; 172 antibodies from 28 providers.
+DR   DNASU; 115817; -.
+DR   Ensembl; ENST00000288111.12; ENSP00000288111.7; ENSG00000157379.14.
+DR   Ensembl; ENST00000396813.5; ENSP00000380027.1; ENSG00000157379.14.
+DR   Ensembl; ENST00000644514.2; ENSP00000496132.1; ENSG00000284868.2.
+DR   Ensembl; ENST00000647514.1; ENSP00000493735.1; ENSG00000284868.2.
+DR   GeneID; 115817; -.
+DR   KEGG; hsa:115817; -.
+DR   MANE-Select; ENST00000288111.12; ENSP00000288111.7; NM_001136050.3; NP_001129522.1.
+DR   UCSC; uc001woj.3; human.
+DR   AGR; HGNC:16445; -.
+DR   CTD; 115817; -.
+DR   DisGeNET; 115817; -.
+DR   GeneCards; DHRS1; -.
+DR   HGNC; HGNC:16445; DHRS1.
+DR   HPA; ENSG00000157379; Tissue enhanced (esophagus, liver).
+DR   MIM; 610410; gene.
+DR   neXtProt; NX_Q96LJ7; -.
+DR   OpenTargets; ENSG00000157379; -.
+DR   PharmGKB; PA134914102; -.
+DR   VEuPathDB; HostDB:ENSG00000157379; -.
+DR   eggNOG; KOG0725; Eukaryota.
+DR   GeneTree; ENSGT00940000157797; -.
+DR   HOGENOM; CLU_010194_14_1_1; -.
+DR   InParanoid; Q96LJ7; -.
+DR   OMA; IDTHLIT; -.
+DR   OrthoDB; 275993at2759; -.
+DR   PhylomeDB; Q96LJ7; -.
+DR   TreeFam; TF314146; -.
+DR   PathwayCommons; Q96LJ7; -.
+DR   SignaLink; Q96LJ7; -.
+DR   BioGRID-ORCS; 115817; 6 hits in 1157 CRISPR screens.
+DR   ChiTaRS; DHRS1; human.
+DR   EvolutionaryTrace; Q96LJ7; -.
+DR   GeneWiki; DHRS1; -.
+DR   GenomeRNAi; 115817; -.
+DR   Pharos; Q96LJ7; Tdark.
+DR   PRO; PR:Q96LJ7; -.
+DR   Proteomes; UP000005640; Chromosome 14.
+DR   RNAct; Q96LJ7; protein.
+DR   Bgee; ENSG00000157379; Expressed in lower esophagus mucosa and 93 other tissues.
+DR   ExpressionAtlas; Q96LJ7; baseline and differential.
+DR   Genevisible; Q96LJ7; HS.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:LIFEdb.
+DR   GO; GO:0004090; F:carbonyl reductase (NADPH) activity; IDA:UniProtKB.
+DR   GO; GO:0016616; F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor; IDA:UniProtKB.
+DR   GO; GO:0047045; F:testosterone 17-beta-dehydrogenase (NADP+) activity; IEA:RHEA.
+DR   CDD; cd09763; DHRS1-like_SDR_c; 1.
+DR   Gene3D; 3.40.50.720; NAD(P)-binding Rossmann-like Domain; 1.
+DR   InterPro; IPR036291; NAD(P)-bd_dom_sf.
+DR   InterPro; IPR002347; SDR_fam.
+DR   PANTHER; PTHR44147; DEHYDROGENASE/REDUCTASE SDR FAMILY MEMBER 1; 1.
+DR   PANTHER; PTHR44147:SF2; DEHYDROGENASE/REDUCTASE SDR FAMILY MEMBER 1; 1.
+DR   Pfam; PF00106; adh_short; 1.
+DR   PRINTS; PR00081; GDHRDH.
+DR   SUPFAM; SSF51735; NAD(P)-binding Rossmann-fold domains; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Endoplasmic reticulum; Methylation; NAD;
+KW   Oxidoreductase; Reference proteome.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   CHAIN           2..313
+FT                   /note="Dehydrogenase/reductase SDR family member 1"
+FT                   /id="PRO_0000054640"
+FT   REGION          235..313
+FT                   /note="Required for ER localization"
+FT                   /evidence="ECO:0000269|PubMed:30031147"
+FT   ACT_SITE        163
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99714"
+FT   BINDING         19
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99714"
+FT   BINDING         64
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99714"
+FT   BINDING         151
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99714"
+FT   BINDING         163
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99714"
+FT   BINDING         167
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99714"
+FT   BINDING         198
+FT                   /ligand="NAD(+)"
+FT                   /ligand_id="ChEBI:CHEBI:57540"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99714"
+FT   MOD_RES         2
+FT                   /note="N-acetylalanine"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   MOD_RES         21
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q99L04"
+FT   VARIANT         241
+FT                   /note="T -> I (in dbSNP:rs10134537)"
+FT                   /id="VAR_052318"
+FT   CONFLICT        9
+FT                   /note="V -> A (in Ref. 6; AAH15943)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        162
+FT                   /note="P -> L (in Ref. 6; AAH14057)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        303
+FT                   /note="K -> R (in Ref. 2; CAD38773)"
+FT                   /evidence="ECO:0000305"
+FT   TURN            4..7
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   STRAND          9..14
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           18..29
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   STRAND          33..39
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           41..54
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   STRAND          55..62
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           68..82
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   STRAND          88..91
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           97..102
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   TURN            103..105
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   TURN            108..110
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           115..120
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   TURN            121..124
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           125..138
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           139..141
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   STRAND          145..149
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           152..154
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           161..181
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           182..184
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   STRAND          187..192
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   TURN            198..200
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           225..240
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           245..248
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   STRAND          252..254
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+FT   HELIX           255..261
+FT                   /evidence="ECO:0007829|PDB:2QQ5"
+SQ   SEQUENCE   313 AA;  33909 MW;  832F83FA75D931A3 CRC64;
+     MAAPMNGQVC VVTGASRGIG RGIALQLCKA GATVYITGRH LDTLRVVAQE AQSLGGQCVP
+     VVCDSSQESE VRSLFEQVDR EQQGRLDVLV NNAYAGVQTI LNTRNKAFWE TPASMWDDIN
+     NVGLRGHYFC SVYGARLMVP AGQGLIVVIS SPGSLQYMFN VPYGVGKAAC DKLAADCAHE
+     LRRHGVSCVS LWPGIVQTEL LKEHMAKEEV LQDPVLKQFK SAFSSAETTE LSGKCVVALA
+     TDPNILSLSG KVLPSCDLAR RYGLRDVDGR PVQDYLSLSS VLSHVSGLGW LASYLPSFLR
+     VPKWIIALYT SKF
+//

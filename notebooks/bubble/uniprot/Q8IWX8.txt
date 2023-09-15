@@ -1,0 +1,472 @@
+ID   CHERP_HUMAN             Reviewed;         916 AA.
+AC   Q8IWX8; O00302; Q4G0Y5; Q8WU30; Q99492;
+DT   11-SEP-2007, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 3.
+DT   28-JUN-2023, entry version 160.
+DE   RecName: Full=Calcium homeostasis endoplasmic reticulum protein;
+DE   AltName: Full=ERPROT 213-21;
+DE   AltName: Full=SR-related CTD-associated factor 6;
+GN   Name=CHERP {ECO:0000312|HGNC:HGNC:16930};
+GN   Synonyms=DAN26 {ECO:0000312|EMBL:CAA69591.1}, SCAF6
+GN   {ECO:0000312|EMBL:AAN77183.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:AAN77183.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT HIS-199.
+RA   Sampson N.D., Hewitt J.E.;
+RT   "Functional characterization of the novel SR-related CTD associated factor,
+RT   SCAF6.";
+RL   Submitted (AUG-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [3] {ECO:0000305, ECO:0000312|EMBL:AAH21294.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Uterus {ECO:0000312|EMBL:AAH21294.1};
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4] {ECO:0000305, ECO:0000312|EMBL:CAA69591.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-607.
+RC   TISSUE=Lymphoblast {ECO:0000312|EMBL:CAA69591.1};
+RX   PubMed=8896557; DOI=10.1038/ng1196-285;
+RA   Imbert G., Saudou F., Yvert G., Devys D., Trottier Y., Garnier J.-M.,
+RA   Weber C., Mandel J.-L., Cancel G., Abbas N., Duerr A., Didierjean O.,
+RA   Stevanin G., Agid Y., Brice A.;
+RT   "Cloning of the gene for spinocerebellar ataxia 2 reveals a locus with high
+RT   sensitivity to expanded CAG/glutamine repeats.";
+RL   Nat. Genet. 14:285-291(1996).
+RN   [5] {ECO:0000305, ECO:0000312|EMBL:AAB53327.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 9-916, FUNCTION, SUBCELLULAR LOCATION, TISSUE
+RP   SPECIFICITY, AND VARIANT HIS-199.
+RX   PubMed=10794731; DOI=10.1042/bj3480189;
+RA   LaPlante J.M., O'Rourke F., Lu X., Fein A., Olsen A., Feinstein M.B.;
+RT   "Cloning of human Ca2+ homoeostasis endoplasmic reticulum protein (CHERP):
+RT   regulated expression of antisense cDNA depletes CHERP, inhibits
+RT   intracellular Ca2+ mobilization and decreases cell proliferation.";
+RL   Biochem. J. 348:189-199(2000).
+RN   [6] {ECO:0000305}
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=8010949; DOI=10.1042/bj3000673;
+RA   O'Rourke F., Soons K., Flaumenhauft R., Watras J., Baio-Larue C.,
+RA   Matthews E., Feinstein M.B.;
+RT   "Ca2+ release by inositol 1,4,5-trisphosphate is blocked by the K(+)-
+RT   channel blockers apamin and tetrapentylammonium ion, and a monoclonal
+RT   antibody to a 63 kDa membrane protein: reversal of blockade by K+
+RT   ionophores nigericin and valinomycin and purification of the 63 kDa
+RT   antibody-binding protein.";
+RL   Biochem. J. 300:673-683(1994).
+RN   [7] {ECO:0000305}
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=12656674; DOI=10.1042/bj20030013;
+RA   O'Rourke F.A., LaPlante J.M., Feinstein M.B.;
+RT   "Antisense-mediated loss of calcium homoeostasis endoplasmic reticulum
+RT   protein (CHERP; ERPROT213-21) impairs Ca2+ mobilization, nuclear factor of
+RT   activated T-cells (NFAT) activation and cell proliferation in Jurkat T-
+RT   lymphocytes.";
+RL   Biochem. J. 373:133-143(2003).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-813; SER-815; SER-817;
+RP   THR-819; SER-828 AND SER-904, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-815 AND SER-817, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [12]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-18 AND LYS-879, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-813; SER-815; SER-817 AND
+RP   THR-819, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [15]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-813; SER-815; SER-817;
+RP   THR-819; SER-855 AND SER-857, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [17]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-844 AND LYS-872, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: Involved in calcium homeostasis, growth and proliferation.
+CC       {ECO:0000269|PubMed:10794731, ECO:0000269|PubMed:12656674}.
+CC   -!- INTERACTION:
+CC       Q8IWX8; Q6UY14-3: ADAMTSL4; NbExp=3; IntAct=EBI-2555370, EBI-10173507;
+CC       Q8IWX8; Q6P1W5: C1orf94; NbExp=3; IntAct=EBI-2555370, EBI-946029;
+CC       Q8IWX8; P49761: CLK3; NbExp=3; IntAct=EBI-2555370, EBI-745579;
+CC       Q8IWX8; Q14562: DHX8; NbExp=2; IntAct=EBI-2555370, EBI-2511477;
+CC       Q8IWX8; Q14296: FASTK; NbExp=3; IntAct=EBI-2555370, EBI-1754067;
+CC       Q8IWX8; Q5HY92: FIGN; NbExp=3; IntAct=EBI-2555370, EBI-12297985;
+CC       Q8IWX8; Q70Z53: FRA10AC1; NbExp=2; IntAct=EBI-2555370, EBI-710176;
+CC       Q8IWX8; Q8IUC1: KRTAP11-1; NbExp=3; IntAct=EBI-2555370, EBI-1052037;
+CC       Q8IWX8; Q14847-2: LASP1; NbExp=3; IntAct=EBI-2555370, EBI-9088686;
+CC       Q8IWX8; Q9NQ29: LUC7L; NbExp=2; IntAct=EBI-2555370, EBI-473747;
+CC       Q8IWX8; Q9Y5V3: MAGED1; NbExp=3; IntAct=EBI-2555370, EBI-716006;
+CC       Q8IWX8; O43251-10: RBFOX2; NbExp=3; IntAct=EBI-2555370, EBI-11963050;
+CC       Q8IWX8; Q8IYX7: SAXO1; NbExp=3; IntAct=EBI-2555370, EBI-3957636;
+CC       Q8IWX8; Q15637: SF1; NbExp=6; IntAct=EBI-2555370, EBI-744603;
+CC       Q8IWX8; Q8WVK2: SNRNP27; NbExp=2; IntAct=EBI-2555370, EBI-2512550;
+CC       Q8IWX8; O60504: SORBS3; NbExp=3; IntAct=EBI-2555370, EBI-741237;
+CC       Q8IWX8; Q04726-4: TLE3; NbExp=3; IntAct=EBI-2555370, EBI-12014388;
+CC       Q8IWX8; P26368: U2AF2; NbExp=2; IntAct=EBI-2555370, EBI-742339;
+CC       Q8IWX8; Q70EL1-9: USP54; NbExp=3; IntAct=EBI-2555370, EBI-11975223;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:10794731,
+CC       ECO:0000269|PubMed:12656674, ECO:0000269|PubMed:8010949}. Cytoplasm,
+CC       perinuclear region {ECO:0000269|PubMed:10794731,
+CC       ECO:0000269|PubMed:12656674, ECO:0000269|PubMed:8010949}. Endoplasmic
+CC       reticulum {ECO:0000269|PubMed:10794731, ECO:0000269|PubMed:12656674,
+CC       ECO:0000269|PubMed:8010949}. Note=Distributed throughout the cytoplasm
+CC       and also localizes to the perinuclear region of both human
+CC       erythroleukemia (HEL) cells and Jurkat cells. Colocalizes with ITPR1.
+CC       {ECO:0000269|PubMed:10794731, ECO:0000269|PubMed:12656674,
+CC       ECO:0000269|PubMed:8010949}.
+CC   -!- TISSUE SPECIFICITY: Expressed in brain, placenta, lung, liver, kidney,
+CC       pancreas, cardiac and skeletal muscle, and in cultured HEL and Dami
+CC       cells. {ECO:0000269|PubMed:10794731}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAB53327.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAH21294.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAA69591.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAA69591.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF536542; AAN77183.1; -; mRNA.
+DR   EMBL; AC008764; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC021294; AAH21294.1; ALT_INIT; mRNA.
+DR   EMBL; Y08265; CAA69591.1; ALT_SEQ; mRNA.
+DR   EMBL; U94836; AAB53327.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS42518.1; -.
+DR   RefSeq; NP_006378.3; NM_006387.5.
+DR   AlphaFoldDB; Q8IWX8; -.
+DR   SMR; Q8IWX8; -.
+DR   BioGRID; 115778; 277.
+DR   CORUM; Q8IWX8; -.
+DR   IntAct; Q8IWX8; 86.
+DR   MINT; Q8IWX8; -.
+DR   STRING; 9606.ENSP00000439856; -.
+DR   MoonDB; Q8IWX8; Predicted.
+DR   GlyGen; Q8IWX8; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q8IWX8; -.
+DR   MetOSite; Q8IWX8; -.
+DR   PhosphoSitePlus; Q8IWX8; -.
+DR   SwissPalm; Q8IWX8; -.
+DR   BioMuta; CHERP; -.
+DR   DMDM; 296439404; -.
+DR   EPD; Q8IWX8; -.
+DR   jPOST; Q8IWX8; -.
+DR   MassIVE; Q8IWX8; -.
+DR   MaxQB; Q8IWX8; -.
+DR   PaxDb; Q8IWX8; -.
+DR   PeptideAtlas; Q8IWX8; -.
+DR   ProteomicsDB; 70925; -.
+DR   Antibodypedia; 27406; 249 antibodies from 30 providers.
+DR   DNASU; 10523; -.
+DR   Ensembl; ENST00000546361.7; ENSP00000439856.2; ENSG00000085872.15.
+DR   GeneID; 10523; -.
+DR   KEGG; hsa:10523; -.
+DR   MANE-Select; ENST00000546361.7; ENSP00000439856.2; NM_006387.6; NP_006378.3.
+DR   UCSC; uc002nei.2; human.
+DR   AGR; HGNC:16930; -.
+DR   CTD; 10523; -.
+DR   DisGeNET; 10523; -.
+DR   GeneCards; CHERP; -.
+DR   HGNC; HGNC:16930; CHERP.
+DR   HPA; ENSG00000085872; Low tissue specificity.
+DR   MIM; 618539; gene.
+DR   neXtProt; NX_Q8IWX8; -.
+DR   OpenTargets; ENSG00000085872; -.
+DR   PharmGKB; PA26459; -.
+DR   VEuPathDB; HostDB:ENSG00000085872; -.
+DR   eggNOG; KOG4368; Eukaryota.
+DR   GeneTree; ENSGT00730000111147; -.
+DR   HOGENOM; CLU_009446_0_0_1; -.
+DR   InParanoid; Q8IWX8; -.
+DR   OMA; QNTHHDI; -.
+DR   OrthoDB; 1220847at2759; -.
+DR   PhylomeDB; Q8IWX8; -.
+DR   TreeFam; TF318512; -.
+DR   PathwayCommons; Q8IWX8; -.
+DR   Reactome; R-HSA-72163; mRNA Splicing - Major Pathway.
+DR   SignaLink; Q8IWX8; -.
+DR   BioGRID-ORCS; 10523; 783 hits in 1162 CRISPR screens.
+DR   ChiTaRS; CHERP; human.
+DR   GenomeRNAi; 10523; -.
+DR   Pharos; Q8IWX8; Tbio.
+DR   PRO; PR:Q8IWX8; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q8IWX8; protein.
+DR   Bgee; ENSG00000085872; Expressed in secondary oocyte and 198 other tissues.
+DR   ExpressionAtlas; Q8IWX8; baseline and differential.
+DR   Genevisible; Q8IWX8; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0033017; C:sarcoplasmic reticulum membrane; ISS:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0044325; F:transmembrane transporter binding; IPI:UniProtKB.
+DR   GO; GO:0006874; P:intracellular calcium ion homeostasis; IDA:MGI.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; IDA:MGI.
+DR   GO; GO:0007399; P:nervous system development; TAS:ProtInc.
+DR   GO; GO:0070886; P:positive regulation of calcineurin-NFAT signaling cascade; IMP:UniProtKB.
+DR   GO; GO:0051209; P:release of sequestered calcium ion into cytosol; IMP:UniProtKB.
+DR   GO; GO:0006396; P:RNA processing; IEA:InterPro.
+DR   Gene3D; 1.25.40.90; -; 1.
+DR   Gene3D; 1.10.10.790; Surp module; 1.
+DR   InterPro; IPR039037; CHERP.
+DR   InterPro; IPR006569; CID_dom.
+DR   InterPro; IPR008942; ENTH_VHS.
+DR   InterPro; IPR000467; G_patch_dom.
+DR   InterPro; IPR000061; Surp.
+DR   InterPro; IPR035967; SWAP/Surp_sf.
+DR   PANTHER; PTHR12323:SF0; CALCIUM HOMEOSTASIS ENDOPLASMIC RETICULUM PROTEIN; 1.
+DR   PANTHER; PTHR12323; SR-RELATED CTD ASSOCIATED FACTOR 6; 1.
+DR   Pfam; PF04818; CID; 1.
+DR   Pfam; PF01585; G-patch; 1.
+DR   Pfam; PF01805; Surp; 1.
+DR   SMART; SM00443; G_patch; 1.
+DR   SMART; SM00648; SWAP; 1.
+DR   SUPFAM; SSF48464; ENTH/VHS domain; 1.
+DR   SUPFAM; SSF109905; Surp module (SWAP domain); 1.
+DR   PROSITE; PS51391; CID; 1.
+DR   PROSITE; PS50174; G_PATCH; 1.
+DR   PROSITE; PS50128; SURP; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Cytoplasm; Endoplasmic reticulum; Isopeptide bond;
+KW   Phosphoprotein; Reference proteome; Ubl conjugation.
+FT   CHAIN           1..916
+FT                   /note="Calcium homeostasis endoplasmic reticulum protein"
+FT                   /id="PRO_0000299492"
+FT   REPEAT          15..57
+FT                   /note="SURP motif"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          149..289
+FT                   /note="CID"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00724"
+FT   DOMAIN          841..891
+FT                   /note="G-patch"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00092"
+FT   REGION          336..549
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          601..635
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          722..878
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        351..379
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        409..450
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        476..504
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        518..535
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        601..621
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        750..772
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        773..816
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:19413330,
+FT                   ECO:0007744|PubMed:22814378"
+FT   MOD_RES         18
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         714
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8CGZ0"
+FT   MOD_RES         813
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         815
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         817
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         819
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         828
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         855
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         857
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         879
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         904
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   CROSSLNK        844
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        872
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         199
+FT                   /note="N -> H (in dbSNP:rs1043448)"
+FT                   /evidence="ECO:0000269|PubMed:10794731, ECO:0000269|Ref.1"
+FT                   /id="VAR_034833"
+FT   CONFLICT        99
+FT                   /note="A -> D (in Ref. 4; CAA69591)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        175
+FT                   /note="A -> G (in Ref. 4; CAA69591)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        185
+FT                   /note="K -> T (in Ref. 4; CAA69591)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        189
+FT                   /note="H -> Y (in Ref. 4; CAA69591)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        203
+FT                   /note="A -> V (in Ref. 4; CAA69591)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        418
+FT                   /note="K -> N (in Ref. 4; CAA69591)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        490
+FT                   /note="S -> N (in Ref. 4; CAA69591)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        776
+FT                   /note="Y -> S (in Ref. 1; AAN77183)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        778
+FT                   /note="R -> C (in Ref. 1; AAN77183)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   916 AA;  103702 MW;  0C5D56F4DE4C5B9B CRC64;
+     MEMPLPPDDQ ELRNVIDKLA QFVARNGPEF EKMTMEKQKD NPKFSFLFGG EFYSYYKCKL
+     ALEQQQLICK QQTPELEPAA TMPPLPQPPL APAAPIPPAQ GAPSMDELIQ QSQWNLQQQE
+     QHLLALRQEQ VTAAVAHAVE QQMQKLLEET QLDMNEFDNL LQPIIDTCTK DAISAGKNWM
+     FSNAKSPPHC ELMAGHLRNR ITADGAHFEL RLHLIYLIND VLHHCQRKQA RELLAALQKV
+     VVPIYCTSFL AVEEDKQQKI ARLLQLWEKN GYFDDSIIQQ LQSPALGLGQ YQATLINEYS
+     SVVQPVQLAF QQQIQTLKTQ HEEFVTSLAQ QQQQQQQQQQ QLQMPQMEAE VKATPPPPAP
+     PPAPAPAPAI PPTTQPDDSK PPIQMPGSSE YEAPGGVQDP AAAGPRGPGP HDQIPPNKPP
+     WFDQPHPVAP WGQQQPPEQP PYPHHQGGPP HCPPWNNSHE GMWGEQRGDP GWNGQRDAPW
+     NNQPDAAWNS QFEGPWNSQH EQPPWGGGQR EPPFRMQRPP HFRGPFPPHQ QHPQFNQPPH
+     PHNFNRFPPR FMQDDFPPRH PFERPPYPHR FDYPQGDFPA EMGPPHHHPG HRMPHPGINE
+     HPPWAGPQHP DFGPPPHGFN GQPPHMRRQG PPHINHDDPS LVPNVPYFDL PAGLMAPLVK
+     LEDHEYKPLD PKDIRLPPPM PPSERLLAAV EAFYSPPSHD RPRNSEGWEQ NGLYEFFRAK
+     MRARRRKGQE KRNSGPSRSR SRSKSRGRSS SRSNSRSSKS SGSYSRSRSR SCSRSYSRSR
+     SRSRSRSRSS RSRSRSQSRS RSKSYSPGRR RRSRSRSPTP PSSAGLGSNS APPIPDSRLG
+     EENKGHQMLV KMGWSGSGGL GAKEQGIQDP IKGGDVRDKW DQYKGVGVAL DDPYENYRRN
+     KSYSFIARMK ARDECK
+//

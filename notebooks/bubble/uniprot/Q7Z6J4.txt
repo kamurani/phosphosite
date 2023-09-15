@@ -1,0 +1,405 @@
+ID   FGD2_HUMAN              Reviewed;         655 AA.
+AC   Q7Z6J4; Q5T8I1; Q6P6A8; Q6ZNL5; Q8IZ32; Q8N868; Q9H7M2;
+DT   15-MAR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2003, sequence version 1.
+DT   28-JUN-2023, entry version 171.
+DE   RecName: Full=FYVE, RhoGEF and PH domain-containing protein 2;
+DE   AltName: Full=Zinc finger FYVE domain-containing protein 4;
+GN   Name=FGD2; Synonyms=ZFYVE4;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4).
+RC   TISSUE=Spleen;
+RX   PubMed=11214971; DOI=10.1093/dnares/7.6.357;
+RA   Hattori A., Okumura K., Nagase T., Kikuno R., Hirosawa M., Ohara O.;
+RT   "Characterization of long cDNA clones from human adult spleen.";
+RL   DNA Res. 7:357-366(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2 AND 3).
+RC   TISSUE=Spleen;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT HIS-32.
+RC   TISSUE=Leukocyte, and Lymph;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-654, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+CC   -!- FUNCTION: Activates CDC42, a member of the Ras-like family of Rho- and
+CC       Rac proteins, by exchanging bound GDP for free GTP. Activates JNK1 via
+CC       CDC42 but not RAC1. Binds to phosphatidylinositol 4,5-bisphosphate,
+CC       phosphatidylinositol 3,4,5-trisphosphate, phosphatidylinositol 5-
+CC       monophosphate, phosphatidylinositol 4-monophosphate and
+CC       phosphatidylinositol 3-monophosphate (By similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q7Z6J4; Q53G59: KLHL12; NbExp=3; IntAct=EBI-1057190, EBI-740929;
+CC       Q7Z6J4; Q58EX7: PLEKHG4; NbExp=3; IntAct=EBI-1057190, EBI-949255;
+CC       Q7Z6J4; Q9NS64: RPRM; NbExp=3; IntAct=EBI-1057190, EBI-1052363;
+CC       Q7Z6J4; Q8WW34: TMEM239; NbExp=3; IntAct=EBI-1057190, EBI-9675724;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton {ECO:0000305}. Cytoplasm
+CC       {ECO:0000250}. Nucleus {ECO:0000250}. Early endosome {ECO:0000250}.
+CC       Early endosome membrane {ECO:0000250}. Cell projection, ruffle membrane
+CC       {ECO:0000250}. Note=Recruitment to the endosome and ruffle membrane
+CC       requires the presence of phosphoinositides. {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q7Z6J4-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q7Z6J4-2; Sequence=VSP_013065, VSP_013070, VSP_013072;
+CC       Name=3;
+CC         IsoId=Q7Z6J4-4; Sequence=VSP_013066, VSP_013071;
+CC       Name=4;
+CC         IsoId=Q7Z6J4-5; Sequence=VSP_013067, VSP_013068, VSP_038219;
+CC   -!- DOMAIN: The FYVE-type zinc-finger is necessary for early endosome
+CC       localization. Recruitment to endosomal membranes via this domain
+CC       requires the presence of phosphatidylinositol 3-phosphate or other
+CC       phosphatidylinositides (By similarity). {ECO:0000250}.
+CC   -!- DOMAIN: The PH domain is necessary for localization to the ruffle
+CC       membrane. Recruitment to ruffle membrane occurs through binding of
+CC       phosphoinositides by the PH domain. This domain also contributes to the
+CC       lipid-binding properties of the protein (By similarity). {ECO:0000250}.
+CC   -!- DOMAIN: The DH domain is necessary for its ability to activate JNK1 via
+CC       CDC42. {ECO:0000250}.
+CC   -!- MISCELLANEOUS: [Isoform 4]: May be due to an intron retention.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB15746.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=BAC85129.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAC85129.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK024456; BAB15746.1; ALT_INIT; mRNA.
+DR   EMBL; AK097230; BAC04982.1; -; mRNA.
+DR   EMBL; AK131079; BAC85129.1; ALT_SEQ; mRNA.
+DR   EMBL; AL160264; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC023645; AAH23645.1; -; mRNA.
+DR   EMBL; BC053655; AAH53655.1; -; mRNA.
+DR   CCDS; CCDS4829.1; -. [Q7Z6J4-1]
+DR   RefSeq; NP_775829.2; NM_173558.3. [Q7Z6J4-1]
+DR   AlphaFoldDB; Q7Z6J4; -.
+DR   SMR; Q7Z6J4; -.
+DR   BioGRID; 128730; 23.
+DR   IntAct; Q7Z6J4; 11.
+DR   STRING; 9606.ENSP00000274963; -.
+DR   iPTMnet; Q7Z6J4; -.
+DR   PhosphoSitePlus; Q7Z6J4; -.
+DR   BioMuta; FGD2; -.
+DR   DMDM; 61213572; -.
+DR   EPD; Q7Z6J4; -.
+DR   jPOST; Q7Z6J4; -.
+DR   MassIVE; Q7Z6J4; -.
+DR   MaxQB; Q7Z6J4; -.
+DR   PaxDb; Q7Z6J4; -.
+DR   PeptideAtlas; Q7Z6J4; -.
+DR   ProteomicsDB; 69421; -. [Q7Z6J4-1]
+DR   ProteomicsDB; 69422; -. [Q7Z6J4-2]
+DR   ProteomicsDB; 69423; -. [Q7Z6J4-4]
+DR   ProteomicsDB; 69424; -. [Q7Z6J4-5]
+DR   Antibodypedia; 29766; 79 antibodies from 17 providers.
+DR   DNASU; 221472; -.
+DR   Ensembl; ENST00000274963.13; ENSP00000274963.8; ENSG00000146192.15. [Q7Z6J4-1]
+DR   GeneID; 221472; -.
+DR   KEGG; hsa:221472; -.
+DR   MANE-Select; ENST00000274963.13; ENSP00000274963.8; NM_173558.4; NP_775829.2.
+DR   UCSC; uc010jwp.2; human. [Q7Z6J4-1]
+DR   AGR; HGNC:3664; -.
+DR   CTD; 221472; -.
+DR   DisGeNET; 221472; -.
+DR   GeneCards; FGD2; -.
+DR   HGNC; HGNC:3664; FGD2.
+DR   HPA; ENSG00000146192; Tissue enhanced (lymphoid).
+DR   MIM; 605091; gene.
+DR   neXtProt; NX_Q7Z6J4; -.
+DR   OpenTargets; ENSG00000146192; -.
+DR   PharmGKB; PA28103; -.
+DR   VEuPathDB; HostDB:ENSG00000146192; -.
+DR   eggNOG; KOG4424; Eukaryota.
+DR   GeneTree; ENSGT00940000161251; -.
+DR   HOGENOM; CLU_011755_2_1_1; -.
+DR   InParanoid; Q7Z6J4; -.
+DR   OMA; RWMKAME; -.
+DR   OrthoDB; 5385125at2759; -.
+DR   PhylomeDB; Q7Z6J4; -.
+DR   TreeFam; TF316247; -.
+DR   PathwayCommons; Q7Z6J4; -.
+DR   Reactome; R-HSA-193648; NRAGE signals death through JNK.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   SignaLink; Q7Z6J4; -.
+DR   SIGNOR; Q7Z6J4; -.
+DR   BioGRID-ORCS; 221472; 10 hits in 1146 CRISPR screens.
+DR   ChiTaRS; FGD2; human.
+DR   GeneWiki; FGD2; -.
+DR   GenomeRNAi; 221472; -.
+DR   Pharos; Q7Z6J4; Tdark.
+DR   PRO; PR:Q7Z6J4; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q7Z6J4; protein.
+DR   Bgee; ENSG00000146192; Expressed in monocyte and 178 other tissues.
+DR   ExpressionAtlas; Q7Z6J4; baseline and differential.
+DR   Genevisible; Q7Z6J4; HS.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005856; C:cytoskeleton; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0031901; C:early endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005794; C:Golgi apparatus; ISS:UniProtKB.
+DR   GO; GO:0030027; C:lamellipodium; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0001726; C:ruffle; ISS:UniProtKB.
+DR   GO; GO:0032587; C:ruffle membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; ISS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:1901981; F:phosphatidylinositol phosphate binding; IEA:Ensembl.
+DR   GO; GO:0031267; F:small GTPase binding; ISS:UniProtKB.
+DR   GO; GO:0030036; P:actin cytoskeleton organization; ISS:UniProtKB.
+DR   GO; GO:0007010; P:cytoskeleton organization; ISS:UniProtKB.
+DR   GO; GO:0046847; P:filopodium assembly; ISS:UniProtKB.
+DR   GO; GO:0043507; P:positive regulation of JUN kinase activity; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; ISS:UniProtKB.
+DR   GO; GO:0043087; P:regulation of GTPase activity; ISS:UniProtKB.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   CDD; cd15741; FYVE_FGD1_2_4; 1.
+DR   CDD; cd13386; PH1_FGD2; 1.
+DR   CDD; cd13236; PH2_FGD1-4; 1.
+DR   CDD; cd00160; RhoGEF; 1.
+DR   Gene3D; 1.20.900.10; Dbl homology (DH) domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 2.
+DR   Gene3D; 3.30.40.10; Zinc/RING finger domain, C3HC4 (zinc finger); 1.
+DR   InterPro; IPR035899; DBL_dom_sf.
+DR   InterPro; IPR000219; DH-domain.
+DR   InterPro; IPR035941; FGD1-4_PH2.
+DR   InterPro; IPR037797; FGD2_PH1.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR000306; Znf_FYVE.
+DR   InterPro; IPR017455; Znf_FYVE-rel.
+DR   InterPro; IPR011011; Znf_FYVE_PHD.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   PANTHER; PTHR12673; FACIOGENITAL DYSPLASIA PROTEIN; 1.
+DR   PANTHER; PTHR12673:SF82; FYVE, RHOGEF AND PH DOMAIN-CONTAINING PROTEIN 2; 1.
+DR   Pfam; PF01363; FYVE; 1.
+DR   Pfam; PF00169; PH; 2.
+DR   Pfam; PF00621; RhoGEF; 1.
+DR   SMART; SM00064; FYVE; 1.
+DR   SMART; SM00233; PH; 2.
+DR   SMART; SM00325; RhoGEF; 1.
+DR   SUPFAM; SSF48065; DBL homology domain (DH-domain); 1.
+DR   SUPFAM; SSF57903; FYVE/PHD zinc finger; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 2.
+DR   PROSITE; PS50010; DH_2; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 2.
+DR   PROSITE; PS50178; ZF_FYVE; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Cell projection; Cytoplasm;
+KW   Cytoskeleton; Endosome; Guanine-nucleotide releasing factor; Membrane;
+KW   Metal-binding; Nucleus; Phosphoprotein; Reference proteome; Repeat; Zinc;
+KW   Zinc-finger.
+FT   CHAIN           1..655
+FT                   /note="FYVE, RhoGEF and PH domain-containing protein 2"
+FT                   /id="PRO_0000080942"
+FT   DOMAIN          102..290
+FT                   /note="DH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00062"
+FT   DOMAIN          319..418
+FT                   /note="PH 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          544..641
+FT                   /note="PH 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   ZN_FING         458..518
+FT                   /note="FYVE-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   REGION          18..64
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        29..49
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         464
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         467
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         481
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         484
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         489
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         492
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         510
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         513
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   MOD_RES         11
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BY35"
+FT   MOD_RES         48
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BY35"
+FT   MOD_RES         654
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   VAR_SEQ         1..423
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_013065"
+FT   VAR_SEQ         1..372
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_013066"
+FT   VAR_SEQ         1..22
+FT                   /note="MKGASEEKLASVSNLVTVFENS -> MFPKKARHPGAPALGICTRQPKSTPG
+FT                   TCCCFPCSPGRKPSGLSLLL (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11214971"
+FT                   /id="VSP_013067"
+FT   VAR_SEQ         101..104
+FT                   /note="EPEK -> VPEG (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11214971"
+FT                   /id="VSP_013068"
+FT   VAR_SEQ         105..655
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11214971"
+FT                   /id="VSP_038219"
+FT   VAR_SEQ         424..442
+FT                   /note="NETFKAAAQGPEGDIQEQE -> MGGRRSPRAHSCPTPLNPQ (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_013070"
+FT   VAR_SEQ         488..655
+FT                   /note="VCARCSDYRAELKYDDNRPNRVCLHCYAFLTGNVLPEAKEDKRRGILEKGSS
+FT                   ATPDQSLMCSFLQLIGDKWGKSGPRGWCVIPRDDPLVLYVYAAPQDMRAHTSIPLLGYQ
+FT                   VTVGPQGDPRVFQLQQSGQLYTFKAETEELKGRWVKAMERAASGWSPSWPNDGDLSD
+FT                   -> STPASTPASTCVTQASTCITQASTFPT (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_013071"
+FT   VAR_SEQ         585..655
+FT                   /note="DMRAHTSIPLLGYQVTVGPQGDPRVFQLQQSGQLYTFKAETEELKGRWVKAM
+FT                   ERAASGWSPSWPNDGDLSD -> VRPPPARPPSGPGLPTACV (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_013072"
+FT   VARIANT         32
+FT                   /note="Q -> H (in dbSNP:rs831510)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_021491"
+SQ   SEQUENCE   655 AA;  74892 MW;  DB60098249C2B340 CRC64;
+     MKGASEEKLA SVSNLVTVFE NSRTPEAAPR GQRLEDVHHR PECRPPESPG PREKTNVGEA
+     VGSEPRTVSR RYLNSLKNKL SSEAWRKSCQ PVTLSGSGTQ EPEKKIVQEL LETEQAYVAR
+     LHLLDQVFFQ ELLKTARSSK AFPEDVVRVI FSNISSIYQF HSQFFLPELQ RRLDDWTANP
+     RIGDVIQKLA PFLKMYSEYV KNFERAAELL ATWTDKSPLF QEVLTRIQSS EASGSLTLQH
+     HMLEPVQRIP RYELLLKEYI QKLPAQAPDQ ADAQKALDMI FSAAQHSNAA ITEMERLQDL
+     WEVYQRLGLE DDIVDPSNTL LREGPVLKIS FRRNDPMERY LFLFNNMLLY CVPRVIQVGA
+     QFQVRTRIDV AGMKVRELMD AEFPHSFLVS GKQRTLELQA RSQEEMISWM QAFQAAIDQI
+     EKRNETFKAA AQGPEGDIQE QELQSEELGL RAPQWVRDKM VTMCMRCQEP FNALTRRRHH
+     CRACGYVVCA RCSDYRAELK YDDNRPNRVC LHCYAFLTGN VLPEAKEDKR RGILEKGSSA
+     TPDQSLMCSF LQLIGDKWGK SGPRGWCVIP RDDPLVLYVY AAPQDMRAHT SIPLLGYQVT
+     VGPQGDPRVF QLQQSGQLYT FKAETEELKG RWVKAMERAA SGWSPSWPND GDLSD
+//

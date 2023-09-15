@@ -1,0 +1,494 @@
+ID   RIC1_HUMAN              Reviewed;        1423 AA.
+AC   Q4ADV7; B2RN24; B7ZM67; G5E932; Q4VXJ8; Q4VXJ9; Q76MT5; Q8N6E0; Q8TEH4;
+AC   Q9H0A5; Q9H9S1;
+DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   26-FEB-2008, sequence version 2.
+DT   28-JUN-2023, entry version 135.
+DE   RecName: Full=Guanine nucleotide exchange factor subunit RIC1 {ECO:0000305};
+DE   AltName: Full=Connexin-43-interacting protein of 150 kDa {ECO:0000303|PubMed:16112082};
+DE   AltName: Full=Protein RIC1 homolog {ECO:0000250|UniProtKB:P40395};
+DE   AltName: Full=RAB6A-GEF complex partner protein 1 {ECO:0000312|HGNC:HGNC:17686};
+GN   Name=RIC1 {ECO:0000312|HGNC:HGNC:17686};
+GN   Synonyms=CIP150 {ECO:0000303|PubMed:16112082}, KIAA1432
+GN   {ECO:0000312|EMBL:BAA92670.2};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164053; DOI=10.1038/nature02465;
+RA   Humphray S.J., Oliver K., Hunt A.R., Plumb R.W., Loveland J.E., Howe K.L.,
+RA   Andrews T.D., Searle S., Hunt S.E., Scott C.E., Jones M.C., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Ashwell R.I.S., Babbage A.K., Babbage S.,
+RA   Bagguley C.L., Bailey J., Banerjee R., Barker D.J., Barlow K.F., Bates K.,
+RA   Beasley H., Beasley O., Bird C.P., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D., Burrill W., Burton J., Carder C., Carter N.P., Chapman J.C.,
+RA   Chen Y., Clarke G., Clark S.Y., Clee C.M., Clegg S., Collier R.E.,
+RA   Corby N., Crosier M., Cummings A.T., Davies J., Dhami P., Dunn M.,
+RA   Dutta I., Dyer L.W., Earthrowl M.E., Faulkner L., Fleming C.J.,
+RA   Frankish A., Frankland J.A., French L., Fricker D.G., Garner P.,
+RA   Garnett J., Ghori J., Gilbert J.G.R., Glison C., Grafham D.V., Gribble S.,
+RA   Griffiths C., Griffiths-Jones S., Grocock R., Guy J., Hall R.E.,
+RA   Hammond S., Harley J.L., Harrison E.S.I., Hart E.A., Heath P.D.,
+RA   Henderson C.D., Hopkins B.L., Howard P.J., Howden P.J., Huckle E.,
+RA   Johnson C., Johnson D., Joy A.A., Kay M., Keenan S., Kershaw J.K.,
+RA   Kimberley A.M., King A., Knights A., Laird G.K., Langford C., Lawlor S.,
+RA   Leongamornlert D.A., Leversha M., Lloyd C., Lloyd D.M., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., Matthews L., McLaren S., McLay K.E.,
+RA   McMurray A., Milne S., Nickerson T., Nisbett J., Nordsiek G., Pearce A.V.,
+RA   Peck A.I., Porter K.M., Pandian R., Pelan S., Phillimore B., Povey S.,
+RA   Ramsey Y., Rand V., Scharfe M., Sehra H.K., Shownkeen R., Sims S.K.,
+RA   Skuce C.D., Smith M., Steward C.A., Swarbreck D., Sycamore N., Tester J.,
+RA   Thorpe A., Tracey A., Tromans A., Thomas D.W., Wall M., Wallis J.M.,
+RA   West A.P., Whitehead S.L., Willey D.L., Williams S.A., Wilming L.,
+RA   Wray P.W., Young L., Ashurst J.L., Coulson A., Blocker H., Durbin R.M.,
+RA   Sulston J.E., Hubbard T., Jackson M.J., Bentley D.R., Beck S., Rogers J.,
+RA   Dunham I.;
+RT   "DNA sequence and analysis of human chromosome 9.";
+RL   Nature 429:369-374(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 7-1423 (ISOFORM 2).
+RC   TISSUE=Testis;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 73-1423 (ISOFORM 1), FUNCTION, TISSUE
+RP   SPECIFICITY, AND INTERACTION WITH GJA1.
+RC   TISSUE=Placenta;
+RX   PubMed=16112082; DOI=10.1016/j.bbrc.2005.08.019;
+RA   Akiyama M., Ishida N., Ogawa T., Yogo K., Takeya T.;
+RT   "Molecular cloning and functional analysis of a novel Cx43 partner protein
+RT   CIP150.";
+RL   Biochem. Biophys. Res. Commun. 335:1264-1271(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 73-1423 (ISOFORMS 1 AND 3).
+RC   TISSUE=Bone marrow;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 531-1423 (ISOFORM 2).
+RC   TISSUE=Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 628-1423 (ISOFORM 1), AND TISSUE
+RP   SPECIFICITY.
+RC   TISSUE=Brain;
+RX   PubMed=10718198; DOI=10.1093/dnares/7.1.65;
+RA   Nagase T., Kikuno R., Ishikawa K., Hirosawa M., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XVI. The
+RT   complete sequences of 150 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:65-73(2000).
+RN   [8]
+RP   SEQUENCE REVISION.
+RX   PubMed=12168954; DOI=10.1093/dnares/9.3.99;
+RA   Nakajima D., Okazaki N., Yamakawa H., Kikuno R., Ohara O., Nagase T.;
+RT   "Construction of expression-ready cDNA clones for KIAA genes: manual
+RT   curation of 330 KIAA cDNA clones.";
+RL   DNA Res. 9:99-106(2002).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 656-1423.
+RC   TISSUE=Spleen;
+RA   Jikuya H., Takano J., Nomura N., Kikuno R., Nagase T., Ohara O.;
+RT   "The nucleotide sequence of a long cDNA clone isolated from human spleen.";
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-996, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [14]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH RGP1; RAB33B AND
+RP   RAB6A.
+RX   PubMed=23091056; DOI=10.1074/jbc.m112.414565;
+RA   Pusapati G.V., Luchetti G., Pfeffer S.R.;
+RT   "Ric1-Rgp1 complex is a guanine nucleotide exchange factor for the late
+RT   Golgi Rab6A GTPase and an effector of the medial Golgi Rab33B GTPase.";
+RL   J. Biol. Chem. 287:42129-42137(2012).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-992; SER-1015; SER-1017;
+RP   SER-1019 AND SER-1037, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [17]
+RP   VARIANT CATIFA PRO-1265, AND INVOLVEMENT IN CATIFA.
+RX   PubMed=27878435; DOI=10.1007/s00439-016-1747-6;
+RA   Patel N., Anand D., Monies D., Maddirevula S., Khan A.O., Algoufi T.,
+RA   Alowain M., Faqeih E., Alshammari M., Qudair A., Alsharif H., Aljubran F.,
+RA   Alsaif H.S., Ibrahim N., Abdulwahab F.M., Hashem M., Alsedairy H.,
+RA   Aldahmesh M.A., Lachke S.A., Alkuraya F.S.;
+RT   "Novel phenotypes and loci identified through clinical genomics approaches
+RT   to pediatric cataract.";
+RL   Hum. Genet. 136:205-225(2017).
+RN   [18]
+RP   VARIANTS CATIFA PRO-1265 AND 1266-TYR--SER-1423 DEL, CHARACTERIZATION OF
+RP   VARIANTS CATIFA PRO-1265 AND 1266-TYR--SER-1423 DEL, INVOLVEMENT IN CATIFA,
+RP   AND FUNCTION.
+RX   PubMed=31932796; DOI=10.1038/s41591-019-0705-y;
+RA   Unlu G., Qi X., Gamazon E.R., Melville D.B., Patel N., Rushing A.R.,
+RA   Hashem M., Al-Faifi A., Chen R., Li B., Cox N.J., Alkuraya F.S.,
+RA   Knapik E.W.;
+RT   "Phenome-based approach identifies RIC1-linked Mendelian syndrome through
+RT   zebrafish models, biobank associations and clinical studies.";
+RL   Nat. Med. 26:98-109(2020).
+CC   -!- FUNCTION: The RIC1-RGP1 complex acts as a guanine nucleotide exchange
+CC       factor (GEF), which activates RAB6A by exchanging bound GDP for free
+CC       GTP, and may thereby be required for efficient fusion of endosome-
+CC       derived vesicles with the Golgi compartment (PubMed:23091056). The
+CC       RIC1-RGP1 complex participates in the recycling of mannose-6-phosphate
+CC       receptors (PubMed:23091056). Required for phosphorylation and
+CC       localization of GJA1 (PubMed:16112082). Is a regulator of procollagen
+CC       transport and secretion, and is required for correct cartilage
+CC       morphogenesis and development of the craniofacial skeleton
+CC       (PubMed:31932796). {ECO:0000269|PubMed:16112082,
+CC       ECO:0000269|PubMed:23091056, ECO:0000269|PubMed:31932796}.
+CC   -!- SUBUNIT: Forms a complex with RGP1; the interaction enhances RAB6A
+CC       GTPase activity (PubMed:16112082). Interacts (via central domain) with
+CC       RGP1 (PubMed:16112082). Interacts with RAB6A; the interaction is direct
+CC       with a preference for RAB6A-GDP (PubMed:16112082). Interacts (via C-
+CC       terminus domain) with RAB33B; the interaction is direct with a
+CC       preference for RAB33B-GTP (PubMed:16112082). Interacts with GJA1
+CC       (PubMed:23091056). {ECO:0000269|PubMed:16112082,
+CC       ECO:0000269|PubMed:23091056}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytosol {ECO:0000269|PubMed:23091056}.
+CC       Membrane {ECO:0000269|PubMed:23091056}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q4ADV7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q4ADV7-2; Sequence=VSP_031706, VSP_031707;
+CC       Name=3;
+CC         IsoId=Q4ADV7-3; Sequence=VSP_042408;
+CC   -!- TISSUE SPECIFICITY: Present in kidney and various cell lines (at
+CC       protein level). Widely expressed at low level.
+CC       {ECO:0000269|PubMed:10718198, ECO:0000269|PubMed:16112082}.
+CC   -!- DISEASE: CATIFA syndrome (CATIFA) [MIM:618761]: An autosomal recessive
+CC       disorder characterized by global developmental delay, intellectual
+CC       disability, and behavioral abnormalities with mild to severe attention-
+CC       deficit hyperactivity disorder. Motor, speech and cognitive deficits
+CC       range from mild to severe. Patients show craniofacial dysmorphism
+CC       including elongated face, short, broad upturned nose with anteverted
+CC       nares and long philtrum. Additional clinical features are cleft
+CC       lip/palate, tooth abnormalities, and visual impairment due to cataract,
+CC       strabismus and poor visual tracking. {ECO:0000269|PubMed:27878435,
+CC       ECO:0000269|PubMed:31932796}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the RIC1 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAI36617.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAI44297.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAB14150.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAE16982.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAB66809.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AL136980; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL354744; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471071; EAW58760.1; -; Genomic_DNA.
+DR   EMBL; AL136875; CAB66809.1; ALT_INIT; mRNA.
+DR   EMBL; AB205401; BAE16982.1; ALT_INIT; mRNA.
+DR   EMBL; AK022642; BAB14150.1; ALT_INIT; mRNA.
+DR   EMBL; AB037853; BAA92670.2; -; mRNA.
+DR   EMBL; AK074150; BAB84976.1; -; mRNA.
+DR   EMBL; BC030576; AAH30576.1; -; mRNA.
+DR   EMBL; BC136616; AAI36617.1; ALT_INIT; mRNA.
+DR   EMBL; BC144296; AAI44297.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS34982.2; -. [Q4ADV7-1]
+DR   CCDS; CCDS47949.2; -. [Q4ADV7-2]
+DR   CCDS; CCDS75811.1; -. [Q4ADV7-3]
+DR   RefSeq; NP_001129392.2; NM_001135920.2. [Q4ADV7-2]
+DR   RefSeq; NP_001193486.1; NM_001206557.1. [Q4ADV7-3]
+DR   RefSeq; NP_065880.2; NM_020829.3. [Q4ADV7-1]
+DR   AlphaFoldDB; Q4ADV7; -.
+DR   BioGRID; 121640; 34.
+DR   IntAct; Q4ADV7; 6.
+DR   MINT; Q4ADV7; -.
+DR   STRING; 9606.ENSP00000416696; -.
+DR   iPTMnet; Q4ADV7; -.
+DR   PhosphoSitePlus; Q4ADV7; -.
+DR   BioMuta; RIC1; -.
+DR   DMDM; 182702127; -.
+DR   EPD; Q4ADV7; -.
+DR   jPOST; Q4ADV7; -.
+DR   MassIVE; Q4ADV7; -.
+DR   MaxQB; Q4ADV7; -.
+DR   PaxDb; Q4ADV7; -.
+DR   PeptideAtlas; Q4ADV7; -.
+DR   ProteomicsDB; 62090; -. [Q4ADV7-1]
+DR   ProteomicsDB; 62091; -. [Q4ADV7-2]
+DR   ProteomicsDB; 62092; -. [Q4ADV7-3]
+DR   Antibodypedia; 70521; 28 antibodies from 7 providers.
+DR   DNASU; 57589; -.
+DR   Ensembl; ENST00000251879.10; ENSP00000251879.6; ENSG00000107036.12. [Q4ADV7-2]
+DR   Ensembl; ENST00000414202.7; ENSP00000416696.2; ENSG00000107036.12. [Q4ADV7-1]
+DR   Ensembl; ENST00000418622.7; ENSP00000402240.4; ENSG00000107036.12. [Q4ADV7-3]
+DR   GeneID; 57589; -.
+DR   KEGG; hsa:57589; -.
+DR   MANE-Select; ENST00000414202.7; ENSP00000416696.2; NM_020829.4; NP_065880.2.
+DR   UCSC; uc003zjh.5; human. [Q4ADV7-1]
+DR   AGR; HGNC:17686; -.
+DR   CTD; 57589; -.
+DR   DisGeNET; 57589; -.
+DR   GeneCards; RIC1; -.
+DR   HGNC; HGNC:17686; RIC1.
+DR   HPA; ENSG00000107036; Low tissue specificity.
+DR   MalaCards; RIC1; -.
+DR   MIM; 610354; gene.
+DR   MIM; 618761; phenotype.
+DR   neXtProt; NX_Q4ADV7; -.
+DR   OpenTargets; ENSG00000107036; -.
+DR   PharmGKB; PA134884486; -.
+DR   VEuPathDB; HostDB:ENSG00000107036; -.
+DR   eggNOG; KOG2006; Eukaryota.
+DR   GeneTree; ENSGT00390000002955; -.
+DR   HOGENOM; CLU_002060_3_1_1; -.
+DR   InParanoid; Q4ADV7; -.
+DR   OMA; MVYDRAM; -.
+DR   OrthoDB; 121525at2759; -.
+DR   PhylomeDB; Q4ADV7; -.
+DR   TreeFam; TF105927; -.
+DR   PathwayCommons; Q4ADV7; -.
+DR   Reactome; R-HSA-6811438; Intra-Golgi traffic.
+DR   Reactome; R-HSA-6811440; Retrograde transport at the Trans-Golgi-Network.
+DR   Reactome; R-HSA-8876198; RAB GEFs exchange GTP for GDP on RABs.
+DR   SignaLink; Q4ADV7; -.
+DR   BioGRID-ORCS; 57589; 386 hits in 1180 CRISPR screens.
+DR   ChiTaRS; RIC1; human.
+DR   GenomeRNAi; 57589; -.
+DR   Pharos; Q4ADV7; Tbio.
+DR   PRO; PR:Q4ADV7; -.
+DR   Proteomes; UP000005640; Chromosome 9.
+DR   RNAct; Q4ADV7; protein.
+DR   Bgee; ENSG00000107036; Expressed in tibialis anterior and 184 other tissues.
+DR   ExpressionAtlas; Q4ADV7; baseline and differential.
+DR   Genevisible; Q4ADV7; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0000139; C:Golgi membrane; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0032991; C:protein-containing complex; IDA:UniProtKB.
+DR   GO; GO:0034066; C:Ric1-Rgp1 guanyl-nucleotide exchange factor complex; IDA:UniProtKB.
+DR   GO; GO:0032588; C:trans-Golgi network membrane; TAS:Reactome.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IDA:UniProtKB.
+DR   GO; GO:0031267; F:small GTPase binding; IDA:UniProtKB.
+DR   GO; GO:1904888; P:cranial skeletal system development; IMP:UniProtKB.
+DR   GO; GO:0006886; P:intracellular protein transport; IBA:GO_Central.
+DR   GO; GO:0042177; P:negative regulation of protein catabolic process; IMP:UniProtKB.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; IDA:UniProtKB.
+DR   GO; GO:0003330; P:regulation of extracellular matrix constituent secretion; IMP:UniProtKB.
+DR   GO; GO:0042147; P:retrograde transport, endosome to Golgi; IMP:UniProtKB.
+DR   Gene3D; 2.130.10.10; YVTN repeat-like/Quinoprotein amine dehydrogenase; 1.
+DR   InterPro; IPR009771; Ribosome_control_1.
+DR   InterPro; IPR040096; Ric1.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   PANTHER; PTHR22746:SF10; GUANINE NUCLEOTIDE EXCHANGE FACTOR SUBUNIT RIC1; 1.
+DR   PANTHER; PTHR22746; RAB6A-GEF COMPLEX PARTNER PROTEIN 1; 1.
+DR   Pfam; PF07064; RIC1; 1.
+DR   SUPFAM; SSF50978; WD40 repeat-like; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cytoplasm; Disease variant;
+KW   Guanine-nucleotide releasing factor; Intellectual disability; Membrane;
+KW   Phosphoprotein; Reference proteome; Repeat; WD repeat.
+FT   CHAIN           1..1423
+FT                   /note="Guanine nucleotide exchange factor subunit RIC1"
+FT                   /id="PRO_0000320662"
+FT   REPEAT          64..103
+FT                   /note="WD 1"
+FT   REPEAT          304..343
+FT                   /note="WD 2"
+FT   REGION          437..463
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1355..1423
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1363..1400
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         992
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         996
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         1015
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1017
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1019
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1037
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1172
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q69ZJ7"
+FT   VAR_SEQ         498..534
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_042408"
+FT   VAR_SEQ         1142..1165
+FT                   /note="VGEQLLKSQSADPFLNLEMDAGIS -> GNVDFMSLVQGELYFTPCIYTFCY
+FT                   (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230166,
+FT                   ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_031706"
+FT   VAR_SEQ         1166..1423
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230166,
+FT                   ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_031707"
+FT   VARIANT         1265
+FT                   /note="R -> P (in CATIFA; patient cells contain normally
+FT                   spliced transcripts corresponding to protein variant P-1265
+FT                   but also transcripts that fail to splice due to intron 24
+FT                   retention leading to a stop codon at position 1266;
+FT                   loss-of-function variant affecting procollagen secretion)"
+FT                   /evidence="ECO:0000269|PubMed:27878435,
+FT                   ECO:0000269|PubMed:31932796"
+FT                   /id="VAR_083541"
+FT   VARIANT         1266..1423
+FT                   /note="Missing (in CATIFA; patient cells contain
+FT                   transcripts that fail to splice due to intron 24 retention
+FT                   leading to a stop codon at position 1266, but also normally
+FT                   spliced transcripts corresponding to protein variant
+FT                   P-1265; loss-of-function variant affecting procollagen
+FT                   secretion)"
+FT                   /evidence="ECO:0000269|PubMed:31932796"
+FT                   /id="VAR_083542"
+FT   CONFLICT        659
+FT                   /note="L -> F (in Ref. 7; BAB84976)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        664
+FT                   /note="Q -> E (in Ref. 7; BAB84976)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1012
+FT                   /note="R -> G (in Ref. 8; AAH30576)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1423 AA;  159301 MW;  9F6F43F572021930 CRC64;
+     MYFLSGWPKR LLCPLGSPAE APFHVQSDPQ RAFFAVLAAA RLSIWYSRPS VLIVTYKEPA
+     KSSTQFGSYK QAEWRPDSTM IAVSTANGYI LFFHITSTRG DKYLYEPVYP KGSPQMKGTP
+     HFKEEQCAPA LNLEMRKILD LQAPIMSLQS VLEDLLVATS DGLLHLIHWE GMTNGRKAIN
+     LCTVPFSVDL QSSRVGSFLG FTDVHIRDME YCATLDGFAV VFNDGKVGFI TPVSSRFTAE
+     QLHGVWPQDV VDGTCVAVNN KYRLMAFGCV SGSVQVYTID NSTGAMLLSH KLELTAKQYP
+     DIWNKTGAVK LMRWSPDNSV VIVTWEYGGL SLWSVFGAQL ICTLGGDFAY RSDGTKKDPL
+     KINSMSWGAE GYHLWVISGF GSQNTEIESD LRSVVKQPSI LLFQFIKSVL TVNPCMSNQE
+     QVLLQGEDRL YLNCGEASQT QNPRSSSTHS EHKPSREKSP FADGGLESQG LSTLLGHRHW
+     HVVQISSTYL ESNWPIRFSA IDKLGQNIAV VGKFGFAHYS LLTKKWKLFG NITQEQNMIV
+     TGGLAWWNDF MVLACYNIND RQEELRVYLR TSNLDNAFAH VTKAQAETLL LSVFQDMVIV
+     FRADCSICLY SIERKSDGPN TTAGIQVLQE VSMSRYIPHP FLVVSVTLTS VSTENGITLK
+     MPQQARGAES IMLNLAGQLI MMQRDRSGPQ IREKDSNPNN QRKLLPFCPP VVLAQSVENV
+     WTTCRANKQK RHLLEALWLS CGGAGMKVWL PLFPRDHRKP HSFLSQRIML PFHINIYPLA
+     VLFEDALVLG AVNDTLLYDS LYTRNNAREQ LEVLFPFCVV ERTSQIYLHH ILRQLLVRNL
+     GEQALLLAQS CATLPYFPHV LELMLHEVLE EEATSREPIP DPLLPTVAKF ITEFPLFLQT
+     VVHCARKTEY ALWNYLFAAV GNPKDLFEEC LMAQDLDTAA SYLIILQNME VPAVSRQHAT
+     LLFNTALEQG KWDLCRHMIR FLKAIGSGES ETPPSTPTAQ EPSSSGGFEF FRNRSISLSQ
+     SAENVPASKF SLQKTLSMPS GPSGKRWSKD SDCAENMYID MMLWRHARRL LEDVRLKDLG
+     CFAAQLGFEL ISWLCKERTR AARVDNFVIA LKRLHKDFLW PLPIIPASSI SSPFKNGKYR
+     TVGEQLLKSQ SADPFLNLEM DAGISNIQRS QSWLSNIGPT HHEIDTASSH GPQMQDAFLS
+     PLSNKGDECS IGSATDLTES SSMVDGDWTM VDENFSTLSL TQSELEHISM ELASKGPHKS
+     QVQLRYLLHI FMEAGCLDWC IVIGLILRES SIINQILVIT QSSEVDGEML QNIKTGLHAV
+     DRWASTDCPG YKPFLNIIKP QLQKLSEITE EQVQPDAFQP ITMGKTPEQT SPRAEESRGS
+     SSHGSIPQGE VGSSNMVSRK EEDTAQAEEE EPFQDGTYDC SVS
+//

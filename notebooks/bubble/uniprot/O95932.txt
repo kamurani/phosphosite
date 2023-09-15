@@ -1,0 +1,364 @@
+ID   TGM3L_HUMAN             Reviewed;         706 AA.
+AC   O95932; Q5JXU4; Q5JXU5; Q719M2; Q719M3; Q9Y4U8;
+DT   10-MAY-2002, integrated into UniProtKB/Swiss-Prot.
+DT   16-AUG-2005, sequence version 3.
+DT   28-JUN-2023, entry version 181.
+DE   RecName: Full=Protein-glutamine gamma-glutamyltransferase 6;
+DE            EC=2.3.2.13;
+DE   AltName: Full=Transglutaminase Y;
+DE            Short=TGY;
+DE            Short=TGase Y;
+DE   AltName: Full=Transglutaminase-3-like;
+DE            Short=TGase-3-like;
+DE   AltName: Full=Transglutaminase-6;
+DE            Short=TG6;
+DE            Short=TGase-6;
+GN   Name=TGM6; Synonyms=TGM3L;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), AND VARIANT VAL-58.
+RC   TISSUE=Lung;
+RA   Thomas H., Aeschlimann D.;
+RT   "A novel transglutaminase expressed in the nervous system.";
+RL   Submitted (AUG-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J., Buck D., Burrill W.D.,
+RA   Butler A.P., Carder C., Carter N.P., Chapman J.C., Clamp M., Clark G.,
+RA   Clark L.N., Clark S.Y., Clee C.M., Clegg S., Cobley V.E., Collier R.E.,
+RA   Connor R.E., Corby N.R., Coulson A., Coville G.J., Deadman R., Dhami P.D.,
+RA   Dunn M., Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H., Rice C.M.,
+RA   Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S., Skuce C.D.,
+RA   Smith M.L., Soderlund C., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A., Tracey A.,
+RA   Tromans A.C., Vaudin M., Wall M., Wallis J.M., Whitehead S.L.,
+RA   Whittaker P., Willey D.L., Williams L., Williams S.A., Wilming L.,
+RA   Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+RN   [3]
+RP   VARIANTS SCA35 GLY-327 AND TRP-517.
+RX   PubMed=21106500; DOI=10.1093/brain/awq323;
+RA   Wang J.L., Yang X., Xia K., Hu Z.M., Weng L., Jin X., Jiang H., Zhang P.,
+RA   Shen L., Guo J.F., Li N., Li Y.R., Lei L.F., Zhou J., Du J., Zhou Y.F.,
+RA   Pan Q., Wang J., Wang J., Li R.Q., Tang B.S.;
+RT   "TGM6 identified as a novel causative gene of spinocerebellar ataxias using
+RT   exome sequencing.";
+RL   Brain 133:3510-3518(2010).
+RN   [4]
+RP   SUBCELLULAR LOCATION, AND CHARACTERIZATION OF VARIANTS SCA35 GLY-327 AND
+RP   TRP-517.
+RX   PubMed=23206699; DOI=10.1016/j.bbrc.2012.11.069;
+RA   Guan W.J., Wang J.L., Liu Y.T., Ma Y.T., Zhou Y., Jiang H., Shen L.,
+RA   Guo J.F., Xia K., Li J.D., Tang B.S.;
+RT   "Spinocerebellar ataxia type 35 (SCA35)-associated transglutaminase 6
+RT   mutants sensitize cells to apoptosis.";
+RL   Biochem. Biophys. Res. Commun. 430:780-786(2013).
+RN   [5]
+RP   VARIANT SCA35 HIS-510.
+RX   PubMed=22554020; DOI=10.1111/j.1399-0004.2012.01895.x;
+RA   Li M., Pang S.Y., Song Y., Kung M.H., Ho S.L., Sham P.C.;
+RT   "Whole exome sequencing identifies a novel mutation in the transglutaminase
+RT   6 gene for spinocerebellar ataxia in a Chinese family.";
+RL   Clin. Genet. 83:269-273(2013).
+RN   [6]
+RP   SUBCELLULAR LOCATION, VARIANT SCA35 ASN-426, AND CHARACTERIZATION OF
+RP   VARIANT SCA35 ASN-426.
+RX   PubMed=29053796; DOI=10.1093/brain/awx251;
+RA   Nibbeling E.A.R., Duarri A., Verschuuren-Bemelmans C.C., Fokkens M.R.,
+RA   Karjalainen J.M., Smeets C.J.L.M., de Boer-Bergsma J.J., van der Vries G.,
+RA   Dooijes D., Bampi G.B., van Diemen C., Brunt E., Ippel E., Kremer B.,
+RA   Vlak M., Adir N., Wijmenga C., van de Warrenburg B.P.C., Franke L.,
+RA   Sinke R.J., Verbeek D.S.;
+RT   "Exome sequencing and network analysis identifies shared mechanisms
+RT   underlying spinocerebellar ataxia.";
+RL   Brain 140:2860-2878(2017).
+RN   [7]
+RP   VARIANTS SCA35 CYS-111; HIS-510 AND GLU-574 DEL, CHARACTERIZATION OF
+RP   VARIANTS SCA35 CYS-111; HIS-510 AND GLU-574 DEL, AND SUBCELLULAR LOCATION.
+RX   PubMed=25253745; DOI=10.1212/wnl.0000000000000909;
+RA   Guo Y.C., Lin J.J., Liao Y.C., Tsai P.C., Lee Y.C., Soong B.W.;
+RT   "Spinocerebellar ataxia 35: Novel mutations in TGM6 with clinical and
+RT   genetic characterization.";
+RL   Neurology 83:1554-1561(2014).
+CC   -!- FUNCTION: Catalyzes the cross-linking of proteins and the conjugation
+CC       of polyamines to proteins. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=L-glutaminyl-[protein] + L-lysyl-[protein] = [protein]-L-
+CC         lysyl-N(6)-5-L-glutamyl-[protein] + NH4(+); Xref=Rhea:RHEA:54816,
+CC         Rhea:RHEA-COMP:9752, Rhea:RHEA-COMP:10207, Rhea:RHEA-COMP:14005,
+CC         ChEBI:CHEBI:28938, ChEBI:CHEBI:29969, ChEBI:CHEBI:30011,
+CC         ChEBI:CHEBI:138370; EC=2.3.2.13; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU10024};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250};
+CC       Note=Binds up to 3 Ca(2+) cations per subunit. {ECO:0000250};
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:23206699,
+CC       ECO:0000269|PubMed:25253745, ECO:0000269|PubMed:29053796}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=Long;
+CC         IsoId=O95932-1; Sequence=Displayed;
+CC       Name=2; Synonyms=Short;
+CC         IsoId=O95932-2; Sequence=VSP_015103, VSP_015104;
+CC   -!- DISEASE: Spinocerebellar ataxia 35 (SCA35) [MIM:613908]: A form of
+CC       spinocerebellar ataxia, a clinically and genetically heterogeneous
+CC       group of cerebellar disorders. Patients show progressive incoordination
+CC       of gait and often poor coordination of hands, speech and eye movements,
+CC       due to degeneration of the cerebellum with variable involvement of the
+CC       brainstem and spinal cord. SCA35 patients commonly show upper limb
+CC       involvement and torticollis. There is no cognitive impairment.
+CC       {ECO:0000269|PubMed:21106500, ECO:0000269|PubMed:22554020,
+CC       ECO:0000269|PubMed:23206699, ECO:0000269|PubMed:25253745,
+CC       ECO:0000269|PubMed:29053796}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the transglutaminase superfamily.
+CC       Transglutaminase family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF540969; AAQ10751.1; -; mRNA.
+DR   EMBL; AF540970; AAQ10752.1; -; mRNA.
+DR   EMBL; AL049650; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL031678; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS13025.1; -. [O95932-1]
+DR   CCDS; CCDS58761.1; -. [O95932-2]
+DR   RefSeq; NP_001241663.1; NM_001254734.1. [O95932-2]
+DR   RefSeq; NP_945345.2; NM_198994.2. [O95932-1]
+DR   AlphaFoldDB; O95932; -.
+DR   SMR; O95932; -.
+DR   BioGRID; 131269; 1.
+DR   IntAct; O95932; 1.
+DR   STRING; 9606.ENSP00000202625; -.
+DR   BindingDB; O95932; -.
+DR   ChEMBL; CHEMBL2079852; -.
+DR   DrugBank; DB00130; L-Glutamine.
+DR   DrugBank; DB01956; Taurine.
+DR   GlyGen; O95932; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; O95932; -.
+DR   PhosphoSitePlus; O95932; -.
+DR   BioMuta; TGM6; -.
+DR   PaxDb; O95932; -.
+DR   PeptideAtlas; O95932; -.
+DR   ProteomicsDB; 51132; -. [O95932-1]
+DR   ProteomicsDB; 51133; -. [O95932-2]
+DR   TopDownProteomics; O95932-1; -. [O95932-1]
+DR   Antibodypedia; 23168; 85 antibodies from 22 providers.
+DR   DNASU; 343641; -.
+DR   Ensembl; ENST00000202625.7; ENSP00000202625.2; ENSG00000166948.10. [O95932-1]
+DR   Ensembl; ENST00000381423.1; ENSP00000370831.1; ENSG00000166948.10. [O95932-2]
+DR   GeneID; 343641; -.
+DR   KEGG; hsa:343641; -.
+DR   MANE-Select; ENST00000202625.7; ENSP00000202625.2; NM_198994.3; NP_945345.2.
+DR   UCSC; uc002wfy.1; human. [O95932-1]
+DR   AGR; HGNC:16255; -.
+DR   CTD; 343641; -.
+DR   DisGeNET; 343641; -.
+DR   GeneCards; TGM6; -.
+DR   HGNC; HGNC:16255; TGM6.
+DR   HPA; ENSG00000166948; Not detected.
+DR   MalaCards; TGM6; -.
+DR   MIM; 613900; gene.
+DR   MIM; 613908; phenotype.
+DR   neXtProt; NX_O95932; -.
+DR   OpenTargets; ENSG00000166948; -.
+DR   Orphanet; 319465; Inherited acute myeloid leukemia.
+DR   Orphanet; 276193; Spinocerebellar ataxia type 35.
+DR   PharmGKB; PA38098; -.
+DR   VEuPathDB; HostDB:ENSG00000166948; -.
+DR   eggNOG; ENOG502QVH4; Eukaryota.
+DR   GeneTree; ENSGT01050000244866; -.
+DR   HOGENOM; CLU_013435_2_2_1; -.
+DR   InParanoid; O95932; -.
+DR   OMA; RVKDCVL; -.
+DR   OrthoDB; 5344745at2759; -.
+DR   PhylomeDB; O95932; -.
+DR   TreeFam; TF324278; -.
+DR   BRENDA; 2.3.2.13; 2681.
+DR   PathwayCommons; O95932; -.
+DR   SignaLink; O95932; -.
+DR   BioGRID-ORCS; 343641; 7 hits in 1140 CRISPR screens.
+DR   ChiTaRS; TGM6; human.
+DR   GenomeRNAi; 343641; -.
+DR   Pharos; O95932; Tchem.
+DR   PRO; PR:O95932; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   RNAct; O95932; protein.
+DR   Bgee; ENSG00000166948; Expressed in colonic epithelium and 36 other tissues.
+DR   Genevisible; O95932; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003810; F:protein-glutamine gamma-glutamyltransferase activity; IDA:MGI.
+DR   GO; GO:0018149; P:peptide cross-linking; IBA:GO_Central.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 3.
+DR   Gene3D; 3.90.260.10; Transglutaminase-like; 1.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   InterPro; IPR038765; Papain-like_cys_pep_sf.
+DR   InterPro; IPR002931; Transglutaminase-like.
+DR   InterPro; IPR036985; Transglutaminase-like_sf.
+DR   InterPro; IPR023608; Transglutaminase_animal.
+DR   InterPro; IPR013808; Transglutaminase_AS.
+DR   InterPro; IPR008958; Transglutaminase_C.
+DR   InterPro; IPR036238; Transglutaminase_C_sf.
+DR   InterPro; IPR001102; Transglutaminase_N.
+DR   PANTHER; PTHR11590; PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE; 1.
+DR   PANTHER; PTHR11590:SF50; PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE 6; 1.
+DR   Pfam; PF00927; Transglut_C; 2.
+DR   Pfam; PF01841; Transglut_core; 1.
+DR   Pfam; PF00868; Transglut_N; 1.
+DR   PIRSF; PIRSF000459; TGM_EBP42; 1.
+DR   SMART; SM00460; TGc; 1.
+DR   SUPFAM; SSF54001; Cysteine proteinases; 1.
+DR   SUPFAM; SSF81296; E set domains; 1.
+DR   SUPFAM; SSF49309; Transglutaminase, two C-terminal domains; 2.
+DR   PROSITE; PS00547; TRANSGLUTAMINASES; 1.
+PE   1: Evidence at protein level;
+KW   Acyltransferase; Alternative splicing; Calcium; Cytoplasm; Disease variant;
+KW   Metal-binding; Neurodegeneration; Reference proteome;
+KW   Spinocerebellar ataxia; Transferase.
+FT   CHAIN           1..706
+FT                   /note="Protein-glutamine gamma-glutamyltransferase 6"
+FT                   /id="PRO_0000213715"
+FT   ACT_SITE        274
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10024"
+FT   ACT_SITE        333
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10024"
+FT   ACT_SITE        356
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10024"
+FT   BINDING         223
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         226
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         228
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         303
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         305
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         307
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         309
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         327
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         396
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         417
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         445
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         450
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         612..625
+FT                   /note="VLGPAMVGVAVTVE -> RAYPGASGEGLSPV (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_015103"
+FT   VAR_SEQ         626..706
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_015104"
+FT   VARIANT         58
+FT                   /note="M -> V (in dbSNP:rs2076405)"
+FT                   /evidence="ECO:0000269|Ref.1"
+FT                   /id="VAR_013250"
+FT   VARIANT         111
+FT                   /note="R -> C (in SCA35; impairs transglutaminase activity;
+FT                   dbSNP:rs372250159)"
+FT                   /evidence="ECO:0000269|PubMed:25253745"
+FT                   /id="VAR_072179"
+FT   VARIANT         327
+FT                   /note="D -> G (in SCA35; decreased transglutaminase
+FT                   activity; decreased protein stability; dbSNP:rs387907098)"
+FT                   /evidence="ECO:0000269|PubMed:21106500,
+FT                   ECO:0000269|PubMed:23206699"
+FT                   /id="VAR_065360"
+FT   VARIANT         426
+FT                   /note="T -> N (in SCA35; decreased protein stability)"
+FT                   /evidence="ECO:0000269|PubMed:29053796"
+FT                   /id="VAR_080737"
+FT   VARIANT         510
+FT                   /note="D -> H (in SCA35; impairs transglutaminase activity;
+FT                   dbSNP:rs201964784)"
+FT                   /evidence="ECO:0000269|PubMed:22554020,
+FT                   ECO:0000269|PubMed:25253745"
+FT                   /id="VAR_072180"
+FT   VARIANT         517
+FT                   /note="L -> W (in SCA35; decreased transglutaminase
+FT                   activity; decreased protein stability; dbSNP:rs387907097)"
+FT                   /evidence="ECO:0000269|PubMed:21106500,
+FT                   ECO:0000269|PubMed:23206699"
+FT                   /id="VAR_065361"
+FT   VARIANT         574
+FT                   /note="Missing (in SCA35; impairs transglutaminase
+FT                   activity)"
+FT                   /evidence="ECO:0000269|PubMed:25253745"
+FT                   /id="VAR_072181"
+SQ   SEQUENCE   706 AA;  79312 MW;  97BBE2043C5FF834 CRC64;
+     MAGIRVTKVD WQRSRNGAAH HTQEYPCPEL VVRRGQSFSL TLELSRALDC EEILIFTMET
+     GPRASEALHT KAVFQTSELE RGEGWTAARE AQMEKTLTVS LASPPSAVIG RYLLSIRLSS
+     HRKHSNRRLG EFVLLFNPWC AEDDVFLASE EERQEYVLSD SGIIFRGVEK HIRAQGWNYG
+     QFEEDILNIC LSILDRSPGH QNNPATDVSC RHNPIYVTRV ISAMVNSNND RGVVQGQWQG
+     KYGGGTSPLH WRGSVAILQK WLKGRYKPVK YGQCWVFAGV LCTVLRCLGI ATRVVSNFNS
+     AHDTDQNLSV DKYVDSFGRT LEDLTEDSMW NFHVWNESWF ARQDLGPSYN GWQVLDATPQ
+     EESEGVFRCG PASVTAIREG DVHLAHDGPF VFAEVNADYI TWLWHEDESR ERVYSNTKKI
+     GRCISTKAVG SDSRVDITDL YKYPEGSRKE RQVYSKAVNR LFGVEASGRR IWIRRAGGRC
+     LWRDDLLEPA TKPSIAGKFK VLEPPMLGHD LRLALCLANL TSRAQRVRVN LSGATILYTR
+     KPVAEILHES HAVRLGPQEE KRIPITISYS KYKEDLTEDK KILLAAMCLV TKGEKLLVEK
+     DITLEDFITI KVLGPAMVGV AVTVEVTVVN PLIERVKDCA LMVEGSGLLQ EQLSIDVPTL
+     EPQERASVQF DITPSKSGPR QLQVDLVSPH FPDIKGFVIV HVATAK
+//

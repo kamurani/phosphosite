@@ -1,0 +1,485 @@
+ID   PTGIS_HUMAN             Reviewed;         500 AA.
+AC   Q16647; Q3MII8; Q9HAX2; Q9HAX3; Q9HAX4;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   28-JUN-2023, entry version 202.
+DE   RecName: Full=Prostacyclin synthase;
+DE            EC=5.3.99.4 {ECO:0000269|PubMed:15115769, ECO:0000269|PubMed:18032380, ECO:0000269|PubMed:25623425};
+DE   AltName: Full=Hydroperoxy icosatetraenoate dehydratase {ECO:0000305};
+DE            EC=4.2.1.152 {ECO:0000269|PubMed:17459323};
+DE   AltName: Full=Prostaglandin I2 synthase;
+GN   Name=PTGIS; Synonyms=CYP8, CYP8A1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Aorta;
+RX   PubMed=8185632; DOI=10.1006/bbrc.1994.1652;
+RA   Miyata A., Hara S., Yokoyama C., Inoue H., Ullrich V., Tanabe T.;
+RT   "Molecular cloning and expression of human prostacyclin synthase.";
+RL   Biochem. Biophys. Res. Commun. 200:1728-1734(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANTS LEU-38; ARG-118 AND SER-379.
+RX   PubMed=11281454; DOI=10.1007/s004390000444;
+RA   Chevalier D., Cauffiez C., Bernard C., Lo-Guidice J.-M., Allorge D.,
+RA   Fazio F., Ferrari N., Libersa C., Lhermitte M., D'Halluin J.C., Broly F.;
+RT   "Characterization of new mutations in the coding sequence and 5'-
+RT   untranslated region of the human prostacyclin synthase gene (CYP8A1).";
+RL   Hum. Genet. 108:148-155(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J., Buck D., Burrill W.D.,
+RA   Butler A.P., Carder C., Carter N.P., Chapman J.C., Clamp M., Clark G.,
+RA   Clark L.N., Clark S.Y., Clee C.M., Clegg S., Cobley V.E., Collier R.E.,
+RA   Connor R.E., Corby N.R., Coulson A., Coville G.J., Deadman R., Dhami P.D.,
+RA   Dunn M., Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H., Rice C.M.,
+RA   Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S., Skuce C.D.,
+RA   Smith M.L., Soderlund C., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A., Tracey A.,
+RA   Tromans A.C., Vaudin M., Wall M., Wallis J.M., Whitehead S.L.,
+RA   Whittaker P., Willey D.L., Williams L., Williams S.A., Wilming L.,
+RA   Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   INVOLVEMENT IN EHT.
+RX   PubMed=12372404; DOI=10.1016/s0006-291x(02)02341-0;
+RA   Nakayama T., Soma M., Watanabe Y., Hasimu B., Sato M., Aoi N., Kosuge K.,
+RA   Kanmatsuse K., Kokubun S., Marrow J.D., Oates J.A.;
+RT   "Splicing mutation of the prostacyclin synthase gene in a family associated
+RT   with hypertension.";
+RL   Biochem. Biophys. Res. Commun. 297:1135-1139(2002).
+RN   [6]
+RP   CATALYTIC ACTIVITY, FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   MUTAGENESIS OF CYS-441.
+RX   PubMed=15115769; DOI=10.1093/jb/mvh059;
+RA   Wada M., Yokoyama C., Hatae T., Shimonishi M., Nakamura M., Imai Y.,
+RA   Ullrich V., Tanabe T.;
+RT   "Purification and characterization of recombinant human prostacyclin
+RT   synthase.";
+RL   J. Biochem. 135:455-463(2004).
+RN   [7]
+RP   CATALYTIC ACTIVITY, FUNCTION, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=17459323; DOI=10.1016/j.abb.2007.03.012;
+RA   Yeh H.C., Tsai A.L., Wang L.H.;
+RT   "Reaction mechanisms of 15-hydroperoxyeicosatetraenoic acid catalyzed by
+RT   human prostacyclin and thromboxane synthases.";
+RL   Arch. Biochem. Biophys. 461:159-168(2007).
+RN   [8]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, VARIANT
+RP   THR-447, AND CHARACTERIZATION OF VARIANT THR-447.
+RX   PubMed=25623425; DOI=10.1016/j.abb.2015.01.012;
+RA   Cho S.A., Rohn-Glowacki K.J., Jarrar Y.B., Yi M., Kim W.Y., Shin J.G.,
+RA   Lee S.J.;
+RT   "Analysis of genetic polymorphism and biochemical characterization of a
+RT   functionally decreased variant in prostacyclin synthase gene (CYP8A1) in
+RT   humans.";
+RL   Arch. Biochem. Biophys. 569C:10-18(2015).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) OF 23-500 IN COMPLEX WITH HEME, AND
+RP   COFACTOR.
+RX   PubMed=17020766; DOI=10.1016/j.jmb.2006.09.039;
+RA   Chiang C.W., Yeh H.C., Wang L.H., Chan N.L.;
+RT   "Crystal structure of the human prostacyclin synthase.";
+RL   J. Mol. Biol. 364:266-274(2006).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.62 ANGSTROMS) OF 18-500 IN COMPLEX WITH HEME AND
+RP   INHIBITOR MINOXIDIL, FUNCTION, CATALYTIC ACTIVITY, COFACTOR, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=18032380; DOI=10.1074/jbc.m707470200;
+RA   Li Y.C., Chiang C.W., Yeh H.C., Hsu P.Y., Whitby F.G., Wang L.H.,
+RA   Chan N.L.;
+RT   "Structures of prostacyclin synthase and its complexes with substrate
+RT   analog and inhibitor reveal a ligand-specific heme conformation change.";
+RL   J. Biol. Chem. 283:2917-2926(2008).
+CC   -!- FUNCTION: Catalyzes the biosynthesis and metabolism of eicosanoids.
+CC       Catalyzes the isomerization of prostaglandin H2 to prostacyclin (=
+CC       prostaglandin I2), a potent mediator of vasodilation and inhibitor of
+CC       platelet aggregation (PubMed:18032380, PubMed:25623425,
+CC       PubMed:12372404, PubMed:15115769). Additionally, displays dehydratase
+CC       activity, toward hydroperoxyeicosatetraenoates (HPETEs), especially
+CC       toward (15S)-hydroperoxy-(5Z,8Z,11Z,13E)-eicosatetraenoate (15(S)-
+CC       HPETE) (PubMed:17459323). {ECO:0000269|PubMed:12372404,
+CC       ECO:0000269|PubMed:15115769, ECO:0000269|PubMed:17459323,
+CC       ECO:0000269|PubMed:18032380, ECO:0000269|PubMed:25623425}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=prostaglandin H2 = prostaglandin I2; Xref=Rhea:RHEA:23580,
+CC         ChEBI:CHEBI:57403, ChEBI:CHEBI:57405; EC=5.3.99.4;
+CC         Evidence={ECO:0000269|PubMed:15115769, ECO:0000269|PubMed:18032380,
+CC         ECO:0000269|PubMed:25623425};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:23581;
+CC         Evidence={ECO:0000305|PubMed:15115769, ECO:0000305|PubMed:18032380,
+CC         ECO:0000305|PubMed:25623425};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a hydroperoxyeicosatetraenoate = an oxoeicosatetraenoate +
+CC         H2O; Xref=Rhea:RHEA:55556, ChEBI:CHEBI:15377, ChEBI:CHEBI:59720,
+CC         ChEBI:CHEBI:131859; EC=4.2.1.152;
+CC         Evidence={ECO:0000269|PubMed:17459323};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:55557;
+CC         Evidence={ECO:0000269|PubMed:17459323};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(15S)-hydroperoxy-(5Z,8Z,11Z,13E)-eicosatetraenoate = 15-oxo-
+CC         (5Z,8Z,11Z,13E)-eicosatetraenoate + H2O; Xref=Rhea:RHEA:48636,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:57410, ChEBI:CHEBI:57446;
+CC         Evidence={ECO:0000269|PubMed:17459323};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:48637;
+CC         Evidence={ECO:0000305|PubMed:17459323};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(15S)-hydroperoxy-(5Z,8Z,11Z,13E)-eicosatetraenoate + AH2 =
+CC         (5Z,8Z,11Z,13E,15S)-hydroxyeicosatetraenoate + A + H2O;
+CC         Xref=Rhea:RHEA:48856, ChEBI:CHEBI:13193, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:17499, ChEBI:CHEBI:57409, ChEBI:CHEBI:57446;
+CC         Evidence={ECO:0000269|PubMed:17459323};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:48857;
+CC         Evidence={ECO:0000305|PubMed:17459323};
+CC   -!- COFACTOR:
+CC       Name=heme; Xref=ChEBI:CHEBI:30413;
+CC         Evidence={ECO:0000269|PubMed:17020766, ECO:0000269|PubMed:18032380};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=9.55 uM for 6-keto-PGF1alpha {ECO:0000269|PubMed:25623425};
+CC         KM=30 uM for prostaglandin H2 {ECO:0000269|PubMed:15115769};
+CC         KM=60 uM for (15S)-hydroperoxy-(5Z,8Z,11Z,13E)-eicosatetraenoate
+CC         {ECO:0000269|PubMed:17459323};
+CC         KM=13 uM for prostaglandin H2 (at 23 degrees Celsius)
+CC         {ECO:0000269|PubMed:18032380};
+CC         Vmax=534 mmol/min/pg enzyme with prostaglandin H2 as substrate
+CC         {ECO:0000269|PubMed:25623425};
+CC         Vmax=15 umol/min/mg enzyme with prostaglandin H2 as substrate
+CC         {ECO:0000269|PubMed:15115769};
+CC         Vmax=980 mol/min/mol enzyme with prostaglandin H2 as substrate
+CC         {ECO:0000269|PubMed:18032380};
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum membrane
+CC       {ECO:0000250|UniProtKB:Q29626}; Single-pass membrane protein
+CC       {ECO:0000255}.
+CC   -!- TISSUE SPECIFICITY: Widely expressed; particularly abundant in ovary,
+CC       heart, skeletal muscle, lung and prostate.
+CC       {ECO:0000269|PubMed:8185632}.
+CC   -!- DISEASE: Essential hypertension (EHT) [MIM:145500]: A condition in
+CC       which blood pressure is consistently higher than normal with no
+CC       identifiable cause. {ECO:0000269|PubMed:12372404}. Note=The disease may
+CC       be caused by variants affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the cytochrome P450 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=PharmVar Pharmacogen Variation Consortium;
+CC       Note=CYP8A1 alleles;
+CC       URL="https://www.pharmvar.org/gene/PTGIS";
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/44219/PTGIS";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D38145; BAA07343.1; -; mRNA.
+DR   EMBL; AF297048; AAG31781.1; -; mRNA.
+DR   EMBL; AF297049; AAG31782.1; -; mRNA.
+DR   EMBL; AF297050; AAG31783.1; -; mRNA.
+DR   EMBL; AF297051; AAG31784.1; -; mRNA.
+DR   EMBL; AF297052; AAG31785.1; -; mRNA.
+DR   EMBL; AL118525; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC101809; AAI01810.1; -; mRNA.
+DR   EMBL; BC101811; AAI01812.1; -; mRNA.
+DR   CCDS; CCDS13419.1; -.
+DR   PIR; JC2231; JC2231.
+DR   RefSeq; NP_000952.1; NM_000961.3.
+DR   PDB; 2IAG; X-ray; 2.15 A; A/B=23-500.
+DR   PDB; 3B6H; X-ray; 1.62 A; A/B=18-500.
+DR   PDBsum; 2IAG; -.
+DR   PDBsum; 3B6H; -.
+DR   AlphaFoldDB; Q16647; -.
+DR   SMR; Q16647; -.
+DR   BioGRID; 111712; 5.
+DR   IntAct; Q16647; 1.
+DR   STRING; 9606.ENSP00000244043; -.
+DR   BindingDB; Q16647; -.
+DR   ChEMBL; CHEMBL4428; -.
+DR   DrugBank; DB08675; (5Z)-7-{(1R,4S,5R,6R)-6-[(1E)-1-Octen-1-yl]-2,3-diazabicyclo[2.2.1]hept-2-en-5-yl}-5-heptenoic acid.
+DR   DrugBank; DB01240; Epoprostenol.
+DR   DrugBank; DB00812; Phenylbutazone.
+DR   DrugCentral; Q16647; -.
+DR   GuidetoPHARMACOLOGY; 1356; -.
+DR   SwissLipids; SLP:000001097; -.
+DR   CarbonylDB; Q16647; -.
+DR   iPTMnet; Q16647; -.
+DR   PhosphoSitePlus; Q16647; -.
+DR   BioMuta; PTGIS; -.
+DR   DMDM; 2493373; -.
+DR   EPD; Q16647; -.
+DR   jPOST; Q16647; -.
+DR   MassIVE; Q16647; -.
+DR   MaxQB; Q16647; -.
+DR   PaxDb; Q16647; -.
+DR   PeptideAtlas; Q16647; -.
+DR   ProteomicsDB; 60999; -.
+DR   Antibodypedia; 2399; 277 antibodies from 33 providers.
+DR   DNASU; 5740; -.
+DR   Ensembl; ENST00000244043.5; ENSP00000244043.3; ENSG00000124212.6.
+DR   GeneID; 5740; -.
+DR   KEGG; hsa:5740; -.
+DR   MANE-Select; ENST00000244043.5; ENSP00000244043.3; NM_000961.4; NP_000952.1.
+DR   UCSC; uc002xut.4; human.
+DR   AGR; HGNC:9603; -.
+DR   CTD; 5740; -.
+DR   DisGeNET; 5740; -.
+DR   GeneCards; PTGIS; -.
+DR   HGNC; HGNC:9603; PTGIS.
+DR   HPA; ENSG00000124212; Tissue enhanced (fallopian tube, urinary bladder).
+DR   MalaCards; PTGIS; -.
+DR   MIM; 145500; phenotype.
+DR   MIM; 601699; gene.
+DR   neXtProt; NX_Q16647; -.
+DR   OpenTargets; ENSG00000124212; -.
+DR   Orphanet; 243761; NON RARE IN EUROPE: Essential hypertension.
+DR   PharmGKB; PA292; -.
+DR   VEuPathDB; HostDB:ENSG00000124212; -.
+DR   eggNOG; KOG0684; Eukaryota.
+DR   GeneTree; ENSGT00940000153709; -.
+DR   HOGENOM; CLU_018012_1_3_1; -.
+DR   InParanoid; Q16647; -.
+DR   OMA; KFITRMK; -.
+DR   OrthoDB; 1537669at2759; -.
+DR   PhylomeDB; Q16647; -.
+DR   TreeFam; TF105090; -.
+DR   BioCyc; MetaCyc:HS04738-MON; -.
+DR   BRENDA; 5.3.99.4; 2681.
+DR   PathwayCommons; Q16647; -.
+DR   Reactome; R-HSA-193368; Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol.
+DR   Reactome; R-HSA-193775; Synthesis of bile acids and bile salts via 24-hydroxycholesterol.
+DR   Reactome; R-HSA-193807; Synthesis of bile acids and bile salts via 27-hydroxycholesterol.
+DR   Reactome; R-HSA-197264; Nicotinamide salvaging.
+DR   Reactome; R-HSA-211979; Eicosanoids.
+DR   Reactome; R-HSA-211994; Sterols are 12-hydroxylated by CYP8B1.
+DR   Reactome; R-HSA-2162123; Synthesis of Prostaglandins (PG) and Thromboxanes (TX).
+DR   SABIO-RK; Q16647; -.
+DR   SignaLink; Q16647; -.
+DR   BioGRID-ORCS; 5740; 14 hits in 1164 CRISPR screens.
+DR   ChiTaRS; PTGIS; human.
+DR   EvolutionaryTrace; Q16647; -.
+DR   GeneWiki; Prostacyclin_synthase; -.
+DR   GenomeRNAi; 5740; -.
+DR   Pharos; Q16647; Tchem.
+DR   PRO; PR:Q16647; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   RNAct; Q16647; protein.
+DR   Bgee; ENSG00000124212; Expressed in parietal pleura and 167 other tissues.
+DR   Genevisible; Q16647; HS.
+DR   GO; GO:0005901; C:caveola; IDA:UniProtKB.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; ISS:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0020037; F:heme binding; IDA:UniProtKB.
+DR   GO; GO:0106256; F:hydroperoxy icosatetraenoate dehydratase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0004497; F:monooxygenase activity; IEA:InterPro.
+DR   GO; GO:0016705; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen; IEA:InterPro.
+DR   GO; GO:0008116; F:prostaglandin-I synthase activity; IDA:UniProtKB.
+DR   GO; GO:0097190; P:apoptotic signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IDA:UniProtKB.
+DR   GO; GO:0071347; P:cellular response to interleukin-1; IEP:UniProtKB.
+DR   GO; GO:0071354; P:cellular response to interleukin-6; IEP:UniProtKB.
+DR   GO; GO:0019371; P:cyclooxygenase pathway; TAS:Reactome.
+DR   GO; GO:0006690; P:icosanoid metabolic process; IDA:UniProtKB.
+DR   GO; GO:0034356; P:NAD biosynthesis via nicotinamide riboside salvage pathway; TAS:Reactome.
+DR   GO; GO:0050728; P:negative regulation of inflammatory response; IDA:UniProtKB.
+DR   GO; GO:0032088; P:negative regulation of NF-kappaB transcription factor activity; IDA:UniProtKB.
+DR   GO; GO:0045019; P:negative regulation of nitric oxide biosynthetic process; IDA:UniProtKB.
+DR   GO; GO:0045766; P:positive regulation of angiogenesis; IMP:UniProtKB.
+DR   GO; GO:1900119; P:positive regulation of execution phase of apoptosis; IDA:UniProtKB.
+DR   GO; GO:0035360; P:positive regulation of peroxisome proliferator activated receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0001516; P:prostaglandin biosynthetic process; IDA:UniProtKB.
+DR   CDD; cd20634; PGIS_CYP8A1; 1.
+DR   DisProt; DP02578; -.
+DR   Gene3D; 1.10.630.10; Cytochrome P450; 1.
+DR   InterPro; IPR001128; Cyt_P450.
+DR   InterPro; IPR024204; Cyt_P450_CYP7A1-type.
+DR   InterPro; IPR002403; Cyt_P450_E_grp-IV.
+DR   InterPro; IPR036396; Cyt_P450_sf.
+DR   InterPro; IPR027286; PTGIS.
+DR   PANTHER; PTHR24306; -; 1.
+DR   PANTHER; PTHR24306:SF4; PROSTACYCLIN SYNTHASE; 1.
+DR   Pfam; PF00067; p450; 1.
+DR   PIRSF; PIRSF000047; Cytochrome_CYPVIIA1; 1.
+DR   PIRSF; PIRSF500628; PTGIS; 1.
+DR   PRINTS; PR00465; EP450IV.
+DR   SUPFAM; SSF48264; Cytochrome P450; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Endoplasmic reticulum; Fatty acid biosynthesis;
+KW   Fatty acid metabolism; Heme; Iron; Isomerase; Lipid biosynthesis;
+KW   Lipid metabolism; Lyase; Membrane; Metal-binding;
+KW   Prostaglandin biosynthesis; Prostaglandin metabolism; Reference proteome;
+KW   Transmembrane; Transmembrane helix.
+FT   CHAIN           1..500
+FT                   /note="Prostacyclin synthase"
+FT                   /id="PRO_0000051910"
+FT   TRANSMEM        1..20
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   BINDING         106
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:F1RE08"
+FT   BINDING         112
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:F1RE08"
+FT   BINDING         287
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:F1RE08"
+FT   BINDING         358..359
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:F1RE08"
+FT   BINDING         382
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:F1RE08"
+FT   BINDING         441
+FT                   /ligand="heme"
+FT                   /ligand_id="ChEBI:CHEBI:30413"
+FT                   /ligand_part="Fe"
+FT                   /ligand_part_id="ChEBI:CHEBI:18248"
+FT                   /note="axial binding residue"
+FT                   /evidence="ECO:0000269|PubMed:17020766,
+FT                   ECO:0000269|PubMed:18032380, ECO:0007744|PDB:2IAG,
+FT                   ECO:0007744|PDB:3B6H"
+FT   VARIANT         38
+FT                   /note="P -> L (in allele CYP8A1*2; dbSNP:rs1173082660)"
+FT                   /evidence="ECO:0000269|PubMed:11281454"
+FT                   /id="VAR_010915"
+FT   VARIANT         118
+FT                   /note="S -> R (in allele CYP8A1*3; dbSNP:rs5622)"
+FT                   /evidence="ECO:0000269|PubMed:11281454"
+FT                   /id="VAR_010916"
+FT   VARIANT         154
+FT                   /note="E -> A (in dbSNP:rs5623)"
+FT                   /id="VAR_014634"
+FT   VARIANT         171
+FT                   /note="F -> L (in dbSNP:rs5624)"
+FT                   /id="VAR_014635"
+FT   VARIANT         236
+FT                   /note="R -> C (in dbSNP:rs5626)"
+FT                   /id="VAR_014636"
+FT   VARIANT         379
+FT                   /note="R -> S (in allele CYP8A1*4; dbSNP:rs56195291)"
+FT                   /evidence="ECO:0000269|PubMed:11281454"
+FT                   /id="VAR_010917"
+FT   VARIANT         447
+FT                   /note="A -> T (in allele CYP8A1*5; results in a
+FT                   significantly decreased enzyme activity;
+FT                   dbSNP:rs146531327)"
+FT                   /evidence="ECO:0000269|PubMed:25623425"
+FT                   /id="VAR_073186"
+FT   VARIANT         500
+FT                   /note="P -> S (in dbSNP:rs5584)"
+FT                   /id="VAR_014637"
+FT   MUTAGEN         441
+FT                   /note="C->H: Abolishes prostaglandin-I synthase activity."
+FT                   /evidence="ECO:0000269|PubMed:15115769"
+FT   TURN            38..40
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           43..48
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           50..61
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          63..69
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          72..77
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           80..82
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           83..87
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   TURN            91..93
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          94..96
+FT                   /evidence="ECO:0007829|PDB:2IAG"
+FT   HELIX           98..106
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           117..125
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           130..155
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          160..163
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           164..181
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           190..219
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           224..240
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           243..246
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           254..265
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           270..285
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           288..300
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           303..318
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           333..336
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           339..352
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          357..361
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          365..368
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          374..377
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          382..385
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           388..392
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   TURN            395..397
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          398..400
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   TURN            406..409
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          414..416
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           444..460
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          462..468
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   HELIX           478..480
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          482..485
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          488..490
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+FT   STRAND          493..498
+FT                   /evidence="ECO:0007829|PDB:3B6H"
+SQ   SEQUENCE   500 AA;  57104 MW;  39595442BFC0B625 CRC64;
+     MAWAALLGLL AALLLLLLLS RRRTRRPGEP PLDLGSIPWL GYALDFGKDA ASFLTRMKEK
+     HGDIFTILVG GRYVTVLLDP HSYDAVVWEP RTRLDFHAYA IFLMERIFDV QLPHYSPSDE
+     KARMKLTLLH RELQALTEAM YTNLHAVLLG DATEAGSGWH EMGLLDFSYS FLLRAGYLTL
+     YGIEALPRTH ESQAQDRVHS ADVFHTFRQL DRLLPKLARG SLSVGDKDHM CSVKSRLWKL
+     LSPARLARRA HRSKWLESYL LHLEEMGVSE EMQARALVLQ LWATQGNMGP AAFWLLLFLL
+     KNPEALAAVR GELESILWQA EQPVSQTTTL PQKVLDSTPV LDSVLSESLR LTAAPFITRE
+     VVVDLAMPMA DGREFNLRRG DRLLLFPFLS PQRDPEIYTD PEVFKYNRFL NPDGSEKKDF
+     YKDGKRLKNY NMPWGAGHNH CLGRSYAVNS IKQFVFLVLV HLDLELINAD VEIPEFDLSR
+     YGFGLMQPEH DVPVRYRIRP
+//

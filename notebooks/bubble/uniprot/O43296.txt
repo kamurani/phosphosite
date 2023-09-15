@@ -1,0 +1,322 @@
+ID   ZN264_HUMAN             Reviewed;         627 AA.
+AC   O43296; A8K8Y9; Q9P1V0;
+DT   20-JUN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1998, sequence version 1.
+DT   28-JUN-2023, entry version 190.
+DE   RecName: Full=Zinc finger protein 264;
+GN   Name=ZNF264; Synonyms=KIAA0412;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=9455477; DOI=10.1093/dnares/4.5.307;
+RA   Ishikawa K., Nagase T., Nakajima D., Seki N., Ohira M., Miyajima N.,
+RA   Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. VIII. 78
+RT   new cDNA clones from brain which code for large proteins in vitro.";
+RL   DNA Res. 4:307-313(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT TYR-343 AND TYR-511, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=15592455; DOI=10.1038/nbt1046;
+RA   Rush J., Moritz A., Lee K.A., Guo A., Goss V.L., Spek E.J., Zhang H.,
+RA   Zha X.-M., Polakiewicz R.D., Comb M.J.;
+RT   "Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.";
+RL   Nat. Biotechnol. 23:94-101(2005).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-80, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [7]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-425, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- INTERACTION:
+CC       O43296; Q8NHQ1: CEP70; NbExp=4; IntAct=EBI-4395808, EBI-739624;
+CC       O43296; Q92997: DVL3; NbExp=3; IntAct=EBI-4395808, EBI-739789;
+CC       O43296; A6NEM1: GOLGA6L9; NbExp=3; IntAct=EBI-4395808, EBI-5916454;
+CC       O43296; O15397: IPO8; NbExp=3; IntAct=EBI-4395808, EBI-358808;
+CC       O43296; P60371: KRTAP10-6; NbExp=3; IntAct=EBI-4395808, EBI-12012928;
+CC       O43296; P60409: KRTAP10-7; NbExp=3; IntAct=EBI-4395808, EBI-10172290;
+CC       O43296; P60410: KRTAP10-8; NbExp=3; IntAct=EBI-4395808, EBI-10171774;
+CC       O43296; Q9BYR9: KRTAP2-4; NbExp=3; IntAct=EBI-4395808, EBI-14065470;
+CC       O43296; P23508: MCC; NbExp=3; IntAct=EBI-4395808, EBI-307531;
+CC       O43296; Q99750: MDFI; NbExp=3; IntAct=EBI-4395808, EBI-724076;
+CC       O43296; Q9NRD5: PICK1; NbExp=3; IntAct=EBI-4395808, EBI-79165;
+CC       O43296; Q8WV44: TRIM41; NbExp=4; IntAct=EBI-4395808, EBI-725997;
+CC       O43296; Q9Y473: ZNF175; NbExp=5; IntAct=EBI-4395808, EBI-3438881;
+CC       O43296; Q8TF50: ZNF526; NbExp=3; IntAct=EBI-4395808, EBI-11035148;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Relatively highly expressed in kidney, thymus,
+CC       testis, ovary, brain, lung, placenta, and prostate, and relatively low
+CC       expression in heart, liver, skeletal muscle, pancreas, spleen, and
+CC       small intestine.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA24842.2; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB007872; BAA24842.2; ALT_INIT; mRNA.
+DR   EMBL; AK292504; BAF85193.1; -; mRNA.
+DR   EMBL; AC005261; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC025588; AAF42766.1; -; Genomic_DNA.
+DR   CCDS; CCDS33127.1; -.
+DR   RefSeq; NP_003408.1; NM_003417.4.
+DR   AlphaFoldDB; O43296; -.
+DR   SMR; O43296; -.
+DR   BioGRID; 114815; 42.
+DR   IntAct; O43296; 29.
+DR   STRING; 9606.ENSP00000263095; -.
+DR   iPTMnet; O43296; -.
+DR   PhosphoSitePlus; O43296; -.
+DR   BioMuta; ZNF264; -.
+DR   EPD; O43296; -.
+DR   jPOST; O43296; -.
+DR   MassIVE; O43296; -.
+DR   MaxQB; O43296; -.
+DR   PaxDb; O43296; -.
+DR   PeptideAtlas; O43296; -.
+DR   ProteomicsDB; 48870; -.
+DR   Antibodypedia; 19635; 180 antibodies from 19 providers.
+DR   DNASU; 9422; -.
+DR   Ensembl; ENST00000263095.10; ENSP00000263095.5; ENSG00000083844.10.
+DR   Ensembl; ENST00000536056.1; ENSP00000440376.1; ENSG00000083844.10.
+DR   GeneID; 9422; -.
+DR   KEGG; hsa:9422; -.
+DR   MANE-Select; ENST00000263095.10; ENSP00000263095.5; NM_003417.5; NP_003408.1.
+DR   UCSC; uc002qob.3; human.
+DR   AGR; HGNC:13057; -.
+DR   CTD; 9422; -.
+DR   DisGeNET; 9422; -.
+DR   GeneCards; ZNF264; -.
+DR   HGNC; HGNC:13057; ZNF264.
+DR   HPA; ENSG00000083844; Low tissue specificity.
+DR   MIM; 604668; gene.
+DR   neXtProt; NX_O43296; -.
+DR   OpenTargets; ENSG00000083844; -.
+DR   PharmGKB; PA37635; -.
+DR   VEuPathDB; HostDB:ENSG00000083844; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000159953; -.
+DR   HOGENOM; CLU_002678_44_5_1; -.
+DR   InParanoid; O43296; -.
+DR   OMA; TSCEPTL; -.
+DR   OrthoDB; 5250644at2759; -.
+DR   PhylomeDB; O43296; -.
+DR   TreeFam; TF341817; -.
+DR   PathwayCommons; O43296; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; O43296; -.
+DR   BioGRID-ORCS; 9422; 8 hits in 1172 CRISPR screens.
+DR   ChiTaRS; ZNF264; human.
+DR   GeneWiki; ZNF264; -.
+DR   GenomeRNAi; 9422; -.
+DR   Pharos; O43296; Tdark.
+DR   PRO; PR:O43296; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; O43296; protein.
+DR   Bgee; ENSG00000083844; Expressed in buccal mucosa cell and 188 other tissues.
+DR   ExpressionAtlas; O43296; baseline and differential.
+DR   Genevisible; O43296; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IEA:InterPro.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 13.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24381; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24381:SF154; ZINC FINGER PROTEIN 550; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 11.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 13.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 7.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 13.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 13.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Isopeptide bond; Metal-binding; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repeat; Transcription; Transcription regulation;
+KW   Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..627
+FT                   /note="Zinc finger protein 264"
+FT                   /id="PRO_0000047492"
+FT   DOMAIN          14..85
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         203..225
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         231..253
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         259..281
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         287..309
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         315..337
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         343..365
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         371..393
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         399..421
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         427..449
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         455..477
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         483..505
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         511..533
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         539..561
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          74..155
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          174..194
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          605..627
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        74..89
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        97..129
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         80
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17525332"
+FT   MOD_RES         343
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0007744|PubMed:15592455"
+FT   MOD_RES         511
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0007744|PubMed:15592455"
+FT   CROSSLNK        425
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         181
+FT                   /note="R -> T (in dbSNP:rs2074858)"
+FT                   /id="VAR_052803"
+FT   VARIANT         183
+FT                   /note="R -> H (in dbSNP:rs917340)"
+FT                   /id="VAR_052804"
+SQ   SEQUENCE   627 AA;  70587 MW;  BF0A6460AD07CECB CRC64;
+     MAAAVLTDRA QVSVTFDDVA VTFTKEEWGQ LDLAQRTLYQ EVMLENCGLL VSLGCPVPKA
+     ELICHLEHGQ EPWTRKEDLS QDTCPGDKGK PKTTEPTTCE PALSEGISLQ GQVTQGNSVD
+     SQLGQAEDQD GLSEMQEGHF RPGIDPQEKS PGKMSPECDG LGTADGVCSR IGQEQVSPGD
+     RVRSHNSCES GKDPMIQEEE NNFKCSECGK VFNKKHLLAG HEKIHSGVKP YECTECGKTF
+     IKSTHLLQHH MIHTGERPYE CMECGKAFNR KSYLTQHQRI HSGEKPYKCN ECGKAFTHRS
+     NFVLHNRRHT GEKSFVCTEC GQVFRHRPGF LRHYVVHSGE NPYECLECGK VFKHRSYLMW
+     HQQTHTGEKP YECSECGKVF LESAALIHHY VIHTGEKPFE CLECGKAFNH RSYLKRHQRI
+     HTGEKPFVCS ECGKAFTHCS TFILHKRAHT GEKPFECKEC GKAFSNRKDL IRHFSIHTGE
+     KPYECVECGK AFTRMSGLTR HKRIHSGEKP YECVECGKSF CWSTNLIRHA IIHTGEKPYK
+     CSECGKAFSR SSSLTQHQRM HTGKNPISVT DVGRPFTSGQ TSVTLRELLL GKDFLNVTTE
+     ANILPEETSS SASDQPYQRE TPQVSSL
+//

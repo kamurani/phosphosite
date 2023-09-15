@@ -1,0 +1,1109 @@
+ID   CY24B_HUMAN             Reviewed;         570 AA.
+AC   P04839; A8K138; Q2PP16;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   28-JUN-2023, entry version 234.
+DE   RecName: Full=Cytochrome b-245 heavy chain;
+DE            EC=1.-.-.-;
+DE   AltName: Full=CGD91-phox;
+DE   AltName: Full=Cytochrome b(558) subunit beta;
+DE            Short=Cytochrome b558 subunit beta;
+DE   AltName: Full=Heme-binding membrane glycoprotein gp91phox;
+DE   AltName: Full=NADPH oxidase 2;
+DE   AltName: Full=Neutrophil cytochrome b 91 kDa polypeptide;
+DE   AltName: Full=Superoxide-generating NADPH oxidase heavy chain subunit;
+DE   AltName: Full=gp91-1;
+DE   AltName: Full=gp91-phox;
+DE   AltName: Full=p22 phagocyte B-cytochrome;
+GN   Name=CYBB {ECO:0000312|HGNC:HGNC:2578}; Synonyms=NOX2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], VARIANTS CGDX ASP-41 AND ARG-537, AND
+RP   VARIANTS ARG-364 AND GLU-517.
+RX   PubMed=12139950; DOI=10.1006/clim.2002.5230;
+RA   Jirapongsananuruk O., Niemela J.E., Malech H.L., Fleisher T.A.;
+RT   "CYBB mutation analysis in X-linked chronic granulomatous disease.";
+RL   Clin. Immunol. 104:73-76(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RG   NHLBI resequencing and genotyping service (RS&G);
+RL   Submitted (DEC-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lymph;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 2-570.
+RX   PubMed=2425263; DOI=10.1038/322032a0;
+RA   Royer-Pokora B., Kunkel L.M., Monaco A.P., Goff S.C., Newburger P.E.,
+RA   Baehner R.L., Cole F.S., Curnutte J.T., Orkin S.H.;
+RT   "Cloning the gene for an inherited human disorder -- chronic granulomatous
+RT   disease -- on the basis of its chromosomal location.";
+RL   Nature 322:32-38(1986).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-135.
+RX   PubMed=3600768; DOI=10.1038/327717a0;
+RA   Dinauer M.C., Orkin S.H., Brown R., Jesaitis A.J., Parkos C.A.;
+RT   "The glycoprotein encoded by the X-linked chronic granulomatous disease
+RT   locus is a component of the neutrophil cytochrome b complex.";
+RL   Nature 327:717-720(1987).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 233-267.
+RC   TISSUE=Peripheral blood;
+RX   PubMed=9790760; DOI=10.1006/geno.1998.5510;
+RA   Kumatori A., Faizunnessa N.N., Suzuki S., Moriuchi T., Kurozumi H.,
+RA   Nakamura M.;
+RT   "Nonhomologous recombination between the cytochrome b558 heavy chain gene
+RT   (CYBB) and LINE-1 causes an X-linked chronic granulomatous disease.";
+RL   Genomics 53:123-128(1998).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 2-44, AND SUBUNIT.
+RX   PubMed=3600769; DOI=10.1038/327720a0;
+RA   Teahan C., Rowe P., Parker P., Totty N., Segal A.W.;
+RT   "The X-linked chronic granulomatous disease gene codes for the beta-chain
+RT   of cytochrome b-245.";
+RL   Nature 327:720-721(1987).
+RN   [10]
+RP   CHARACTERIZATION AS A PROTON CHANNEL.
+RX   PubMed=10578014; DOI=10.1085/jgp.114.6.771;
+RA   Henderson L.M., Meech R.W.;
+RT   "Evidence that the product of the human X-linked CGD gene, gp91-phox, is a
+RT   voltage-gated H(+) pathway.";
+RL   J. Gen. Physiol. 114:771-786(1999).
+RN   [11]
+RP   SUBUNIT, PHOSPHORYLATION, AND TISSUE SPECIFICITY.
+RX   PubMed=19028840; DOI=10.1096/fj.08-114553;
+RA   Raad H., Paclet M.H., Boussetta T., Kroviarski Y., Morel F., Quinn M.T.,
+RA   Gougerot-Pocidalo M.A., Dang P.M., El-Benna J.;
+RT   "Regulation of the phagocyte NADPH oxidase activity: phosphorylation of
+RT   gp91phox/NOX2 by protein kinase C enhances its diaphorase activity and
+RT   binding to Rac2, p67phox, and p47phox.";
+RL   FASEB J. 23:1011-1022(2009).
+RN   [12]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-132; ASN-149 AND ASN-240.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [14]
+RP   INTERACTION WITH CYBC1, AND SUBCELLULAR LOCATION.
+RX   PubMed=28351984; DOI=10.1084/jem.20161382;
+RA   Thomas D.C., Clare S., Sowerby J.M., Pardo M., Juss J.K., Goulding D.A.,
+RA   van der Weyden L., Storisteanu D., Prakash A., Espeli M., Flint S.,
+RA   Lee J.C., Hoenderdos K., Kane L., Harcourt K., Mukhopadhyay S., Umrania Y.,
+RA   Antrobus R., Nathan J.A., Adams D.J., Bateman A., Choudhary J.S.,
+RA   Lyons P.A., Condliffe A.M., Chilvers E.R., Dougan G., Smith K.G.;
+RT   "Eros is a novel transmembrane protein that controls the phagocyte
+RT   respiratory burst and is essential for innate immunity.";
+RL   J. Exp. Med. 214:1111-1128(2017).
+RN   [15]
+RP   STRUCTURE BY NMR OF 556-570 IN COMPLEX WITH NCF1, AND INTERACTION WITH
+RP   NCF1.
+RX   PubMed=9224653; DOI=10.1042/bj3250249;
+RA   Adams E.R., Dratz E.A., Gizachew D., Deleo F.R., Yu L., Volpp B.D.,
+RA   Vlases M., Jesaitis A.J., Quinn M.T.;
+RT   "Interaction of human neutrophil flavocytochrome b with cytosolic proteins:
+RT   transferred-NOESY NMR studies of a gp91phox C-terminal peptide bound to
+RT   p47phox.";
+RL   Biochem. J. 325:249-257(1997).
+RN   [16]
+RP   INVOLVEMENT IN CGDX, AND VARIANT CGDX HIS-415.
+RX   PubMed=2556453; DOI=10.1172/jci114393;
+RA   Dinauer M.C., Curnutte J.T., Rosen H.R., Orkin S.H.;
+RT   "A missense mutation in the neutrophil cytochrome b heavy chain in
+RT   cytochrome-positive X-linked chronic granulomatous disease.";
+RL   J. Clin. Invest. 84:2012-2016(1989).
+RN   [17]
+RP   VARIANTS CGDX ARG-101; THR-156; TYR-209; SER-244 AND ALA-389.
+RX   PubMed=1710153;
+RA   Bolscher B.G.J.M., de Boer M., de Klein A., Weening R.S., Roos D.;
+RT   "Point mutations in the beta-subunit of cytochrome b558 leading to X-linked
+RT   chronic granulomatous disease.";
+RL   Blood 77:2482-2487(1991).
+RN   [18]
+RP   VARIANT CGDX GLU-57.
+RX   PubMed=8101486; DOI=10.1007/bf01955051;
+RA   Ariga T., Sakiyama Y., Tomizawa K., Imajoh-Ohmi S., Kanegasaki S.,
+RA   Matsumoto S.;
+RT   "A newly recognized point mutation in the cytochrome b558 heavy chain gene
+RT   replacing alanine57 by glutamic acid, in a patient with cytochrome b
+RT   positive X-linked chronic granulomatous disease.";
+RL   Eur. J. Pediatr. 152:469-472(1993).
+RN   [19]
+RP   VARIANT CGDX HIS-339.
+RX   PubMed=7927345; DOI=10.1007/bf00201609;
+RA   Ariga T., Sakiyama Y., Matsumoto S.;
+RT   "Two novel point mutations in the cytochrome b 558 heavy chain gene,
+RT   detected in two Japanese patients with X-linked chronic granulomatous
+RT   disease.";
+RL   Hum. Genet. 94:441-441(1994).
+RN   [20]
+RP   VARIANT CGDX GLY-500.
+RX   PubMed=8182143; DOI=10.1172/jci117207;
+RA   Leusen J.H.W., de Boer M., Bolscher B.G.J.M., Hilarius P.M., Weening R.S.,
+RA   Ochs H.D., Roos D., Verhoeven A.J.;
+RT   "A point mutation in gp91-phox of cytochrome b558 of the human NADPH
+RT   oxidase leading to defective translocation of the cytosolic proteins p47-
+RT   phox and p67-phox.";
+RL   J. Clin. Invest. 93:2120-2126(1994).
+RN   [21]
+RP   VARIANTS CGDX ILE-205; PHE-215 DEL AND GLN-342.
+RX   PubMed=8916969;
+RA   Hui Y.F., Chan S.Y., Lau Y.L.;
+RT   "Identification of mutations in seven Chinese patients with X-linked
+RT   chronic granulomatous disease.";
+RL   Blood 88:4021-4028(1996).
+RN   [22]
+RP   ERRATUM OF PUBMED:8916969.
+RA   Hui Y.F., Chan S.Y., Lau Y.L.;
+RL   Blood 89:1843-1843(1996).
+RN   [23]
+RP   VARIANT CGDX PHE-215 DEL.
+RX   PubMed=9111587; DOI=10.1111/j.1600-0609.1997.tb00928.x;
+RA   Jendrossek V., Ritzel A., Neubauer B., Heyden S., Gahr M.;
+RT   "An in-frame triplet deletion within the gp91-phox gene in an adult X-
+RT   linked chronic granulomatous disease patient with residual NADPH-oxidase
+RT   activity.";
+RL   Eur. J. Haematol. 58:78-85(1997).
+RN   [24]
+RP   VARIANTS CGDX ARG-20; SER-54; ARG-59; ARG-119; THR-156; GLN-209; ASN-222;
+RP   ARG-222; TYR-222; LEU-223; ARG-244; LYS-309; LYS-315 DEL; GLU-322; PHE-325;
+RP   PRO-333; HIS-339; PRO-356; ARG-405; GLU-408; ARG-408; HIS-415; LEU-415;
+RP   PRO-422; ARG-453; CYS-516; ASP-534 AND ARG-537.
+RX   PubMed=9585602; DOI=10.1086/301874;
+RA   Rae J., Newburger P.E., Dinauer M.C., Noack D., Hopkins P.J., Kuruto R.,
+RA   Curnutte J.T.;
+RT   "X-linked chronic granulomatous disease: mutations in the CYBB gene
+RT   encoding the gp91-phox component of respiratory-burst oxidase.";
+RL   Am. J. Hum. Genet. 62:1320-1331(1998).
+RN   [25]
+RP   VARIANT CGDX TYR-101.
+RX   PubMed=9856476; DOI=10.1007/s004390050836;
+RA   Tsuda M., Kaneda M., Sakiyama T., Inana I., Owada M., Kiryu C.,
+RA   Shiraishi T., Kakinuma K.;
+RT   "A novel mutation at a probable heme-binding ligand in neutrophil
+RT   cytochrome b558 in atypical X-linked chronic granulomatous disease.";
+RL   Hum. Genet. 103:377-381(1998).
+RN   [26]
+RP   VARIANTS CGDX ARG-179 AND 298-THR--THR-302 DEL.
+RX   PubMed=9794433;
+RA   Dusi S., Nadalini K.A., Donini M., Zentilin L., Wientjes F.B., Roos D.,
+RA   Giacca M., Rossi F.;
+RT   "Nicotinamide-adenine dinucleotide phosphate oxidase assembly and
+RT   activation in EBV-transformed B lymphoblastoid cell lines of normal and
+RT   chronic granulomatous disease patients.";
+RL   J. Immunol. 161:4968-4974(1998).
+RN   [27]
+RP   VARIANTS CGDX MET-54; ASP-55; GLU-57; HIS-339 AND PHE-344.
+RX   PubMed=9667376; DOI=10.1203/00006450-199807000-00014;
+RA   Ariga T., Furuta H., Cho K., Sakiyama Y.;
+RT   "Genetic analysis of 13 families with X-linked chronic granulomatous
+RT   disease reveals a low proportion of sporadic patients and a high proportion
+RT   of sporadic carriers.";
+RL   Pediatr. Res. 44:85-92(1998).
+RN   [28]
+RP   VARIANTS CGDX PHE-193; ARG-222; TYR-338; HIS-339 AND PRO-546, AND VARIANT
+RP   ARG-364.
+RX   PubMed=10089913; DOI=10.1016/s0301-472x(98)00024-1;
+RA   Roesler J., Heyden S., Burdelski M., Schaefer H., Kreth H.-W., Lehmann R.,
+RA   Paul D., Marzahn J., Gahr M., Roesen-Wolff A.;
+RT   "Uncommon missense and splice mutations and resulting biochemical
+RT   phenotypes in German patients with X-linked chronic granulomatous
+RT   disease.";
+RL   Exp. Hematol. 27:505-511(1999).
+RN   [29]
+RP   VARIANTS CGDX VAL-225 AND TYR-244.
+RX   PubMed=9888386;
+RX   DOI=10.1002/(sici)1098-1004(1999)13:1<29::aid-humu3>3.0.co;2-x;
+RA   Patino P.J., Perez J.E., Lopez J.A., Condino-Neto A., Grumach A.S.,
+RA   Botero J.H., Curnutte J.T., Garcia de Olarte D.;
+RT   "Molecular analysis of chronic granulomatous disease caused by defects in
+RT   gp91-phox.";
+RL   Hum. Mutat. 13:29-37(1999).
+RN   [30]
+RP   VARIANTS CGDX MET-54; ASP-55; GLU-57; TYR-101; ARG-209; GLY-224; LYS-309;
+RP   TYR-338; HIS-339; PHE-344; GLU-389; PRO-420 AND ARG-516.
+RX   PubMed=10914676; DOI=10.1007/s004390000288;
+RA   Ishibashi F., Nunoi H., Endo F., Matsuda I., Kanegasaki S.;
+RT   "Statistical and mutational analysis of chronic granulomatous disease in
+RT   Japan with special reference to gp91-phox and p22-phox deficiency.";
+RL   Hum. Genet. 106:473-481(2000).
+RN   [31]
+RP   VARIANTS CGDX 54-ARG-ALA-55 DEL; TRP-59; PRO-307 AND ARG-505.
+RX   PubMed=11462241; DOI=10.1002/humu.1166;
+RA   Gerard B., El Benna J., Alcain F., Gougerot-Pocidalo M.-A., Grandchamp B.,
+RA   Chollet-Martin S.;
+RT   "Characterization of 11 novel mutations in the X-linked chronic
+RT   granulomatous disease (CYBB gene).";
+RL   Hum. Mutat. 18:163-163(2001).
+RN   [32]
+RP   VARIANTS CGDX ASN-303 AND ARG-304.
+RX   PubMed=11997083; DOI=10.1016/s0925-4439(01)00110-7;
+RA   Stasia M.J., Lardy B., Maturana A., Rousseau P., Martel C., Bordigoni P.,
+RA   Demaurex N., Morel F.;
+RT   "Molecular and functional characterization of a new X-linked chronic
+RT   granulomatous disease variant (X91+) case with a double missense mutation
+RT   in the cytosolic gp91phox C-terminal tail.";
+RL   Biochim. Biophys. Acta 1586:316-330(2002).
+RN   [33]
+RP   CHARACTERIZATION OF VARIANTS CGDX ASN-303 AND ARG-304.
+RX   PubMed=15338276; DOI=10.1007/s00439-004-1173-z;
+RA   Bionda C., Li X.J., van Bruggen R., Eppink M., Roos D., Morel F.,
+RA   Stasia M.-J.;
+RT   "Functional analysis of two-amino acid substitutions in gp91 phox in a
+RT   patient with X-linked flavocytochrome b558-positive chronic granulomatous
+RT   disease by means of transgenic PLB-985 cells.";
+RL   Hum. Genet. 115:418-427(2004).
+RN   [34]
+RP   VARIANT CGDX ARG-408.
+RX   PubMed=18773283; DOI=10.1007/s10875-008-9243-y;
+RA   Bakri F.G., Martel C., Khuri-Bulos N., Mahafzah A., El-Khateeb M.S.,
+RA   Al-Wahadneh A.M., Hayajneh W.A., Hamamy H.A., Maquet E., Molin M.,
+RA   Stasia M.J.;
+RT   "First report of clinical, functional, and molecular investigation of
+RT   chronic granulomatous disease in nine Jordanian families.";
+RL   J. Clin. Immunol. 29:215-230(2009).
+RN   [35]
+RP   VARIANTS IMD34 PRO-178 AND PRO-231.
+RX   PubMed=21278736; DOI=10.1038/ni.1992;
+RA   Bustamante J., Arias A.A., Vogt G., Picard C., Galicia L.B., Prando C.,
+RA   Grant A.V., Marchal C.C., Hubeau M., Chapgier A., de Beaucoudrey L.,
+RA   Puel A., Feinberg J., Valinetz E., Janniere L., Besse C., Boland A.,
+RA   Brisseau J.M., Blanche S., Lortholary O., Fieschi C., Emile J.F.,
+RA   Boisson-Dupuis S., Al-Muhsen S., Woda B., Newburger P.E., Condino-Neto A.,
+RA   Dinauer M.C., Abel L., Casanova J.L.;
+RT   "Germline CYBB mutations that selectively affect macrophages in kindreds
+RT   with X-linked predisposition to tuberculous mycobacterial disease.";
+RL   Nat. Immunol. 12:213-221(2011).
+RN   [36]
+RP   VARIANTS CGDX ASP-488 AND GLU-500.
+RX   PubMed=22125116; DOI=10.1002/humu.22003;
+RA   Boog B., Quach A., Costabile M., Smart J., Quinn P., Singh H., Gold M.,
+RA   Booker G., Choo S., Hii C.S., Ferrante A.;
+RT   "Identification and functional characterization of two novel mutations in
+RT   the alpha-helical loop (residues 484-503) of CYBB/gp91(phox) resulting in
+RT   the rare X91(+) variant of chronic granulomatous disease.";
+RL   Hum. Mutat. 33:471-475(2012).
+RN   [37]
+RP   VARIANTS CGDX ASN-299; ASP-338; HIS-339; PHE-344 AND GLU-412.
+RX   PubMed=23910690; DOI=10.1016/j.jaci.2013.05.039;
+RA   Koker M.Y., Camcioglu Y., van Leeuwen K., Kilic S.S., Barlan I., Yilmaz M.,
+RA   Metin A., de Boer M., Avcilar H., Patiroglu T., Yildiran A., Yegin O.,
+RA   Tezcan I., Sanal O., Roos D.;
+RT   "Clinical, functional, and genetic characterization of chronic
+RT   granulomatous disease in 89 Turkish patients.";
+RL   J. Allergy Clin. Immunol. 132:1156-1163(2013).
+RN   [38]
+RP   VARIANT CGDX GLY-409.
+RX   PubMed=27666509; DOI=10.1016/j.micpath.2016.09.020;
+RA   Khan T.A., Kalsoom K., Iqbal A., Asif H., Rahman H., Farooq S.O.,
+RA   Naveed H., Nasir U., Amin M.U., Hussain M., Tipu H.N., Florea A.;
+RT   "A novel missense mutation in the NADPH binding domain of CYBB abolishes
+RT   the NADPH oxidase activity in a male patient with increased susceptibility
+RT   to infections.";
+RL   Microb. Pathog. 100:163-169(2016).
+CC   -!- FUNCTION: Critical component of the membrane-bound oxidase of
+CC       phagocytes that generates superoxide. It is the terminal component of a
+CC       respiratory chain that transfers single electrons from cytoplasmic
+CC       NADPH across the plasma membrane to molecular oxygen on the exterior.
+CC       Also functions as a voltage-gated proton channel that mediates the H(+)
+CC       currents of resting phagocytes. It participates in the regulation of
+CC       cellular pH and is blocked by zinc.
+CC   -!- COFACTOR:
+CC       Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000305};
+CC   -!- SUBUNIT: Composed of a heavy chain (beta) and a light chain (alpha).
+CC       Component of an NADPH oxidase complex composed of a heterodimer formed
+CC       by the membrane proteins CYBA and CYBB and the cytosolic subunits NCF1,
+CC       NCF2 and NCF4. Interacts with NCF1. Interacts with calprotectin
+CC       (S100A8/9). Interacts with NRROS; the interaction is direct and impairs
+CC       formation of a stable NADPH oxidase complex (PubMed:19028840,
+CC       PubMed:3600769, PubMed:9224653). Interacts with CYBC1; CYBC1 may act as
+CC       a chaperone stabilizing Cytochrome b-245 heterodimer (PubMed:28351984).
+CC       Interacts with NCF2; the interaction is enhanced in the presence of
+CC       GBP7 (By similarity). The CYBA-CYBB complex interacts with GBP7 (By
+CC       similarity). {ECO:0000250|UniProtKB:Q61093,
+CC       ECO:0000269|PubMed:19028840, ECO:0000269|PubMed:28351984,
+CC       ECO:0000269|PubMed:3600769, ECO:0000269|PubMed:9224653}.
+CC   -!- INTERACTION:
+CC       P04839; Q9BQA9: CYBC1; NbExp=3; IntAct=EBI-6253630, EBI-2680384;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Multi-pass membrane protein.
+CC       Note=As unassembled monomer may localize to the endoplasmic reticulum.
+CC       {ECO:0000305|PubMed:28351984}.
+CC   -!- TISSUE SPECIFICITY: Detected in neutrophils (at protein level).
+CC       {ECO:0000269|PubMed:19028840}.
+CC   -!- PTM: Glycosylated. {ECO:0000269|PubMed:19159218}.
+CC   -!- PTM: Phosphorylated on Ser and Thr residues.
+CC       {ECO:0000269|PubMed:19028840}.
+CC   -!- PTM: Undergoes 'Lys-48'-linked polyubiquitination, likely by RNF145,
+CC       triggering endoplasmic reticulum-associated degradation.
+CC       {ECO:0000250|UniProtKB:Q61093}.
+CC   -!- DISEASE: Granulomatous disease, chronic, X-linked (CGDX) [MIM:306400]:
+CC       A form of chronic granulomatous disease, a primary immunodeficiency
+CC       characterized by severe recurrent bacterial and fungal infections,
+CC       along with manifestations of chronic granulomatous inflammation. It
+CC       results from an impaired ability of phagocytes to mount a burst of
+CC       reactive oxygen species in response to pathogens.
+CC       {ECO:0000269|PubMed:10089913, ECO:0000269|PubMed:10914676,
+CC       ECO:0000269|PubMed:11462241, ECO:0000269|PubMed:11997083,
+CC       ECO:0000269|PubMed:12139950, ECO:0000269|PubMed:15338276,
+CC       ECO:0000269|PubMed:1710153, ECO:0000269|PubMed:18773283,
+CC       ECO:0000269|PubMed:22125116, ECO:0000269|PubMed:23910690,
+CC       ECO:0000269|PubMed:2556453, ECO:0000269|PubMed:27666509,
+CC       ECO:0000269|PubMed:7927345, ECO:0000269|PubMed:8101486,
+CC       ECO:0000269|PubMed:8182143, ECO:0000269|PubMed:8916969,
+CC       ECO:0000269|PubMed:9111587, ECO:0000269|PubMed:9585602,
+CC       ECO:0000269|PubMed:9667376, ECO:0000269|PubMed:9794433,
+CC       ECO:0000269|PubMed:9856476, ECO:0000269|PubMed:9888386}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: Immunodeficiency 34 (IMD34) [MIM:300645]: A form of Mendelian
+CC       susceptibility to mycobacterial disease, a rare condition characterized
+CC       by predisposition to illness caused by moderately virulent
+CC       mycobacterial species, such as Bacillus Calmette-Guerin (BCG) vaccine,
+CC       environmental non-tuberculous mycobacteria, and by the more virulent
+CC       Mycobacterium tuberculosis. Other microorganisms rarely cause severe
+CC       clinical disease in individuals with susceptibility to mycobacterial
+CC       infections, with the exception of Salmonella which infects less than
+CC       50% of these individuals. {ECO:0000269|PubMed:21278736}. Note=Disease
+CC       susceptibility is associated with variants affecting the gene
+CC       represented in this entry.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA27635.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAA29327.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=CYBBbase; Note=CYBB deficiency database;
+CC       URL="http://structure.bmc.lu.se/idbase/CYBBbase/";
+CC   -!- WEB RESOURCE: Name=Mendelian genes cytochrome b-245, beta polypeptide
+CC       (CYBB); Note=Leiden Open Variation Database (LOVD);
+CC       URL="https://databases.lovd.nl/shared/genes/CYBB";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X04011; CAA27635.1; ALT_INIT; mRNA.
+DR   EMBL; AF469769; AAL76082.1; -; Genomic_DNA.
+DR   EMBL; AF469757; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469758; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469759; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469760; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469761; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469762; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469763; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469764; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469765; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469766; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469767; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; AF469768; AAL76082.1; JOINED; Genomic_DNA.
+DR   EMBL; DQ314869; ABC40728.1; -; Genomic_DNA.
+DR   EMBL; AK289753; BAF82442.1; -; mRNA.
+DR   EMBL; CH471141; EAW59453.1; -; Genomic_DNA.
+DR   EMBL; BC032720; AAH32720.1; -; mRNA.
+DR   EMBL; X05895; CAA29327.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AB013904; BAA34183.1; -; Genomic_DNA.
+DR   CCDS; CCDS14242.1; -.
+DR   PIR; S70773; S70773.
+DR   RefSeq; NP_000388.2; NM_000397.3.
+DR   PDB; 3A1F; X-ray; 2.00 A; A=385-570.
+DR   PDB; 7U8G; EM; 3.20 A; A=2-570.
+DR   PDB; 8GZ3; EM; 3.30 A; B=1-570.
+DR   PDBsum; 3A1F; -.
+DR   PDBsum; 7U8G; -.
+DR   PDBsum; 8GZ3; -.
+DR   AlphaFoldDB; P04839; -.
+DR   SMR; P04839; -.
+DR   BioGRID; 107916; 19.
+DR   ComplexPortal; CPX-1017; Phagocyte NADPH oxidase complex, RAC1 variant.
+DR   ComplexPortal; CPX-6134; Phagocyte NADPH oxidase complex, RAC2 variant.
+DR   ComplexPortal; CPX-6135; Phagocyte NADPH oxidase complex, RAC3 variant.
+DR   DIP; DIP-42005N; -.
+DR   IntAct; P04839; 4.
+DR   STRING; 9606.ENSP00000367851; -.
+DR   BindingDB; P04839; -.
+DR   ChEMBL; CHEMBL1287627; -.
+DR   DrugBank; DB00514; Dextromethorphan.
+DR   GuidetoPHARMACOLOGY; 3002; -.
+DR   PeroxiBase; 5962; HsNOx02.
+DR   TCDB; 5.B.1.1.1; the phagocyte (gp91(phox)) nadph oxidase family.
+DR   GlyConnect; 1165; 2 N-Linked glycans (1 site).
+DR   GlyCosmos; P04839; 3 sites, 2 glycans.
+DR   GlyGen; P04839; 6 sites, 2 N-linked glycans (1 site).
+DR   iPTMnet; P04839; -.
+DR   PhosphoSitePlus; P04839; -.
+DR   SwissPalm; P04839; -.
+DR   BioMuta; CYBB; -.
+DR   DMDM; 115211; -.
+DR   CPTAC; CPTAC-1181; -.
+DR   CPTAC; CPTAC-1203; -.
+DR   EPD; P04839; -.
+DR   jPOST; P04839; -.
+DR   MassIVE; P04839; -.
+DR   MaxQB; P04839; -.
+DR   PaxDb; P04839; -.
+DR   PeptideAtlas; P04839; -.
+DR   PRIDE; P04839; -.
+DR   ProteomicsDB; 51748; -.
+DR   ABCD; P04839; 1 sequenced antibody.
+DR   Antibodypedia; 24864; 556 antibodies from 40 providers.
+DR   DNASU; 1536; -.
+DR   Ensembl; ENST00000378588.5; ENSP00000367851.4; ENSG00000165168.9.
+DR   GeneID; 1536; -.
+DR   KEGG; hsa:1536; -.
+DR   MANE-Select; ENST00000378588.5; ENSP00000367851.4; NM_000397.4; NP_000388.2.
+DR   UCSC; uc004ddr.3; human.
+DR   AGR; HGNC:2578; -.
+DR   CTD; 1536; -.
+DR   DisGeNET; 1536; -.
+DR   GeneCards; CYBB; -.
+DR   GeneReviews; CYBB; -.
+DR   HGNC; HGNC:2578; CYBB.
+DR   HPA; ENSG00000165168; Tissue enhanced (bone marrow, lymphoid tissue).
+DR   MalaCards; CYBB; -.
+DR   MIM; 300481; gene.
+DR   MIM; 300645; phenotype.
+DR   MIM; 306400; phenotype.
+DR   neXtProt; NX_P04839; -.
+DR   OpenTargets; ENSG00000165168; -.
+DR   Orphanet; 379; Chronic granulomatous disease.
+DR   Orphanet; 319623; X-linked mendelian susceptibility to mycobacterial diseases due to CYBB deficiency.
+DR   PharmGKB; PA27076; -.
+DR   VEuPathDB; HostDB:ENSG00000165168; -.
+DR   eggNOG; KOG0039; Eukaryota.
+DR   GeneTree; ENSGT00940000160244; -.
+DR   HOGENOM; CLU_005646_3_1_1; -.
+DR   InParanoid; P04839; -.
+DR   OMA; FTFAKEH; -.
+DR   OrthoDB; 367877at2759; -.
+DR   PhylomeDB; P04839; -.
+DR   TreeFam; TF105354; -.
+DR   PathwayCommons; P04839; -.
+DR   Reactome; R-HSA-1222556; ROS and RNS production in phagocytes.
+DR   Reactome; R-HSA-1236973; Cross-presentation of particulate exogenous antigens (phagosomes).
+DR   Reactome; R-HSA-3299685; Detoxification of Reactive Oxygen Species.
+DR   Reactome; R-HSA-4420097; VEGFA-VEGFR2 Pathway.
+DR   Reactome; R-HSA-5668599; RHO GTPases Activate NADPH Oxidases.
+DR   Reactome; R-HSA-6798695; Neutrophil degranulation.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   Reactome; R-HSA-9013404; RAC2 GTPase cycle.
+DR   Reactome; R-HSA-9013423; RAC3 GTPase cycle.
+DR   SignaLink; P04839; -.
+DR   SIGNOR; P04839; -.
+DR   BioGRID-ORCS; 1536; 9 hits in 778 CRISPR screens.
+DR   ChiTaRS; CYBB; human.
+DR   GeneWiki; CYBB; -.
+DR   GenomeRNAi; 1536; -.
+DR   Pharos; P04839; Tchem.
+DR   PRO; PR:P04839; -.
+DR   Proteomes; UP000005640; Chromosome X.
+DR   RNAct; P04839; protein.
+DR   Bgee; ENSG00000165168; Expressed in monocyte and 171 other tissues.
+DR   ExpressionAtlas; P04839; baseline and differential.
+DR   Genevisible; P04839; HS.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; TAS:Reactome.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:Ensembl.
+DR   GO; GO:0043020; C:NADPH oxidase complex; IDA:BHF-UCL.
+DR   GO; GO:0043025; C:neuronal cell body; IEA:Ensembl.
+DR   GO; GO:0005635; C:nuclear envelope; IEA:Ensembl.
+DR   GO; GO:0097038; C:perinuclear endoplasmic reticulum; IEA:Ensembl.
+DR   GO; GO:0030670; C:phagocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0005791; C:rough endoplasmic reticulum; IEA:Ensembl.
+DR   GO; GO:0035579; C:specific granule membrane; TAS:Reactome.
+DR   GO; GO:0070821; C:tertiary granule membrane; TAS:Reactome.
+DR   GO; GO:0050660; F:flavin adenine dinucleotide binding; IMP:BHF-UCL.
+DR   GO; GO:0020037; F:heme binding; IMP:BHF-UCL.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046982; F:protein heterodimerization activity; IPI:BHF-UCL.
+DR   GO; GO:0016175; F:superoxide-generating NAD(P)H oxidase activity; TAS:BHF-UCL.
+DR   GO; GO:0005244; F:voltage-gated monoatomic ion channel activity; IEA:UniProtKB-KW.
+DR   GO; GO:0071276; P:cellular response to cadmium ion; IEA:Ensembl.
+DR   GO; GO:0071361; P:cellular response to ethanol; IEA:Ensembl.
+DR   GO; GO:1904845; P:cellular response to L-glutamine; IEA:Ensembl.
+DR   GO; GO:0006952; P:defense response; IBA:GO_Central.
+DR   GO; GO:0022900; P:electron transport chain; IEA:GOC.
+DR   GO; GO:0050665; P:hydrogen peroxide biosynthetic process; IEA:Ensembl.
+DR   GO; GO:0097411; P:hypoxia-inducible factor-1alpha signaling pathway; IEA:Ensembl.
+DR   GO; GO:0006954; P:inflammatory response; ISS:UniProtKB.
+DR   GO; GO:0045087; P:innate immune response; IMP:BHF-UCL.
+DR   GO; GO:0045766; P:positive regulation of angiogenesis; IEA:Ensembl.
+DR   GO; GO:0032760; P:positive regulation of tumor necrosis factor production; IEA:Ensembl.
+DR   GO; GO:0034765; P:regulation of monoatomic ion transmembrane transport; IEA:UniProtKB-KW.
+DR   GO; GO:0045730; P:respiratory burst; IMP:BHF-UCL.
+DR   GO; GO:1904044; P:response to aldosterone; IEA:Ensembl.
+DR   GO; GO:1990776; P:response to angiotensin; IEA:Ensembl.
+DR   GO; GO:0007584; P:response to nutrient; IEA:Ensembl.
+DR   GO; GO:0009410; P:response to xenobiotic stimulus; IEA:Ensembl.
+DR   GO; GO:0042554; P:superoxide anion generation; IDA:BHF-UCL.
+DR   GO; GO:0006801; P:superoxide metabolic process; IDA:BHF-UCL.
+DR   CDD; cd06186; NOX_Duox_like_FAD_NADP; 1.
+DR   Gene3D; 3.40.50.80; Nucleotide-binding domain of ferredoxin-NADP reductase (FNR) module; 1.
+DR   Gene3D; 2.40.30.10; Translation factors; 1.
+DR   InterPro; IPR000778; Cyt_b245_heavy_chain.
+DR   InterPro; IPR013112; FAD-bd_8.
+DR   InterPro; IPR017927; FAD-bd_FR_type.
+DR   InterPro; IPR013130; Fe3_Rdtase_TM_dom.
+DR   InterPro; IPR013121; Fe_red_NAD-bd_6.
+DR   InterPro; IPR039261; FNR_nucleotide-bd.
+DR   InterPro; IPR017938; Riboflavin_synthase-like_b-brl.
+DR   PANTHER; PTHR11972:SF60; CYTOCHROME B-245 HEAVY CHAIN; 1.
+DR   PANTHER; PTHR11972; NADPH OXIDASE; 1.
+DR   Pfam; PF08022; FAD_binding_8; 1.
+DR   Pfam; PF01794; Ferric_reduct; 1.
+DR   Pfam; PF08030; NAD_binding_6; 1.
+DR   PRINTS; PR00466; GP91PHOX.
+DR   SFLD; SFLDS00052; Ferric_Reductase_Domain; 1.
+DR   SFLD; SFLDG01168; Ferric_reductase_subgroup_(FRE; 1.
+DR   SUPFAM; SSF52343; Ferredoxin reductase-like, C-terminal NADP-linked domain; 1.
+DR   SUPFAM; SSF63380; Riboflavin synthase domain-like; 1.
+DR   PROSITE; PS51384; FAD_FR; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Chronic granulomatous disease;
+KW   Direct protein sequencing; Disease variant; Electron transport; FAD;
+KW   Flavoprotein; Glycoprotein; Heme; Ion channel; Ion transport; Iron;
+KW   Isopeptide bond; Membrane; Metal-binding; NADP; Oxidoreductase;
+KW   Phosphoprotein; Reference proteome; Transmembrane; Transmembrane helix;
+KW   Transport; Ubl conjugation; Voltage-gated channel.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:3600769"
+FT   CHAIN           2..570
+FT                   /note="Cytochrome b-245 heavy chain"
+FT                   /id="PRO_0000210145"
+FT   TOPO_DOM        2..8
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        9..29
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        30..48
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        49..69
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        70..102
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        103..123
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        124..169
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        170..190
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        191..200
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        201..221
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        222..261
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        262..282
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        283..570
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          54..286
+FT                   /note="Ferric oxidoreductase"
+FT   DOMAIN          287..397
+FT                   /note="FAD-binding FR-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00716"
+FT   BINDING         101
+FT                   /ligand="heme"
+FT                   /ligand_id="ChEBI:CHEBI:30413"
+FT                   /ligand_part="Fe"
+FT                   /ligand_part_id="ChEBI:CHEBI:18248"
+FT                   /note="axial binding residue"
+FT                   /evidence="ECO:0000305"
+FT   BINDING         115
+FT                   /ligand="heme"
+FT                   /ligand_id="ChEBI:CHEBI:30413"
+FT                   /ligand_part="Fe"
+FT                   /ligand_part_id="ChEBI:CHEBI:18248"
+FT                   /note="axial binding residue"
+FT                   /evidence="ECO:0000305"
+FT   BINDING         209
+FT                   /ligand="heme"
+FT                   /ligand_id="ChEBI:CHEBI:30413"
+FT                   /ligand_part="Fe"
+FT                   /ligand_part_id="ChEBI:CHEBI:18248"
+FT                   /note="axial binding residue"
+FT                   /evidence="ECO:0000305"
+FT   BINDING         222
+FT                   /ligand="heme"
+FT                   /ligand_id="ChEBI:CHEBI:30413"
+FT                   /ligand_part="Fe"
+FT                   /ligand_part_id="ChEBI:CHEBI:18248"
+FT                   /note="axial binding residue"
+FT                   /evidence="ECO:0000305"
+FT   BINDING         338..344
+FT                   /ligand="FAD"
+FT                   /ligand_id="ChEBI:CHEBI:57692"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        132
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        149
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        240
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CROSSLNK        161
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        255
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        294
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        299
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        306
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        328
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        334
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        381
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        506
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   CROSSLNK        567
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61093"
+FT   VARIANT         18
+FT                   /note="W -> C (in CGDX)"
+FT                   /id="VAR_047264"
+FT   VARIANT         20
+FT                   /note="G -> R (in CGDX; dbSNP:rs151344455)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007873"
+FT   VARIANT         41
+FT                   /note="Y -> D (in CGDX; dbSNP:rs151344453)"
+FT                   /evidence="ECO:0000269|PubMed:12139950"
+FT                   /id="VAR_025613"
+FT   VARIANT         54..55
+FT                   /note="Missing (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:11462241"
+FT                   /id="VAR_047265"
+FT   VARIANT         54
+FT                   /note="R -> M (in CGDX; dbSNP:rs151344479)"
+FT                   /evidence="ECO:0000269|PubMed:10914676,
+FT                   ECO:0000269|PubMed:23910690, ECO:0000269|PubMed:9667376"
+FT                   /id="VAR_025614"
+FT   VARIANT         54
+FT                   /note="R -> S (in CGDX; dbSNP:rs151344456)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007874"
+FT   VARIANT         55
+FT                   /note="A -> D (in CGDX; dbSNP:rs151344480)"
+FT                   /evidence="ECO:0000269|PubMed:10914676,
+FT                   ECO:0000269|PubMed:9667376"
+FT                   /id="VAR_025615"
+FT   VARIANT         57
+FT                   /note="A -> E (in CGDX; dbSNP:rs151344481)"
+FT                   /evidence="ECO:0000269|PubMed:10914676,
+FT                   ECO:0000269|PubMed:8101486, ECO:0000269|PubMed:9667376"
+FT                   /id="VAR_008845"
+FT   VARIANT         59
+FT                   /note="C -> R (in CGDX; dbSNP:rs151344457)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007875"
+FT   VARIANT         59
+FT                   /note="C -> W (in CGDX; dbSNP:rs151344488)"
+FT                   /evidence="ECO:0000269|PubMed:11462241"
+FT                   /id="VAR_047266"
+FT   VARIANT         101
+FT                   /note="H -> R (in CGDX; dbSNP:rs137854591)"
+FT                   /evidence="ECO:0000269|PubMed:1710153"
+FT                   /id="VAR_002432"
+FT   VARIANT         101
+FT                   /note="H -> Y (in CGDX; dbSNP:rs137854594)"
+FT                   /evidence="ECO:0000269|PubMed:10914676,
+FT                   ECO:0000269|PubMed:9856476"
+FT                   /id="VAR_007876"
+FT   VARIANT         119
+FT                   /note="H -> R (in CGDX; dbSNP:rs151344458)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007877"
+FT   VARIANT         156
+FT                   /note="A -> T (in CGDX; dbSNP:rs137854590)"
+FT                   /evidence="ECO:0000269|PubMed:1710153,
+FT                   ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_002433"
+FT   VARIANT         178
+FT                   /note="T -> P (in IMD34; dbSNP:rs151344497)"
+FT                   /evidence="ECO:0000269|PubMed:21278736"
+FT                   /id="VAR_065365"
+FT   VARIANT         179
+FT                   /note="G -> R (in CGDX; dbSNP:rs151344491)"
+FT                   /evidence="ECO:0000269|PubMed:9794433"
+FT                   /id="VAR_047267"
+FT   VARIANT         193
+FT                   /note="S -> F (in CGDX; dbSNP:rs151344493)"
+FT                   /evidence="ECO:0000269|PubMed:10089913"
+FT                   /id="VAR_047268"
+FT   VARIANT         205
+FT                   /note="F -> I (in CGDX; dbSNP:rs151344496)"
+FT                   /evidence="ECO:0000269|PubMed:8916969"
+FT                   /id="VAR_047269"
+FT   VARIANT         209
+FT                   /note="H -> Q (in CGDX; dbSNP:rs151344459)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007878"
+FT   VARIANT         209
+FT                   /note="H -> R (in CGDX; dbSNP:rs151344482)"
+FT                   /evidence="ECO:0000269|PubMed:10914676"
+FT                   /id="VAR_025616"
+FT   VARIANT         209
+FT                   /note="H -> Y (in CGDX; dbSNP:rs137854587)"
+FT                   /evidence="ECO:0000269|PubMed:1710153"
+FT                   /id="VAR_002434"
+FT   VARIANT         215
+FT                   /note="Missing (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:8916969,
+FT                   ECO:0000269|PubMed:9111587"
+FT                   /id="VAR_007879"
+FT   VARIANT         222
+FT                   /note="H -> N (in CGDX; dbSNP:rs151344460)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007880"
+FT   VARIANT         222
+FT                   /note="H -> R (in CGDX; dbSNP:rs151344462)"
+FT                   /evidence="ECO:0000269|PubMed:10089913,
+FT                   ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007881"
+FT   VARIANT         222
+FT                   /note="H -> Y (in CGDX; dbSNP:rs151344460)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007882"
+FT   VARIANT         223
+FT                   /note="G -> L (in CGDX; requires 2 nucleotide
+FT                   substitutions; dbSNP:rs151344463 and dbSNP:rs151344464)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007883"
+FT   VARIANT         224
+FT                   /note="A -> G (in CGDX; dbSNP:rs151344483)"
+FT                   /evidence="ECO:0000269|PubMed:10914676"
+FT                   /id="VAR_025617"
+FT   VARIANT         225
+FT                   /note="E -> V (in CGDX; dbSNP:rs151344494)"
+FT                   /evidence="ECO:0000269|PubMed:9888386"
+FT                   /id="VAR_002435"
+FT   VARIANT         231
+FT                   /note="Q -> P (in IMD34; dbSNP:rs151344498)"
+FT                   /evidence="ECO:0000269|PubMed:21278736"
+FT                   /id="VAR_065366"
+FT   VARIANT         244
+FT                   /note="C -> R (in CGDX; dbSNP:rs151344465)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007884"
+FT   VARIANT         244
+FT                   /note="C -> S (in CGDX; dbSNP:rs137854589)"
+FT                   /evidence="ECO:0000269|PubMed:1710153"
+FT                   /id="VAR_002436"
+FT   VARIANT         244
+FT                   /note="C -> Y (in CGDX; dbSNP:rs137854589)"
+FT                   /evidence="ECO:0000269|PubMed:9888386"
+FT                   /id="VAR_002437"
+FT   VARIANT         298..302
+FT                   /note="Missing (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:9794433"
+FT                   /id="VAR_047270"
+FT   VARIANT         299
+FT                   /note="K -> N (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:23910690"
+FT                   /id="VAR_071861"
+FT   VARIANT         303
+FT                   /note="H -> N (in CGDX; completely inhibits NADPH oxidase
+FT                   activity; NADPH oxidase assembly is abolished;
+FT                   dbSNP:rs137854595)"
+FT                   /evidence="ECO:0000269|PubMed:11997083,
+FT                   ECO:0000269|PubMed:15338276"
+FT                   /id="VAR_016880"
+FT   VARIANT         304
+FT                   /note="P -> R (in CGDX; reduces NADPH oxidase activity to
+FT                   4% of wild-type; translocation to the membrane of the
+FT                   phagosome is only attenuated; dbSNP:rs137854596)"
+FT                   /evidence="ECO:0000269|PubMed:11997083,
+FT                   ECO:0000269|PubMed:15338276"
+FT                   /id="VAR_016881"
+FT   VARIANT         307
+FT                   /note="T -> P (in CGDX; dbSNP:rs151344489)"
+FT                   /evidence="ECO:0000269|PubMed:11462241"
+FT                   /id="VAR_047271"
+FT   VARIANT         309
+FT                   /note="E -> K (in CGDX; dbSNP:rs151344466)"
+FT                   /evidence="ECO:0000269|PubMed:10914676,
+FT                   ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007885"
+FT   VARIANT         315
+FT                   /note="Missing (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_047272"
+FT   VARIANT         322
+FT                   /note="G -> E (in CGDX; dbSNP:rs151344467)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007886"
+FT   VARIANT         325
+FT                   /note="I -> F (in CGDX; dbSNP:rs151344468)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007887"
+FT   VARIANT         333
+FT                   /note="S -> P (in CGDX; dbSNP:rs151344469)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007888"
+FT   VARIANT         338
+FT                   /note="H -> D (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:23910690"
+FT                   /id="VAR_071862"
+FT   VARIANT         338
+FT                   /note="H -> Y (in CGDX; dbSNP:rs151344484)"
+FT                   /evidence="ECO:0000269|PubMed:10089913,
+FT                   ECO:0000269|PubMed:10914676"
+FT                   /id="VAR_025618"
+FT   VARIANT         339
+FT                   /note="P -> H (in CGDX; dbSNP:rs151344470)"
+FT                   /evidence="ECO:0000269|PubMed:10089913,
+FT                   ECO:0000269|PubMed:10914676, ECO:0000269|PubMed:23910690,
+FT                   ECO:0000269|PubMed:7927345, ECO:0000269|PubMed:9585602,
+FT                   ECO:0000269|PubMed:9667376"
+FT                   /id="VAR_002438"
+FT   VARIANT         342
+FT                   /note="L -> Q (in CGDX; dbSNP:rs151344495)"
+FT                   /evidence="ECO:0000269|PubMed:8916969"
+FT                   /id="VAR_047273"
+FT   VARIANT         344
+FT                   /note="S -> F (in CGDX; dbSNP:rs151344485)"
+FT                   /evidence="ECO:0000269|PubMed:10914676,
+FT                   ECO:0000269|PubMed:23910690, ECO:0000269|PubMed:9667376"
+FT                   /id="VAR_025619"
+FT   VARIANT         356
+FT                   /note="R -> P (in CGDX; dbSNP:rs151344471)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007889"
+FT   VARIANT         364
+FT                   /note="G -> R (in dbSNP:rs141756032)"
+FT                   /evidence="ECO:0000269|PubMed:10089913,
+FT                   ECO:0000269|PubMed:12139950"
+FT                   /id="VAR_025620"
+FT   VARIANT         389
+FT                   /note="G -> A (in CGDX; dbSNP:rs137854586)"
+FT                   /evidence="ECO:0000269|PubMed:1710153"
+FT                   /id="VAR_002439"
+FT   VARIANT         389
+FT                   /note="G -> E (in CGDX; dbSNP:rs137854586)"
+FT                   /evidence="ECO:0000269|PubMed:10914676"
+FT                   /id="VAR_025621"
+FT   VARIANT         405
+FT                   /note="M -> R (in CGDX; dbSNP:rs151344472)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007890"
+FT   VARIANT         408
+FT                   /note="G -> E (in CGDX; dbSNP:rs151344474)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007891"
+FT   VARIANT         408
+FT                   /note="G -> R (in CGDX; dbSNP:rs151344473)"
+FT                   /evidence="ECO:0000269|PubMed:18773283,
+FT                   ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007892"
+FT   VARIANT         409
+FT                   /note="A -> G (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:27666509"
+FT                   /id="VAR_078386"
+FT   VARIANT         412
+FT                   /note="G -> E (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:23910690"
+FT                   /id="VAR_071863"
+FT   VARIANT         415
+FT                   /note="P -> H (in CGDX; dbSNP:rs137854585)"
+FT                   /evidence="ECO:0000269|PubMed:2556453,
+FT                   ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_002440"
+FT   VARIANT         415
+FT                   /note="P -> L (in CGDX; dbSNP:rs137854585)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007893"
+FT   VARIANT         420
+FT                   /note="L -> P (in CGDX; dbSNP:rs151344486)"
+FT                   /evidence="ECO:0000269|PubMed:10914676"
+FT                   /id="VAR_025622"
+FT   VARIANT         422
+FT                   /note="S -> P (in CGDX; dbSNP:rs151344475)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007894"
+FT   VARIANT         453
+FT                   /note="W -> R (in CGDX; dbSNP:rs151344476)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007895"
+FT   VARIANT         472
+FT                   /note="G -> S (in dbSNP:rs13306300)"
+FT                   /id="VAR_047274"
+FT   VARIANT         488
+FT                   /note="A -> D (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:22125116"
+FT                   /id="VAR_068012"
+FT   VARIANT         500
+FT                   /note="D -> E (in CGDX)"
+FT                   /evidence="ECO:0000269|PubMed:22125116"
+FT                   /id="VAR_068013"
+FT   VARIANT         500
+FT                   /note="D -> G (in CGDX; dbSNP:rs137854593)"
+FT                   /evidence="ECO:0000269|PubMed:8182143"
+FT                   /id="VAR_002441"
+FT   VARIANT         505
+FT                   /note="L -> R (in CGDX; dbSNP:rs151344490)"
+FT                   /evidence="ECO:0000269|PubMed:11462241"
+FT                   /id="VAR_047275"
+FT   VARIANT         516
+FT                   /note="W -> C (in CGDX; dbSNP:rs151344477)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007896"
+FT   VARIANT         516
+FT                   /note="W -> R (in CGDX; dbSNP:rs151344487)"
+FT                   /evidence="ECO:0000269|PubMed:10914676"
+FT                   /id="VAR_025623"
+FT   VARIANT         517
+FT                   /note="D -> E (in dbSNP:rs151344452)"
+FT                   /evidence="ECO:0000269|PubMed:12139950"
+FT                   /id="VAR_025624"
+FT   VARIANT         534
+FT                   /note="V -> D (in CGDX; dbSNP:rs151344478)"
+FT                   /evidence="ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007897"
+FT   VARIANT         537
+FT                   /note="C -> R (in CGDX; dbSNP:rs151344454)"
+FT                   /evidence="ECO:0000269|PubMed:12139950,
+FT                   ECO:0000269|PubMed:9585602"
+FT                   /id="VAR_007898"
+FT   VARIANT         546
+FT                   /note="L -> P (in CGDX; dbSNP:rs151344492)"
+FT                   /evidence="ECO:0000269|PubMed:10089913"
+FT                   /id="VAR_047276"
+FT   CONFLICT        14
+FT                   /note="V -> A (in Ref. 6 and 4)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           393..398
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   STRAND          401..409
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   HELIX           410..412
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   HELIX           413..429
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   STRAND          438..446
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   TURN            448..451
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   HELIX           452..467
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   STRAND          473..480
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   STRAND          509..512
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   HELIX           516..526
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   STRAND          531..538
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   HELIX           540..552
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+FT   STRAND          562..566
+FT                   /evidence="ECO:0007829|PDB:3A1F"
+SQ   SEQUENCE   570 AA;  65336 MW;  7E84051BD4000CE3 CRC64;
+     MGNWAVNEGL SIFVILVWLG LNVFLFVWYY RVYDIPPKFF YTRKLLGSAL ALARAPAACL
+     NFNCMLILLP VCRNLLSFLR GSSACCSTRV RRQLDRNLTF HKMVAWMIAL HSAIHTIAHL
+     FNVEWCVNAR VNNSDPYSVA LSELGDRQNE SYLNFARKRI KNPEGGLYLA VTLLAGITGV
+     VITLCLILII TSSTKTIRRS YFEVFWYTHH LFVIFFIGLA IHGAERIVRG QTAESLAVHN
+     ITVCEQKISE WGKIKECPIP QFAGNPPMTW KWIVGPMFLY LCERLVRFWR SQQKVVITKV
+     VTHPFKTIEL QMKKKGFKME VGQYIFVKCP KVSKLEWHPF TLTSAPEEDF FSIHIRIVGD
+     WTEGLFNACG CDKQEFQDAW KLPKIAVDGP FGTASEDVFS YEVVMLVGAG IGVTPFASIL
+     KSVWYKYCNN ATNLKLKKIY FYWLCRDTHA FEWFADLLQL LESQMQERNN AGFLSYNIYL
+     TGWDESQANH FAVHHDEEKD VITGLKQKTL YGRPNWDNEF KTIASQHPNT RIGVFLCGPE
+     ALAETLSKQS ISNSESGPRG VHFIFNKENF
+//

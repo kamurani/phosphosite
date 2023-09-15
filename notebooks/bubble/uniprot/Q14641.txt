@@ -1,0 +1,262 @@
+ID   INSL4_HUMAN             Reviewed;         139 AA.
+AC   Q14641; A8K678; Q5W127;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   28-JUN-2023, entry version 167.
+DE   RecName: Full=Early placenta insulin-like peptide;
+DE            Short=EPIL;
+DE   AltName: Full=Insulin-like peptide 4;
+DE   AltName: Full=Placentin;
+DE   Contains:
+DE     RecName: Full=Early placenta insulin-like peptide B chain;
+DE   Contains:
+DE     RecName: Full=Early placenta insulin-like peptide A chain;
+DE   Flags: Precursor;
+GN   Name=INSL4;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=8666396; DOI=10.1006/geno.1995.9980;
+RA   Chassin D., Laurent A., Janneau J.-L., Berger R., Bellet D.;
+RT   "Cloning of a new member of the insulin gene superfamily (INSL4) expressed
+RT   in human placenta.";
+RL   Genomics 29:465-470(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164053; DOI=10.1038/nature02465;
+RA   Humphray S.J., Oliver K., Hunt A.R., Plumb R.W., Loveland J.E., Howe K.L.,
+RA   Andrews T.D., Searle S., Hunt S.E., Scott C.E., Jones M.C., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Ashwell R.I.S., Babbage A.K., Babbage S.,
+RA   Bagguley C.L., Bailey J., Banerjee R., Barker D.J., Barlow K.F., Bates K.,
+RA   Beasley H., Beasley O., Bird C.P., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D., Burrill W., Burton J., Carder C., Carter N.P., Chapman J.C.,
+RA   Chen Y., Clarke G., Clark S.Y., Clee C.M., Clegg S., Collier R.E.,
+RA   Corby N., Crosier M., Cummings A.T., Davies J., Dhami P., Dunn M.,
+RA   Dutta I., Dyer L.W., Earthrowl M.E., Faulkner L., Fleming C.J.,
+RA   Frankish A., Frankland J.A., French L., Fricker D.G., Garner P.,
+RA   Garnett J., Ghori J., Gilbert J.G.R., Glison C., Grafham D.V., Gribble S.,
+RA   Griffiths C., Griffiths-Jones S., Grocock R., Guy J., Hall R.E.,
+RA   Hammond S., Harley J.L., Harrison E.S.I., Hart E.A., Heath P.D.,
+RA   Henderson C.D., Hopkins B.L., Howard P.J., Howden P.J., Huckle E.,
+RA   Johnson C., Johnson D., Joy A.A., Kay M., Keenan S., Kershaw J.K.,
+RA   Kimberley A.M., King A., Knights A., Laird G.K., Langford C., Lawlor S.,
+RA   Leongamornlert D.A., Leversha M., Lloyd C., Lloyd D.M., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., Matthews L., McLaren S., McLay K.E.,
+RA   McMurray A., Milne S., Nickerson T., Nisbett J., Nordsiek G., Pearce A.V.,
+RA   Peck A.I., Porter K.M., Pandian R., Pelan S., Phillimore B., Povey S.,
+RA   Ramsey Y., Rand V., Scharfe M., Sehra H.K., Shownkeen R., Sims S.K.,
+RA   Skuce C.D., Smith M., Steward C.A., Swarbreck D., Sycamore N., Tester J.,
+RA   Thorpe A., Tracey A., Tromans A., Thomas D.W., Wall M., Wallis J.M.,
+RA   West A.P., Whitehead S.L., Willey D.L., Williams S.A., Wilming L.,
+RA   Wray P.W., Young L., Ashurst J.L., Coulson A., Blocker H., Durbin R.M.,
+RA   Sulston J.E., Hubbard T., Jackson M.J., Bentley D.R., Beck S., Rogers J.,
+RA   Dunham I.;
+RT   "DNA sequence and analysis of human chromosome 9.";
+RL   Nature 429:369-374(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 26-40.
+RX   PubMed=15340161; DOI=10.1110/ps.04682504;
+RA   Zhang Z., Henzel W.J.;
+RT   "Signal peptide prediction based on analysis of experimentally verified
+RT   cleavage sites.";
+RL   Protein Sci. 13:2819-2824(2004).
+RN   [7]
+RP   PROTEOLYTIC PROCESSING.
+RX   PubMed=9284764; DOI=10.1210/jcem.82.9.4359;
+RA   Bellet D., Lavaissiere L., Mock P., Laurent A., Sabourin J.-C., Bedossa P.,
+RA   Le Bouteiller P., Frydman R., Troalen F., Bidart J.-M.;
+RT   "Identification of pro-EPIL and EPIL peptides translated from insulin-like
+RT   4 (INSL4) mRNA in human placenta.";
+RL   J. Clin. Endocrinol. Metab. 82:3169-3172(1997).
+RN   [8]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=9740319;
+RX   DOI=10.1002/(sici)1098-2795(199810)51:2<123::aid-mrd1>3.0.co;2-s;
+RA   Laurent A., Rouillac C., Delezoide A.-L., Giovangrandi Y., Vekemans M.,
+RA   Bellet D., Abitbol M., Vidaud M.;
+RT   "Insulin-like 4 (INSL4) gene expression in human embryonic and
+RT   trophoblastic tissues.";
+RL   Mol. Reprod. Dev. 51:123-129(1998).
+RN   [9]
+RP   TISSUE SPECIFICITY, AND POSSIBLE INVOLVEMENT IN INVASION/MIGRATION OF
+RP   TROPHOBLAST CELLS.
+RX   PubMed=12414911; DOI=10.1210/jc.2002-021093;
+RA   Janneau J.-L., Maldonado-Estrada J., Tachdjian G., Miran I., Motte N.,
+RA   Saulnier P., Sabourin J.-C., Cote J.-F., Simon B., Frydman R., Chaouat G.,
+RA   Bellet D.;
+RT   "Transcriptional expression of genes involved in cell invasion and
+RT   migration by normal and tumoral trophoblast cells.";
+RL   J. Clin. Endocrinol. Metab. 87:5336-5339(2002).
+CC   -!- FUNCTION: May play an important role in trophoblast development and in
+CC       the regulation of bone formation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Expressed in placenta, uterus and in fetal
+CC       perichondrium. Expression levels were increased in both early placentas
+CC       and molar pregnancies and were reduced in choriocarcinoma cells.
+CC       {ECO:0000269|PubMed:12414911, ECO:0000269|PubMed:9740319}.
+CC   -!- DEVELOPMENTAL STAGE: Highly expressed in the early placenta. Expression
+CC       of epil peptides in the villous cytotrophoblast is different from that
+CC       displayed by the syncytiotrophoblast. In fetal tissues it was
+CC       identified in the perichondrium of all four limbs, vertebrae, and ribs.
+CC       It was abundant in interbone ligaments.
+CC   -!- SIMILARITY: Belongs to the insulin family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L34838; AAB08516.1; -; mRNA.
+DR   EMBL; AK291543; BAF84232.1; -; mRNA.
+DR   EMBL; AL133547; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471071; EAW58772.1; -; Genomic_DNA.
+DR   EMBL; BC026254; AAH26254.1; -; mRNA.
+DR   CCDS; CCDS6459.1; -.
+DR   RefSeq; NP_002186.1; NM_002195.1.
+DR   AlphaFoldDB; Q14641; -.
+DR   BioGRID; 109852; 6.
+DR   STRING; 9606.ENSP00000239316; -.
+DR   GlyGen; Q14641; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q14641; -.
+DR   PhosphoSitePlus; Q14641; -.
+DR   BioMuta; INSL4; -.
+DR   DMDM; 2497411; -.
+DR   jPOST; Q14641; -.
+DR   MassIVE; Q14641; -.
+DR   MaxQB; Q14641; -.
+DR   PaxDb; Q14641; -.
+DR   PeptideAtlas; Q14641; -.
+DR   Antibodypedia; 24117; 153 antibodies from 22 providers.
+DR   DNASU; 3641; -.
+DR   Ensembl; ENST00000239316.4; ENSP00000239316.4; ENSG00000120211.4.
+DR   GeneID; 3641; -.
+DR   KEGG; hsa:3641; -.
+DR   MANE-Select; ENST00000239316.4; ENSP00000239316.4; NM_002195.2; NP_002186.1.
+DR   UCSC; uc003ziy.4; human.
+DR   AGR; HGNC:6087; -.
+DR   CTD; 3641; -.
+DR   DisGeNET; 3641; -.
+DR   GeneCards; INSL4; -.
+DR   HGNC; HGNC:6087; INSL4.
+DR   HPA; ENSG00000120211; Tissue enriched (placenta).
+DR   MIM; 600910; gene.
+DR   neXtProt; NX_Q14641; -.
+DR   OpenTargets; ENSG00000120211; -.
+DR   PharmGKB; PA29894; -.
+DR   VEuPathDB; HostDB:ENSG00000120211; -.
+DR   eggNOG; ENOG502TJQC; Eukaryota.
+DR   GeneTree; ENSGT00940000154434; -.
+DR   HOGENOM; CLU_1864514_0_0_1; -.
+DR   InParanoid; Q14641; -.
+DR   OMA; PSLFWSY; -.
+DR   OrthoDB; 4688190at2759; -.
+DR   PhylomeDB; Q14641; -.
+DR   TreeFam; TF333404; -.
+DR   PathwayCommons; Q14641; -.
+DR   BioGRID-ORCS; 3641; 14 hits in 1139 CRISPR screens.
+DR   GeneWiki; INSL4; -.
+DR   GenomeRNAi; 3641; -.
+DR   Pharos; Q14641; Tbio.
+DR   PRO; PR:Q14641; -.
+DR   Proteomes; UP000005640; Chromosome 9.
+DR   RNAct; Q14641; protein.
+DR   Bgee; ENSG00000120211; Expressed in placenta and 15 other tissues.
+DR   Genevisible; Q14641; HS.
+DR   GO; GO:0005615; C:extracellular space; TAS:ProtInc.
+DR   GO; GO:0005179; F:hormone activity; IEA:UniProtKB-KW.
+DR   GO; GO:0005159; F:insulin-like growth factor receptor binding; TAS:ProtInc.
+DR   GO; GO:0005102; F:signaling receptor binding; TAS:ProtInc.
+DR   GO; GO:0007267; P:cell-cell signaling; TAS:ProtInc.
+DR   GO; GO:1901384; P:positive regulation of chorionic trophoblast cell proliferation; TAS:GO_Central.
+DR   InterPro; IPR023258; Placentin.
+DR   InterPro; IPR022421; Relaxin.
+DR   PANTHER; PTHR12004:SF3; EARLY PLACENTA INSULIN-LIKE PEPTIDE; 1.
+DR   PANTHER; PTHR12004; RELAXIN; 1.
+DR   PRINTS; PR02033; PLACENTIN.
+DR   PRINTS; PR02004; RELAXIN.
+DR   PROSITE; PS00262; INSULIN; 1.
+PE   1: Evidence at protein level;
+KW   Cleavage on pair of basic residues; Direct protein sequencing;
+KW   Disulfide bond; Hormone; Reference proteome; Secreted; Signal.
+FT   SIGNAL          1..25
+FT                   /evidence="ECO:0000269|PubMed:15340161"
+FT   CHAIN           26..139
+FT                   /note="Early placenta insulin-like peptide"
+FT                   /id="PRO_0000016155"
+FT   PEPTIDE         26..58
+FT                   /note="Early placenta insulin-like peptide B chain"
+FT                   /id="PRO_0000016156"
+FT   PROPEP          59..114
+FT                   /note="C peptide"
+FT                   /id="PRO_0000016157"
+FT   PEPTIDE         115..139
+FT                   /note="Early placenta insulin-like peptide A chain"
+FT                   /id="PRO_0000016158"
+FT   DISULFID        31..125
+FT                   /note="Interchain (between B and A chains)"
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        43..138
+FT                   /note="Interchain (between B and A chains)"
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        124..129
+FT                   /evidence="ECO:0000250"
+SQ   SEQUENCE   139 AA;  15445 MW;  47FB61F6F86C1342 CRC64;
+     MASLFRSYLP AIWLLLSQLL RESLAAELRG CGPRFGKHLL SYCPMPEKTF TTTPGGWLLE
+     SGRPKEMVST SNNKDGQALG TTSEFIPNLS PELKKPLSEG QPSLKKIILS RKKRSGRHRF
+     DPFCCEVICD DGTSVKLCT
+//

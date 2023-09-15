@@ -1,0 +1,419 @@
+ID   NUP42_HUMAN             Reviewed;         423 AA.
+AC   O15504; A4D143; B4DP42; Q49AE7; Q9BS49;
+DT   06-DEC-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   28-JUN-2023, entry version 171.
+DE   RecName: Full=Nucleoporin NUP42 {ECO:0000305};
+DE   AltName: Full=NLP-1;
+DE   AltName: Full=NUP42 homolog;
+DE   AltName: Full=Nucleoporin hCG1;
+DE   AltName: Full=Nucleoporin-42 {ECO:0000312|HGNC:HGNC:17010};
+DE   AltName: Full=Nucleoporin-like protein 2;
+GN   Name=NUP42 {ECO:0000312|HGNC:HGNC:17010}; Synonyms=CG1, NUPL2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=9450185;
+RA   Van Laer L., Van Camp G., van Zuylen D., Green E.D., Verstreken M.,
+RA   Schatteman I., Van de Heyning P., Balemans W., Coucke P., Greinwald J.H.,
+RA   Smith R.J.H., Huizing E., Willems P.;
+RT   "Refined mapping of a gene for autosomal dominant progressive sensorineural
+RT   hearing loss (DFNA5) to a 2-cM region, and exclusion of a candidate gene
+RT   that is expressed in the cochlea.";
+RL   Eur. J. Hum. Genet. 5:397-405(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12690205; DOI=10.1126/science.1083423;
+RA   Scherer S.W., Cheung J., MacDonald J.R., Osborne L.R., Nakabayashi K.,
+RA   Herbrick J.-A., Carson A.R., Parker-Katiraee L., Skaug J., Khaja R.,
+RA   Zhang J., Hudek A.K., Li M., Haddad M., Duggan G.E., Fernandez B.A.,
+RA   Kanematsu E., Gentles S., Christopoulos C.C., Choufani S., Kwasnicka D.,
+RA   Zheng X.H., Lai Z., Nusskern D.R., Zhang Q., Gu Z., Lu F., Zeesman S.,
+RA   Nowaczyk M.J., Teshima I., Chitayat D., Shuman C., Weksberg R.,
+RA   Zackai E.H., Grebe T.A., Cox S.R., Kirkpatrick S.J., Rahman N.,
+RA   Friedman J.M., Heng H.H.Q., Pelicci P.G., Lo-Coco F., Belloni E.,
+RA   Shaffer L.G., Pober B., Morton C.C., Gusella J.F., Bruns G.A.P., Korf B.R.,
+RA   Quade B.J., Ligon A.H., Ferguson H., Higgins A.W., Leach N.T.,
+RA   Herrick S.R., Lemyre E., Farra C.G., Kim H.-G., Summers A.M., Gripp K.W.,
+RA   Roberts W., Szatmari P., Winsor E.J.T., Grzeschik K.-H., Teebi A.,
+RA   Minassian B.A., Kere J., Armengol L., Pujana M.A., Estivill X.,
+RA   Wilson M.D., Koop B.F., Tosi S., Moore G.E., Boright A.P., Zlotorynski E.,
+RA   Kerem B., Kroisel P.M., Petek E., Oscier D.G., Mould S.J., Doehner H.,
+RA   Doehner K., Rommens J.M., Vincent J.B., Venter J.C., Li P.W., Mural R.J.,
+RA   Adams M.D., Tsui L.-C.;
+RT   "Human chromosome 7: DNA sequence and biology.";
+RL   Science 300:767-772(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2 AND 3).
+RC   TISSUE=Testis, and Urinary bladder;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   INTERACTION WITH NXF1.
+RX   PubMed=10228171; DOI=10.1093/emboj/18.9.2593;
+RA   Katahira J., Straesser K., Podtelejnikov A., Mann M., Jung J.U., Hurt E.;
+RT   "The Mex67p-mediated nuclear mRNA export pathway is conserved from yeast to
+RT   human.";
+RL   EMBO J. 18:2593-2609(1999).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=10610322; DOI=10.1093/emboj/18.20.5761;
+RA   Strahm Y., Fahrenkrog B., Zenklusen D., Rychner E., Kantor J., Rosbach M.,
+RA   Stutz F.;
+RT   "The RNA export factor Gle1p is located on the cytoplasmic fibrils of the
+RT   NPC and physically interacts with the FG-nucleoporin Rip1p, the DEAD-box
+RT   protein Rat8p/Dbp5p and a new protein Ymr255p.";
+RL   EMBO J. 18:5761-5777(1999).
+RN   [8]
+RP   SUBCELLULAR LOCATION, GLYCOSYLATION, TISSUE SPECIFICITY, AND INTERACTION
+RP   WITH XPO1 AND HIV-1 VIRUS REV PROTEIN.
+RX   PubMed=10358091; DOI=10.1074/jbc.274.24.17309;
+RA   Farjot G., Sergeant A., Mikaelian I.;
+RT   "A new nucleoporin-like protein interacts with both HIV-1 Rev nuclear
+RT   export signal and CRM-1.";
+RL   J. Biol. Chem. 274:17309-17317(1999).
+RN   [9]
+RP   SUBCELLULAR LOCATION, INTERACTION WITH HIV-1 VIRUS VPR PROTEIN, AND
+RP   FUNCTION (MICROBIAL INFECTION).
+RX   PubMed=12228227; DOI=10.1074/jbc.m207439200;
+RA   Le Rouzic E., Mousnier A., Rustum C., Stutz F., Hallberg E., Dargemont C.,
+RA   Benichou S.;
+RT   "Docking of HIV-1 Vpr to the nuclear envelope is mediated by the
+RT   interaction with the nucleoporin hCG1.";
+RL   J. Biol. Chem. 277:45091-45098(2002).
+RN   [10]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH GLE1.
+RX   PubMed=16000379; DOI=10.1091/mbc.e04-11-0998;
+RA   Kendirgi F., Rexer D.J., Alcazar-Roman A.R., Onishko H.M., Wente S.R.;
+RT   "Interaction between the shuttling mRNA export factor Gle1 and the
+RT   nucleoporin hCG1: a conserved mechanism in the export of Hsp70 mRNA.";
+RL   Mol. Biol. Cell 16:4304-4315(2005).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-106, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-106, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+CC   -!- FUNCTION: Required for the export of mRNAs containing poly(A) tails
+CC       from the nucleus into the cytoplasm. {ECO:0000269|PubMed:10610322,
+CC       ECO:0000269|PubMed:16000379}.
+CC   -!- FUNCTION: (Microbial infection) In case of infection by HIV-1, it may
+CC       participate in the docking of viral Vpr at the nuclear envelope.
+CC       {ECO:0000269|PubMed:12228227}.
+CC   -!- SUBUNIT: Probable component of the nuclear pore complex (NPC).
+CC       Interacts with nuclear export protein NXF1 (PubMed:10228171). Interacts
+CC       with GLE1. Able to form a heterotrimer with NUP155 and GLE1 in vitro
+CC       (PubMed:16000379). Interacts with XPO1 (PubMed:10358091).
+CC       {ECO:0000269|PubMed:10228171, ECO:0000269|PubMed:10358091,
+CC       ECO:0000269|PubMed:16000379}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with the HIV-1 virus proteins
+CC       Rev and Vpr. The interaction with HIV-1 Rev, a protein that mediates
+CC       nuclear export of unspliced viral RNAs, suggests that its function may
+CC       be bypassed by the HIV-1 virus. {ECO:0000269|PubMed:10358091,
+CC       ECO:0000269|PubMed:12228227}.
+CC   -!- INTERACTION:
+CC       O15504-2; O76011: KRT34; NbExp=3; IntAct=EBI-14488689, EBI-1047093;
+CC   -!- SUBCELLULAR LOCATION: Nucleus, nuclear pore complex
+CC       {ECO:0000269|PubMed:12228227, ECO:0000269|PubMed:16000379}. Nucleus
+CC       membrane {ECO:0000269|PubMed:12228227, ECO:0000269|PubMed:16000379};
+CC       Peripheral membrane protein; Cytoplasmic side
+CC       {ECO:0000269|PubMed:12228227}. Note=Excluded from the nucleolus.
+CC       {ECO:0000269|PubMed:10358091}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=O15504-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O15504-2; Sequence=VSP_016481, VSP_016482;
+CC       Name=3;
+CC         IsoId=O15504-3; Sequence=VSP_016480;
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed.
+CC       {ECO:0000269|PubMed:10358091}.
+CC   -!- DOMAIN: The FG repeats are interaction sites for karyopherins
+CC       (importins, exportins) and form probably an affinity gradient, guiding
+CC       the transport proteins unidirectionally with their cargo through the
+CC       NPC. {ECO:0000250}.
+CC   -!- PTM: O-glycosylated. {ECO:0000269|PubMed:10358091}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U97198; AAC33794.1; -; mRNA.
+DR   EMBL; BT007409; AAP36077.1; -; mRNA.
+DR   EMBL; AK298183; BAG60454.1; -; mRNA.
+DR   EMBL; CH236948; EAL24260.1; -; Genomic_DNA.
+DR   EMBL; BC005327; AAH05327.1; -; mRNA.
+DR   EMBL; BC039333; AAH39333.1; -; mRNA.
+DR   CCDS; CCDS5379.1; -. [O15504-1]
+DR   RefSeq; NP_031368.1; NM_007342.2. [O15504-1]
+DR   PDB; 6B4F; X-ray; 2.81 A; C/D=381-423.
+DR   PDB; 6B4I; X-ray; 3.62 A; C/D=381-423.
+DR   PDB; 6B4J; X-ray; 3.40 A; C/D=376-422.
+DR   PDBsum; 6B4F; -.
+DR   PDBsum; 6B4I; -.
+DR   PDBsum; 6B4J; -.
+DR   AlphaFoldDB; O15504; -.
+DR   SMR; O15504; -.
+DR   BioGRID; 116278; 158.
+DR   ComplexPortal; CPX-873; Nuclear pore complex.
+DR   CORUM; O15504; -.
+DR   IntAct; O15504; 25.
+DR   MINT; O15504; -.
+DR   STRING; 9606.ENSP00000258742; -.
+DR   TCDB; 1.I.1.1.3; the nuclear pore complex (npc) family.
+DR   GlyCosmos; O15504; 3 sites, 1 glycan.
+DR   GlyGen; O15504; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; O15504; -.
+DR   PhosphoSitePlus; O15504; -.
+DR   SwissPalm; O15504; -.
+DR   BioMuta; NUPL2; -.
+DR   EPD; O15504; -.
+DR   jPOST; O15504; -.
+DR   MassIVE; O15504; -.
+DR   MaxQB; O15504; -.
+DR   PaxDb; O15504; -.
+DR   PeptideAtlas; O15504; -.
+DR   ProteomicsDB; 48700; -. [O15504-1]
+DR   ProteomicsDB; 48701; -. [O15504-2]
+DR   ProteomicsDB; 48702; -. [O15504-3]
+DR   Antibodypedia; 44074; 136 antibodies from 21 providers.
+DR   DNASU; 11097; -.
+DR   Ensembl; ENST00000258742.10; ENSP00000258742.5; ENSG00000136243.18. [O15504-1]
+DR   Ensembl; ENST00000438012.5; ENSP00000415511.1; ENSG00000136243.18. [O15504-2]
+DR   GeneID; 11097; -.
+DR   KEGG; hsa:11097; -.
+DR   MANE-Select; ENST00000258742.10; ENSP00000258742.5; NM_007342.3; NP_031368.1.
+DR   UCSC; uc003svu.4; human. [O15504-1]
+DR   AGR; HGNC:17010; -.
+DR   CTD; 11097; -.
+DR   DisGeNET; 11097; -.
+DR   GeneCards; NUP42; -.
+DR   HGNC; HGNC:17010; NUP42.
+DR   HPA; ENSG00000136243; Low tissue specificity.
+DR   MIM; 619998; gene.
+DR   neXtProt; NX_O15504; -.
+DR   OpenTargets; ENSG00000136243; -.
+DR   PharmGKB; PA134990469; -.
+DR   VEuPathDB; HostDB:ENSG00000136243; -.
+DR   eggNOG; ENOG502R2TD; Eukaryota.
+DR   GeneTree; ENSGT00390000000118; -.
+DR   HOGENOM; CLU_048441_0_0_1; -.
+DR   InParanoid; O15504; -.
+DR   OMA; ELHLEYY; -.
+DR   OrthoDB; 232322at2759; -.
+DR   PhylomeDB; O15504; -.
+DR   TreeFam; TF106503; -.
+DR   PathwayCommons; O15504; -.
+DR   Reactome; R-HSA-1169408; ISG15 antiviral mechanism.
+DR   Reactome; R-HSA-159227; Transport of the SLBP independent Mature mRNA.
+DR   Reactome; R-HSA-159230; Transport of the SLBP Dependant Mature mRNA.
+DR   Reactome; R-HSA-159231; Transport of Mature mRNA Derived from an Intronless Transcript.
+DR   Reactome; R-HSA-159236; Transport of Mature mRNA derived from an Intron-Containing Transcript.
+DR   Reactome; R-HSA-165054; Rev-mediated nuclear export of HIV RNA.
+DR   Reactome; R-HSA-168271; Transport of Ribonucleoproteins into the Host Nucleus.
+DR   Reactome; R-HSA-168276; NS1 Mediated Effects on Host Pathways.
+DR   Reactome; R-HSA-168325; Viral Messenger RNA Synthesis.
+DR   Reactome; R-HSA-168333; NEP/NS2 Interacts with the Cellular Export Machinery.
+DR   Reactome; R-HSA-170822; Regulation of Glucokinase by Glucokinase Regulatory Protein.
+DR   Reactome; R-HSA-180746; Nuclear import of Rev protein.
+DR   Reactome; R-HSA-180910; Vpr-mediated nuclear import of PICs.
+DR   Reactome; R-HSA-191859; snRNP Assembly.
+DR   Reactome; R-HSA-3108214; SUMOylation of DNA damage response and repair proteins.
+DR   Reactome; R-HSA-3232142; SUMOylation of ubiquitinylation proteins.
+DR   Reactome; R-HSA-3301854; Nuclear Pore Complex (NPC) Disassembly.
+DR   Reactome; R-HSA-3371453; Regulation of HSF1-mediated heat shock response.
+DR   Reactome; R-HSA-4085377; SUMOylation of SUMOylation proteins.
+DR   Reactome; R-HSA-4551638; SUMOylation of chromatin organization proteins.
+DR   Reactome; R-HSA-4570464; SUMOylation of RNA binding proteins.
+DR   Reactome; R-HSA-4615885; SUMOylation of DNA replication proteins.
+DR   Reactome; R-HSA-5578749; Transcriptional regulation by small RNAs.
+DR   Reactome; R-HSA-5619107; Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC).
+DR   Reactome; R-HSA-6784531; tRNA processing in the nucleus.
+DR   Reactome; R-HSA-9609690; HCMV Early Events.
+DR   Reactome; R-HSA-9610379; HCMV Late Events.
+DR   Reactome; R-HSA-9705671; SARS-CoV-2 activates/modulates innate and adaptive immune responses.
+DR   SignaLink; O15504; -.
+DR   SIGNOR; O15504; -.
+DR   BioGRID-ORCS; 11097; 70 hits in 1159 CRISPR screens.
+DR   ChiTaRS; NUPL2; human.
+DR   GeneWiki; NUPL2; -.
+DR   GenomeRNAi; 11097; -.
+DR   Pharos; O15504; Tbio.
+DR   PRO; PR:O15504; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; O15504; protein.
+DR   Bgee; ENSG00000136243; Expressed in cerebellar hemisphere and 186 other tissues.
+DR   ExpressionAtlas; O15504; baseline and differential.
+DR   Genevisible; O15504; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005635; C:nuclear envelope; IDA:ComplexPortal.
+DR   GO; GO:0031965; C:nuclear membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005643; C:nuclear pore; NAS:ComplexPortal.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005049; F:nuclear export signal receptor activity; IDA:GO_Central.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0051028; P:mRNA transport; IEA:UniProtKB-KW.
+DR   GO; GO:0006913; P:nucleocytoplasmic transport; NAS:ComplexPortal.
+DR   GO; GO:0006611; P:protein export from nucleus; IGI:GO_Central.
+DR   InterPro; IPR000571; Znf_CCCH.
+DR   PANTHER; PTHR46527:SF1; NUCLEOPORIN NUP42; 1.
+DR   PANTHER; PTHR46527; NUCLEOPORIN-LIKE PROTEIN 2; 1.
+DR   SMART; SM00356; ZnF_C3H1; 1.
+DR   PROSITE; PS50103; ZF_C3H1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Glycoprotein; Membrane; Metal-binding;
+KW   mRNA transport; Nuclear pore complex; Nucleus; Phosphoprotein;
+KW   Protein transport; Reference proteome; Repeat; Translocation; Transport;
+KW   Zinc; Zinc-finger.
+FT   CHAIN           1..423
+FT                   /note="Nucleoporin NUP42"
+FT                   /id="PRO_0000204895"
+FT   REPEAT          14..15
+FT                   /note="FG 1"
+FT   REPEAT          95..96
+FT                   /note="FG 2"
+FT   REPEAT          218..219
+FT                   /note="FG 3"
+FT   REPEAT          220..221
+FT                   /note="FG 4"
+FT   REPEAT          265..266
+FT                   /note="FG 5"
+FT   REPEAT          271..272
+FT                   /note="FG 6"
+FT   REPEAT          288..289
+FT                   /note="FG 7"
+FT   REPEAT          290..291
+FT                   /note="FG 8"
+FT   REPEAT          311..312
+FT                   /note="FG 9"
+FT   REPEAT          336..337
+FT                   /note="FG 10"
+FT   REPEAT          345..346
+FT                   /note="FG 11"
+FT   REPEAT          364..365
+FT                   /note="FG 12"
+FT   ZN_FING         1..25
+FT                   /note="C3H1-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00723"
+FT   REGION          24..85
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          94..170
+FT                   /note="Interaction with HIV-1 Vpr"
+FT   REGION          365..423
+FT                   /note="Interaction with GLE1"
+FT                   /evidence="ECO:0000269|PubMed:16000379"
+FT   COMPBIAS        31..71
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         106
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1..228
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_016480"
+FT   VAR_SEQ         204..224
+FT                   /note="LSDVKDGVNQAAPAFGFGSSQ -> KCLWKIYTHLSPKIYGPDCAL (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334, ECO:0000303|Ref.2"
+FT                   /id="VSP_016481"
+FT   VAR_SEQ         225..423
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334, ECO:0000303|Ref.2"
+FT                   /id="VSP_016482"
+FT   VARIANT         391
+FT                   /note="D -> N (in dbSNP:rs13243961)"
+FT                   /id="VAR_050572"
+FT   VARIANT         392
+FT                   /note="K -> N (in dbSNP:rs34902971)"
+FT                   /id="VAR_050573"
+FT   HELIX           395..402
+FT                   /evidence="ECO:0007829|PDB:6B4F"
+FT   STRAND          403..405
+FT                   /evidence="ECO:0007829|PDB:6B4F"
+FT   HELIX           418..420
+FT                   /evidence="ECO:0007829|PDB:6B4F"
+SQ   SEQUENCE   423 AA;  44872 MW;  6F8B95073312E999 CRC64;
+     MAICQFFLQG RCRFGDRCWN EHPGARGAGG GRQQPQQQPS GNNRRGWNTT SQRYSNVIQP
+     SSFSKSTPWG GSRDQEKPYF SSFDSGASTN RKEGFGLSEN PFASLSPDEQ KDEKKLLEGI
+     VKDMEVWESS GQWMFSVYSP VKKKPNISGF TDISPEELRL EYHNFLTSNN LQSYLNSVQR
+     LINQWRNRVN ELKSLNISTK VALLSDVKDG VNQAAPAFGF GSSQAATFMS PGFPVNNSSS
+     DNAQNFSFKT NSGFAAASSG SPAGFGSSPA FGAAASTSSG ISTSAPAFGF GKPEVTSAAS
+     FSFKSPAASS FGSPGFSGLP ASLATGPVRA PVAPAFGGGS SVAGFGSPGS HSHTAFSKPS
+     SDTFGNSSIS TSLSASSSII ATDNVLFTPR DKLTVEELEQ FQSKKFTLGK IPLKPPPLEL
+     LNV
+//

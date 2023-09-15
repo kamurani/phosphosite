@@ -1,0 +1,303 @@
+ID   OZF_HUMAN               Reviewed;         292 AA.
+AC   Q15072; Q2TB94;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   06-MAR-2007, sequence version 2.
+DT   28-JUN-2023, entry version 190.
+DE   RecName: Full=Zinc finger protein OZF;
+DE   AltName: Full=Only zinc finger protein;
+DE   AltName: Full=Zinc finger protein 146;
+GN   Name=ZNF146; Synonyms=OZF;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, AND VARIANT LYS-8.
+RC   TISSUE=Mammary gland;
+RX   PubMed=8107129; DOI=10.1006/jmbi.1994.1151;
+RA   le Chalony C., Prosperi M.-T., Haluza R., Apiou F., Dutrillaux B.,
+RA   Goubin G.;
+RT   "The OZF gene encodes a protein consisting essentially of zinc finger
+RT   motifs.";
+RL   J. Mol. Biol. 236:399-404(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT LYS-8.
+RX   PubMed=11306801; DOI=10.1159/000056873;
+RA   Pibouin L., Villaudy J., Prosperi M.-T., Goubin G.;
+RT   "Genomic organization and promoter identification of ZNF146, a gene
+RT   encoding a protein consisting solely of zinc finger domains.";
+RL   Cytogenet. Cell Genet. 92:80-84(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT LYS-8.
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   DNA-BINDING, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=8665923; DOI=10.1111/j.1432-1033.1996.00991.x;
+RA   Ferbus D., le Chalony C., Prosperi M.-T., Muleris M., Vincent-Salomon A.,
+RA   Goubin G.;
+RT   "Identification, nuclear localization, and binding activities of OZF, a
+RT   human protein solely composed of zinc-finger motifs.";
+RL   Eur. J. Biochem. 236:991-995(1996).
+RN   [6]
+RP   OVEREXPRESSION IN PANCREATIC CANCER.
+RX   PubMed=9935176;
+RX   DOI=10.1002/(sici)1097-0215(19990129)80:3<369::aid-ijc6>3.0.co;2-y;
+RA   Ferbus D., Flechon A., Muleris M., Li Y., Hanash S., Terris B., Hammel P.,
+RA   Pibouin L., Dutrillaux B., Goubin G.;
+RT   "Amplification and over-expression of OZF, a gene encoding a zinc finger
+RT   protein, in human pancreatic carcinomas.";
+RL   Int. J. Cancer 80:369-372(1999).
+RN   [7]
+RP   OVEREXPRESSION IN COLORECTAL CANCER.
+RX   PubMed=12754738; DOI=10.1002/path.1337;
+RA   Ferbus D., Bovin C., Validire P., Goubin G.;
+RT   "The zinc finger protein OZF (ZNF146) is overexpressed in colorectal
+RT   cancer.";
+RL   J. Pathol. 200:177-182(2003).
+RN   [8]
+RP   INTERACTION WITH TERF2IP.
+RX   PubMed=15838871; DOI=10.1002/jcb.20487;
+RA   Antoine K., Ferbus D., Kolahgar G., Prosperi M.-T., Goubin G.;
+RT   "Zinc finger protein overexpressed in colon carcinoma interacts with the
+RT   telomeric protein hRap1.";
+RL   J. Cell. Biochem. 95:763-768(2005).
+RN   [9]
+RP   INTERACTION WITH UBE2I, SUMOYLATION AT LYS-157 AND LYS-169, AND MUTAGENESIS
+RP   OF LYS-157 AND LYS-169.
+RX   PubMed=15881673; DOI=10.1007/s11010-005-6417-2;
+RA   Antoine K., Prosperi M.-T., Ferbus D., Boule C., Goubin G.;
+RT   "A Kruppel zinc finger of ZNF 146 interacts with the SUMO-1 conjugating
+RT   enzyme UBC9 and is sumoylated in vivo.";
+RL   Mol. Cell. Biochem. 271:215-223(2005).
+RN   [10]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-28; LYS-51; LYS-56 AND LYS-173,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- SUBUNIT: Binds DNA. Interacts with SUMO conjugating enzyme UBC9/UBE2I.
+CC       Interacts with the telomeric protein TERF2IP.
+CC       {ECO:0000269|PubMed:15838871, ECO:0000269|PubMed:15881673}.
+CC   -!- INTERACTION:
+CC       Q15072; Q96Q77: CIB3; NbExp=3; IntAct=EBI-11914212, EBI-10292696;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:8665923}.
+CC   -!- TISSUE SPECIFICITY: Liver, skeletal and heart muscle, mammary cells.
+CC       Very low levels in brain, lung, placenta and kidney. Strongly
+CC       overexpressed in many pancreas and colorectal cancers. Increased gene
+CC       copy numbers are detected in 3 of 12 tumor cell lines and 2 of 12
+CC       primary pancreatic carcinomas. Overexpressed in 80% of colorectal
+CC       cancers. {ECO:0000269|PubMed:8107129, ECO:0000269|PubMed:8665923}.
+CC   -!- PTM: Sumoylated. {ECO:0000269|PubMed:15881673}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/267/OZF";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X70394; CAA49844.1; -; mRNA.
+DR   EMBL; AJ011806; CAB41967.1; -; Genomic_DNA.
+DR   EMBL; AC012617; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC110500; AAI10501.1; -; mRNA.
+DR   EMBL; BC110501; AAI10502.1; -; mRNA.
+DR   CCDS; CCDS12492.1; -.
+DR   PIR; S43826; S43826.
+DR   RefSeq; NP_001093108.1; NM_001099638.1.
+DR   RefSeq; NP_001093109.1; NM_001099639.1.
+DR   RefSeq; NP_009076.2; NM_007145.2.
+DR   RefSeq; XP_005259271.1; XM_005259214.2.
+DR   RefSeq; XP_016882733.1; XM_017027244.1.
+DR   RefSeq; XP_016882734.1; XM_017027245.1.
+DR   RefSeq; XP_016882735.1; XM_017027246.1.
+DR   RefSeq; XP_016882736.1; XM_017027247.1.
+DR   AlphaFoldDB; Q15072; -.
+DR   SMR; Q15072; -.
+DR   BioGRID; 113499; 85.
+DR   IntAct; Q15072; 28.
+DR   MINT; Q15072; -.
+DR   STRING; 9606.ENSP00000400391; -.
+DR   iPTMnet; Q15072; -.
+DR   PhosphoSitePlus; Q15072; -.
+DR   BioMuta; ZNF146; -.
+DR   DMDM; 134048495; -.
+DR   EPD; Q15072; -.
+DR   jPOST; Q15072; -.
+DR   MassIVE; Q15072; -.
+DR   MaxQB; Q15072; -.
+DR   PaxDb; Q15072; -.
+DR   PeptideAtlas; Q15072; -.
+DR   ProteomicsDB; 60426; -.
+DR   Antibodypedia; 929; 186 antibodies from 25 providers.
+DR   DNASU; 7705; -.
+DR   Ensembl; ENST00000443387.3; ENSP00000392095.1; ENSG00000167635.12.
+DR   Ensembl; ENST00000456324.5; ENSP00000400391.1; ENSG00000167635.12.
+DR   GeneID; 7705; -.
+DR   KEGG; hsa:7705; -.
+DR   MANE-Select; ENST00000443387.3; ENSP00000392095.1; NM_007145.3; NP_009076.2.
+DR   UCSC; uc002odq.5; human.
+DR   AGR; HGNC:12931; -.
+DR   CTD; 7705; -.
+DR   DisGeNET; 7705; -.
+DR   GeneCards; ZNF146; -.
+DR   HGNC; HGNC:12931; ZNF146.
+DR   HPA; ENSG00000167635; Low tissue specificity.
+DR   MIM; 601505; gene.
+DR   neXtProt; NX_Q15072; -.
+DR   OpenTargets; ENSG00000167635; -.
+DR   PharmGKB; PA37518; -.
+DR   VEuPathDB; HostDB:ENSG00000167635; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000162671; -.
+DR   HOGENOM; CLU_002678_2_1_1; -.
+DR   InParanoid; Q15072; -.
+DR   OMA; ALDHWAP; -.
+DR   OrthoDB; 3823881at2759; -.
+DR   PhylomeDB; Q15072; -.
+DR   TreeFam; TF337055; -.
+DR   PathwayCommons; Q15072; -.
+DR   SignaLink; Q15072; -.
+DR   BioGRID-ORCS; 7705; 12 hits in 1151 CRISPR screens.
+DR   ChiTaRS; ZNF146; human.
+DR   GeneWiki; ZNF146; -.
+DR   GenomeRNAi; 7705; -.
+DR   Pharos; Q15072; Tbio.
+DR   PRO; PR:Q15072; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q15072; protein.
+DR   Bgee; ENSG00000167635; Expressed in parietal pleura and 214 other tissues.
+DR   Genevisible; Q15072; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; TAS:ProtInc.
+DR   GO; GO:0003677; F:DNA binding; TAS:ProtInc.
+DR   GO; GO:0008201; F:heparin binding; TAS:ProtInc.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0008270; F:zinc ion binding; TAS:ProtInc.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; TAS:ProtInc.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 10.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24399:SF66; NOVEL KRAB BOX AND ZINC FINGER, C2H2 TYPE DOMAIN CONTAINING PROTEIN-RELATED; 1.
+DR   PANTHER; PTHR24399; ZINC FINGER AND BTB DOMAIN-CONTAINING; 1.
+DR   Pfam; PF00096; zf-C2H2; 10.
+DR   SMART; SM00355; ZnF_C2H2; 10.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 6.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 10.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 10.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Isopeptide bond; Metal-binding; Nucleus; Reference proteome;
+KW   Repeat; Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..292
+FT                   /note="Zinc finger protein OZF"
+FT                   /id="PRO_0000047276"
+FT   ZN_FING         16..38
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         44..66
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         72..94
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         100..122
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         128..150
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         156..178
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         184..206
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         212..234
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         240..262
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         268..290
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          212..292
+FT                   /note="Interaction with TERF2IP"
+FT                   /evidence="ECO:0000269|PubMed:15838871"
+FT   CROSSLNK        28
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        51
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        56
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        157
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO)"
+FT                   /evidence="ECO:0000250"
+FT   CROSSLNK        169
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO)"
+FT                   /evidence="ECO:0000250"
+FT   CROSSLNK        173
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         8
+FT                   /note="R -> K (in dbSNP:rs2070132)"
+FT                   /evidence="ECO:0000269|PubMed:11306801,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:8107129"
+FT                   /id="VAR_023746"
+FT   MUTAGEN         157
+FT                   /note="K->R: Induces a decrease in sumoylation. Induces a
+FT                   strong decrease but does not abolish sumoylation; when
+FT                   associated with R-169."
+FT                   /evidence="ECO:0000269|PubMed:15881673"
+FT   MUTAGEN         169
+FT                   /note="K->R: Induces a decrease in sumoylation. Induces a
+FT                   strong decrease but does not abolish sumoylation; when
+FT                   associated with R-157."
+FT                   /evidence="ECO:0000269|PubMed:15881673"
+SQ   SEQUENCE   292 AA;  33308 MW;  D5062375D261B971 CRC64;
+     MSHLSQQRIY SGENPFACKV CGKVFSHKSN LTEHEHFHTR EKPFECNECG KAFSQKQYVI
+     KHQNTHTGEK LFECNECGKS FSQKENLLTH QKIHTGEKPF ECKDCGKAFI QKSNLIRHQR
+     THTGEKPFVC KECGKTFSGK SNLTEHEKIH IGEKPFKCSE CGTAFGQKKY LIKHQNIHTG
+     EKPYECNECG KAFSQRTSLI VHVRIHSGDK PYECNVCGKA FSQSSSLTVH VRSHTGEKPY
+     GCNECGKAFS QFSTLALHLR IHTGKKPYQC SECGKAFSQK SHHIRHQKIH TH
+//

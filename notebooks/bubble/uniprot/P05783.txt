@@ -1,0 +1,963 @@
+ID   K1C18_HUMAN             Reviewed;         430 AA.
+AC   P05783; Q53G38; Q5U0N8; Q9BW26;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   28-JUN-2023, entry version 239.
+DE   RecName: Full=Keratin, type I cytoskeletal 18;
+DE   AltName: Full=Cell proliferation-inducing gene 46 protein;
+DE   AltName: Full=Cytokeratin-18;
+DE            Short=CK-18;
+DE   AltName: Full=Keratin-18;
+DE            Short=K18;
+GN   Name=KRT18; Synonyms=CYK18; ORFNames=PIG46;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Placenta;
+RX   PubMed=2434380; DOI=10.1111/j.1432-0436.1986.tb00411.x;
+RA   Oshima R.G., Millan J.L., Cecena G.;
+RT   "Comparison of mouse and human keratin 18: a component of intermediate
+RT   filaments expressed prior to implantation.";
+RL   Differentiation 33:61-68(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kim J.W.;
+RT   "Identification of a cell proliferation-inducing gene.";
+RL   Submitted (SEP-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (OCT-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Cervix, Colon, Pancreas, Placenta, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-167.
+RX   PubMed=2454392; DOI=10.1128/mcb.8.4.1540-1550.1988;
+RA   Kulesh D.A., Oshima R.G.;
+RT   "Cloning of the human keratin 18 gene and its expression in nonepithelial
+RT   mouse cells.";
+RL   Mol. Cell. Biol. 8:1540-1550(1988).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 7-430, AND TISSUE SPECIFICITY.
+RC   TISSUE=Vulva;
+RX   PubMed=2434381; DOI=10.1111/j.1432-0436.1986.tb00412.x;
+RA   Leube R.E., Bosch F.X., Romano V., Zimbelmann R., Hofler H., Franke W.W.;
+RT   "Cytokeratin expression in simple epithelia. III. Detection of mRNAs
+RT   encoding human cytokeratins nos. 8 and 18 in normal and tumor cells by
+RT   hybridization with cDNA sequences in vitro and in situ.";
+RL   Differentiation 33:69-85(1986).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 199-430, AND TISSUE SPECIFICITY.
+RC   TISSUE=Liver;
+RX   PubMed=2422083; DOI=10.1111/j.1432-0436.1986.tb00787.x;
+RA   Romano V., Hatzfeld M., Magin T.M., Zimbelmann R., Franke W.W., Maier G.,
+RA   Ponstingl H.;
+RT   "Cytokeratin expression in simple epithelia. I. Identification of mRNA
+RT   coding for human cytokeratin no. 18 by a cDNA clone.";
+RL   Differentiation 30:244-253(1986).
+RN   [9]
+RP   PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Colon carcinoma;
+RX   PubMed=9150948; DOI=10.1002/elps.1150180344;
+RA   Ji H., Reid G.E., Moritz R.L., Eddes J.S., Burgess A.W., Simpson R.J.;
+RT   "A two-dimensional gel database of human colon carcinoma proteins.";
+RL   Electrophoresis 18:605-613(1997).
+RN   [10]
+RP   GLYCOSYLATION.
+RX   PubMed=1371281; DOI=10.1016/s0021-9258(19)50611-1;
+RA   Chou C.F., Smith A.J., Omary M.B.;
+RT   "Characterization and dynamics of O-linked glycosylation of human
+RT   cytokeratin 8 and 18.";
+RL   J. Biol. Chem. 267:3901-3906(1992).
+RN   [11]
+RP   FUNCTION, PHOSPHORYLATION AT SER-53, AND MUTAGENESIS OF SER-2; SER-7;
+RP   SER-10; SER-15; SER-18; SER-23; SER-30; SER-31; SER-34; SER-42; SER-44;
+RP   SER-47; SER-49; SER-51 AND SER-53.
+RX   PubMed=7523419; DOI=10.1083/jcb.127.1.161;
+RA   Ku N.O., Omary M.B.;
+RT   "Identification of the major physiologic phosphorylation site of human
+RT   keratin 18: potential kinases and a role in filament reorganization.";
+RL   J. Cell Biol. 127:161-171(1994).
+RN   [12]
+RP   GLYCOSYLATION AT SER-30; SER-31 AND SER-49, MUTAGENESIS OF SER-30; SER-31
+RP   AND SER-49, CLEAVAGE OF INITIATOR METHIONINE, AND ACETYLATION AT SER-2.
+RX   PubMed=7538124; DOI=10.1074/jbc.270.20.11820;
+RA   Ku N.-O., Omary M.B.;
+RT   "Identification and mutational analysis of the glycosylation sites of human
+RT   keratin 18.";
+RL   J. Biol. Chem. 270:11820-11827(1995).
+RN   [13]
+RP   FUNCTION, AND MUTAGENESIS OF ARG-90.
+RX   PubMed=8522591; DOI=10.1083/jcb.131.5.1303;
+RA   Ku N.O., Michie S., Oshima R.G., Omary M.B.;
+RT   "Chronic hepatitis, hepatocyte fragility, and increased soluble
+RT   phosphoglycokeratins in transgenic mice expressing a keratin 18 conserved
+RT   arginine mutant.";
+RL   J. Cell Biol. 131:1303-1314(1995).
+RN   [14]
+RP   PHOSPHORYLATION, AND INTERACTION WITH YWHAE; YWHAH AND YWHAZ.
+RX   PubMed=8609167; DOI=10.1083/jcb.133.2.345;
+RA   Liao J., Omary M.B.;
+RT   "14-3-3 proteins associate with phosphorylated simple epithelial keratins
+RT   during cell cycle progression and act as a solubility cofactor.";
+RL   J. Cell Biol. 133:345-357(1996).
+RN   [15]
+RP   FUNCTION, CLEAVAGE BY CASPASES, AND MUTAGENESIS OF SER-53 AND ASP-238.
+RX   PubMed=9298992; DOI=10.1083/jcb.138.6.1379;
+RA   Caulin C., Salvesen G.S., Oshima R.G.;
+RT   "Caspase cleavage of keratin 18 and reorganization of intermediate
+RT   filaments during epithelial cell apoptosis.";
+RL   J. Cell Biol. 138:1379-1394(1997).
+RN   [16]
+RP   FUNCTION, INTERACTION WITH YWHAE AND YWHAZ, PHOSPHORYLATION AT SER-34, AND
+RP   MUTAGENESIS OF SER-34 AND SER-53.
+RX   PubMed=9524113; DOI=10.1093/emboj/17.7.1892;
+RA   Ku N.O., Liao J., Omary M.B.;
+RT   "Phosphorylation of human keratin 18 serine 33 regulates binding to 14-3-3
+RT   proteins.";
+RL   EMBO J. 17:1892-1906(1998).
+RN   [17]
+RP   INTERACTION WITH PNN.
+RX   PubMed=10809736; DOI=10.1074/jbc.275.20.14910;
+RA   Shi J., Sugrue S.P.;
+RT   "Dissection of protein linkage between keratins and pinin, a protein with
+RT   dual location at desmosome-intermediate filament complex and in the
+RT   nucleus.";
+RL   J. Biol. Chem. 275:14910-14915(2000).
+RN   [18]
+RP   INTERACTION WITH DNAJB6.
+RX   PubMed=10954706; DOI=10.1074/jbc.m003492200;
+RA   Izawa I., Nishizawa M., Ohtakara K., Ohtsuka K., Inada H., Inagaki M.;
+RT   "Identification of Mrj, a DnaJ/Hsp40 family protein, as a keratin 8/18
+RT   filament regulatory protein.";
+RL   J. Biol. Chem. 275:34521-34527(2000).
+RN   [19]
+RP   INTERACTION WITH PKP1; PKP2 AND KRT8.
+RX   PubMed=10852826; DOI=10.1242/jcs.113.13.2471;
+RA   Hofmann I., Mertens C., Brettel M., Nimmrich V., Schnoelzer M.,
+RA   Herrmann H.;
+RT   "Interaction of plakophilins with desmoplakin and intermediate filament
+RT   proteins: an in vitro analysis.";
+RL   J. Cell Sci. 113:2471-2483(2000).
+RN   [20]
+RP   INTERACTION WITH TRADD.
+RX   PubMed=11684708; DOI=10.1083/jcb.200103078;
+RA   Inada H., Izawa I., Nishizawa M., Fujita E., Kiyono T., Takahashi T.,
+RA   Momoi T., Inagaki M.;
+RT   "Keratin attenuates tumor necrosis factor-induced cytotoxicity through
+RT   association with TRADD.";
+RL   J. Cell Biol. 155:415-426(2001).
+RN   [21]
+RP   ASSOCIATION WITH KRT8.
+RX   PubMed=14756564; DOI=10.1021/bi035072s;
+RA   Waseem A., Karsten U., Leigh I.M., Purkis P., Waseem N.H., Lane E.B.;
+RT   "Conformational changes in the rod domain of human keratin 8 following
+RT   heterotypic association with keratin 18 and its implication for filament
+RT   stability.";
+RL   Biochemistry 43:1283-1295(2004).
+RN   [22]
+RP   PHOSPHORYLATION AT SER-34 AND SER-53.
+RX   PubMed=15368451; DOI=10.1002/hep.20277;
+RA   Toivola D.M., Ku N.O., Resurreccion E.Z., Nelson D.R., Wright T.L.,
+RA   Omary M.B.;
+RT   "Keratin 8 and 18 hyperphosphorylation is a marker of progression of human
+RT   liver disease.";
+RL   Hepatology 40:459-466(2004).
+RN   [23]
+RP   FUNCTION, INTERACTION WITH MUTATED CFTR, AND SUBCELLULAR LOCATION.
+RX   PubMed=15529338; DOI=10.1002/pmic.200400850;
+RA   Davezac N., Tondelier D., Lipecka J., Fanen P., Demaugre F., Debski J.,
+RA   Dadlez M., Schrattenholz A., Cahill M.A., Edelman A.;
+RT   "Global proteomic approach unmasks involvement of keratins 8 and 18 in the
+RT   delivery of cystic fibrosis transmembrane conductance regulator
+RT   (CFTR)/deltaF508-CFTR to the plasma membrane.";
+RL   Proteomics 4:3833-3844(2004).
+RN   [24]
+RP   INTERACTION WITH TCHP.
+RX   PubMed=15731013; DOI=10.1242/jcs.01667;
+RA   Nishizawa M., Izawa I., Inoko A., Hayashi Y., Nagata K., Yokoyama T.,
+RA   Usukura J., Inagaki M.;
+RT   "Identification of trichoplein, a novel keratin filament-binding protein.";
+RL   J. Cell Sci. 118:1081-1090(2005).
+RN   [25]
+RP   INTERACTION WITH HEPATITIS C VIRUS CORE PROTEIN (MICROBIAL INFECTION).
+RX   PubMed=15846844; DOI=10.1002/pmic.200401093;
+RA   Kang S.-M., Shin M.-J., Kim J.-H., Oh J.-W.;
+RT   "Proteomic profiling of cellular proteins interacting with the hepatitis C
+RT   virus core protein.";
+RL   Proteomics 5:2227-2237(2005).
+RN   [26]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [27]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND PHOSPHORYLATION AT SER-53.
+RX   PubMed=16424149; DOI=10.1124/jpet.105.097667;
+RA   Lipecka J., Norez C., Bensalem N., Baudouin-Legros M., Planelles G.,
+RA   Becq F., Edelman A., Davezac N.;
+RT   "Rescue of DeltaF508-CFTR (cystic fibrosis transmembrane conductance
+RT   regulator) by curcumin: involvement of the keratin 18 network.";
+RL   J. Pharmacol. Exp. Ther. 317:500-505(2006).
+RN   [28]
+RP   FUNCTION, TISSUE SPECIFICITY, PHOSPHORYLATION, AND INDUCTION.
+RX   PubMed=17213200; DOI=10.1074/jbc.m604068200;
+RA   Wang L., Srinivasan S., Theiss A.L., Merlin D., Sitaraman S.V.;
+RT   "Interleukin-6 induces keratin expression in intestinal epithelial cells:
+RT   potential role of keratin-8 in interleukin-6-induced barrier function
+RT   alterations.";
+RL   J. Biol. Chem. 282:8219-8227(2007).
+RN   [29]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-15, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17924679; DOI=10.1021/pr070152u;
+RA   Yu L.R., Zhu Z., Chan K.C., Issaq H.J., Dimitrov D.S., Veenstra T.D.;
+RT   "Improved titanium dioxide enrichment of phosphopeptides from HeLa cells
+RT   and high confident phosphopeptide identification by cross-validation of
+RT   MS/MS and MS/MS/MS spectra.";
+RL   J. Proteome Res. 6:4150-4162(2007).
+RN   [30]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-60, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [31]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-10; SER-34; SER-42; SER-60;
+RP   THR-302 AND SER-399, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [32]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-131 AND LYS-426, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [33]
+RP   GLYCOSYLATION AT SER-30; SER-31 AND SER-49.
+RX   PubMed=20729549; DOI=10.1074/jbc.m109.098996;
+RA   Srikanth B., Vaidya M.M., Kalraiya R.D.;
+RT   "O-GlcNAcylation determines the solubility, filament organization, and
+RT   stability of keratins 8 and 18.";
+RL   J. Biol. Chem. 285:34062-34071(2010).
+RN   [34]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-7; SER-15; SER-34; SER-42;
+RP   SER-60; THR-65; SER-100; SER-319; SER-399 AND THR-404, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [35]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [36]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [37]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=22002106; DOI=10.1074/mcp.m111.013680;
+RA   Ahmad Y., Boisvert F.M., Lundberg E., Uhlen M., Lamond A.I.;
+RT   "Systematic analysis of protein pools, isoforms, and modifications
+RT   affecting turnover and subcellular localization.";
+RL   Mol. Cell. Proteomics 11:M111.013680.01-M111.013680.15(2012).
+RN   [38]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [39]
+RP   INTERACTION WITH FAM83H.
+RX   PubMed=23902688; DOI=10.1242/jcs.129684;
+RA   Kuga T., Kume H., Kawasaki N., Sato M., Adachi J., Shiromizu T.,
+RA   Hoshino I., Nishimori T., Matsubara H., Tomonaga T.;
+RT   "A novel mechanism of keratin cytoskeleton organization through casein
+RT   kinase Ialpha and FAM83H in colorectal cancer.";
+RL   J. Cell Sci. 126:4721-4731(2013).
+RN   [40]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-10; SER-18; SER-34; SER-49;
+RP   THR-52; SER-60; SER-93; SER-305; SER-319; SER-323 AND SER-399, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [41]
+RP   IDENTIFICATION IN A COMPLEX WITH KRT8, AND INTERACTION WITH KRT8 AND PLEC.
+RX   PubMed=24940650; DOI=10.1038/jid.2014.255;
+RA   Bouameur J.E., Favre B., Fontao L., Lingasamy P., Begre N., Borradori L.;
+RT   "Interaction of plectin with keratins 5 and 14: dependence on several
+RT   plectin domains and keratin quaternary structure.";
+RL   J. Invest. Dermatol. 134:2776-2783(2014).
+RN   [42]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-65; SER-177; SER-305;
+RP   SER-398; SER-399; SER-401 AND THR-404, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [43]
+RP   METHYLATION [LARGE SCALE ANALYSIS] AT ARG-45 AND ARG-55, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Colon carcinoma;
+RX   PubMed=24129315; DOI=10.1074/mcp.o113.027870;
+RA   Guo A., Gu H., Zhou J., Mulhern D., Wang Y., Lee K.A., Yang V., Aguiar M.,
+RA   Kornhauser J., Jia X., Ren J., Beausoleil S.A., Silva J.C., Vemulapalli V.,
+RA   Bedford M.T., Comb M.J.;
+RT   "Immunoaffinity enrichment and mass spectrometry analysis of protein
+RT   methylation.";
+RL   Mol. Cell. Proteomics 13:372-387(2014).
+RN   [44]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-426, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25114211; DOI=10.1073/pnas.1413825111;
+RA   Impens F., Radoshevich L., Cossart P., Ribet D.;
+RT   "Mapping of SUMO sites and analysis of SUMOylation changes induced by
+RT   external stimuli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 111:12432-12437(2014).
+RN   [45]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-81; LYS-247; LYS-370; LYS-372;
+RP   LYS-417 AND LYS-426, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [46]
+RP   VARIANT CIRRH LEU-128.
+RX   PubMed=9011570; DOI=10.1172/jci119127;
+RA   Ku N.-O., Wright T.L., Terrault N.A., Gish R., Omary M.B.;
+RT   "Mutation of human keratin 18 in association with cryptogenic cirrhosis.";
+RL   J. Clin. Invest. 99:19-23(1997).
+RN   [47]
+RP   VARIANTS CIRRH ALA-103; LEU-128; GLN-261 AND ARG-340, AND VARIANT THR-230.
+RX   PubMed=12724528; DOI=10.1073/pnas.0936165100;
+RA   Ku N.-O., Darling J.M., Krams S.M., Esquivel C.O., Keeffe E.B.,
+RA   Sibley R.K., Lee Y.M., Wright T.L., Omary M.B.;
+RT   "Keratin 8 and 18 mutations are risk factors for developing liver disease
+RT   of multiple etiologies.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:6063-6068(2003).
+CC   -!- FUNCTION: Involved in the uptake of thrombin-antithrombin complexes by
+CC       hepatic cells (By similarity). When phosphorylated, plays a role in
+CC       filament reorganization. Involved in the delivery of mutated CFTR to
+CC       the plasma membrane. Together with KRT8, is involved in interleukin-6
+CC       (IL-6)-mediated barrier protection. {ECO:0000250,
+CC       ECO:0000269|PubMed:15529338, ECO:0000269|PubMed:16424149,
+CC       ECO:0000269|PubMed:17213200, ECO:0000269|PubMed:7523419,
+CC       ECO:0000269|PubMed:8522591, ECO:0000269|PubMed:9298992,
+CC       ECO:0000269|PubMed:9524113}.
+CC   -!- SUBUNIT: Heterotetramer of two type I and two type II keratins. KRT18
+CC       associates with KRT8 (PubMed:10852826, PubMed:24940650). Interacts with
+CC       PLEC isoform 1C, when in a heterodimer with KRT8 (PubMed:24940650).
+CC       Interacts with the thrombin-antithrombin complex (By similarity).
+CC       Interacts with PNN and mutated CFTR. Interacts with YWHAE, YWHAH and
+CC       YWHAZ only when phosphorylated. Interacts with DNAJB6, TCHP and TRADD.
+CC       Interacts with FAM83H (PubMed:23902688). Interacts with EPPK1 (By
+CC       similarity). Interacts with PKP1 and PKP2 (PubMed:10852826).
+CC       {ECO:0000250, ECO:0000250|UniProtKB:P05784,
+CC       ECO:0000269|PubMed:10809736, ECO:0000269|PubMed:10852826,
+CC       ECO:0000269|PubMed:10954706, ECO:0000269|PubMed:11684708,
+CC       ECO:0000269|PubMed:15529338, ECO:0000269|PubMed:15731013,
+CC       ECO:0000269|PubMed:23902688, ECO:0000269|PubMed:24940650,
+CC       ECO:0000269|PubMed:8609167, ECO:0000269|PubMed:9524113}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with hepatitis C virus/HCV
+CC       core protein. {ECO:0000269|PubMed:15846844}.
+CC   -!- INTERACTION:
+CC       P05783; Q14457: BECN1; NbExp=2; IntAct=EBI-297888, EBI-949378;
+CC       P05783; Q9NX04: C1orf109; NbExp=3; IntAct=EBI-297888, EBI-8643161;
+CC       P05783; Q8IYE0-2: CCDC146; NbExp=3; IntAct=EBI-297888, EBI-10247802;
+CC       P05783; Q8TD31-3: CCHCR1; NbExp=3; IntAct=EBI-297888, EBI-10175300;
+CC       P05783; O75190: DNAJB6; NbExp=6; IntAct=EBI-297888, EBI-1053164;
+CC       P05783; Q5JVL4: EFHC1; NbExp=3; IntAct=EBI-297888, EBI-743105;
+CC       P05783; Q08379: GOLGA2; NbExp=7; IntAct=EBI-297888, EBI-618309;
+CC       P05783; Q96CS2: HAUS1; NbExp=3; IntAct=EBI-297888, EBI-2514791;
+CC       P05783; A0A0S2Z4Q4: HGS; NbExp=3; IntAct=EBI-297888, EBI-16429135;
+CC       P05783; O14964: HGS; NbExp=7; IntAct=EBI-297888, EBI-740220;
+CC       P05783; P42858: HTT; NbExp=6; IntAct=EBI-297888, EBI-466029;
+CC       P05783; Q9Y6K9: IKBKG; NbExp=3; IntAct=EBI-297888, EBI-81279;
+CC       P05783; Q9BVG8-5: KIFC3; NbExp=3; IntAct=EBI-297888, EBI-14069005;
+CC       P05783; P02538: KRT6A; NbExp=3; IntAct=EBI-297888, EBI-702198;
+CC       P05783; P48668: KRT6C; NbExp=4; IntAct=EBI-297888, EBI-2564105;
+CC       P05783; Q3SY84: KRT71; NbExp=3; IntAct=EBI-297888, EBI-2952676;
+CC       P05783; Q5XKE5: KRT79; NbExp=3; IntAct=EBI-297888, EBI-2514135;
+CC       P05783; P05787: KRT8; NbExp=16; IntAct=EBI-297888, EBI-297852;
+CC       P05783; Q14533: KRT81; NbExp=3; IntAct=EBI-297888, EBI-739648;
+CC       P05783; O75022: LILRB3; NbExp=3; IntAct=EBI-297888, EBI-2830524;
+CC       P05783; Q9BQ69: MACROD1; NbExp=7; IntAct=EBI-297888, EBI-5324932;
+CC       P05783; P07196: NEFL; NbExp=3; IntAct=EBI-297888, EBI-475646;
+CC       P05783; Q9Y5B8: NME7; NbExp=4; IntAct=EBI-297888, EBI-744782;
+CC       P05783; Q13835-2: PKP1; NbExp=4; IntAct=EBI-297888, EBI-9087684;
+CC       P05783; A0A0S2Z505: PSTPIP2; NbExp=3; IntAct=EBI-297888, EBI-16437709;
+CC       P05783; Q9P2K3-2: RCOR3; NbExp=3; IntAct=EBI-297888, EBI-1504830;
+CC       P05783; Q8N0S2: SYCE1; NbExp=3; IntAct=EBI-297888, EBI-6872807;
+CC       P05783; Q8WW24: TEKT4; NbExp=3; IntAct=EBI-297888, EBI-750487;
+CC       P05783; Q15628: TRADD; NbExp=11; IntAct=EBI-297888, EBI-359215;
+CC       P05783; Q99816: TSG101; NbExp=4; IntAct=EBI-297888, EBI-346882;
+CC       P05783; B7UM99: tir; Xeno; NbExp=5; IntAct=EBI-297888, EBI-2504426;
+CC   -!- SUBCELLULAR LOCATION: Nucleus matrix {ECO:0000250|UniProtKB:Q5BJY9}.
+CC       Cytoplasm, perinuclear region. Nucleus, nucleolus
+CC       {ECO:0000269|PubMed:22002106}. Cytoplasm
+CC       {ECO:0000250|UniProtKB:Q5BJY9}.
+CC   -!- TISSUE SPECIFICITY: Expressed in colon, placenta, liver and very weakly
+CC       in exocervix. Increased expression observed in lymph nodes of breast
+CC       carcinoma. {ECO:0000269|PubMed:17213200, ECO:0000269|PubMed:2422083,
+CC       ECO:0000269|PubMed:2434380, ECO:0000269|PubMed:2434381}.
+CC   -!- INDUCTION: By IL6/interleukin-6. {ECO:0000269|PubMed:17213200}.
+CC   -!- PTM: Phosphorylation at Ser-34 increases during mitosis.
+CC       Hyperphosphorylated at Ser-53 in diseased cirrhosis liver.
+CC       Phosphorylation increases by IL-6. {ECO:0000269|PubMed:15368451,
+CC       ECO:0000269|PubMed:16424149, ECO:0000269|PubMed:17213200,
+CC       ECO:0000269|PubMed:7523419, ECO:0000269|PubMed:8609167,
+CC       ECO:0000269|PubMed:9524113}.
+CC   -!- PTM: Proteolytically cleaved by caspases during epithelial cell
+CC       apoptosis. Cleavage occurs at Asp-238 by either caspase-3, caspase-6 or
+CC       caspase-7. {ECO:0000269|PubMed:9298992}.
+CC   -!- PTM: O-GlcNAcylation increases solubility, and decreases stability by
+CC       inducing proteasomal degradation.
+CC   -!- DISEASE: Cirrhosis (CIRRH) [MIM:215600]: A liver disease characterized
+CC       by severe panlobular liver-cell swelling with Mallory body formation,
+CC       prominent pericellular fibrosis, and marked deposits of copper.
+CC       Clinical features include abdomen swelling, jaundice and pulmonary
+CC       hypertension. {ECO:0000269|PubMed:12724528,
+CC       ECO:0000269|PubMed:9011570}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: There are two types of cytoskeletal and microfibrillar
+CC       keratin: I (acidic; 40-55 kDa) and II (neutral to basic; 56-70 kDa).
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   -!- WEB RESOURCE: Name=Human Intermediate Filament Mutation Database;
+CC       URL="http://www.interfil.org";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X12881; CAA31375.1; -; mRNA.
+DR   EMBL; AY762101; AAX07828.1; -; mRNA.
+DR   EMBL; BT019412; AAV38219.1; -; mRNA.
+DR   EMBL; AK223093; BAD96813.1; -; mRNA.
+DR   EMBL; BC000180; AAH00180.1; -; mRNA.
+DR   EMBL; BC000698; AAH00698.1; -; mRNA.
+DR   EMBL; BC004253; AAH04253.1; -; mRNA.
+DR   EMBL; BC008636; AAH08636.1; -; mRNA.
+DR   EMBL; BC020982; AAH20982.1; -; mRNA.
+DR   EMBL; BC072017; AAH72017.1; -; mRNA.
+DR   EMBL; AF179904; AAA59461.1; -; Genomic_DNA.
+DR   EMBL; X12883; CAA31377.1; -; mRNA.
+DR   EMBL; X12876; CAA31369.1; -; mRNA.
+DR   CCDS; CCDS31809.1; -.
+DR   PIR; S05481; S05481.
+DR   RefSeq; NP_000215.1; NM_000224.2.
+DR   RefSeq; NP_954657.1; NM_199187.1.
+DR   AlphaFoldDB; P05783; -.
+DR   SMR; P05783; -.
+DR   BioGRID; 110073; 366.
+DR   ComplexPortal; CPX-5661; Keratin-8 - Keratin-18 dimer complex.
+DR   DIP; DIP-633N; -.
+DR   IntAct; P05783; 115.
+DR   MINT; P05783; -.
+DR   STRING; 9606.ENSP00000373487; -.
+DR   GlyConnect; 312; 3 N-Linked glycans (1 site), 1 O-GlcNAc glycan (2 sites).
+DR   GlyCosmos; P05783; 7 sites, 3 glycans.
+DR   GlyGen; P05783; 19 sites, 2 N-linked glycans (1 site), 2 O-linked glycans (18 sites).
+DR   iPTMnet; P05783; -.
+DR   MetOSite; P05783; -.
+DR   PhosphoSitePlus; P05783; -.
+DR   SwissPalm; P05783; -.
+DR   BioMuta; KRT18; -.
+DR   DMDM; 125083; -.
+DR   SWISS-2DPAGE; P05783; -.
+DR   CPTAC; CPTAC-1518; -.
+DR   CPTAC; CPTAC-1519; -.
+DR   EPD; P05783; -.
+DR   jPOST; P05783; -.
+DR   MassIVE; P05783; -.
+DR   MaxQB; P05783; -.
+DR   PaxDb; P05783; -.
+DR   PeptideAtlas; P05783; -.
+DR   PRIDE; P05783; -.
+DR   ProteomicsDB; 51857; -.
+DR   TopDownProteomics; P05783; -.
+DR   ABCD; P05783; 4 sequenced antibodies.
+DR   Antibodypedia; 271; 3899 antibodies from 57 providers.
+DR   DNASU; 3875; -.
+DR   Ensembl; ENST00000388835.4; ENSP00000373487.3; ENSG00000111057.11.
+DR   Ensembl; ENST00000388837.6; ENSP00000373489.2; ENSG00000111057.11.
+DR   GeneID; 3875; -.
+DR   KEGG; hsa:3875; -.
+DR   MANE-Select; ENST00000388835.4; ENSP00000373487.3; NM_000224.3; NP_000215.1.
+DR   UCSC; uc001sbe.4; human.
+DR   AGR; HGNC:6430; -.
+DR   CTD; 3875; -.
+DR   DisGeNET; 3875; -.
+DR   GeneCards; KRT18; -.
+DR   HGNC; HGNC:6430; KRT18.
+DR   HPA; ENSG00000111057; Low tissue specificity.
+DR   MalaCards; KRT18; -.
+DR   MIM; 148070; gene.
+DR   MIM; 215600; phenotype.
+DR   neXtProt; NX_P05783; -.
+DR   OpenTargets; ENSG00000111057; -.
+DR   PharmGKB; PA30217; -.
+DR   VEuPathDB; HostDB:ENSG00000111057; -.
+DR   eggNOG; ENOG502QUS8; Eukaryota.
+DR   GeneTree; ENSGT00940000153309; -.
+DR   InParanoid; P05783; -.
+DR   OMA; YRASSIH; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; P05783; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; P05783; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; P05783; -.
+DR   SIGNOR; P05783; -.
+DR   BioGRID-ORCS; 3875; 105 hits in 1166 CRISPR screens.
+DR   ChiTaRS; KRT18; human.
+DR   GeneWiki; Keratin_18; -.
+DR   GenomeRNAi; 3875; -.
+DR   Pharos; P05783; Tbio.
+DR   PRO; PR:P05783; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; P05783; protein.
+DR   Bgee; ENSG00000111057; Expressed in endometrium epithelium and 171 other tissues.
+DR   ExpressionAtlas; P05783; baseline and differential.
+DR   Genevisible; P05783; HS.
+DR   GO; GO:0005912; C:adherens junction; HDA:BHF-UCL.
+DR   GO; GO:0071944; C:cell periphery; IEA:Ensembl.
+DR   GO; GO:0034451; C:centriolar satellite; IDA:BHF-UCL.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005882; C:intermediate filament; IDA:BHF-UCL.
+DR   GO; GO:0045095; C:keratin filament; IDA:UniProtKB.
+DR   GO; GO:0005815; C:microtubule organizing center; IDA:BHF-UCL.
+DR   GO; GO:0016363; C:nuclear matrix; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005730; C:nucleolus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0098641; F:cadherin binding involved in cell-cell adhesion; HDA:BHF-UCL.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0097110; F:scaffold protein binding; IPI:BHF-UCL.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0009653; P:anatomical structure morphogenesis; TAS:ProtInc.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0097191; P:extrinsic apoptotic signaling pathway; IEA:Ensembl.
+DR   GO; GO:0043001; P:Golgi to plasma membrane protein transport; IDA:UniProtKB.
+DR   GO; GO:0097284; P:hepatocyte apoptotic process; IEA:Ensembl.
+DR   GO; GO:0045104; P:intermediate filament cytoskeleton organization; IDA:UniProtKB.
+DR   GO; GO:0043066; P:negative regulation of apoptotic process; IDA:UniProtKB.
+DR   GO; GO:0033209; P:tumor necrosis factor-mediated signaling pathway; IEA:Ensembl.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR018039; IF_conserved.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF349; KERATIN, TYPE I CYTOSKELETAL 18; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   PROSITE; PS00226; IF_ROD_1; 1.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Cell cycle; Coiled coil; Cytoplasm; Direct protein sequencing;
+KW   Disease variant; Glycoprotein; Host-virus interaction;
+KW   Intermediate filament; Isopeptide bond; Keratin; Methylation; Nucleus;
+KW   Phosphoprotein; Reference proteome; Ubl conjugation.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:7538124"
+FT   CHAIN           2..430
+FT                   /note="Keratin, type I cytoskeletal 18"
+FT                   /id="PRO_0000063666"
+FT   DOMAIN          80..391
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          2..79
+FT                   /note="Head"
+FT   REGION          70..373
+FT                   /note="Necessary for interaction with PNN"
+FT                   /evidence="ECO:0000269|PubMed:10809736"
+FT   REGION          77..128
+FT                   /note="Interaction with TRADD"
+FT                   /evidence="ECO:0000269|PubMed:11684708"
+FT   REGION          80..115
+FT                   /note="Coil 1A"
+FT   REGION          116..132
+FT                   /note="Linker 1"
+FT   REGION          133..224
+FT                   /note="Coil 1B"
+FT   REGION          225..248
+FT                   /note="Linker 12"
+FT   REGION          243..391
+FT                   /note="Interaction with DNAJB6"
+FT                   /evidence="ECO:0000269|PubMed:10954706"
+FT   REGION          249..387
+FT                   /note="Coil 2"
+FT   REGION          388..430
+FT                   /note="Tail"
+FT   SITE            238..239
+FT                   /note="Cleavage; by caspase-3, caspase-6 or caspase-7"
+FT   SITE            271
+FT                   /note="Stutter"
+FT   SITE            331
+FT                   /note="Stutter"
+FT   MOD_RES         2
+FT                   /note="N-acetylserine"
+FT                   /evidence="ECO:0000269|PubMed:7538124"
+FT   MOD_RES         7
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         10
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         15
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17924679,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         18
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         30
+FT                   /note="Phosphoserine; alternate"
+FT                   /evidence="ECO:0000250|UniProtKB:P05784"
+FT   MOD_RES         31
+FT                   /note="Phosphoserine; alternate"
+FT                   /evidence="ECO:0000250|UniProtKB:P05784"
+FT   MOD_RES         34
+FT                   /note="Phosphoserine; by CDK1"
+FT                   /evidence="ECO:0000269|PubMed:15368451,
+FT                   ECO:0000269|PubMed:9524113, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         36
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:P05784"
+FT   MOD_RES         42
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         45
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         49
+FT                   /note="Phosphoserine; alternate"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         51
+FT                   /note="Phosphoserine; by MAPKAPK2 and MAPKAPK3"
+FT                   /evidence="ECO:0000250|UniProtKB:P05784"
+FT   MOD_RES         52
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         53
+FT                   /note="Phosphoserine; by CAMK, PKC/PRKCE and AURKA"
+FT                   /evidence="ECO:0000269|PubMed:15368451,
+FT                   ECO:0000269|PubMed:16424149, ECO:0000269|PubMed:7523419"
+FT   MOD_RES         55
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0007744|PubMed:24129315"
+FT   MOD_RES         60
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         65
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         93
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         100
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         131
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         177
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         302
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         305
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         319
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         323
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         398
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         399
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         401
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         404
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         426
+FT                   /note="N6-acetyllysine; alternate"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   CARBOHYD        30
+FT                   /note="O-linked (GlcNAc) serine; alternate"
+FT                   /evidence="ECO:0000269|PubMed:20729549,
+FT                   ECO:0000269|PubMed:7538124"
+FT                   /id="CAR_000175"
+FT   CARBOHYD        31
+FT                   /note="O-linked (GlcNAc) serine; alternate"
+FT                   /evidence="ECO:0000269|PubMed:20729549,
+FT                   ECO:0000269|PubMed:7538124"
+FT                   /id="CAR_000193"
+FT   CARBOHYD        49
+FT                   /note="O-linked (GlcNAc) serine; alternate"
+FT                   /evidence="ECO:0000269|PubMed:20729549,
+FT                   ECO:0000269|PubMed:7538124"
+FT                   /id="CAR_000194"
+FT   CROSSLNK        81
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        247
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        370
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        372
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        417
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        426
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO1); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211"
+FT   CROSSLNK        426
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         103
+FT                   /note="T -> A (in CIRRH; dbSNP:rs61136606)"
+FT                   /evidence="ECO:0000269|PubMed:12724528"
+FT                   /id="VAR_023054"
+FT   VARIANT         128
+FT                   /note="H -> L (in CIRRH; interfers with the ability to form
+FT                   normal filaments; dbSNP:rs57758506)"
+FT                   /evidence="ECO:0000269|PubMed:12724528,
+FT                   ECO:0000269|PubMed:9011570"
+FT                   /id="VAR_003852"
+FT   VARIANT         230
+FT                   /note="S -> T (in dbSNP:rs58472472)"
+FT                   /evidence="ECO:0000269|PubMed:12724528"
+FT                   /id="VAR_023055"
+FT   VARIANT         261
+FT                   /note="R -> Q (in CIRRH; dbSNP:rs57354642)"
+FT                   /evidence="ECO:0000269|PubMed:12724528"
+FT                   /id="VAR_023056"
+FT   VARIANT         340
+FT                   /note="G -> R (in CIRRH; dbSNP:rs57370769)"
+FT                   /evidence="ECO:0000269|PubMed:12724528"
+FT                   /id="VAR_023057"
+FT   MUTAGEN         2
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-7 and A-10."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         7
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-2 and A-10."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         10
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-2 and A-7."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         15
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-18 and A-23. Abolishes phosphorylation; when
+FT                   associated with A-18; A-34; A-47; A-49; A-51 and A-53."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         18
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-15 and A-23. Abolishes phosphorylation; when
+FT                   associated with A-15; A-34; A-47; A-49; A-51 and A-53."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         23
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-15 and A-18."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         30
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-31 and A-34, or with A-31; A-44 and A-51. Abolishes
+FT                   glycosylation but does not affect binding to YWHAE and
+FT                   YWHAZ; when associated with A-31 and A-49."
+FT                   /evidence="ECO:0000269|PubMed:7523419,
+FT                   ECO:0000269|PubMed:7538124"
+FT   MUTAGEN         31
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-30 and A-34, or with A-30; A-44 and A-51. Abolishes
+FT                   glycosylation but does not affect binding to YWHAE and
+FT                   YWHAZ; when associated with A-30 and A-49."
+FT                   /evidence="ECO:0000269|PubMed:7523419,
+FT                   ECO:0000269|PubMed:7538124"
+FT   MUTAGEN         34
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-30 and A-31. Abolishes phosphorylation; when
+FT                   associated with A-15; A-18; A-47; A-49; A-51 and A-53.
+FT                   Abolishes binding to YWHAE and YWHAZ; and when associated
+FT                   with A-53."
+FT                   /evidence="ECO:0000269|PubMed:7523419,
+FT                   ECO:0000269|PubMed:9524113"
+FT   MUTAGEN         34
+FT                   /note="S->D,E: Abolishes binding to YWHAE and YWHAZ."
+FT                   /evidence="ECO:0000269|PubMed:7523419,
+FT                   ECO:0000269|PubMed:9524113"
+FT   MUTAGEN         42
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-44."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         44
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-42, or with A-30; A-31 and A-51."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         47
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-49. Abolishes phosphorylation; when associated with
+FT                   A-49; A-51 and A-53, or with A-15; A-18; A-34; A-49; A-51
+FT                   and A-53."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         49
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-47. Abolishes phosphorylation; when associated with
+FT                   A-47; A-51 and A-53, or with A-15; A-18; A-34; A-47; A-51
+FT                   and A-53. Abolishes glycosylation but does not affect
+FT                   binding to YWHAE and YWHAZ; when associated with A-30 and
+FT                   A-31."
+FT                   /evidence="ECO:0000269|PubMed:7523419,
+FT                   ECO:0000269|PubMed:7538124"
+FT   MUTAGEN         51
+FT                   /note="S->A: No effect on phosphorylation; when associated
+FT                   with A-30; A-31 and A-47. Abolishes phosphorylation; when
+FT                   associated with A-47; A-49 and A-53, or with A-15; A-18;
+FT                   A-34; A-47; A-49 and A-53."
+FT                   /evidence="ECO:0000269|PubMed:7523419"
+FT   MUTAGEN         53
+FT                   /note="S->A: Abolishes phosphorylation; when associated
+FT                   with A-47; A-49 and A-51, or with A-15; A-18; A-34; A-47;
+FT                   A-49 and A-51. Abolishes binding to YWHAE and YWHAZ; when
+FT                   associated with A-34. No effect on caspase cleavage during
+FT                   apoptosis."
+FT                   /evidence="ECO:0000269|PubMed:7523419,
+FT                   ECO:0000269|PubMed:9298992, ECO:0000269|PubMed:9524113"
+FT   MUTAGEN         90
+FT                   /note="R->C,H: In transgenic mice, induces marked
+FT                   disruption of liver and pancreas keratin filament network.
+FT                   Increases phosphorylation and glycosylation."
+FT                   /evidence="ECO:0000269|PubMed:8522591"
+FT   MUTAGEN         238
+FT                   /note="D->E: Prevents cleavage by caspase-6 during
+FT                   apoptosis. Induces aggregates of keratin filaments in an
+FT                   altered organization."
+FT                   /evidence="ECO:0000269|PubMed:9298992"
+FT   CONFLICT        168
+FT                   /note="Y -> H (in Ref. 5; AAH00698)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        202
+FT                   /note="E -> Q (in Ref. 8; CAA31369)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        208
+FT                   /note="E -> G (in Ref. 3; BAD96813)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        246
+FT                   /note="A -> S (in Ref. 8; CAA31369)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        309
+FT                   /note="D -> R (in Ref. 8; CAA31369)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        312
+FT                   /note="S -> R (in Ref. 8; CAA31369)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   430 AA;  48058 MW;  1E5604C6BCC7A17A CRC64;
+     MSFTTRSTFS TNYRSLGSVQ APSYGARPVS SAASVYAGAG GSGSRISVSR STSFRGGMGS
+     GGLATGIAGG LAGMGGIQNE KETMQSLNDR LASYLDRVRS LETENRRLES KIREHLEKKG
+     PQVRDWSHYF KIIEDLRAQI FANTVDNARI VLQIDNARLA ADDFRVKYET ELAMRQSVEN
+     DIHGLRKVID DTNITRLQLE TEIEALKEEL LFMKKNHEEE VKGLQAQIAS SGLTVEVDAP
+     KSQDLAKIMA DIRAQYDELA RKNREELDKY WSQQIEESTT VVTTQSAEVG AAETTLTELR
+     RTVQSLEIDL DSMRNLKASL ENSLREVEAR YALQMEQLNG ILLHLESELA QTRAEGQRQA
+     QEYEALLNIK VKLEAEIATY RRLLEDGEDF NLGDALDSSN SMQTIQKTTT RRIVDGKVVS
+     ETNDTKVLRH
+//

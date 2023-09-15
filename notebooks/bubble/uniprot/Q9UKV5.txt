@@ -1,0 +1,645 @@
+ID   AMFR_HUMAN              Reviewed;         643 AA.
+AC   Q9UKV5; P26442; Q8IZ70;
+DT   19-SEP-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 2.
+DT   28-JUN-2023, entry version 195.
+DE   RecName: Full=E3 ubiquitin-protein ligase AMFR;
+DE            EC=2.3.2.36 {ECO:0000269|PubMed:28604676, ECO:0000269|PubMed:31953408};
+DE   AltName: Full=Autocrine motility factor receptor {ECO:0000303|PubMed:10456327};
+DE            Short=AMF receptor {ECO:0000303|PubMed:10456327};
+DE   AltName: Full=RING finger protein 45;
+DE   AltName: Full=gp78 {ECO:0000303|PubMed:11724934};
+GN   Name=AMFR {ECO:0000303|PubMed:10456327, ECO:0000312|HGNC:HGNC:463};
+GN   Synonyms=RNF45 {ECO:0000312|HGNC:HGNC:463};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000312|EMBL:AAD56722.1};
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND FUNCTION.
+RX   PubMed=10456327; DOI=10.1016/s0014-5793(99)00966-7;
+RA   Shimizu K., Tani M., Watanabe H., Nagamachi Y., Niinaka Y., Shiroishi T.,
+RA   Ohwada S., Raz A., Yokota J.;
+RT   "The autocrine motility factor receptor gene encodes a novel type of seven
+RT   transmembrane protein.";
+RL   FEBS Lett. 456:295-300(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Ovary;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 358-643.
+RC   TISSUE=Placenta;
+RX   PubMed=7626106; DOI=10.1006/bbrc.1995.2031;
+RA   Huang B., Xie Y., Raz A.;
+RT   "Identification of an upstream region that controls the transcription of
+RT   the human autocrine motility factor receptor.";
+RL   Biochem. Biophys. Res. Commun. 212:727-742(1995).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 520-643.
+RX   PubMed=1649192; DOI=10.1016/s0021-9258(18)98859-9;
+RA   Watanabe H., Carmi P., Hogan V., Raz T., Silletti S., Nabi I.R., Raz A.;
+RT   "Purification of human tumor cell autocrine motility factor and molecular
+RT   cloning of its receptor.";
+RL   J. Biol. Chem. 266:13442-13448(1991).
+RN   [5]
+RP   FUNCTION AS A UBIQUITIN LIGASE, SUBCELLULAR LOCATION, AND INTERACTION WITH
+RP   UBE2G2.
+RX   PubMed=11724934; DOI=10.1073/pnas.251401598;
+RA   Fang S., Ferrone M., Yang C., Jensen J.P., Tiwari S., Weissman A.M.;
+RT   "The tumor autocrine motility factor receptor, gp78, is a ubiquitin protein
+RT   ligase implicated in degradation from the endoplasmic reticulum.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:14422-14427(2001).
+RN   [6]
+RP   FUNCTION IN UBIQUITINATION OF APOB.
+RX   PubMed=12670940; DOI=10.1074/jbc.m302683200;
+RA   Liang J.S., Kim T., Fang S., Yamaguchi J., Weissman A.M., Fisher E.A.,
+RA   Ginsberg H.N.;
+RT   "Overexpression of the tumor autocrine motility factor receptor, gp78, a
+RT   ubiquitin protein ligase (E3), results in increased ubiquitinylation and
+RT   decreased secretion of apolipoprotein B100 in Hep G2 cells.";
+RL   J. Biol. Chem. 278:23984-23988(2003).
+RN   [7]
+RP   INTERACTION WITH INSIG1 AND VCP, FUNCTION, AND MUTAGENESIS OF CYS-356.
+RX   PubMed=16168377; DOI=10.1016/j.molcel.2005.08.009;
+RA   Song B.L., Sever N., DeBose-Boyd R.A.;
+RT   "Gp78, a membrane-anchored ubiquitin ligase, associates with Insig-1 and
+RT   couples sterol-regulated ubiquitination to degradation of HMG CoA
+RT   reductase.";
+RL   Mol. Cell 19:829-840(2005).
+RN   [8]
+RP   INTERACTION WITH DERL1 AND VCP.
+RX   PubMed=16186510; DOI=10.1073/pnas.0505006102;
+RA   Ye Y., Shibata Y., Kikkert M., van Voorden S., Wiertz E., Rapoport T.A.;
+RT   "Recruitment of the p97 ATPase and ubiquitin ligases to the site of
+RT   retrotranslocation at the endoplasmic reticulum membrane.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:14132-14138(2005).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=17043353; DOI=10.1074/jbc.m608999200;
+RA   Lee J.N., Song B., DeBose-Boyd R.A., Ye J.;
+RT   "Sterol-regulated degradation of Insig-1 mediated by the membrane-bound
+RT   ubiquitin ligase gp78.";
+RL   J. Biol. Chem. 281:39308-39315(2006).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-516, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=19103148; DOI=10.1016/j.abb.2008.12.001;
+RA   Pabarcus M.K., Hoe N., Sadeghi S., Patterson C., Wiertz E., Correia M.A.;
+RT   "CYP3A4 ubiquitination by gp78 (the tumor autocrine motility factor
+RT   receptor, AMFR) and CHIP E3 ligases.";
+RL   Arch. Biochem. Biophys. 483:66-74(2009).
+RN   [12]
+RP   FUNCTION, AND INTERACTION WITH BAG6.
+RX   PubMed=21636303; DOI=10.1016/j.molcel.2011.05.010;
+RA   Wang Q., Liu Y., Soetandyo N., Baek K., Hegde R., Ye Y.;
+RT   "A ubiquitin ligase-associated chaperone holdase maintains polypeptides in
+RT   soluble states for proteasome degradation.";
+RL   Mol. Cell 42:758-770(2011).
+RN   [13]
+RP   FUNCTION, AND INTERACTION WITH INSIG1.
+RX   PubMed=22143767; DOI=10.1073/pnas.1112831108;
+RA   Jo Y., Lee P.C., Sguigna P.V., DeBose-Boyd R.A.;
+RT   "Sterol-induced degradation of HMG CoA reductase depends on interplay of
+RT   two Insigs and two ubiquitin ligases, gp78 and Trc8.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:20503-20508(2011).
+RN   [14]
+RP   SUBCELLULAR LOCATION, PALMITOYLATION, AND MUTAGENESIS OF 341-CYS--CYS-344;
+RP   CYS-356; CYS-364 AND 375-CYS--CYS-378.
+RX   PubMed=22728137; DOI=10.1016/j.febslet.2012.06.011;
+RA   Fairbank M., Huang K., El-Husseini A., Nabi I.R.;
+RT   "RING finger palmitoylation of the endoplasmic reticulum Gp78 E3 ubiquitin
+RT   ligase.";
+RL   FEBS Lett. 586:2488-2493(2012).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-542, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [16]
+RP   FUNCTION, AND INTERACTION WITH AUP1; RNF139 AND UBE2G2.
+RX   PubMed=23223569; DOI=10.1091/mbc.e12-07-0564;
+RA   Jo Y., Hartman I.Z., DeBose-Boyd R.A.;
+RT   "Ancient ubiquitous protein-1 mediates sterol-induced ubiquitination of 3-
+RT   hydroxy-3-methylglutaryl CoA reductase in lipid droplet-associated
+RT   endoplasmic reticulum membranes.";
+RL   Mol. Biol. Cell 24:169-183(2013).
+RN   [17]
+RP   FUNCTION, AND INTERACTION WITH USP13.
+RX   PubMed=24424410; DOI=10.7554/elife.01369;
+RA   Liu Y., Soetandyo N., Lee J.G., Liu L., Xu Y., Clemons W.M. Jr., Ye Y.;
+RT   "USP13 antagonizes gp78 to maintain functionality of a chaperone in ER-
+RT   associated degradation.";
+RL   Elife 3:E01369-E01369(2014).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-523, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [19]
+RP   INTERACTION WITH C18ORF32.
+RX   PubMed=29275994; DOI=10.1016/j.devcel.2017.11.020;
+RA   Bersuker K., Peterson C.W.H., To M., Sahl S.J., Savikhin V., Grossman E.A.,
+RA   Nomura D.K., Olzmann J.A.;
+RT   "A Proximity Labeling Strategy Provides Insights into the Composition and
+RT   Dynamics of Lipid Droplet Proteomes.";
+RL   Dev. Cell 44:97-112(2018).
+RN   [20]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=28604676; DOI=10.1038/ncb3551;
+RA   Wang Y.J., Bian Y., Luo J., Lu M., Xiong Y., Guo S.Y., Yin H.Y., Lin X.,
+RA   Li Q., Chang C.C.Y., Chang T.Y., Li B.L., Song B.L.;
+RT   "Cholesterol and fatty acids regulate cysteine ubiquitylation of ACAT2
+RT   through competitive oxidation.";
+RL   Nat. Cell Biol. 19:808-819(2017).
+RN   [21]
+RP   ERRATUM OF PUBMED:28604676.
+RX   PubMed=29184177; DOI=10.1038/ncb3651;
+RA   Wang Y.J., Bian Y., Luo J., Lu M., Xiong Y., Guo S.Y., Yong H., Lin X.,
+RA   Li Q., Chang C.C.Y., Chang T.Y., Li B.L., Song B.L.;
+RT   "Corrigendum: Cholesterol and fatty acids regulate cysteine ubiquitylation
+RT   of ACAT2 through competitive oxidation.";
+RL   Nat. Cell Biol. 19:1441-1441(2017).
+RN   [22]
+RP   FUNCTION, AND INTERACTION WITH LMBR1L.
+RX   PubMed=31073040; DOI=10.1126/science.aau0812;
+RA   Choi J.H., Zhong X., McAlpine W., Liao T.C., Zhang D., Fang B., Russell J.,
+RA   Ludwig S., Nair-Gill E., Zhang Z., Wang K.W., Misawa T., Zhan X., Choi M.,
+RA   Wang T., Li X., Tang M., Sun Q., Yu L., Murray A.R., Moresco E.M.Y.,
+RA   Beutler B.;
+RT   "LMBR1L regulates lymphopoiesis through Wnt/beta-catenin signaling.";
+RL   Science 364:0-0(2019).
+RN   [23]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=31953408; DOI=10.1038/s41467-019-14231-w;
+RA   Zhou Z.S., Li M.X., Liu J., Jiao H., Xia J.M., Shi X.J., Zhao H., Chu L.,
+RA   Liu J., Qi W., Luo J., Song B.L.;
+RT   "Competitive oxidation and ubiquitylation on the evolutionarily conserved
+RT   cysteine confer tissue-specific stabilization of Insig-2.";
+RL   Nat. Commun. 11:379-379(2020).
+RN   [24]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH STAPHYLOCOCCUS AUREUS HLGB
+RP   (MICROBIAL INFECTION), AND MUTAGENESIS OF ASP-346 AND ARG-379.
+RX   PubMed=36593296; DOI=10.1038/s41564-022-01278-7;
+RA   Sun L., Zhang H., Zhang H., Lou X., Wang Z., Wu Y., Yang X., Chen D.,
+RA   Guo B., Zhang A., Qian F.;
+RT   "Staphylococcal virulence factor HlgB targets the endoplasmic-reticulum-
+RT   resident E3 ubiquitin ligase AMFR to promote pneumonia.";
+RL   Nat. Microbiol. 8:107-120(2023).
+RN   [25]
+RP   STRUCTURE BY NMR OF 452-502.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of RSGI RUH-076, a human CUE domain.";
+RL   Submitted (SEP-2007) to the PDB data bank.
+RN   [26]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 622-640 IN COMPLEX WITH VCP, AND
+RP   VIM MOTIF.
+RX   PubMed=21914798; DOI=10.1074/jbc.m111.274506;
+RA   Hanzelmann P., Schindelin H.;
+RT   "The structural and functional basis of the p97/valosin-containing protein
+RT   (VCP)-interacting motif (VIM): mutually exclusive binding of cofactors to
+RT   the N-terminal domain of p97.";
+RL   J. Biol. Chem. 286:38679-38690(2011).
+RN   [27]
+RP   VARIANT [LARGE SCALE ANALYSIS] VAL-605.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: E3 ubiquitin-protein ligase that mediates the
+CC       polyubiquitination of lysine and cysteine residues on target proteins,
+CC       such as CD3D, CYP3A4, CFTR, INSIG1, SOAT2/ACAT2 and APOB for
+CC       proteasomal degradation (PubMed:10456327, PubMed:11724934,
+CC       PubMed:12670940, PubMed:19103148, PubMed:24424410, PubMed:28604676).
+CC       Component of a VCP/p97-AMFR/gp78 complex that participates in the final
+CC       step of endoplasmic reticulum-associated degradation (ERAD)
+CC       (PubMed:10456327, PubMed:11724934, PubMed:19103148, PubMed:24424410).
+CC       The VCP/p97-AMFR/gp78 complex is involved in the sterol-accelerated
+CC       ERAD degradation of HMGCR through binding to the HMGCR-INSIG1 complex
+CC       at the ER membrane (PubMed:16168377, PubMed:22143767). In addition,
+CC       interaction of AMFR with AUP1 facilitates interaction of AMFR with
+CC       ubiquitin-conjugating enzyme UBE2G2 and ubiquitin ligase RNF139,
+CC       leading to sterol-induced HMGCR ubiquitination (PubMed:23223569). The
+CC       ubiquitinated HMGCR is then released from the ER into the cytosol for
+CC       subsequent destruction (PubMed:16168377, PubMed:22143767,
+CC       PubMed:23223569). In addition to ubiquitination on lysine residues,
+CC       catalyzes ubiquitination on cysteine residues: together with INSIG1,
+CC       mediates polyubiquitination of SOAT2/ACAT2 at 'Cys-277', leading to its
+CC       degradation when the lipid levels are low (PubMed:28604676). Catalyzes
+CC       ubiquitination and subsequent degradation of INSIG1 when cells are
+CC       depleted of sterols (PubMed:17043353). Mediates polyubiquitination of
+CC       INSIG2 at 'Cys-215' in some tissues, leading to its degradation
+CC       (PubMed:31953408). Also regulates ERAD through the ubiquitination of
+CC       UBL4A a component of the BAG6/BAT3 complex (PubMed:21636303). Also acts
+CC       as a scaffold protein to assemble a complex that couples
+CC       ubiquitination, retranslocation and deglycosylation (PubMed:21636303).
+CC       Mediates tumor invasion and metastasis as a receptor for the
+CC       GPI/autocrine motility factor (PubMed:10456327). In association with
+CC       LMBR1L and UBAC2, negatively regulates the canonical Wnt signaling
+CC       pathway in the lymphocytes by promoting the ubiquitin-mediated
+CC       degradation of CTNNB1 and Wnt receptors FZD6 and LRP6
+CC       (PubMed:31073040). Regulates NF-kappa-B and MAPK signaling pathways by
+CC       mediating 'Lys-27'-linked polyubiquitination of TAB3 and promoting
+CC       subsequent TAK1/MAP3K7 activation (PubMed:36593296).
+CC       {ECO:0000269|PubMed:10456327, ECO:0000269|PubMed:11724934,
+CC       ECO:0000269|PubMed:12670940, ECO:0000269|PubMed:16168377,
+CC       ECO:0000269|PubMed:17043353, ECO:0000269|PubMed:19103148,
+CC       ECO:0000269|PubMed:21636303, ECO:0000269|PubMed:22143767,
+CC       ECO:0000269|PubMed:23223569, ECO:0000269|PubMed:24424410,
+CC       ECO:0000269|PubMed:28604676, ECO:0000269|PubMed:31073040,
+CC       ECO:0000269|PubMed:31953408, ECO:0000269|PubMed:36593296}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=[E2 ubiquitin-conjugating enzyme]-S-ubiquitinyl-L-cysteine +
+CC         [acceptor protein]-L-cysteine = [E2 ubiquitin-conjugating enzyme]-L-
+CC         cysteine + [acceptor protein]-S-ubiquitinyl-L-cysteine.; EC=2.3.2.36;
+CC         Evidence={ECO:0000269|PubMed:28604676, ECO:0000269|PubMed:31953408};
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC       {ECO:0000269|PubMed:11724934, ECO:0000269|PubMed:16168377}.
+CC   -!- SUBUNIT: Interacts with RNF5 (By similarity). Also forms an ERAD
+CC       complex containing VCP/p97, NGLY1; PSMC1; SAKS1 and RAD23B required for
+CC       coupling retrotranslocation, ubiquitination and deglycosylation (By
+CC       similarity). Interacts with DERL1 (PubMed:16186510). Interacts (through
+CC       a region distinct from the RING finger) with UBE2G2/UBC7
+CC       (PubMed:11724934). Component of the VCP/p97-AMFR/gp78 complex that
+CC       enhances VCP/p97 binding to polyubiquitinated proteins for their
+CC       degradation by the endoplasmic reticulum-associated degradation (ERAD)
+CC       pathway (By similarity). Interacts (via the VIM) with VCP/p97
+CC       (PubMed:16168377, PubMed:16186510). Interacts (via its membrane domain)
+CC       with INSIG1; the interaction initiates the sterol-mediated
+CC       ubiquitination and degradation of HMGCR by the ERAD pathway
+CC       (PubMed:16168377, PubMed:22143767). Interacts with AUP1, UBE2G2 and
+CC       RNF139/TRC8; interaction with AUP1 facilitates interaction of AMFR with
+CC       ubiquitin-conjugating enzyme UBE2G2 and ubiquitin ligase RNF139,
+CC       leading to sterol-induced ubiquitination of HMGCR and its subsequent
+CC       proteasomal degradation (PubMed:23223569). Interacts with BAG6
+CC       (PubMed:21636303). Interacts with USP13 (via UBA 2 domain); the
+CC       interaction is direct (PubMed:24424410). Interacts with LMBR1L
+CC       (PubMed:31073040). Interacts with UBAC2 and CTNNB1 (By similarity).
+CC       Interacts with C18orf32 (PubMed:29275994).
+CC       {ECO:0000250|UniProtKB:Q9R049, ECO:0000269|PubMed:11724934,
+CC       ECO:0000269|PubMed:16168377, ECO:0000269|PubMed:16186510,
+CC       ECO:0000269|PubMed:21636303, ECO:0000269|PubMed:21914798,
+CC       ECO:0000269|PubMed:22143767, ECO:0000269|PubMed:23223569,
+CC       ECO:0000269|PubMed:24424410, ECO:0000269|PubMed:29275994,
+CC       ECO:0000305|PubMed:31073040}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with Staphylococcus aureus
+CC       HIgB; this interaction regulates AMFR-mediated inflammation by
+CC       promoting TAB3 ubiquitination to promote TAB3-TAK1 complex formation.
+CC       {ECO:0000269|PubMed:36593296}.
+CC   -!- INTERACTION:
+CC       Q9UKV5; Q9UKV5: AMFR; NbExp=11; IntAct=EBI-1046367, EBI-1046367;
+CC       Q9UKV5; O75477: ERLIN1; NbExp=2; IntAct=EBI-1046367, EBI-359299;
+CC       Q9UKV5; O94905: ERLIN2; NbExp=10; IntAct=EBI-1046367, EBI-4400770;
+CC       Q9UKV5; O15503: INSIG1; NbExp=2; IntAct=EBI-1046367, EBI-6252425;
+CC       Q9UKV5; Q9BVT8: TMUB1; NbExp=2; IntAct=EBI-1046367, EBI-11425701;
+CC       Q9UKV5; P60604: UBE2G2; NbExp=21; IntAct=EBI-1046367, EBI-1051028;
+CC       Q9UKV5; P55072: VCP; NbExp=12; IntAct=EBI-1046367, EBI-355164;
+CC       Q9UKV5; P60605: Ube2g2; Xeno; NbExp=10; IntAct=EBI-1046367, EBI-9108745;
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum membrane
+CC       {ECO:0000269|PubMed:11724934, ECO:0000269|PubMed:22728137,
+CC       ECO:0000269|PubMed:36593296}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:11724934}. Note=Palmitoylation promotes
+CC       localization to the peripheral endoplasmic reticulum.
+CC       {ECO:0000269|PubMed:22728137}.
+CC   -!- DOMAIN: The CUE domain is required for recognition of misfolded
+CC       proteins such as mutant CFTR. {ECO:0000250|UniProtKB:Q9R049}.
+CC   -!- DOMAIN: The VCP/p97-interacting motif (VIM) is sufficient for binding
+CC       VCP/p97 to form a complex capable of transferring VCP/p97 from the
+CC       cytosol to microsomes. {ECO:0000269|PubMed:21914798}.
+CC   -!- PTM: Palmitoylation of the RING-type zing finger by ZDHHC6 promotes
+CC       localization to the peripheral endoplasmic reticulum.
+CC       {ECO:0000269|PubMed:22728137}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA36671.1; Type=Miscellaneous discrepancy; Note=Several sequencing errors.; Evidence={ECO:0000305};
+CC       Sequence=AAA79362.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/627/AMFR";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF124145; AAD56722.1; -; mRNA.
+DR   EMBL; BC069197; AAH69197.1; -; mRNA.
+DR   EMBL; L35233; AAA79362.1; ALT_FRAME; mRNA.
+DR   EMBL; M63175; AAA36671.1; ALT_SEQ; mRNA.
+DR   CCDS; CCDS10758.1; -.
+DR   PIR; A39877; A39877.
+DR   RefSeq; NP_001135.3; NM_001144.5.
+DR   RefSeq; NP_001310441.1; NM_001323512.1.
+DR   PDB; 2EJS; NMR; -; A=452-502.
+DR   PDB; 2LVN; NMR; -; C=453-504.
+DR   PDB; 2LVO; NMR; -; C=453-504.
+DR   PDB; 2LVP; NMR; -; C=453-504.
+DR   PDB; 2LVQ; NMR; -; D=453-504.
+DR   PDB; 2LXH; NMR; -; C=313-393.
+DR   PDB; 2LXP; NMR; -; B=574-600, C=327-384.
+DR   PDB; 3FSH; X-ray; 2.76 A; C=574-601.
+DR   PDB; 3H8K; X-ray; 1.80 A; B=573-600.
+DR   PDB; 3TIW; X-ray; 1.80 A; C/D=622-640.
+DR   PDB; 4G3O; X-ray; 1.60 A; A=456-498.
+DR   PDB; 4LAD; X-ray; 2.30 A; B=313-393, B=574-600.
+DR   PDBsum; 2EJS; -.
+DR   PDBsum; 2LVN; -.
+DR   PDBsum; 2LVO; -.
+DR   PDBsum; 2LVP; -.
+DR   PDBsum; 2LVQ; -.
+DR   PDBsum; 2LXH; -.
+DR   PDBsum; 2LXP; -.
+DR   PDBsum; 3FSH; -.
+DR   PDBsum; 3H8K; -.
+DR   PDBsum; 3TIW; -.
+DR   PDBsum; 4G3O; -.
+DR   PDBsum; 4LAD; -.
+DR   AlphaFoldDB; Q9UKV5; -.
+DR   BMRB; Q9UKV5; -.
+DR   SMR; Q9UKV5; -.
+DR   BioGRID; 106764; 252.
+DR   CORUM; Q9UKV5; -.
+DR   DIP; DIP-29060N; -.
+DR   IntAct; Q9UKV5; 73.
+DR   MINT; Q9UKV5; -.
+DR   STRING; 9606.ENSP00000290649; -.
+DR   TCDB; 8.A.183.1.1; the rela-associated inhibitor (rai) family.
+DR   iPTMnet; Q9UKV5; -.
+DR   PhosphoSitePlus; Q9UKV5; -.
+DR   SwissPalm; Q9UKV5; -.
+DR   BioMuta; AMFR; -.
+DR   DMDM; 34922250; -.
+DR   EPD; Q9UKV5; -.
+DR   jPOST; Q9UKV5; -.
+DR   MassIVE; Q9UKV5; -.
+DR   MaxQB; Q9UKV5; -.
+DR   PaxDb; Q9UKV5; -.
+DR   PeptideAtlas; Q9UKV5; -.
+DR   ProteomicsDB; 54350; -.
+DR   ProteomicsDB; 84893; -.
+DR   Antibodypedia; 14770; 325 antibodies from 31 providers.
+DR   DNASU; 267; -.
+DR   Ensembl; ENST00000290649.10; ENSP00000290649.5; ENSG00000159461.15.
+DR   GeneID; 267; -.
+DR   KEGG; hsa:267; -.
+DR   MANE-Select; ENST00000290649.10; ENSP00000290649.5; NM_001144.6; NP_001135.3.
+DR   UCSC; uc002eiy.4; human.
+DR   AGR; HGNC:463; -.
+DR   CTD; 267; -.
+DR   DisGeNET; 267; -.
+DR   GeneCards; AMFR; -.
+DR   HGNC; HGNC:463; AMFR.
+DR   HPA; ENSG00000159461; Low tissue specificity.
+DR   MIM; 603243; gene.
+DR   neXtProt; NX_Q9UKV5; -.
+DR   OpenTargets; ENSG00000159461; -.
+DR   PharmGKB; PA24768; -.
+DR   VEuPathDB; HostDB:ENSG00000159461; -.
+DR   eggNOG; KOG0802; Eukaryota.
+DR   GeneTree; ENSGT00940000156482; -.
+DR   HOGENOM; CLU_015061_0_0_1; -.
+DR   InParanoid; Q9UKV5; -.
+DR   OMA; LHHVHML; -.
+DR   OrthoDB; 2912447at2759; -.
+DR   PhylomeDB; Q9UKV5; -.
+DR   TreeFam; TF320052; -.
+DR   BRENDA; 2.3.2.27; 2681.
+DR   PathwayCommons; Q9UKV5; -.
+DR   Reactome; R-HSA-532668; N-glycan trimming in the ER and Calnexin/Calreticulin cycle.
+DR   Reactome; R-HSA-901032; ER Quality Control Compartment (ERQC).
+DR   SignaLink; Q9UKV5; -.
+DR   SIGNOR; Q9UKV5; -.
+DR   UniPathway; UPA00143; -.
+DR   BioGRID-ORCS; 267; 30 hits in 1191 CRISPR screens.
+DR   ChiTaRS; AMFR; human.
+DR   EvolutionaryTrace; Q9UKV5; -.
+DR   GeneWiki; AMFR; -.
+DR   GenomeRNAi; 267; -.
+DR   Pharos; Q9UKV5; Tbio.
+DR   PRO; PR:Q9UKV5; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   RNAct; Q9UKV5; protein.
+DR   Bgee; ENSG00000159461; Expressed in stromal cell of endometrium and 198 other tissues.
+DR   ExpressionAtlas; Q9UKV5; baseline and differential.
+DR   Genevisible; Q9UKV5; HS.
+DR   GO; GO:0005829; C:cytosol; IBA:GO_Central.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0036513; C:Derlin-1 retrotranslocation complex; IDA:UniProtKB.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IDA:UniProtKB.
+DR   GO; GO:0044322; C:endoplasmic reticulum quality control compartment; IEA:GOC.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:HPA.
+DR   GO; GO:0030426; C:growth cone; IEA:Ensembl.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0043025; C:neuronal cell body; IEA:Ensembl.
+DR   GO; GO:0005634; C:nucleus; IEA:Ensembl.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0032991; C:protein-containing complex; IDA:MGI.
+DR   GO; GO:0000151; C:ubiquitin ligase complex; IBA:GO_Central.
+DR   GO; GO:1904288; F:BAT3 complex binding; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0051087; F:protein-folding chaperone binding; IPI:ParkinsonsUK-UCL.
+DR   GO; GO:0030674; F:protein-macromolecule adaptor activity; IMP:ParkinsonsUK-UCL.
+DR   GO; GO:0038023; F:signaling receptor activity; IPI:UniProtKB.
+DR   GO; GO:0043130; F:ubiquitin binding; IEA:InterPro.
+DR   GO; GO:0061630; F:ubiquitin protein ligase activity; IDA:MGI.
+DR   GO; GO:0004842; F:ubiquitin-protein transferase activity; IDA:UniProtKB.
+DR   GO; GO:1990381; F:ubiquitin-specific protease binding; IPI:ParkinsonsUK-UCL.
+DR   GO; GO:0034450; F:ubiquitin-ubiquitin ligase activity; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0007568; P:aging; IEA:Ensembl.
+DR   GO; GO:1904380; P:endoplasmic reticulum mannose trimming; TAS:Reactome.
+DR   GO; GO:0030968; P:endoplasmic reticulum unfolded protein response; IMP:UniProtKB.
+DR   GO; GO:0007611; P:learning or memory; IEA:Ensembl.
+DR   GO; GO:0090090; P:negative regulation of canonical Wnt signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0038061; P:NIK/NF-kappaB signaling; IDA:UniProt.
+DR   GO; GO:0032092; P:positive regulation of protein binding; IMP:ParkinsonsUK-UCL.
+DR   GO; GO:0051865; P:protein autoubiquitination; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0044314; P:protein K27-linked ubiquitination; IDA:UniProt.
+DR   GO; GO:0070936; P:protein K48-linked ubiquitination; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0000209; P:protein polyubiquitination; IDA:UniProtKB.
+DR   GO; GO:2000638; P:regulation of SREBP signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   GO; GO:0030433; P:ubiquitin-dependent ERAD pathway; IDA:UniProtKB.
+DR   GO; GO:0006511; P:ubiquitin-dependent protein catabolic process; IMP:UniProtKB.
+DR   GO; GO:0016055; P:Wnt signaling pathway; IEA:UniProtKB-KW.
+DR   CDD; cd14421; CUE_AMFR; 1.
+DR   CDD; cd16455; RING-H2_AMFR; 1.
+DR   Gene3D; 1.10.8.10; DNA helicase RuvA subunit, C-terminal domain; 1.
+DR   Gene3D; 3.30.40.10; Zinc/RING finger domain, C3HC4 (zinc finger); 1.
+DR   IDEAL; IID00226; -.
+DR   InterPro; IPR040675; AMFR_Ube2g2-bd.
+DR   InterPro; IPR003892; CUE.
+DR   InterPro; IPR001841; Znf_RING.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   PANTHER; PTHR15067:SF5; E3 UBIQUITIN-PROTEIN LIGASE AMFR; 1.
+DR   PANTHER; PTHR15067; E3 UBIQUITIN-PROTEIN LIGASE RNF8; 1.
+DR   Pfam; PF02845; CUE; 1.
+DR   Pfam; PF18442; G2BR; 1.
+DR   Pfam; PF13639; zf-RING_2; 1.
+DR   SMART; SM00546; CUE; 1.
+DR   SMART; SM00184; RING; 1.
+DR   SUPFAM; SSF57850; RING/U-box; 1.
+DR   PROSITE; PS51140; CUE; 1.
+DR   PROSITE; PS50089; ZF_RING_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Endoplasmic reticulum; Lipoprotein; Membrane; Metal-binding;
+KW   Palmitate; Phosphoprotein; Receptor; Reference proteome; Transferase;
+KW   Transmembrane; Transmembrane helix; Ubl conjugation pathway;
+KW   Wnt signaling pathway; Zinc; Zinc-finger.
+FT   CHAIN           1..643
+FT                   /note="E3 ubiquitin-protein ligase AMFR"
+FT                   /id="PRO_0000064579"
+FT   TRANSMEM        82..102
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        122..142
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        145..165
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        186..206
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        215..235
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        276..296
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        429..449
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          456..498
+FT                   /note="CUE"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00468"
+FT   ZN_FING         341..379
+FT                   /note="RING-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00175"
+FT   REGION          39..67
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          504..579
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          596..624
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          622..640
+FT                   /note="VCP/p97-interacting motif (VIM)"
+FT                   /evidence="ECO:0000269|PubMed:21914798"
+FT   COMPBIAS        504..521
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        561..579
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         516
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         523
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         542
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VARIANT         605
+FT                   /note="D -> V (in a breast cancer sample; somatic mutation;
+FT                   dbSNP:rs373191257)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035790"
+FT   MUTAGEN         341..344
+FT                   /note="CAIC->AAIA: Decreased palmitoylation."
+FT                   /evidence="ECO:0000269|PubMed:22728137"
+FT   MUTAGEN         346
+FT                   /note="D->A: Abolished binding to TAB3."
+FT                   /evidence="ECO:0000269|PubMed:36593296"
+FT   MUTAGEN         356
+FT                   /note="C->A: Decreased palmitoylation. No degradation of
+FT                   HMGCR."
+FT                   /evidence="ECO:0000269|PubMed:16168377,
+FT                   ECO:0000269|PubMed:22728137"
+FT   MUTAGEN         364
+FT                   /note="C->A: Decreased palmitoylation."
+FT                   /evidence="ECO:0000269|PubMed:22728137"
+FT   MUTAGEN         375..378
+FT                   /note="CPTC->APTA: Decreased palmitoylation."
+FT                   /evidence="ECO:0000269|PubMed:22728137"
+FT   MUTAGEN         379
+FT                   /note="R->A: Abolished binding to TAB3."
+FT                   /evidence="ECO:0000269|PubMed:36593296"
+FT   CONFLICT        406
+FT                   /note="V -> D (in Ref. 3; AAA79362)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        491
+FT                   /note="D -> V (in Ref. 3; AAA79362)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        500
+FT                   /note="V -> L (in Ref. 3; AAA79362)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        614
+FT                   /note="S -> L (in Ref. 1; AAD56722)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           332..337
+FT                   /evidence="ECO:0007829|PDB:2LXH"
+FT   STRAND          342..344
+FT                   /evidence="ECO:0007829|PDB:4LAD"
+FT   STRAND          351..353
+FT                   /evidence="ECO:0007829|PDB:4LAD"
+FT   STRAND          355..357
+FT                   /evidence="ECO:0007829|PDB:2LXH"
+FT   STRAND          359..361
+FT                   /evidence="ECO:0007829|PDB:4LAD"
+FT   HELIX           362..369
+FT                   /evidence="ECO:0007829|PDB:4LAD"
+FT   STRAND          376..378
+FT                   /evidence="ECO:0007829|PDB:4LAD"
+FT   HELIX           456..467
+FT                   /evidence="ECO:0007829|PDB:4G3O"
+FT   HELIX           473..483
+FT                   /evidence="ECO:0007829|PDB:4G3O"
+FT   HELIX           486..494
+FT                   /evidence="ECO:0007829|PDB:4G3O"
+FT   HELIX           575..599
+FT                   /evidence="ECO:0007829|PDB:3H8K"
+FT   HELIX           625..637
+FT                   /evidence="ECO:0007829|PDB:3TIW"
+SQ   SEQUENCE   643 AA;  72996 MW;  8782324609C0E62A CRC64;
+     MPLLFLERFP WPSLRTYTGL SGLALLGTII SAYRALSQPE AGPGEPDQLT ASLQPEPPAP
+     ARPSAGGPRA RDVAQYLLSD SLFVWVLVNT ACCVLMLVAK LIQCIVFGPL RVSERQHLKD
+     KFWNFIFYKF IFIFGVLNVQ TVEEVVMWCL WFAGLVFLHL MVQLCKDRFE YLSFSPTTPM
+     SSHGRVLSLL VAMLLSCCGL AAVCSITGYT HGMHTLAFMA AESLLVTVRT AHVILRYVIH
+     LWDLNHEGTW EGKGTYVYYT DFVMELTLLS LDLMHHIHML LFGNIWLSMA SLVIFMQLRY
+     LFHEVQRRIR RHKNYLRVVG NMEARFAVAT PEELAVNNDD CAICWDSMQA ARKLPCGHLF
+     HNSCLRSWLE QDTSCPTCRM SLNIADNNRV REEHQGENLD ENLVPVAAAE GRPRLNQHNH
+     FFHFDGSRIA SWLPSFSVEV MHTTNILGIT QASNSQLNAM AHQIQEMFPQ VPYHLVLQDL
+     QLTRSVEITT DNILEGRIQV PFPTQRSDSI RPALNSPVER PSSDQEEGET SAQTERVPLD
+     LSPRLEETLD FGEVEVEPSE VEDFEARGSR FSKSADERQR MLVQRKDELL QQARKRFLNK
+     SSEDDAASES FLPSEGASSD PVTLRRRMLA AAAERRLQKQ QTS
+//

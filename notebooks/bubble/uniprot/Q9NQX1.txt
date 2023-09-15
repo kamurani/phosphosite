@@ -1,0 +1,420 @@
+ID   PRDM5_HUMAN             Reviewed;         630 AA.
+AC   Q9NQX1; Q0VAI9; Q0VAJ0; Q6NXQ7;
+DT   16-NOV-2001, integrated into UniProtKB/Swiss-Prot.
+DT   04-NOV-2008, sequence version 2.
+DT   28-JUN-2023, entry version 190.
+DE   RecName: Full=PR domain zinc finger protein 5;
+DE            EC=2.1.1.-;
+DE   AltName: Full=PR domain-containing protein 5;
+GN   Name=PRDM5; Synonyms=PFM2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, SUBCELLULAR LOCATION, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=15077163; DOI=10.1038/sj.onc.1207615;
+RA   Deng Q., Huang S.;
+RT   "PRDM5 is silenced in human cancers and has growth suppressive
+RT   activities.";
+RL   Oncogene 23:4903-4910(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2; 3 AND 4).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=17699856; DOI=10.1158/1078-0432.ccr-07-0305;
+RA   Watanabe Y., Toyota M., Kondo Y., Suzuki H., Imai T., Ohe-Toyota M.,
+RA   Maruyama R., Nojima M., Sasaki Y., Sekido Y., Hiratsuka H., Shinomura Y.,
+RA   Imai K., Itoh F., Tokino T.;
+RT   "PRDM5 identified as a target of epigenetic silencing in colorectal and
+RT   gastric cancer.";
+RL   Clin. Cancer Res. 13:4786-4794(2007).
+RN   [6]
+RP   FUNCTION, INTERACTION WITH EHMT2; GFI1 AND HDAC1, AND SUBCELLULAR LOCATION.
+RX   PubMed=17636019; DOI=10.1128/mcb.00762-07;
+RA   Duan Z., Person R.E., Lee H.-H., Huang S., Donadieu J., Badolato R.,
+RA   Grimes H.L., Papayannopoulou T., Horwitz M.S.;
+RT   "Epigenetic regulation of protein-coding and microRNA genes by the Gfi1-
+RT   interacting tumor suppressor PRDM5.";
+RL   Mol. Cell. Biol. 27:6889-6902(2007).
+RN   [7]
+RP   VARIANT BCS2 CYS-107, AND FUNCTION.
+RX   PubMed=21664999; DOI=10.1016/j.ajhg.2011.05.007;
+RA   Burkitt Wright E.M., Spencer H.L., Daly S.B., Manson F.D., Zeef L.A.,
+RA   Urquhart J., Zoppi N., Bonshek R., Tosounidis I., Mohan M., Madden C.,
+RA   Dodds A., Chandler K.E., Banka S., Au L., Clayton-Smith J., Khan N.,
+RA   Biesecker L.G., Wilson M., Rohrbach M., Colombi M., Giunta C., Black G.C.;
+RT   "Mutations in PRDM5 in brittle cornea syndrome identify a pathway
+RT   regulating extracellular matrix development and maintenance.";
+RL   Am. J. Hum. Genet. 88:767-777(2011).
+CC   -!- FUNCTION: Sequence-specific DNA-binding transcription factor. Represses
+CC       transcription at least in part by recruitment of the histone
+CC       methyltransferase EHMT2/G9A and histone deacetylases such as HDAC1.
+CC       Regulates hematopoiesis-associated protein-coding and microRNA (miRNA)
+CC       genes. May regulate the expression of proteins involved in
+CC       extracellular matrix development and maintenance, including fibrillar
+CC       collagens, such as COL4A1 and COL11A1, connective tissue components,
+CC       such as HAPLN1, and molecules regulating cell migration and adhesion,
+CC       including EDIL3 and TGFB2. May cause G2/M arrest and apoptosis in
+CC       cancer cells. {ECO:0000269|PubMed:15077163,
+CC       ECO:0000269|PubMed:17636019, ECO:0000269|PubMed:21664999}.
+CC   -!- SUBUNIT: Interacts with EHMT2/G9A, GFI1 and HDAC1.
+CC       {ECO:0000269|PubMed:17636019}.
+CC   -!- INTERACTION:
+CC       Q9NQX1; Q96KQ7: EHMT2; NbExp=3; IntAct=EBI-4292031, EBI-744366;
+CC       Q9NQX1; Q99684: GFI1; NbExp=2; IntAct=EBI-4292031, EBI-949368;
+CC       Q9NQX1; Q13547: HDAC1; NbExp=3; IntAct=EBI-4292031, EBI-301834;
+CC       Q9NQX1-2; Q9NX46: ADPRS; NbExp=3; IntAct=EBI-12859340, EBI-718580;
+CC       Q9NQX1-2; P35523: CLCN1; NbExp=3; IntAct=EBI-12859340, EBI-10206780;
+CC       Q9NQX1-2; Q6NZ36-4: FAAP20; NbExp=3; IntAct=EBI-12859340, EBI-12013806;
+CC       Q9NQX1-2; Q9H4M3-2: FBXO44; NbExp=3; IntAct=EBI-12859340, EBI-12104696;
+CC       Q9NQX1-2; Q9Y272: RASD1; NbExp=3; IntAct=EBI-12859340, EBI-740818;
+CC       Q9NQX1-2; P29597: TYK2; NbExp=3; IntAct=EBI-12859340, EBI-1383454;
+CC       Q9NQX1-2; P32241: VIPR1; NbExp=3; IntAct=EBI-12859340, EBI-3917984;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:15077163,
+CC       ECO:0000269|PubMed:17636019}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q9NQX1-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9NQX1-2; Sequence=VSP_035654;
+CC       Name=3;
+CC         IsoId=Q9NQX1-3; Sequence=VSP_035652, VSP_035653;
+CC       Name=4;
+CC         IsoId=Q9NQX1-4; Sequence=VSP_035654, VSP_054395, VSP_054396;
+CC   -!- TISSUE SPECIFICITY: Widely expressed with highest levels in colon and
+CC       ovary. Tends to be silenced in breast, colorectal, gastric and liver
+CC       cancer tissues. {ECO:0000269|PubMed:15077163,
+CC       ECO:0000269|PubMed:17699856}.
+CC   -!- DISEASE: Brittle cornea syndrome 2 (BCS2) [MIM:614170]: A disorder
+CC       characterized by extreme corneal thinning resulting in corneal rupture
+CC       after minor trauma, blue sclerae, keratoconus or keratoglobus,
+CC       hyperelasticity of the skin, and hypermobile joints.
+CC       {ECO:0000269|PubMed:21664999}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the class V-like SAM-binding methyltransferase
+CC       superfamily. {ECO:0000255|PROSITE-ProRule:PRU00190}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF272897; AAF78077.1; -; mRNA.
+DR   EMBL; AK056352; BAG51686.1; -; mRNA.
+DR   EMBL; AC025741; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC104068; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC104795; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC066942; AAH66942.1; -; mRNA.
+DR   EMBL; BC121037; AAI21038.1; -; mRNA.
+DR   EMBL; BC121038; AAI21039.1; -; mRNA.
+DR   CCDS; CCDS3716.1; -. [Q9NQX1-1]
+DR   CCDS; CCDS75187.1; -. [Q9NQX1-4]
+DR   CCDS; CCDS75188.1; -. [Q9NQX1-2]
+DR   RefSeq; NP_001287752.1; NM_001300823.1. [Q9NQX1-2]
+DR   RefSeq; NP_001287753.1; NM_001300824.1. [Q9NQX1-4]
+DR   RefSeq; NP_061169.2; NM_018699.3. [Q9NQX1-1]
+DR   PDB; 6XAZ; X-ray; 1.70 A; A/B=1-127.
+DR   PDBsum; 6XAZ; -.
+DR   AlphaFoldDB; Q9NQX1; -.
+DR   SMR; Q9NQX1; -.
+DR   BioGRID; 116287; 57.
+DR   IntAct; Q9NQX1; 49.
+DR   MINT; Q9NQX1; -.
+DR   STRING; 9606.ENSP00000264808; -.
+DR   MoonDB; Q9NQX1; Predicted.
+DR   GlyGen; Q9NQX1; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9NQX1; -.
+DR   PhosphoSitePlus; Q9NQX1; -.
+DR   SwissPalm; Q9NQX1; -.
+DR   BioMuta; PRDM5; -.
+DR   DMDM; 212276458; -.
+DR   MassIVE; Q9NQX1; -.
+DR   PaxDb; Q9NQX1; -.
+DR   PeptideAtlas; Q9NQX1; -.
+DR   ProteomicsDB; 58796; -.
+DR   ProteomicsDB; 82218; -. [Q9NQX1-1]
+DR   ProteomicsDB; 82219; -. [Q9NQX1-2]
+DR   ProteomicsDB; 82220; -. [Q9NQX1-3]
+DR   Antibodypedia; 26690; 278 antibodies from 29 providers.
+DR   DNASU; 11107; -.
+DR   Ensembl; ENST00000264808.8; ENSP00000264808.3; ENSG00000138738.11. [Q9NQX1-1]
+DR   Ensembl; ENST00000394435.2; ENSP00000377955.2; ENSG00000138738.11. [Q9NQX1-3]
+DR   Ensembl; ENST00000428209.6; ENSP00000404832.2; ENSG00000138738.11. [Q9NQX1-2]
+DR   Ensembl; ENST00000515109.5; ENSP00000422309.1; ENSG00000138738.11. [Q9NQX1-4]
+DR   GeneID; 11107; -.
+DR   KEGG; hsa:11107; -.
+DR   MANE-Select; ENST00000264808.8; ENSP00000264808.3; NM_018699.4; NP_061169.2.
+DR   UCSC; uc003idn.4; human. [Q9NQX1-1]
+DR   AGR; HGNC:9349; -.
+DR   CTD; 11107; -.
+DR   DisGeNET; 11107; -.
+DR   GeneCards; PRDM5; -.
+DR   HGNC; HGNC:9349; PRDM5.
+DR   HPA; ENSG00000138738; Low tissue specificity.
+DR   MalaCards; PRDM5; -.
+DR   MIM; 614161; gene.
+DR   MIM; 614170; phenotype.
+DR   neXtProt; NX_Q9NQX1; -.
+DR   OpenTargets; ENSG00000138738; -.
+DR   Orphanet; 90354; Brittle cornea syndrome.
+DR   PharmGKB; PA33717; -.
+DR   VEuPathDB; HostDB:ENSG00000138738; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   eggNOG; KOG2461; Eukaryota.
+DR   GeneTree; ENSGT00940000158340; -.
+DR   HOGENOM; CLU_002678_75_0_1; -.
+DR   InParanoid; Q9NQX1; -.
+DR   OMA; YKNHKKX; -.
+DR   OrthoDB; 688990at2759; -.
+DR   PhylomeDB; Q9NQX1; -.
+DR   TreeFam; TF106478; -.
+DR   PathwayCommons; Q9NQX1; -.
+DR   SignaLink; Q9NQX1; -.
+DR   BioGRID-ORCS; 11107; 6 hits in 1178 CRISPR screens.
+DR   ChiTaRS; PRDM5; human.
+DR   GenomeRNAi; 11107; -.
+DR   Pharos; Q9NQX1; Tbio.
+DR   PRO; PR:Q9NQX1; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; Q9NQX1; protein.
+DR   Bgee; ENSG00000138738; Expressed in calcaneal tendon and 126 other tissues.
+DR   ExpressionAtlas; Q9NQX1; baseline and differential.
+DR   Genevisible; Q9NQX1; HS.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; IBA:GO_Central.
+DR   GO; GO:0140297; F:DNA-binding transcription factor binding; IDA:UniProtKB.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008168; F:methyltransferase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IDA:UniProtKB.
+DR   GO; GO:0000976; F:transcription cis-regulatory region binding; IDA:UniProtKB.
+DR   GO; GO:1990830; P:cellular response to leukemia inhibitory factor; IEA:Ensembl.
+DR   GO; GO:0006325; P:chromatin organization; IEA:UniProtKB-KW.
+DR   GO; GO:0032259; P:methylation; IEA:UniProtKB-KW.
+DR   GO; GO:0000278; P:mitotic cell cycle; IMP:UniProtKB.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:NTNU_SB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IMP:ARUK-UCL.
+DR   GO; GO:1903053; P:regulation of extracellular matrix organization; IMP:ARUK-UCL.
+DR   CDD; cd19190; PR-SET_PRDM5; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 13.
+DR   Gene3D; 2.170.270.10; SET domain; 1.
+DR   InterPro; IPR044415; PRDM5_PR-SET.
+DR   InterPro; IPR001214; SET_dom.
+DR   InterPro; IPR046341; SET_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   InterPro; IPR017125; Znf_PRDM5-like.
+DR   PANTHER; PTHR24404:SF82; RH47711P-RELATED; 1.
+DR   PANTHER; PTHR24404; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF00096; zf-C2H2; 10.
+DR   Pfam; PF13912; zf-C2H2_6; 2.
+DR   Pfam; PF12874; zf-met; 3.
+DR   PIRSF; PIRSF037162; PRDM; 1.
+DR   SMART; SM00317; SET; 1.
+DR   SMART; SM00355; ZnF_C2H2; 16.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 8.
+DR   SUPFAM; SSF82199; SET domain; 1.
+DR   PROSITE; PS50280; SET; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 14.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 16.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Alternative splicing; Chromatin regulator;
+KW   Disease variant; DNA-binding; Metal-binding; Methyltransferase; Nucleus;
+KW   Reference proteome; Repeat; Repressor; S-adenosyl-L-methionine;
+KW   Transcription; Transcription regulation; Transferase; Zinc; Zinc-finger.
+FT   CHAIN           1..630
+FT                   /note="PR domain zinc finger protein 5"
+FT                   /id="PRO_0000047761"
+FT   DOMAIN          8..124
+FT                   /note="SET"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00190"
+FT   ZN_FING         167..190
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         199..221
+FT                   /note="C2H2-type 2; atypical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         234..256
+FT                   /note="C2H2-type 3; atypical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         262..287
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         295..317
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         320..342
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         348..370
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         376..398
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         404..426
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         432..455
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         461..483
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         489..511
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         517..539
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         545..567
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         573..595
+FT                   /note="C2H2-type 15"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         602..625
+FT                   /note="C2H2-type 16"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   VAR_SEQ         101..111
+FT                   /note="EGENIFYLAVE -> DKNLGPAEWRG (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_035652"
+FT   VAR_SEQ         112..630
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_035653"
+FT   VAR_SEQ         218..248
+FT                   /note="Missing (in isoform 2 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_035654"
+FT   VAR_SEQ         515..532
+FT                   /note="RPYQCPYCEKGFSKNDGL -> AVQVLRVQQGLQPEARPG (in isoform
+FT                   4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_054395"
+FT   VAR_SEQ         533..630
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_054396"
+FT   VARIANT         107
+FT                   /note="Y -> C (in BCS2; dbSNP:rs387907111)"
+FT                   /evidence="ECO:0000269|PubMed:21664999"
+FT                   /id="VAR_066393"
+FT   CONFLICT        261
+FT                   /note="R -> K (in Ref. 1; AAF78077)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          4..6
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          10..14
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          16..27
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          41..43
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          57..61
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          67..72
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   HELIX           76..78
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   HELIX           81..84
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   TURN            91..93
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          96..101
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          104..109
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+FT   STRAND          120..122
+FT                   /evidence="ECO:0007829|PDB:6XAZ"
+SQ   SEQUENCE   630 AA;  73090 MW;  D16AF81AB5A34398 CRC64;
+     MLGMYVPDRF SLKSSRVQDG MGLYTARRVR KGEKFGPFAG EKRMPEDLDE NMDYRLMWEV
+     RGSKGEVLYI LDATNPRHSN WLRFVHEAPS QEQKNLAAIQ EGENIFYLAV EDIETDTELL
+     IGYLDSDMEA EEEEQQIMTV IKEGEVENSR RQSTAGRKDR LGCKEDYACP QCESSFTSED
+     ILAEHLQTLH QKPTEEKEFK CKNCGKKFPV KQALQRHVLQ CTAKSSLKES SRSFQCSVCN
+     SSFSSASSFE QHQETCRGDA RFVCKADSCG KRLKSKDALK RHQENVHTGD PKKKLICSVC
+     NKKCSSASSL QEHRKIHEIF DCQECMKKFI SANQLKRHMI THSEKRPYNC EICNKSFKRL
+     DQVGAHKVIH SEDKPYKCKL CGKGFAHRNV YKNHKKTHSE ERPFQCEECK ALFRTPFSLQ
+     RHLLIHNSER TFKCHHCDAT FKRKDTLNVH VQVVHERHKK YRCELCNKAF VTPSVLRSHK
+     KTHTGEKEKI CPYCGQKFAS SGTLRVHIRS HTGERPYQCP YCEKGFSKND GLKMHIRTHT
+     REKPYKCSEC SKAFSQKRGL DEHKRTHTGE KPFQCDVCDL AFSLKKMLIR HKMTHNPNRP
+     LAECQFCHKK FTRNDYLKVH MDNIHGVADS
+//

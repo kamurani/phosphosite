@@ -1,0 +1,783 @@
+ID   MICB_HUMAN              Reviewed;         383 AA.
+AC   Q29980; A2AC57; A6NP85; B0UZ10; B2RAK2; O14499; O14500; O19798; O19799;
+AC   O19800; O19801; O19802; O19803; O78099; O78100; O78101; O78102; O78103;
+AC   O78104; P79525; P79541; Q5GR31; Q5GR37; Q5GR41; Q5GR42; Q5GR43; Q5GR44;
+AC   Q5GR46; Q5GR48; Q5RIY6; Q5SSK1; Q5ST25; Q7JK51; Q7YQ89; Q861E6; Q9MY18;
+AC   Q9MY19; Q9MY20; Q9UBH4; Q9UBZ8; Q9UEJ0; X6R344;
+DT   10-JUN-2008, integrated into UniProtKB/Swiss-Prot.
+DT   12-AUG-2020, sequence version 2.
+DT   28-JUN-2023, entry version 177.
+DE   RecName: Full=MHC class I polypeptide-related sequence B;
+DE            Short=MIC-B;
+DE   Flags: Precursor;
+GN   Name=MICB {ECO:0000312|EMBL:CAA62823.1};
+GN   Synonyms=PERB11.2 {ECO:0000312|EMBL:AAB51802.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:CAA62823.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE MICB*001; ISOFORM 1).
+RX   PubMed=8575823; DOI=10.1007/bf00587305;
+RA   Bahram S., Spies T.;
+RT   "Nucleotide sequence of a human MHC class I MICB cDNA.";
+RL   Immunogenetics 43:230-233(1996).
+RN   [2] {ECO:0000305, ECO:0000312|EMBL:AAB42011.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE MICB*002; ISOFORM 1).
+RX   PubMed=8952966; DOI=10.1007/s002510050184;
+RA   Bahram S., Shiina T., Oka A., Tamiya G., Inoko H.;
+RT   "Genomic structure of the human MHC class I MICB gene.";
+RL   Immunogenetics 45:161-162(1996).
+RN   [3] {ECO:0000305, ECO:0000312|EMBL:ABO16470.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE MICB*005; ISOFORM 1), AND
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 3).
+RX   PubMed=17678727; DOI=10.1016/j.humimm.2007.05.003;
+RA   Martinez-Borra J., Rodrigo L., Rodriguez-Rodero S., Fernandez-Morera J.L.,
+RA   Diaz-Pena R., Pruneda L., Lopez-Vazquez A., Lopez-Larrea C.;
+RT   "The allele MICB*0050204, over-represented in the Caucasian population, has
+RT   an additional exon resulting from a new splice junction sequence.";
+RL   Hum. Immunol. 68:705-707(2007).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANTS GLU-39;
+RP   GLU-80; ASN-136 AND VAL-300.
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5] {ECO:0000305, ECO:0000312|EMBL:BAB63307.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ALLELE MICB*002).
+RA   Hirakawa M., Yamaguchi H., Imai K., Shimada J., Shiina S., Tamiya G.,
+RA   Oka A., Inoko H.;
+RT   "Homo sapiens 2,229,817bp genomic DNA of 6p21.3 HLA class I region.";
+RL   Submitted (DEC-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000305, ECO:0000312|EMBL:CR753864}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ALLELES MICB*002; MICB*003;
+RP   MICB*004; MICB*005 AND MICB*008).
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANTS GLU-39;
+RP   GLU-80 AND VAL-300.
+RC   TISSUE=Pancreas;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8] {ECO:0000305, ECO:0000312|EMBL:AAB51802.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-341 (ALLELE MICB*003; ISOFORM 1).
+RX   PubMed=8995188; DOI=10.1007/s002510050191;
+RA   Gaudieri S., Leelayuwat C., Townend D.C., Mullberg J., Cosman D.,
+RA   Dawkins R.L.;
+RT   "Allelic and interlocus comparison of the PERB11 multigene family in the
+RT   MHC.";
+RL   Immunogenetics 45:209-216(1997).
+RN   [9] {ECO:0000305, ECO:0000312|EMBL:AAB71642.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 24-341 (ALLELES MICB*002; MICB*003; MICB*004;
+RP   MICB*005 AND MICB*006; ISOFORM 1).
+RX   PubMed=9271635; DOI=10.1007/s002510050299;
+RA   Pellet P., Renaud M., Fodil N., Laloux L., Inoko H., Hauptmann G.,
+RA   Debre P., Bahram S., Theodorou I.;
+RT   "Allelic repertoire of the human MICB gene.";
+RL   Immunogenetics 46:434-436(1997).
+RN   [10] {ECO:0000305, ECO:0000312|EMBL:CAD91554.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-341 (ALLELE MICB*015; ISOFORM 1).
+RC   TISSUE=Blood {ECO:0000312|EMBL:CAD91554.1};
+RX   PubMed=15191526; DOI=10.1111/j.1399-0039.2004.00242.x;
+RA   Quiroga I., Sweeney D., Sutton P.M., Chapple S.D.J., Souto-Grando J.P.,
+RA   Barnardo M.C.N.M., Fuggle S.V.;
+RT   "A novel major histocompatibility complex class I-related chain allele.";
+RL   Tissue Antigens 64:74-77(2004).
+RN   [11] {ECO:0000305, ECO:0000312|EMBL:AAC39847.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 25-383 (ALLELES MICB*002; MICB*005; MICB*008;
+RP   MICB*010; MICB*011 AND MICB*012; ISOFORM 1).
+RX   PubMed=9694358; DOI=10.1111/j.1399-0039.1998.tb03008.x;
+RA   Visser C.J., Tilanus M.G., Schaeffer V., Tatari Z., Tamouza R., Janin A.,
+RA   Charron D.;
+RT   "Sequencing-based typing reveals six novel MHC class I chain-related gene B
+RT   (MICB) alleles.";
+RL   Tissue Antigens 51:649-652(1998).
+RN   [12] {ECO:0000305, ECO:0000312|EMBL:BAA23479.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELES MICB*002; MICB*003;
+RP   MICB*004; MICB*005; MICB*007 AND MICB*008; ISOFORM 1).
+RX   PubMed=9321430; DOI=10.1007/s002510050311;
+RA   Ando H., Mizuki N., Ota M., Yamazaki M., Ohno S., Goto K., Miyata Y.,
+RA   Wakisaka K., Bahram S., Inoko H.;
+RT   "Allelic variants of the human MHC class I chain-related B gene (MICB).";
+RL   Immunogenetics 46:499-508(1997).
+RN   [13] {ECO:0000305, ECO:0000312|EMBL:CAB72097.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELES MICB*008; MICB*013 AND
+RP   MICB*014; ISOFORM 1).
+RX   PubMed=10746790; DOI=10.1034/j.1399-0039.2000.550210.x;
+RA   Fischer G., Perez-Rodriguez M., Arguello J.R., Cox S.T., McWhinnie A.,
+RA   Travers P.J., Madrigal J.A.;
+RT   "Three novel MICB alleles.";
+RL   Tissue Antigens 55:166-170(2000).
+RN   [14] {ECO:0000305, ECO:0000312|EMBL:CAE54939.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-297 (ALLELES MICB*005; MICB*014;
+RP   MICB*016; MICB*018; MICB*019; MICB*020 AND MICB*022; ISOFORM 1).
+RX   PubMed=15304008; DOI=10.1111/j.1399-0039.2004.00286.x;
+RA   Schroeder M., Elsner H.-A., Kim T.D., Blasczyk R.;
+RT   "Eight novel MICB alleles, including a null allele, identified in gastric
+RT   MALT lymphoma patients.";
+RL   Tissue Antigens 64:276-280(2004).
+RN   [15] {ECO:0000305}
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=9497295; DOI=10.1126/science.279.5357.1737;
+RA   Groh V., Steinle A., Bauer S., Spies T.;
+RT   "Recognition of stress-induced MHC molecules by intestinal epithelial
+RT   gammadelta T cells.";
+RL   Science 279:1737-1740(1998).
+RN   [16] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=10359807; DOI=10.1073/pnas.96.12.6879;
+RA   Groh V., Rhinehart R., Secrist H., Bauer S., Grabstein K.H., Spies T.;
+RT   "Broad tumor-associated expression and recognition by tumor-derived gamma
+RT   delta T cells of MICA and MICB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:6879-6884(1999).
+RN   [17] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=11287116; DOI=10.1016/s0304-4165(01)00099-x;
+RA   Yamamoto K., Fujiyama Y., Andoh A., Bamba T., Okabe H.;
+RT   "Oxidative stress increases MICA and MICB gene expression in the human
+RT   colon carcinoma cell line (CaCo-2).";
+RL   Biochim. Biophys. Acta 1526:10-12(2001).
+RN   [18] {ECO:0000305}
+RP   INTERACTION WITH CYTOMEGALOVIRUS GLYCOPROTEIN UL16 (MICROBIAL INFECTION).
+RX   PubMed=11239445; DOI=10.1016/s1074-7613(01)00095-4;
+RA   Cosman D., Mullberg J., Sutherland C.L., Chin W., Armitage R., Fanslow W.,
+RA   Kubin M., Chalupny N.J.;
+RT   "ULBPs, novel MHC class I-related molecules, bind to CMV glycoprotein UL16
+RT   and stimulate NK cytotoxicity through the NKG2D receptor.";
+RL   Immunity 14:123-133(2001).
+RN   [19] {ECO:0000305}
+RP   FUNCTION, AND INTERACTION WITH KLRK1.
+RX   PubMed=11491531; DOI=10.1007/s002510100325;
+RA   Steinle A., Li P., Morris D.L., Groh V., Lanier L.L., Strong R.K.,
+RA   Spies T.;
+RT   "Interactions of human NKG2D with its ligands MICA, MICB, and homologs of
+RT   the mouse RAE-1 protein family.";
+RL   Immunogenetics 53:279-287(2001).
+RN   [20] {ECO:0000305}
+RP   ALTERNATIVE SPLICING.
+RX   PubMed=12466900; DOI=10.1007/s00251-002-0496-y;
+RA   Zou Y., Stastny P.;
+RT   "Alternatively spliced forms of MICA and MICB lacking exon 3 in a human
+RT   cell line and evidence of presence of similar RNA in human peripheral blood
+RT   mononuclear cells.";
+RL   Immunogenetics 54:671-674(2002).
+RN   [21]
+RP   FUNCTION AS A LIGAND FOR KLRK1.
+RX   PubMed=11777960; DOI=10.4049/jimmunol.168.2.671;
+RA   Sutherland C.L., Chalupny N.J., Schooley K., VandenBos T., Kubin M.,
+RA   Cosman D.;
+RT   "UL16-binding proteins, novel MHC class I-related proteins, bind to NKG2D
+RT   and activate multiple signaling pathways in primary NK cells.";
+RL   J. Immunol. 168:671-679(2002).
+RN   [22] {ECO:0000305}
+RP   TISSUE SPECIFICITY, AND INDUCTION.
+RX   PubMed=12569559; DOI=10.1002/ijc.10966;
+RA   Jinushi M., Takehara T., Tatsumi T., Kanto T., Groh V., Spies T.,
+RA   Kimura R., Miyagi T., Mochizuki K., Sasaki Y., Hayashi N.;
+RT   "Expression and role of MICA and MICB in human hepatocellular carcinomas
+RT   and their regulation by retinoic acid.";
+RL   Int. J. Cancer 104:354-361(2003).
+RN   [23] {ECO:0000305}
+RP   INTERACTION WITH CYTOMEGALOVIRUS GLYCOPROTEIN UL16, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=12782710; DOI=10.1084/jem.20022059;
+RA   Dunn C., Chalupny N.J., Sutherland C.L., Dosch S., Sivakumar P.V.,
+RA   Johnson D.C., Cosman D.;
+RT   "Human cytomegalovirus glycoprotein UL16 causes intracellular sequestration
+RT   of NKG2D ligands, protecting against natural killer cell cytotoxicity.";
+RL   J. Exp. Med. 197:1427-1439(2003).
+RN   [24] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=12538683; DOI=10.4049/jimmunol.170.3.1249;
+RA   Jinushi M., Takehara T., Kanto T., Tatsumi T., Groh V., Spies T.,
+RA   Miyagi T., Suzuki T., Sasaki Y., Hayashi N.;
+RT   "Critical role of MHC class I-related chain A and B expression on IFN-
+RT   alpha-stimulated dendritic cells in NK cell activation: impairment in
+RT   chronic hepatitis C virus infection.";
+RL   J. Immunol. 170:1249-1256(2003).
+RN   [25] {ECO:0000305}
+RP   PROTEOLYTIC CLEAVAGE ON TUMOR CELLS.
+RX   PubMed=16698441; DOI=10.1016/j.humimm.2006.02.008;
+RA   Salih H.R., Goehlsdorf D., Steinle A.;
+RT   "Release of MICB molecules by tumor cells: mechanism and soluble MICB in
+RT   sera of cancer patients.";
+RL   Hum. Immunol. 67:188-195(2006).
+RN   [26] {ECO:0000305}
+RP   INTERACTION WITH KLRK1.
+RX   PubMed=16849432; DOI=10.1073/pnas.0600721103;
+RA   Roda-Navarro P., Vales-Gomez M., Chisholm S.E., Reyburn H.T.;
+RT   "Transfer of NKG2D and MICB at the cytotoxic NK cell immune synapse
+RT   correlates with a reduction in NK cell cytotoxic function.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:11258-11263(2006).
+RN   [27] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=17565371; DOI=10.1371/journal.pone.0000518;
+RA   Schrambach S., Ardizzone M., Leymarie V., Sibilia J., Bahram S.;
+RT   "In vivo expression pattern of MICA and MICB and its relevance to auto-
+RT   immunity and cancer.";
+RL   PLoS ONE 2:E518-E518(2007).
+RN   [28] {ECO:0000305}
+RP   INVOLVEMENT IN RHEUMATOID ARTHRITIS.
+RX   PubMed=17003176; DOI=10.1093/rheumatology/kel331;
+RA   Lopez-Arbesu R., Ballina-Garcia F.J., Alperi-Lopez M., Lopez-Soto A.,
+RA   Rodriguez-Rodero S., Martinez-Borra J., Lopez-Vazquez A.,
+RA   Fernandez-Morera J.L., Riestra-Noriega J.L., Queiro-Silva R.,
+RA   Quinones-Lombrana A., Lopez-Larrea C., Gonzalez S.;
+RT   "MHC class I chain-related gene B (MICB) is associated with rheumatoid
+RT   arthritis susceptibility.";
+RL   Rheumatology 46:426-430(2007).
+RN   [29] {ECO:0000305}
+RP   INVOLVEMENT IN SCHIZOPHRENIA.
+RX   PubMed=17561376; DOI=10.1016/j.schres.2007.04.021;
+RA   Shirts B.H., Kim J.J., Reich S., Dickerson F.B., Yolken R.H., Devlin B.,
+RA   Nimgaonkar V.L.;
+RT   "Polymorphisms in MICB are associated with human herpes virus
+RT   seropositivity and schizophrenia risk.";
+RL   Schizophr. Res. 94:342-353(2007).
+RN   [30] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=17641203; DOI=10.1126/science.1140956;
+RA   Stern-Ginossar N., Elefant N., Zimmermann A., Wolf D.G., Saleh N.,
+RA   Biton M., Horwitz E., Prokocimer Z., Prichard M., Hahn G., Goldman-Wohl D.,
+RA   Greenfield C., Yagel S., Hengel H., Altuvia Y., Margalit H., Mandelboim O.;
+RT   "Host immune system gene targeting by a viral miRNA.";
+RL   Science 317:376-381(2007).
+RN   [31] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=18395517; DOI=10.1016/j.bbrc.2008.03.131;
+RA   Tang K.-F., He C.-X., Zeng G.-L., Wu J., Song G.-B., Shi Y.-S.,
+RA   Zhang W.-G., Huang A.-L., Steinle A., Ren H.;
+RT   "Induction of MHC class I-related chain B (MICB) by 5-aza-2'-
+RT   deoxycytidine.";
+RL   Biochem. Biophys. Res. Commun. 370:578-583(2008).
+RN   [32]
+RP   POLYMORPHISM.
+RX   PubMed=32153595; DOI=10.3389/fimmu.2020.00314;
+RA   Klussmeier A., Massalski C., Putke K., Schaefer G., Sauter J., Schefzyk D.,
+RA   Pruschke J., Hofmann J., Fuerst D., Carapito R., Bahram S., Schmidt A.H.,
+RA   Lange V.;
+RT   "High-Throughput MICA/B Genotyping of Over Two Million Samples: Workflow
+RT   and Allele Frequencies.";
+RL   Front. Immunol. 11:314-314(2020).
+RN   [33] {ECO:0000305}
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 24-297, AND DISULFIDE BONDS.
+RX   PubMed=12133964; DOI=10.4049/jimmunol.169.3.1395;
+RA   Holmes M.A., Li P., Petersdorf E.W., Strong R.K.;
+RT   "Structural studies of allelic diversity of the MHC class I homolog MIC-B,
+RT   a stress-inducible ligand for the activating immunoreceptor NKG2D.";
+RL   J. Immunol. 169:1395-1400(2002).
+CC   -!- FUNCTION: Seems to have no role in antigen presentation. Acts as a
+CC       stress-induced self-antigen that is recognized by gamma delta T cells.
+CC       Ligand for the KLRK1/NKG2D receptor. Binding to KLRK1 leads to cell
+CC       lysis. {ECO:0000269|PubMed:11491531, ECO:0000269|PubMed:11777960,
+CC       ECO:0000269|PubMed:9497295}.
+CC   -!- SUBUNIT: Unlike classical MHC class I molecules, does not form a
+CC       heterodimer with beta-2-microglobulin. Binds as a monomer to a
+CC       KLRK1/NKG2D homodimer. KLRK1 forms a complex with HCST/DAP10 in which
+CC       KLRK1 binds MICB while HCST acts as an adapter molecule which enables
+CC       signal transduction. Receptor-ligand interaction induces clustering of
+CC       both proteins in ordered structures called immune synapses and also
+CC       leads to their intercellular transfer. This is associated with a
+CC       reduction in the cytotoxicity of KLRK1-expressing cells.
+CC       {ECO:0000250|UniProtKB:Q29983, ECO:0000269|PubMed:11239445,
+CC       ECO:0000269|PubMed:11491531, ECO:0000269|PubMed:12782710,
+CC       ECO:0000269|PubMed:16849432}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with human
+CC       cytomegalovirus/HHV-5 glycoprotein UL16; this interaction causes
+CC       sequestration of MICB in the endoplasmic reticulum and increases
+CC       resistance to KLRK1-mediated cytotoxicity.
+CC       {ECO:0000269|PubMed:11239445}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250|UniProtKB:Q29983};
+CC       Single-pass type I membrane protein {ECO:0000250|UniProtKB:Q29983}.
+CC       Note=Binding to human cytomegalovirus glycoprotein UL16 causes
+CC       sequestration in the endoplasmic reticulum.
+CC       {ECO:0000250|UniProtKB:Q29983, ECO:0000269|PubMed:12782710}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1 {ECO:0000269|PubMed:12466900}; Synonyms=MICB1
+CC       {ECO:0000269|PubMed:12466900};
+CC         IsoId=Q29980-1; Sequence=Displayed;
+CC       Name=2 {ECO:0000269|PubMed:12466900}; Synonyms=MICB2
+CC       {ECO:0000269|PubMed:12466900}, ex3-del;
+CC         IsoId=Q29980-2; Sequence=VSP_055246;
+CC       Name=3 {ECO:0000269|PubMed:17678727};
+CC         IsoId=Q29980-3; Sequence=VSP_052801, VSP_052802;
+CC   -!- TISSUE SPECIFICITY: Widely expressed with the exception of the central
+CC       nervous system where it is absent. Expressed in many, but not all,
+CC       epithelial tumors of lung, breast, kidney, ovary, prostate and colon.
+CC       In hepatocellular carcinomas, expressed in tumor cells but not in
+CC       surrounding non-cancerous tissue. {ECO:0000269|PubMed:10359807,
+CC       ECO:0000269|PubMed:12569559, ECO:0000269|PubMed:17565371}.
+CC   -!- INDUCTION: By heat shock, oxidative stress, retinoic acid, IFN-alpha
+CC       and the DNA methyltransferase inhibitor 5-aza-2'-deoxycytidine.
+CC       Induction by IFN-alpha is impaired in patients with chronic hepatitis C
+CC       virus infection. Down-regulated by human cytomegalovirus UL112 microRNA
+CC       during viral infection which leads to decreased binding of KLRK1/NKG2D
+CC       and reduced killing by natural killer cells.
+CC       {ECO:0000269|PubMed:11287116, ECO:0000269|PubMed:12538683,
+CC       ECO:0000269|PubMed:12569559, ECO:0000269|PubMed:17641203,
+CC       ECO:0000269|PubMed:18395517, ECO:0000269|PubMed:9497295}.
+CC   -!- PTM: Proteolytically cleaved and released from the cell surface of
+CC       tumor cells. {ECO:0000269|PubMed:16698441}.
+CC   -!- POLYMORPHISM: The following alleles of MICB are known: MICB*001,
+CC       MICB*002, MICB*003, MICB*004, MICB*005, MICB*006, MICB*007, MICB*008,
+CC       MICB*009N, MICB*010, MICB*011, MICB*012, MICB*013, MICB*014, MICB*015,
+CC       MICB*016, MICB*018, MICB*019, MICB*020, MICB*021N and MICB*022.
+CC       MICB*009N and MICB*021N are null alleles which are not expressed. The
+CC       three most common MICB alleles in the human population could be
+CC       MICB*005, MICB*004, and MICB*002. The sequence shown is that of
+CC       MICB*004. {ECO:0000305|PubMed:32153595}.
+CC   -!- DISEASE: Rheumatoid arthritis (RA) [MIM:180300]: An inflammatory
+CC       disease with autoimmune features and a complex genetic component. It
+CC       primarily affects the joints and is characterized by inflammatory
+CC       changes in the synovial membranes and articular structures, widespread
+CC       fibrinoid degeneration of the collagen fibers in mesenchymal tissues,
+CC       and by atrophy and rarefaction of bony structures.
+CC       {ECO:0000269|PubMed:17003176}. Note=Disease susceptibility is
+CC       associated with variants affecting the gene represented in this entry.
+CC       The MICB*004 allele is associated with rheumatoid arthritis.
+CC   -!- DISEASE: Note=Genetic variation in MICB is associated with
+CC       cytomegalovirus and herpes simplex virus I seropositivity and this may
+CC       be associated with schizophrenia risk.
+CC   -!- MISCELLANEOUS: [Isoform 3]: A GC to AG nucleotide substitution in
+CC       intron 1 generates a splice junction which gives rise to an additional
+CC       exon between exons 1 and 2. May be produced at very low levels due to a
+CC       premature stop codon in the mRNA, leading to nonsense-mediated mRNA
+CC       decay. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the MHC class I family. MIC subfamily.
+CC       {ECO:0000255}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X91625; CAA62823.1; -; mRNA.
+DR   EMBL; U65416; AAB42011.1; -; Genomic_DNA.
+DR   EMBL; AY885251; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; EF051579; ABO16470.1; -; Genomic_DNA.
+DR   EMBL; EF051580; ABO16471.1; -; Genomic_DNA.
+DR   EMBL; AK314228; BAG36899.1; -; mRNA.
+DR   EMBL; BA000025; BAB63307.1; -; Genomic_DNA.
+DR   EMBL; AL662866; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL663061; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BX001040; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BX005439; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR753820; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR753864; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR788288; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC044218; AAH44218.1; -; mRNA.
+DR   EMBL; U69978; AAB51802.1; -; Genomic_DNA.
+DR   EMBL; U95729; AAB71642.1; -; mRNA.
+DR   EMBL; U95730; AAB71643.1; -; mRNA.
+DR   EMBL; U95731; AAB71644.1; -; mRNA.
+DR   EMBL; U95732; AAB71645.1; -; mRNA.
+DR   EMBL; U95733; AAB71646.1; -; mRNA.
+DR   EMBL; U95734; AAB71647.1; -; mRNA.
+DR   EMBL; AJ563706; CAD91554.1; -; Genomic_DNA.
+DR   EMBL; AF021221; AAC39846.1; -; mRNA.
+DR   EMBL; AF021222; AAC39847.1; -; mRNA.
+DR   EMBL; AF021223; AAC39848.1; -; mRNA.
+DR   EMBL; AF021224; AAC39849.1; -; mRNA.
+DR   EMBL; AF021225; AAC39850.1; -; mRNA.
+DR   EMBL; AF021226; AAC39851.1; -; mRNA.
+DR   EMBL; AB003609; BAA23476.1; -; Genomic_DNA.
+DR   EMBL; AB003610; BAA23477.1; -; Genomic_DNA.
+DR   EMBL; AB003611; BAA23478.1; -; Genomic_DNA.
+DR   EMBL; AB003612; BAA23479.1; -; Genomic_DNA.
+DR   EMBL; AB003613; BAA23480.1; -; Genomic_DNA.
+DR   EMBL; AB003614; BAA23481.1; -; Genomic_DNA.
+DR   EMBL; AB003615; BAA23482.1; -; Genomic_DNA.
+DR   EMBL; AB003616; BAA23483.1; -; Genomic_DNA.
+DR   EMBL; AB003617; BAA23484.1; -; Genomic_DNA.
+DR   EMBL; AJ251156; CAB72101.1; -; Genomic_DNA.
+DR   EMBL; AJ251157; CAB72101.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ251158; CAB72097.1; -; Genomic_DNA.
+DR   EMBL; AJ251159; CAB72097.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ251160; CAB72098.1; -; Genomic_DNA.
+DR   EMBL; AJ251161; CAB72098.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ606906; CAE54932.1; -; Genomic_DNA.
+DR   EMBL; AJ606907; CAE54933.1; -; Genomic_DNA.
+DR   EMBL; AJ606908; CAE54934.1; -; Genomic_DNA.
+DR   EMBL; AJ606909; CAE54935.1; -; Genomic_DNA.
+DR   EMBL; AJ606910; CAE54936.1; -; Genomic_DNA.
+DR   EMBL; AJ606911; CAE54937.1; -; Genomic_DNA.
+DR   EMBL; AJ606912; CAE54938.1; -; Genomic_DNA.
+DR   EMBL; AJ606913; CAE54939.1; -; Genomic_DNA.
+DR   EMBL; AJ606914; CAE54940.1; -; Genomic_DNA.
+DR   EMBL; AJ606915; CAE54941.1; -; Genomic_DNA.
+DR   EMBL; AJ606916; CAE54942.1; -; Genomic_DNA.
+DR   EMBL; AJ606917; CAE54943.1; -; Genomic_DNA.
+DR   EMBL; AJ606918; CAE54944.1; -; Genomic_DNA.
+DR   EMBL; AJ606919; CAE54945.1; -; Genomic_DNA.
+DR   EMBL; AJ606920; CAE54946.1; -; Genomic_DNA.
+DR   EMBL; AJ606921; CAE54947.1; -; Genomic_DNA.
+DR   EMBL; AJ606922; CAE54948.1; -; Genomic_DNA.
+DR   EMBL; AJ606923; CAE54949.1; -; Genomic_DNA.
+DR   EMBL; AJ606929; CAE54955.1; -; Genomic_DNA.
+DR   EMBL; AJ606930; CAE54956.1; -; Genomic_DNA.
+DR   EMBL; AJ606931; CAE54957.1; -; Genomic_DNA.
+DR   CCDS; CCDS43449.1; -. [Q29980-1]
+DR   CCDS; CCDS75422.1; -. [Q29980-2]
+DR   RefSeq; NP_001276089.1; NM_001289160.1.
+DR   RefSeq; NP_001276090.1; NM_001289161.1. [Q29980-2]
+DR   RefSeq; NP_005922.2; NM_005931.4. [Q29980-1]
+DR   PDB; 1JE6; X-ray; 2.50 A; A=24-297.
+DR   PDB; 2WY3; X-ray; 1.80 A; A/C=24-341.
+DR   PDBsum; 1JE6; -.
+DR   PDBsum; 2WY3; -.
+DR   AlphaFoldDB; Q29980; -.
+DR   SMR; Q29980; -.
+DR   BioGRID; 110424; 157.
+DR   CORUM; Q29980; -.
+DR   STRING; 9606.ENSP00000252229; -.
+DR   GlyCosmos; Q29980; 4 sites, No reported glycans.
+DR   GlyGen; Q29980; 4 sites.
+DR   iPTMnet; Q29980; -.
+DR   PhosphoSitePlus; Q29980; -.
+DR   SwissPalm; Q29980; -.
+DR   BioMuta; MICB; -.
+DR   DMDM; 74706857; -.
+DR   EPD; Q29980; -.
+DR   jPOST; Q29980; -.
+DR   MassIVE; Q29980; -.
+DR   MaxQB; Q29980; -.
+DR   PaxDb; Q29980; -.
+DR   PeptideAtlas; Q29980; -.
+DR   ProteomicsDB; 3419; -.
+DR   ProteomicsDB; 389; -.
+DR   ProteomicsDB; 61282; -. [Q29980-1]
+DR   ProteomicsDB; 69573; -.
+DR   Antibodypedia; 27039; 333 antibodies from 28 providers.
+DR   DNASU; 4277; -.
+DR   Ensembl; ENST00000252229.7; ENSP00000252229.6; ENSG00000204516.10. [Q29980-1]
+DR   Ensembl; ENST00000399150.7; ENSP00000382103.3; ENSG00000204516.10. [Q29980-2]
+DR   Ensembl; ENST00000428416.2; ENSP00000398412.2; ENSG00000206449.11.
+DR   Ensembl; ENST00000436531.6; ENSP00000409414.2; ENSG00000238289.9.
+DR   Ensembl; ENST00000436655.2; ENSP00000402484.2; ENSG00000238289.9.
+DR   Ensembl; ENST00000438954.6; ENSP00000398212.2; ENSG00000234218.9.
+DR   Ensembl; ENST00000442104.6; ENSP00000387401.2; ENSG00000231179.9. [Q29980-2]
+DR   Ensembl; ENST00000443156.2; ENSP00000393355.2; ENSG00000227772.8.
+DR   Ensembl; ENST00000451603.6; ENSP00000407561.2; ENSG00000231179.9. [Q29980-1]
+DR   GeneID; 4277; -.
+DR   KEGG; hsa:4277; -.
+DR   MANE-Select; ENST00000252229.7; ENSP00000252229.6; NM_005931.5; NP_005922.2.
+DR   UCSC; uc003ntn.6; human.
+DR   UCSC; uc003nto.6; human. [Q29980-1]
+DR   AGR; HGNC:7091; -.
+DR   CTD; 4277; -.
+DR   DisGeNET; 4277; -.
+DR   GeneCards; MICB; -.
+DR   HGNC; HGNC:7091; MICB.
+DR   HPA; ENSG00000204516; Tissue enhanced (lymphoid).
+DR   MIM; 180300; phenotype.
+DR   MIM; 602436; gene.
+DR   neXtProt; NX_Q29980; -.
+DR   OpenTargets; ENSG00000204516; -.
+DR   PharmGKB; PA30812; -.
+DR   VEuPathDB; HostDB:ENSG00000204516; -.
+DR   eggNOG; ENOG502RU00; Eukaryota.
+DR   GeneTree; ENSGT01090000260077; -.
+DR   InParanoid; Q29980; -.
+DR   OMA; NISVVWF; -.
+DR   OrthoDB; 3840485at2759; -.
+DR   PhylomeDB; Q29980; -.
+DR   TreeFam; TF342166; -.
+DR   PathwayCommons; Q29980; -.
+DR   Reactome; R-HSA-198933; Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell.
+DR   SignaLink; Q29980; -.
+DR   BioGRID-ORCS; 4277; 23 hits in 1120 CRISPR screens.
+DR   ChiTaRS; MICB; human.
+DR   EvolutionaryTrace; Q29980; -.
+DR   GenomeRNAi; 4277; -.
+DR   Pharos; Q29980; Tbio.
+DR   PRO; PR:Q29980; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q29980; protein.
+DR   Bgee; ENSG00000204516; Expressed in granulocyte and 94 other tissues.
+DR   ExpressionAtlas; Q29980; baseline and differential.
+DR   Genevisible; Q29980; HS.
+DR   GO; GO:0009986; C:cell surface; ISS:UniProtKB.
+DR   GO; GO:0009897; C:external side of plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005615; C:extracellular space; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0046703; F:natural killer cell lectin-like receptor binding; IDA:UniProtKB.
+DR   GO; GO:0042605; F:peptide antigen binding; IBA:GO_Central.
+DR   GO; GO:0005102; F:signaling receptor binding; IBA:GO_Central.
+DR   GO; GO:0002250; P:adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0002486; P:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent; IBA:GO_Central.
+DR   GO; GO:0002476; P:antigen processing and presentation of endogenous peptide antigen via MHC class Ib; IBA:GO_Central.
+DR   GO; GO:0046629; P:gamma-delta T cell activation; IDA:UniProtKB.
+DR   GO; GO:0006955; P:immune response; IBA:GO_Central.
+DR   GO; GO:0002429; P:immune response-activating cell surface receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0031640; P:killing of cells of another organism; IEA:UniProtKB-KW.
+DR   GO; GO:0050689; P:negative regulation of defense response to virus by host; IDA:UniProtKB.
+DR   GO; GO:0001916; P:positive regulation of T cell mediated cytotoxicity; IBA:GO_Central.
+DR   GO; GO:0009408; P:response to heat; IDA:UniProtKB.
+DR   GO; GO:0006979; P:response to oxidative stress; IDA:UniProtKB.
+DR   GO; GO:0032526; P:response to retinoic acid; IDA:UniProtKB.
+DR   CDD; cd21017; IgC1_MHC_Ia_MIC-A_MIC-B; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   Gene3D; 3.30.500.10; MHC class I-like antigen recognition-like; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR011161; MHC_I-like_Ag-recog.
+DR   InterPro; IPR037055; MHC_I-like_Ag-recog_sf.
+DR   InterPro; IPR011162; MHC_I/II-like_Ag-recog.
+DR   PANTHER; PTHR16675:SF154; MHC CLASS I POLYPEPTIDE-RELATED SEQUENCE A-RELATED; 1.
+DR   PANTHER; PTHR16675; MHC CLASS I-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00129; MHC_I; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF54452; MHC antigen-recognition domain; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Adaptive immunity; Alternative splicing; Cell membrane;
+KW   Cytolysis; Disulfide bond; Glycoprotein; Host-virus interaction; Immunity;
+KW   Immunoglobulin domain; Membrane; Reference proteome; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..22
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           23..383
+FT                   /note="MHC class I polypeptide-related sequence B"
+FT                   /evidence="ECO:0000255"
+FT                   /id="PRO_0000341418"
+FT   TOPO_DOM        23..309
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        310..330
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        331..383
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          207..298
+FT                   /note="Ig-like C1-type"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        164
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        210
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        220
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        261
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        119..187
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:12133964"
+FT   DISULFID        225..282
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:12133964"
+FT   VAR_SEQ         24..41
+FT                   /note="EPHSLRYNLMVLSQDGSV -> VEMGFHRVSQDGLDLLTS (in isoform
+FT                   3)"
+FT                   /evidence="ECO:0000303|PubMed:17678727"
+FT                   /id="VSP_052801"
+FT   VAR_SEQ         42..383
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:17678727"
+FT                   /id="VSP_052802"
+FT   VAR_SEQ         109..151
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_055246"
+FT   VARIANT         39
+FT                   /note="G -> E (in allele MICB*001; dbSNP:rs45578846)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_044068"
+FT   VARIANT         68
+FT                   /note="P -> H (in allele MICB*011; dbSNP:rs45583740)"
+FT                   /id="VAR_044069"
+FT   VARIANT         75
+FT                   /note="N -> D (in allele MICB*001, allele MICB*002, allele
+FT                   MICB*003, allele MICB*005, allele MICB*006, allele
+FT                   MICB*007, allele MICB*008, allele MICB*010, allele
+FT                   MICB*011, allele MICB*012, allele MICB*013, allele
+FT                   MICB*014, allele MICB*015, allele MICB*016, allele
+FT                   MICB*018, allele MICB*019 and allele MICB*022;
+FT                   dbSNP:rs3131639)"
+FT                   /id="VAR_044070"
+FT   VARIANT         80
+FT                   /note="K -> E (in allele MICB*002, allele MICB*007, allele
+FT                   MICB*008, allele MICB*014, allele MICB*015, allele
+FT                   MICB*016, allele MICB*019 and allele MICB*022;
+FT                   dbSNP:rs1065075)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_044071"
+FT   VARIANT         88
+FT                   /note="D -> G (in allele MICB*022; dbSNP:rs45486091)"
+FT                   /id="VAR_044072"
+FT   VARIANT         105
+FT                   /note="D -> G (in allele MICB*012; dbSNP:rs45502297)"
+FT                   /id="VAR_044073"
+FT   VARIANT         121
+FT                   /note="I -> M (in allele MICB*008; dbSNP:rs3134900)"
+FT                   /id="VAR_044074"
+FT   VARIANT         136
+FT                   /note="D -> H (in dbSNP:rs1051788)"
+FT                   /id="VAR_059527"
+FT   VARIANT         136
+FT                   /note="D -> N (in allele MICB*002, allele MICB*007, allele
+FT                   MICB*008, allele MICB*014, allele MICB*015, allele
+FT                   MICB*018, allele MICB*020 and allele MICB*022;
+FT                   dbSNP:rs1051788)"
+FT                   /evidence="ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_044075"
+FT   VARIANT         212
+FT                   /note="T -> I (in allele MICB*003; dbSNP:rs41293883)"
+FT                   /id="VAR_044076"
+FT   VARIANT         215
+FT                   /note="E -> K (in allele MICB*006 and allele MICB*015;
+FT                   dbSNP:rs45624537)"
+FT                   /id="VAR_044077"
+FT   VARIANT         279
+FT                   /note="R -> K (in allele MICB*007; dbSNP:rs45587032)"
+FT                   /id="VAR_044078"
+FT   VARIANT         291
+FT                   /note="G -> S (in allele MICB*013, allele MICB*014, allele
+FT                   MICB*015 and allele MICB*016; dbSNP:rs41273040)"
+FT                   /id="VAR_044079"
+FT   VARIANT         300
+FT                   /note="A -> V (in allele MICB*001, allele MICB*016, allele
+FT                   MICB*018, allele MICB*019, allele MICB*020 and allele
+FT                   MICB*022; dbSNP:rs45470602)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_044080"
+FT   VARIANT         383
+FT                   /note="T -> A (in allele MICB*001, allele MICB*002, allele
+FT                   MICB*005, allele MICB*006, allele MICB*007, allele
+FT                   MICB*008, allele MICB*012, allele MICB*013, allele
+FT                   MICB*014, allele MICB*015, allele MICB*016, allele
+FT                   MICB*018, allele MICB*019, allele MICB*020 and allele
+FT                   MICB*022; dbSNP:rs1065076)"
+FT                   /id="VAR_044081"
+FT   STRAND          26..37
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   STRAND          46..51
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   STRAND          54..60
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   TURN            61..64
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   STRAND          65..68
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   HELIX           71..75
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   HELIX           80..101
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   STRAND          104..106
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          109..121
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   STRAND          123..125
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          127..135
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   STRAND          138..144
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   TURN            145..147
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   HELIX           156..170
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   HELIX           176..197
+FT                   /evidence="ECO:0007829|PDB:2WY3"
+FT   HELIX           201..203
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          208..214
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          218..233
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          236..241
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          250..253
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          264..273
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   HELIX           277..279
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          280..286
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+FT   STRAND          289..294
+FT                   /evidence="ECO:0007829|PDB:1JE6"
+SQ   SEQUENCE   383 AA;  42575 MW;  1309E571B48CDF9C CRC64;
+     MGLGRVLLFL AVAFPFAPPA AAAEPHSLRY NLMVLSQDGS VQSGFLAEGH LDGQPFLRYD
+     RQKRRAKPQG QWAENVLGAK TWDTETEDLT ENGQDLRRTL THIKDQKGGL HSLQEIRVCE
+     IHEDSSTRGS RHFYYDGELF LSQNLETQES TVPQSSRAQT LAMNVTNFWK EDAMKTKTHY
+     RAMQADCLQK LQRYLKSGVA IRRTVPPMVN VTCSEVSEGN ITVTCRASSF YPRNITLTWR
+     QDGVSLSHNT QQWGDVLPDG NGTYQTWVAT RIRQGEEQRF TCYMEHSGNH GTHPVPSGKA
+     LVLQSQRTDF PYVSAAMPCF VIIIILCVPC CKKKTSAAEG PELVSLQVLD QHPVGTGDHR
+     DAAQLGFQPL MSATGSTGST EGT
+//

@@ -1,0 +1,777 @@
+ID   RREB1_HUMAN             Reviewed;        1687 AA.
+AC   Q92766; A2RRF5; E2GM80; E2GM81; O75567; O75568; Q5VYB2; Q6BEP5; Q6BEP6;
+AC   Q6BEP8; Q86SU2; Q9Y474;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   10-JUL-2007, sequence version 3.
+DT   28-JUN-2023, entry version 196.
+DE   RecName: Full=Ras-responsive element-binding protein 1;
+DE            Short=RREB-1;
+DE   AltName: Full=Finger protein in nuclear bodies;
+DE   AltName: Full=Raf-responsive zinc finger protein LZ321;
+DE   AltName: Full=Zinc finger motif enhancer-binding protein 1;
+DE            Short=Zep-1;
+GN   Name=RREB1; Synonyms=FINB;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   PRELIMINARY NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=9305772; DOI=10.1016/s0378-1119(97)00172-8;
+RA   Fujimoto-Nishiyama A., Ishii S., Matsuda S., Inoue J., Yamamoto T.;
+RT   "A novel zinc finger protein, Finb, is a transcriptional activator and
+RT   localized in nuclear bodies.";
+RL   Gene 195:267-275(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2 AND 3), VARIANTS ARG-195; VAL-783
+RP   AND PRO-1467, SUBCELLULAR LOCATION, AND FUNCTION.
+RX   PubMed=15067362;
+RA   Date S., Nibu Y., Yanai K., Hirata J., Yagami K., Fukamizu A.;
+RT   "Finb, a multiple zinc finger protein, represses transcription of the human
+RT   angiotensinogen gene.";
+RL   Int. J. Mol. Med. 13:637-642(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 5 AND 6), ALTERNATIVE SPLICING, AND
+RP   VARIANTS ARG-195 AND VAL-783.
+RX   PubMed=21703425; DOI=10.1016/j.ajpath.2011.03.038;
+RA   Nitz M.D., Harding M.A., Smith S.C., Thomas S., Theodorescu D.;
+RT   "RREB1 transcription factor splice variants in urologic cancer.";
+RL   Am. J. Pathol. 179:477-486(2011).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 1-324 (ISOFORM 1), AND VARIANTS ARG-195 AND PRO-1467.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 849-1687 (ISOFORM 1), TISSUE SPECIFICITY, AND
+RP   FUNCTION.
+RC   TISSUE=Thyroid carcinoma;
+RX   PubMed=8816445; DOI=10.1128/mcb.16.10.5335;
+RA   Thiagalingam A., de Bustros A., Borges M., Jasti R., Compton D.,
+RA   Diamond L., Mabry M., Ball D.W., Baylin S.B., Nelkin B.D.;
+RT   "RREB-1, a novel zinc finger protein, is involved in the differentiation
+RT   response to Ras in human medullary thyroid carcinomas.";
+RL   Mol. Cell. Biol. 16:5335-5345(1996).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1161-1687 (ISOFORM 1), NUCLEOTIDE SEQUENCE
+RP   [MRNA] OF 1161-1633 (ISOFORM 2), VARIANT PRO-1467, AND FUNCTION.
+RC   TISSUE=Liver;
+RX   PubMed=10390538; DOI=10.1093/nar/27.14.2947;
+RA   Zhang L., Zhao J., Edenberg H.J.;
+RT   "A human Raf-responsive zinc-finger protein that binds to divergent
+RT   sequences.";
+RL   Nucleic Acids Res. 27:2947-2956(1999).
+RN   [8]
+RP   INTERACTION WITH NEUROD1, AND FUNCTION.
+RX   PubMed=12482979; DOI=10.1128/mcb.23.1.259-271.2003;
+RA   Ray S.K., Nishitani J., Petry M.W., Fessing M.Y., Leiter A.B.;
+RT   "Novel transcriptional potentiation of BETA2/NeuroD on the secretin gene
+RT   promoter by the DNA-binding protein Finb/RREB-1.";
+RL   Mol. Cell. Biol. 23:259-271(2003).
+RN   [9]
+RP   INTERACTION WITH AR, SUBCELLULAR LOCATION, AND FUNCTION.
+RX   PubMed=17550981; DOI=10.1210/me.2006-0503;
+RA   Mukhopadhyay N.K., Cinar B., Mukhopadhyay L., Lutchman M., Ferdinand A.S.,
+RA   Kim J., Chung L.W.K., Adam R.M., Ray S.K., Leiter A.B., Richie J.P.,
+RA   Liu B.C.-S., Freeman M.R.;
+RT   "The zinc finger protein Ras-responsive element binding protein-1 is a
+RT   coregulator of the androgen receptor: implications for the role of the Ras
+RT   pathway in enhancing androgenic signaling in prostate cancer.";
+RL   Mol. Endocrinol. 21:2056-2070(2007).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-36; SER-231; SER-1167;
+RP   SER-1174; SER-1175; SER-1219; SER-1225; THR-1315 AND SER-1653, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1167; SER-1174 AND SER-1175,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-36; SER-161; SER-231;
+RP   SER-1122; SER-1167; SER-1174; SER-1175 AND SER-1653, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-36; SER-42; SER-161 AND
+RP   SER-1475, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-36; SER-161; SER-175;
+RP   SER-180; SER-231; SER-1122; SER-1140; SER-1167; SER-1174; SER-1175 AND
+RP   SER-1320, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-161 AND SER-1219, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [17]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-551 AND LYS-615, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [18]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-615, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25114211; DOI=10.1073/pnas.1413825111;
+RA   Impens F., Radoshevich L., Cossart P., Ribet D.;
+RT   "Mapping of SUMO sites and analysis of SUMOylation changes induced by
+RT   external stimuli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 111:12432-12437(2014).
+RN   [19]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-615 AND LYS-885, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25772364; DOI=10.1016/j.celrep.2015.02.033;
+RA   Hendriks I.A., Treffers L.W., Verlaan-de Vries M., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "SUMO-2 orchestrates chromatin modifiers in response to DNA damage.";
+RL   Cell Rep. 10:1778-1791(2015).
+RN   [20]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-203 AND LYS-615, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to replication
+RT   stress reveals novel small ubiquitin-like modified target proteins and
+RT   acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [21]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-203; LYS-435; LYS-502; LYS-551;
+RP   LYS-566; LYS-593; LYS-613; LYS-615; LYS-624; LYS-857; LYS-885 AND LYS-913,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: Transcription factor that binds specifically to the RAS-
+CC       responsive elements (RRE) of gene promoters (PubMed:9305772,
+CC       PubMed:15067362, PubMed:8816445, PubMed:10390538, PubMed:17550981).
+CC       Represses the angiotensinogen gene (PubMed:15067362). Negatively
+CC       regulates the transcriptional activity of AR (PubMed:17550981).
+CC       Potentiates the transcriptional activity of NEUROD1 (PubMed:12482979).
+CC       Promotes brown adipocyte differentiation (By similarity). May be
+CC       involved in Ras/Raf-mediated cell differentiation by enhancing
+CC       calcitonin expression (PubMed:8816445). {ECO:0000250|UniProtKB:Q3UH06,
+CC       ECO:0000269|PubMed:10390538, ECO:0000269|PubMed:12482979,
+CC       ECO:0000269|PubMed:15067362, ECO:0000269|PubMed:17550981,
+CC       ECO:0000269|PubMed:8816445, ECO:0000269|PubMed:9305772}.
+CC   -!- SUBUNIT: Interacts with NEUROD1 (PubMed:12482979). Interacts with AR
+CC       (PubMed:17550981). {ECO:0000269|PubMed:12482979,
+CC       ECO:0000269|PubMed:17550981}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus speckle {ECO:0000269|PubMed:15067362,
+CC       ECO:0000269|PubMed:17550981, ECO:0000269|PubMed:9305772}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1; Synonyms=beta;
+CC         IsoId=Q92766-1; Sequence=Displayed;
+CC       Name=2; Synonyms=alpha;
+CC         IsoId=Q92766-2; Sequence=VSP_026706;
+CC       Name=3; Synonyms=gamma;
+CC         IsoId=Q92766-3; Sequence=VSP_026707;
+CC       Name=4;
+CC         IsoId=Q92766-4; Sequence=VSP_026704, VSP_026705;
+CC       Name=5; Synonyms=delta;
+CC         IsoId=Q92766-5; Sequence=VSP_053540;
+CC       Name=6; Synonyms=epsilon;
+CC         IsoId=Q92766-6; Sequence=VSP_053538, VSP_053539;
+CC   -!- TISSUE SPECIFICITY: Expressed in heart, placenta, lung, liver, skeletal
+CC       muscle, kidney and pancreas. Not found in the brain.
+CC       {ECO:0000269|PubMed:8816445}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAB19094.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=AAC25598.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=AAC26118.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=AAH42910.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAH42910.1; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Potential poly-A sequence.; Evidence={ECO:0000305};
+CC       Sequence=BAA23165.1; Type=Miscellaneous discrepancy; Note=Numerous sequencing errors.; Evidence={ECO:0000305};
+CC       Sequence=AAC26118.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D49835; BAA23165.1; ALT_SEQ; mRNA.
+DR   EMBL; AB019254; BAD32776.1; -; mRNA.
+DR   EMBL; AB019351; BAD32778.1; -; mRNA.
+DR   EMBL; AB019352; BAD32779.1; -; mRNA.
+DR   EMBL; HM369360; ADO14468.1; -; mRNA.
+DR   EMBL; HM369361; ADO14469.1; -; mRNA.
+DR   EMBL; AL139095; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL355336; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL589644; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC042910; AAH42910.1; ALT_SEQ; mRNA.
+DR   EMBL; BC131599; AAI31600.1; -; mRNA.
+DR   EMBL; U26914; AAB19094.1; ALT_FRAME; mRNA.
+DR   EMBL; AF072825; AAC25598.1; ALT_FRAME; mRNA.
+DR   EMBL; AF072826; AAC26118.1; ALT_FRAME; mRNA.
+DR   CCDS; CCDS34335.1; -. [Q92766-2]
+DR   CCDS; CCDS34336.1; -. [Q92766-1]
+DR   CCDS; CCDS54963.1; -. [Q92766-3]
+DR   RefSeq; NP_001003698.1; NM_001003698.3. [Q92766-1]
+DR   RefSeq; NP_001003699.1; NM_001003699.3. [Q92766-2]
+DR   RefSeq; NP_001003700.1; NM_001003700.1. [Q92766-3]
+DR   RefSeq; NP_001161816.1; NM_001168344.1. [Q92766-1]
+DR   RefSeq; XP_006715220.1; XM_006715157.3.
+DR   RefSeq; XP_011513097.1; XM_011514795.2.
+DR   AlphaFoldDB; Q92766; -.
+DR   BioGRID; 112153; 80.
+DR   CORUM; Q92766; -.
+DR   IntAct; Q92766; 39.
+DR   STRING; 9606.ENSP00000369270; -.
+DR   GlyGen; Q92766; 6 sites, 1 O-linked glycan (6 sites).
+DR   iPTMnet; Q92766; -.
+DR   PhosphoSitePlus; Q92766; -.
+DR   SwissPalm; Q92766; -.
+DR   BioMuta; RREB1; -.
+DR   DMDM; 152031673; -.
+DR   EPD; Q92766; -.
+DR   jPOST; Q92766; -.
+DR   MassIVE; Q92766; -.
+DR   MaxQB; Q92766; -.
+DR   PeptideAtlas; Q92766; -.
+DR   ProteomicsDB; 75450; -. [Q92766-1]
+DR   ProteomicsDB; 75451; -. [Q92766-2]
+DR   ProteomicsDB; 75452; -. [Q92766-3]
+DR   ProteomicsDB; 75453; -. [Q92766-4]
+DR   Antibodypedia; 9691; 226 antibodies from 31 providers.
+DR   DNASU; 6239; -.
+DR   Ensembl; ENST00000334984.10; ENSP00000335574.6; ENSG00000124782.21. [Q92766-3]
+DR   Ensembl; ENST00000349384.10; ENSP00000305560.10; ENSG00000124782.21. [Q92766-1]
+DR   Ensembl; ENST00000379933.7; ENSP00000369265.3; ENSG00000124782.21. [Q92766-1]
+DR   Ensembl; ENST00000379938.7; ENSP00000369270.2; ENSG00000124782.21. [Q92766-2]
+DR   GeneID; 6239; -.
+DR   KEGG; hsa:6239; -.
+DR   MANE-Select; ENST00000379938.7; ENSP00000369270.2; NM_001003699.4; NP_001003699.1. [Q92766-2]
+DR   UCSC; uc003mxb.4; human. [Q92766-1]
+DR   AGR; HGNC:10449; -.
+DR   CTD; 6239; -.
+DR   DisGeNET; 6239; -.
+DR   GeneCards; RREB1; -.
+DR   HGNC; HGNC:10449; RREB1.
+DR   HPA; ENSG00000124782; Low tissue specificity.
+DR   MalaCards; RREB1; -.
+DR   MIM; 602209; gene.
+DR   neXtProt; NX_Q92766; -.
+DR   OpenTargets; ENSG00000124782; -.
+DR   Orphanet; 567; 22q11.2 deletion syndrome.
+DR   PharmGKB; PA34864; -.
+DR   VEuPathDB; HostDB:ENSG00000124782; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000157533; -.
+DR   HOGENOM; CLU_002702_0_0_1; -.
+DR   InParanoid; Q92766; -.
+DR   OMA; DAFCTPD; -.
+DR   OrthoDB; 5398957at2759; -.
+DR   PhylomeDB; Q92766; -.
+DR   TreeFam; TF332503; -.
+DR   PathwayCommons; Q92766; -.
+DR   SignaLink; Q92766; -.
+DR   SIGNOR; Q92766; -.
+DR   BioGRID-ORCS; 6239; 84 hits in 1192 CRISPR screens.
+DR   ChiTaRS; RREB1; human.
+DR   GeneWiki; RREB1; -.
+DR   GenomeRNAi; 6239; -.
+DR   Pharos; Q92766; Tbio.
+DR   PRO; PR:Q92766; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q92766; protein.
+DR   Bgee; ENSG00000124782; Expressed in buccal mucosa cell and 209 other tissues.
+DR   ExpressionAtlas; Q92766; baseline and differential.
+DR   Genevisible; Q92766; HS.
+DR   GO; GO:0005737; C:cytoplasm; TAS:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0001650; C:fibrillar center; IDA:HPA.
+DR   GO; GO:0016604; C:nuclear body; TAS:UniProtKB.
+DR   GO; GO:0016607; C:nuclear speck; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IMP:UniProtKB.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IMP:UniProtKB.
+DR   GO; GO:0090336; P:positive regulation of brown fat cell differentiation; ISS:UniProtKB.
+DR   GO; GO:0045893; P:positive regulation of DNA-templated transcription; TAS:UniProtKB.
+DR   GO; GO:0010634; P:positive regulation of epithelial cell migration; IMP:UniProtKB.
+DR   GO; GO:2000394; P:positive regulation of lamellipodium morphogenesis; IMP:UniProtKB.
+DR   GO; GO:0033601; P:positive regulation of mammary gland epithelial cell proliferation; IMP:UniProtKB.
+DR   GO; GO:1900026; P:positive regulation of substrate adhesion-dependent cell spreading; IMP:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:NTNU_SB.
+DR   GO; GO:1903691; P:positive regulation of wound healing, spreading of epidermal cells; IMP:UniProtKB.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; TAS:UniProtKB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0006366; P:transcription by RNA polymerase II; TAS:ProtInc.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 8.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR46451; RAS-RESPONSIVE ELEMENT-BINDING PROTEIN 1; 1.
+DR   PANTHER; PTHR46451:SF1; RAS-RESPONSIVE ELEMENT-BINDING PROTEIN 1; 1.
+DR   Pfam; PF00096; zf-C2H2; 4.
+DR   Pfam; PF13912; zf-C2H2_6; 2.
+DR   Pfam; PF13909; zf-H2C2_5; 1.
+DR   SMART; SM00355; ZnF_C2H2; 15.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 8.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 14.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 14.
+PE   1: Evidence at protein level;
+KW   Activator; Alternative splicing; DNA-binding; Isopeptide bond;
+KW   Metal-binding; Nucleus; Phosphoprotein; Reference proteome; Repeat;
+KW   Repressor; Transcription; Transcription regulation; Ubl conjugation; Zinc;
+KW   Zinc-finger.
+FT   CHAIN           1..1687
+FT                   /note="Ras-responsive element-binding protein 1"
+FT                   /id="PRO_0000047326"
+FT   ZN_FING         66..88
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         97..119
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         125..147
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         208..230
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         235..258
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         316..338
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         643..665
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         671..693
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         699..722
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         753..775
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         790..815
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         1246..1268
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         1393..1415
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         1512..1534
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         1540..1562
+FT                   /note="C2H2-type 15"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          25..63
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          145..197
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          939..1008
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1084..1177
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1192..1233
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1268..1362
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1409..1513
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1524..1543
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1558..1687
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        25..40
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        172..197
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        940..964
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1090..1128
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1213..1233
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1319..1346
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1412..1429
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1465..1513
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1525..1541
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1571..1589
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1590..1614
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1621..1638
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         36
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         42
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         161
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         175
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         180
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         231
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         970
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3UH06"
+FT   MOD_RES         1122
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1134
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3UH06"
+FT   MOD_RES         1135
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3UH06"
+FT   MOD_RES         1140
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1167
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1174
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1175
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1219
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1225
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         1315
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         1320
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1475
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         1585
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3UH06"
+FT   MOD_RES         1598
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3UH06"
+FT   MOD_RES         1653
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231"
+FT   CROSSLNK        203
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        435
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        502
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        551
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        566
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        593
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        613
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        615
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO1); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211"
+FT   CROSSLNK        615
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211,
+FT                   ECO:0007744|PubMed:25218447, ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:25772364, ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        624
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        857
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        885
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25772364,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        913
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         1..1200
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_026704"
+FT   VAR_SEQ         300..314
+FT                   /note="AWCETNLRRCISEQH -> GKGHTNVRPASEPSP (in isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:21703425"
+FT                   /id="VSP_053538"
+FT   VAR_SEQ         315..1687
+FT                   /note="Missing (in isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:21703425"
+FT                   /id="VSP_053539"
+FT   VAR_SEQ         1201..1268
+FT                   /note="EDNTQDEVAGAPADHHGPSDEEQGSPPEDKLLRAKRNSYTNCLQKITCPHCP
+FT                   RVFPWASSLQRHMLTH -> MLTHTGQKPFPCQKCDAFFSTKSNCERHQLRKHGVTTCS
+FT                   LRRNGLIPQSKESDVGSHDS (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_026705"
+FT   VAR_SEQ         1269
+FT                   /note="T -> TGQKPFPCQKCDAFFSTKSNCERHQLRKHGVTTCSLRRNGLIPQSKE
+FT                   SDVGSHDST (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:10390538,
+FT                   ECO:0000303|PubMed:15067362"
+FT                   /id="VSP_026706"
+FT   VAR_SEQ         1270..1535
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:21703425"
+FT                   /id="VSP_053540"
+FT   VAR_SEQ         1270..1534
+FT                   /note="DSQSDAETAAAAGEVLDLTSRDREQPSEGATELRQVAGDAPVEQATAETASP
+FT                   VHREEHGRGESHEPEEEHGTEESTGDADGAEEDASSNQSLDLDFATKLMDFKLAEGDGE
+FT                   AGAGGAASQEQKLACDTCGKSFKFLGTLSRHRKAHGRQEPKDEKGDGASTAEEGPQPAP
+FT                   EQEEKPPETPAEVVESAPGAGEAPAEKLAEETEGPSDGESAAEKRSSEKSDDDKKPKTD
+FT                   SPKSVASKADKRKKVCSVCNKRFWSLQDLTRHMRSH -> GQKPFPCQKCDAFFSTKSN
+FT                   CERHQLRKHGVTTCSLRRNGLIPQSKESDVGSHDS (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15067362"
+FT                   /id="VSP_026707"
+FT   VARIANT         195
+FT                   /note="G -> R (in dbSNP:rs1334576)"
+FT                   /evidence="ECO:0000269|PubMed:15067362,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:21703425"
+FT                   /id="VAR_033197"
+FT   VARIANT         783
+FT                   /note="G -> V (in dbSNP:rs9502564)"
+FT                   /evidence="ECO:0000269|PubMed:15067362,
+FT                   ECO:0000269|PubMed:21703425"
+FT                   /id="VAR_033198"
+FT   VARIANT         1171
+FT                   /note="D -> N (in dbSNP:rs9379084)"
+FT                   /id="VAR_033199"
+FT   VARIANT         1384
+FT                   /note="G -> R (in dbSNP:rs2281833)"
+FT                   /id="VAR_033200"
+FT   VARIANT         1467
+FT                   /note="L -> P (in dbSNP:rs2256596)"
+FT                   /evidence="ECO:0000269|PubMed:10390538,
+FT                   ECO:0000269|PubMed:15067362, ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_033201"
+FT   VARIANT         1499
+FT                   /note="S -> Y (in dbSNP:rs35742417)"
+FT                   /id="VAR_033202"
+FT   CONFLICT        574
+FT                   /note="A -> T (in Ref. 3; ADO14469)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        866
+FT                   /note="Q -> K (in Ref. 6; AAB19094)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        994
+FT                   /note="A -> V (in Ref. 3; ADO14469)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1148
+FT                   /note="G -> R (in Ref. 6; AAB19094)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1321
+FT                   /note="P -> R (in Ref. 7; AAC25598/AAC26118)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1394..1395
+FT                   /note="AC -> SS (in Ref. 7; AAC25598/AAC26118)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1429
+FT                   /note="S -> T (in Ref. 6; AAB19094)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1436
+FT                   /note="Q -> S (in Ref. 6; AAB19094)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1683
+FT                   /note="L -> H (in Ref. 6; AAB19094)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1687 AA;  181420 MW;  33B5755B0243C64F CRC64;
+     MTSSSPAGLE GSDLSSINTM MSAVMSVGKV TENGGSPQGI KSPSKPPGPN RIGRRNQETK
+     EEKSSYNCPL CEKICTTQHQ LTMHIRQHNT DTGGADHSCS ICGKSLSSAS SLDRHMLVHS
+     GERPYKCTVC GQSFTTNGNM HRHMKIHEKD PNSATATAPP SPLKRRRLSS KRKLSHDAES
+     EREDPAPAKK MVEDGQSGDL EKKADEVFHC PVCFKEFVCK YGLETHMETH SDNPLRCDIC
+     CVTFRTHRGL LRHNALVHKQ LPRDAMGRPF IQNNPSIPAG FHDLGFTDFS CRKFPRISQA
+     WCETNLRRCI SEQHRFVCDT CDKAFPMLCS LALHKQTHVA ADQGQEKPQA TPLPGDALDQ
+     KGFLALLGLQ HTKDVRPAPA EEPLPDDNQA IQLQTLKCQL PQDPGCTNLL SLSPFEAASL
+     GGSLTVLPAT KDSIKHLSLQ PFQKGFIIQP DSSIVVKPIS GESAIELADI QQILKMAASA
+     PPQISLPPFS KAPAAPLQAI FKHMPPLKPK PLVTPRTVVA TSTPPPLINA QQASPGCISP
+     SLPPPPLKLL KGSVEAASNA HLLQSKSGTQ PHAATRLSLQ QPRAELPGQP EMKTQLEQDS
+     IIEALLPLSM EAKIKQEITE GELKAFMTAP GGKKTPAMRK VLYPCRFCNQ VFAFSGVLRA
+     HVRSHLGISP YQCNICDYIA ADKAALIRHL RTHSGERPYI CKICHYPFTV KANCERHLRK
+     KHLKATRKDI EKNIEYVSSS AAELVDAFCA PDTVCRLCGE DLKHYRALRI HMRTHCGRGL
+     GGGHKGRKPF ECKECSAAFA AKRNCIHHIL KQHLHVPEQD IESYVLAADG LGPAEAPAAE
+     ASGRGEDSGC AALGDCKPLT AFLEPQNGFL HRGPTQPPPP HVSIKLEPAS SFAVDFNEPL
+     DFSQKGLALV QVKQENISFL SPSSLVPYDC SMEPIDLSIP KNFRKGDKDL ATPSEAKKPE
+     EEAGSSEQPS PCPAPGPSLP VTLGPSGILE SPMAPAPAAT PEPPAQPLQG PVQLAVPIYS
+     SALVSSPPLV GSSALLSGTA LLRPLRPKPP LLLPKPPVTE ELPPLASIAQ IISSVSSAPT
+     LLKTKVADPG PASTGSNTTA SDSLGGSVPK AATTATPAAT TSPKESSEPP APASSPEAAS
+     PTEQGPAGTS KKRGRKRGMR SRPRANSGGV DLDSSGEFAS IEKMLATTDT NKFSPFLQTA
+     EDNTQDEVAG APADHHGPSD EEQGSPPEDK LLRAKRNSYT NCLQKITCPH CPRVFPWASS
+     LQRHMLTHTD SQSDAETAAA AGEVLDLTSR DREQPSEGAT ELRQVAGDAP VEQATAETAS
+     PVHREEHGRG ESHEPEEEHG TEESTGDADG AEEDASSNQS LDLDFATKLM DFKLAEGDGE
+     AGAGGAASQE QKLACDTCGK SFKFLGTLSR HRKAHGRQEP KDEKGDGAST AEEGPQPAPE
+     QEEKPPETPA EVVESAPGAG EAPAEKLAEE TEGPSDGESA AEKRSSEKSD DDKKPKTDSP
+     KSVASKADKR KKVCSVCNKR FWSLQDLTRH MRSHTGERPY KCQTCERTFT LKHSLVRHQR
+     IHQKARHAKH HGKDSDKEER GEEDSENEST HSGNNAVSEN EAELAPNASN HMAVTRSRKE
+     GLASATKDCS HREEKVTAGW PSEPGQGDLN PESPAALGQD LLEPRSKRPA HPILATADGA
+     SQLVGME
+//

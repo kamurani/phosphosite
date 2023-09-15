@@ -1,0 +1,337 @@
+ID   CO6A6_HUMAN             Reviewed;        2263 AA.
+AC   A6NMZ7; A7DZQ0; A7DZQ1; A7DZQ2; Q69YT0;
+DT   20-MAY-2008, integrated into UniProtKB/Swiss-Prot.
+DT   20-MAY-2008, sequence version 2.
+DT   28-JUN-2023, entry version 126.
+DE   RecName: Full=Collagen alpha-6(VI) chain;
+DE   Flags: Precursor;
+GN   Name=COL6A6;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=18276594; DOI=10.1074/jbc.m709540200;
+RA   Gara S.K., Grumati P., Urciuolo A., Bonaldo P., Kobbe B., Koch M.,
+RA   Paulsson M., Wagener R.;
+RT   "Three novel collagen VI chains with high homology to the alpha 3 chain.";
+RL   J. Biol. Chem. 283:10658-10670(2008).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R., Buhay C.J.,
+RA   Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R., Gunaratne P.,
+RA   Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V., Hume J., Jackson A.,
+RA   Khan Z.M., Kovar-Smith C., Lewis L.R., Lozado R.J., Metzker M.L.,
+RA   Milosavljevic A., Miner G.R., Morgan M.B., Nazareth L.V., Scott G.,
+RA   Sodergren E., Song X.-Z., Steffen D., Wei S., Wheeler D.A., Wright M.W.,
+RA   Worley K.C., Yuan Y., Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M.,
+RA   Brown M.J., Chen G., Chen Z., Clendenning J., Clerc-Blankenburg K.P.,
+RA   Chen R., Chen Z., Davis C., Delgado O., Dinh H.H., Dong W., Draper H.,
+RA   Ernst S., Fu G., Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J.,
+RA   Hao B., Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W.,
+RA   Jackson L.R., Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B.,
+RA   Liu J., Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O.,
+RA   Palmeiri A., Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J., Zhang X.,
+RA   Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H., Reinhardt R.,
+RA   Naylor S.L., Yang H., Olson M., Weinstock G., Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1364-2263 (ISOFORM 2).
+RC   TISSUE=Lymph node;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [4]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-198; ASN-275; ASN-288; ASN-930;
+RP   ASN-988 AND ASN-1290.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+CC   -!- FUNCTION: Collagen VI acts as a cell-binding protein. {ECO:0000250}.
+CC   -!- SUBUNIT: Trimers composed of three different chains: alpha-1(VI),
+CC       alpha-2(VI), and alpha-3(VI) or alpha-5(VI) or alpha-6(VI).
+CC       {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space, extracellular
+CC       matrix {ECO:0000250}. Note=Deposed in the extracellular matrix of
+CC       skeletal muscle. {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=A6NMZ7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=A6NMZ7-2; Sequence=VSP_033914, VSP_033915;
+CC   -!- PTM: Prolines at the third position of the tripeptide repeating unit
+CC       (G-X-Y) are hydroxylated in some or all of the chains. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the type VI collagen family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AM774225; CAO81741.1; -; mRNA.
+DR   EMBL; AM774226; CAO81739.1; -; mRNA.
+DR   EMBL; AM774227; CAO81740.1; -; mRNA.
+DR   EMBL; AC093006; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC128683; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL713792; CAH10639.2; -; mRNA.
+DR   CCDS; CCDS46911.1; -. [A6NMZ7-1]
+DR   RefSeq; NP_001096078.1; NM_001102608.1. [A6NMZ7-1]
+DR   RefSeq; XP_005247178.1; XM_005247121.4. [A6NMZ7-1]
+DR   RefSeq; XP_011510727.1; XM_011512425.2.
+DR   RefSeq; XP_011510728.1; XM_011512426.2. [A6NMZ7-1]
+DR   RefSeq; XP_011510730.1; XM_011512428.2.
+DR   RefSeq; XP_016861200.1; XM_017005711.1. [A6NMZ7-1]
+DR   RefSeq; XP_016861201.1; XM_017005712.1. [A6NMZ7-1]
+DR   RefSeq; XP_016861202.1; XM_017005713.1. [A6NMZ7-1]
+DR   RefSeq; XP_016861203.1; XM_017005714.1. [A6NMZ7-1]
+DR   RefSeq; XP_016861204.1; XM_017005715.1.
+DR   AlphaFoldDB; A6NMZ7; -.
+DR   SMR; A6NMZ7; -.
+DR   BioGRID; 126296; 2.
+DR   IntAct; A6NMZ7; 2.
+DR   STRING; 9606.ENSP00000351310; -.
+DR   ChEMBL; CHEMBL2364188; -.
+DR   GlyConnect; 1140; 8 N-Linked glycans (4 sites).
+DR   GlyCosmos; A6NMZ7; 10 sites, 8 glycans.
+DR   GlyGen; A6NMZ7; 10 sites, 8 N-linked glycans (4 sites).
+DR   iPTMnet; A6NMZ7; -.
+DR   PhosphoSitePlus; A6NMZ7; -.
+DR   SwissPalm; A6NMZ7; -.
+DR   BioMuta; COL6A6; -.
+DR   EPD; A6NMZ7; -.
+DR   jPOST; A6NMZ7; -.
+DR   MassIVE; A6NMZ7; -.
+DR   MaxQB; A6NMZ7; -.
+DR   PaxDb; A6NMZ7; -.
+DR   PeptideAtlas; A6NMZ7; -.
+DR   ProteomicsDB; 1573; -. [A6NMZ7-1]
+DR   ProteomicsDB; 1574; -. [A6NMZ7-2]
+DR   Antibodypedia; 56016; 62 antibodies from 11 providers.
+DR   DNASU; 131873; -.
+DR   Ensembl; ENST00000358511.11; ENSP00000351310.6; ENSG00000206384.11. [A6NMZ7-1]
+DR   GeneID; 131873; -.
+DR   KEGG; hsa:131873; -.
+DR   MANE-Select; ENST00000358511.11; ENSP00000351310.6; NM_001102608.3; NP_001096078.1.
+DR   UCSC; uc010htl.4; human. [A6NMZ7-1]
+DR   AGR; HGNC:27023; -.
+DR   CTD; 131873; -.
+DR   DisGeNET; 131873; -.
+DR   GeneCards; COL6A6; -.
+DR   HGNC; HGNC:27023; COL6A6.
+DR   HPA; ENSG00000206384; Tissue enriched (parathyroid).
+DR   MIM; 616613; gene.
+DR   neXtProt; NX_A6NMZ7; -.
+DR   OpenTargets; ENSG00000206384; -.
+DR   PharmGKB; PA165697087; -.
+DR   VEuPathDB; HostDB:ENSG00000206384; -.
+DR   eggNOG; KOG3544; Eukaryota.
+DR   GeneTree; ENSGT00940000155619; -.
+DR   HOGENOM; CLU_000182_0_0_1; -.
+DR   InParanoid; A6NMZ7; -.
+DR   OMA; NFIRNTS; -.
+DR   OrthoDB; 5359724at2759; -.
+DR   PhylomeDB; A6NMZ7; -.
+DR   TreeFam; TF318242; -.
+DR   PathwayCommons; A6NMZ7; -.
+DR   Reactome; R-HSA-1442490; Collagen degradation.
+DR   Reactome; R-HSA-1650814; Collagen biosynthesis and modifying enzymes.
+DR   Reactome; R-HSA-186797; Signaling by PDGF.
+DR   Reactome; R-HSA-2022090; Assembly of collagen fibrils and other multimeric structures.
+DR   Reactome; R-HSA-216083; Integrin cell surface interactions.
+DR   Reactome; R-HSA-3000178; ECM proteoglycans.
+DR   Reactome; R-HSA-419037; NCAM1 interactions.
+DR   Reactome; R-HSA-8948216; Collagen chain trimerization.
+DR   SignaLink; A6NMZ7; -.
+DR   SIGNOR; A6NMZ7; -.
+DR   BioGRID-ORCS; 131873; 9 hits in 1139 CRISPR screens.
+DR   ChiTaRS; COL6A6; human.
+DR   GenomeRNAi; 131873; -.
+DR   Pharos; A6NMZ7; Tbio.
+DR   PRO; PR:A6NMZ7; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; A6NMZ7; protein.
+DR   Bgee; ENSG00000206384; Expressed in buccal mucosa cell and 93 other tissues.
+DR   ExpressionAtlas; A6NMZ7; baseline and differential.
+DR   Genevisible; A6NMZ7; HS.
+DR   GO; GO:0005581; C:collagen trimer; IEA:UniProtKB-KW.
+DR   GO; GO:0062023; C:collagen-containing extracellular matrix; HDA:BHF-UCL.
+DR   GO; GO:0031012; C:extracellular matrix; IDA:MGI.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   CDD; cd01472; vWA_collagen; 3.
+DR   CDD; cd01450; vWFA_subfamily_ECM; 3.
+DR   Gene3D; 1.20.5.320; 6-Phosphogluconate Dehydrogenase, domain 3; 1.
+DR   Gene3D; 3.40.50.410; von Willebrand factor, type A domain; 8.
+DR   InterPro; IPR008160; Collagen.
+DR   InterPro; IPR002035; VWF_A.
+DR   InterPro; IPR036465; vWFA_dom_sf.
+DR   PANTHER; PTHR22588:SF5; COLLAGEN ALPHA-6(VI) CHAIN; 1.
+DR   PANTHER; PTHR22588; UNCHARACTERIZED; 1.
+DR   Pfam; PF01391; Collagen; 1.
+DR   Pfam; PF00092; VWA; 8.
+DR   PRINTS; PR00453; VWFADOMAIN.
+DR   SMART; SM00327; VWA; 9.
+DR   SUPFAM; SSF53300; vWA-like; 9.
+DR   PROSITE; PS50234; VWFA; 9.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell adhesion; Collagen; Extracellular matrix;
+KW   Glycoprotein; Hydroxylation; Reference proteome; Repeat; Secreted; Signal.
+FT   SIGNAL          1..19
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           20..2263
+FT                   /note="Collagen alpha-6(VI) chain"
+FT                   /id="PRO_5000266306"
+FT   DOMAIN          27..206
+FT                   /note="VWFA 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          229..411
+FT                   /note="VWFA 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          436..606
+FT                   /note="VWFA 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          622..791
+FT                   /note="VWFA 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          809..982
+FT                   /note="VWFA 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          1000..1171
+FT                   /note="VWFA 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          1187..1371
+FT                   /note="VWFA 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          1757..1937
+FT                   /note="VWFA 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   DOMAIN          1965..2166
+FT                   /note="VWFA 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   REGION          20..1391
+FT                   /note="Nonhelical region"
+FT   REGION          1392..1725
+FT                   /note="Triple-helical region"
+FT   REGION          1397..1723
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1726..2263
+FT                   /note="Nonhelical region"
+FT   MOTIF           1508..1510
+FT                   /note="Cell attachment site"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        198
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        275
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        288
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        347
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        520
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        930
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        988
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        1290
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218"
+FT   VAR_SEQ         1512..1520
+FT                   /note="GAPGVDSSI -> VSARAANWS (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_033914"
+FT   VAR_SEQ         1521..2263
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_033915"
+FT   VARIANT         345
+FT                   /note="E -> K (in dbSNP:rs4613427)"
+FT                   /id="VAR_043609"
+FT   VARIANT         370
+FT                   /note="A -> T (in dbSNP:rs9830253)"
+FT                   /id="VAR_043610"
+FT   VARIANT         461
+FT                   /note="E -> A (in dbSNP:rs11921769)"
+FT                   /id="VAR_043611"
+FT   VARIANT         556
+FT                   /note="P -> S (in dbSNP:rs59021909)"
+FT                   /id="VAR_061120"
+FT   VARIANT         1739
+FT                   /note="R -> Q (in dbSNP:rs16830494)"
+FT                   /id="VAR_043612"
+FT   VARIANT         1799
+FT                   /note="H -> R (in dbSNP:rs7614116)"
+FT                   /id="VAR_043613"
+FT   CONFLICT        1429
+FT                   /note="A -> V (in Ref. 3; CAH10639)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   2263 AA;  247173 MW;  EED4F30ABAED7F30 CRC64;
+     MMLLILFLVI ICSHISVNQD SGPEYADVVF LVDSSDRLGS KSFPFVKMFI TKMISSLPIE
+     ADKYRVALAQ YSDKLHSEFH LSTFKGRSPM LNHLRKNFGF IGGSLQIGKA LQEAHRTYFS
+     APANGRDKKQ FPPILVVLAS SESEDNVEEA SKALRKDGVK IISVGVQKAS EENLKAMATS
+     QFHFNLRTVR DLSMFSQNMT HIIKDVIKYK EGAVDDIFVE ACQGPSMADV VFLLDMSING
+     SEENFDYLKG FLEESVSALD IKENCMRVGL VAYSNETKVI NSLSMGINKS EVLQHIQNLS
+     PRTGKAYTGA AIKKLRKEVF SARNGSRKNQ GVPQIAVLVT HRDSEDNVTK AAVNLRREGV
+     TIFTLGIEGA SDTQLEKIAS HPAEQYVSKL KTFADLAAHN QTFLKKLRNQ ITHTVSVFSE
+     RTETLKSGCV DTEEADIYLL IDGSGSTQAT DFHEMKTFLS EVVGMFNIAP HKVRVGAVQY
+     ADSWDLEFEI NKYSNKQDLG KAIENIRQMG GNTNTGAALN FTLSLLQKAK KQRGNKVPCH
+     LVVLTNGMSK DSILEPANRL REEHIRVYAI GIKEANQTQL REIAGEEKRV YYVHDFDALK
+     DIRNQVVQEI CTEEACKEMK ADIMFLVDSS GSIGPENFSK MKTFMKNLVS KSQIGPDRVQ
+     IGVVQFSDIN KEEFQLNRFM SQSDISNAID QMAHIGQTTL TGSALSFVSQ YFSPTKGARP
+     NIRKFLILIT DGEAQDIVKE PAVVLRQEGV IIYSVGVFGS NVTQLEEISG RPEMVFYVEN
+     FDILQRIEDD LVFGICSPRE ECKRIEVLDV VFVIDSSGSI DYDEYNIMKD FMIGLVKKAD
+     VGKNQVRFGA LKYADDPEVL FYLDDFGTKL EVISVLQNDQ AMGGSTYTAE ALGFSDHMFT
+     EARGSRLNKG VPQVLIVITD GESHDADKLN ATAKALRDKG ILVLAVGIDG ANPVELLAMA
+     GSSDKYFFVE TFGGLKGIFS DVTASVCNSS KVDCEIDKVD LVFLMDGSTS IQPNDFKKMK
+     EFLASVVQDF DVSLNRVRIG AAQFSDTYHP EFPLGTFIGE KEISFQIENI KQIFGNTHIG
+     AALREVEHYF RPDMGSRINT GTPQVLLVLT DGQSQDEVAQ AAEALRHRGI DIYSVGIGDV
+     DDQQLIQITG TAEKKLTVHN FDELKKVNKR IVRNICTTAG ESNCFVDVVV GFDVSTQEKG
+     QTLLEGQPWM ETYLQDILRA ISSLNGVSCE VGTETQVSVA FQVTNAMEKY SPKFEIYSEN
+     ILNSLKDITV KGPSLLNANL LDSLWDTFQN KSAARGKVVL LFSDGLDDDV EKLEQKSDEL
+     RKEGLNALIT VALDGPADSS DLADLPYIEF GKGFEYRTQL SIGMRELGSR LSKQLVNVAE
+     RTCCCLFCKC IGGDGTMGDP GPPGKRGPPG FKGSEGYLGE EGIAGERGAP GPVGEQGTKG
+     CYGTKGPKGN RGLNGQEGEV GENGIDGLNG EQGDNGLPGR KGEKGDEGSQ GSPGKRGTPG
+     DRGAKGLRGD PGAPGVDSSI EGPTGLKGER GRQGRRGWPG PPGTPGSRRK TAAHGRRGHT
+     GPQGTAGIPG PDGLEGSLGL KGPQGPRGEA GVKGEKGGVG SKGPQGPPGP GGEAGNQGRL
+     GSQGNKGEPG DLGEKGAVGF PGPRGLQGND GSPGYGSVGR KGAKGQEGFP GESGPKGEIG
+     DPGGPGETGL KGARGKMISA GLPGEMGSPG EPGPPGRKGV KGAKGLASFS TCELIQYVRD
+     RSPGRHGKPE CPVHPTELVF ALDHSRDVTE QEFERMKEMM AFLVRDIKVR ENSCPVGAHI
+     AILSYNSHAR HLVRFSDAYK KSQLLREIET IPYERSSASR EIGRAMRFIS RNVFKRTLPG
+     AHTRKIATFF SSGQSADAHS ITTAAMEFGA LEIIPVVITF SNVPSVRRAF AIDDTGTFQV
+     IVVPSGADYI PALERLQRCT FCYDVCKPDA SCDQARPPPV QSYMDAAFLL DASRNMGSAE
+     FEDIRAFLGA LLDHFEITPE PETSVTGDRV ALLSHAPPDF LPNTQKSPVR AEFNLTTYRS
+     KRLMKRHVHE SVKQLNGDAF IGHALQWTLD NVFLSTPNLR RNKVIFVISA GETSHLDGEI
+     LKKESLRAKC QGYALFVFSL GPIWDDKELE DLASHPLDHH LVQLGRIHKP DHSYGVKFVK
+     SFINSIRRAI NKYPPINLKI KCNRLNSIDP KQPPRPFRSF VPGPLKATLK EDVLQKAKFF
+     QDKKYLSRVA RSGRDDAIQN FMRSTSHTFK NGRMIESAPK QHD
+//

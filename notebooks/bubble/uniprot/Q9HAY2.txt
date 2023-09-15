@@ -1,0 +1,211 @@
+ID   MAGF1_HUMAN             Reviewed;         307 AA.
+AC   Q9HAY2; Q9H215;
+DT   02-NOV-2001, integrated into UniProtKB/Swiss-Prot.
+DT   13-JUL-2010, sequence version 2.
+DT   28-JUN-2023, entry version 140.
+DE   RecName: Full=Melanoma-associated antigen F1 {ECO:0000305};
+DE            Short=MAGE-F1 {ECO:0000303|PubMed:11313144, ECO:0000303|PubMed:29225034};
+DE   AltName: Full=MAGE-F1 antigen;
+GN   Name=MAGEF1 {ECO:0000312|HGNC:HGNC:29639};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RX   PubMed=11313144; DOI=10.1016/s0378-1119(01)00406-1;
+RA   Stone B., Schummer M., Paley P.J., Crawford M., Ford M., Urban N.,
+RA   Nelson B.H.;
+RT   "MAGE-F1, a novel ubiquitously expressed member of the MAGE superfamily.";
+RL   Gene 267:173-182(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R., Buhay C.J.,
+RA   Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R., Gunaratne P.,
+RA   Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V., Hume J., Jackson A.,
+RA   Khan Z.M., Kovar-Smith C., Lewis L.R., Lozado R.J., Metzker M.L.,
+RA   Milosavljevic A., Miner G.R., Morgan M.B., Nazareth L.V., Scott G.,
+RA   Sodergren E., Song X.-Z., Steffen D., Wei S., Wheeler D.A., Wright M.W.,
+RA   Worley K.C., Yuan Y., Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M.,
+RA   Brown M.J., Chen G., Chen Z., Clendenning J., Clerc-Blankenburg K.P.,
+RA   Chen R., Chen Z., Davis C., Delgado O., Dinh H.H., Dong W., Draper H.,
+RA   Ernst S., Fu G., Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J.,
+RA   Hao B., Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W.,
+RA   Jackson L.R., Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B.,
+RA   Liu J., Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O.,
+RA   Palmeiri A., Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J., Zhang X.,
+RA   Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H., Reinhardt R.,
+RA   Naylor S.L., Yang H., Olson M., Weinstock G., Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-283.
+RC   TISSUE=Kidney;
+RX   PubMed=11454705;
+RA   Chomez P., De Backer O., Bertrand M., De Plaen E., Boon T., Lucas S.;
+RT   "An overview of the MAGE gene family with the identification of all human
+RT   members of the family.";
+RL   Cancer Res. 61:5544-5551(2001).
+RN   [5]
+RP   FUNCTION, AND INTERACTION WITH LNX1; TRIM27 AND NSMCE1.
+RX   PubMed=20864041; DOI=10.1016/j.molcel.2010.08.029;
+RA   Doyle J.M., Gao J., Wang J., Yang M., Potts P.R.;
+RT   "MAGE-RING protein complexes comprise a family of E3 ubiquitin ligases.";
+RL   Mol. Cell 39:963-974(2010).
+RN   [6]
+RP   FUNCTION, INTERACTION WITH NSMCE1, AND MUTAGENESIS OF 87-LYS-LYS-88.
+RX   PubMed=29225034; DOI=10.1016/j.molcel.2017.11.010;
+RA   Weon J.L., Yang S.W., Potts P.R.;
+RT   "Cytosolic Iron-Sulfur Assembly Is Evolutionarily Tuned by a Cancer-
+RT   Amplified Ubiquitin Ligase.";
+RL   Mol. Cell 69:113-125(2018).
+CC   -!- FUNCTION: Enhances ubiquitin ligase activity of RING-type zinc finger-
+CC       containing E3 ubiquitin ligases. Proposed to act through recruitment
+CC       and/or stabilization of the E2 ubiquitin-conjugating enzyme at the
+CC       E3:substrate complex. MAGEF1-NSMCE1 ubiquitin ligase complex promotes
+CC       proteasomal degradation of MMS19, a key component of the cytosolic
+CC       iron-sulfur protein assembly (CIA) machinery. Down-regulation of MMS19
+CC       impairs the activity of several DNA repair and metabolism enzymes such
+CC       as ERCC2/XPD, FANCJ, RTEL1 and POLD1 that require iron-sulfur clusters
+CC       as cofactors. May negatively regulate genome integrity by inhibiting
+CC       homologous recombination-mediated double-strand break DNA repair
+CC       (PubMed:29225034). {ECO:0000269|PubMed:20864041,
+CC       ECO:0000269|PubMed:29225034}.
+CC   -!- SUBUNIT: Interacts (via MAGE domain) with RING-type zinc finger-
+CC       containing E3 ubiquitin-protein ligases LNX1, TRIM27 and NSMCE1; the
+CC       interaction is direct. {ECO:0000269|PubMed:20864041,
+CC       ECO:0000269|PubMed:29225034}.
+CC   -!- INTERACTION:
+CC       Q9HAY2; Q99750: MDFI; NbExp=4; IntAct=EBI-5525855, EBI-724076;
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:11313144}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF295378; AAG30208.1; -; mRNA.
+DR   EMBL; AC107294; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC010056; AAH10056.1; -; mRNA.
+DR   EMBL; AF320910; AAG38606.1; -; mRNA.
+DR   CCDS; CCDS3269.1; -.
+DR   RefSeq; NP_071432.2; NM_022149.4.
+DR   AlphaFoldDB; Q9HAY2; -.
+DR   SMR; Q9HAY2; -.
+DR   BioGRID; 122067; 35.
+DR   IntAct; Q9HAY2; 6.
+DR   STRING; 9606.ENSP00000315064; -.
+DR   iPTMnet; Q9HAY2; -.
+DR   PhosphoSitePlus; Q9HAY2; -.
+DR   BioMuta; MAGEF1; -.
+DR   DMDM; 300669649; -.
+DR   EPD; Q9HAY2; -.
+DR   MassIVE; Q9HAY2; -.
+DR   PaxDb; Q9HAY2; -.
+DR   PeptideAtlas; Q9HAY2; -.
+DR   ProteomicsDB; 81457; -.
+DR   Antibodypedia; 33826; 175 antibodies from 28 providers.
+DR   DNASU; 64110; -.
+DR   Ensembl; ENST00000317897.5; ENSP00000315064.3; ENSG00000177383.5.
+DR   GeneID; 64110; -.
+DR   KEGG; hsa:64110; -.
+DR   MANE-Select; ENST00000317897.5; ENSP00000315064.3; NM_022149.5; NP_071432.2.
+DR   UCSC; uc003fpa.4; human.
+DR   AGR; HGNC:29639; -.
+DR   CTD; 64110; -.
+DR   DisGeNET; 64110; -.
+DR   GeneCards; MAGEF1; -.
+DR   HGNC; HGNC:29639; MAGEF1.
+DR   HPA; ENSG00000177383; Low tissue specificity.
+DR   MIM; 609267; gene.
+DR   neXtProt; NX_Q9HAY2; -.
+DR   OpenTargets; ENSG00000177383; -.
+DR   PharmGKB; PA134920978; -.
+DR   VEuPathDB; HostDB:ENSG00000177383; -.
+DR   eggNOG; KOG4562; Eukaryota.
+DR   GeneTree; ENSGT00940000163736; -.
+DR   HOGENOM; CLU_039582_2_0_1; -.
+DR   InParanoid; Q9HAY2; -.
+DR   OMA; TNPPEYE; -.
+DR   OrthoDB; 3128316at2759; -.
+DR   PhylomeDB; Q9HAY2; -.
+DR   TreeFam; TF328505; -.
+DR   PathwayCommons; Q9HAY2; -.
+DR   SignaLink; Q9HAY2; -.
+DR   BioGRID-ORCS; 64110; 12 hits in 1156 CRISPR screens.
+DR   ChiTaRS; MAGEF1; human.
+DR   GenomeRNAi; 64110; -.
+DR   Pharos; Q9HAY2; Tdark.
+DR   PRO; PR:Q9HAY2; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q9HAY2; protein.
+DR   Bgee; ENSG00000177383; Expressed in ganglionic eminence and 191 other tissues.
+DR   Genevisible; Q9HAY2; HS.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:2000042; P:negative regulation of double-strand break repair via homologous recombination; IDA:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:2000060; P:positive regulation of ubiquitin-dependent protein catabolic process; IDA:UniProtKB.
+DR   GO; GO:0097428; P:protein maturation by iron-sulfur cluster transfer; IDA:UniProtKB.
+DR   GO; GO:0016567; P:protein ubiquitination; IDA:UniProtKB.
+DR   Gene3D; 1.10.10.1200; MAGE homology domain, winged helix WH1 motif; 1.
+DR   Gene3D; 1.10.10.1210; MAGE homology domain, winged helix WH2 motif; 1.
+DR   InterPro; IPR037445; MAGE.
+DR   InterPro; IPR041898; MAGE_WH1.
+DR   InterPro; IPR041899; MAGE_WH2.
+DR   InterPro; IPR002190; MHD_dom.
+DR   PANTHER; PTHR11736:SF61; MELANOMA-ASSOCIATED ANTIGEN F1; 1.
+DR   PANTHER; PTHR11736; MELANOMA-ASSOCIATED ANTIGEN MAGE ANTIGEN; 1.
+DR   Pfam; PF01454; MAGE; 1.
+DR   SMART; SM01373; MAGE; 1.
+DR   PROSITE; PS50838; MAGE; 1.
+PE   1: Evidence at protein level;
+KW   Reference proteome; Tumor antigen; Ubl conjugation pathway.
+FT   CHAIN           1..307
+FT                   /note="Melanoma-associated antigen F1"
+FT                   /id="PRO_0000156732"
+FT   DOMAIN          76..277
+FT                   /note="MAGE"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00127"
+FT   REGION          1..55
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        17..53
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VARIANT         93
+FT                   /note="K -> R (in dbSNP:rs34540780)"
+FT                   /id="VAR_057651"
+FT   MUTAGEN         87..88
+FT                   /note="Missing: Loss of interaction with NSMCE1."
+FT                   /evidence="ECO:0000269|PubMed:29225034"
+FT   CONFLICT        66
+FT                   /note="A -> S (in Ref. 1; AAG30208, 2; AAG38606 and 3;
+FT                   AAH10056)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        158
+FT                   /note="E -> EE (in Ref. 1; AAG30208, 2; AAG38606 and 3;
+FT                   AAH10056)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        236
+FT                   /note="E -> A (in Ref. 1; AAG30208, 2; AAG38606 and 3;
+FT                   AAH10056)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   307 AA;  35222 MW;  8CB673B3FF7921EE CRC64;
+     MLQTPESRGL PVPQAEGEKD GGHDGETRAP TASQERPKEE LGAGREEGAA EPALTRKGAR
+     ALAAKALARR RAYRRLNRTV AELVQFLLVK DKKKSPITRS EMVKYVIGDL KILFPDIIAR
+     AAEHLRYVFG FELKQFDRKH HTYILINKLK PLEEEEEEDL GGDGPRLGLL MMILGLIYMR
+     GNSAREAQVW EMLRRLGVQP SKYHFLFGYP KRLIMEDFVQ QRYLSYRRVP HTNPPEYEFS
+     WGPRSNLEIS KMEVLGFVAK LHKKEPQHWP VQYREALADE ADRARAKARA EASMRARASA
+     RAGIHLW
+//

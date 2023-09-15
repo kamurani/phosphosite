@@ -1,0 +1,121 @@
+ID   F200B_HUMAN             Reviewed;         657 AA.
+AC   P0CF97;
+DT   18-MAY-2010, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 1.
+DT   28-JUN-2023, entry version 75.
+DE   RecName: Full=Protein FAM200B {ECO:0000305};
+GN   Name=FAM200B {ECO:0000312|HGNC:HGNC:27740};
+GN   Synonyms=C4orf53 {ECO:0000312|HGNC:HGNC:27740};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+CC   -!- SIMILARITY: Belongs to the FAM200 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC114744; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS47028.1; -.
+DR   RefSeq; NP_001138663.1; NM_001145191.1.
+DR   RefSeq; XP_016863537.1; XM_017008048.1.
+DR   AlphaFoldDB; P0CF97; -.
+DR   BioGRID; 130142; 3.
+DR   STRING; 9606.ENSP00000483930; -.
+DR   GlyGen; P0CF97; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P0CF97; -.
+DR   PhosphoSitePlus; P0CF97; -.
+DR   BioMuta; FAM200B; -.
+DR   DMDM; 296439620; -.
+DR   MassIVE; P0CF97; -.
+DR   PaxDb; P0CF97; -.
+DR   PeptideAtlas; P0CF97; -.
+DR   ProteomicsDB; 52445; -.
+DR   DNASU; 285550; -.
+DR   Ensembl; ENST00000422728.3; ENSP00000393017.2; ENSG00000237765.8.
+DR   GeneID; 285550; -.
+DR   KEGG; hsa:285550; -.
+DR   MANE-Select; ENST00000422728.3; ENSP00000393017.2; NM_001145191.2; NP_001138663.1.
+DR   UCSC; uc003gof.5; human.
+DR   AGR; HGNC:27740; -.
+DR   CTD; 285550; -.
+DR   DisGeNET; 285550; -.
+DR   GeneCards; FAM200B; -.
+DR   HGNC; HGNC:27740; FAM200B.
+DR   HPA; ENSG00000237765; Low tissue specificity.
+DR   neXtProt; NX_P0CF97; -.
+DR   OpenTargets; ENSG00000237765; -.
+DR   PharmGKB; PA165664101; -.
+DR   VEuPathDB; HostDB:ENSG00000237765; -.
+DR   eggNOG; ENOG502QT83; Eukaryota.
+DR   GeneTree; ENSGT00940000164387; -.
+DR   HOGENOM; CLU_021316_5_0_1; -.
+DR   InParanoid; P0CF97; -.
+DR   OMA; YMFPRFL; -.
+DR   OrthoDB; 4259183at2759; -.
+DR   PhylomeDB; P0CF97; -.
+DR   TreeFam; TF328297; -.
+DR   PathwayCommons; P0CF97; -.
+DR   SignaLink; P0CF97; -.
+DR   BioGRID-ORCS; 285550; 52 hits in 1116 CRISPR screens.
+DR   ChiTaRS; FAM200B; human.
+DR   GenomeRNAi; 285550; -.
+DR   Pharos; P0CF97; Tdark.
+DR   PRO; PR:P0CF97; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; P0CF97; protein.
+DR   Bgee; ENSG00000237765; Expressed in monocyte and 176 other tissues.
+DR   ExpressionAtlas; P0CF97; baseline and differential.
+DR   Genevisible; P0CF97; HS.
+DR   InterPro; IPR026630; EPM2A-int_1/ZBED8-like.
+DR   InterPro; IPR012337; RNaseH-like_sf.
+DR   PANTHER; PTHR45913:SF16; -; 1.
+DR   PANTHER; PTHR45913; EPM2A-INTERACTING PROTEIN 1; 1.
+DR   SUPFAM; SSF53098; Ribonuclease H-like; 1.
+PE   3: Inferred from homology;
+KW   Reference proteome.
+FT   CHAIN           1..657
+FT                   /note="Protein FAM200B"
+FT                   /id="PRO_0000394262"
+SQ   SEQUENCE   657 AA;  76034 MW;  BCAD05E23FEFD376 CRC64;
+     MDHFFIKRKR NSEVKYTEAC SSSSVESGIV NSDNIEKNTD SNLQTSTSFE PHFKKKKVSA
+     RRYNEDYLKY GFIKCEKPFE NDRPQCVICN NILANESLKP SKLKRHLETQ HAELIDKPLE
+     YFQRKKKDIK LSTQFLSCST AVSEKALLSS YLVAYRVAKE KIANTAAEKI ILPACLDMVR
+     TIFDDKSADK LKTIPNDNTV SLRICTIAEH LETMLITRLQ SGIDFAIQLD ESTDIGSCTT
+     LLVYVRYAWQ DDFLEDFLCF LNLTSHLSGL DIFTELERRI VGQYKLNWKN CKGITSDGTA
+     TMTGKHSRVI KKLLEVTNNG AVWNHCFIHR EGLASREIPQ NLMEVLKNAV KVVNFIKGSS
+     LNSRLLETFC SEIGTNHTHL LYHTKIRWLS QGKILSRVYE LRNEIHFFLI EKKSHLASIF
+     EDDTWVTKLA YLTDIFSILN ELSLKLQGKN SDVFQHVERI QGFRKTLLLW QVRLKSNRPS
+     YYMFPRFLQH IEENIINENI LKEIKLEILL HLTSLSQTFN HFFPEEKFET LRENSWVKDP
+     FAFRHPESII ELNLVPEEEN ELLQLSSSYT LKNDYETLSL SAFWMKVKED FPLLSRKSVL
+     LLLPFTTTSL CELGFSILTQ LKTKERNGLN CAAVMRVALS SCVPDWNELM NRQAHPS
+//

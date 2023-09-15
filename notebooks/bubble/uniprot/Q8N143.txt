@@ -1,0 +1,193 @@
+ID   BCL6B_HUMAN             Reviewed;         479 AA.
+AC   Q8N143; Q6PCB4;
+DT   27-SEP-2004, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 156.
+DE   RecName: Full=B-cell CLL/lymphoma 6 member B protein;
+DE   AltName: Full=Bcl6-associated zinc finger protein;
+DE   AltName: Full=Zinc finger protein 62;
+GN   Name=BCL6B; Synonyms=BAZF, ZNF62;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA], FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=11855826; DOI=10.1006/bbrc.2002.6481;
+RA   Sakashita C., Fukuda T., Okabe S., Kobayashi H., Hirosawa S., Tokuhisa T.,
+RA   Miyasaka N., Miura O., Miki T.;
+RT   "Cloning and characterization of the human BAZF gene, a homologue of the
+RT   BCL6 oncogene.";
+RL   Biochem. Biophys. Res. Commun. 291:567-573(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Acts as a sequence-specific transcriptional repressor in
+CC       association with BCL6. May function in a narrow stage or be related to
+CC       some events in the early B-cell development.
+CC       {ECO:0000269|PubMed:11855826}.
+CC   -!- SUBUNIT: Associates with BCL6 through the BTB domain. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed with higher expression found
+CC       in heart and placenta. {ECO:0000269|PubMed:11855826}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB076580; BAC00962.1; -; mRNA.
+DR   EMBL; AB076581; BAC00963.1; -; Genomic_DNA.
+DR   EMBL; AC040977; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC059404; AAH59404.1; -; mRNA.
+DR   CCDS; CCDS42248.1; -.
+DR   PIR; JC7812; JC7812.
+DR   RefSeq; NP_862827.1; NM_181844.3.
+DR   AlphaFoldDB; Q8N143; -.
+DR   SMR; Q8N143; -.
+DR   BioGRID; 129125; 33.
+DR   IntAct; Q8N143; 2.
+DR   STRING; 9606.ENSP00000293805; -.
+DR   iPTMnet; Q8N143; -.
+DR   PhosphoSitePlus; Q8N143; -.
+DR   BioMuta; BCL6B; -.
+DR   DMDM; 296434409; -.
+DR   jPOST; Q8N143; -.
+DR   MassIVE; Q8N143; -.
+DR   PaxDb; Q8N143; -.
+DR   PeptideAtlas; Q8N143; -.
+DR   ProteomicsDB; 71552; -.
+DR   TopDownProteomics; Q8N143; -.
+DR   Antibodypedia; 23875; 97 antibodies from 23 providers.
+DR   DNASU; 255877; -.
+DR   Ensembl; ENST00000293805.10; ENSP00000293805.5; ENSG00000161940.11.
+DR   GeneID; 255877; -.
+DR   KEGG; hsa:255877; -.
+DR   MANE-Select; ENST00000293805.10; ENSP00000293805.5; NM_181844.4; NP_862827.2.
+DR   UCSC; uc010clt.2; human.
+DR   AGR; HGNC:1002; -.
+DR   CTD; 255877; -.
+DR   DisGeNET; 255877; -.
+DR   GeneCards; BCL6B; -.
+DR   HGNC; HGNC:1002; BCL6B.
+DR   HPA; ENSG00000161940; Low tissue specificity.
+DR   MIM; 608992; gene.
+DR   neXtProt; NX_Q8N143; -.
+DR   OpenTargets; ENSG00000161940; -.
+DR   PharmGKB; PA25313; -.
+DR   VEuPathDB; HostDB:ENSG00000161940; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000159844; -.
+DR   HOGENOM; CLU_024196_2_0_1; -.
+DR   InParanoid; Q8N143; -.
+DR   OMA; VCGARFN; -.
+DR   OrthoDB; 5352496at2759; -.
+DR   PhylomeDB; Q8N143; -.
+DR   TreeFam; TF330912; -.
+DR   PathwayCommons; Q8N143; -.
+DR   SignaLink; Q8N143; -.
+DR   BioGRID-ORCS; 255877; 10 hits in 1213 CRISPR screens.
+DR   GenomeRNAi; 255877; -.
+DR   Pharos; Q8N143; Tbio.
+DR   PRO; PR:Q8N143; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q8N143; protein.
+DR   Bgee; ENSG00000161940; Expressed in upper lobe of left lung and 146 other tissues.
+DR   ExpressionAtlas; Q8N143; baseline and differential.
+DR   Genevisible; Q8N143; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IEA:Ensembl.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IEA:Ensembl.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0001817; P:regulation of cytokine production; IBA:GO_Central.
+DR   GO; GO:0002682; P:regulation of immune system process; IBA:GO_Central.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 5.
+DR   InterPro; IPR000210; BTB/POZ_dom.
+DR   InterPro; IPR011333; SKP1/BTB/POZ_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24394:SF36; BCL6A TRANSCRIPTION REPRESSOR A; 1.
+DR   PANTHER; PTHR24394; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF00651; BTB; 1.
+DR   Pfam; PF00096; zf-C2H2; 2.
+DR   SMART; SM00225; BTB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 5.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 3.
+DR   SUPFAM; SSF54695; POZ domain; 1.
+DR   PROSITE; PS50097; BTB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 5.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 5.
+PE   2: Evidence at transcript level;
+KW   Metal-binding; Nucleus; Reference proteome; Repeat; Zinc; Zinc-finger.
+FT   CHAIN           1..479
+FT                   /note="B-cell CLL/lymphoma 6 member B protein"
+FT                   /id="PRO_0000047100"
+FT   DOMAIN          38..105
+FT                   /note="BTB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00037"
+FT   ZN_FING         328..350
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         356..378
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         384..406
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         412..434
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         440..463
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          143..190
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          210..259
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        146..165
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CONFLICT        244
+FT                   /note="S -> SS (in Ref. 1; BAC00962/BAC00963 and 3;
+FT                   AAH59404)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        306
+FT                   /note="C -> S (in Ref. 3; AAH59404)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   479 AA;  51531 MW;  AB04E3331A7DB8E6 CRC64;
+     MGSPAAPEGA LGYVREFTRH SSDVLGNLNE LRLRGILTDV TLLVGGQPLR AHKAVLIACS
+     GFFYSIFRGR AGVGVDVLSL PGGPEARGFA PLLDFMYTSR LRLSPATAPA VLAAATYLQM
+     EHVVQACHRF IQASYEPLGI SLRPLEAEPP TPPTAPPPGS PRRSEGHPDP PTESRSCSQG
+     PPSPASPDPK ACNWKKYKYI VLNSQASQAG SLVGERSSGQ PCPQARLPSG DEASSSSSSS
+     SSSSEEGPIP GPQSRLSPTA ATVQFKCGAP ASTPYLLTSQ AQDTSGSPSE RARPLPGSEF
+     FSCQNCEAVA GCSSGLDSLV PGDEDKPYKC QLCRSSFRYK GNLASHRTVH TGEKPYHCSI
+     CGARFNRPAN LKTHSRIHSG EKPYKCETCG SRFVQVAHLR AHVLIHTGEK PYPCPTCGTR
+     FRHLQTLKSH VRIHTGEKPY HCDPCGLHFR HKSQLRLHLR QKHGAATNTK VHYHILGGP
+//

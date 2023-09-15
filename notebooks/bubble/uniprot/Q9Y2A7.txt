@@ -1,0 +1,572 @@
+ID   NCKP1_HUMAN             Reviewed;        1128 AA.
+AC   Q9Y2A7; O60329; Q53QN5; Q53S94; Q53Y35;
+DT   11-JAN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   28-JUN-2023, entry version 191.
+DE   RecName: Full=Nck-associated protein 1;
+DE            Short=NAP 1;
+DE   AltName: Full=Membrane-associated protein HEM-2;
+DE   AltName: Full=p125Nap1;
+GN   Name=NCKAP1; Synonyms=HEM2, KIAA0587, NAP1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=10673335; DOI=10.1006/geno.1999.6053;
+RA   Suzuki T., Nishiyama K., Yamamoto A., Inazawa J., Iwaki T., Yamada T.,
+RA   Kanazawa I., Sakaki Y.;
+RT   "Molecular cloning of a novel apoptosis-related gene, human Nap1 (NCKAP1),
+RT   and its possible relation to Alzheimer disease.";
+RL   Genomics 63:246-254(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=9628581; DOI=10.1093/dnares/5.1.31;
+RA   Nagase T., Ishikawa K., Miyajima N., Tanaka A., Kotani H., Nomura N.,
+RA   Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. IX. The
+RT   complete sequences of 100 new cDNA clones from brain which can code for
+RT   large proteins in vitro.";
+RL   DNA Res. 5:31-39(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Trachea;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [9]
+RP   INTERACTION WITH HUMAN CYTOMEGALOVIRUS PROTEIN UL135 (MICROBIAL INFECTION).
+RX   PubMed=25121749; DOI=10.1016/j.chom.2014.07.005;
+RA   Stanton R.J., Prod'homme V., Purbhoo M.A., Moore M., Aicheler R.J.,
+RA   Heinzmann M., Bailer S.M., Haas J., Antrobus R., Weekes M.P., Lehner P.J.,
+RA   Vojtesek B., Miners K.L., Man S., Wilkie G.S., Davison A.J., Wang E.C.,
+RA   Tomasec P., Wilkinson G.W.;
+RT   "HCMV pUL135 remodels the actin cytoskeleton to impair immune recognition
+RT   of infected cells.";
+RL   Cell Host Microbe 16:201-214(2014).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.29 ANGSTROMS) OF WAVE1 COMPLEX, AND SUBUNIT.
+RX   PubMed=21107423; DOI=10.1038/nature09623;
+RA   Chen Z., Borek D., Padrick S.B., Gomez T.S., Metlagel Z., Ismail A.M.,
+RA   Umetani J., Billadeau D.D., Otwinowski Z., Rosen M.K.;
+RT   "Structure and control of the actin regulatory WAVE complex.";
+RL   Nature 468:533-538(2010).
+RN   [11]
+RP   VARIANT GLU-1094--1128-ALA DEL, AND TISSUE SPECIFICITY.
+RX   PubMed=28940097; DOI=10.1007/s00439-017-1843-2;
+RA   Anazi S., Maddirevula S., Salpietro V., Asi Y.T., Alsahli S., Alhashem A.,
+RA   Shamseldin H.E., AlZahrani F., Patel N., Ibrahim N., Abdulwahab F.M.,
+RA   Hashem M., Alhashmi N., Al Murshedi F., Al Kindy A., Alshaer A.,
+RA   Rumayyan A., Al Tala S., Kurdi W., Alsaman A., Alasmari A., Banu S.,
+RA   Sultan T., Saleh M.M., Alkuraya H., Salih M.A., Aldhalaan H., Ben-Omran T.,
+RA   Al Musafri F., Ali R., Suleiman J., Tabarki B., El-Hattab A.W., Bupp C.,
+RA   Alfadhel M., Al Tassan N., Monies D., Arold S.T., Abouelhoda M.,
+RA   Lashley T., Houlden H., Faqeih E., Alkuraya F.S.;
+RT   "Expanding the genetic heterogeneity of intellectual disability.";
+RL   Hum. Genet. 136:1419-1429(2017).
+RN   [12]
+RP   ERRATUM OF PUBMED:28940097.
+RX   PubMed=29288388; DOI=10.1007/s00439-017-1859-7;
+RA   Anazi S., Maddirevula S., Salpietro V., Asi Y.T., Alsahli S., Alhashem A.,
+RA   Shamseldin H.E., AlZahrani F., Patel N., Ibrahim N., Abdulwahab F.M.,
+RA   Hashem M., Alhashmi N., Al Murshedi F., Al Kindy A., Alshaer A.,
+RA   Rumayyan A., Al Tala S., Kurdi W., Alsaman A., Alasmari A., Banu S.,
+RA   Sultan T., Saleh M.M., Alkuraya H., Salih M.A., Aldhalaan H., Ben-Omran T.,
+RA   Al Musafri F., Ali R., Suleiman J., Tabarki B., El-Hattab A.W., Bupp C.,
+RA   Alfadhel M., Al Tassan N., Monies D., Arold S.T., Abouelhoda M.,
+RA   Lashley T., Houlden H., Faqeih E., Alkuraya F.S.;
+RT   "Correction to: Expanding the genetic heterogeneity of intellectual
+RT   disability.";
+RL   Hum. Genet. 137:105-109(2018).
+CC   -!- FUNCTION: Part of the WAVE complex that regulates lamellipodia
+CC       formation. The WAVE complex regulates actin filament reorganization via
+CC       its interaction with the Arp2/3 complex. Actin remodeling activity is
+CC       regulated by RAC1. As component of the WAVE1 complex, required for
+CC       BDNF-NTRK2 endocytic trafficking and signaling from early endosomes.
+CC       {ECO:0000250|UniProtKB:P28660}.
+CC   -!- SUBUNIT: Component of the WAVE1 complex composed of ABI2, CYFIP1 or
+CC       CYFIP2, BRK1, NCKAP1 and WASF1/WAVE1. Within the complex, a heterodimer
+CC       containing NCKAP1 and CYFIP1 interacts with a heterotrimer formed by
+CC       WAVE1, ABI2 and BRK1. Component of the WAVE2 complex composed of ABI1,
+CC       CYFIP1/SRA1, NCKAP1/NAP1 and WASF2/WAVE2. CYFIP2 binds to activated
+CC       RAC1 which causes the complex to dissociate, releasing activated WASF1.
+CC       The complex can also be activated by NCK1. Associates preferentially
+CC       with the first SH3 domain of NCK. Interacts with NYAP1, NYAP2 and MYO16
+CC       (By similarity). {ECO:0000250|UniProtKB:P28660}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with human cytomegalovirus
+CC       protein UL135. {ECO:0000269|PubMed:25121749}.
+CC   -!- INTERACTION:
+CC       Q9Y2A7; Q8IZP0: ABI1; NbExp=5; IntAct=EBI-389845, EBI-375446;
+CC       Q9Y2A7; Q92870-2: APBB2; NbExp=3; IntAct=EBI-389845, EBI-21535880;
+CC       Q9Y2A7; Q7L576: CYFIP1; NbExp=5; IntAct=EBI-389845, EBI-1048143;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250|UniProtKB:P28660};
+CC       Single-pass membrane protein {ECO:0000250|UniProtKB:P28660};
+CC       Cytoplasmic side {ECO:0000250|UniProtKB:P28660}. Cell projection,
+CC       lamellipodium membrane {ECO:0000250|UniProtKB:P28660}; Single-pass
+CC       membrane protein {ECO:0000250|UniProtKB:P28660}; Cytoplasmic side
+CC       {ECO:0000250|UniProtKB:P28660}. Note=At the interface between the
+CC       lamellipodial actin meshwork and the membrane.
+CC       {ECO:0000250|UniProtKB:P28660}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9Y2A7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9Y2A7-2; Sequence=VSP_036558;
+CC   -!- TISSUE SPECIFICITY: Expressed in all tissues examined except peripheral
+CC       blood leukocytes, with highest expression in brain, heart, and skeletal
+CC       muscle. Expressed in cells of various brain regions including Purkinje
+CC       cells and dentate nucleus of the cerebellum, CA4 region and dentate
+CC       gyrus of the hippocampus, and in frontal gray and white matter
+CC       (PubMed:28940097). {ECO:0000269|PubMed:28940097}.
+CC   -!- SIMILARITY: Belongs to the HEM-1/HEM-2 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA25513.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB014509; BAA77295.1; -; mRNA.
+DR   EMBL; AB011159; BAA25513.2; ALT_INIT; mRNA.
+DR   EMBL; AK292914; BAF85603.1; -; mRNA.
+DR   EMBL; BT007033; AAP35681.1; -; mRNA.
+DR   EMBL; AC108514; AAX93118.1; -; Genomic_DNA.
+DR   EMBL; AC064871; AAY24196.1; -; Genomic_DNA.
+DR   EMBL; BC015025; AAH15025.1; -; mRNA.
+DR   CCDS; CCDS2287.1; -. [Q9Y2A7-1]
+DR   CCDS; CCDS2288.1; -. [Q9Y2A7-2]
+DR   RefSeq; NP_038464.1; NM_013436.4. [Q9Y2A7-1]
+DR   RefSeq; NP_995314.1; NM_205842.2. [Q9Y2A7-2]
+DR   PDB; 3P8C; X-ray; 2.29 A; B=1-1128.
+DR   PDB; 4N78; X-ray; 2.43 A; B=1-1128.
+DR   PDB; 7USC; EM; 3.00 A; B=1-1128.
+DR   PDB; 7USD; EM; 3.00 A; B=1-1128.
+DR   PDB; 7USE; EM; 3.00 A; B=1-1128.
+DR   PDBsum; 3P8C; -.
+DR   PDBsum; 4N78; -.
+DR   PDBsum; 7USC; -.
+DR   PDBsum; 7USD; -.
+DR   PDBsum; 7USE; -.
+DR   AlphaFoldDB; Q9Y2A7; -.
+DR   SMR; Q9Y2A7; -.
+DR   BioGRID; 116003; 172.
+DR   CORUM; Q9Y2A7; -.
+DR   DIP; DIP-31119N; -.
+DR   IntAct; Q9Y2A7; 66.
+DR   MINT; Q9Y2A7; -.
+DR   STRING; 9606.ENSP00000354251; -.
+DR   GlyGen; Q9Y2A7; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9Y2A7; -.
+DR   MetOSite; Q9Y2A7; -.
+DR   PhosphoSitePlus; Q9Y2A7; -.
+DR   SwissPalm; Q9Y2A7; -.
+DR   BioMuta; NCKAP1; -.
+DR   DMDM; 12643947; -.
+DR   EPD; Q9Y2A7; -.
+DR   jPOST; Q9Y2A7; -.
+DR   MassIVE; Q9Y2A7; -.
+DR   MaxQB; Q9Y2A7; -.
+DR   PaxDb; Q9Y2A7; -.
+DR   PeptideAtlas; Q9Y2A7; -.
+DR   ProteomicsDB; 85712; -. [Q9Y2A7-1]
+DR   ProteomicsDB; 85713; -. [Q9Y2A7-2]
+DR   Antibodypedia; 19761; 226 antibodies from 32 providers.
+DR   DNASU; 10787; -.
+DR   Ensembl; ENST00000360982.2; ENSP00000354251.2; ENSG00000061676.16. [Q9Y2A7-2]
+DR   Ensembl; ENST00000361354.9; ENSP00000355348.3; ENSG00000061676.16. [Q9Y2A7-1]
+DR   GeneID; 10787; -.
+DR   KEGG; hsa:10787; -.
+DR   MANE-Select; ENST00000361354.9; ENSP00000355348.3; NM_013436.5; NP_038464.1.
+DR   UCSC; uc002upb.5; human. [Q9Y2A7-1]
+DR   AGR; HGNC:7666; -.
+DR   CTD; 10787; -.
+DR   DisGeNET; 10787; -.
+DR   GeneCards; NCKAP1; -.
+DR   HGNC; HGNC:7666; NCKAP1.
+DR   HPA; ENSG00000061676; Low tissue specificity.
+DR   MIM; 604891; gene.
+DR   neXtProt; NX_Q9Y2A7; -.
+DR   OpenTargets; ENSG00000061676; -.
+DR   PharmGKB; PA31468; -.
+DR   VEuPathDB; HostDB:ENSG00000061676; -.
+DR   eggNOG; KOG1917; Eukaryota.
+DR   GeneTree; ENSGT00390000016619; -.
+DR   HOGENOM; CLU_004450_0_0_1; -.
+DR   InParanoid; Q9Y2A7; -.
+DR   OMA; XSIVGMT; -.
+DR   OrthoDB; 5475343at2759; -.
+DR   PhylomeDB; Q9Y2A7; -.
+DR   TreeFam; TF313683; -.
+DR   PathwayCommons; Q9Y2A7; -.
+DR   Reactome; R-HSA-2029482; Regulation of actin dynamics for phagocytic cup formation.
+DR   Reactome; R-HSA-4420097; VEGFA-VEGFR2 Pathway.
+DR   Reactome; R-HSA-5663213; RHO GTPases Activate WASPs and WAVEs.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   Reactome; R-HSA-9013404; RAC2 GTPase cycle.
+DR   Reactome; R-HSA-9013423; RAC3 GTPase cycle.
+DR   Reactome; R-HSA-9664422; FCGR3A-mediated phagocytosis.
+DR   SignaLink; Q9Y2A7; -.
+DR   SIGNOR; Q9Y2A7; -.
+DR   BioGRID-ORCS; 10787; 422 hits in 1162 CRISPR screens.
+DR   ChiTaRS; NCKAP1; human.
+DR   EvolutionaryTrace; Q9Y2A7; -.
+DR   GeneWiki; NCKAP1; -.
+DR   GenomeRNAi; 10787; -.
+DR   Pharos; Q9Y2A7; Tbio.
+DR   PRO; PR:Q9Y2A7; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; Q9Y2A7; protein.
+DR   Bgee; ENSG00000061676; Expressed in seminal vesicle and 209 other tissues.
+DR   Genevisible; Q9Y2A7; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0031941; C:filamentous actin; ISS:BHF-UCL.
+DR   GO; GO:0005925; C:focal adhesion; HDA:UniProtKB.
+DR   GO; GO:0030027; C:lamellipodium; ISS:BHF-UCL.
+DR   GO; GO:0031258; C:lamellipodium membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0001726; C:ruffle; ISS:BHF-UCL.
+DR   GO; GO:0031209; C:SCAR complex; IDA:UniProtKB.
+DR   GO; GO:0006915; P:apoptotic process; TAS:ProtInc.
+DR   GO; GO:0016477; P:cell migration; IBA:GO_Central.
+DR   GO; GO:0000902; P:cell morphogenesis; IBA:GO_Central.
+DR   GO; GO:0030031; P:cell projection assembly; IBA:GO_Central.
+DR   GO; GO:0007417; P:central nervous system development; TAS:ProtInc.
+DR   GO; GO:0030866; P:cortical actin cytoskeleton organization; IBA:GO_Central.
+DR   GO; GO:0048812; P:neuron projection morphogenesis; IBA:GO_Central.
+DR   GO; GO:0030838; P:positive regulation of actin filament polymerization; ISS:BHF-UCL.
+DR   GO; GO:2000601; P:positive regulation of Arp2/3 complex-mediated actin nucleation; IDA:UniProtKB.
+DR   GO; GO:0010592; P:positive regulation of lamellipodium assembly; IDA:ARUK-UCL.
+DR   GO; GO:0016601; P:Rac protein signal transduction; IDA:UniProtKB.
+DR   InterPro; IPR019137; Nck-associated_protein-1.
+DR   PANTHER; PTHR12093; NCK-ASSOCIATED PROTEIN 1; 1.
+DR   PANTHER; PTHR12093:SF11; NCK-ASSOCIATED PROTEIN 1; 1.
+DR   Pfam; PF09735; Nckap1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Cell membrane;
+KW   Cell projection; Host-virus interaction; Membrane; Reference proteome;
+KW   Transmembrane; Transmembrane helix.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0007744|PubMed:19413330"
+FT   CHAIN           2..1128
+FT                   /note="Nck-associated protein 1"
+FT                   /id="PRO_0000216172"
+FT   TRANSMEM        995..1015
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   REGION          640..665
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        647..665
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         2
+FT                   /note="N-acetylserine"
+FT                   /evidence="ECO:0007744|PubMed:19413330"
+FT   VAR_SEQ         36
+FT                   /note="K -> KQGQVWK (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:9628581"
+FT                   /id="VSP_036558"
+FT   VARIANT         1094..1128
+FT                   /note="Missing (found in a patient with intellectual
+FT                   disability; unknown pathological significance)"
+FT                   /evidence="ECO:0000269|PubMed:28940097"
+FT                   /id="VAR_084649"
+FT   HELIX           8..10
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           13..39
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            41..43
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           46..48
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            51..53
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           54..63
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          74..76
+FT                   /evidence="ECO:0007829|PDB:7USC"
+FT   HELIX           77..81
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           83..117
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            123..125
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           127..148
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           153..165
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          168..170
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           175..184
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           188..195
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            196..199
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           200..208
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           209..212
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           214..217
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           221..226
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            227..230
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          232..235
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           236..238
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          239..241
+FT                   /evidence="ECO:0007829|PDB:4N78"
+FT   HELIX           248..252
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           255..268
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           271..275
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           277..287
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          291..296
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          299..302
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           303..311
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           315..317
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           320..359
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           361..364
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            365..367
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           368..391
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            397..400
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           405..421
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           423..436
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           438..446
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           454..468
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           472..476
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           484..498
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          499..501
+FT                   /evidence="ECO:0007829|PDB:7USC"
+FT   HELIX           506..508
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           510..527
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           529..537
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           540..544
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           546..558
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           560..563
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           564..567
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           568..572
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           573..579
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           585..587
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           588..626
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           630..633
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           634..640
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           662..664
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           674..689
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          695..697
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          700..702
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           704..723
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            728..731
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           736..752
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           753..755
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           761..771
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          774..776
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           784..794
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           796..801
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          804..808
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            809..812
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          813..816
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   STRAND          818..820
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           828..831
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           833..871
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           874..882
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           887..894
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           900..931
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           933..944
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           955..964
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           973..979
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           989..1006
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1007..1012
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1014..1016
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   TURN            1020..1023
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1029..1031
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1032..1046
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1051..1068
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1069..1071
+FT                   /evidence="ECO:0007829|PDB:4N78"
+FT   TURN            1075..1080
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1081..1094
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1100..1106
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+FT   HELIX           1109..1120
+FT                   /evidence="ECO:0007829|PDB:3P8C"
+SQ   SEQUENCE   1128 AA;  128790 MW;  12D32BAC7080CB5A CRC64;
+     MSRSVLQPSQ QKLAEKLTIL NDRGVGMLTR LYNIKKACGD PKAKPSYLID KNLESAVKFI
+     VRKFPAVETR NNNQQLAQLQ KEKSEILKNL ALYYFTFVDV MEFKDHVCEL LNTIDVCQVF
+     FDITVNFDLT KNYLDLIITY TTLMILLSRI EERKAIIGLY NYAHEMTHGA SDREYPRLGQ
+     MIVDYENPLK KMMEEFVPHS KSLSDALISL QMVYPRRNLS ADQWRNAQLL SLISAPSTML
+     NPAQSDTMPC EYLSLDAMEK WIIFGFILCH GILNTDATAL NLWKLALQSS SCLSLFRDEV
+     FHIHKAAEDL FVNIRGYNKR INDIRECKEA AVSHAGSMHR ERRKFLRSAL KELATVLSDQ
+     PGLLGPKALF VFMALSFARD EIIWLLRHAD NMPKKSADDF IDKHIAELIF YMEELRAHVR
+     KYGPVMQRYY VQYLSGFDAV VLNELVQNLS VCPEDESIIM SSFVNTMTSL SVKQVEDGEV
+     FDFRGMRLDW FRLQAYTSVS KASLGLADHR ELGKMMNTII FHTKMVDSLV EMLVETSDLS
+     IFCFYSRAFE KMFQQCLELP SQSRYSIAFP LLCTHFMSCT HELCPEERHH IGDRSLSLCN
+     MFLDEMAKQA RNLITDICTE QCTLSDQLLP KHCAKTISQA VNKKSKKQTG KKGEPEREKP
+     GVESMRKNRL VVTNLDKLHT ALSELCFSIN YVPNMVVWEH TFTPREYLTS HLEIRFTKSI
+     VGMTMYNQAT QEIAKPSELL TSVRAYMTVL QSIENYVQID ITRVFNNVLL QQTQHLDSHG
+     EPTITSLYTN WYLETLLRQV SNGHIAYFPA MKAFVNLPTE NELTFNAEEY SDISEMRSLS
+     ELLGPYGMKF LSESLMWHIS SQVAELKKLV VENVDVLTQM RTSFDKPDQM AALFKRLSSV
+     DSVLKRMTII GVILSFRSLA QEALRDVLSY HIPFLVSSIE DFKDHIPRET DMKVAMNVYE
+     LSSAAGLPCE IDPALVVALS SQKSENISPE EEYKIACLLM VFVAVSLPTL ASNVMSQYSP
+     AIEGHCNNIH CLAKAINQIA AALFTIHKGS IEDRLKEFLA LASSSLLKIG QETDKTTTRN
+     RESVYLLLDM IVQESPFLTM DLLESCFPYV LLRNAYHAVY KQSVTSSA
+//

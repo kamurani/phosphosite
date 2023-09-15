@@ -1,0 +1,176 @@
+ID   ZN479_HUMAN             Reviewed;         524 AA.
+AC   Q96JC4;
+DT   07-NOV-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   28-JUN-2023, entry version 170.
+DE   RecName: Full=Zinc finger protein 479;
+DE   AltName: Full=Zinc finger protein Kr19;
+DE            Short=HKr19;
+GN   Name=ZNF479;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Testis;
+RX   PubMed=11410164; DOI=10.1089/104454901750232472;
+RA   Mark C., Looman C., Abrink M., Hellman L.;
+RT   "Molecular cloning and preliminary functional analysis of two novel human
+RT   KRAB zinc finger proteins, HKr18 and HKr19.";
+RL   DNA Cell Biol. 20:275-286(2001).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- INTERACTION:
+CC       Q96JC4; A6NEM1: GOLGA6L9; NbExp=3; IntAct=EBI-10820574, EBI-5916454;
+CC       Q96JC4; P60371: KRTAP10-6; NbExp=3; IntAct=EBI-10820574, EBI-12012928;
+CC       Q96JC4; Q6L8G8: KRTAP5-7; NbExp=3; IntAct=EBI-10820574, EBI-11987425;
+CC       Q96JC4; Q99750: MDFI; NbExp=3; IntAct=EBI-10820574, EBI-724076;
+CC       Q96JC4; Q16623: STX1A; NbExp=3; IntAct=EBI-10820574, EBI-712466;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Expressed primarily in testis and fetal tissues.
+CC       {ECO:0000269|PubMed:11410164}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF277624; AAK61307.1; -; mRNA.
+DR   CCDS; CCDS43590.1; -.
+DR   RefSeq; NP_150376.1; NM_033273.2.
+DR   RefSeq; XP_011513906.1; XM_011515604.2.
+DR   RefSeq; XP_011513910.1; XM_011515608.2.
+DR   RefSeq; XP_016868266.1; XM_017012777.1.
+DR   AlphaFoldDB; Q96JC4; -.
+DR   SMR; Q96JC4; -.
+DR   BioGRID; 124767; 7.
+DR   IntAct; Q96JC4; 7.
+DR   STRING; 9606.ENSP00000333776; -.
+DR   iPTMnet; Q96JC4; -.
+DR   PhosphoSitePlus; Q96JC4; -.
+DR   BioMuta; ZNF479; -.
+DR   DMDM; 38258829; -.
+DR   jPOST; Q96JC4; -.
+DR   MassIVE; Q96JC4; -.
+DR   MaxQB; Q96JC4; -.
+DR   PaxDb; Q96JC4; -.
+DR   PeptideAtlas; Q96JC4; -.
+DR   ProteomicsDB; 76941; -.
+DR   Antibodypedia; 67579; 54 antibodies from 10 providers.
+DR   DNASU; 90827; -.
+DR   Ensembl; ENST00000319636.10; ENSP00000324518.6; ENSG00000185177.14.
+DR   Ensembl; ENST00000331162.8; ENSP00000333776.4; ENSG00000185177.14.
+DR   GeneID; 90827; -.
+DR   KEGG; hsa:90827; -.
+DR   MANE-Select; ENST00000319636.10; ENSP00000324518.6; NM_001370129.2; NP_001357058.1.
+DR   UCSC; uc010kzo.4; human.
+DR   AGR; HGNC:23258; -.
+DR   CTD; 90827; -.
+DR   DisGeNET; 90827; -.
+DR   GeneCards; ZNF479; -.
+DR   HGNC; HGNC:23258; ZNF479.
+DR   HPA; ENSG00000185177; Tissue enriched (testis).
+DR   MIM; 617444; gene.
+DR   neXtProt; NX_Q96JC4; -.
+DR   PharmGKB; PA134903704; -.
+DR   VEuPathDB; HostDB:ENSG00000185177; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT01090000260042; -.
+DR   HOGENOM; CLU_002678_44_0_1; -.
+DR   InParanoid; Q96JC4; -.
+DR   OMA; HCTTHKR; -.
+DR   OrthoDB; 3120079at2759; -.
+DR   PhylomeDB; Q96JC4; -.
+DR   TreeFam; TF342117; -.
+DR   PathwayCommons; Q96JC4; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q96JC4; -.
+DR   BioGRID-ORCS; 90827; 34 hits in 1084 CRISPR screens.
+DR   ChiTaRS; ZNF479; human.
+DR   GenomeRNAi; 90827; -.
+DR   Pharos; Q96JC4; Tbio.
+DR   PRO; PR:Q96JC4; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q96JC4; protein.
+DR   Bgee; ENSG00000185177; Expressed in buccal mucosa cell and 4 other tissues.
+DR   Genevisible; Q96JC4; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 12.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24393; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24393:SF131; ZINC FINGER PROTEIN 732; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 9.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 12.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 8.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 11.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 12.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..524
+FT                   /note="Zinc finger protein 479"
+FT                   /id="PRO_0000047606"
+FT   DOMAIN          16..87
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         185..212
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         213..235
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         241..263
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         269..291
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         297..319
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         325..347
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         353..375
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         381..403
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         409..431
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         437..459
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         465..487
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         493..515
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+SQ   SEQUENCE   524 AA;  60598 MW;  F1AD4929DC67D105 CRC64;
+     MAKRPGPPGS REMGLLTFRD IAIEFSLEEW QCLDCAQRNL YRDVMLENYR NLVSLGIAVS
+     KPDLITCLEQ NKESQNIKRN EMVAKHPVTR SHFTQDLQPE QGIKDSLQKV IPRTYGKCGH
+     EKLQFKKCCK SVGEYEVHKG GYSEVNQCLS TTQNKIFQTH KYVKVFGKFS NSNRDKTRYT
+     GNKHFKCNKY GKSFCMLSHL NQHQVIHTRE KSYKCKECGK SFNCSSNHTT HKIIHTGEKP
+     YRCEECGKAF SWSANLTRHK RTHTGEKPYT CEECGQAFRR SSALTNHKRI HTGERPYKCE
+     ECGKAFSVSS TLTDHKRIHT GEKPCRCEEC GKAFSWSSNL TRHKRIHTRE KPYACEECGQ
+     AFSLSSNLMR HRRIHTGEKP YTCEECGQDF RRSSALTIHK RIHTGERPYK CEECGKVFSL
+     SSTLTDHKRI HTGERPYKCE ECGKAFSLSS TLTDHKRIHT GERPYTCEEC GKAFNCSSTL
+     MQHKRIHTGE KPYKCEECEQ AFKWHSSLAK HKIIHTGEKP YKCE
+//

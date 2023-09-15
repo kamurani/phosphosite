@@ -1,0 +1,2055 @@
+ID   TP53B_HUMAN             Reviewed;        1972 AA.
+AC   Q12888; F8VY86; Q2M1Z7; Q4LE46; Q5FWZ3; Q7Z3U4;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2000, sequence version 2.
+DT   28-JUN-2023, entry version 232.
+DE   RecName: Full=TP53-binding protein 1 {ECO:0000305};
+DE            Short=53BP1 {ECO:0000303|PubMed:9748285};
+DE            Short=p53-binding protein 1 {ECO:0000303|PubMed:9748285};
+DE            Short=p53BP1;
+GN   Name=TP53BP1 {ECO:0000312|HGNC:HGNC:11999};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND SUBCELLULAR LOCATION.
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=9748285; DOI=10.1074/jbc.273.40.26061;
+RA   Iwabuchi K., Li B., Massa H.F., Trask B.J., Date T., Fields S.;
+RT   "Stimulation of p53-mediated transcriptional activation by the p53-binding
+RT   proteins, 53BP1 and 53BP2.";
+RL   J. Biol. Chem. 273:26061-26068(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Myeloid leukemia cell;
+RA   Nakajima D., Saito K., Yamakawa H., Kikuno R.F., Nakayama M., Ohara R.,
+RA   Okazaki N., Koga H., Nagase T., Ohara O.;
+RT   "Preparation of a set of expression-ready clones of mammalian long cDNAs
+RT   encoding large proteins by the ORF trap cloning method.";
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANTS GLU-353;
+RP   SER-412 AND GLN-1136.
+RC   TISSUE=Cervix;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS GLU-353; SER-412; VAL-648;
+RP   ARG-699; GLY-1014; ALA-1026; GLN-1136; GLY-1170 AND VAL-1174.
+RG   NIEHS SNPs program;
+RL   Submitted (JAN-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16572171; DOI=10.1038/nature04601;
+RA   Zody M.C., Garber M., Sharpe T., Young S.K., Rowen L., O'Neill K.,
+RA   Whittaker C.A., Kamal M., Chang J.L., Cuomo C.A., Dewar K.,
+RA   FitzGerald M.G., Kodira C.D., Madan A., Qin S., Yang X., Abbasi N.,
+RA   Abouelleil A., Arachchi H.M., Baradarani L., Birditt B., Bloom S.,
+RA   Bloom T., Borowsky M.L., Burke J., Butler J., Cook A., DeArellano K.,
+RA   DeCaprio D., Dorris L. III, Dors M., Eichler E.E., Engels R., Fahey J.,
+RA   Fleetwood P., Friedman C., Gearin G., Hall J.L., Hensley G., Johnson E.,
+RA   Jones C., Kamat A., Kaur A., Locke D.P., Madan A., Munson G., Jaffe D.B.,
+RA   Lui A., Macdonald P., Mauceli E., Naylor J.W., Nesbitt R., Nicol R.,
+RA   O'Leary S.B., Ratcliffe A., Rounsley S., She X., Sneddon K.M.B.,
+RA   Stewart S., Sougnez C., Stone S.M., Topham K., Vincent D., Wang S.,
+RA   Zimmer A.R., Birren B.W., Hood L., Lander E.S., Nusbaum C.;
+RT   "Analysis of the DNA sequence and duplication history of human chromosome
+RT   15.";
+RL   Nature 440:671-675(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Cerebellum;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 946-1972.
+RX   PubMed=8016121; DOI=10.1073/pnas.91.13.6098;
+RA   Iwabuchi K., Bartel P.L., Li B., Marraccino R., Fields S.;
+RT   "Two cellular proteins that bind to wild-type but not mutant p53.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 91:6098-6102(1994).
+RN   [8]
+RP   PHOSPHORYLATION.
+RX   PubMed=11042216; DOI=10.1074/jbc.m007665200;
+RA   Xia Z., Morales J.C., Dunphy W.G., Carpenter P.B.;
+RT   "Negative cell cycle regulation and DNA-damage inducible phosphorylation of
+RT   the BRCT protein 53BP1.";
+RL   J. Biol. Chem. 276:2708-2718(2001).
+RN   [9]
+RP   SUBCELLULAR LOCATION, AND PHOSPHORYLATION.
+RX   PubMed=11331310; DOI=10.1083/jcb.153.3.613;
+RA   Rappold I., Iwabuchi K., Date T., Chen J.;
+RT   "Tumor suppressor p53 binding protein 1 (53BP1) is involved in DNA damage-
+RT   signaling pathways.";
+RL   J. Cell Biol. 153:613-620(2001).
+RN   [10]
+RP   FUNCTION IN DNA DAMAGE CHECKPOINT, AND INTERACTION WITH CHEK2.
+RX   PubMed=12364621; DOI=10.1126/science.1076182;
+RA   Wang B., Matsuoka S., Carpenter P.B., Elledge S.J.;
+RT   "53BP1, a mediator of the DNA damage checkpoint.";
+RL   Science 298:1435-1438(2002).
+RN   [11]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=12824158; DOI=10.1074/jbc.m304066200;
+RA   Iwabuchi K., Basu B.P., Kysela B., Kurihara T., Shibata M., Guan D.,
+RA   Cao Y., Hamada T., Imamura K., Jeggo P.A., Date T., Doherty A.J.;
+RT   "Potential role for 53BP1 in DNA end-joining repair through direct
+RT   interaction with DNA.";
+RL   J. Biol. Chem. 278:36487-36495(2003).
+RN   [12]
+RP   INTERACTION WITH H2AX.
+RX   PubMed=12607005; DOI=10.1038/nature01446;
+RA   Stewart G.S., Wang B., Bignell C.R., Taylor A.M.R., Elledge S.J.;
+RT   "MDC1 is a mediator of the mammalian DNA damage checkpoint.";
+RL   Nature 421:961-966(2003).
+RN   [13]
+RP   CHROMOSOMAL TRANSLOCATION WITH PDGFRB.
+RX   PubMed=15492236; DOI=10.1158/0008-5472.can-04-2005;
+RA   Grand F.H., Burgstaller S., Kuhr T., Baxter E.J., Webersinke G., Thaler J.,
+RA   Chase A.J., Cross N.C.;
+RT   "p53-Binding protein 1 is fused to the platelet-derived growth factor
+RT   receptor beta in a patient with a t(5;15)(q33;q22) and an imatinib-
+RT   responsive eosinophilic myeloproliferative disorder.";
+RL   Cancer Res. 64:7216-7219(2004).
+RN   [14]
+RP   INTERACTION WITH DCLRE1C.
+RX   PubMed=15574327; DOI=10.1016/j.molcel.2004.10.029;
+RA   Riballo E., Kuehne M., Rief N., Doherty A., Smith G.C.M., Recio M.-J.,
+RA   Reis C., Dahm K., Fricke A., Krempler A., Parker A.R., Jackson S.P.,
+RA   Gennery A., Jeggo P.A., Loebrich M.;
+RT   "A pathway of double-strand break rejoining dependent upon ATM, Artemis,
+RT   and proteins locating to gamma-H2AX foci.";
+RL   Mol. Cell 16:715-724(2004).
+RN   [15]
+RP   METHYLATION, MUTAGENESIS OF ARG-1396; ARG-1398; ARG-1400; ARG-1401 AND
+RP   ARG-1403, SUBCELLULAR LOCATION, AND DNA-BINDING.
+RX   PubMed=16294045; DOI=10.4161/cc.4.12.2250;
+RA   Boisvert F.-M., Rhie A., Richard S., Doherty A.J.;
+RT   "The GAR motif of 53BP1 is arginine methylated by PRMT1 and is necessary
+RT   for 53BP1 DNA binding activity.";
+RL   Cell Cycle 4:1834-1841(2005).
+RN   [16]
+RP   METHYLATION, MUTAGENESIS OF ARG-1396; ARG-1398; ARG-1400; ARG-1401 AND
+RP   ARG-1403, SUBUNIT, SUBCELLULAR LOCATION, AND DNA-BINDING.
+RX   PubMed=16294047; DOI=10.4161/cc.4.12.2282;
+RA   Adams M.M., Wang B., Xia Z., Morales J.C., Lu X., Donehower L.A.,
+RA   Bochar D.A., Elledge S.J., Carpenter P.B.;
+RT   "53BP1 oligomerization is independent of its methylation by PRMT1.";
+RL   Cell Cycle 4:1854-1861(2005).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-222; SER-294; SER-500;
+RP   SER-635; SER-639; SER-640; SER-1094; SER-1219; SER-1362 AND SER-1678, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-834 AND SER-1426, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=16964243; DOI=10.1038/nbt1240;
+RA   Beausoleil S.A., Villen J., Gerber S.A., Rush J., Gygi S.P.;
+RT   "A probability-based approach for high-throughput protein phosphorylation
+RT   analysis and site localization.";
+RL   Nat. Biotechnol. 24:1285-1292(2006).
+RN   [19]
+RP   PHOSPHORYLATION AT SER-166; SER-176; SER-178; SER-294; THR-302; SER-380;
+RP   SER-452; SER-523; SER-552; SER-831; SER-1028; SER-1086; SER-1114 AND
+RP   SER-1219, AND MUTAGENESIS OF 176-SER--SER-178.
+RX   PubMed=17553757; DOI=10.1016/j.dnarep.2007.04.011;
+RA   Jowsey P., Morrice N.A., Hastie C.J., McLauchlan H., Toth R., Rouse J.;
+RT   "Characterisation of the sites of DNA damage-induced 53BP1 phosphorylation
+RT   catalysed by ATM and ATR.";
+RL   DNA Repair 6:1536-1544(2007).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-105; THR-302; SER-523;
+RP   THR-543; THR-548; SER-552; SER-831; THR-855; THR-1214; SER-1216 AND
+RP   SER-1219, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [21]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D., Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient
+RT   phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [22]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-222; SER-265; SER-395;
+RP   SER-398; SER-500; SER-523; SER-525; SER-552; SER-809; SER-831; SER-1028;
+RP   SER-1094; SER-1216; SER-1219; SER-1368; THR-1372; SER-1426; SER-1430;
+RP   SER-1462; THR-1609; SER-1701 AND SER-1759, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [23]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [24]
+RP   PHOSPHORYLATION AT SER-25 AND SER-1778, DEPHOSPHORYLATION AT SER-25 AND
+RP   SER-1778 BY PPP5C, AND SUBCELLULAR LOCATION.
+RX   PubMed=19176521; DOI=10.1074/jbc.m809272200;
+RA   Kang Y., Lee J.H., Hoan N.N., Sohn H.M., Chang I.Y., You H.J.;
+RT   "Protein phosphatase 5 regulates the function of 53BP1 after
+RT   neocarzinostatin-induced DNA damage.";
+RL   J. Biol. Chem. 284:9845-9853(2009).
+RN   [25]
+RP   INTERACTION WITH EPSTEIN-BARR VIRUS BZLF1 PROTEIN (MICROBIAL INFECTION).
+RX   PubMed=19656881; DOI=10.1128/jvi.00512-09;
+RA   Bailey S.G., Verrall E., Schelcher C., Rhie A., Doherty A.J.,
+RA   Sinclair A.J.;
+RT   "Functional interaction between Epstein-Barr virus replication protein Zta
+RT   and host DNA damage response protein 53BP1.";
+RL   J. Virol. 83:11116-11122(2009).
+RN   [26]
+RP   INTERACTION WITH MSL1.
+RX   PubMed=19650074; DOI=10.1002/jcp.21889;
+RA   Gironella M., Malicet C., Cano C., Sandi M.J., Hamidi T., Tauil R.M.,
+RA   Baston M., Valaco P., Moreno S., Lopez F., Neira J.L., Dagorn J.C.,
+RA   Iovanna J.L.;
+RT   "p8/nupr1 regulates DNA-repair activity after double-strand gamma
+RT   irradiation-induced DNA damage.";
+RL   J. Cell. Physiol. 221:594-602(2009).
+RN   [27]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-294; SER-366; SER-380;
+RP   SER-500; SER-523; SER-525; THR-543; SER-552; SER-834; SER-1028; SER-1114;
+RP   SER-1426; SER-1430; SER-1460; SER-1462 AND SER-1474, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [28]
+RP   INTERACTION WITH PWWP3A.
+RX   PubMed=20347427; DOI=10.1016/j.molcel.2009.12.040;
+RA   Huen M.S., Huang J., Leung J.W., Sy S.M., Leung K.M., Ching Y.P.,
+RA   Tsao S.W., Chen J.;
+RT   "Regulation of chromatin architecture by the PWWP domain-containing DNA
+RT   damage-responsive factor EXPAND1/MUM1.";
+RL   Mol. Cell 37:854-864(2010).
+RN   [29]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-124; SER-294; SER-500;
+RP   SER-525; SER-552; SER-566; SER-580; SER-639; SER-640; SER-809; THR-922;
+RP   SER-970; SER-975; SER-1028; SER-1068; SER-1114; SER-1362; SER-1426;
+RP   SER-1430; THR-1609; SER-1618 AND SER-1678, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [30]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [31]
+RP   FUNCTION IN DNA DAMAGE RESPONSE, PHOSPHORYLATION AT SER-1778, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=21144835; DOI=10.1016/j.bbrc.2010.12.005;
+RA   Kang Y., Cheong H.M., Lee J.H., Song P.I., Lee K.H., Kim S.Y., Jun J.Y.,
+RA   You H.J.;
+RT   "Protein phosphatase 5 is necessary for ATR-mediated DNA repair.";
+RL   Biochem. Biophys. Res. Commun. 404:476-481(2011).
+RN   [32]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-222; SER-294; SER-500;
+RP   SER-525; SER-552; SER-809; SER-1028; SER-1101; SER-1114; SER-1362;
+RP   SER-1430; SER-1618 AND SER-1678, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [33]
+RP   FUNCTION.
+RX   PubMed=22553214; DOI=10.1242/jcs.105353;
+RA   Chapman J.R., Sossick A.J., Boulton S.J., Jackson S.P.;
+RT   "BRCA1-associated exclusion of 53BP1 from DNA damage sites underlies
+RT   temporal control of DNA repair.";
+RL   J. Cell Sci. 125:3529-3534(2012).
+RN   [34]
+RP   FUNCTION, PHOSPHORYLATION, INTERACTION WITH RIF1 AND PAXIP1, AND
+RP   MUTAGENESIS OF SER-6; SER-13; SER-25; SER-29; SER-105; SER-166; SER-176 AND
+RP   SER-178.
+RX   PubMed=23727112; DOI=10.1016/j.cell.2013.05.023;
+RA   Callen E., Di Virgilio M., Kruhlak M.J., Nieto-Soler M., Wong N.,
+RA   Chen H.T., Faryabi R.B., Polato F., Santos M., Starnes L.M., Wesemann D.R.,
+RA   Lee J.E., Tubbs A., Sleckman B.P., Daniel J.A., Ge K., Alt F.W.,
+RA   Fernandez-Capetillo O., Nussenzweig M.C., Nussenzweig A.;
+RT   "53BP1 mediates productive and mutagenic DNA repair through distinct
+RT   phosphoprotein interactions.";
+RL   Cell 153:1266-1280(2013).
+RN   [35]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-63; SER-124; SER-222;
+RP   SER-265; SER-294; SER-366; SER-380; SER-398; SER-500; SER-507; SER-518;
+RP   SER-523; SER-525; SER-552; SER-580; SER-771; SER-809; SER-834; THR-922;
+RP   SER-1028; THR-1056; SER-1068; SER-1094; SER-1114; SER-1148; SER-1216;
+RP   SER-1219; SER-1317; SER-1342; SER-1362; SER-1426; SER-1430; SER-1462;
+RP   THR-1609; SER-1618; SER-1635; THR-1638; THR-1648; SER-1656; SER-1673;
+RP   SER-1678 AND SER-1701, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [36]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH RIF1, PHOSPHORYLATION, AND
+RP   MUTAGENESIS OF SER-6; SER-13; SER-25; SER-29; SER-105; SER-166; SER-176;
+RP   SER-178; THR-302; SER-437; SER-452; SER-523; THR-543; SER-580; SER-625;
+RP   SER-674; THR-696; SER-698; SER-784; SER-831; THR-855; SER-892; SER-1068;
+RP   SER-1086; SER-1104; SER-1148; THR-1171 AND SER-1219.
+RX   PubMed=23333306; DOI=10.1016/j.molcel.2013.01.001;
+RA   Escribano-Diaz C., Orthwein A., Fradet-Turcotte A., Xing M., Young J.T.,
+RA   Tkac J., Cook M.A., Rosebrock A.P., Munro M., Canny M.D., Xu D.,
+RA   Durocher D.;
+RT   "A cell cycle-dependent regulatory circuit composed of 53BP1-RIF1 and
+RT   BRCA1-CtIP controls DNA repair pathway choice.";
+RL   Mol. Cell 49:872-883(2013).
+RN   [37]
+RP   FUNCTION, SUBCELLULAR LOCATION, SUBUNIT, DOMAIN, AND MUTAGENESIS OF
+RP   ASP-1521; LYS-1613; ASP-1616; ILE-1617; LEU-1619; ASN-1621; LEU-1622;
+RP   GLU-1624 AND ARG-1627.
+RX   PubMed=23760478; DOI=10.1038/nature12318;
+RA   Fradet-Turcotte A., Canny M.D., Escribano-Diaz C., Orthwein A., Leung C.C.,
+RA   Huang H., Landry M.C., Kitevski-LeBlanc J., Noordermeer S.M., Sicheri F.,
+RA   Durocher D.;
+RT   "53BP1 is a reader of the DNA-damage-induced H2A Lys 15 ubiquitin mark.";
+RL   Nature 499:50-54(2013).
+RN   [38]
+RP   FUNCTION, SUBUNIT, AND MUTAGENESIS OF SER-6; SER-13; SER-25; SER-29;
+RP   SER-105; SER-166; SER-176; SER-178; THR-302; SER-437; SER-452; SER-523;
+RP   THR-543; SER-580; SER-625; SER-674; THR-696; SER-698; SER-784; SER-831;
+RP   THR-855; SER-892; SER-1068; SER-1086; SER-1104; SER-1148; THR-1171;
+RP   SER-1219; 1398-ARG--ARG-1401 AND ASP-1521.
+RX   PubMed=23345425; DOI=10.1073/pnas.1222617110;
+RA   Lottersberger F., Bothmer A., Robbiani D.F., Nussenzweig M.C., de Lange T.;
+RT   "Role of 53BP1 oligomerization in regulating double-strand break repair.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:2146-2151(2013).
+RN   [39]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-294; SER-500; SER-552;
+RP   SER-630; SER-692; SER-727; SER-1114; SER-1216 AND SER-1362, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [40]
+RP   SUBCELLULAR LOCATION, PHOSPHORYLATION AT THR-1609 AND SER-1618, DOMAIN, AND
+RP   MUTAGENESIS OF THR-1609 AND SER-1618.
+RX   PubMed=24703952; DOI=10.1016/j.molcel.2014.03.020;
+RA   Lee D.H., Acharya S.S., Kwon M., Drane P., Guan Y., Adelmant G., Kalev P.,
+RA   Shah J., Pellman D., Marto J.A., Chowdhury D.;
+RT   "Dephosphorylation enables the recruitment of 53BP1 to double-strand DNA
+RT   breaks.";
+RL   Mol. Cell 54:512-525(2014).
+RN   [41]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-930 AND LYS-1563, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [42]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-217; LYS-868; LYS-1434 AND
+RP   LYS-1563, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25114211; DOI=10.1073/pnas.1413825111;
+RA   Impens F., Radoshevich L., Cossart P., Ribet D.;
+RT   "Mapping of SUMO sites and analysis of SUMOylation changes induced by
+RT   external stimuli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 111:12432-12437(2014).
+RN   [43]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-930, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25772364; DOI=10.1016/j.celrep.2015.02.033;
+RA   Hendriks I.A., Treffers L.W., Verlaan-de Vries M., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "SUMO-2 orchestrates chromatin modifiers in response to DNA damage.";
+RL   Cell Rep. 10:1778-1791(2015).
+RN   [44]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-1563, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to replication
+RT   stress reveals novel small ubiquitin-like modified target proteins and
+RT   acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [45]
+RP   FUNCTION.
+RX   PubMed=27153538; DOI=10.1016/j.molcel.2016.03.031;
+RA   Jacquet K., Fradet-Turcotte A., Avvakumov N., Lambert J.P., Roques C.,
+RA   Pandita R.K., Paquet E., Herst P., Gingras A.C., Pandita T.K., Legube G.,
+RA   Doyon Y., Durocher D., Cote J.;
+RT   "The TIP60 complex regulates bivalent chromatin recognition by 53BP1
+RT   through direct H4K20me binding and H2AK15 acetylation.";
+RL   Mol. Cell 62:409-421(2016).
+RN   [46]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-217; LYS-868; LYS-930; LYS-984;
+RP   LYS-1365; LYS-1434 AND LYS-1563, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [47]
+RP   FUNCTION, INTERACTION WITH NUDT16L1 AND RIF1, SUBCELLULAR LOCATION,
+RP   PHOSPHORYLATION, AND MUTAGENESIS OF TRP-1495; ASP-1521; THR-1609 AND
+RP   SER-1618.
+RX   PubMed=28241136; DOI=10.1038/nature21358;
+RA   Drane P., Brault M.E., Cui G., Meghani K., Chaubey S., Detappe A.,
+RA   Parnandi N., He Y., Zheng X.F., Botuyan M.V., Kalousi A., Yewdell W.T.,
+RA   Muench C., Harper J.W., Chaudhuri J., Soutoglou E., Mer G., Chowdhury D.;
+RT   "TIRR regulates 53BP1 by masking its histone methyl-lysine binding
+RT   function.";
+RL   Nature 543:211-216(2017).
+RN   [48]
+RP   INTERACTION WITH SHLD2, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=29789392; DOI=10.15252/embj.201899543;
+RA   Tomida J., Takata K.I., Bhetawal S., Person M.D., Chao H.P., Tang D.G.,
+RA   Wood R.D.;
+RT   "FAM35A associates with REV7 and modulates DNA damage responses of normal
+RT   and BRCA1-defective cells.";
+RL   EMBO J. 37:0-0(2018).
+RN   [49]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 1722-1971 IN COMPLEX WITH TP53.
+RX   PubMed=12110597; DOI=10.1093/emboj/cdf383;
+RA   Derbyshire D.J., Basu B.P., Serpell L.C., Joo W.S., Date T., Iwabuchi K.,
+RA   Doherty A.J.;
+RT   "Crystal structure of human 53BP1 BRCT domains bound to p53 tumour
+RT   suppressor.";
+RL   EMBO J. 21:3863-3872(2002).
+RN   [50]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 1714-1972 IN COMPLEX WITH TP53.
+RX   PubMed=11877378; DOI=10.1101/gad.959202;
+RA   Joo W.S., Jeffrey P.D., Cantor S.B., Finnin M.S., Livingston D.M.,
+RA   Pavletich N.P.;
+RT   "Structure of the 53BP1 BRCT region bound to p53 and its comparison to the
+RT   Brca1 BRCT structure.";
+RL   Genes Dev. 16:583-593(2002).
+RN   [51]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 1485-1602, INTERACTION WITH
+RP   METHYLATED HISTONE H3 AND HISTONE H4, SUBCELLULAR LOCATION, AND MUTAGENESIS
+RP   OF TRP-1495; TYR-1502 AND ASP-1521.
+RX   PubMed=15525939; DOI=10.1038/nature03114;
+RA   Huyen Y., Zgheib O., Ditullio R.A. Jr., Gorgoulis V.G., Zacharatos P.,
+RA   Petty T.J., Sheston E.A., Mellert H.S., Stavridi E.S., Halazonetis T.D.;
+RT   "Methylated lysine 79 of histone H3 targets 53BP1 to DNA double-strand
+RT   breaks.";
+RL   Nature 432:406-411(2004).
+RN   [52]
+RP   X-RAY CRYSTALLOGRAPHY (1.25 ANGSTROMS) OF 1484-1603 IN COMPLEX WITH HISTONE
+RP   H4, SUBUNIT, FUNCTION, MUTAGENESIS OF TRP-1495; TYR-1500; TYR-1502;
+RP   ASP-1521 AND TYR-1523, AND SUBCELLULAR LOCATION.
+RX   PubMed=17190600; DOI=10.1016/j.cell.2006.10.043;
+RA   Botuyan M.V., Lee J., Ward I.M., Kim J.-E., Thompson J.R., Chen J., Mer G.;
+RT   "Structural basis for the methylation state-specific recognition of histone
+RT   H4-K20 by 53BP1 and Crb2 in DNA repair.";
+RL   Cell 127:1361-1373(2006).
+CC   -!- FUNCTION: Double-strand break (DSB) repair protein involved in response
+CC       to DNA damage, telomere dynamics and class-switch recombination (CSR)
+CC       during antibody genesis (PubMed:12364621, PubMed:22553214,
+CC       PubMed:23333306, PubMed:17190600, PubMed:21144835, PubMed:27153538,
+CC       PubMed:28241136). Plays a key role in the repair of double-strand DNA
+CC       breaks (DSBs) in response to DNA damage by promoting non-homologous end
+CC       joining (NHEJ)-mediated repair of DSBs and specifically counteracting
+CC       the function of the homologous recombination (HR) repair protein BRCA1
+CC       (PubMed:22553214, PubMed:23727112, PubMed:23333306, PubMed:27153538).
+CC       In response to DSBs, phosphorylation by ATM promotes interaction with
+CC       RIF1 and dissociation from NUDT16L1/TIRR, leading to recruitment to
+CC       DSBs sites (PubMed:28241136). Recruited to DSBs sites by recognizing
+CC       and binding histone H2A monoubiquitinated at 'Lys-15' (H2AK15Ub) and
+CC       histone H4 dimethylated at 'Lys-20' (H4K20me2), two histone marks that
+CC       are present at DSBs sites (PubMed:23760478, PubMed:27153538,
+CC       PubMed:28241136, PubMed:17190600). Required for immunoglobulin class-
+CC       switch recombination (CSR) during antibody genesis, a process that
+CC       involves the generation of DNA DSBs (PubMed:23345425). Participates in
+CC       the repair and the orientation of the broken DNA ends during CSR (By
+CC       similarity). In contrast, it is not required for classic NHEJ and V(D)J
+CC       recombination (By similarity). Promotes NHEJ of dysfunctional telomeres
+CC       via interaction with PAXIP1 (PubMed:23727112).
+CC       {ECO:0000250|UniProtKB:P70399, ECO:0000269|PubMed:12364621,
+CC       ECO:0000269|PubMed:17190600, ECO:0000269|PubMed:21144835,
+CC       ECO:0000269|PubMed:22553214, ECO:0000269|PubMed:23333306,
+CC       ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112,
+CC       ECO:0000269|PubMed:23760478, ECO:0000269|PubMed:27153538,
+CC       ECO:0000269|PubMed:28241136}.
+CC   -!- SUBUNIT: Homoligomer (PubMed:16294047, PubMed:23760478,
+CC       PubMed:23345425). Interacts with p53/TP53 (via the central domain)
+CC       (PubMed:12110597, PubMed:11877378). Interacts with DCLRE1C
+CC       (PubMed:15574327). Interacts with histone H2AX and this requires
+CC       phosphorylation of H2AX on 'Ser-139' (PubMed:12607005). Interacts with
+CC       histone H4 that has been dimethylated at 'Lys-20' (H4K20me2)
+CC       (PubMed:17190600). Has low affinity for histone H4 containing
+CC       monomethylated 'Lys-20' (H4K20me1) (PubMed:17190600). Does not bind
+CC       histone H4 containing unmethylated or trimethylated 'Lys-20' (H4K20me3)
+CC       (PubMed:17190600). Has low affinity for histone H3 that has been
+CC       dimethylated on 'Lys-79' (PubMed:15525939). Has very low affinity for
+CC       histone H3 that has been monomethylated on 'Lys-79' (in vitro)
+CC       (PubMed:15525939). Does not bind unmethylated histone H3
+CC       (PubMed:15525939). Interacts with histone H2A monoubiquitinated at
+CC       'Lys-15' (H2AK15Ub) (PubMed:23760478). Interacts with PWWP3A/EXPAND1
+CC       (PubMed:20347427). Interacts with CHEK2; modulates CHEK2
+CC       phosphorylation at 'Thr-68' in response to infrared (PubMed:12364621).
+CC       Interacts with MSL1; this interaction may be required for MSL1 DNA
+CC       repair activity, but not for histone acetyltransferase activity
+CC       (PubMed:19650074). Interacts (when phosphorylated by ATM) with RIF1
+CC       (PubMed:23727112, PubMed:23333306, PubMed:28241136). Interacts (via the
+CC       Tudor-like domain) with NUDT16L1/TIRR; interaction masks the Tudor-like
+CC       domain and prevents recruitment to chromatin (PubMed:28241136).
+CC       Interacts with PAXIP1 (PubMed:23727112). Interacts with SHLD2
+CC       (PubMed:29789392). {ECO:0000269|PubMed:11877378,
+CC       ECO:0000269|PubMed:12110597, ECO:0000269|PubMed:12364621,
+CC       ECO:0000269|PubMed:12607005, ECO:0000269|PubMed:15525939,
+CC       ECO:0000269|PubMed:15574327, ECO:0000269|PubMed:16294047,
+CC       ECO:0000269|PubMed:17190600, ECO:0000269|PubMed:19650074,
+CC       ECO:0000269|PubMed:20347427, ECO:0000269|PubMed:23333306,
+CC       ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112,
+CC       ECO:0000269|PubMed:23760478, ECO:0000269|PubMed:29789392}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts (via C-terminus) with Epstein-
+CC       Barr virus lytic switch protein BZLF1 (via C-terminus); this
+CC       interaction is involved in the activation of the viral lytic cycle.
+CC       {ECO:0000269|PubMed:19656881}.
+CC   -!- INTERACTION:
+CC       Q12888; Q49AR9: ANKS1A; NbExp=3; IntAct=EBI-396540, EBI-11954519;
+CC       Q12888; Q13315: ATM; NbExp=2; IntAct=EBI-396540, EBI-495465;
+CC       Q12888; P13637: ATP1A3; NbExp=3; IntAct=EBI-396540, EBI-948169;
+CC       Q12888; P46379-2: BAG6; NbExp=3; IntAct=EBI-396540, EBI-10988864;
+CC       Q12888; P41182: BCL6; NbExp=3; IntAct=EBI-396540, EBI-765407;
+CC       Q12888; P38398: BRCA1; NbExp=5; IntAct=EBI-396540, EBI-349905;
+CC       Q12888; Q5SWW7: C10orf55; NbExp=3; IntAct=EBI-396540, EBI-12809220;
+CC       Q12888; P55212: CASP6; NbExp=3; IntAct=EBI-396540, EBI-718729;
+CC       Q12888; Q96HB5: CCDC120; NbExp=3; IntAct=EBI-396540, EBI-744556;
+CC       Q12888; Q02930-3: CREB5; NbExp=3; IntAct=EBI-396540, EBI-10192698;
+CC       Q12888; G5E9A7: DMWD; NbExp=3; IntAct=EBI-396540, EBI-10976677;
+CC       Q12888; O75190-2: DNAJB6; NbExp=3; IntAct=EBI-396540, EBI-12593112;
+CC       Q12888; O14645: DNALI1; NbExp=3; IntAct=EBI-396540, EBI-395638;
+CC       Q12888; P50570-2: DNM2; NbExp=3; IntAct=EBI-396540, EBI-10968534;
+CC       Q12888; P16104: H2AX; NbExp=6; IntAct=EBI-396540, EBI-494830;
+CC       Q12888; P62807: H2BC8; NbExp=6; IntAct=EBI-396540, EBI-354552;
+CC       Q12888; P68431: H3C12; NbExp=5; IntAct=EBI-396540, EBI-79722;
+CC       Q12888; P62805: H4C9; NbExp=14; IntAct=EBI-396540, EBI-302023;
+CC       Q12888; O14964: HGS; NbExp=3; IntAct=EBI-396540, EBI-740220;
+CC       Q12888; P10809: HSPD1; NbExp=3; IntAct=EBI-396540, EBI-352528;
+CC       Q12888; O14901: KLF11; NbExp=3; IntAct=EBI-396540, EBI-948266;
+CC       Q12888; Q96G42: KLHDC7B; NbExp=3; IntAct=EBI-396540, EBI-9478422;
+CC       Q12888; P13473-2: LAMP2; NbExp=3; IntAct=EBI-396540, EBI-21591415;
+CC       Q12888; P50222: MEOX2; NbExp=3; IntAct=EBI-396540, EBI-748397;
+CC       Q12888; Q14686: NCOA6; NbExp=3; IntAct=EBI-396540, EBI-78670;
+CC       Q12888; Q8TDS5: OXER1; NbExp=3; IntAct=EBI-396540, EBI-12813389;
+CC       Q12888; Q6ZW49: PAXIP1; NbExp=4; IntAct=EBI-396540, EBI-743225;
+CC       Q12888; P16284: PECAM1; NbExp=3; IntAct=EBI-396540, EBI-716404;
+CC       Q12888; P78337: PITX1; NbExp=3; IntAct=EBI-396540, EBI-748265;
+CC       Q12888; Q13393: PLD1; NbExp=3; IntAct=EBI-396540, EBI-2827556;
+CC       Q12888; P53350: PLK1; NbExp=6; IntAct=EBI-396540, EBI-476768;
+CC       Q12888; D3DTS7: PMP22; NbExp=3; IntAct=EBI-396540, EBI-25882629;
+CC       Q12888; P78424: POU6F2; NbExp=3; IntAct=EBI-396540, EBI-12029004;
+CC       Q12888; O75400-2: PRPF40A; NbExp=3; IntAct=EBI-396540, EBI-5280197;
+CC       Q12888; P62826: RAN; NbExp=3; IntAct=EBI-396540, EBI-286642;
+CC       Q12888; Q86V20-2: SHLD2; NbExp=3; IntAct=EBI-396540, EBI-20592761;
+CC       Q12888; Q7Z699: SPRED1; NbExp=3; IntAct=EBI-396540, EBI-5235340;
+CC       Q12888; O43711: TLX3; NbExp=3; IntAct=EBI-396540, EBI-3939165;
+CC       Q12888; P04637: TP53; NbExp=6; IntAct=EBI-396540, EBI-366083;
+CC       Q12888; Q5T6F2: UBAP2; NbExp=3; IntAct=EBI-396540, EBI-2514383;
+CC       Q12888; P61086: UBE2K; NbExp=3; IntAct=EBI-396540, EBI-473850;
+CC       Q12888; Q08AM6: VAC14; NbExp=6; IntAct=EBI-396540, EBI-2107455;
+CC       Q12888; P23763-3: VAMP1; NbExp=3; IntAct=EBI-396540, EBI-12097582;
+CC       Q12888; P08670: VIM; NbExp=3; IntAct=EBI-396540, EBI-353844;
+CC       Q12888; Q99986: VRK1; NbExp=8; IntAct=EBI-396540, EBI-1769146;
+CC       Q12888; P04275-2: VWF; NbExp=3; IntAct=EBI-396540, EBI-25896548;
+CC       Q12888; O43257: ZNHIT1; NbExp=2; IntAct=EBI-396540, EBI-347522;
+CC       Q12888; Q6NZQ4: Paxip1; Xeno; NbExp=5; IntAct=EBI-396540, EBI-1395317;
+CC       Q12888-1; P62805: H4C9; NbExp=3; IntAct=EBI-8022649, EBI-302023;
+CC       Q12888-1; Q14686: NCOA6; NbExp=3; IntAct=EBI-8022649, EBI-78670;
+CC       Q12888-1; P63165: SUMO1; NbExp=2; IntAct=EBI-8022649, EBI-80140;
+CC       Q12888-1; P04637: TP53; NbExp=17; IntAct=EBI-8022649, EBI-366083;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11331310,
+CC       ECO:0000269|PubMed:15525939, ECO:0000269|PubMed:16294045,
+CC       ECO:0000269|PubMed:16294047, ECO:0000269|PubMed:17190600,
+CC       ECO:0000269|PubMed:19176521, ECO:0000269|PubMed:21144835,
+CC       ECO:0000269|PubMed:28241136, ECO:0000269|PubMed:9748285}. Chromosome
+CC       {ECO:0000269|PubMed:12824158, ECO:0000269|PubMed:15525939,
+CC       ECO:0000269|PubMed:17190600, ECO:0000269|PubMed:23333306,
+CC       ECO:0000269|PubMed:23760478, ECO:0000269|PubMed:24703952,
+CC       ECO:0000269|PubMed:28241136}. Chromosome, centromere, kinetochore
+CC       {ECO:0000250|UniProtKB:P70399}. Note=Localizes to the nucleus in
+CC       absence of DNA damage (PubMed:28241136). Following DNA damage,
+CC       recruited to sites of DNA damage, such as double stand breaks (DSBs):
+CC       recognizes and binds histone H2A monoubiquitinated at 'Lys-15'
+CC       (H2AK15Ub) and histone H4 dimethylated at 'Lys-20' (H4K20me2), two
+CC       histone marks that are present at DSBs sites (PubMed:23333306,
+CC       PubMed:23760478, PubMed:24703952, PubMed:28241136, PubMed:17190600).
+CC       Associated with kinetochores during mitosis (By similarity).
+CC       {ECO:0000250|UniProtKB:P70399, ECO:0000269|PubMed:17190600,
+CC       ECO:0000269|PubMed:23333306, ECO:0000269|PubMed:23760478,
+CC       ECO:0000269|PubMed:28241136}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q12888-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q12888-2; Sequence=VSP_018390;
+CC       Name=3;
+CC         IsoId=Q12888-3; Sequence=VSP_018390, VSP_055062;
+CC   -!- DOMAIN: The Tudor-like region mediates binding to histone H4
+CC       dimethylated at 'Lys-20' (H4K20me2) (PubMed:17190600). Interaction with
+CC       NUDT16L1/TIRR masks the Tudor-like domain and prevents recruitment to
+CC       chromatin (PubMed:28241136). {ECO:0000269|PubMed:17190600,
+CC       ECO:0000269|PubMed:28241136}.
+CC   -!- DOMAIN: The UDR (ubiquitin-dependent recruitment) motif specifically
+CC       recognizes and binds histone H2A monoubiquitinated at 'Lys-15'
+CC       (H2AK15ub) (PubMed:23760478, PubMed:24703952). Phosphorylation of the
+CC       UDR blocks interaction with H2AK15ub (PubMed:24703952).
+CC       {ECO:0000269|PubMed:23760478, ECO:0000269|PubMed:24703952}.
+CC   -!- PTM: Asymmetrically dimethylated on Arg residues by PRMT1. Methylation
+CC       is required for DNA binding. {ECO:0000269|PubMed:16294045,
+CC       ECO:0000269|PubMed:16294047}.
+CC   -!- PTM: Phosphorylated at basal level in the absence of DNA damage
+CC       (PubMed:11042216, PubMed:11331310). Phosphorylated by ATM in response
+CC       to DNA damage: phosphorylation at different sites promotes interaction
+CC       with different set of proteins: phosphorylation at the N-terminus by
+CC       ATM (residues from 6-178) promotes interaction with PAXIP1 and non-
+CC       homologous end joining (NHEJ) of dysfunctional telomeres
+CC       (PubMed:23727112). Phosphorylation by ATM at residues that are located
+CC       more C-terminus (residues 300-650) leads to promote interaction with
+CC       RIF1 (PubMed:23727112, PubMed:23333306, PubMed:28241136). Interaction
+CC       with RIF1 leads to disrupt interaction with NUDT16L1/TIRR
+CC       (PubMed:28241136). Phosphorylation at Thr-1609 and Ser-1618 in the UDR
+CC       motif blocks interaction with H2AK15ub (PubMed:24703952).
+CC       Dephosphorylated by PPP4C (PubMed:24703952). Hyperphosphorylation
+CC       during mitosis correlates with its exclusion from chromatin and DNA
+CC       lesions. Hyperphosphorylated in an ATR-dependent manner in response to
+CC       DNA damage induced by UV irradiation (PubMed:17553757,
+CC       PubMed:21144835). Dephosphorylated by PPP5C (PubMed:19176521).
+CC       {ECO:0000269|PubMed:11042216, ECO:0000269|PubMed:11331310,
+CC       ECO:0000269|PubMed:17553757, ECO:0000269|PubMed:19176521,
+CC       ECO:0000269|PubMed:21144835, ECO:0000269|PubMed:23333306,
+CC       ECO:0000269|PubMed:23727112, ECO:0000269|PubMed:24703952,
+CC       ECO:0000269|PubMed:28241136}.
+CC   -!- DISEASE: Note=A chromosomal aberration involving TP53BP1 is found in a
+CC       form of myeloproliferative disorder chronic with eosinophilia.
+CC       Translocation t(5;15)(q33;q22) with PDGFRB creating a TP53BP1-PDGFRB
+CC       fusion protein. {ECO:0000269|PubMed:15492236}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAE06107.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/tp53bp1/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF078776; AAC62018.1; -; mRNA.
+DR   EMBL; AB210025; BAE06107.1; ALT_INIT; mRNA.
+DR   EMBL; BX537418; CAD97660.1; -; mRNA.
+DR   EMBL; AY904026; AAW69392.1; -; Genomic_DNA.
+DR   EMBL; AC018924; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC112161; AAI12162.1; -; mRNA.
+DR   EMBL; U09477; AAA21596.1; -; mRNA.
+DR   CCDS; CCDS10096.1; -. [Q12888-1]
+DR   CCDS; CCDS45250.1; -. [Q12888-2]
+DR   CCDS; CCDS45251.1; -. [Q12888-3]
+DR   PIR; I38604; I38604.
+DR   RefSeq; NP_001135451.1; NM_001141979.1. [Q12888-3]
+DR   RefSeq; NP_001135452.1; NM_001141980.1. [Q12888-2]
+DR   RefSeq; NP_005648.1; NM_005657.2. [Q12888-1]
+DR   PDB; 1GZH; X-ray; 2.60 A; B/D=1724-1972.
+DR   PDB; 1KZY; X-ray; 2.50 A; C/D=1714-1972.
+DR   PDB; 1XNI; X-ray; 2.80 A; A/B/C/D/E/F/G/H/I/J=1485-1602.
+DR   PDB; 2G3R; X-ray; 1.25 A; A=1484-1603.
+DR   PDB; 2IG0; X-ray; 1.70 A; A=1484-1603.
+DR   PDB; 2LVM; NMR; -; A=1484-1603.
+DR   PDB; 2MWO; NMR; -; A=1484-1603.
+DR   PDB; 2MWP; NMR; -; A=1484-1603.
+DR   PDB; 3LGF; X-ray; 1.50 A; A=1484-1603.
+DR   PDB; 3LGL; X-ray; 1.60 A; A=1484-1603.
+DR   PDB; 3LH0; X-ray; 1.90 A; A=1484-1603.
+DR   PDB; 4CRI; X-ray; 2.35 A; A/B=1459-1634.
+DR   PDB; 4RG2; X-ray; 1.50 A; A/B=1483-1606.
+DR   PDB; 4X34; X-ray; 1.80 A; A/B=1484-1603.
+DR   PDB; 5ECG; X-ray; 3.00 A; C/D=1713-1972.
+DR   PDB; 5J26; X-ray; 2.50 A; A=1487-1603.
+DR   PDB; 5KGF; EM; 4.54 A; K/L=1611-1631.
+DR   PDB; 5Z78; X-ray; 1.76 A; C=1484-1603.
+DR   PDB; 5ZCJ; X-ray; 2.00 A; C=1459-1634.
+DR   PDB; 6CO1; X-ray; 2.18 A; E/F=1484-1603.
+DR   PDB; 6CO2; X-ray; 2.49 A; C/D=1484-1603.
+DR   PDB; 6IU7; X-ray; 1.90 A; B=1665-1686.
+DR   PDB; 6IUA; X-ray; 1.70 A; B=1665-1686.
+DR   PDB; 6MXX; X-ray; 2.30 A; A/B/C/D/E/F/G/H/I/J=1484-1603.
+DR   PDB; 6MXY; X-ray; 1.62 A; A/B=1484-1603.
+DR   PDB; 6MXZ; X-ray; 2.50 A; A/B/C/D/E/F/G/H/I/J=1484-1603.
+DR   PDB; 6MY0; X-ray; 2.20 A; A/B=1484-1603.
+DR   PDB; 6RML; X-ray; 2.81 A; C=663-677.
+DR   PDB; 6RMM; X-ray; 3.53 A; P/R=359-373.
+DR   PDB; 6UPT; X-ray; 1.96 A; A/B=1483-1606.
+DR   PDB; 6VA5; X-ray; 1.28 A; A=1483-1606.
+DR   PDB; 6VIP; X-ray; 1.36 A; A/B=1483-1606.
+DR   PDB; 7LIN; X-ray; 1.44 A; B=1636-1650.
+DR   PDB; 7LIO; X-ray; 3.01 A; C/D=1636-1650.
+DR   PDB; 7YQK; EM; 3.38 A; K=1613-1630, N=1485-1602.
+DR   PDB; 8EOM; X-ray; 1.70 A; A/B=1483-1606.
+DR   PDB; 8F0W; X-ray; 1.52 A; A/B=1483-1606.
+DR   PDB; 8HKW; X-ray; 1.90 A; C/D=1665-1686.
+DR   PDBsum; 1GZH; -.
+DR   PDBsum; 1KZY; -.
+DR   PDBsum; 1XNI; -.
+DR   PDBsum; 2G3R; -.
+DR   PDBsum; 2IG0; -.
+DR   PDBsum; 2LVM; -.
+DR   PDBsum; 2MWO; -.
+DR   PDBsum; 2MWP; -.
+DR   PDBsum; 3LGF; -.
+DR   PDBsum; 3LGL; -.
+DR   PDBsum; 3LH0; -.
+DR   PDBsum; 4CRI; -.
+DR   PDBsum; 4RG2; -.
+DR   PDBsum; 4X34; -.
+DR   PDBsum; 5ECG; -.
+DR   PDBsum; 5J26; -.
+DR   PDBsum; 5KGF; -.
+DR   PDBsum; 5Z78; -.
+DR   PDBsum; 5ZCJ; -.
+DR   PDBsum; 6CO1; -.
+DR   PDBsum; 6CO2; -.
+DR   PDBsum; 6IU7; -.
+DR   PDBsum; 6IUA; -.
+DR   PDBsum; 6MXX; -.
+DR   PDBsum; 6MXY; -.
+DR   PDBsum; 6MXZ; -.
+DR   PDBsum; 6MY0; -.
+DR   PDBsum; 6RML; -.
+DR   PDBsum; 6RMM; -.
+DR   PDBsum; 6UPT; -.
+DR   PDBsum; 6VA5; -.
+DR   PDBsum; 6VIP; -.
+DR   PDBsum; 7LIN; -.
+DR   PDBsum; 7LIO; -.
+DR   PDBsum; 7YQK; -.
+DR   PDBsum; 8EOM; -.
+DR   PDBsum; 8F0W; -.
+DR   PDBsum; 8HKW; -.
+DR   AlphaFoldDB; Q12888; -.
+DR   BMRB; Q12888; -.
+DR   SMR; Q12888; -.
+DR   BioGRID; 113011; 516.
+DR   CORUM; Q12888; -.
+DR   DIP; DIP-5978N; -.
+DR   IntAct; Q12888; 367.
+DR   MINT; Q12888; -.
+DR   STRING; 9606.ENSP00000371475; -.
+DR   BindingDB; Q12888; -.
+DR   ChEMBL; CHEMBL2424509; -.
+DR   GlyCosmos; Q12888; 3 sites, 1 glycan.
+DR   GlyGen; Q12888; 10 sites, 1 O-linked glycan (10 sites).
+DR   iPTMnet; Q12888; -.
+DR   MetOSite; Q12888; -.
+DR   PhosphoSitePlus; Q12888; -.
+DR   SwissPalm; Q12888; -.
+DR   BioMuta; TP53BP1; -.
+DR   DMDM; 8928568; -.
+DR   CPTAC; CPTAC-1014; -.
+DR   CPTAC; CPTAC-1015; -.
+DR   CPTAC; CPTAC-1334; -.
+DR   CPTAC; CPTAC-2608; -.
+DR   CPTAC; CPTAC-2609; -.
+DR   CPTAC; CPTAC-5914; -.
+DR   CPTAC; CPTAC-5915; -.
+DR   CPTAC; CPTAC-5916; -.
+DR   CPTAC; CPTAC-5917; -.
+DR   EPD; Q12888; -.
+DR   jPOST; Q12888; -.
+DR   MassIVE; Q12888; -.
+DR   MaxQB; Q12888; -.
+DR   PaxDb; Q12888; -.
+DR   PeptideAtlas; Q12888; -.
+DR   ProteomicsDB; 29194; -.
+DR   ProteomicsDB; 59003; -. [Q12888-1]
+DR   ProteomicsDB; 59004; -. [Q12888-2]
+DR   ABCD; Q12888; 6 sequenced antibodies.
+DR   Antibodypedia; 1749; 1064 antibodies from 41 providers.
+DR   CPTC; Q12888; 1 antibody.
+DR   DNASU; 7158; -.
+DR   Ensembl; ENST00000263801.7; ENSP00000263801.3; ENSG00000067369.14. [Q12888-1]
+DR   Ensembl; ENST00000382044.9; ENSP00000371475.5; ENSG00000067369.14. [Q12888-2]
+DR   Ensembl; ENST00000450115.6; ENSP00000393497.2; ENSG00000067369.14. [Q12888-3]
+DR   GeneID; 7158; -.
+DR   KEGG; hsa:7158; -.
+DR   MANE-Select; ENST00000382044.9; ENSP00000371475.5; NM_001141980.3; NP_001135452.1. [Q12888-2]
+DR   UCSC; uc001zrq.5; human. [Q12888-1]
+DR   AGR; HGNC:11999; -.
+DR   CTD; 7158; -.
+DR   DisGeNET; 7158; -.
+DR   GeneCards; TP53BP1; -.
+DR   HGNC; HGNC:11999; TP53BP1.
+DR   HPA; ENSG00000067369; Low tissue specificity.
+DR   MalaCards; TP53BP1; -.
+DR   MIM; 605230; gene.
+DR   neXtProt; NX_Q12888; -.
+DR   OpenTargets; ENSG00000067369; -.
+DR   PharmGKB; PA36680; -.
+DR   VEuPathDB; HostDB:ENSG00000067369; -.
+DR   eggNOG; KOG3548; Eukaryota.
+DR   GeneTree; ENSGT00390000011891; -.
+DR   HOGENOM; CLU_002167_0_0_1; -.
+DR   InParanoid; Q12888; -.
+DR   OMA; EPCVENR; -.
+DR   OrthoDB; 5403076at2759; -.
+DR   PhylomeDB; Q12888; -.
+DR   TreeFam; TF350227; -.
+DR   PathwayCommons; Q12888; -.
+DR   Reactome; R-HSA-3232118; SUMOylation of transcription factors.
+DR   Reactome; R-HSA-5693565; Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks.
+DR   Reactome; R-HSA-5693571; Nonhomologous End-Joining (NHEJ).
+DR   Reactome; R-HSA-5693607; Processing of DNA double-strand break ends.
+DR   Reactome; R-HSA-69473; G2/M DNA damage checkpoint.
+DR   SignaLink; Q12888; -.
+DR   SIGNOR; Q12888; -.
+DR   BioGRID-ORCS; 7158; 38 hits in 1177 CRISPR screens.
+DR   ChiTaRS; TP53BP1; human.
+DR   EvolutionaryTrace; Q12888; -.
+DR   GeneWiki; TP53BP1; -.
+DR   GenomeRNAi; 7158; -.
+DR   Pharos; Q12888; Tbio.
+DR   PRO; PR:Q12888; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q12888; protein.
+DR   Bgee; ENSG00000067369; Expressed in pituitary gland and 198 other tissues.
+DR   ExpressionAtlas; Q12888; baseline and differential.
+DR   Genevisible; Q12888; HS.
+DR   GO; GO:0000781; C:chromosome, telomeric region; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; IDA:ProtInc.
+DR   GO; GO:1990391; C:DNA repair complex; IEA:Ensembl.
+DR   GO; GO:0000776; C:kinetochore; IEA:UniProtKB-KW.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0005657; C:replication fork; IEA:Ensembl.
+DR   GO; GO:0035861; C:site of double-strand break; IDA:UniProtKB.
+DR   GO; GO:0003684; F:damaged DNA binding; IEA:Ensembl.
+DR   GO; GO:0042393; F:histone binding; IBA:GO_Central.
+DR   GO; GO:0035064; F:methylated histone binding; IDA:UniProtKB.
+DR   GO; GO:0002039; F:p53 binding; IPI:AgBase.
+DR   GO; GO:0061629; F:RNA polymerase II-specific DNA-binding transcription factor binding; IPI:BHF-UCL.
+DR   GO; GO:0042162; F:telomeric DNA binding; IEA:Ensembl.
+DR   GO; GO:0003712; F:transcription coregulator activity; IMP:BHF-UCL.
+DR   GO; GO:0061649; F:ubiquitin modification-dependent histone binding; IDA:UniProtKB.
+DR   GO; GO:0071481; P:cellular response to X-ray; IEA:Ensembl.
+DR   GO; GO:0000077; P:DNA damage checkpoint signaling; IBA:GO_Central.
+DR   GO; GO:0006974; P:DNA damage response; IDA:UniProtKB.
+DR   GO; GO:0006303; P:double-strand break repair via nonhomologous end joining; IDA:UniProtKB.
+DR   GO; GO:2000042; P:negative regulation of double-strand break repair via homologous recombination; IDA:UniProtKB.
+DR   GO; GO:0051091; P:positive regulation of DNA-binding transcription factor activity; IC:BHF-UCL.
+DR   GO; GO:0045893; P:positive regulation of DNA-templated transcription; NAS:UniProtKB.
+DR   GO; GO:0045830; P:positive regulation of isotype switching; IDA:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IMP:BHF-UCL.
+DR   GO; GO:0051260; P:protein homooligomerization; IDA:UniProtKB.
+DR   CDD; cd17745; BRCT_p53bp1_rpt1; 1.
+DR   CDD; cd17724; BRCT_p53bp1_rpt2; 1.
+DR   CDD; cd20383; Tudor_53BP1; 1.
+DR   DisProt; DP02954; -.
+DR   Gene3D; 2.30.30.140; -; 1.
+DR   Gene3D; 2.30.30.30; -; 1.
+DR   Gene3D; 3.40.50.10190; BRCT domain; 2.
+DR   IDEAL; IID00123; -.
+DR   InterPro; IPR015125; 53-BP1_Tudor.
+DR   InterPro; IPR001357; BRCT_dom.
+DR   InterPro; IPR036420; BRCT_dom_sf.
+DR   InterPro; IPR047249; BRCT_p53bp1-like_rpt1.
+DR   InterPro; IPR047250; BRCT_p53bp1-like_rpt2.
+DR   InterPro; IPR014722; Rib_L2_dom2.
+DR   InterPro; IPR047252; TP53BP1-like.
+DR   PANTHER; PTHR15321:SF3; TP53-BINDING PROTEIN 1; 1.
+DR   PANTHER; PTHR15321; TUMOR SUPPRESSOR P53-BINDING PROTEIN 1; 1.
+DR   Pfam; PF09038; 53-BP1_Tudor; 1.
+DR   Pfam; PF18428; BRCT_3; 1.
+DR   SMART; SM00292; BRCT; 2.
+DR   SUPFAM; SSF52113; BRCT domain; 2.
+DR   SUPFAM; SSF63748; Tudor/PWWP/MBT; 2.
+DR   PROSITE; PS50172; BRCT; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Alternative splicing; Centromere;
+KW   Chromosomal rearrangement; Chromosome; DNA damage; DNA repair; DNA-binding;
+KW   Host-virus interaction; Isopeptide bond; Kinetochore; Methylation; Nucleus;
+KW   Phosphoprotein; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Ubl conjugation.
+FT   CHAIN           1..1972
+FT                   /note="TP53-binding protein 1"
+FT                   /id="PRO_0000072643"
+FT   DOMAIN          1724..1848
+FT                   /note="BRCT 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00033"
+FT   DOMAIN          1864..1964
+FT                   /note="BRCT 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00033"
+FT   REGION          24..273
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          290..332
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          346..507
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          520..556
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          568..595
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          649..687
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          742..911
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          997..1028
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1045..1103
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1127..1148
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1188..1232
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1269..1478
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1484..1603
+FT                   /note="Tudor-like"
+FT                   /evidence="ECO:0000305|PubMed:17190600"
+FT   REGION          1495..1523
+FT                   /note="Interaction with dimethylated histone H4"
+FT                   /evidence="ECO:0000269|PubMed:17190600"
+FT   REGION          1622..1719
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1745..1768
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           1396..1403
+FT                   /note="GAR"
+FT                   /evidence="ECO:0000269|PubMed:16294045"
+FT   MOTIF           1604..1631
+FT                   /note="UDR"
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   COMPBIAS        31..63
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        76..92
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        93..124
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        130..152
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        153..209
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        346..366
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        424..441
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        452..469
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        580..595
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        794..822
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        848..878
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        887..905
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1068..1082
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1188..1202
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1216..1232
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1284..1329
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1632..1655
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1669..1683
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         25
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:19176521"
+FT   MOD_RES         63
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         105
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17525332"
+FT   MOD_RES         124
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         166
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757"
+FT   MOD_RES         176
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000305|PubMed:17553757"
+FT   MOD_RES         178
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000305|PubMed:17553757"
+FT   MOD_RES         222
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         265
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         294
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:17081983, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         302
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:17525332"
+FT   MOD_RES         366
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         380
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         395
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         398
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         429
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P70399"
+FT   MOD_RES         452
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757"
+FT   MOD_RES         464
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P70399"
+FT   MOD_RES         500
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         507
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         518
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         523
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:17525332, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         525
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         543
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:17525332,
+FT                   ECO:0007744|PubMed:19690332"
+FT   MOD_RES         548
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:17525332"
+FT   MOD_RES         552
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:17525332, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         566
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         580
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         630
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         635
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983"
+FT   MOD_RES         639
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         640
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         692
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         724
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P70399"
+FT   MOD_RES         727
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         771
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         809
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         830
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P70399"
+FT   MOD_RES         831
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:17525332, ECO:0007744|PubMed:18669648"
+FT   MOD_RES         834
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:16964243,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         855
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:17525332"
+FT   MOD_RES         922
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         970
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         975
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         1028
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1056
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1068
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1086
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757"
+FT   MOD_RES         1094
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1101
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         1114
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1148
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1214
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:17525332"
+FT   MOD_RES         1216
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17525332,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1219
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:17553757,
+FT                   ECO:0007744|PubMed:17081983, ECO:0007744|PubMed:17525332,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1317
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1342
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1355
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0000250|UniProtKB:P70399"
+FT   MOD_RES         1362
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1368
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         1372
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         1426
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:16964243,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1430
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1460
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         1462
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1474
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         1609
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:24703952,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1618
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:24703952,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1631
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P70399"
+FT   MOD_RES         1635
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1638
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1648
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1656
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1673
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1678
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1701
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1759
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         1778
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:19176521,
+FT                   ECO:0000269|PubMed:21144835"
+FT   CROSSLNK        217
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO1); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211"
+FT   CROSSLNK        217
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        868
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO1); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211"
+FT   CROSSLNK        868
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        930
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:25772364, ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        984
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        1365
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        1434
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO1); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211"
+FT   CROSSLNK        1434
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        1563
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO1); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211"
+FT   CROSSLNK        1563
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25114211,
+FT                   ECO:0007744|PubMed:25218447, ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         1
+FT                   /note="M -> MPGEQM (in isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:17974005, ECO:0000303|Ref.2"
+FT                   /id="VSP_018390"
+FT   VAR_SEQ         1692..1693
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|Ref.2"
+FT                   /id="VSP_055062"
+FT   VARIANT         353
+FT                   /note="D -> E (in dbSNP:rs560191)"
+FT                   /evidence="ECO:0000269|PubMed:17974005, ECO:0000269|Ref.4"
+FT                   /id="VAR_022172"
+FT   VARIANT         412
+FT                   /note="G -> S (in dbSNP:rs689647)"
+FT                   /evidence="ECO:0000269|PubMed:17974005, ECO:0000269|Ref.4"
+FT                   /id="VAR_022173"
+FT   VARIANT         648
+FT                   /note="M -> V (in dbSNP:rs45443496)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_022174"
+FT   VARIANT         699
+FT                   /note="Q -> R (in dbSNP:rs34823068)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_022175"
+FT   VARIANT         841
+FT                   /note="D -> G (in dbSNP:rs34185035)"
+FT                   /id="VAR_034558"
+FT   VARIANT         1014
+FT                   /note="E -> G (in dbSNP:rs45470395)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_022176"
+FT   VARIANT         1026
+FT                   /note="V -> A (in dbSNP:rs45482998)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_022177"
+FT   VARIANT         1136
+FT                   /note="K -> Q (in dbSNP:rs2602141)"
+FT                   /evidence="ECO:0000269|PubMed:17974005, ECO:0000269|Ref.4"
+FT                   /id="VAR_022178"
+FT   VARIANT         1137
+FT                   /note="E -> K (in dbSNP:rs34740611)"
+FT                   /id="VAR_034559"
+FT   VARIANT         1170
+FT                   /note="A -> G (in dbSNP:rs45500399)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_022179"
+FT   VARIANT         1174
+FT                   /note="I -> V (in dbSNP:rs3803339)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_022180"
+FT   VARIANT         1442
+FT                   /note="R -> Q (in dbSNP:rs2230449)"
+FT                   /id="VAR_034560"
+FT   VARIANT         1488
+FT                   /note="G -> W (in dbSNP:rs11554564)"
+FT                   /id="VAR_038689"
+FT   MUTAGEN         6
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148;
+FT                   A-1171 and A-1219. In 8A: Does not affect interaction with
+FT                   RIF1 and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-13; A-25; A-29; A-105; A-166; A-176
+FT                   and A-178."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         13
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148;
+FT                   A-1171 and A-1219. In 8A: Does not affect interaction with
+FT                   RIF1 and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-6; A-25; A-29; A-105; A-166; A-176
+FT                   and A-178."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         25
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148;
+FT                   A-1171 and A-1219. In 8A: Does not affect interaction with
+FT                   RIF1 and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-6; A-13; A-29; A-105; A-166; A-176
+FT                   and A-178."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         29
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148;
+FT                   A-1171 and A-1219. In 8A: Does not affect interaction with
+FT                   RIF1 and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-6; A-13; A-25; A-105; A-166; A-176
+FT                   and A-178."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         105
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-166; A-176; A-178; A-302; A-437; A-452;
+FT                   A-523; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219. In 8A: Does not affect interaction with RIF1
+FT                   and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-6; A-13; A-25; A-29; A-166; A-176
+FT                   and A-178."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         166
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-176; A-178; A-302; A-437; A-452;
+FT                   A-523; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219. In 8A: Does not affect interaction with RIF1
+FT                   and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-6; A-13; A-25; A-29; A-105; A-176
+FT                   and A-178."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         176..178
+FT                   /note="SQS->AQA: Loss of phosphorylation site."
+FT                   /evidence="ECO:0000269|PubMed:17553757"
+FT   MUTAGEN         176
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-178; A-302; A-437; A-452;
+FT                   A-523; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219. In 8A: Does not affect interaction with RIF1
+FT                   and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-6; A-13; A-25; A-29; A-105; A-166
+FT                   and A-178."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         178
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-302; A-437; A-452;
+FT                   A-523; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219. In 8A: Does not affect interaction with RIF1
+FT                   and ability to promote immunoglobulin class-switch
+FT                   recombination (CSR), but abolishes interaction with PAXIP1
+FT                   and ability to promote NHEJ of dysfunctional telomeres;
+FT                   when associated with A-6; A-13; A-25; A-29; A-105; A-166
+FT                   and A-176."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425, ECO:0000269|PubMed:23727112"
+FT   MUTAGEN         302
+FT                   /note="T->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-437; A-452;
+FT                   A-523; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         437
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-452;
+FT                   A-523; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         452
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-523; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         523
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-543; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         543
+FT                   /note="T->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-580; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         580
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-625; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         625
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-674; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         674
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-696; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         696
+FT                   /note="T->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-698; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         698
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-784;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         784
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         831
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-855; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         855
+FT                   /note="T->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-892; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         892
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-1068; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1068
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1086; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1086
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1104; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1104
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1148; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1148
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1171
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1171
+FT                   /note="T->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148
+FT                   and A-1219."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1219
+FT                   /note="S->A: In 28A: Defects in recruitment to double
+FT                   strand breaks (DSBs), abolished interaction with RIF1 and
+FT                   abolished ability to repair DSBs; when associated with A-6;
+FT                   A-13; A-25; A-29; A-105; A-166; A-176; A-178; A-302; A-437;
+FT                   A-452; A-523; A-543; A-580; A-625; A-674; A-696; A-698;
+FT                   A-784; A-831; A-855; A-892; A-1068; A-1086; A-1104; A-1148
+FT                   and A-1171."
+FT                   /evidence="ECO:0000269|PubMed:23333306,
+FT                   ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1396
+FT                   /note="R->A: No detectable effect on methylation by PRMT1
+FT                   (in vitro). Loss of methylation; when associated with
+FT                   A-1398; A-1400; A-1401 and A-1403."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1396
+FT                   /note="R->K: No detectable effect on methylation by PRMT1
+FT                   (in vitro)."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1398..1401
+FT                   /note="RGRR->AGAA: No effect on in class-switch
+FT                   recombination (CSR)."
+FT                   /evidence="ECO:0000269|PubMed:23345425"
+FT   MUTAGEN         1398
+FT                   /note="R->A: No detectable effect on methylation by PRMT1
+FT                   (in vitro). Loss of methylation; when associated with
+FT                   A-1396; A-1400; A-1401 and A-1403."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1398
+FT                   /note="R->K: Reduced methylation by PRMT1 (in vitro).
+FT                   Strongly reduced methylation; when associated with K-1400.
+FT                   Strongly reduced methylation; when associated with K-1401."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1400
+FT                   /note="R->A: No detectable effect on methylation by PRMT1
+FT                   (in vitro). Loss of methylation; when associated with
+FT                   A-1396; A-1398; A-1401 and A-1403."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1400
+FT                   /note="R->K: Reduced methylation by PRMT1 (in vitro).
+FT                   Strongly reduced methylation; when associated with K-1398.
+FT                   Strongly reduced methylation; when associated with K-1401."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1401
+FT                   /note="R->A: No detectable effect on methylation by PRMT1
+FT                   (in vitro). Loss of methylation; when associated with
+FT                   A-1396; A-1398; A-1400 and A-1403."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1401
+FT                   /note="R->K: Reduced methylation by PRMT1 (in vitro).
+FT                   Strongly reduced methylation; when associated with K-1398.
+FT                   Strongly reduced methylation; when associated with K-1400."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1403
+FT                   /note="R->A: No detectable effect on methylation by PRMT1
+FT                   (in vitro). Loss of methylation; when associated with
+FT                   A-1396; A-1398; A-1400 and A-1401."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1403
+FT                   /note="R->K: No detectable effect on methylation by PRMT1
+FT                   (in vitro)."
+FT                   /evidence="ECO:0000269|PubMed:16294045,
+FT                   ECO:0000269|PubMed:16294047"
+FT   MUTAGEN         1495
+FT                   /note="W->A,H: Loss of interaction with histone H4 that has
+FT                   been dimethylated at 'Lys-20' (H4K20me2). Abolishes
+FT                   recruitment to double strand breaks. Loss of interaction
+FT                   with histone H4 that has been dimethylated at 'Lys-20'
+FT                   (H4K20me2). Abolishes recruitment to double strand breaks;
+FT                   when associated with A-1521."
+FT                   /evidence="ECO:0000269|PubMed:15525939,
+FT                   ECO:0000269|PubMed:17190600, ECO:0000269|PubMed:28241136"
+FT   MUTAGEN         1495
+FT                   /note="W->F: No effect on recruitment to double strand
+FT                   breaks."
+FT                   /evidence="ECO:0000269|PubMed:15525939,
+FT                   ECO:0000269|PubMed:17190600"
+FT   MUTAGEN         1495
+FT                   /note="W->V: Reduces recruitment to double strand breaks."
+FT                   /evidence="ECO:0000269|PubMed:15525939,
+FT                   ECO:0000269|PubMed:17190600"
+FT   MUTAGEN         1500
+FT                   /note="Y->A: Reduces affinity for histone H4 that has been
+FT                   dimethylated at 'Lys-20'."
+FT                   /evidence="ECO:0000269|PubMed:17190600"
+FT   MUTAGEN         1502
+FT                   /note="Y->A: Reduces affinity for histone H4 that has been
+FT                   dimethylated at 'Lys-20'."
+FT                   /evidence="ECO:0000269|PubMed:15525939,
+FT                   ECO:0000269|PubMed:17190600"
+FT   MUTAGEN         1502
+FT                   /note="Y->L,Q: Abolishes recruitment to double strand
+FT                   breaks."
+FT                   /evidence="ECO:0000269|PubMed:15525939,
+FT                   ECO:0000269|PubMed:17190600"
+FT   MUTAGEN         1521
+FT                   /note="D->A: Loss of interaction with histone H4 that has
+FT                   been dimethylated at 'Lys-20' (H4K20me2). Abolishes
+FT                   recruitment to double strand breaks. Loss of interaction
+FT                   with histone H4 that has been dimethylated at 'Lys-20'
+FT                   (H4K20me2). Abolishes recruitment to double strand breaks;
+FT                   when associated with A-1495."
+FT                   /evidence="ECO:0000269|PubMed:15525939,
+FT                   ECO:0000269|PubMed:17190600, ECO:0000269|PubMed:28241136"
+FT   MUTAGEN         1521
+FT                   /note="D->R: Abolishes recruitment to double strand breaks
+FT                   and induces defects in class-switch recombination (CSR)."
+FT                   /evidence="ECO:0000269|PubMed:15525939,
+FT                   ECO:0000269|PubMed:17190600, ECO:0000269|PubMed:23345425,
+FT                   ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1523
+FT                   /note="Y->A: Increases affinity for histone H4 that has
+FT                   been dimethylated at 'Lys-20'. No effect on recruitment to
+FT                   double strand breaks."
+FT                   /evidence="ECO:0000269|PubMed:17190600"
+FT   MUTAGEN         1523
+FT                   /note="Y->S: Decreases affinity for histone H4 that has
+FT                   been dimethylated at 'Lys-20'."
+FT                   /evidence="ECO:0000269|PubMed:17190600"
+FT   MUTAGEN         1609
+FT                   /note="T->A: Constitutive recruitment to mitotic DNA
+FT                   lesions, leading to mitotic defects; when associated with
+FT                   A-1618."
+FT                   /evidence="ECO:0000269|PubMed:24703952"
+FT   MUTAGEN         1609
+FT                   /note="T->E: Phosphomimetic mutant that abolishes
+FT                   recruitment to double strand breaks; when associated with
+FT                   D-1618."
+FT                   /evidence="ECO:0000269|PubMed:24703952"
+FT   MUTAGEN         1613
+FT                   /note="K->A: Does not affect recruitment to double strand
+FT                   breaks."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1616
+FT                   /note="D->A: Does not affect recruitment to double strand
+FT                   breaks."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1617
+FT                   /note="I->A: Strongly reduced recruitment to double strand
+FT                   breaks. Defects in class-switch recombination (CSR)."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1618
+FT                   /note="S->A: Constitutive recruitment to mitotic DNA
+FT                   lesions, leading to mitotic defects; when associated with
+FT                   A-1609."
+FT                   /evidence="ECO:0000269|PubMed:24703952"
+FT   MUTAGEN         1618
+FT                   /note="S->D: Phosphomimetic mutant that abolishes
+FT                   recruitment to double strand breaks; when associated with
+FT                   E-1609."
+FT                   /evidence="ECO:0000269|PubMed:24703952"
+FT   MUTAGEN         1619
+FT                   /note="L->A: Strongly reduced recruitment to double strand
+FT                   breaks. Defects in class-switch recombination (CSR). Does
+FT                   not affect interaction with histone H4 dimethylated at
+FT                   'Lys-20' (H4K20me2). Impaired interaction with histone H2A
+FT                   monoubiquitinated at 'Lys-15' (H2AK15ub)."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1621
+FT                   /note="N->A: Reduced recruitment to double strand breaks."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1622
+FT                   /note="L->A: Reduced recruitment to double strand breaks."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1624
+FT                   /note="E->A: Does not affect recruitment to double strand
+FT                   breaks."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   MUTAGEN         1627
+FT                   /note="R->A: Reduced recruitment to double strand breaks."
+FT                   /evidence="ECO:0000269|PubMed:23760478"
+FT   CONFLICT        796
+FT                   /note="P -> S (in Ref. 3; CAD97660)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1600
+FT                   /note="Y -> C (in Ref. 3; CAD97660)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1958
+FT                   /note="G -> R (in Ref. 3; CAD97660)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          1490..1494
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   TURN            1496..1498
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   STRAND          1501..1511
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   STRAND          1514..1519
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   STRAND          1524..1528
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   HELIX           1529..1531
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   STRAND          1532..1535
+FT                   /evidence="ECO:0007829|PDB:2LVM"
+FT   STRAND          1543..1547
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   TURN            1549..1551
+FT                   /evidence="ECO:0007829|PDB:6VA5"
+FT   STRAND          1553..1564
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   STRAND          1567..1574
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   STRAND          1577..1582
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   HELIX           1583..1585
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   STRAND          1586..1588
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   HELIX           1590..1594
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   HELIX           1597..1600
+FT                   /evidence="ECO:0007829|PDB:2G3R"
+FT   TURN            1674..1676
+FT                   /evidence="ECO:0007829|PDB:6IUA"
+FT   HELIX           1715..1719
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   TURN            1726..1731
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1732..1736
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1741..1745
+FT                   /evidence="ECO:0007829|PDB:1GZH"
+FT   HELIX           1773..1781
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   TURN            1782..1784
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   TURN            1793..1799
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1801..1808
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1813..1821
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1825..1827
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1829..1837
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1843..1845
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1851..1853
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   TURN            1854..1857
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1858..1860
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   TURN            1868..1871
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1873..1879
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   TURN            1881..1884
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1885..1894
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1898..1908
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1914..1916
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   STRAND          1918..1922
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1928..1937
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1944..1953
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+FT   HELIX           1963..1965
+FT                   /evidence="ECO:0007829|PDB:1KZY"
+SQ   SEQUENCE   1972 AA;  213574 MW;  13E2CC8A265F9D2A CRC64;
+     MDPTGSQLDS DFSQQDTPCL IIEDSQPESQ VLEDDSGSHF SMLSRHLPNL QTHKENPVLD
+     VVSNPEQTAG EERGDGNSGF NEHLKENKVA DPVDSSNLDT CGSISQVIEQ LPQPNRTSSV
+     LGMSVESAPA VEEEKGEELE QKEKEKEEDT SGNTTHSLGA EDTASSQLGF GVLELSQSQD
+     VEENTVPYEV DKEQLQSVTT NSGYTRLSDV DANTAIKHEE QSNEDIPIAE QSSKDIPVTA
+     QPSKDVHVVK EQNPPPARSE DMPFSPKASV AAMEAKEQLS AQELMESGLQ IQKSPEPEVL
+     STQEDLFDQS NKTVSSDGCS TPSREEGGCS LASTPATTLH LLQLSGQRSL VQDSLSTNSS
+     DLVAPSPDAF RSTPFIVPSS PTEQEGRQDK PMDTSVLSEE GGEPFQKKLQ SGEPVELENP
+     PLLPESTVSP QASTPISQST PVFPPGSLPI PSQPQFSHDI FIPSPSLEEQ SNDGKKDGDM
+     HSSSLTVECS KTSEIEPKNS PEDLGLSLTG DSCKLMLSTS EYSQSPKMES LSSHRIDEDG
+     ENTQIEDTEP MSPVLNSKFV PAENDSILMN PAQDGEVQLS QNDDKTKGDD TDTRDDISIL
+     ATGCKGREET VAEDVCIDLT CDSGSQAVPS PATRSEALSS VLDQEEAMEI KEHHPEEGSS
+     GSEVEEIPET PCESQGEELK EENMESVPLH LSLTETQSQG LCLQKEMPKK ECSEAMEVET
+     SVISIDSPQK LAILDQELEH KEQEAWEEAT SEDSSVVIVD VKEPSPRVDV SCEPLEGVEK
+     CSDSQSWEDI APEIEPCAEN RLDTKEEKSV EYEGDLKSGT AETEPVEQDS SQPSLPLVRA
+     DDPLRLDQEL QQPQTQEKTS NSLTEDSKMA NAKQLSSDAE AQKLGKPSAH ASQSFCESSS
+     ETPFHFTLPK EGDIIPPLTG ATPPLIGHLK LEPKRHSTPI GISNYPESTI ATSDVMSESM
+     VETHDPILGS GKGDSGAAPD VDDKLCLRMK LVSPETEASE ESLQFNLEKP ATGERKNGST
+     AVAESVASPQ KTMSVLSCIC EARQENEARS EDPPTTPIRG NLLHFPSSQG EEEKEKLEGD
+     HTIRQSQQPM KPISPVKDPV SPASQKMVIQ GPSSPQGEAM VTDVLEDQKE GRSTNKENPS
+     KALIERPSQN NIGIQTMECS LRVPETVSAA TQTIKNVCEQ GTSTVDQNFG KQDATVQTER
+     GSGEKPVSAP GDDTESLHSQ GEEEFDMPQP PHGHVLHRHM RTIREVRTLV TRVITDVYYV
+     DGTEVERKVT EETEEPIVEC QECETEVSPS QTGGSSGDLG DISSFSSKAS SLHRTSSGTS
+     LSAMHSSGSS GKGAGPLRGK TSGTEPADFA LPSSRGGPGK LSPRKGVSQT GTPVCEEDGD
+     AGLGIRQGGK APVTPRGRGR RGRPPSRTTG TRETAVPGPL GIEDISPNLS PDDKSFSRVV
+     PRVPDSTRRT DVGAGALRRS DSPEIPFQAA AGPSDGLDAS SPGNSFVGLR VVAKWSSNGY
+     FYSGKITRDV GAGKYKLLFD DGYECDVLGK DILLCDPIPL DTEVTALSED EYFSAGVVKG
+     HRKESGELYY SIEKEGQRKW YKRMAVILSL EQGNRLREQY GLGPYEAVTP LTKAADISLD
+     NLVEGKRKRR SNVSSPATPT ASSSSSTTPT RKITESPRAS MGVLSGKRKL ITSEEERSPA
+     KRGRKSATVK PGAVGAGEFV SPCESGDNTG EPSALEEQRG PLPLNKTLFL GYAFLLTMAT
+     TSDKLASRSK LPDGPTGSSE EEEEFLEIPP FNKQYTESQL RAGAGYILED FNEAQCNTAY
+     QCLLIADQHC RTRKYFLCLA SGIPCVSHVW VHDSCHANQL QNYRNYLLPA GYSLEEQRIL
+     DWQPRENPFQ NLKVLLVSDQ QQNFLELWSE ILMTGGAASV KQHHSSAHNK DIALGVFDVV
+     VTDPSCPASV LKCAEALQLP VVSQEWVIQC LIVGERIGFK QHPKYKHDYV SH
+//

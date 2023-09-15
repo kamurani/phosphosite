@@ -1,0 +1,473 @@
+ID   SF3B6_HUMAN             Reviewed;         125 AA.
+AC   Q9Y3B4; Q53TM1;
+DT   24-JAN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   28-JUN-2023, entry version 201.
+DE   RecName: Full=Splicing factor 3B subunit 6;
+DE   AltName: Full=Pre-mRNA branch site protein p14;
+DE   AltName: Full=SF3b 14 kDa subunit;
+DE            Short=SF3B14a;
+DE   AltName: Full=Spliceosome-associated protein, 14-kDa;
+DE   AltName: Full=Splicing factor 3b, subunit 6, 14kDa;
+GN   Name=SF3B6; Synonyms=SAP14, SF3B14, SF3B14A;
+GN   ORFNames=CGI-110, HSPC175, HT006;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND PROTEIN SEQUENCE OF 29-39 AND 41-58.
+RX   PubMed=11500380; DOI=10.1093/emboj/20.16.4536;
+RA   Will C.L., Schneider C., MacMillan A.M., Katopodis N.F., Neubauer G.,
+RA   Wilm M., Luehrmann R., Query C.C.;
+RT   "A novel U2 and U11/U12 snRNP protein that associates with the pre-mRNA
+RT   branch site.";
+RL   EMBO J. 20:4536-4546(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=10810093; DOI=10.1101/gr.10.5.703;
+RA   Lai C.-H., Chou C.-Y., Ch'ang L.-Y., Liu C.-S., Lin W.-C.;
+RT   "Identification of novel human genes evolutionarily conserved in
+RT   Caenorhabditis elegans by comparative proteomics.";
+RL   Genome Res. 10:703-713(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Umbilical cord blood;
+RX   PubMed=11042152; DOI=10.1101/gr.140200;
+RA   Zhang Q.-H., Ye M., Wu X.-Y., Ren S.-X., Zhao M., Zhao C.-J., Fu G.,
+RA   Shen Y., Fan H.-Y., Lu G., Zhong M., Xu X.-R., Han Z.-G., Zhang J.-W.,
+RA   Tao J., Huang Q.-H., Zhou J., Hu G.-X., Gu J., Chen S.-J., Chen Z.;
+RT   "Cloning and functional analysis of cDNAs with open reading frames for 300
+RT   previously undefined genes expressed in CD34+ hematopoietic stem/progenitor
+RT   cells.";
+RL   Genome Res. 10:1546-1560(2000).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Hypothalamus;
+RX   PubMed=10931946; DOI=10.1073/pnas.160270997;
+RA   Hu R.-M., Han Z.-G., Song H.-D., Peng Y.-D., Huang Q.-H., Ren S.-X.,
+RA   Gu Y.-J., Huang C.-H., Li Y.-B., Jiang C.-L., Fu G., Zhang Q.-H., Gu B.-W.,
+RA   Dai M., Mao Y.-F., Gao G.-F., Rong R., Ye M., Zhou J., Xu S.-H., Gu J.,
+RA   Shi J.-X., Jin W.-R., Zhang C.-K., Wu T.-M., Huang G.-Y., Chen Z.,
+RA   Chen M.-D., Chen J.-L.;
+RT   "Gene expression profiling in the human hypothalamus-pituitary-adrenal axis
+RT   and full-length cDNA cloning.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:9543-9548(2000).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   TISSUE=Testis;
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   IDENTIFICATION IN THE SF3B COMPLEX, AND SUBCELLULAR LOCATION.
+RX   PubMed=12234937; DOI=10.1093/emboj/cdf480;
+RA   Will C.L., Urlaub H., Achsel T., Gentzel M., Wilm M., Luehrmann R.;
+RT   "Characterization of novel SF3b and 17S U2 snRNP proteins, including a
+RT   human Prp5p homologue and an SF3b DEAD-box protein.";
+RL   EMBO J. 21:4978-4988(2002).
+RN   [10]
+RP   IDENTIFICATION IN THE SF3B COMPLEX, AND ELECTRON MICROSCOPY OF THE SF3B
+RP   COMPLEX.
+RX   PubMed=12738865; DOI=10.1126/science.1084155;
+RA   Golas M.M., Sander B., Will C.L., Luhrmann R., Stark H.;
+RT   "Molecular architecture of the multiprotein splicing factor SF3b.";
+RL   Science 300:980-984(2003).
+RN   [11]
+RP   IDENTIFICATION IN A COMPLEX WITH THE MINOR SPLICEOSOME, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY.
+RX   PubMed=15146077; DOI=10.1261/rna.7320604;
+RA   Will C.L., Schneider C., Hossbach M., Urlaub H., Rauhut R., Elbashir S.,
+RA   Tuschl T., Luehrmann R.;
+RT   "The human 18S U11/U12 snRNP contains a set of novel proteins not found in
+RT   the U2-dependent spliceosome.";
+RL   RNA 10:929-941(2004).
+RN   [12]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-29 AND LYS-41, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-29, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to replication
+RT   stress reveals novel small ubiquitin-like modified target proteins and
+RT   acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [16]
+RP   FUNCTION, IDENTIFICATION IN THE SF3B COMPLEX, SUBUNIT, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=27720643; DOI=10.1016/j.molcel.2016.08.036;
+RA   Cretu C., Schmitzova J., Ponce-Salvatierra A., Dybkov O.,
+RA   De Laurentiis E.I., Sharma K., Will C.L., Urlaub H., Luehrmann R., Pena V.;
+RT   "Molecular architecture of SF3b and structural consequences of its cancer-
+RT   related mutations.";
+RL   Mol. Cell 64:307-319(2016).
+RN   [17]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, IDENTIFICATION IN THE SF3B COMPLEX,
+RP   AND SUBCELLULAR LOCATION.
+RX   PubMed=28541300; DOI=10.1038/ncomms15522;
+RA   Teng T., Tsai J.H., Puyang X., Seiler M., Peng S., Prajapati S., Aird D.,
+RA   Buonamici S., Caleb B., Chan B., Corson L., Feala J., Fekkes P., Gerard B.,
+RA   Karr C., Korpal M., Liu X., Lowe J.T., Mizui Y., Palacino J., Park E.,
+RA   Smith P.G., Subramanian V., Wu Z.J., Zou J., Yu L., Chicas A., Warmuth M.,
+RA   Larsen N., Zhu P.;
+RT   "Splicing modulators act at the branch point adenosine binding pocket
+RT   defined by the PHF5A-SF3b complex.";
+RL   Nat. Commun. 8:15522-15522(2017).
+RN   [18]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-29, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) IN COMPLEX WITH SF3B1, SUBUNIT,
+RP   RNA-BINDING, FUNCTION, AND REGION.
+RX   PubMed=16432215; DOI=10.1073/pnas.0508048103;
+RA   Schellenberg M.J., Edwards R.A., Ritchie D.B., Kent O.A., Golas M.M.,
+RA   Stark H., Luhrmann R., Glover J.N., MacMillan A.M.;
+RT   "Crystal structure of a core spliceosomal protein interface.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:1266-1271(2006).
+RN   [20]
+RP   STRUCTURE BY NMR OF 8-93 IN COMPLEX WITH SF3B1.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "NMR solution structure of the human spliceosomal protein complex p14-
+RT   SF3B155.";
+RL   Submitted (JAN-2007) to the PDB data bank.
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (2.38 ANGSTROMS) OF 11-125 IN COMPLEX WITH SF3B1, AND
+RP   SUBUNIT.
+RX   PubMed=21062891; DOI=10.1261/rna.2224411;
+RA   Schellenberg M.J., Dul E.L., MacMillan A.M.;
+RT   "Structural model of the p14/SF3b155 - branch duplex complex.";
+RL   RNA 17:155-165(2011).
+RN   [22] {ECO:0007744|PDB:7DVQ}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.89 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=33509932; DOI=10.1126/science.abg0879;
+RA   Bai R., Wan R., Wang L., Xu K., Zhang Q., Lei J., Shi Y.;
+RT   "Structure of the activated human minor spliceosome.";
+RL   Science 371:0-0(2021).
+CC   -!- FUNCTION: Involved in pre-mRNA splicing as a component of the splicing
+CC       factor SF3B complex (PubMed:27720643). SF3B complex is required for 'A'
+CC       complex assembly formed by the stable binding of U2 snRNP to the
+CC       branchpoint sequence (BPS) in pre-mRNA (PubMed:12234937). Directly
+CC       contacts the pre-mRNA branch site adenosine for the first catalytic
+CC       step of splicing (PubMed:16432215). Enters the spliceosome and
+CC       associates with the pre-mRNA branch site as part of the 17S U2 or, in
+CC       the case of the minor spliceosome, as part of the 18S U11/U12 snRNP
+CC       complex, and thus may facilitate the interaction of these snRNP with
+CC       the branch sites of U2 and U12 respectively (PubMed:16432215).
+CC       {ECO:0000269|PubMed:12234937, ECO:0000269|PubMed:16432215,
+CC       ECO:0000269|PubMed:27720643}.
+CC   -!- SUBUNIT: Component of splicing factor SF3B complex which is composed of
+CC       at least eight subunits; SF3B1, SF3B2, SF3B3, SF3B4, SF3B5, SF3B6,
+CC       PHF5A and DDX42 (PubMed:12234937, PubMed:12738865, PubMed:16432215,
+CC       PubMed:27720643, PubMed:28541300). Within the SF3B complex interacts
+CC       directly with SF3B1 (PubMed:21062891, PubMed:16432215, Ref.20). The
+CC       SF3B complex composed of SF3B1, SF3B2, SF3B3, SF3B4, SF3B5, SF3B6 and
+CC       PHF5A interacts with U2AF2 (PubMed:27720643). Component of the minor
+CC       spliceosome, which splices U12-type introns (PubMed:15146077,
+CC       PubMed:33509932). {ECO:0000269|PubMed:12234937,
+CC       ECO:0000269|PubMed:12738865, ECO:0000269|PubMed:15146077,
+CC       ECO:0000269|PubMed:16432215, ECO:0000269|PubMed:21062891,
+CC       ECO:0000269|PubMed:27720643, ECO:0000269|PubMed:28541300,
+CC       ECO:0000269|PubMed:33509932, ECO:0000269|Ref.20}.
+CC   -!- INTERACTION:
+CC       Q9Y3B4; O75533-1: SF3B1; NbExp=3; IntAct=EBI-1046261, EBI-15565798;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:27720643,
+CC       ECO:0000269|PubMed:28541300}.
+CC   -!- SIMILARITY: Belongs to the SF3B6 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF401310; AAK94041.1; -; mRNA.
+DR   EMBL; AF151868; AAD34105.1; -; mRNA.
+DR   EMBL; AF161523; AAF29138.1; -; mRNA.
+DR   EMBL; AF184213; AAG09698.1; -; mRNA.
+DR   EMBL; AK311908; BAG34849.1; -; mRNA.
+DR   EMBL; AC008073; AAY14664.1; -; Genomic_DNA.
+DR   EMBL; CH471053; EAX00767.1; -; Genomic_DNA.
+DR   EMBL; BC015463; AAH15463.1; -; mRNA.
+DR   CCDS; CCDS1707.1; -.
+DR   RefSeq; NP_057131.1; NM_016047.3.
+DR   PDB; 2F9D; X-ray; 2.50 A; A/B=1-125.
+DR   PDB; 2F9J; X-ray; 3.00 A; A/B=1-125.
+DR   PDB; 2FHO; NMR; -; B=8-93.
+DR   PDB; 3LQV; X-ray; 2.38 A; A/B=11-125.
+DR   PDB; 5Z56; EM; 5.10 A; 5=1-125.
+DR   PDB; 5Z57; EM; 6.50 A; 5=1-125.
+DR   PDB; 5Z58; EM; 4.90 A; 5=1-125.
+DR   PDB; 6AH0; EM; 5.70 A; 5=1-125.
+DR   PDB; 6AHD; EM; 3.80 A; 5=1-125.
+DR   PDB; 6FF4; EM; 16.00 A; z=1-125.
+DR   PDB; 6FF7; EM; 4.50 A; N/z=1-125.
+DR   PDB; 6Y53; EM; 7.10 A; z=1-125.
+DR   PDB; 6Y5Q; EM; 7.10 A; z=1-125.
+DR   PDB; 7ABG; EM; 7.80 A; z=1-125.
+DR   PDB; 7ABH; EM; 4.50 A; z=1-125.
+DR   PDB; 7ABI; EM; 8.00 A; z=1-125.
+DR   PDB; 7DVQ; EM; 2.89 A; 5=1-125.
+DR   PDB; 7Q4O; EM; 2.20 A; F=1-125.
+DR   PDBsum; 2F9D; -.
+DR   PDBsum; 2F9J; -.
+DR   PDBsum; 2FHO; -.
+DR   PDBsum; 3LQV; -.
+DR   PDBsum; 5Z56; -.
+DR   PDBsum; 5Z57; -.
+DR   PDBsum; 5Z58; -.
+DR   PDBsum; 6AH0; -.
+DR   PDBsum; 6AHD; -.
+DR   PDBsum; 6FF4; -.
+DR   PDBsum; 6FF7; -.
+DR   PDBsum; 6Y53; -.
+DR   PDBsum; 6Y5Q; -.
+DR   PDBsum; 7ABG; -.
+DR   PDBsum; 7ABH; -.
+DR   PDBsum; 7ABI; -.
+DR   PDBsum; 7DVQ; -.
+DR   PDBsum; 7Q4O; -.
+DR   AlphaFoldDB; Q9Y3B4; -.
+DR   BMRB; Q9Y3B4; -.
+DR   SMR; Q9Y3B4; -.
+DR   BioGRID; 119651; 179.
+DR   ComplexPortal; CPX-2227; SF3B complex.
+DR   ComplexPortal; CPX-2539; U2 small nuclear ribonucleoprotein complex.
+DR   CORUM; Q9Y3B4; -.
+DR   DIP; DIP-44132N; -.
+DR   IntAct; Q9Y3B4; 47.
+DR   MINT; Q9Y3B4; -.
+DR   STRING; 9606.ENSP00000233468; -.
+DR   GlyGen; Q9Y3B4; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9Y3B4; -.
+DR   PhosphoSitePlus; Q9Y3B4; -.
+DR   SwissPalm; Q9Y3B4; -.
+DR   BioMuta; SF3B6; -.
+DR   DMDM; 12585536; -.
+DR   EPD; Q9Y3B4; -.
+DR   jPOST; Q9Y3B4; -.
+DR   MassIVE; Q9Y3B4; -.
+DR   MaxQB; Q9Y3B4; -.
+DR   PaxDb; Q9Y3B4; -.
+DR   PeptideAtlas; Q9Y3B4; -.
+DR   ProteomicsDB; 86002; -.
+DR   TopDownProteomics; Q9Y3B4; -.
+DR   Antibodypedia; 27422; 192 antibodies from 23 providers.
+DR   DNASU; 51639; -.
+DR   Ensembl; ENST00000233468.5; ENSP00000233468.4; ENSG00000115128.7.
+DR   GeneID; 51639; -.
+DR   KEGG; hsa:51639; -.
+DR   MANE-Select; ENST00000233468.5; ENSP00000233468.4; NM_016047.4; NP_057131.1.
+DR   UCSC; uc002rev.4; human.
+DR   AGR; HGNC:30096; -.
+DR   CTD; 51639; -.
+DR   DisGeNET; 51639; -.
+DR   GeneCards; SF3B6; -.
+DR   HGNC; HGNC:30096; SF3B6.
+DR   HPA; ENSG00000115128; Low tissue specificity.
+DR   MIM; 607835; gene.
+DR   neXtProt; NX_Q9Y3B4; -.
+DR   OpenTargets; ENSG00000115128; -.
+DR   VEuPathDB; HostDB:ENSG00000115128; -.
+DR   eggNOG; KOG0114; Eukaryota.
+DR   GeneTree; ENSGT00390000005908; -.
+DR   HOGENOM; CLU_012062_25_2_1; -.
+DR   InParanoid; Q9Y3B4; -.
+DR   OMA; HQPDKMV; -.
+DR   OrthoDB; 167355at2759; -.
+DR   PhylomeDB; Q9Y3B4; -.
+DR   PathwayCommons; Q9Y3B4; -.
+DR   Reactome; R-HSA-72163; mRNA Splicing - Major Pathway.
+DR   Reactome; R-HSA-72165; mRNA Splicing - Minor Pathway.
+DR   SignaLink; Q9Y3B4; -.
+DR   SIGNOR; Q9Y3B4; -.
+DR   BioGRID-ORCS; 51639; 707 hits in 1070 CRISPR screens.
+DR   ChiTaRS; SF3B6; human.
+DR   EvolutionaryTrace; Q9Y3B4; -.
+DR   GeneWiki; SF3B14; -.
+DR   GenomeRNAi; 51639; -.
+DR   Pharos; Q9Y3B4; Tbio.
+DR   PRO; PR:Q9Y3B4; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; Q9Y3B4; protein.
+DR   Bgee; ENSG00000115128; Expressed in upper arm skin and 183 other tissues.
+DR   Genevisible; Q9Y3B4; HS.
+DR   GO; GO:0071013; C:catalytic step 2 spliceosome; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0071011; C:precatalytic spliceosome; IBA:GO_Central.
+DR   GO; GO:0005681; C:spliceosomal complex; NAS:ComplexPortal.
+DR   GO; GO:0005689; C:U12-type spliceosomal complex; IDA:UniProtKB.
+DR   GO; GO:0005686; C:U2 snRNP; IBA:GO_Central.
+DR   GO; GO:0005684; C:U2-type spliceosomal complex; IPI:ComplexPortal.
+DR   GO; GO:0003729; F:mRNA binding; IDA:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0001825; P:blastocyst formation; IEA:Ensembl.
+DR   GO; GO:0000398; P:mRNA splicing, via spliceosome; IDA:UniProtKB.
+DR   GO; GO:1903241; P:U2-type prespliceosome assembly; NAS:ComplexPortal.
+DR   CDD; cd12241; RRM_SF3B14; 1.
+DR   DisProt; DP01458; -.
+DR   Gene3D; 3.30.70.330; -; 1.
+DR   IDEAL; IID00229; -.
+DR   InterPro; IPR012677; Nucleotide-bd_a/b_plait_sf.
+DR   InterPro; IPR035979; RBD_domain_sf.
+DR   InterPro; IPR000504; RRM_dom.
+DR   InterPro; IPR034150; SF3B6_RRM.
+DR   PANTHER; PTHR23003:SF49; MULTIPLE RNA-BINDING DOMAIN-CONTAINING PROTEIN 1-RELATED; 1.
+DR   PANTHER; PTHR23003; RNA RECOGNITION MOTIF RRM DOMAIN CONTAINING PROTEIN; 1.
+DR   Pfam; PF00076; RRM_1; 1.
+DR   SMART; SM00360; RRM; 1.
+DR   SUPFAM; SSF54928; RNA-binding domain, RBD; 1.
+DR   PROSITE; PS50102; RRM; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Direct protein sequencing; Isopeptide bond;
+KW   mRNA processing; mRNA splicing; Nucleus; Reference proteome; RNA-binding;
+KW   Spliceosome; Ubl conjugation.
+FT   CHAIN           1..125
+FT                   /note="Splicing factor 3B subunit 6"
+FT                   /id="PRO_0000081725"
+FT   DOMAIN          19..94
+FT                   /note="RRM"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00176"
+FT   REGION          16..29
+FT                   /note="Interaction with pre-mRNA branch site"
+FT   MOD_RES         29
+FT                   /note="N6-acetyllysine; alternate"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         41
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   CROSSLNK        29
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:28112733"
+FT   STRAND          19..25
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   HELIX           32..40
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   STRAND          41..43
+FT                   /evidence="ECO:0007829|PDB:7DVQ"
+FT   STRAND          45..51
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   TURN            54..58
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   STRAND          60..66
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   HELIX           67..77
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   STRAND          81..84
+FT                   /evidence="ECO:0007829|PDB:3LQV"
+FT   STRAND          88..91
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   HELIX           94..97
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   TURN            98..100
+FT                   /evidence="ECO:0007829|PDB:7Q4O"
+FT   HELIX           103..117
+FT                   /evidence="ECO:0007829|PDB:3LQV"
+SQ   SEQUENCE   125 AA;  14585 MW;  A1439DACB78A3208 CRC64;
+     MAMQAAKRAN IRLPPEVNRI LYIRNLPYKI TAEEMYDIFG KYGPIRQIRV GNTPETRGTA
+     YVVYEDIFDA KNACDHLSGF NVCNRYLVVL YYNANRAFQK MDTKKKEEQL KLLKEKYGIN
+     TDPPK
+//

@@ -1,0 +1,531 @@
+ID   TPOR_HUMAN              Reviewed;         635 AA.
+AC   P40238; Q5JUZ0;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 1.
+DT   28-JUN-2023, entry version 215.
+DE   RecName: Full=Thrombopoietin receptor;
+DE            Short=TPO-R;
+DE   AltName: Full=Myeloproliferative leukemia protein;
+DE   AltName: Full=Proto-oncogene c-Mpl;
+DE   AltName: CD_antigen=CD110;
+DE   Flags: Precursor;
+GN   Name=MPL; Synonyms=TPOR;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2).
+RX   PubMed=1608974; DOI=10.1073/pnas.89.12.5640;
+RA   Vigon I., Mornon J.-P., Cocault L., Mitjavila M.-T., Tambourin P.,
+RA   Gisselbrecht S., Souyri M.;
+RT   "Molecular cloning and characterization of MPL, the human homolog of the v-
+RT   mpl oncogene: identification of a member of the hematopoietic growth factor
+RT   receptor superfamily.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:5640-5644(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE (ISOFORMS 1 AND 2).
+RX   PubMed=8020956; DOI=10.1006/geno.1994.1120;
+RA   Mignotte V., Vigon I., Boucher de Crevecoeur E., Romeo P.-H.,
+RA   Lemarchandel V., Chretien S.;
+RT   "Structure and transcription of the human c-mpl gene (MPL).";
+RL   Genomics 20:5-12(1994).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   UBIQUITINATION AT LYS-553 AND LYS573.
+RX   PubMed=19880496; DOI=10.1182/blood-2009-06-227033;
+RA   Saur S.J., Sangkhae V., Geddis A.E., Kaushansky K., Hitchcock I.S.;
+RT   "Ubiquitination and degradation of the thrombopoietin receptor c-Mpl.";
+RL   Blood 115:1254-1263(2010).
+RN   [6]
+RP   VARIANTS VAL-58 AND LYS-168.
+RX   PubMed=10391209; DOI=10.1038/10290;
+RA   Cargill M., Altshuler D., Ireland J., Sklar P., Ardlie K., Patil N.,
+RA   Shaw N., Lane C.R., Lim E.P., Kalyanaraman N., Nemesh J., Ziaugra L.,
+RA   Friedland L., Rolfe A., Warrington J., Lipshutz R., Daley G.Q.,
+RA   Lander E.S.;
+RT   "Characterization of single-nucleotide polymorphisms in coding regions of
+RT   human genes.";
+RL   Nat. Genet. 22:231-238(1999).
+RN   [7]
+RP   ERRATUM OF PUBMED:10391209.
+RA   Cargill M., Altshuler D., Ireland J., Sklar P., Ardlie K., Patil N.,
+RA   Shaw N., Lane C.R., Lim E.P., Kalyanaraman N., Nemesh J., Ziaugra L.,
+RA   Friedland L., Rolfe A., Warrington J., Lipshutz R., Daley G.Q.,
+RA   Lander E.S.;
+RL   Nat. Genet. 23:373-373(1999).
+RN   [8]
+RP   INTERACTION WITH ATXN2L.
+RX   PubMed=11784712; DOI=10.1074/jbc.m105970200;
+RA   Meunier C.F., Bordereaux D., Porteu F., Gisselbrecht S., Chretien S.,
+RA   Courtois G.;
+RT   "Cloning and characterization of a family of proteins associated with
+RT   Mpl.";
+RL   J. Biol. Chem. 277:9139-9147(2002).
+RN   [9]
+RP   VARIANT THCYT2 ASN-505.
+RX   PubMed=14764528; DOI=10.1182/blood-2003-10-3471;
+RA   Ding J., Komatsu H., Wakita A., Kato-Uranishi M., Ito M., Satoh A.,
+RA   Tsuboi K., Nitta M., Miyazaki H., Iida S., Ueda R.;
+RT   "Familial essential thrombocythemia associated with a dominant-positive
+RT   activating mutation of the c-MPL gene, which encodes for the receptor for
+RT   thrombopoietin.";
+RL   Blood 103:4198-4200(2004).
+RN   [10]
+RP   VARIANT ASN-39, AND CHARACTERIZATION OF VARIANT ASN-39.
+RX   PubMed=15269348; DOI=10.1073/pnas.0404241101;
+RA   Moliterno A.R., Williams D.M., Gutierrez-Alamillo L.I., Salvatori R.,
+RA   Ingersoll R.G., Spivak J.L.;
+RT   "Mpl Baltimore: a thrombopoietin receptor polymorphism associated with
+RT   thrombocytosis.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:11444-11447(2004).
+RN   [11]
+RP   VARIANT MMM LYS-515.
+RX   PubMed=16868251; DOI=10.1182/blood-2006-04-018879;
+RA   Pardanani A.D., Levine R.L., Lasho T., Pikman Y., Mesa R.A., Wadleigh M.,
+RA   Steensma D.P., Elliott M.A., Wolanskyj A.P., Hogan W.J., McClure R.F.,
+RA   Litzow M.R., Gilliland D.G., Tefferi A.;
+RT   "MPL515 mutations in myeloproliferative and other myeloid disorders: a
+RT   study of 1182 patients.";
+RL   Blood 108:3472-3476(2006).
+RN   [12]
+RP   VARIANTS CAMT CYS-102; PRO-102; SER-104; LEU-136; ARG-154; LEU-257;
+RP   THR-275; CYS-435 AND TRP-594.
+RX   PubMed=16470591; DOI=10.1002/humu.9415;
+RA   Germeshausen M., Ballmaier M., Welte K.;
+RT   "MPL mutations in 23 patients suffering from congenital amegakaryocytic
+RT   thrombocytopenia: the type of mutation predicts the course of the
+RT   disease.";
+RL   Hum. Mutat. 27:296-296(2006).
+RN   [13]
+RP   VARIANT MMM LEU-515, AND CHARACTERIZATION OF VARIANT MMM LEU-515.
+RX   PubMed=16834459; DOI=10.1371/journal.pmed.0030270;
+RA   Pikman Y., Lee B.H., Mercher T., McDowell E., Ebert B.L., Gozo M.,
+RA   Cuker A., Wernig G., Moore S., Galinsky I., DeAngelo D.J., Clark J.J.,
+RA   Lee S.J., Golub T.R., Wadleigh M., Gilliland D.G., Levine R.L.;
+RT   "MPLW515L is a novel somatic activating mutation in myelofibrosis with
+RT   myeloid metaplasia.";
+RL   PLoS Med. 3:E270-E270(2006).
+RN   [14]
+RP   CHARACTERIZATION OF VARIANT THCYT2 ASN-505.
+RX   PubMed=19483125; DOI=10.1182/blood-2008-04-149047;
+RA   Ding J., Komatsu H., Iida S., Yano H., Kusumoto S., Inagaki A., Mori F.,
+RA   Ri M., Ito A., Wakita A., Ishida T., Nitta M., Ueda R.;
+RT   "The Asn505 mutation of the c-MPL gene, which causes familial essential
+RT   thrombocythemia, induces autonomous homodimerization of the c-Mpl protein
+RT   due to strong amino acid polarity.";
+RL   Blood 114:3325-3328(2009).
+RN   [15]
+RP   VARIANT THCYT2 LEU-515.
+RX   PubMed=23441089; DOI=10.1002/pbc.24500;
+RA   Farruggia P., D'Angelo P., La Rosa M., Scibetta N., Santangelo G.,
+RA   Lo Bello A., Duner E., Randi M.L., Putti M.C., Santoro A.;
+RT   "MPL W515L mutation in pediatric essential thrombocythemia.";
+RL   Pediatr. Blood Cancer 60:E52-E54(2013).
+RN   [16]
+RP   VARIANT THCYT2 LEU-106, CHARACTERIZATION OF VARIANT THCYT2 LEU-106,
+RP   CHARACTERIZATION OF VARIANTS CAMT PRO-102 AND SER-104, GLYCOSYLATION,
+RP   SUBCELLULAR LOCATION, AND SUBUNIT.
+RX   PubMed=25538044; DOI=10.1182/blood-2014-07-587170;
+RA   Stockklausner C., Klotter A.C., Dickemann N., Kuhlee I.N., Duffert C.M.,
+RA   Kerber C., Gehring N.H., Kulozik A.E.;
+RT   "The thrombopoietin receptor P106L mutation functionally separates receptor
+RT   signaling activity from thrombopoietin homeostasis.";
+RL   Blood 125:1159-1169(2015).
+CC   -!- FUNCTION: Receptor for thrombopoietin that acts as a primary regulator
+CC       of megakaryopoiesis and platelet production. May represent a regulatory
+CC       molecule specific for TPO-R-dependent immune responses.
+CC       {ECO:0000250|UniProtKB:Q08351}.
+CC   -!- SUBUNIT: Homodimer (PubMed:25538044). Interacts with ATXN2L.
+CC       {ECO:0000269|PubMed:11784712, ECO:0000303|PubMed:25538044}.
+CC   -!- INTERACTION:
+CC       P40238; O60674: JAK2; NbExp=6; IntAct=EBI-6511486, EBI-518647;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:25538044};
+CC       Single-pass type I membrane protein. Golgi apparatus
+CC       {ECO:0000269|PubMed:25538044}. Cell surface
+CC       {ECO:0000269|PubMed:25538044}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=C-mpl-P;
+CC         IsoId=P40238-1; Sequence=Displayed;
+CC       Name=2; Synonyms=C-mpl-K;
+CC         IsoId=P40238-2; Sequence=VSP_001734, VSP_001735;
+CC   -!- TISSUE SPECIFICITY: Expressed at a low level in a large number of cells
+CC       of hematopoietic origin. Isoform 1 and isoform 2 are always found to be
+CC       coexpressed.
+CC   -!- DOMAIN: The WSXWS motif appears to be necessary for proper protein
+CC       folding and thereby efficient intracellular transport and cell-surface
+CC       receptor binding.
+CC   -!- DOMAIN: The box 1 motif is required for JAK interaction and/or
+CC       activation.
+CC   -!- PTM: Ubiquitination at Lys-553 and Lys-573 targets MPL for degradation
+CC       by both the lysosomal and proteasomal pathways. The E3 ubiquitin-
+CC       protein ligase CBL significantly contributes to this ubiquitination.
+CC       {ECO:0000269|PubMed:19880496}.
+CC   -!- DISEASE: Congenital amegakaryocytic thrombocytopenia (CAMT)
+CC       [MIM:604498]: Disease characterized by isolated thrombocytopenia and
+CC       megakaryocytopenia with no physical anomalies.
+CC       {ECO:0000269|PubMed:16470591, ECO:0000269|PubMed:25538044}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: Thrombocythemia 2 (THCYT2) [MIM:601977]: A myeloproliferative
+CC       disorder characterized by excessive platelet production, resulting in
+CC       increased numbers of circulating platelets. It can be associated with
+CC       spontaneous hemorrhages and thrombotic episodes.
+CC       {ECO:0000269|PubMed:14764528, ECO:0000269|PubMed:19483125,
+CC       ECO:0000269|PubMed:23441089, ECO:0000269|PubMed:25538044}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: Myelofibrosis with myeloid metaplasia (MMM) [MIM:254450]: A
+CC       chronic myeloproliferative disorder characterized by replacement of the
+CC       bone marrow by fibrous tissue, extramedullary hematopoiesis, anemia,
+CC       leukoerythroblastosis and hepatosplenomegaly.
+CC       {ECO:0000269|PubMed:16834459, ECO:0000269|PubMed:16868251}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- SIMILARITY: Belongs to the type I cytokine receptor family. Type 1
+CC       subfamily. {ECO:0000305}.
+CC   -!- CAUTION: It is uncertain whether Met-1 or Met-8 is the initiator.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M90102; AAA69971.1; -; mRNA.
+DR   EMBL; M90103; AAA69972.1; -; mRNA.
+DR   EMBL; U68162; AAB08424.1; -; Genomic_DNA.
+DR   EMBL; U68159; AAB08424.1; JOINED; Genomic_DNA.
+DR   EMBL; U68160; AAB08424.1; JOINED; Genomic_DNA.
+DR   EMBL; U68161; AAB08424.1; JOINED; Genomic_DNA.
+DR   EMBL; U68162; AAB08425.1; -; Genomic_DNA.
+DR   EMBL; U68159; AAB08425.1; JOINED; Genomic_DNA.
+DR   EMBL; U68160; AAB08425.1; JOINED; Genomic_DNA.
+DR   EMBL; U68161; AAB08425.1; JOINED; Genomic_DNA.
+DR   EMBL; AL139289; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471059; EAX07103.1; -; Genomic_DNA.
+DR   CCDS; CCDS483.1; -. [P40238-1]
+DR   PIR; A45266; A45266.
+DR   PIR; B45266; B45266.
+DR   RefSeq; NP_005364.1; NM_005373.2. [P40238-1]
+DR   AlphaFoldDB; P40238; -.
+DR   BioGRID; 110492; 44.
+DR   DIP; DIP-5730N; -.
+DR   ELM; P40238; -.
+DR   IntAct; P40238; 2.
+DR   STRING; 9606.ENSP00000361548; -.
+DR   BindingDB; P40238; -.
+DR   ChEMBL; CHEMBL1864; -.
+DR   DrugBank; DB11995; Avatrombopag.
+DR   DrugBank; DB06210; Eltrombopag.
+DR   DrugBank; DB13125; Lusutrombopag.
+DR   DrugBank; DB05332; Romiplostim.
+DR   DrugBank; DB05930; SB-559448.
+DR   DrugBank; DB06534; Thrombopoietin.
+DR   DrugCentral; P40238; -.
+DR   GuidetoPHARMACOLOGY; 1722; -.
+DR   GlyConnect; 1803; 1 N-Linked glycan (1 site).
+DR   GlyCosmos; P40238; 4 sites, 1 glycan.
+DR   GlyGen; P40238; 4 sites, 1 N-linked glycan (1 site).
+DR   iPTMnet; P40238; -.
+DR   PhosphoSitePlus; P40238; -.
+DR   BioMuta; MPL; -.
+DR   DMDM; 730980; -.
+DR   MassIVE; P40238; -.
+DR   PaxDb; P40238; -.
+DR   PeptideAtlas; P40238; -.
+DR   ProteomicsDB; 55354; -. [P40238-1]
+DR   ProteomicsDB; 55355; -. [P40238-2]
+DR   ABCD; P40238; 28 sequenced antibodies.
+DR   Antibodypedia; 2379; 409 antibodies from 31 providers.
+DR   DNASU; 4352; -.
+DR   Ensembl; ENST00000372470.9; ENSP00000361548.3; ENSG00000117400.18. [P40238-1]
+DR   GeneID; 4352; -.
+DR   KEGG; hsa:4352; -.
+DR   MANE-Select; ENST00000372470.9; ENSP00000361548.3; NM_005373.3; NP_005364.1.
+DR   UCSC; uc001ciw.4; human. [P40238-1]
+DR   AGR; HGNC:7217; -.
+DR   CTD; 4352; -.
+DR   DisGeNET; 4352; -.
+DR   GeneCards; MPL; -.
+DR   HGNC; HGNC:7217; MPL.
+DR   HPA; ENSG00000117400; Low tissue specificity.
+DR   MalaCards; MPL; -.
+DR   MIM; 159530; gene.
+DR   MIM; 254450; phenotype.
+DR   MIM; 601977; phenotype.
+DR   MIM; 604498; phenotype.
+DR   neXtProt; NX_P40238; -.
+DR   OpenTargets; ENSG00000117400; -.
+DR   Orphanet; 3319; Congenital amegakaryocytic thrombocytopenia.
+DR   Orphanet; 3318; Essential thrombocythemia.
+DR   Orphanet; 71493; Familial thrombocytosis.
+DR   Orphanet; 397692; Hereditary isolated aplastic anemia.
+DR   Orphanet; 729; Polycythemia vera.
+DR   Orphanet; 824; Primary myelofibrosis.
+DR   PharmGKB; PA30923; -.
+DR   VEuPathDB; HostDB:ENSG00000117400; -.
+DR   eggNOG; ENOG502RYN1; Eukaryota.
+DR   GeneTree; ENSGT00940000161225; -.
+DR   HOGENOM; CLU_029931_1_0_1; -.
+DR   InParanoid; P40238; -.
+DR   OMA; IWEKCEE; -.
+DR   OrthoDB; 5297263at2759; -.
+DR   PhylomeDB; P40238; -.
+DR   TreeFam; TF336573; -.
+DR   PathwayCommons; P40238; -.
+DR   Reactome; R-HSA-76009; Platelet Aggregation (Plug Formation).
+DR   SignaLink; P40238; -.
+DR   SIGNOR; P40238; -.
+DR   BioGRID-ORCS; 4352; 15 hits in 1152 CRISPR screens.
+DR   ChiTaRS; MPL; human.
+DR   GeneWiki; Thrombopoietin_receptor; -.
+DR   GenomeRNAi; 4352; -.
+DR   Pharos; P40238; Tclin.
+DR   PRO; PR:P40238; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; P40238; protein.
+DR   Bgee; ENSG00000117400; Expressed in mononuclear cell and 98 other tissues.
+DR   ExpressionAtlas; P40238; baseline and differential.
+DR   Genevisible; P40238; HS.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0009897; C:external side of plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:UniProtKB.
+DR   GO; GO:0043005; C:neuron projection; IEA:Ensembl.
+DR   GO; GO:0043025; C:neuronal cell body; IEA:Ensembl.
+DR   GO; GO:0031965; C:nuclear membrane; IDA:HPA.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0038164; F:thrombopoietin receptor activity; IMP:UniProtKB.
+DR   GO; GO:1990960; P:basophil homeostasis; IEA:Ensembl.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IEA:Ensembl.
+DR   GO; GO:1990959; P:eosinophil homeostasis; IEA:Ensembl.
+DR   GO; GO:0016064; P:immunoglobulin mediated immune response; IBA:GO_Central.
+DR   GO; GO:0035702; P:monocyte homeostasis; IEA:Ensembl.
+DR   GO; GO:0001780; P:neutrophil homeostasis; IEA:Ensembl.
+DR   GO; GO:0070527; P:platelet aggregation; IEA:Ensembl.
+DR   GO; GO:0050671; P:positive regulation of lymphocyte proliferation; IEA:Ensembl.
+DR   GO; GO:1905221; P:positive regulation of platelet formation; IEA:Ensembl.
+DR   GO; GO:0038163; P:thrombopoietin-mediated signaling pathway; IBA:GO_Central.
+DR   CDD; cd00063; FN3; 2.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 4.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR036116; FN3_sf.
+DR   InterPro; IPR015152; Growth/epo_recpt_lig-bind.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003528; Long_hematopoietin_rcpt_CS.
+DR   PANTHER; PTHR23037; CYTOKINE RECEPTOR; 1.
+DR   PANTHER; PTHR23037:SF28; ERYTHROPOIETIN RECEPTOR; 1.
+DR   Pfam; PF09067; EpoR_lig-bind; 1.
+DR   Pfam; PF00041; fn3; 1.
+DR   SMART; SM00060; FN3; 2.
+DR   SUPFAM; SSF49265; Fibronectin type III; 3.
+DR   PROSITE; PS50853; FN3; 2.
+DR   PROSITE; PS01352; HEMATOPO_REC_L_F1; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Disease variant; Disulfide bond;
+KW   Glycoprotein; Golgi apparatus; Isopeptide bond; Membrane; Receptor;
+KW   Reference proteome; Repeat; Signal; Transmembrane; Transmembrane helix;
+KW   Ubl conjugation.
+FT   SIGNAL          1..25
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           26..635
+FT                   /note="Thrombopoietin receptor"
+FT                   /id="PRO_0000010987"
+FT   TOPO_DOM        26..491
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        492..513
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        514..635
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          172..281
+FT                   /note="Fibronectin type-III 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          392..486
+FT                   /note="Fibronectin type-III 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   REGION          205..232
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           474..478
+FT                   /note="WSXWS motif"
+FT   MOTIF           528..536
+FT                   /note="Box 1 motif"
+FT   CARBOHYD        117
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        178
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        298
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        358
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        40..50
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        77..93
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        291..301
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        323..334
+FT                   /evidence="ECO:0000250"
+FT   CROSSLNK        553
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:19880496"
+FT   CROSSLNK        573
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT   VAR_SEQ         523..579
+FT                   /note="RLRHALWPSLPDLHRVLGQYLRDTAALSPPKATVSDTCEEVEPSLLEILPKS
+FT                   SERTP -> YRPRQAGDWRWTRWSRTCKQAFLVRSVTPDLRPPPVRTYGFALPARHLWD
+FT                   SPRLLTL (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:1608974"
+FT                   /id="VSP_001734"
+FT   VAR_SEQ         580..635
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:1608974"
+FT                   /id="VSP_001735"
+FT   VARIANT         39
+FT                   /note="K -> N (associated with thrombocytosis; results in
+FT                   altered MPL expression; dbSNP:rs17292650)"
+FT                   /evidence="ECO:0000269|PubMed:15269348"
+FT                   /id="VAR_049173"
+FT   VARIANT         58
+FT                   /note="A -> V (in dbSNP:rs6087)"
+FT                   /evidence="ECO:0000269|PubMed:10391209"
+FT                   /id="VAR_011988"
+FT   VARIANT         102
+FT                   /note="R -> C (in CAMT; dbSNP:rs763568293)"
+FT                   /evidence="ECO:0000269|PubMed:16470591"
+FT                   /id="VAR_073030"
+FT   VARIANT         102
+FT                   /note="R -> P (in CAMT; loss of function; loss of membrane
+FT                   localization, impaired glycosylation; dbSNP:rs28928907)"
+FT                   /evidence="ECO:0000269|PubMed:16470591,
+FT                   ECO:0000269|PubMed:25538044"
+FT                   /id="VAR_073031"
+FT   VARIANT         104
+FT                   /note="F -> S (in CAMT; loss of function;
+FT                   dbSNP:rs1196161699)"
+FT                   /evidence="ECO:0000269|PubMed:16470591,
+FT                   ECO:0000269|PubMed:25538044"
+FT                   /id="VAR_073032"
+FT   VARIANT         106
+FT                   /note="P -> L (in THCYT2; gain of function; loss of
+FT                   membrane localization, impaired glycosylation;
+FT                   dbSNP:rs750046020)"
+FT                   /evidence="ECO:0000269|PubMed:25538044"
+FT                   /id="VAR_073033"
+FT   VARIANT         114
+FT                   /note="V -> M (in dbSNP:rs12731981)"
+FT                   /id="VAR_049174"
+FT   VARIANT         136
+FT                   /note="P -> L (in CAMT; dbSNP:rs764904424)"
+FT                   /evidence="ECO:0000269|PubMed:16470591"
+FT                   /id="VAR_073034"
+FT   VARIANT         154
+FT                   /note="W -> R (in CAMT; dbSNP:rs758428763)"
+FT                   /evidence="ECO:0000269|PubMed:16470591"
+FT                   /id="VAR_073035"
+FT   VARIANT         168
+FT                   /note="E -> K (in dbSNP:rs6088)"
+FT                   /evidence="ECO:0000269|PubMed:10391209"
+FT                   /id="VAR_011989"
+FT   VARIANT         257
+FT                   /note="R -> L (in CAMT)"
+FT                   /evidence="ECO:0000269|PubMed:16470591"
+FT                   /id="VAR_073036"
+FT   VARIANT         275
+FT                   /note="P -> T (in CAMT; dbSNP:rs28928908)"
+FT                   /evidence="ECO:0000269|PubMed:16470591"
+FT                   /id="VAR_073037"
+FT   VARIANT         435
+FT                   /note="W -> C (in CAMT; dbSNP:rs1006158872)"
+FT                   /evidence="ECO:0000269|PubMed:16470591"
+FT                   /id="VAR_073038"
+FT   VARIANT         505
+FT                   /note="S -> N (in THCYT2; activating mutation; induces MPL
+FT                   autonomous dimerization and signal activation in the
+FT                   absence of the ligand; dbSNP:rs121913614)"
+FT                   /evidence="ECO:0000269|PubMed:14764528,
+FT                   ECO:0000269|PubMed:19483125"
+FT                   /id="VAR_067559"
+FT   VARIANT         515
+FT                   /note="W -> K (in MMM; somatic mutation; requires 2
+FT                   nucleotide substitutions; dbSNP:rs121913616)"
+FT                   /evidence="ECO:0000269|PubMed:16868251"
+FT                   /id="VAR_067560"
+FT   VARIANT         515
+FT                   /note="W -> L (in THCYT2 and MMM; somatic mutation in
+FT                   myelofibrosis with myeloid metaplasia; results in
+FT                   cytokine-independent growth and thrombopoietin
+FT                   hypersensitivity; results in constitutive activation of
+FT                   JAK-STAT signaling pathway; dbSNP:rs121913615)"
+FT                   /evidence="ECO:0000269|PubMed:16834459,
+FT                   ECO:0000269|PubMed:23441089"
+FT                   /id="VAR_067561"
+FT   VARIANT         594
+FT                   /note="L -> W (in CAMT; dbSNP:rs1448812001)"
+FT                   /evidence="ECO:0000269|PubMed:16470591"
+FT                   /id="VAR_073039"
+SQ   SEQUENCE   635 AA;  71245 MW;  D25D8D8959359DDC CRC64;
+     MPSWALFMVT SCLLLAPQNL AQVSSQDVSL LASDSEPLKC FSRTFEDLTC FWDEEEAAPS
+     GTYQLLYAYP REKPRACPLS SQSMPHFGTR YVCQFPDQEE VRLFFPLHLW VKNVFLNQTR
+     TQRVLFVDSV GLPAPPSIIK AMGGSQPGEL QISWEEPAPE ISDFLRYELR YGPRDPKNST
+     GPTVIQLIAT ETCCPALQRP HSASALDQSP CAQPTMPWQD GPKQTSPSRE ASALTAEGGS
+     CLISGLQPGN SYWLQLRSEP DGISLGGSWG SWSLPVTVDL PGDAVALGLQ CFTLDLKNVT
+     CQWQQQDHAS SQGFFYHSRA RCCPRDRYPI WENCEEEEKT NPGLQTPQFS RCHFKSRNDS
+     IIHILVEVTT APGTVHSYLG SPFWIHQAVR LPTPNLHWRE ISSGHLELEW QHPSSWAAQE
+     TCYQLRYTGE GHQDWKVLEP PLGARGGTLE LRPRSRYRLQ LRARLNGPTY QGPWSSWSDP
+     TRVETATETA WISLVTALHL VLGLSAVLGL LLLRWQFPAH YRRLRHALWP SLPDLHRVLG
+     QYLRDTAALS PPKATVSDTC EEVEPSLLEI LPKSSERTPL PLCSSQAQMD YRRLQPSCLG
+     TMPLSVCPPM AESGSCCTTH IANHSYLPLS YWQQP
+//

@@ -1,0 +1,356 @@
+ID   L2HDH_HUMAN             Reviewed;         463 AA.
+AC   Q9H9P8; Q9BRR1;
+DT   21-MAR-2006, integrated into UniProtKB/Swiss-Prot.
+DT   11-JAN-2011, sequence version 3.
+DT   28-JUN-2023, entry version 163.
+DE   RecName: Full=L-2-hydroxyglutarate dehydrogenase, mitochondrial;
+DE            EC=1.1.99.2;
+DE   AltName: Full=Duranin;
+DE   Flags: Precursor;
+GN   Name=L2HGDH; Synonyms=C14orf160;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), VARIANTS L2HGA GLU-81 AND ASP-176,
+RP   AND CHARACTERIZATION OF VARIANTS L2HGA GLU-81 AND ASP-176.
+RX   PubMed=15548604; DOI=10.1073/pnas.0404840101;
+RA   Rzem R., Veiga-da-Cunha M., Noel G., Goffette S., Nassogne M.-C.,
+RA   Tabarki B., Schoeller C., Marquardt T., Vikkula M., van Schaftingen E.;
+RT   "A gene encoding a putative FAD-dependent L-2-hydroxyglutarate
+RT   dehydrogenase is mutated in L-2-hydroxyglutaric aciduria.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:16849-16854(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12508121; DOI=10.1038/nature01348;
+RA   Heilig R., Eckenberg R., Petit J.-L., Fonknechten N., Da Silva C.,
+RA   Cattolico L., Levy M., Barbe V., De Berardinis V., Ureta-Vidal A.,
+RA   Pelletier E., Vico V., Anthouard V., Rowen L., Madan A., Qin S., Sun H.,
+RA   Du H., Pepin K., Artiguenave F., Robert C., Cruaud C., Bruels T.,
+RA   Jaillon O., Friedlander L., Samson G., Brottier P., Cure S., Segurens B.,
+RA   Aniere F., Samain S., Crespeau H., Abbasi N., Aiach N., Boscus D.,
+RA   Dickhoff R., Dors M., Dubois I., Friedman C., Gouyvenoux M., James R.,
+RA   Madan A., Mairey-Estrada B., Mangenot S., Martins N., Menard M., Oztas S.,
+RA   Ratcliffe A., Shaffer T., Trask B., Vacherie B., Bellemere C., Belser C.,
+RA   Besnard-Gonnet M., Bartol-Mavel D., Boutard M., Briez-Silla S.,
+RA   Combette S., Dufosse-Laurent V., Ferron C., Lechaplais C., Louesse C.,
+RA   Muselet D., Magdelenat G., Pateau E., Petit E., Sirvain-Trukniewicz P.,
+RA   Trybou A., Vega-Czarny N., Bataille E., Bluet E., Bordelais I., Dubois M.,
+RA   Dumont C., Guerin T., Haffray S., Hammadi R., Muanga J., Pellouin V.,
+RA   Robert D., Wunderle E., Gauguet G., Roy A., Sainte-Marthe L., Verdier J.,
+RA   Verdier-Discala C., Hillier L.W., Fulton L., McPherson J., Matsuda F.,
+RA   Wilson R., Scarpelli C., Gyapay G., Wincker P., Saurin W., Quetier F.,
+RA   Waterston R., Hood L., Weissenbach J.;
+RT   "The DNA sequence and analysis of human chromosome 14.";
+RL   Nature 421:601-607(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT ARG-18.
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, SUBCELLULAR LOCATION,
+RP   AND COFACTOR.
+RX   PubMed=16005139; DOI=10.1016/j.biochi.2005.06.005;
+RA   Rzem R., Van Schaftingen E., Veiga-da-Cunha M.;
+RT   "The gene mutated in L-2-hydroxyglutaric aciduria encodes L-2-
+RT   hydroxyglutarate dehydrogenase.";
+RL   Biochimie 88:113-116(2006).
+RN   [6]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-155, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [10]
+RP   VARIANTS L2HGA ASP-55; TYR-98 AND LEU-302, AND TISSUE SPECIFICITY.
+RX   PubMed=15385440; DOI=10.1093/hmg/ddh300;
+RA   Topcu M., Jobard F., Halliez S., Coskun T., Yalcinkayal C., Gerceker F.O.,
+RA   Wanders R.J.A., Prud'homme J.-F., Lathrop M., Ozguc M., Fischer J.;
+RT   "L-2-hydroxyglutaric aciduria: identification of a mutant gene C14orf160,
+RT   localized on chromosome 14q22.1.";
+RL   Hum. Mol. Genet. 13:2803-2811(2004).
+RN   [11]
+RP   VARIANTS L2HGA ARG-57; ARG-98; LEU-302 AND PRO-434, AND VARIANTS ARG-18 AND
+RP   PHE-178.
+RX   PubMed=16134148; DOI=10.1002/humu.9373;
+RA   Vilarinho L., Cardoso M.L., Gaspar P., Barbot C., Azevedo L., Diogo L.,
+RA   Santos M., Carrilho I., Fineza I., Kok F., Chorao R., Alegria P.,
+RA   Martins E., Teixeira J., Cabral-Fernandes H., Verhoeven N.M.,
+RA   Salomons G.S., Santorelli F.M., Cabral P., Amorim A., Jakobs C.;
+RT   "Novel L2HGDH mutations in 21 patients with L-2-hydroxyglutaric aciduria of
+RT   Portuguese origin.";
+RL   Hum. Mutat. 26:395-396(2005).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(S)-2-hydroxyglutarate + A = 2-oxoglutarate + AH2;
+CC         Xref=Rhea:RHEA:21252, ChEBI:CHEBI:13193, ChEBI:CHEBI:16782,
+CC         ChEBI:CHEBI:16810, ChEBI:CHEBI:17499; EC=1.1.99.2;
+CC         Evidence={ECO:0000269|PubMed:16005139};
+CC   -!- COFACTOR:
+CC       Name=FAD; Xref=ChEBI:CHEBI:57692;
+CC         Evidence={ECO:0000269|PubMed:16005139};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=800 uM for L-2-hydroxyglutarate {ECO:0000269|PubMed:16005139};
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion {ECO:0000269|PubMed:16005139}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9H9P8-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9H9P8-2; Sequence=VSP_017662, VSP_017663;
+CC   -!- TISSUE SPECIFICITY: Widely expressed. Highly expressed in brain, testis
+CC       and muscle. Expressed to a lower extent in lymphocytes, fibroblasts,
+CC       keratinocytes, placenta, bladder, small intestine, liver and bone
+CC       marrow. {ECO:0000269|PubMed:15385440}.
+CC   -!- DISEASE: L-2-hydroxyglutaric aciduria (L2HGA) [MIM:236792]: A rare
+CC       autosomal recessive disorder clinically characterized by mild
+CC       psychomotor delay in the first years of life, followed by progressive
+CC       cerebellar ataxia, dysarthria and moderate to severe intellectual
+CC       disability. Diagnosis is based on the presence of an excess of L-2-
+CC       hydroxyglutaric acid in urine, blood and cerebrospinal fluid.
+CC       {ECO:0000269|PubMed:15385440, ECO:0000269|PubMed:15548604,
+CC       ECO:0000269|PubMed:16134148}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: Was named 'duranin' in honor of Marinus Duran, who first
+CC       described L-2-hydroxyglutaric aciduria.
+CC   -!- SIMILARITY: Belongs to the L2HGDH family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY757363; AAV52330.1; -; mRNA.
+DR   EMBL; AK022680; BAB14174.1; -; mRNA.
+DR   EMBL; AL109758; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL359397; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC006117; AAH06117.1; -; mRNA.
+DR   CCDS; CCDS9698.1; -. [Q9H9P8-1]
+DR   RefSeq; NP_079160.1; NM_024884.2. [Q9H9P8-1]
+DR   RefSeq; XP_005268132.1; XM_005268075.4. [Q9H9P8-1]
+DR   AlphaFoldDB; Q9H9P8; -.
+DR   SMR; Q9H9P8; -.
+DR   BioGRID; 123016; 78.
+DR   IntAct; Q9H9P8; 18.
+DR   STRING; 9606.ENSP00000267436; -.
+DR   GlyGen; Q9H9P8; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9H9P8; -.
+DR   PhosphoSitePlus; Q9H9P8; -.
+DR   SwissPalm; Q9H9P8; -.
+DR   BioMuta; L2HGDH; -.
+DR   DMDM; 317373422; -.
+DR   EPD; Q9H9P8; -.
+DR   jPOST; Q9H9P8; -.
+DR   MassIVE; Q9H9P8; -.
+DR   MaxQB; Q9H9P8; -.
+DR   PaxDb; Q9H9P8; -.
+DR   PeptideAtlas; Q9H9P8; -.
+DR   ProteomicsDB; 81345; -. [Q9H9P8-1]
+DR   ProteomicsDB; 81346; -. [Q9H9P8-2]
+DR   Antibodypedia; 47264; 201 antibodies from 26 providers.
+DR   DNASU; 79944; -.
+DR   Ensembl; ENST00000267436.9; ENSP00000267436.4; ENSG00000087299.12. [Q9H9P8-1]
+DR   Ensembl; ENST00000421284.7; ENSP00000405559.3; ENSG00000087299.12. [Q9H9P8-1]
+DR   GeneID; 79944; -.
+DR   KEGG; hsa:79944; -.
+DR   MANE-Select; ENST00000267436.9; ENSP00000267436.4; NM_024884.3; NP_079160.1.
+DR   UCSC; uc001wxu.4; human. [Q9H9P8-1]
+DR   AGR; HGNC:20499; -.
+DR   CTD; 79944; -.
+DR   DisGeNET; 79944; -.
+DR   GeneCards; L2HGDH; -.
+DR   HGNC; HGNC:20499; L2HGDH.
+DR   HPA; ENSG00000087299; Low tissue specificity.
+DR   MalaCards; L2HGDH; -.
+DR   MIM; 236792; phenotype.
+DR   MIM; 609584; gene.
+DR   neXtProt; NX_Q9H9P8; -.
+DR   OpenTargets; ENSG00000087299; -.
+DR   Orphanet; 79314; L-2-hydroxyglutaric aciduria.
+DR   PharmGKB; PA134971279; -.
+DR   VEuPathDB; HostDB:ENSG00000087299; -.
+DR   eggNOG; KOG2665; Eukaryota.
+DR   GeneTree; ENSGT00490000043421; -.
+DR   HOGENOM; CLU_024775_0_0_1; -.
+DR   InParanoid; Q9H9P8; -.
+DR   OMA; GVHFTRM; -.
+DR   OrthoDB; 1815533at2759; -.
+DR   PhylomeDB; Q9H9P8; -.
+DR   TreeFam; TF105922; -.
+DR   BRENDA; 1.1.99.2; 2681.
+DR   PathwayCommons; Q9H9P8; -.
+DR   Reactome; R-HSA-880009; Interconversion of 2-oxoglutarate and 2-hydroxyglutarate.
+DR   SABIO-RK; Q9H9P8; -.
+DR   SignaLink; Q9H9P8; -.
+DR   BioGRID-ORCS; 79944; 14 hits in 1160 CRISPR screens.
+DR   ChiTaRS; L2HGDH; human.
+DR   GeneWiki; L2HGDH; -.
+DR   GenomeRNAi; 79944; -.
+DR   Pharos; Q9H9P8; Tbio.
+DR   PRO; PR:Q9H9P8; -.
+DR   Proteomes; UP000005640; Chromosome 14.
+DR   RNAct; Q9H9P8; protein.
+DR   Bgee; ENSG00000087299; Expressed in muscle of leg and 137 other tissues.
+DR   ExpressionAtlas; Q9H9P8; baseline and differential.
+DR   Genevisible; Q9H9P8; HS.
+DR   GO; GO:0016020; C:membrane; IDA:HGNC-UCL.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; TAS:Reactome.
+DR   GO; GO:0005739; C:mitochondrion; IDA:HGNC-UCL.
+DR   GO; GO:0047545; F:2-hydroxyglutarate dehydrogenase activity; IDA:HGNC-UCL.
+DR   GO; GO:0006103; P:2-oxoglutarate metabolic process; TAS:Reactome.
+DR   GO; GO:0044281; P:small molecule metabolic process; IDA:HGNC-UCL.
+DR   Gene3D; 3.30.9.10; D-Amino Acid Oxidase, subunit A, domain 2; 1.
+DR   Gene3D; 3.50.50.60; FAD/NAD(P)-binding domain; 1.
+DR   InterPro; IPR006076; FAD-dep_OxRdtase.
+DR   InterPro; IPR036188; FAD/NAD-bd_sf.
+DR   PANTHER; PTHR43104; L-2-HYDROXYGLUTARATE DEHYDROGENASE, MITOCHONDRIAL; 1.
+DR   PANTHER; PTHR43104:SF2; L-2-HYDROXYGLUTARATE DEHYDROGENASE, MITOCHONDRIAL; 1.
+DR   Pfam; PF01266; DAO; 1.
+DR   SUPFAM; SSF51905; FAD/NAD(P)-binding domain; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Disease variant; FAD; Flavoprotein;
+KW   Mitochondrion; Oxidoreductase; Reference proteome; Transit peptide.
+FT   TRANSIT         1..51
+FT                   /note="Mitochondrion"
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           52..463
+FT                   /note="L-2-hydroxyglutarate dehydrogenase, mitochondrial"
+FT                   /id="PRO_0000228129"
+FT   MOD_RES         104
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q91YP0"
+FT   MOD_RES         155
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         173
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q91YP0"
+FT   VAR_SEQ         400
+FT                   /note="G -> QVAVRGPSWLWQQPMKVSDNNIYCFLWRCFALLLTGSTCSFK (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_017662"
+FT   VAR_SEQ         401..463
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_017663"
+FT   VARIANT         18
+FT                   /note="L -> R (in dbSNP:rs2275591)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:16134148"
+FT                   /id="VAR_025681"
+FT   VARIANT         33
+FT                   /note="R -> S (in dbSNP:rs35710558)"
+FT                   /id="VAR_057808"
+FT   VARIANT         55
+FT                   /note="G -> D (in L2HGA; dbSNP:rs118204021)"
+FT                   /evidence="ECO:0000269|PubMed:15385440"
+FT                   /id="VAR_025682"
+FT   VARIANT         57
+FT                   /note="G -> R (in L2HGA; dbSNP:rs199690954)"
+FT                   /evidence="ECO:0000269|PubMed:16134148"
+FT                   /id="VAR_025683"
+FT   VARIANT         81
+FT                   /note="K -> E (in L2HGA; alters protein processing and
+FT                   abolishes catalytic activity; dbSNP:rs970541687)"
+FT                   /evidence="ECO:0000269|PubMed:15548604"
+FT                   /id="VAR_025684"
+FT   VARIANT         98
+FT                   /note="H -> R (in L2HGA; dbSNP:rs267607206)"
+FT                   /evidence="ECO:0000269|PubMed:16134148"
+FT                   /id="VAR_025685"
+FT   VARIANT         98
+FT                   /note="H -> Y (in L2HGA)"
+FT                   /evidence="ECO:0000269|PubMed:15385440"
+FT                   /id="VAR_025686"
+FT   VARIANT         176
+FT                   /note="E -> D (in L2HGA; alters protein processing and
+FT                   abolishes catalytic activity)"
+FT                   /evidence="ECO:0000269|PubMed:15548604"
+FT                   /id="VAR_025687"
+FT   VARIANT         178
+FT                   /note="Y -> F (in dbSNP:rs770542189)"
+FT                   /evidence="ECO:0000269|PubMed:16134148"
+FT                   /id="VAR_025688"
+FT   VARIANT         302
+FT                   /note="P -> L (in L2HGA; dbSNP:rs118204020)"
+FT                   /evidence="ECO:0000269|PubMed:15385440,
+FT                   ECO:0000269|PubMed:16134148"
+FT                   /id="VAR_025689"
+FT   VARIANT         434
+FT                   /note="H -> P (in L2HGA; dbSNP:rs750044734)"
+FT                   /evidence="ECO:0000269|PubMed:16134148"
+FT                   /id="VAR_025690"
+SQ   SEQUENCE   463 AA;  50316 MW;  1B6BC0C88543B7FF CRC64;
+     MVPALRYLVG ACGRARGLFA GGSPGACGFA SGRPRPLCGG SRSASTSSFD IVIVGGGIVG
+     LASARALILR HPSLSIGVLE KEKDLAVHQT GHNSGVIHSG IYYKPESLKA KLCVQGAALL
+     YEYCQQKGIS YKQCGKLIVA VEQEEIPRLQ ALYEKGLQNG VPGLRLIQQE DIKKKEPYCR
+     GLMAIDCPHT GIVDYRQVAL SFAQDFQEAG GSVLTNFEVK GIEMAKESPS RSIDGMQYPI
+     VIKNTKGEEI RCQYVVTCAG LYSDRISELS GCTPDPRIVP FRGDYLLLKP EKCYLVKGNI
+     YPVPDSRFPF LGVHFTPRMD GSIWLGPNAV LAFKREGYRP FDFSATDVMD IIINSGLIKL
+     ASQNFSYGVT EMYKACFLGA TVKYLQKFIP EITISDILRG PAGVRAQALD RDGNLVEDFV
+     FDAGVGDIGN RILHVRNAPS PAATSSIAIS GMIADEVQQR FEL
+//

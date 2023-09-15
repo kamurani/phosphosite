@@ -1,0 +1,113 @@
+ID   Z705E_HUMAN             Reviewed;         300 AA.
+AC   A8MWA4; A0A1W2PRR0;
+DT   22-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   28-MAR-2018, sequence version 2.
+DT   28-JUN-2023, entry version 108.
+DE   RecName: Full=Putative zinc finger protein 705EP {ECO:0000305};
+DE   AltName: Full=zinc finger protein 705E pseudogene {ECO:0000312|HGNC:HGNC:33203};
+GN   Name=ZNF705EP {ECO:0000312|HGNC:HGNC:33203};
+GN   Synonyms=ZNF705E {ECO:0000312|HGNC:HGNC:33203};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+CC   -!- FUNCTION: May be involved in transcriptional regulation. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- CAUTION: Could be the product of a pseudogene. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AP002495; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; NP_001265642.1; NM_001278713.1.
+DR   AlphaFoldDB; A8MWA4; -.
+DR   SMR; A8MWA4; -.
+DR   PhosphoSitePlus; A8MWA4; -.
+DR   BioMuta; ZNF705E; -.
+DR   MassIVE; A8MWA4; -.
+DR   PeptideAtlas; A8MWA4; -.
+DR   DNASU; 100131539; -.
+DR   AGR; HGNC:33203; -.
+DR   CTD; 100131539; -.
+DR   GeneCards; ZNF705EP; -.
+DR   HGNC; HGNC:33203; ZNF705EP.
+DR   HPA; ENSG00000214534; Not detected.
+DR   neXtProt; NX_A8MWA4; -.
+DR   VEuPathDB; HostDB:ENSG00000214534; -.
+DR   InParanoid; A8MWA4; -.
+DR   OMA; IQCLLTH; -.
+DR   PhylomeDB; A8MWA4; -.
+DR   PathwayCommons; A8MWA4; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   GenomeRNAi; 100131539; -.
+DR   Pharos; A8MWA4; Tdark.
+DR   PRO; PR:A8MWA4; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; A8MWA4; protein.
+DR   Bgee; ENSG00000214534; Expressed in calcaneal tendon and 19 other tissues.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 6.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24381; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24381:SF303; ZINC FINGER PROTEIN 705A-RELATED; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 2.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 3.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 4.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 2.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 4.
+PE   5: Uncertain;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..300
+FT                   /note="Putative zinc finger protein 705EP"
+FT                   /id="PRO_0000343575"
+FT   DOMAIN          7..78
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         172..194
+FT                   /note="C2H2-type 1; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         200..222
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         228..250
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         256..278
+FT                   /note="C2H2-type 4; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+SQ   SEQUENCE   300 AA;  34697 MW;  C4F496956EF00C6E CRC64;
+     MHSLKKVTFE DVAIDFTQEE WAMMDTSKRK LYRDVMLENI SHLVSLGYQI SKSYIILQLE
+     QGKELWQEGR EFLQDQNPDR ESALKKTHMI SMHPIIRKDA PTSMTMENSL ILEDPFECND
+     SGEDCTHSST IIQCLLTHSG KKPYVSKQCG KSLSNLLSPK PHKQIHTKGK SYQCNLCEKA
+     YTNCFHLRRP KMTHTGERPY TCHLCRKAFT QCSHLRRHEK THTGERPYKC HQCGKAFIQS
+     FNLRRHERTH LGEKWYECDN SGKAFSQSSG FRGNKIIHTG EKPHACLLCG KAFSLSSDLR
+//

@@ -1,0 +1,293 @@
+ID   RHG42_HUMAN             Reviewed;         874 AA.
+AC   A6NI28; Q96M56;
+DT   01-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUN-2010, sequence version 3.
+DT   28-JUN-2023, entry version 129.
+DE   RecName: Full=Rho GTPase-activating protein 42 {ECO:0000305};
+DE   AltName: Full=Rho GTPase-activating protein 10-like;
+DE   AltName: Full=Rho-type GTPase-activating protein 42;
+GN   Name=ARHGAP42 {ECO:0000312|HGNC:HGNC:26545};
+GN   Synonyms=GRAF3 {ECO:0000303|PubMed:24335996}, TMEM133
+GN   {ECO:0000312|HGNC:HGNC:26545};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-128.
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 389-819.
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-811 AND TYR-870, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [5]
+RP   TISSUE SPECIFICITY, AND FUNCTION.
+RX   PubMed=24335996; DOI=10.1038/ncomms3910;
+RA   Bai X., Lenhart K.C., Bird K.E., Suen A.A., Rojas M., Kakoki M., Li F.,
+RA   Smithies O., Mack C.P., Taylor J.M.;
+RT   "The smooth muscle-selective RhoGAP GRAF3 is a critical regulator of
+RT   vascular tone and hypertension.";
+RL   Nat. Commun. 4:2910-2910(2013).
+CC   -!- FUNCTION: May influence blood pressure by functioning as a GTPase-
+CC       activating protein for RHOA in vascular smooth muscle.
+CC       {ECO:0000269|PubMed:24335996}.
+CC   -!- TISSUE SPECIFICITY: Highly and selectively expressed in smooth muscle
+CC       cells. {ECO:0000269|PubMed:24335996}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB71456.1; Type=Miscellaneous discrepancy; Note=Probable cloning artifact.; Evidence={ECO:0000305};
+CC       Sequence=BF511460; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Sequence of unknown origin in the C-terminal part.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC015600; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000872; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP001351; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BF511460; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; AK057372; BAB71456.1; ALT_SEQ; mRNA.
+DR   RefSeq; NP_689645.2; NM_152432.2.
+DR   AlphaFoldDB; A6NI28; -.
+DR   SMR; A6NI28; -.
+DR   BioGRID; 126819; 25.
+DR   IntAct; A6NI28; 7.
+DR   STRING; 9606.ENSP00000298815; -.
+DR   iPTMnet; A6NI28; -.
+DR   PhosphoSitePlus; A6NI28; -.
+DR   BioMuta; ARHGAP42; -.
+DR   EPD; A6NI28; -.
+DR   jPOST; A6NI28; -.
+DR   MassIVE; A6NI28; -.
+DR   MaxQB; A6NI28; -.
+DR   PaxDb; A6NI28; -.
+DR   PeptideAtlas; A6NI28; -.
+DR   ProteomicsDB; 1242; -.
+DR   Antibodypedia; 51394; 57 antibodies from 14 providers.
+DR   DNASU; 143872; -.
+DR   Ensembl; ENST00000298815.13; ENSP00000298815.7; ENSG00000165895.19.
+DR   GeneID; 143872; -.
+DR   KEGG; hsa:143872; -.
+DR   MANE-Select; ENST00000298815.13; ENSP00000298815.7; NM_152432.4; NP_689645.2.
+DR   UCSC; uc001pge.2; human.
+DR   AGR; HGNC:26545; -.
+DR   CTD; 143872; -.
+DR   DisGeNET; 143872; -.
+DR   GeneCards; ARHGAP42; -.
+DR   HGNC; HGNC:26545; ARHGAP42.
+DR   HPA; ENSG00000165895; Tissue enhanced (retina).
+DR   MIM; 615936; gene.
+DR   neXtProt; NX_A6NI28; -.
+DR   OpenTargets; ENSG00000165895; -.
+DR   PharmGKB; PA165543186; -.
+DR   VEuPathDB; HostDB:ENSG00000165895; -.
+DR   eggNOG; KOG1451; Eukaryota.
+DR   GeneTree; ENSGT00940000155492; -.
+DR   HOGENOM; CLU_011532_1_0_1; -.
+DR   InParanoid; A6NI28; -.
+DR   OMA; CASQERY; -.
+DR   OrthoDB; 5395569at2759; -.
+DR   PhylomeDB; A6NI28; -.
+DR   TreeFam; TF316851; -.
+DR   PathwayCommons; A6NI28; -.
+DR   Reactome; R-HSA-8980692; RHOA GTPase cycle.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   Reactome; R-HSA-9013404; RAC2 GTPase cycle.
+DR   Reactome; R-HSA-9013423; RAC3 GTPase cycle.
+DR   SignaLink; A6NI28; -.
+DR   BioGRID-ORCS; 143872; 18 hits in 277 CRISPR screens.
+DR   ChiTaRS; ARHGAP42; human.
+DR   GenomeRNAi; 143872; -.
+DR   Pharos; A6NI28; Tbio.
+DR   PRO; PR:A6NI28; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; A6NI28; protein.
+DR   Bgee; ENSG00000165895; Expressed in calcaneal tendon and 153 other tissues.
+DR   ExpressionAtlas; A6NI28; baseline and differential.
+DR   Genevisible; A6NI28; HS.
+DR   GO; GO:0005737; C:cytoplasm; IEA:InterPro.
+DR   GO; GO:0005096; F:GTPase activator activity; IDA:UniProtKB.
+DR   GO; GO:0090630; P:activation of GTPase activity; IDA:UniProtKB.
+DR   GO; GO:0035024; P:negative regulation of Rho protein signal transduction; IEA:Ensembl.
+DR   GO; GO:0003085; P:negative regulation of systemic arterial blood pressure; IEA:Ensembl.
+DR   GO; GO:1904694; P:negative regulation of vascular associated smooth muscle contraction; IEA:Ensembl.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   CDD; cd01249; BAR-PH_GRAF_family; 1.
+DR   CDD; cd07634; BAR_GAP10-like; 1.
+DR   CDD; cd04374; RhoGAP_Graf; 1.
+DR   CDD; cd12066; SH3_GRAF3; 1.
+DR   Gene3D; 1.20.1270.60; Arfaptin homology (AH) domain/BAR domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   Gene3D; 1.10.555.10; Rho GTPase activation protein; 1.
+DR   Gene3D; 2.30.30.40; SH3 Domains; 1.
+DR   InterPro; IPR027267; AH/BAR_dom_sf.
+DR   InterPro; IPR004148; BAR_dom.
+DR   InterPro; IPR047234; GRAF_fam.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR047225; PH_GRAF.
+DR   InterPro; IPR008936; Rho_GTPase_activation_prot.
+DR   InterPro; IPR000198; RhoGAP_dom.
+DR   InterPro; IPR036028; SH3-like_dom_sf.
+DR   InterPro; IPR001452; SH3_domain.
+DR   PANTHER; PTHR12552; OLIGOPHRENIN 1; 1.
+DR   PANTHER; PTHR12552:SF3; RHO GTPASE-ACTIVATING PROTEIN 42; 1.
+DR   Pfam; PF16746; BAR_3; 1.
+DR   Pfam; PF00169; PH; 1.
+DR   Pfam; PF00620; RhoGAP; 1.
+DR   Pfam; PF14604; SH3_9; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SMART; SM00324; RhoGAP; 1.
+DR   SMART; SM00326; SH3; 1.
+DR   SUPFAM; SSF103657; BAR/IMD domain-like; 1.
+DR   SUPFAM; SSF48350; GTPase activation domain, GAP; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   SUPFAM; SSF50044; SH3-domain; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+DR   PROSITE; PS50238; RHOGAP; 1.
+DR   PROSITE; PS50002; SH3; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil; GTPase activation; Phosphoprotein; Reference proteome;
+KW   SH3 domain.
+FT   CHAIN           1..874
+FT                   /note="Rho GTPase-activating protein 42"
+FT                   /id="PRO_0000342407"
+FT   DOMAIN          7..262
+FT                   /note="BAR"
+FT   DOMAIN          265..374
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          376..572
+FT                   /note="Rho-GAP"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00172"
+FT   DOMAIN          816..874
+FT                   /note="SH3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00192"
+FT   REGION          575..720
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          749..777
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          225..261
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        584..598
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        617..655
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        664..688
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        749..766
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         376
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:B2RQE8"
+FT   MOD_RES         683
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:B2RQE8"
+FT   MOD_RES         740
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:B2RQE8"
+FT   MOD_RES         753
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:B2RQE8"
+FT   MOD_RES         756
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:B2RQE8"
+FT   MOD_RES         811
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         870
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   CONFLICT        18
+FT                   /note="F -> V (in Ref. 2; BF511460)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        109
+FT                   /note="N -> D (in Ref. 2; BF511460)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        124
+FT                   /note="I -> M (in Ref. 2; BF511460)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        571
+FT                   /note="I -> V (in Ref. 3; BAB71456)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        713
+FT                   /note="V -> I (in Ref. 3; BAB71456)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   874 AA;  98569 MW;  3828623C52C52629 CRC64;
+     MGLPTLEFSD SYLDSPDFRE RLQCHEIELE RTNKFIKELI KDGSLLIGAL RNLSMAVQKF
+     SQSLQDFQFE CIGDAETDDE ISIAQSLKEF ARLLIAVEEE RRRLIQNAND VLIAPLEKFR
+     KEQIGAAKDG KKKFDKESEK YYSILEKHLN LSAKKKESHL QEADTQIDRE HQNFYEASLE
+     YVFKIQEVQE KKKFEFVEPL LSFLQGLFTF YHEGYELAQE FAPYKQQLQF NLQNTRNNFE
+     STRQEVERLM QRMKSANQDY RPPSQWTMEG YLYVQEKRPL GFTWIKHYCT YDKGSKTFTM
+     SVSEMKSSGK MNGLVTSSPE MFKLKSCIRR KTDSIDKRFC FDIEVVERHG IITLQAFSEA
+     NRKLWLEAMD GKEPIYTLPA IISKKEEMYL NEAGFNFVRK CIQAVETRGI TILGLYRIGG
+     VNSKVQKLMN TTFSPKSPPD IDIDIELWDN KTITSGLKNY LRCLAEPLMT YKLHKDFIIA
+     VKSDDQNYRV EAVHALVHKL PEKNREMLDI LIKHLVKVSL HSQQNLMTVS NLGVIFGPTL
+     MRAQEETVAA MMNIKFQNIV VEILIEHYEK IFHTAPDPSI PLPQPQSRSG SRRTRAICLS
+     TGSRKPRGRY TPCLAEPDSD SYSSSPDSTP MGSIESLSSH SSEQNSTTKS ASCQPREKSG
+     GIPWIATPSS SNGQKSLGLW TTSPESSSRE DATKTDAESD CQSVASVTSP GDVSPPIDLV
+     KKEPYGLSGL KRASASSLRS ISAAEGNKSY SGSIQSLTSV GSKETPKASP NPDLPPKMCR
+     RLRLDTASSN GYQRPGSVVA AKAQLFENVG SPKPVSSGRQ AKAMYSCKAE HSHELSFPQG
+     AIFSNVYPSV EPGWLKATYE GKTGLVPENY VVFL
+//

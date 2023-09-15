@@ -1,0 +1,478 @@
+ID   LIPA1_HUMAN             Reviewed;        1202 AA.
+AC   Q13136; A6NLE3; Q13135; Q14567; Q8N4I2;
+DT   16-FEB-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   28-JUN-2023, entry version 198.
+DE   RecName: Full=Liprin-alpha-1;
+DE   AltName: Full=LAR-interacting protein 1;
+DE            Short=LIP-1;
+DE   AltName: Full=Protein tyrosine phosphatase receptor type f polypeptide-interacting protein alpha-1;
+DE            Short=PTPRF-interacting protein alpha-1;
+GN   Name=PPFIA1; Synonyms=LIP1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2), TISSUE SPECIFICITY,
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH PTPRF.
+RX   PubMed=7796809; DOI=10.1002/j.1460-2075.1995.tb07282.x;
+RA   Serra-Pages C., Kedersha N.L., Fazikas L., Medley Q.G., Debant A.,
+RA   Streuli M.;
+RT   "The LAR transmembrane protein tyrosine phosphatase and a coiled-coil LAR-
+RT   interacting protein co-localize at focal adhesions.";
+RL   EMBO J. 14:2827-2838(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 672-1123.
+RA   Taira T., Iguchi-Ariga S.M., Ariga H.;
+RT   "Molecular cloning of a cDNA encoding enhancer protein in hsp70 gene.";
+RL   Submitted (FEB-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   INTERACTION WITH PTPRD; PTPRF AND PTPRS.
+RX   PubMed=8524829; DOI=10.1073/pnas.92.25.11686;
+RA   Pulido R., Serra-Pages C., Tang M., Streuli M.;
+RT   "The LAR/PTP delta/PTP sigma subfamily of transmembrane protein-tyrosine-
+RT   phosphatases: multiple human LAR, PTP delta, and PTP sigma isoforms are
+RT   expressed in a tissue-specific manner and associate with the LAR-
+RT   interacting protein LIP.1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:11686-11690(1995).
+RN   [6]
+RP   TISSUE SPECIFICITY, AND INTERACTION WITH PTPRD; PTPRF AND PTPRS.
+RX   PubMed=9624153; DOI=10.1074/jbc.273.25.15611;
+RA   Serra-Pages C., Medley Q.G., Tang M., Hart A., Streuli M.;
+RT   "Liprins, a family of LAR transmembrane protein-tyrosine phosphatase-
+RT   interacting proteins.";
+RL   J. Biol. Chem. 273:15611-15620(1998).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D., Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient
+RT   phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-230; SER-242 AND SER-244, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-239; SER-242; SER-693 AND
+RP   THR-1159, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-239; SER-242; SER-244 AND
+RP   SER-448, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-150; SER-239; SER-242;
+RP   SER-666; SER-693; SER-763 AND SER-1133, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-668 AND THR-761, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+CC   -!- FUNCTION: May regulate the disassembly of focal adhesions. May localize
+CC       receptor-like tyrosine phosphatases type 2A at specific sites on the
+CC       plasma membrane, possibly regulating their interaction with the
+CC       extracellular environment and their association with substrates.
+CC       {ECO:0000269|PubMed:7796809}.
+CC   -!- SUBUNIT: Forms homodimers and heterodimers with liprins-alpha and
+CC       liprins-beta. Interacts with the second PTPase domain of PTPRD, PTPRF
+CC       and PTPRS. Interacts with GIT1, KIF1A and GRIP1 (By similarity).
+CC       {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q13136; P51946: CCNH; NbExp=6; IntAct=EBI-745426, EBI-741406;
+CC       Q13136; Q07002: CDK18; NbExp=3; IntAct=EBI-745426, EBI-746238;
+CC       Q13136; O60941: DTNB; NbExp=6; IntAct=EBI-745426, EBI-740402;
+CC       Q13136; Q13409-3: DYNC1I2; NbExp=3; IntAct=EBI-745426, EBI-12094038;
+CC       Q13136; Q14241: ELOA; NbExp=3; IntAct=EBI-745426, EBI-742350;
+CC       Q13136; Q3B820: FAM161A; NbExp=5; IntAct=EBI-745426, EBI-719941;
+CC       Q13136; O95995: GAS8; NbExp=3; IntAct=EBI-745426, EBI-1052570;
+CC       Q13136; Q9NS73: MBIP; NbExp=3; IntAct=EBI-745426, EBI-741953;
+CC       Q13136; Q15172: PPP2R5A; NbExp=3; IntAct=EBI-745426, EBI-641666;
+CC       Q13136; Q14738: PPP2R5D; NbExp=5; IntAct=EBI-745426, EBI-396563;
+CC       Q13136; P40222: TXLNA; NbExp=5; IntAct=EBI-745426, EBI-359793;
+CC       Q13136; P19491: Gria2; Xeno; NbExp=2; IntAct=EBI-745426, EBI-77718;
+CC       Q13136; P97879: Grip1; Xeno; NbExp=4; IntAct=EBI-745426, EBI-936113;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:7796809}.
+CC       Note=Colocalizes with PTPRF at the ends of focal adhesions most
+CC       proximal to the cell nucleus.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=LAR-interacting protein 1b, LIP.1b, b;
+CC         IsoId=Q13136-1; Sequence=Displayed;
+CC       Name=2; Synonyms=LAR-interacting protein 1a, LIP.1a, a;
+CC         IsoId=Q13136-2; Sequence=VSP_009391;
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:7796809,
+CC       ECO:0000269|PubMed:9624153}.
+CC   -!- DOMAIN: The N-terminal coiled coil regions mediate homodimerization
+CC       preferentially and heterodimerization type alpha/alpha. The C-terminal,
+CC       non-coiled coil regions mediate heterodimerization type alpha/beta and
+CC       interaction with PTPRD, PTPRF and PTPRS.
+CC   -!- MISCELLANEOUS: [Isoform 2]: Due to intron retention. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the liprin family. Liprin-alpha subfamily.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA08353.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U22815; AAC50172.1; -; mRNA.
+DR   EMBL; U22816; AAC50173.1; -; mRNA.
+DR   EMBL; AP002336; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC034046; AAH34046.1; -; mRNA.
+DR   EMBL; D49354; BAA08353.1; ALT_FRAME; mRNA.
+DR   CCDS; CCDS31627.1; -. [Q13136-1]
+DR   CCDS; CCDS31628.1; -. [Q13136-2]
+DR   PIR; S55553; S55553.
+DR   RefSeq; NP_003617.1; NM_003626.3. [Q13136-1]
+DR   RefSeq; NP_803172.1; NM_177423.2. [Q13136-2]
+DR   PDB; 1N7F; X-ray; 1.80 A; C/D=1195-1202.
+DR   PDBsum; 1N7F; -.
+DR   AlphaFoldDB; Q13136; -.
+DR   SMR; Q13136; -.
+DR   BioGRID; 114072; 204.
+DR   ELM; Q13136; -.
+DR   IntAct; Q13136; 70.
+DR   MINT; Q13136; -.
+DR   STRING; 9606.ENSP00000253925; -.
+DR   GlyGen; Q13136; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q13136; -.
+DR   MetOSite; Q13136; -.
+DR   PhosphoSitePlus; Q13136; -.
+DR   BioMuta; PPFIA1; -.
+DR   DMDM; 42558969; -.
+DR   EPD; Q13136; -.
+DR   jPOST; Q13136; -.
+DR   MassIVE; Q13136; -.
+DR   MaxQB; Q13136; -.
+DR   PaxDb; Q13136; -.
+DR   PeptideAtlas; Q13136; -.
+DR   ProteomicsDB; 59184; -. [Q13136-1]
+DR   ProteomicsDB; 59185; -. [Q13136-2]
+DR   Antibodypedia; 30679; 228 antibodies from 31 providers.
+DR   DNASU; 8500; -.
+DR   Ensembl; ENST00000253925.12; ENSP00000253925.7; ENSG00000131626.19. [Q13136-1]
+DR   Ensembl; ENST00000389547.7; ENSP00000374198.3; ENSG00000131626.19. [Q13136-2]
+DR   GeneID; 8500; -.
+DR   KEGG; hsa:8500; -.
+DR   MANE-Select; ENST00000253925.12; ENSP00000253925.7; NM_003626.5; NP_003617.1.
+DR   UCSC; uc001opn.3; human. [Q13136-1]
+DR   AGR; HGNC:9245; -.
+DR   CTD; 8500; -.
+DR   DisGeNET; 8500; -.
+DR   GeneCards; PPFIA1; -.
+DR   HGNC; HGNC:9245; PPFIA1.
+DR   HPA; ENSG00000131626; Low tissue specificity.
+DR   MIM; 611054; gene.
+DR   neXtProt; NX_Q13136; -.
+DR   OpenTargets; ENSG00000131626; -.
+DR   PharmGKB; PA33566; -.
+DR   VEuPathDB; HostDB:ENSG00000131626; -.
+DR   eggNOG; KOG0249; Eukaryota.
+DR   GeneTree; ENSGT01050000244900; -.
+DR   HOGENOM; CLU_006923_0_0_1; -.
+DR   InParanoid; Q13136; -.
+DR   OMA; YLHKFHT; -.
+DR   OrthoDB; 2906732at2759; -.
+DR   PhylomeDB; Q13136; -.
+DR   TreeFam; TF314207; -.
+DR   PathwayCommons; Q13136; -.
+DR   Reactome; R-HSA-181429; Serotonin Neurotransmitter Release Cycle.
+DR   Reactome; R-HSA-181430; Norepinephrine Neurotransmitter Release Cycle.
+DR   Reactome; R-HSA-210500; Glutamate Neurotransmitter Release Cycle.
+DR   Reactome; R-HSA-212676; Dopamine Neurotransmitter Release Cycle.
+DR   Reactome; R-HSA-264642; Acetylcholine Neurotransmitter Release Cycle.
+DR   Reactome; R-HSA-388844; Receptor-type tyrosine-protein phosphatases.
+DR   SignaLink; Q13136; -.
+DR   SIGNOR; Q13136; -.
+DR   BioGRID-ORCS; 8500; 27 hits in 1156 CRISPR screens.
+DR   ChiTaRS; PPFIA1; human.
+DR   GeneWiki; Liprin-alpha-1; -.
+DR   GenomeRNAi; 8500; -.
+DR   Pharos; Q13136; Tbio.
+DR   PRO; PR:Q13136; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q13136; protein.
+DR   Bgee; ENSG00000131626; Expressed in sural nerve and 204 other tissues.
+DR   ExpressionAtlas; Q13136; baseline and differential.
+DR   Genevisible; Q13136; HS.
+DR   GO; GO:0030424; C:axon; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ProtInc.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005925; C:focal adhesion; IDA:HPA.
+DR   GO; GO:0016020; C:membrane; IEA:Ensembl.
+DR   GO; GO:0048786; C:presynaptic active zone; IBA:GO_Central.
+DR   GO; GO:0032991; C:protein-containing complex; IEA:Ensembl.
+DR   GO; GO:0098685; C:Schaffer collateral - CA1 synapse; IEA:Ensembl.
+DR   GO; GO:0097444; C:spine apparatus; IEA:Ensembl.
+DR   GO; GO:0007420; P:brain development; IEA:Ensembl.
+DR   GO; GO:0007160; P:cell-matrix adhesion; TAS:ProtInc.
+DR   GO; GO:1903077; P:negative regulation of protein localization to plasma membrane; IMP:MGI.
+DR   GO; GO:0051497; P:negative regulation of stress fiber assembly; IMP:MGI.
+DR   GO; GO:0099072; P:regulation of postsynaptic membrane neurotransmitter receptor levels; IEA:Ensembl.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   GO; GO:0050808; P:synapse organization; IBA:GO_Central.
+DR   CDD; cd09562; SAM_liprin-alpha1_2_3_4_repeat1; 1.
+DR   CDD; cd09565; SAM_liprin-alpha1_2_3_4_repeat2; 1.
+DR   CDD; cd09568; SAM_liprin-alpha1_2_3_4_repeat3; 1.
+DR   Gene3D; 1.10.150.50; Transcription Factor, Ets-1; 3.
+DR   InterPro; IPR029515; Liprin.
+DR   InterPro; IPR037620; Liprin-alpha_SAM_rpt_1.
+DR   InterPro; IPR037621; Liprin-alpha_SAM_rpt_2.
+DR   InterPro; IPR037622; Liprin-alpha_SAM_rpt_3.
+DR   InterPro; IPR001660; SAM.
+DR   InterPro; IPR013761; SAM/pointed_sf.
+DR   PANTHER; PTHR12587; LAR INTERACTING PROTEIN LIP -RELATED PROTEIN; 1.
+DR   PANTHER; PTHR12587:SF15; LIPRIN-ALPHA-1; 1.
+DR   Pfam; PF00536; SAM_1; 2.
+DR   Pfam; PF07647; SAM_2; 1.
+DR   SMART; SM00454; SAM; 3.
+DR   SUPFAM; SSF47769; SAM/Pointed domain; 3.
+DR   PROSITE; PS50105; SAM_DOMAIN; 3.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Coiled coil; Cytoplasm; Phosphoprotein;
+KW   Reference proteome; Repeat.
+FT   CHAIN           1..1202
+FT                   /note="Liprin-alpha-1"
+FT                   /id="PRO_0000191026"
+FT   DOMAIN          878..944
+FT                   /note="SAM 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00184"
+FT   DOMAIN          963..1027
+FT                   /note="SAM 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00184"
+FT   DOMAIN          1051..1120
+FT                   /note="SAM 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00184"
+FT   REGION          1..33
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          224..245
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          426..446
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          651..855
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1163..1202
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          34..141
+FT                   /evidence="ECO:0000255"
+FT   COILED          176..214
+FT                   /evidence="ECO:0000255"
+FT   COILED          249..521
+FT                   /evidence="ECO:0000255"
+FT   COILED          623..669
+FT                   /evidence="ECO:0000255"
+FT   COILED          847..871
+FT                   /evidence="ECO:0000255"
+FT   COILED          1021..1050
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        224..239
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        681..699
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        749..772
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        773..793
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        831..845
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         150
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         230
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         239
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         242
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         244
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         448
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         666
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         668
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         693
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         761
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         763
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1133
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1159
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   VAR_SEQ         1185..1202
+FT                   /note="NVSGTQRLDSATVRTYSC -> M (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:7796809"
+FT                   /id="VSP_009391"
+FT   VARIANT         71
+FT                   /note="V -> I (in dbSNP:rs546502)"
+FT                   /id="VAR_017756"
+FT   VARIANT         1072
+FT                   /note="L -> F (in dbSNP:rs11236045)"
+FT                   /id="VAR_049998"
+FT   CONFLICT        492
+FT                   /note="E -> G (in Ref. 3; AAH34046)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        555
+FT                   /note="P -> T (in Ref. 3; AAH34046)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        672..674
+FT                   /note="LGR -> EFG (in Ref. 4; BAA08353)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        800..801
+FT                   /note="KK -> EE (in Ref. 4; BAA08353)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        866
+FT                   /note="E -> G (in Ref. 3; AAH34046)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        994
+FT                   /note="L -> Q (in Ref. 4; BAA08353)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1023
+FT                   /note="C -> S (in Ref. 4; BAA08353)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1044
+FT                   /note="E -> EVRV (in Ref. 4; BAA08353)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1121..1123
+FT                   /note="GTD -> PEF (in Ref. 4; BAA08353)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          1198..1201
+FT                   /evidence="ECO:0007829|PDB:1N7F"
+SQ   SEQUENCE   1202 AA;  135779 MW;  C8CF7C20B298BFB1 CRC64;
+     MMCEVMPTIS EAEGPPGGGG GHGSGSPSQP DADSHFEQLM VSMLEERDRL LDTLRETQET
+     LALTQGKLHE VGHERDSLQR QLNTALPQEF AALTKELNVC REQLLEREEE IAELKAERNN
+     TRLLLEHLEC LVSRHERSLR MTVVKRQAQS PAGVSSEVEV LKALKSLFEH HKALDEKVRE
+     RLRVALERCS LLEEELGATH KELMILKEQN NQKKTLTDGV LDINHEQENT PSTSGKRSSD
+     GSLSHEEDLA KVIELQEIIS KQSREQSQMK ERLASLSSHV TELEEDLDTA RKDLIKSEEM
+     NTKLQRDVRE AMAQKEDMEE RITTLEKRYL AAQREATSVH DLNDKLENEI ANKDSMHRQT
+     EDKNRQLQER LELAEQKLQQ TLRKAETLPE VEAELAQRVA ALSKAEERHG NIEERLRQME
+     AQLEEKNQEL QRARQREKMN EEHNKRLSDT VDKLLSESNE RLQLHLKERM AALEDKNSLL
+     REVESAKKQL EETQHDKDQL VLNIEALRAE LDHMRLRGAS LHHGRPHLGS VPDFRFPMAD
+     GHTDSYSTSA VLRRPQKGRL AALRDEPSKV QTLNEQDWER AQQASVLANV AQAFESDADV
+     SDGEDDRDTL LSSVDLLSPS GQADAHTLAM MLQEQLDAIN KEIRLIQEEK ENTEQRAEEI
+     ESRVGSGSLD NLGRFRSMSS IPPYPASSLA SSSPPGSGRS TPRRIPHSPA REVDRLGVMT
+     LLPPSREEVR DDKTTIKCET SPPSSPRALR LDRLHKGALH TVSHEDIRDI RNSTGSQDGP
+     VSNPSSSNSS QDSLHKAPKK KGIKSSIGRL FGKKEKGRPG QTGKEALGQA GVSETDNSSQ
+     DALGLSKLGG QAEKNRKLQK KHELLEEARR QGLPFAQWDG PTVVVWLELW VGMPAWYVAA
+     CRANVKSGAI MSALSDTEIQ REIGISNPLH RLKLRLAIQE IMSLTSPSAP PTSRTTLAYG
+     DMNHEWIGNE WLPSLGLPQY RSYFMECLVD ARMLDHLTKK DLRGQLKMVD SFHRNSFQCG
+     IMCLRRLNYD RKELERKREE SQSEIKDVLV WSNDRVIRWI LSIGLKEYAN NLIESGVHGA
+     LLALDETFDF SALALLLQIP TQNTQARAVL EREFNNLLVM GTDRRFDEDD DKSFRRAPSW
+     RKKFRPKDIR GLAAGSAETL PANFRVTSSM SSPSMQPKKM QMDGNVSGTQ RLDSATVRTY
+     SC
+//

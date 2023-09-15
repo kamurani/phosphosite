@@ -1,0 +1,348 @@
+ID   OVOL2_HUMAN             Reviewed;         275 AA.
+AC   Q9BRP0; Q5T8B4; Q9BX22; Q9HA54; Q9Y4M0;
+DT   19-SEP-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   28-JUN-2023, entry version 183.
+DE   RecName: Full=Transcription factor Ovo-like 2 {ECO:0000305};
+DE            Short=hOvo2;
+DE   AltName: Full=Zinc finger protein 339;
+GN   Name=OVOL2 {ECO:0000312|HGNC:HGNC:15804}; Synonyms=ZNF339;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Mammary gland;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (AUG-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J., Buck D., Burrill W.D.,
+RA   Butler A.P., Carder C., Carter N.P., Chapman J.C., Clamp M., Clark G.,
+RA   Clark L.N., Clark S.Y., Clee C.M., Clegg S., Cobley V.E., Collier R.E.,
+RA   Connor R.E., Corby N.R., Coulson A., Coville G.J., Deadman R., Dhami P.D.,
+RA   Dunn M., Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H., Rice C.M.,
+RA   Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S., Skuce C.D.,
+RA   Smith M.L., Soderlund C., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A., Tracey A.,
+RA   Tromans A.C., Vaudin M., Wall M., Wallis J.M., Whitehead S.L.,
+RA   Whittaker P., Willey D.L., Williams L., Williams S.A., Wilming L.,
+RA   Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 59-275 (ISOFORM 1).
+RG   The European IMAGE consortium;
+RL   Submitted (JUN-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   TISSUE SPECIFICITY, AND ALTERNATIVE SPLICING.
+RX   PubMed=12213202; DOI=10.1006/geno.2002.6831;
+RA   Li B., Dai Q., Li L., Nair M., Mackay D.R., Dai X.;
+RT   "Ovol2, a mammalian homolog of Drosophila ovo: gene structure, chromosomal
+RT   mapping, and aberrant expression in blind-sterile mice.";
+RL   Genomics 80:319-325(2002).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=19700410; DOI=10.1074/jbc.m109.008847;
+RA   Wells J., Lee B., Cai A.Q., Karapetyan A., Lee W.J., Rugg E., Sinha S.,
+RA   Nie Q., Dai X.;
+RT   "Ovol2 suppresses cell cycling and terminal differentiation of
+RT   keratinocytes by directly repressing c-Myc and Notch1.";
+RL   J. Biol. Chem. 284:29125-29135(2009).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-269, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [10]
+RP   TISSUE SPECIFICITY, AND INVOLVEMENT IN PPCD1.
+RX   PubMed=26749309; DOI=10.1016/j.ajhg.2015.11.018;
+RA   Davidson A.E., Liskova P., Evans C.J., Dudakova L., Noskova L.,
+RA   Pontikos N., Hartmannova H., Hodanova K., Stranecky V., Kozmik Z.,
+RA   Levis H.J., Idigo N., Sasai N., Maher G.J., Bellingham J., Veli N.,
+RA   Ebenezer N.D., Cheetham M.E., Daniels J.T., Thaung C.M., Jirsova K.,
+RA   Plagnol V., Filipec M., Kmoch S., Tuft S.J., Hardcastle A.J.;
+RT   "Autosomal-dominant corneal endothelial dystrophies CHED1 and PPCD1 are
+RT   allelic disorders caused by non-coding mutations in the promoter of
+RT   OVOL2.";
+RL   Am. J. Hum. Genet. 98:75-89(2016).
+CC   -!- FUNCTION: Zinc-finger transcription repressor factor (PubMed:19700410).
+CC       Plays a critical role in maintaining the identity of epithelial
+CC       lineages by suppressing epithelial-to mesenchymal transition (EMT)
+CC       mainly through the repression of ZEB1, an EMT inducer (By similarity).
+CC       Positively regulates neuronal differentiation (By similarity).
+CC       Suppresses cell cycling and terminal differentiation of keratinocytes
+CC       by directly repressing MYC and NOTCH1 (PubMed:19700410). Important for
+CC       the correct development of primordial germ cells in embryos (By
+CC       similarity). Plays dual functions in thermogenesis and adipogenesis to
+CC       maintain energy balance. Essential for brown/beige adipose tissue-
+CC       mediated thermogenesis, is necessary for the development of brown
+CC       adipocytes. In white adipose tissues, limits adipogenesis by blocking
+CC       CEBPA binding to its transcriptional targets and inhibiting its
+CC       transcription factor activity (By similarity).
+CC       {ECO:0000250|UniProtKB:Q8CIV7, ECO:0000269|PubMed:19700410}.
+CC   -!- SUBUNIT: Interacts (via zinc-finger domains) with CEBPA (via bZIP
+CC       domain); the interaction inhibits the transcription factor activity of
+CC       CEBPA and is required to repress adipogenesis.
+CC       {ECO:0000250|UniProtKB:Q8CIV7}.
+CC   -!- INTERACTION:
+CC       Q9BRP0; Q8TF50: ZNF526; NbExp=3; IntAct=EBI-13007247, EBI-11035148;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250|UniProtKB:Q8CIV7}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9BRP0-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BRP0-2; Sequence=VSP_038260;
+CC   -!- TISSUE SPECIFICITY: Expressed in testis, ovary, heart and skeletal
+CC       muscle (PubMed:12213202). Expressed in the cornea, but absent from the
+CC       corneal endothelium (PubMed:26749309). {ECO:0000269|PubMed:12213202,
+CC       ECO:0000269|PubMed:26749309}.
+CC   -!- DISEASE: Corneal dystrophy, posterior polymorphous, 1 (PPCD1)
+CC       [MIM:122000]: A rare corneal disorder characterized by small aggregates
+CC       of apparent vesicles bordered by a gray haze at the level of Descemet
+CC       membrane, an altered corneal endothelial cell structure, and an unusual
+CC       proliferation of endothelial cells. Symptoms can range from very
+CC       aggressive to asymptomatic and non-progressive, even within the same
+CC       family. {ECO:0000269|PubMed:26749309}. Note=The disease is caused by
+CC       variants affecting the gene represented in this entry. Disease-causing
+CC       mutations in the OVOL2 promoter alter promoter activity, dysregulate
+CC       OVOL2 expression, and probably induce OVOL2 ectopic expression in the
+CC       corneal endothelium. {ECO:0000269|PubMed:26749309}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK022284; BAB14002.1; -; mRNA.
+DR   EMBL; BT007295; AAP35959.1; -; mRNA.
+DR   EMBL; AL121585; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL160411; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471133; EAX10258.1; -; Genomic_DNA.
+DR   EMBL; CH471133; EAX10259.1; -; Genomic_DNA.
+DR   EMBL; BC006148; AAH06148.1; -; mRNA.
+DR   EMBL; AL079276; CAB45151.1; -; mRNA.
+DR   CCDS; CCDS13132.1; -. [Q9BRP0-1]
+DR   RefSeq; NP_001290390.1; NM_001303461.1. [Q9BRP0-2]
+DR   RefSeq; NP_001290391.1; NM_001303462.1. [Q9BRP0-2]
+DR   RefSeq; NP_067043.2; NM_021220.3. [Q9BRP0-1]
+DR   AlphaFoldDB; Q9BRP0; -.
+DR   SMR; Q9BRP0; -.
+DR   BioGRID; 121825; 126.
+DR   CORUM; Q9BRP0; -.
+DR   IntAct; Q9BRP0; 1.
+DR   STRING; 9606.ENSP00000278780; -.
+DR   iPTMnet; Q9BRP0; -.
+DR   PhosphoSitePlus; Q9BRP0; -.
+DR   BioMuta; OVOL2; -.
+DR   DMDM; 23396998; -.
+DR   EPD; Q9BRP0; -.
+DR   jPOST; Q9BRP0; -.
+DR   MassIVE; Q9BRP0; -.
+DR   MaxQB; Q9BRP0; -.
+DR   PaxDb; Q9BRP0; -.
+DR   PeptideAtlas; Q9BRP0; -.
+DR   ProteomicsDB; 78792; -. [Q9BRP0-1]
+DR   ProteomicsDB; 78793; -. [Q9BRP0-2]
+DR   Antibodypedia; 24517; 189 antibodies from 25 providers.
+DR   DNASU; 58495; -.
+DR   Ensembl; ENST00000278780.7; ENSP00000278780.5; ENSG00000125850.11. [Q9BRP0-1]
+DR   GeneID; 58495; -.
+DR   KEGG; hsa:58495; -.
+DR   MANE-Select; ENST00000278780.7; ENSP00000278780.5; NM_021220.4; NP_067043.2.
+DR   UCSC; uc002wqi.1; human. [Q9BRP0-1]
+DR   AGR; HGNC:15804; -.
+DR   CTD; 58495; -.
+DR   DisGeNET; 58495; -.
+DR   GeneCards; OVOL2; -.
+DR   HGNC; HGNC:15804; OVOL2.
+DR   HPA; ENSG00000125850; Tissue enhanced (salivary gland, stomach).
+DR   MalaCards; OVOL2; -.
+DR   MIM; 122000; phenotype.
+DR   MIM; 616441; gene.
+DR   neXtProt; NX_Q9BRP0; -.
+DR   OpenTargets; ENSG00000125850; -.
+DR   Orphanet; 98975; Congenital hereditary endothelial dystrophy type I.
+DR   Orphanet; 98973; Posterior polymorphous corneal dystrophy.
+DR   PharmGKB; PA38039; -.
+DR   VEuPathDB; HostDB:ENSG00000125850; -.
+DR   eggNOG; KOG3576; Eukaryota.
+DR   GeneTree; ENSGT00940000159359; -.
+DR   HOGENOM; CLU_087964_0_0_1; -.
+DR   InParanoid; Q9BRP0; -.
+DR   OMA; IPVSLDC; -.
+DR   OrthoDB; 5406109at2759; -.
+DR   PhylomeDB; Q9BRP0; -.
+DR   TreeFam; TF337552; -.
+DR   PathwayCommons; Q9BRP0; -.
+DR   SignaLink; Q9BRP0; -.
+DR   BioGRID-ORCS; 58495; 56 hits in 1170 CRISPR screens.
+DR   ChiTaRS; OVOL2; human.
+DR   GenomeRNAi; 58495; -.
+DR   Pharos; Q9BRP0; Tbio.
+DR   PRO; PR:Q9BRP0; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   RNAct; Q9BRP0; protein.
+DR   Bgee; ENSG00000125850; Expressed in pancreatic ductal cell and 130 other tissues.
+DR   Genevisible; Q9BRP0; HS.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0003682; F:chromatin binding; IEA:Ensembl.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IEA:Ensembl.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; ISS:ARUK-UCL.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:0000976; F:transcription cis-regulatory region binding; IDA:BHF-UCL.
+DR   GO; GO:0001525; P:angiogenesis; IEA:Ensembl.
+DR   GO; GO:0008283; P:cell population proliferation; IEA:Ensembl.
+DR   GO; GO:0071560; P:cellular response to transforming growth factor beta stimulus; ISS:ARUK-UCL.
+DR   GO; GO:0009953; P:dorsal/ventral pattern formation; IEA:Ensembl.
+DR   GO; GO:0048557; P:embryonic digestive tract morphogenesis; IEA:Ensembl.
+DR   GO; GO:0060214; P:endocardium formation; IEA:Ensembl.
+DR   GO; GO:0009913; P:epidermal cell differentiation; IBA:GO_Central.
+DR   GO; GO:0001947; P:heart looping; IEA:Ensembl.
+DR   GO; GO:0060347; P:heart trabecula formation; IEA:Ensembl.
+DR   GO; GO:0060716; P:labyrinthine layer blood vessel development; IEA:Ensembl.
+DR   GO; GO:0010719; P:negative regulation of epithelial to mesenchymal transition; ISS:UniProtKB.
+DR   GO; GO:0010629; P:negative regulation of gene expression; ISS:ARUK-UCL.
+DR   GO; GO:0045617; P:negative regulation of keratinocyte differentiation; IMP:BHF-UCL.
+DR   GO; GO:0045746; P:negative regulation of Notch signaling pathway; IDA:BHF-UCL.
+DR   GO; GO:2000647; P:negative regulation of stem cell proliferation; IEA:Ensembl.
+DR   GO; GO:0010944; P:negative regulation of transcription by competitive promoter binding; IDA:BHF-UCL.
+DR   GO; GO:0001755; P:neural crest cell migration; IEA:Ensembl.
+DR   GO; GO:0001842; P:neural fold formation; IEA:Ensembl.
+DR   GO; GO:0010628; P:positive regulation of gene expression; ISS:ARUK-UCL.
+DR   GO; GO:0045618; P:positive regulation of keratinocyte differentiation; IEA:Ensembl.
+DR   GO; GO:0051726; P:regulation of cell cycle; IMP:BHF-UCL.
+DR   GO; GO:0010837; P:regulation of keratinocyte proliferation; IMP:BHF-UCL.
+DR   GO; GO:0060390; P:regulation of SMAD protein signal transduction; ISS:ARUK-UCL.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 2.
+DR   InterPro; IPR027756; Ovo-like.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR10032:SF193; TRANSCRIPTION FACTOR OVO-LIKE 2; 1.
+DR   PANTHER; PTHR10032; ZINC FINGER PROTEIN WITH KRAB AND SCAN DOMAINS; 1.
+DR   Pfam; PF00096; zf-C2H2; 2.
+DR   Pfam; PF13894; zf-C2H2_4; 1.
+DR   SMART; SM00355; ZnF_C2H2; 4.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 2.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 3.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 4.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Corneal dystrophy; Developmental protein;
+KW   DNA-binding; Metal-binding; Nucleus; Phosphoprotein; Reference proteome;
+KW   Repeat; Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..275
+FT                   /note="Transcription factor Ovo-like 2"
+FT                   /id="PRO_0000047013"
+FT   ZN_FING         119..141
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         147..169
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         175..198
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         214..237
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          15..101
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        50..78
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         269
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   VAR_SEQ         1..132
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_038260"
+FT   CONFLICT        264
+FT                   /note="E -> G (in Ref. 1; BAB14002)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   275 AA;  30438 MW;  3563EC44510E04AB CRC64;
+     MPKVFLVKRR SLGVSVRSWD ELPDEKRADT YIPVGLGRLL HDPPEDCRSD GGSSSGSGSS
+     SAGEPGGAES SSSPHAPESE TPEPGDAEGP DGHLATKQRP VARSKIKFTT GTCSDSVVHS
+     CDLCGKGFRL QRMLNRHLKC HNQVKRHLCT FCGKGFNDTF DLKRHVRTHT GIRPYKCNVC
+     NKAFTQRCSL ESHLKKIHGV QQQYAYKQRR DKLYVCEDCG YTGPTQEDLY LHVNSAHPGS
+     SFLKKTSKKL AALLQGKLTS AHQENTSLSE EEERK
+//

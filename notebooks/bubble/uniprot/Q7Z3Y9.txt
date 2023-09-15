@@ -1,0 +1,215 @@
+ID   K1C26_HUMAN             Reviewed;         468 AA.
+AC   Q7Z3Y9; A2RUL2; B2RNH8;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   04-DEC-2007, sequence version 2.
+DT   28-JUN-2023, entry version 148.
+DE   RecName: Full=Keratin, type I cytoskeletal 26;
+DE   AltName: Full=Cytokeratin-26;
+DE            Short=CK-26;
+DE   AltName: Full=Keratin-25B;
+DE            Short=K25B;
+DE   AltName: Full=Keratin-26;
+DE            Short=K26;
+DE   AltName: Full=Type I inner root sheath-specific keratin-K25irs2;
+GN   Name=KRT26 {ECO:0000312|EMBL:AAI32952.1};
+GN   Synonyms=KRT25B {ECO:0000312|EMBL:CAD91905.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:CAD91905.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, AND VARIANT ARG-118.
+RC   TISSUE=Scalp {ECO:0000312|EMBL:CAD91905.1};
+RX   PubMed=15617563; DOI=10.1111/j.1432-0436.2004.07209006.x;
+RA   Rogers M.A., Winter H., Langbein L., Bleiler R., Schweizer J.;
+RT   "The human type I keratin gene family: characterization of new hair
+RT   follicle specific members and evaluation of the chromosome 17q21.2 gene
+RT   domain.";
+RL   Differentiation 72:527-540(2004).
+RN   [2] {ECO:0000312|EMBL:EAW60677.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000312|EMBL:AAI32952.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=16874310; DOI=10.1038/sj.jid.5700494;
+RA   Langbein L., Rogers M.A., Praetzel-Wunder S., Helmke B., Schirmacher P.,
+RA   Schweizer J.;
+RT   "K25 (K25irs1), K26 (K25irs2), K27 (K25irs3), and K28 (K25irs4) represent
+RT   the type I inner root sheath keratins of the human hair follicle.";
+RL   J. Invest. Dermatol. 126:2377-2386(2006).
+CC   -!- SUBUNIT: Heterotetramer of two type I and two type II keratins.
+CC       {ECO:0000305}.
+CC   -!- INTERACTION:
+CC       Q7Z3Y9; Q6QNY1: BLOC1S2; NbExp=3; IntAct=EBI-12084444, EBI-465872;
+CC       Q7Z3Y9; Q8IYE0: CCDC146; NbExp=3; IntAct=EBI-12084444, EBI-10749669;
+CC       Q7Z3Y9; Q9NVL1-2: FAM86C1P; NbExp=3; IntAct=EBI-12084444, EBI-12845222;
+CC       Q7Z3Y9; O14964: HGS; NbExp=5; IntAct=EBI-12084444, EBI-740220;
+CC       Q7Z3Y9; Q9BVG8-5: KIFC3; NbExp=3; IntAct=EBI-12084444, EBI-14069005;
+CC       Q7Z3Y9; P04264: KRT1; NbExp=3; IntAct=EBI-12084444, EBI-298429;
+CC       Q7Z3Y9; P12035: KRT3; NbExp=3; IntAct=EBI-12084444, EBI-2430095;
+CC       Q7Z3Y9; P02538: KRT6A; NbExp=3; IntAct=EBI-12084444, EBI-702198;
+CC       Q7Z3Y9; P48668: KRT6C; NbExp=5; IntAct=EBI-12084444, EBI-2564105;
+CC       Q7Z3Y9; Q3SY84: KRT71; NbExp=3; IntAct=EBI-12084444, EBI-2952676;
+CC       Q7Z3Y9; Q7RTS7: KRT74; NbExp=3; IntAct=EBI-12084444, EBI-968660;
+CC       Q7Z3Y9; O95678: KRT75; NbExp=3; IntAct=EBI-12084444, EBI-2949715;
+CC       Q7Z3Y9; Q14533: KRT81; NbExp=3; IntAct=EBI-12084444, EBI-739648;
+CC       Q7Z3Y9; P78386: KRT85; NbExp=3; IntAct=EBI-12084444, EBI-1049371;
+CC       Q7Z3Y9; P59942: MCCD1; NbExp=3; IntAct=EBI-12084444, EBI-11987923;
+CC       Q7Z3Y9; P41440-3: SLC19A1; NbExp=3; IntAct=EBI-12084444, EBI-17438674;
+CC       Q7Z3Y9; O95295: SNAPIN; NbExp=3; IntAct=EBI-12084444, EBI-296723;
+CC       Q7Z3Y9; P51687: SUOX; NbExp=3; IntAct=EBI-12084444, EBI-3921347;
+CC       Q7Z3Y9; Q9UM00-1: TMCO1; NbExp=3; IntAct=EBI-12084444, EBI-11614122;
+CC       Q7Z3Y9; Q96RU7: TRIB3; NbExp=3; IntAct=EBI-12084444, EBI-492476;
+CC       Q7Z3Y9; Q8N3L3: TXLNB; NbExp=3; IntAct=EBI-12084444, EBI-6116822;
+CC       Q7Z3Y9; Q8N6Y0: USHBP1; NbExp=3; IntAct=EBI-12084444, EBI-739895;
+CC   -!- TISSUE SPECIFICITY: Strongly expressed in skin and scalp, and weak
+CC       expression observed in thymus and tongue. In the hair follicle,
+CC       expression is restricted to the mid- to upper inner root sheath
+CC       cuticle, being present slightly above the apex of the dermal papilla
+CC       (at protein level). {ECO:0000269|PubMed:15617563,
+CC       ECO:0000269|PubMed:16874310}.
+CC   -!- MISCELLANEOUS: There are two types of cytoskeletal and microfibrillar
+CC       keratin: I (acidic; 40-55 kDa) and II (neutral to basic; 56-70 kDa).
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ564205; CAD91905.1; -; mRNA.
+DR   EMBL; CH471152; EAW60677.1; -; Genomic_DNA.
+DR   EMBL; BC132951; AAI32952.1; -; mRNA.
+DR   EMBL; BC136896; AAI36897.1; -; mRNA.
+DR   CCDS; CCDS11374.1; -.
+DR   RefSeq; NP_853517.2; NM_181539.4.
+DR   AlphaFoldDB; Q7Z3Y9; -.
+DR   SMR; Q7Z3Y9; -.
+DR   BioGRID; 131677; 27.
+DR   IntAct; Q7Z3Y9; 23.
+DR   STRING; 9606.ENSP00000334798; -.
+DR   iPTMnet; Q7Z3Y9; -.
+DR   PhosphoSitePlus; Q7Z3Y9; -.
+DR   SwissPalm; Q7Z3Y9; -.
+DR   BioMuta; KRT26; -.
+DR   DMDM; 162416254; -.
+DR   jPOST; Q7Z3Y9; -.
+DR   MassIVE; Q7Z3Y9; -.
+DR   PaxDb; Q7Z3Y9; -.
+DR   PeptideAtlas; Q7Z3Y9; -.
+DR   ProteomicsDB; 69097; -.
+DR   Antibodypedia; 57607; 106 antibodies from 18 providers.
+DR   DNASU; 353288; -.
+DR   Ensembl; ENST00000335552.5; ENSP00000334798.4; ENSG00000186393.6.
+DR   GeneID; 353288; -.
+DR   KEGG; hsa:353288; -.
+DR   MANE-Select; ENST00000335552.5; ENSP00000334798.4; NM_181539.5; NP_853517.2.
+DR   UCSC; uc002hvf.4; human.
+DR   AGR; HGNC:30840; -.
+DR   CTD; 353288; -.
+DR   GeneCards; KRT26; -.
+DR   HGNC; HGNC:30840; KRT26.
+DR   HPA; ENSG00000186393; Tissue enriched (skin).
+DR   MIM; 616675; gene.
+DR   neXtProt; NX_Q7Z3Y9; -.
+DR   OpenTargets; ENSG00000186393; -.
+DR   PharmGKB; PA134863261; -.
+DR   VEuPathDB; HostDB:ENSG00000186393; -.
+DR   eggNOG; ENOG502SMDE; Eukaryota.
+DR   GeneTree; ENSGT00940000161950; -.
+DR   HOGENOM; CLU_012560_8_3_1; -.
+DR   InParanoid; Q7Z3Y9; -.
+DR   OMA; IQCETLS; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; Q7Z3Y9; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; Q7Z3Y9; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; Q7Z3Y9; -.
+DR   BioGRID-ORCS; 353288; 10 hits in 1130 CRISPR screens.
+DR   GenomeRNAi; 353288; -.
+DR   Pharos; Q7Z3Y9; Tbio.
+DR   PRO; PR:Q7Z3Y9; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q7Z3Y9; protein.
+DR   Bgee; ENSG00000186393; Expressed in skin of abdomen and 6 other tissues.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005882; C:intermediate filament; IEA:UniProtKB-KW.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0030855; P:epithelial cell differentiation; IBA:GO_Central.
+DR   GO; GO:0045109; P:intermediate filament organization; IBA:GO_Central.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF162; KERATIN, TYPE I CYTOSKELETAL 26; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil; Intermediate filament; Keratin; Reference proteome.
+FT   CHAIN           1..468
+FT                   /note="Keratin, type I cytoskeletal 26"
+FT                   /id="PRO_0000312697"
+FT   DOMAIN          83..398
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          1..82
+FT                   /note="Head"
+FT                   /evidence="ECO:0000255"
+FT   REGION          83..118
+FT                   /note="Coil 1A"
+FT                   /evidence="ECO:0000255"
+FT   REGION          119..140
+FT                   /note="Linker 1"
+FT                   /evidence="ECO:0000255"
+FT   REGION          141..232
+FT                   /note="Coil 1B"
+FT                   /evidence="ECO:0000255"
+FT   REGION          233..255
+FT                   /note="Linker 12"
+FT                   /evidence="ECO:0000255"
+FT   REGION          256..394
+FT                   /note="Coil 2"
+FT                   /evidence="ECO:0000255"
+FT   REGION          395..465
+FT                   /note="Tail"
+FT                   /evidence="ECO:0000255"
+FT   VARIANT         118
+FT                   /note="W -> R (in dbSNP:rs9898164)"
+FT                   /evidence="ECO:0000269|PubMed:15617563"
+FT                   /id="VAR_056006"
+FT   CONFLICT        149
+FT                   /note="I -> T (in Ref. 1; CAD91905)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   468 AA;  51911 MW;  E21E4E13443C5209 CRC64;
+     MSFRLSGGSR RICSRTGSGR LSGGGTGFVA GNVCVGSGAR SSFSCTLEGI SSGGSFCNSG
+     GGLGSGACAG FLGNEHSLLS GNEKVTMQNL NDRLASYLDH VHALEEANAD LEQKIKGWYE
+     KCEPGSSREH DHDYSRYFSV IEDLKRQIIS ATICNASIVL QNDNARLTAD DFRLKYENEL
+     ALHHSVEADT SGLRRVLDEL TLCTTDLEIQ CETLSEELTY LKKSHEEEME VLQYTAGGNV
+     NVEMNATPGV DLTVLLNNMR AEYEDLAEQN RKDAEAWFNE RSATLQQQIS DHEGAATAAR
+     NELTELKRNL QTLEIELQSL MAVKHSYECS LAETEGNYCN QLQQIQDQIG VMEEQLQQIR
+     TETEGQKLEY EQLLDVKIFL EKEIDIYCNL LDGEERKSKS TCYKSKGYRP VNSGNQAKDS
+     TEETIVKTVV EELDQIGNLL SLRVHSVEEK SSKISNITVE QRVPSKAP
+//

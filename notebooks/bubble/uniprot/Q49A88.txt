@@ -1,0 +1,397 @@
+ID   CCD14_HUMAN             Reviewed;         953 AA.
+AC   Q49A88; B7Z2Q3; B7Z2T2; B8ZZ41; B8ZZ58; D3DN98; Q7Z3N3; Q86T30; Q8IWF8;
+AC   Q8WUJ8; Q96K47; Q9H9A3; Q9UFH0;
+DT   20-MAY-2008, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 3.
+DT   28-JUN-2023, entry version 137.
+DE   RecName: Full=Coiled-coil domain-containing protein 14;
+GN   Name=CCDC14;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 3 AND 4), NUCLEOTIDE
+RP   SEQUENCE [LARGE SCALE MRNA] OF 537-953 (ISOFORMS 1/2/3/5/6), AND VARIANT
+RP   PRO-365.
+RC   TISSUE=Bone marrow, Retina, and Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 6), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 20-953 (ISOFORM 1), NUCLEOTIDE SEQUENCE [LARGE SCALE
+RP   MRNA] OF 153-953 (ISOFORM 5), NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF
+RP   584-953 (ISOFORMS 2/3/5/6), AND VARIANT PRO-365.
+RC   TISSUE=Brain, and Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R., Buhay C.J.,
+RA   Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R., Gunaratne P.,
+RA   Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V., Hume J., Jackson A.,
+RA   Khan Z.M., Kovar-Smith C., Lewis L.R., Lozado R.J., Metzker M.L.,
+RA   Milosavljevic A., Miner G.R., Morgan M.B., Nazareth L.V., Scott G.,
+RA   Sodergren E., Song X.-Z., Steffen D., Wei S., Wheeler D.A., Wright M.W.,
+RA   Worley K.C., Yuan Y., Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M.,
+RA   Brown M.J., Chen G., Chen Z., Clendenning J., Clerc-Blankenburg K.P.,
+RA   Chen R., Chen Z., Davis C., Delgado O., Dinh H.H., Dong W., Draper H.,
+RA   Ernst S., Fu G., Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J.,
+RA   Hao B., Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W.,
+RA   Jackson L.R., Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B.,
+RA   Liu J., Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O.,
+RA   Palmeiri A., Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J., Zhang X.,
+RA   Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H., Reinhardt R.,
+RA   Naylor S.L., Yang H., Olson M., Weinstock G., Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 743-953 (ISOFORM 1/2/3/5/6), AND VARIANT PRO-365.
+RC   TISSUE=Kidney, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-124; SER-670; SER-754 AND
+RP   SER-798, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [8]
+RP   FUNCTION, INTERACTION WITH CEP63, AND SUBCELLULAR LOCATION.
+RX   PubMed=24613305; DOI=10.1016/j.cub.2014.01.067;
+RA   Firat-Karalar E.N., Rauniyar N., Yates J.R. III, Stearns T.;
+RT   "Proximity interactions among centrosome components identify regulators of
+RT   centriole duplication.";
+RL   Curr. Biol. 24:664-670(2014).
+RN   [9]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=26297806; DOI=10.7554/elife.07519;
+RA   Kodani A., Yu T.W., Johnson J.R., Jayaraman D., Johnson T.L., Al-Gazali L.,
+RA   Sztriha L., Partlow J.N., Kim H., Krup A.L., Dammermann A., Krogan N.,
+RA   Walsh C.A., Reiter J.F.;
+RT   "Centriolar satellites assemble centrosomal microcephaly proteins to
+RT   recruit CDK2 and promote centriole duplication.";
+RL   Elife 4:0-0(2015).
+CC   -!- FUNCTION: Negatively regulates centriole duplication. Negatively
+CC       regulates CEP63 and CDK2 centrosomal localization.
+CC       {ECO:0000269|PubMed:24613305, ECO:0000269|PubMed:26297806}.
+CC   -!- SUBUNIT: Interacts with CEP63. {ECO:0000269|PubMed:24613305}.
+CC   -!- INTERACTION:
+CC       Q49A88; Q96MT8: CEP63; NbExp=5; IntAct=EBI-751035, EBI-741977;
+CC       Q49A88; P43364-2: MAGEA11; NbExp=3; IntAct=EBI-751035, EBI-10178634;
+CC       Q49A88; Q15154: PCM1; NbExp=6; IntAct=EBI-751035, EBI-741421;
+CC       Q49A88; P50542: PEX5; NbExp=3; IntAct=EBI-751035, EBI-597835;
+CC       Q49A88-3; Q96MT8-3: CEP63; NbExp=3; IntAct=EBI-12105646, EBI-11522539;
+CC       Q49A88-3; P48730: CSNK1D; NbExp=3; IntAct=EBI-12105646, EBI-751621;
+CC       Q49A88-3; P26196: DDX6; NbExp=3; IntAct=EBI-12105646, EBI-351257;
+CC       Q49A88-3; P06396: GSN; NbExp=3; IntAct=EBI-12105646, EBI-351506;
+CC       Q49A88-3; P01112: HRAS; NbExp=3; IntAct=EBI-12105646, EBI-350145;
+CC       Q49A88-3; O60341: KDM1A; NbExp=3; IntAct=EBI-12105646, EBI-710124;
+CC       Q49A88-3; P43364: MAGEA11; NbExp=3; IntAct=EBI-12105646, EBI-739552;
+CC       Q49A88-3; O15481: MAGEB4; NbExp=3; IntAct=EBI-12105646, EBI-751857;
+CC       Q49A88-3; Q96T60: PNKP; NbExp=3; IntAct=EBI-12105646, EBI-1045072;
+CC       Q49A88-3; O76064: RNF8; NbExp=3; IntAct=EBI-12105646, EBI-373337;
+CC       Q49A88-3; Q8N3L3: TXLNB; NbExp=3; IntAct=EBI-12105646, EBI-6116822;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton, microtubule organizing
+CC       center, centrosome, centriolar satellite {ECO:0000269|PubMed:24613305,
+CC       ECO:0000269|PubMed:26297806}. Note=Colocalizes with PCM1 at centriolar
+CC       satellites throughout the cell cycle. {ECO:0000269|PubMed:26297806}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1;
+CC         IsoId=Q49A88-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q49A88-2; Sequence=VSP_033455;
+CC       Name=3;
+CC         IsoId=Q49A88-3; Sequence=VSP_033456, VSP_033457;
+CC       Name=4;
+CC         IsoId=Q49A88-4; Sequence=VSP_033455, VSP_033459, VSP_033460;
+CC       Name=5;
+CC         IsoId=Q49A88-5; Sequence=VSP_033458;
+CC       Name=6;
+CC         IsoId=Q49A88-6; Sequence=VSP_039080;
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB14329.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAB55229.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAH11939.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; BX537652; CAD97804.1; -; mRNA.
+DR   EMBL; AL122079; CAB59254.1; -; mRNA.
+DR   EMBL; AL833312; CAD91162.1; -; mRNA.
+DR   EMBL; AK022954; BAB14329.1; ALT_INIT; mRNA.
+DR   EMBL; AK027607; BAB55229.1; ALT_INIT; mRNA.
+DR   EMBL; AK294979; BAH11939.1; ALT_INIT; mRNA.
+DR   EMBL; AK295091; BAH11968.1; -; mRNA.
+DR   EMBL; AC117381; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471052; EAW79430.1; -; Genomic_DNA.
+DR   EMBL; CH471052; EAW79434.1; -; Genomic_DNA.
+DR   EMBL; BC020246; AAH20246.1; -; mRNA.
+DR   EMBL; BC040285; AAH40285.1; -; mRNA.
+DR   EMBL; BC042613; AAH42613.1; -; mRNA.
+DR   CCDS; CCDS77806.1; -. [Q49A88-2]
+DR   RefSeq; NP_001295246.1; NM_001308317.1. [Q49A88-2]
+DR   RefSeq; NP_073594.4; NM_022757.4.
+DR   RefSeq; XP_005247767.1; XM_005247710.4.
+DR   RefSeq; XP_005247768.1; XM_005247711.4.
+DR   RefSeq; XP_005247770.1; XM_005247713.2. [Q49A88-2]
+DR   RefSeq; XP_005247771.1; XM_005247714.2.
+DR   RefSeq; XP_016862545.1; XM_017007056.1.
+DR   RefSeq; XP_016862547.1; XM_017007058.1.
+DR   RefSeq; XP_016862548.1; XM_017007059.1.
+DR   AlphaFoldDB; Q49A88; -.
+DR   SMR; Q49A88; -.
+DR   BioGRID; 122281; 134.
+DR   DIP; DIP-47727N; -.
+DR   IntAct; Q49A88; 67.
+DR   MINT; Q49A88; -.
+DR   STRING; 9606.ENSP00000420180; -.
+DR   iPTMnet; Q49A88; -.
+DR   PhosphoSitePlus; Q49A88; -.
+DR   BioMuta; CCDC14; -.
+DR   DMDM; 296439419; -.
+DR   EPD; Q49A88; -.
+DR   jPOST; Q49A88; -.
+DR   MassIVE; Q49A88; -.
+DR   MaxQB; Q49A88; -.
+DR   PaxDb; Q49A88; -.
+DR   PeptideAtlas; Q49A88; -.
+DR   ProteomicsDB; 62026; -. [Q49A88-1]
+DR   ProteomicsDB; 62027; -. [Q49A88-2]
+DR   ProteomicsDB; 62028; -. [Q49A88-3]
+DR   ProteomicsDB; 62029; -. [Q49A88-4]
+DR   ProteomicsDB; 62030; -. [Q49A88-5]
+DR   ProteomicsDB; 62031; -. [Q49A88-6]
+DR   Antibodypedia; 32961; 58 antibodies from 16 providers.
+DR   DNASU; 64770; -.
+DR   Ensembl; ENST00000485727.5; ENSP00000418002.1; ENSG00000175455.16. [Q49A88-2]
+DR   Ensembl; ENST00000488653.6; ENSP00000420180.3; ENSG00000175455.16. [Q49A88-6]
+DR   Ensembl; ENST00000489746.5; ENSP00000418403.1; ENSG00000175455.16. [Q49A88-2]
+DR   GeneID; 64770; -.
+DR   KEGG; hsa:64770; -.
+DR   UCSC; uc003egx.5; human. [Q49A88-1]
+DR   AGR; HGNC:25766; -.
+DR   CTD; 64770; -.
+DR   DisGeNET; 64770; -.
+DR   GeneCards; CCDC14; -.
+DR   HGNC; HGNC:25766; CCDC14.
+DR   HPA; ENSG00000175455; Low tissue specificity.
+DR   MIM; 617147; gene.
+DR   neXtProt; NX_Q49A88; -.
+DR   OpenTargets; ENSG00000175455; -.
+DR   PharmGKB; PA134990564; -.
+DR   VEuPathDB; HostDB:ENSG00000175455; -.
+DR   eggNOG; ENOG502R84N; Eukaryota.
+DR   GeneTree; ENSGT00390000017916; -.
+DR   HOGENOM; CLU_015403_0_0_1; -.
+DR   InParanoid; Q49A88; -.
+DR   OMA; ANWILPQ; -.
+DR   OrthoDB; 5407019at2759; -.
+DR   PhylomeDB; Q49A88; -.
+DR   TreeFam; TF332390; -.
+DR   PathwayCommons; Q49A88; -.
+DR   SignaLink; Q49A88; -.
+DR   BioGRID-ORCS; 64770; 12 hits in 1157 CRISPR screens.
+DR   ChiTaRS; CCDC14; human.
+DR   GenomeRNAi; 64770; -.
+DR   Pharos; Q49A88; Tdark.
+DR   PRO; PR:Q49A88; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q49A88; protein.
+DR   Bgee; ENSG00000175455; Expressed in pancreatic ductal cell and 180 other tissues.
+DR   ExpressionAtlas; Q49A88; baseline and differential.
+DR   Genevisible; Q49A88; HS.
+DR   GO; GO:0034451; C:centriolar satellite; IDA:UniProtKB.
+DR   GO; GO:0005813; C:centrosome; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-KW.
+DR   GO; GO:0071539; P:protein localization to centrosome; IMP:UniProtKB.
+DR   GO; GO:0021762; P:substantia nigra development; HEP:UniProtKB.
+DR   InterPro; IPR029343; CCDC14.
+DR   PANTHER; PTHR22367; COILED-COIL DOMAIN-CONTAINING PROTEIN 14; 1.
+DR   PANTHER; PTHR22367:SF2; COILED-COIL DOMAIN-CONTAINING PROTEIN 14; 1.
+DR   Pfam; PF15254; CCDC14; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Coiled coil; Cytoplasm; Cytoskeleton; Phosphoprotein;
+KW   Reference proteome.
+FT   CHAIN           1..953
+FT                   /note="Coiled-coil domain-containing protein 14"
+FT                   /id="PRO_0000333043"
+FT   REGION          1..22
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          52..72
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          126..189
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          268..287
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          383..413
+FT                   /evidence="ECO:0000255"
+FT   COILED          483..618
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        1..19
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        160..175
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         124
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         670
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         754
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         798
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1..200
+FT                   /note="Missing (in isoform 2 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_033455"
+FT   VAR_SEQ         1..160
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_033456"
+FT   VAR_SEQ         125..166
+FT                   /note="GSETAYLENRSNSRPLESKRYGSKKKRHEKHTIPLVVQKETS -> A (in
+FT                   isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_039080"
+FT   VAR_SEQ         161..166
+FT                   /note="VQKETS -> MPMESA (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_033457"
+FT   VAR_SEQ         290..448
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_033458"
+FT   VAR_SEQ         642..655
+FT                   /note="TLQTSMAKLLSDLS -> KQKMHLKNFPEHLI (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_033459"
+FT   VAR_SEQ         656..953
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_033460"
+FT   VARIANT         365
+FT                   /note="T -> P (in dbSNP:rs17310144)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:17974005"
+FT                   /id="VAR_043116"
+FT   CONFLICT        154
+FT                   /note="K -> E (in Ref. 2; BAH11939)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        403
+FT                   /note="K -> R (in Ref. 1; CAD97804)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        580
+FT                   /note="I -> T (in Ref. 5; AAH42613)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        585
+FT                   /note="Q -> H (in Ref. 2; BAH11968)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        689
+FT                   /note="S -> P (in Ref. 2; BAH11968)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        790
+FT                   /note="K -> E (in Ref. 5; AAH42613)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        821
+FT                   /note="K -> E (in Ref. 2; BAB14329)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        886
+FT                   /note="C -> G (in Ref. 5; AAH42613)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   953 AA;  106302 MW;  3B4335D2641E476A CRC64;
+     MKRGIRRDPF RKRKLGGRAK KVREPTAVNS FYREASLPSV WASLRRREMV RSGARPGQVL
+     SSGRHTGPAK LTNGKKATYL RKIPRFNADS GYSIHSDSES QAETVHGLDG CASLLRDILR
+     NEDSGSETAY LENRSNSRPL ESKRYGSKKK RHEKHTIPLV VQKETSSSDN KKQIPNEASA
+     RSERDTSDLE QNWSLQDHYR MYSPIIYQAL CEHVQTQMSL MNDLTSKNIP NGIPAVPCHA
+     PSHSESQATP HSSYGLCTST PVWSLQRPPC PPKVHSEVQT DGNSQFASQG KTVSATCTDV
+     LRNSFNTSPG VPCSLPKTDI SAIPTLQQLG LVNGILPQQG IHKETDLLKC IQTYLSLFRS
+     HGKETHLDSQ THRSPTQSQP AFLATNEEKC AREQIREATS ERKDLNIHVR DTKTVKDVQK
+     AKNVNKTAEK VRIIKYLLGE LKALVAEQED SEIQRLITEM EACISVLPTV SGNTDIQVEI
+     ALAMQPLRSE NAQLRRQLRI LNQQLREQQK TQKPSGAVDC NLELFSLQSL NMSLQNQLEE
+     SLKSQELLQS KNEELLKVIE NQKDENKKFS SIFKDKDQTI LENKQQYDIE ITRIKIELEE
+     ALVNVKSSQF KLETAEKENQ ILGITLRQRD AEVTRLRELT RTLQTSMAKL LSDLSVDSAR
+     CKPGNNLTKS LLNIHDKQLQ HDPAPAHTSI MSYLNKLETN YSFTHSEPLS TIKNEETIEP
+     DKTYENVLSS RGPQNSNTRG MEEASAPGII SALSKQDSDE GSETMALIED EHNLDNTIYI
+     PFARSTPEKK SPLSKRLSPQ PQIRAATTQL VSNSGLAVSG KENKLCTPVI CSSSTKEAED
+     APEKLSRASD MKDTQLLKKI KEAIGKIPAA TKEPEEQTAC HGPSGCLSNS LQVKGNTVCD
+     GSVFTSDLMS DWSISSFSTF TSRDEQDFRN GLAALDANIA RLQKSLRTGL LEK
+//

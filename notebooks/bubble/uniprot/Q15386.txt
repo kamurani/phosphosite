@@ -1,0 +1,556 @@
+ID   UBE3C_HUMAN             Reviewed;        1083 AA.
+AC   Q15386; A4D235; A6NCP3; Q8TC15; Q96CR4; Q9UDU3;
+DT   07-JUN-2005, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUN-2005, sequence version 3.
+DT   28-JUN-2023, entry version 186.
+DE   RecName: Full=Ubiquitin-protein ligase E3C {ECO:0000305};
+DE            EC=2.3.2.26 {ECO:0000269|PubMed:11278995, ECO:0000269|PubMed:24811749, ECO:0000269|PubMed:25752573, ECO:0000269|PubMed:25752577, ECO:0000269|PubMed:32039437, ECO:0000269|PubMed:33637724, ECO:0000269|PubMed:34239127};
+DE   AltName: Full=HECT-type ubiquitin transferase E3C {ECO:0000305};
+DE   AltName: Full=Homologous to E6AP carboxyl terminus homologous protein 2 {ECO:0000303|PubMed:9575161};
+DE            Short=HectH2 {ECO:0000303|PubMed:9575161};
+DE   AltName: Full=RTA-associated ubiquitin ligase {ECO:0000303|PubMed:21167755};
+DE            Short=RAUL {ECO:0000303|PubMed:21167755};
+GN   Name=UBE3C {ECO:0000303|PubMed:17323924, ECO:0000312|HGNC:HGNC:16803};
+GN   Synonyms=KIAA0010 {ECO:0000303|PubMed:7584026}, KIAA10
+GN   {ECO:0000303|PubMed:11278995};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Bone marrow;
+RX   PubMed=7584026; DOI=10.1093/dnares/1.1.27;
+RA   Nomura N., Miyajima N., Sazuka T., Tanaka A., Kawarabayasi Y., Sato S.,
+RA   Nagase T., Seki N., Ishikawa K., Tabata S.;
+RT   "Prediction of the coding sequences of unidentified human genes. I. The
+RT   coding sequences of 40 new genes (KIAA0001-KIAA0040) deduced by analysis of
+RT   randomly sampled cDNA clones from human immature myeloid cell line KG-1.";
+RL   DNA Res. 1:27-35(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12690205; DOI=10.1126/science.1083423;
+RA   Scherer S.W., Cheung J., MacDonald J.R., Osborne L.R., Nakabayashi K.,
+RA   Herbrick J.-A., Carson A.R., Parker-Katiraee L., Skaug J., Khaja R.,
+RA   Zhang J., Hudek A.K., Li M., Haddad M., Duggan G.E., Fernandez B.A.,
+RA   Kanematsu E., Gentles S., Christopoulos C.C., Choufani S., Kwasnicka D.,
+RA   Zheng X.H., Lai Z., Nusskern D.R., Zhang Q., Gu Z., Lu F., Zeesman S.,
+RA   Nowaczyk M.J., Teshima I., Chitayat D., Shuman C., Weksberg R.,
+RA   Zackai E.H., Grebe T.A., Cox S.R., Kirkpatrick S.J., Rahman N.,
+RA   Friedman J.M., Heng H.H.Q., Pelicci P.G., Lo-Coco F., Belloni E.,
+RA   Shaffer L.G., Pober B., Morton C.C., Gusella J.F., Bruns G.A.P., Korf B.R.,
+RA   Quade B.J., Ligon A.H., Ferguson H., Higgins A.W., Leach N.T.,
+RA   Herrick S.R., Lemyre E., Farra C.G., Kim H.-G., Summers A.M., Gripp K.W.,
+RA   Roberts W., Szatmari P., Winsor E.J.T., Grzeschik K.-H., Teebi A.,
+RA   Minassian B.A., Kere J., Armengol L., Pujana M.A., Estivill X.,
+RA   Wilson M.D., Koop B.F., Tosi S., Moore G.E., Boright A.P., Zlotorynski E.,
+RA   Kerem B., Kroisel P.M., Petek E., Oscier D.G., Mould S.J., Doehner H.,
+RA   Doehner K., Rommens J.M., Vincent J.B., Venter J.C., Li P.W., Mural R.J.,
+RA   Adams M.D., Tsui L.-C.;
+RT   "Human chromosome 7: DNA sequence and biology.";
+RL   Science 300:767-772(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2 AND 3).
+RC   TISSUE=Lung, and Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PARTIAL PROTEIN SEQUENCE, FUNCTION, CATALYTIC ACTIVITY, PATHWAY,
+RP   INTERACTION WITH UBE2D1, AUTOUBIQUITINATION, AND TISSUE SPECIFICITY.
+RX   PubMed=11278995; DOI=10.1074/jbc.m100034200;
+RA   You J., Pickart C.M.;
+RT   "A HECT domain E3 enzyme assembles novel polyubiquitin chains.";
+RL   J. Biol. Chem. 276:19871-19878(2001).
+RN   [7]
+RP   FUNCTION, INTERACTION WITH UBE2D1 AND UBE2L3, AND TISSUE SPECIFICITY.
+RX   PubMed=9575161; DOI=10.1074/jbc.273.20.12148;
+RA   Schwarz S.E., Rosa J.L., Scheffner M.;
+RT   "Characterization of human hect domain family members and their interaction
+RT   with UbcH5 and UbcH7.";
+RL   J. Biol. Chem. 273:12148-12154(1998).
+RN   [8]
+RP   FUNCTION IN CAND2 UBIQUITINATION, PATHWAY, INTERACTION WITH CAND2 AND 26S
+RP   PROTEASOMES, ACTIVE SITE, MUTAGENESIS OF CYS-1051, AND TISSUE SPECIFICITY.
+RX   PubMed=12692129; DOI=10.1074/jbc.m212887200;
+RA   You J., Wang M., Aoki T., Tamura T.-A., Pickart C.M.;
+RT   "Proteolytic targeting of transcriptional regulator TIP120B by a HECT
+RT   domain E3 ligase.";
+RL   J. Biol. Chem. 278:23369-23375(2003).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=16341092; DOI=10.1038/sj.emboj.7600895;
+RA   Wang M., Pickart C.M.;
+RT   "Different HECT domain ubiquitin ligases employ distinct mechanisms of
+RT   polyubiquitin chain synthesis.";
+RL   EMBO J. 24:4324-4333(2005).
+RN   [10]
+RP   FUNCTION, PATHWAY, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=16601690; DOI=10.1038/sj.emboj.7601061;
+RA   Wang M., Cheng D., Peng J., Pickart C.M.;
+RT   "Molecular determinants of polyubiquitin linkage selection by an HECT
+RT   ubiquitin ligase.";
+RL   EMBO J. 25:1710-1719(2006).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17323924; DOI=10.1021/bi061994u;
+RA   Wang X., Chen C.-F., Baker P.R., Chen P.-L., Kaiser P., Huang L.;
+RT   "Mass spectrometric characterization of the affinity-purified human 26S
+RT   proteasome complex.";
+RL   Biochemistry 46:3553-3565(2007).
+RN   [12]
+RP   FUNCTION, PATHWAY, ACTIVE SITE, AND MUTAGENESIS OF CYS-1051.
+RX   PubMed=21167755; DOI=10.1016/j.immuni.2010.11.027;
+RA   Yu Y., Hayward G.S.;
+RT   "The ubiquitin E3 ligase RAUL negatively regulates type i interferon
+RT   through ubiquitination of the transcription factors IRF7 and IRF3.";
+RL   Immunity 33:863-877(2010).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   FUNCTION, CATALYTIC ACTIVITY, PATHWAY, ACTIVE SITE, AND MUTAGENESIS OF
+RP   CYS-1051.
+RX   PubMed=24811749; DOI=10.1002/embj.201386906;
+RA   Besche H.C., Sha Z., Kukushkin N.V., Peth A., Hock E.M., Kim W., Gygi S.,
+RA   Gutierrez J.A., Liao H., Dick L., Goldberg A.L.;
+RT   "Autoubiquitination of the 26S proteasome on Rpn13 regulates breakdown of
+RT   ubiquitin conjugates.";
+RL   EMBO J. 33:1159-1176(2014).
+RN   [15]
+RP   FUNCTION, INTERACTION WITH THE 26S PROTEASOME, CATALYTIC ACTIVITY, PATHWAY,
+RP   ACTIVE SITE, AND MUTAGENESIS OF CYS-1051.
+RX   PubMed=24158444; DOI=10.1074/jbc.m113.499350;
+RA   Chu B.W., Kovary K.M., Guillaume J., Chen L.C., Teruel M.N., Wandless T.J.;
+RT   "The E3 ubiquitin ligase UBE3C enhances proteasome processivity by
+RT   ubiquitinating partially proteolyzed substrates.";
+RL   J. Biol. Chem. 288:34575-34587(2013).
+RN   [16]
+RP   FUNCTION, CATALYTIC ACTIVITY, ACTIVE SITE, AUTOUBIQUITINATION, PATHWAY, AND
+RP   MUTAGENESIS OF CYS-1051.
+RX   PubMed=25752573; DOI=10.1016/j.molcel.2015.01.041;
+RA   Kristariyanto Y.A., Abdul Rehman S.A., Campbell D.G., Morrice N.A.,
+RA   Johnson C., Toth R., Kulathu Y.;
+RT   "K29-selective ubiquitin binding domain reveals structural basis of
+RT   specificity and heterotypic nature of K29 polyubiquitin.";
+RL   Mol. Cell 58:83-94(2015).
+RN   [17]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND PATHWAY.
+RX   PubMed=25752577; DOI=10.1016/j.molcel.2015.01.042;
+RA   Michel M.A., Elliott P.R., Swatek K.N., Simicek M., Pruneda J.N.,
+RA   Wagstaff J.L., Freund S.M., Komander D.;
+RT   "Assembly and specific recognition of K29- and K33-linked polyubiquitin.";
+RL   Mol. Cell 58:95-109(2015).
+RN   [18]
+RP   FUNCTION.
+RX   PubMed=28396413; DOI=10.1073/pnas.1701734114;
+RA   Kuo C.L., Goldberg A.L.;
+RT   "Ubiquitinated proteins promote the association of proteasomes with the
+RT   deubiquitinating enzyme Usp14 and the ubiquitin ligase Ube3c.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 114:E3404-E3413(2017).
+RN   [19]
+RP   FUNCTION.
+RX   PubMed=31375563; DOI=10.1074/jbc.ra119.009654;
+RA   Gottlieb C.D., Thompson A.C.S., Ordureau A., Harper J.W., Kopito R.R.;
+RT   "Acute unfolding of a single protein immediately stimulates recruitment of
+RT   ubiquitin protein ligase E3C (UBE3C) to 26S proteasomes.";
+RL   J. Biol. Chem. 294:16511-16524(2019).
+RN   [20]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND PATHWAY.
+RX   PubMed=34239127; DOI=10.1038/s41589-021-00823-5;
+RA   Yu Y., Zheng Q., Erramilli S.K., Pan M., Park S., Xie Y., Li J., Fei J.,
+RA   Kossiakoff A.A., Liu L., Zhao M.;
+RT   "K29-linked ubiquitin signaling regulates proteotoxic stress response and
+RT   cell cycle.";
+RL   Nat. Chem. Biol. 17:896-905(2021).
+RN   [21]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND PATHWAY.
+RX   PubMed=33637724; DOI=10.1038/s41467-021-21715-1;
+RA   Chen Y.H., Huang T.Y., Lin Y.T., Lin S.Y., Li W.H., Hsiao H.J., Yan R.L.,
+RA   Tang H.W., Shen Z.Q., Chen G.C., Wu K.P., Tsai T.F., Chen R.H.;
+RT   "VPS34 K29/K48 branched ubiquitination governed by UBE3C and TRABID
+RT   regulates autophagy, proteostasis and liver metabolism.";
+RL   Nat. Commun. 12:1322-1322(2021).
+RN   [22] {ECO:0007744|PDB:6K2C}
+RP   X-RAY CRYSTALLOGRAPHY (2.70 ANGSTROMS) OF 693-1083, FUNCTION, CATALYTIC
+RP   ACTIVITY, AUTOUBIQUITINATION, UBIQUITINATION AT LYS-903, AND MUTAGENESIS OF
+RP   758-ASN--LEU-762; GLN-961; LYS-1013 AND SER-1049.
+RX   PubMed=32039437; DOI=10.1042/bcj20200027;
+RA   Singh S., Sivaraman J.;
+RT   "Crystal structure of HECT domain of UBE3C E3 ligase and its ubiquitination
+RT   activity.";
+RL   Biochem. J. 477:905-923(2020).
+CC   -!- FUNCTION: E3 ubiquitin-protein ligase that specifically catalyzes 'Lys-
+CC       29'- and 'Lys-48'-linked polyubiquitin chains (PubMed:11278995,
+CC       PubMed:12692129, PubMed:16341092, PubMed:16601690, PubMed:24811749,
+CC       PubMed:24158444, PubMed:25752573, PubMed:25752577, PubMed:34239127,
+CC       PubMed:33637724, PubMed:32039437). Accepts ubiquitin from the E2
+CC       ubiquitin-conjugating enzyme UBE2D1 in the form of a thioester and then
+CC       directly transfers the ubiquitin to targeted substrates
+CC       (PubMed:9575161, PubMed:32039437). Associates with the proteasome and
+CC       promotes elongation of ubiquitin chains on substrates bound to the 26S
+CC       proteasome (PubMed:24158444, PubMed:28396413, PubMed:31375563). Also
+CC       catalyzes 'Lys-29'- and 'Lys-48'-linked ubiquitination of 26S
+CC       proteasome subunit ADRM1/RPN13 in response to proteotoxic stress,
+CC       impairing the ability of the proteasome to bind and degrade ubiquitin-
+CC       conjugated proteins (PubMed:24811749, PubMed:31375563). Acts as a
+CC       negative regulator of autophagy by mediating 'Lys-29'- and 'Lys-48'-
+CC       linked ubiquitination of PIK3C3/VPS34, promoting its degradation
+CC       (PubMed:33637724). Can assemble unanchored poly-ubiquitin chains in
+CC       either 'Lys-29'- or 'Lys-48'-linked polyubiquitin chains; with some
+CC       preference for 'Lys-48' linkages (PubMed:11278995, PubMed:16601690,
+CC       PubMed:25752577). Acts as a negative regulator of type I interferon by
+CC       mediating 'Lys-48'-linked ubiquitination of IRF3 and IRF7, leading to
+CC       their degradation by the proteasome (PubMed:21167755). Catalyzes
+CC       ubiquitination and degradation of CAND2 (PubMed:12692129).
+CC       {ECO:0000269|PubMed:11278995, ECO:0000269|PubMed:12692129,
+CC       ECO:0000269|PubMed:16341092, ECO:0000269|PubMed:16601690,
+CC       ECO:0000269|PubMed:21167755, ECO:0000269|PubMed:24158444,
+CC       ECO:0000269|PubMed:24811749, ECO:0000269|PubMed:25752573,
+CC       ECO:0000269|PubMed:25752577, ECO:0000269|PubMed:28396413,
+CC       ECO:0000269|PubMed:31375563, ECO:0000269|PubMed:32039437,
+CC       ECO:0000269|PubMed:33637724, ECO:0000269|PubMed:34239127,
+CC       ECO:0000269|PubMed:9575161}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-cysteine +
+CC         [acceptor protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-
+CC         cysteine + N(6)-ubiquitinyl-[acceptor protein]-L-lysine.;
+CC         EC=2.3.2.26; Evidence={ECO:0000269|PubMed:11278995,
+CC         ECO:0000269|PubMed:24158444, ECO:0000269|PubMed:24811749,
+CC         ECO:0000269|PubMed:25752573, ECO:0000269|PubMed:25752577,
+CC         ECO:0000269|PubMed:32039437, ECO:0000269|PubMed:33637724,
+CC         ECO:0000269|PubMed:34239127};
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC       {ECO:0000269|PubMed:11278995, ECO:0000269|PubMed:12692129,
+CC       ECO:0000269|PubMed:16601690, ECO:0000269|PubMed:21167755,
+CC       ECO:0000269|PubMed:24158444, ECO:0000269|PubMed:24811749,
+CC       ECO:0000269|PubMed:25752573, ECO:0000269|PubMed:25752577,
+CC       ECO:0000269|PubMed:33637724, ECO:0000269|PubMed:34239127}.
+CC   -!- SUBUNIT: Interacts with 26S proteasomes (PubMed:12692129,
+CC       PubMed:24158444). Interacts (via the HECT domain) with UBE2D1 and, less
+CC       efficiently, with UBE2L3 (PubMed:11278995, PubMed:9575161).
+CC       {ECO:0000269|PubMed:11278995, ECO:0000269|PubMed:12692129,
+CC       ECO:0000269|PubMed:24158444, ECO:0000269|PubMed:9575161}.
+CC   -!- INTERACTION:
+CC       Q15386; Q08379: GOLGA2; NbExp=3; IntAct=EBI-1058871, EBI-618309;
+CC       Q15386-3; P23560-2: BDNF; NbExp=3; IntAct=EBI-25833079, EBI-12275524;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q15386-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q15386-2; Sequence=VSP_013956, VSP_013957;
+CC       Name=3;
+CC         IsoId=Q15386-3; Sequence=VSP_013953, VSP_013954, VSP_013955;
+CC   -!- TISSUE SPECIFICITY: Highly expressed in skeletal muscle. Detected at
+CC       much lower levels in kidney and pancreas. {ECO:0000269|PubMed:11278995,
+CC       ECO:0000269|PubMed:12692129, ECO:0000269|PubMed:9575161}.
+CC   -!- PTM: Autoubiquitinated; promoting its own degradation.
+CC       {ECO:0000269|PubMed:11278995, ECO:0000269|PubMed:25752573,
+CC       ECO:0000269|PubMed:32039437}.
+CC   -!- SIMILARITY: Belongs to the UBE3C family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA02799.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D13635; BAA02799.2; ALT_INIT; mRNA.
+DR   EMBL; AC004898; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC004975; AAD51453.1; -; Genomic_DNA.
+DR   EMBL; CH236954; EAL23922.1; -; Genomic_DNA.
+DR   EMBL; CH471149; EAX04568.1; -; Genomic_DNA.
+DR   EMBL; BC014029; AAH14029.1; -; mRNA.
+DR   EMBL; BC026241; AAH26241.1; -; mRNA.
+DR   CCDS; CCDS34789.1; -. [Q15386-1]
+DR   PIR; A38919; A38919.
+DR   RefSeq; NP_055486.2; NM_014671.2. [Q15386-1]
+DR   PDB; 6K2C; X-ray; 2.70 A; A=693-1083.
+DR   PDBsum; 6K2C; -.
+DR   AlphaFoldDB; Q15386; -.
+DR   SMR; Q15386; -.
+DR   BioGRID; 115043; 228.
+DR   IntAct; Q15386; 29.
+DR   MINT; Q15386; -.
+DR   STRING; 9606.ENSP00000309198; -.
+DR   GlyGen; Q15386; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q15386; -.
+DR   PhosphoSitePlus; Q15386; -.
+DR   SwissPalm; Q15386; -.
+DR   BioMuta; UBE3C; -.
+DR   DMDM; 67462009; -.
+DR   EPD; Q15386; -.
+DR   jPOST; Q15386; -.
+DR   MassIVE; Q15386; -.
+DR   MaxQB; Q15386; -.
+DR   PaxDb; Q15386; -.
+DR   PeptideAtlas; Q15386; -.
+DR   ProteomicsDB; 60555; -. [Q15386-1]
+DR   ProteomicsDB; 60556; -. [Q15386-2]
+DR   ProteomicsDB; 60557; -. [Q15386-3]
+DR   Antibodypedia; 33178; 173 antibodies from 26 providers.
+DR   DNASU; 9690; -.
+DR   Ensembl; ENST00000348165.10; ENSP00000309198.8; ENSG00000009335.18. [Q15386-1]
+DR   Ensembl; ENST00000389103.4; ENSP00000373755.4; ENSG00000009335.18. [Q15386-3]
+DR   Ensembl; ENST00000611269.4; ENSP00000481584.1; ENSG00000009335.18. [Q15386-3]
+DR   GeneID; 9690; -.
+DR   KEGG; hsa:9690; -.
+DR   MANE-Select; ENST00000348165.10; ENSP00000309198.8; NM_014671.3; NP_055486.2.
+DR   UCSC; uc003wnf.3; human. [Q15386-1]
+DR   AGR; HGNC:16803; -.
+DR   CTD; 9690; -.
+DR   DisGeNET; 9690; -.
+DR   GeneCards; UBE3C; -.
+DR   HGNC; HGNC:16803; UBE3C.
+DR   HPA; ENSG00000009335; Low tissue specificity.
+DR   MIM; 614454; gene.
+DR   neXtProt; NX_Q15386; -.
+DR   OpenTargets; ENSG00000009335; -.
+DR   PharmGKB; PA134905339; -.
+DR   VEuPathDB; HostDB:ENSG00000009335; -.
+DR   eggNOG; KOG0942; Eukaryota.
+DR   GeneTree; ENSGT00940000156321; -.
+DR   HOGENOM; CLU_002173_2_1_1; -.
+DR   InParanoid; Q15386; -.
+DR   OMA; MRVQGHL; -.
+DR   OrthoDB; 1386at2759; -.
+DR   PhylomeDB; Q15386; -.
+DR   TreeFam; TF106144; -.
+DR   BRENDA; 2.3.2.26; 2681.
+DR   PathwayCommons; Q15386; -.
+DR   Reactome; R-HSA-983168; Antigen processing: Ubiquitination & Proteasome degradation.
+DR   SignaLink; Q15386; -.
+DR   SIGNOR; Q15386; -.
+DR   UniPathway; UPA00143; -.
+DR   BioGRID-ORCS; 9690; 26 hits in 1209 CRISPR screens.
+DR   ChiTaRS; UBE3C; human.
+DR   GeneWiki; UBE3C; -.
+DR   GenomeRNAi; 9690; -.
+DR   Pharos; Q15386; Tbio.
+DR   PRO; PR:Q15386; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q15386; protein.
+DR   Bgee; ENSG00000009335; Expressed in sural nerve and 206 other tissues.
+DR   ExpressionAtlas; Q15386; baseline and differential.
+DR   Genevisible; Q15386; HS.
+DR   GO; GO:0000502; C:proteasome complex; IEA:UniProtKB-KW.
+DR   GO; GO:0019210; F:kinase inhibitor activity; IDA:UniProt.
+DR   GO; GO:0061630; F:ubiquitin protein ligase activity; IDA:UniProtKB.
+DR   GO; GO:0035519; P:protein K29-linked ubiquitination; IDA:UniProtKB.
+DR   GO; GO:0070936; P:protein K48-linked ubiquitination; IDA:UniProtKB.
+DR   GO; GO:0000209; P:protein polyubiquitination; IDA:UniProtKB.
+DR   GO; GO:0006511; P:ubiquitin-dependent protein catabolic process; IDA:UniProt.
+DR   CDD; cd00078; HECTc; 1.
+DR   Gene3D; 3.30.2160.10; Hect, E3 ligase catalytic domain; 1.
+DR   Gene3D; 3.30.2410.10; Hect, E3 ligase catalytic domain; 1.
+DR   Gene3D; 3.90.1750.10; Hect, E3 ligase catalytic domains; 1.
+DR   InterPro; IPR044611; E3A/B/C-like.
+DR   InterPro; IPR000569; HECT_dom.
+DR   InterPro; IPR035983; Hect_E3_ubiquitin_ligase.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   PANTHER; PTHR45700; UBIQUITIN-PROTEIN LIGASE E3C; 1.
+DR   PANTHER; PTHR45700:SF2; UBIQUITIN-PROTEIN LIGASE E3C; 1.
+DR   Pfam; PF00632; HECT; 1.
+DR   SMART; SM00119; HECTc; 1.
+DR   SMART; SM00015; IQ; 1.
+DR   SUPFAM; SSF56204; Hect, E3 ligase catalytic domain; 1.
+DR   PROSITE; PS50237; HECT; 1.
+DR   PROSITE; PS50096; IQ; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Direct protein sequencing;
+KW   Isopeptide bond; Proteasome; Reference proteome; Transferase;
+KW   Ubl conjugation; Ubl conjugation pathway.
+FT   CHAIN           1..1083
+FT                   /note="Ubiquitin-protein ligase E3C"
+FT                   /id="PRO_0000194982"
+FT   DOMAIN          45..74
+FT                   /note="IQ"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00116"
+FT   DOMAIN          744..1083
+FT                   /note="HECT"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00104"
+FT   REGION          1..60
+FT                   /note="Cis-determinant of acceptor ubiquitin-binding"
+FT                   /evidence="ECO:0000269|PubMed:16341092"
+FT   REGION          1..40
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          355..385
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        16..40
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        1051
+FT                   /note="Glycyl thioester intermediate"
+FT                   /evidence="ECO:0000305|PubMed:12692129,
+FT                   ECO:0000305|PubMed:21167755, ECO:0000305|PubMed:24158444,
+FT                   ECO:0000305|PubMed:24811749, ECO:0000305|PubMed:25752573"
+FT   CROSSLNK        903
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin); by autocatalysis"
+FT                   /evidence="ECO:0000269|PubMed:32039437"
+FT   VAR_SEQ         23..65
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_013953"
+FT   VAR_SEQ         445..447
+FT                   /note="LLY -> VYK (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_013954"
+FT   VAR_SEQ         448..1083
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_013955"
+FT   VAR_SEQ         640..649
+FT                   /note="TQLYVPASRH -> LLKDLFNIYH (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_013956"
+FT   VAR_SEQ         650..1083
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_013957"
+FT   MUTAGEN         758..762
+FT                   /note="NAHGL->AAAAA: Abolished E3 ubiquitin-protein ligase
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:32039437"
+FT   MUTAGEN         961
+FT                   /note="Q->A,E: Reduced E3 ubiquitin-protein ligase
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:32039437"
+FT   MUTAGEN         1013
+FT                   /note="K->Q: Increased E3 ubiquitin-protein ligase
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:32039437"
+FT   MUTAGEN         1049
+FT                   /note="S->H: Reduced E3 ubiquitin-protein ligase activity."
+FT                   /evidence="ECO:0000269|PubMed:32039437"
+FT   MUTAGEN         1051
+FT                   /note="C->A: Abolishes E3 ubiquitin-protein ligase
+FT                   activity. No stimulation of in vitro CAND2 ubiquitination."
+FT                   /evidence="ECO:0000269|PubMed:12692129,
+FT                   ECO:0000269|PubMed:21167755, ECO:0000269|PubMed:24158444,
+FT                   ECO:0000269|PubMed:24811749, ECO:0000269|PubMed:25752573"
+FT   CONFLICT        822
+FT                   /note="G -> A (in Ref. 1; BAA02799)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           695..712
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          723..727
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           729..731
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           732..739
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   TURN            742..744
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          752..756
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           770..784
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           787..789
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          790..794
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          796..798
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          800..802
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           806..810
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           814..830
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           841..848
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   TURN            929..932
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           933..944
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           949..952
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           957..965
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           973..978
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          981..983
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           991..1001
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           1005..1016
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           1026..1028
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          1034..1037
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          1047..1049
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           1050..1052
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   STRAND          1054..1057
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+FT   HELIX           1063..1077
+FT                   /evidence="ECO:0007829|PDB:6K2C"
+SQ   SEQUENCE   1083 AA;  123923 MW;  BD437ABA457A0DDA CRC64;
+     MFSFEGDFKT RPKVSLGGAS RKEEKASLLH RTQEERRKRE EERRRLKNAI IIQSFIRGYR
+     DRKQQYSIQR SAFDRCATLS QSGGAFPIAN GPNLTLLVRQ LLFFYKQNED SKRLIWLYQN
+     LIKHSSLFVK QLDGSERLTC LFQIKRLMSL CCRLLQNCND DSLNVALPMR MLEVFSSENT
+     YLPVLQDASY VVSVIEQILH YMIHNGYYRS LYLLINSKLP SSIEYSDLSR VPIAKILLEN
+     VLKPLHFTYN SCPEGARQQV FTAFTEEFLA APFTDQIFHF IIPALADAQT VFPYEPFLNA
+     LLLIESRCSR KSGGAPWLFY FVLTVGENYL GALSEEGLLV YLRVLQTFLS QLPVSPASAS
+     CHDSASDSEE ESEEADKPSS PEDGRLSVSY ITEECLKKLD TKQQTNTLLN LVWRDSASEE
+     VFTTMASVCH TLMVQHRMMV PKVRLLYSLA FNARFLRHLW FLISSMSTRM ITGSMVPLLQ
+     VISRGSPMSF EDSSRIIPLF YLFSSLFSHS LISIHDNEFF GDPIEVVGQR QSSMMPFTLE
+     ELIMLSRCLR DACLGIIKLA YPETKPEVRE EYITAFQSIG VTTSSEMQQC IQMEQKRWIQ
+     LFKVITNLVK MLKSRDTRRN FCPPNHWLSE QEDIKADKVT QLYVPASRHV WRFRRMGRIG
+     PLQSTLDVGL ESPPLSVSEE RQLAVLTELP FVVPFEERVK IFQRLIYADK QEVQGDGPFL
+     DGINVTIRRN YIYEDAYDKL SPENEPDLKK RIRVHLLNAH GLDEAGIDGG GIFREFLNEL
+     LKSGFNPNQG FFKTTNEGLL YPNPAAQMLV GDSFARHYYF LGRMLGKALY ENMLVELPFA
+     GFFLSKLLGT SADVDIHHLA SLDPEVYKNL LFLKSYEDDV EELGLNFTVV NNDLGEAQVV
+     ELKFGGKDIP VTSANRIAYI HLVADYRLNR QIRQHCLAFR QGLANVVSLE WLRMFDQQEI
+     QVLISGAQVP ISLEDLKSFT NYSGGYSADH PVIKVFWRVV EGFTDEEKRK LLKFVTSCSR
+     PPLLGFKELY PAFCIHNGGS DLERLPTAST CMNLLKLPEF YDETLLRSKL LYAIECAAGF
+     ELS
+//

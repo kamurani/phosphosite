@@ -1,0 +1,235 @@
+ID   PKH4B_HUMAN             Reviewed;        1271 AA.
+AC   Q96PX9;
+DT   05-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 4.
+DT   28-JUN-2023, entry version 135.
+DE   RecName: Full=Pleckstrin homology domain-containing family G member 4B;
+DE            Short=PH domain-containing family G member 4B;
+GN   Name=PLEKHG4B; Synonyms=KIAA1909;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANTS PRO-669; GLN-1076 AND
+RP   GLY-1146.
+RC   TISSUE=Brain;
+RX   PubMed=11572484; DOI=10.1093/dnares/8.4.179;
+RA   Nagase T., Kikuno R., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XXI. The
+RT   complete sequences of 60 new cDNA clones from brain which code for large
+RT   proteins.";
+RL   DNA Res. 8:179-187(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15372022; DOI=10.1038/nature02919;
+RA   Schmutz J., Martin J., Terry A., Couronne O., Grimwood J., Lowry S.,
+RA   Gordon L.A., Scott D., Xie G., Huang W., Hellsten U., Tran-Gyamfi M.,
+RA   She X., Prabhakar S., Aerts A., Altherr M., Bajorek E., Black S.,
+RA   Branscomb E., Caoile C., Challacombe J.F., Chan Y.M., Denys M.,
+RA   Detter J.C., Escobar J., Flowers D., Fotopulos D., Glavina T., Gomez M.,
+RA   Gonzales E., Goodstein D., Grigoriev I., Groza M., Hammon N., Hawkins T.,
+RA   Haydu L., Israni S., Jett J., Kadner K., Kimball H., Kobayashi A.,
+RA   Lopez F., Lou Y., Martinez D., Medina C., Morgan J., Nandkeshwar R.,
+RA   Noonan J.P., Pitluck S., Pollard M., Predki P., Priest J., Ramirez L.,
+RA   Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A., Thayer N.,
+RA   Tice H., Tsai M., Ustaszewska A., Vo N., Wheeler J., Wu K., Yang J.,
+RA   Dickson M., Cheng J.-F., Eichler E.E., Olsen A., Pennacchio L.A.,
+RA   Rokhsar D.S., Richardson P., Lucas S.M., Myers R.M., Rubin E.M.;
+RT   "The DNA sequence and comparative analysis of human chromosome 5.";
+RL   Nature 431:268-274(2004).
+CC   -!- INTERACTION:
+CC       Q96PX9; O15085-1: ARHGEF11; NbExp=3; IntAct=EBI-11741362, EBI-25399484;
+CC       Q96PX9; Q9NZN5-1: ARHGEF12; NbExp=3; IntAct=EBI-11741362, EBI-9640168;
+CC       Q96PX9; Q13643: FHL3; NbExp=4; IntAct=EBI-11741362, EBI-741101;
+CC       Q96PX9; O00629: KPNA4; NbExp=2; IntAct=EBI-11741362, EBI-396343;
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB067496; BAB67802.2; -; mRNA.
+DR   EMBL; AC010443; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC021087; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; NP_443141.3; NM_052909.3.
+DR   AlphaFoldDB; Q96PX9; -.
+DR   SMR; Q96PX9; -.
+DR   BioGRID; 127497; 27.
+DR   IntAct; Q96PX9; 15.
+DR   STRING; 9606.ENSP00000283426; -.
+DR   iPTMnet; Q96PX9; -.
+DR   PhosphoSitePlus; Q96PX9; -.
+DR   BioMuta; PLEKHG4B; -.
+DR   DMDM; 296439496; -.
+DR   EPD; Q96PX9; -.
+DR   jPOST; Q96PX9; -.
+DR   MassIVE; Q96PX9; -.
+DR   MaxQB; Q96PX9; -.
+DR   PaxDb; Q96PX9; -.
+DR   PeptideAtlas; Q96PX9; -.
+DR   ProteomicsDB; 77784; -.
+DR   Antibodypedia; 49942; 24 antibodies from 11 providers.
+DR   DNASU; 153478; -.
+DR   Ensembl; ENST00000283426.11; ENSP00000283426.6; ENSG00000153404.15.
+DR   GeneID; 153478; -.
+DR   KEGG; hsa:153478; -.
+DR   UCSC; uc003jak.3; human.
+DR   AGR; HGNC:29399; -.
+DR   CTD; 153478; -.
+DR   DisGeNET; 153478; -.
+DR   GeneCards; PLEKHG4B; -.
+DR   HGNC; HGNC:29399; PLEKHG4B.
+DR   HPA; ENSG00000153404; Tissue enhanced (choroid).
+DR   neXtProt; NX_Q96PX9; -.
+DR   OpenTargets; ENSG00000153404; -.
+DR   PharmGKB; PA162399667; -.
+DR   VEuPathDB; HostDB:ENSG00000153404; -.
+DR   eggNOG; KOG0689; Eukaryota.
+DR   eggNOG; KOG4240; Eukaryota.
+DR   GeneTree; ENSGT00940000162507; -.
+DR   HOGENOM; CLU_001356_2_2_1; -.
+DR   InParanoid; Q96PX9; -.
+DR   OMA; DLWLQCP; -.
+DR   OrthoDB; 2958732at2759; -.
+DR   PhylomeDB; Q96PX9; -.
+DR   TreeFam; TF334329; -.
+DR   PathwayCommons; Q96PX9; -.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   SignaLink; Q96PX9; -.
+DR   SIGNOR; Q96PX9; -.
+DR   BioGRID-ORCS; 153478; 14 hits in 1135 CRISPR screens.
+DR   ChiTaRS; PLEKHG4B; human.
+DR   GenomeRNAi; 153478; -.
+DR   Pharos; Q96PX9; Tdark.
+DR   PRO; PR:Q96PX9; -.
+DR   Proteomes; UP000005640; Chromosome 5.
+DR   RNAct; Q96PX9; protein.
+DR   Bgee; ENSG00000153404; Expressed in ventricular zone and 108 other tissues.
+DR   ExpressionAtlas; Q96PX9; baseline and differential.
+DR   Genevisible; Q96PX9; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0019898; C:extrinsic component of membrane; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IBA:GO_Central.
+DR   GO; GO:0007411; P:axon guidance; IBA:GO_Central.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   CDD; cd13242; PH_puratrophin-1; 1.
+DR   CDD; cd00160; RhoGEF; 1.
+DR   Gene3D; 1.20.900.10; Dbl homology (DH) domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR035899; DBL_dom_sf.
+DR   InterPro; IPR000219; DH-domain.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   PANTHER; PTHR45845:SF1; PLECKSTRIN HOMOLOGY AND RHOGEF DOMAIN CONTAINING G4B; 1.
+DR   PANTHER; PTHR45845; RHO GUANINE NUCLEOTIDE EXCHANGE FACTOR-RELATED; 1.
+DR   Pfam; PF00621; RhoGEF; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SMART; SM00325; RhoGEF; 1.
+DR   SUPFAM; SSF48065; DBL homology domain (DH-domain); 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   PROSITE; PS50010; DH_2; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+PE   1: Evidence at protein level;
+KW   Reference proteome.
+FT   CHAIN           1..1271
+FT                   /note="Pleckstrin homology domain-containing family G
+FT                   member 4B"
+FT                   /id="PRO_0000317286"
+FT   DOMAIN          805..984
+FT                   /note="DH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00062"
+FT   DOMAIN          996..1104
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   REGION          21..119
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          145..181
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          603..652
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          693..755
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          768..803
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1163..1202
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        27..53
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        697..714
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        730..755
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        774..788
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1165..1179
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1188..1202
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VARIANT         37
+FT                   /note="V -> A (in dbSNP:rs12516846)"
+FT                   /id="VAR_059547"
+FT   VARIANT         72
+FT                   /note="A -> T (in dbSNP:rs12523402)"
+FT                   /id="VAR_056672"
+FT   VARIANT         149
+FT                   /note="G -> S (in dbSNP:rs11949577)"
+FT                   /id="VAR_056673"
+FT   VARIANT         220
+FT                   /note="R -> H (in dbSNP:rs13436090)"
+FT                   /id="VAR_056674"
+FT   VARIANT         660
+FT                   /note="A -> V (in dbSNP:rs3810869)"
+FT                   /id="VAR_056675"
+FT   VARIANT         669
+FT                   /note="T -> P (in dbSNP:rs29674)"
+FT                   /evidence="ECO:0000269|PubMed:11572484"
+FT                   /id="VAR_060453"
+FT   VARIANT         1076
+FT                   /note="R -> Q (in dbSNP:rs4956987)"
+FT                   /evidence="ECO:0000269|PubMed:11572484"
+FT                   /id="VAR_060454"
+FT   VARIANT         1146
+FT                   /note="R -> G (in dbSNP:rs12519352)"
+FT                   /evidence="ECO:0000269|PubMed:11572484"
+FT                   /id="VAR_060455"
+FT   CONFLICT        671
+FT                   /note="R -> G (in Ref. 1; BAB67802)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1271 AA;  139667 MW;  242509412ACEF3A5 CRC64;
+     MEALRNPMPL GSSEEALGDL ACSSLTGASR DLGTGAVASG TQEETSGPRG DPQQTPSLEK
+     ERHTPSRTGP GAAGRTLPRR SRSWERAPRS SRGAQAAACH TSHHSAGSRP GGHLGGQAVG
+     TPNCVPVEGP GCTKEEDVLA SSACVSTDGG SLHCHNPSGP SDVPARQPHP EQEGWPPGTG
+     DFPSQVPKQV LDVSQELLQS GVVTLPGTRD RHGRAVVQVR TRSLLWTREH SSCAELTRLL
+     LYFHSIPRKE VRDLGLVVLV DARRSPAAPA VSQALSGLQN NTSPIIHSIL LLVDKESAFR
+     PDKDAIIQCE VVSSLKAVHK FVDSCQLTAD LDGSFPYSHG DWICFRQRLE HFAANCEEAI
+     IFLQNSFCSL NTHRTPRTAQ EVAELIDQHE TMMKLVLEDP LLVSLRLEGG TVLARLRREE
+     LGTEDSRDTL EAATSLYDRV DEEVHRLVLT SNNRLQQLEH LRELASLLEG NDQQSCQKGL
+     QLAKENPQRT EEMVQDFRRG LSAVVSQAEC REGELARWTR SSELCETVSS WMGPLDPEAC
+     PSSPVAECLR SCHQEATSVA AEAFPGAGVA VLKPHALGKP WASQQDLWLQ YPQTRLRLEE
+     ALSEAAPDPS LPPLAQSPPK HERAQEAMRR HQKPPSFPST DSGGGAWEPA QPLSGLPGRA
+     LLCGQDGETL RPGLCALWDP LSLLRGLPGA GATTAHLEDS SACSSEPTQT LASRPRKHPQ
+     KKMIKKTQSF EIPQPDSGPR DSCQPDHTSV FSKGLEVTST VATEKKLPLW QHARSPPVTQ
+     SRSLSSPSGL HPAEEDGRQQ VGSSRLRHIM AEMIATEREY IRCLGYVIDN YFPEMERMDL
+     PQGLRGKHHV IFGNLEKLHD FHQQHFLREL ERCQHCPLAV GRSFLRHEEQ FGMYVIYSKN
+     KPQSDALLSS HGNAFFKDKQ RELGDKMDLA SYLLRPVQRV AKYALLLQDL LKEASCGLAQ
+     GQELGELRAA EVVVCFQLRH GNDLLAMDAI RGCDVNLKEQ GQLRCRDEFI VCCGRKKYLR
+     HVFLFEDLIL FSKTQKVEGS HDVYLYKQSF KTAEIGMTEN VGDSGLRFEI WFRRRRKSQD
+     TYILQASSAE VKSAWTDVIG RILWRQALKS RELRIQEMAS MGIGNQPFMD VKPRDRTPDC
+     AVISDRAPKC AVMSDRVPDS IVKGTESQMR GSTAVSSSDH AAPFKRPHST ISDSSTSSSS
+     SQSSSILGSL GLLVSSSPAH PGLWSPAHSP WSSDIRACVE EDEPEPELET GTQAAVCEGA
+     PAVLLSRTRQ A
+//

@@ -1,0 +1,262 @@
+ID   TRHDE_HUMAN             Reviewed;        1024 AA.
+AC   Q9UKU6; A5PL19; Q6UWJ4;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   28-JUN-2023, entry version 182.
+DE   RecName: Full=Thyrotropin-releasing hormone-degrading ectoenzyme;
+DE            Short=TRH-DE;
+DE            Short=TRH-degrading ectoenzyme;
+DE            EC=3.4.19.6;
+DE   AltName: Full=Pyroglutamyl-peptidase II;
+DE            Short=PAP-II;
+DE   AltName: Full=TRH-specific aminopeptidase;
+DE   AltName: Full=Thyroliberinase;
+GN   Name=TRHDE; ORFNames=UNQ2507/PRO5995;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Lung;
+RX   PubMed=10491199; DOI=10.1046/j.1432-1327.1999.00753.x;
+RA   Schomburg L., Turwitt S., Prescher G., Lohmann D., Horsthemke B., Bauer K.;
+RT   "Human TRH-degrading ectoenzyme cDNA cloning, functional expression,
+RT   genomic structure and chromosomal assignment.";
+RL   Eur. J. Biochem. 265:415-422(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=12975309; DOI=10.1101/gr.1293003;
+RA   Clark H.F., Gurney A.L., Abaya E., Baker K., Baldwin D.T., Brush J.,
+RA   Chen J., Chow B., Chui C., Crowley C., Currell B., Deuel B., Dowd P.,
+RA   Eaton D., Foster J.S., Grimaldi C., Gu Q., Hass P.E., Heldens S., Huang A.,
+RA   Kim H.S., Klimowski L., Jin Y., Johnson S., Lee J., Lewis L., Liao D.,
+RA   Mark M.R., Robbie E., Sanchez C., Schoenfeld J., Seshagiri S., Simmons L.,
+RA   Singh J., Smith V., Stinson J., Vagts A., Vandlen R.L., Watanabe C.,
+RA   Wieand D., Woods K., Xie M.-H., Yansura D.G., Yi S., Yu G., Yuan J.,
+RA   Zhang M., Zhang Z., Goddard A.D., Wood W.I., Godowski P.J., Gray A.M.;
+RT   "The secreted protein discovery initiative (SPDI), a large-scale effort to
+RT   identify novel human secreted and transmembrane proteins: a bioinformatics
+RT   assessment.";
+RL   Genome Res. 13:2265-2270(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Specific inactivation of TRH after its release.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Release of the N-terminal pyroglutamyl group from pGlu-|-His-
+CC         Xaa tripeptides and pGlu-|-His-Xaa-Gly tetrapeptides.; EC=3.4.19.6;
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250};
+CC       Note=Binds 1 zinc ion per subunit. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer; disulfide-linked. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Membrane; Single-pass type II membrane protein.
+CC   -!- TISSUE SPECIFICITY: Predominantly expressed in brain.
+CC   -!- SIMILARITY: Belongs to the peptidase M1 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF126372; AAF13141.1; -; mRNA.
+DR   EMBL; AY358765; AAQ89125.1; -; mRNA.
+DR   EMBL; BC142706; AAI42707.1; -; mRNA.
+DR   EMBL; BC150181; AAI50182.1; -; mRNA.
+DR   RefSeq; NP_037513.1; NM_013381.2.
+DR   AlphaFoldDB; Q9UKU6; -.
+DR   SMR; Q9UKU6; -.
+DR   BioGRID; 118990; 135.
+DR   IntAct; Q9UKU6; 16.
+DR   MINT; Q9UKU6; -.
+DR   STRING; 9606.ENSP00000261180; -.
+DR   ChEMBL; CHEMBL3886123; -.
+DR   MEROPS; M01.008; -.
+DR   GlyCosmos; Q9UKU6; 13 sites, 1 glycan.
+DR   GlyGen; Q9UKU6; 14 sites, 2 O-linked glycans (2 sites).
+DR   iPTMnet; Q9UKU6; -.
+DR   PhosphoSitePlus; Q9UKU6; -.
+DR   BioMuta; TRHDE; -.
+DR   DMDM; 11387208; -.
+DR   jPOST; Q9UKU6; -.
+DR   MassIVE; Q9UKU6; -.
+DR   PaxDb; Q9UKU6; -.
+DR   PeptideAtlas; Q9UKU6; -.
+DR   ProteomicsDB; 84878; -.
+DR   Antibodypedia; 52788; 89 antibodies from 14 providers.
+DR   DNASU; 29953; -.
+DR   Ensembl; ENST00000261180.10; ENSP00000261180.5; ENSG00000072657.10.
+DR   GeneID; 29953; -.
+DR   KEGG; hsa:29953; -.
+DR   MANE-Select; ENST00000261180.10; ENSP00000261180.5; NM_013381.3; NP_037513.2.
+DR   UCSC; uc001sxa.4; human.
+DR   AGR; HGNC:30748; -.
+DR   CTD; 29953; -.
+DR   DisGeNET; 29953; -.
+DR   GeneCards; TRHDE; -.
+DR   HGNC; HGNC:30748; TRHDE.
+DR   HPA; ENSG00000072657; Tissue enhanced (brain, pancreas).
+DR   MIM; 606950; gene.
+DR   neXtProt; NX_Q9UKU6; -.
+DR   PharmGKB; PA142670702; -.
+DR   VEuPathDB; HostDB:ENSG00000072657; -.
+DR   eggNOG; KOG1046; Eukaryota.
+DR   HOGENOM; CLU_003705_2_2_1; -.
+DR   InParanoid; Q9UKU6; -.
+DR   OMA; ANVHWKM; -.
+DR   OrthoDB; 3085317at2759; -.
+DR   PhylomeDB; Q9UKU6; -.
+DR   TreeFam; TF300395; -.
+DR   PathwayCommons; Q9UKU6; -.
+DR   SignaLink; Q9UKU6; -.
+DR   BioGRID-ORCS; 29953; 12 hits in 1152 CRISPR screens.
+DR   ChiTaRS; TRHDE; human.
+DR   GenomeRNAi; 29953; -.
+DR   Pharos; Q9UKU6; Tbio.
+DR   PRO; PR:Q9UKU6; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; Q9UKU6; protein.
+DR   Bgee; ENSG00000072657; Expressed in jejunal mucosa and 139 other tissues.
+DR   ExpressionAtlas; Q9UKU6; baseline and differential.
+DR   Genevisible; Q9UKU6; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:ProtInc.
+DR   GO; GO:0004177; F:aminopeptidase activity; TAS:ProtInc.
+DR   GO; GO:0070006; F:metalloaminopeptidase activity; IBA:GO_Central.
+DR   GO; GO:0042277; F:peptide binding; IBA:GO_Central.
+DR   GO; GO:0016920; F:pyroglutamyl-peptidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008270; F:zinc ion binding; IBA:GO_Central.
+DR   GO; GO:0007267; P:cell-cell signaling; TAS:ProtInc.
+DR   GO; GO:0043171; P:peptide catabolic process; IBA:GO_Central.
+DR   GO; GO:0006508; P:proteolysis; IBA:GO_Central.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   CDD; cd09601; M1_APN-Q_like; 1.
+DR   Gene3D; 1.25.50.20; -; 1.
+DR   Gene3D; 2.60.40.1910; -; 1.
+DR   Gene3D; 1.10.390.10; Neutral Protease Domain 2; 1.
+DR   Gene3D; 2.60.40.1730; tricorn interacting facor f3 domain; 1.
+DR   InterPro; IPR045357; Aminopeptidase_N-like_N.
+DR   InterPro; IPR042097; Aminopeptidase_N-like_N_sf.
+DR   InterPro; IPR024571; ERAP1-like_C_dom.
+DR   InterPro; IPR034016; M1_APN-typ.
+DR   InterPro; IPR001930; Peptidase_M1.
+DR   InterPro; IPR014782; Peptidase_M1_dom.
+DR   InterPro; IPR027268; Peptidase_M4/M1_CTD_sf.
+DR   PANTHER; PTHR11533; PROTEASE M1 ZINC METALLOPROTEASE; 1.
+DR   PANTHER; PTHR11533:SF40; THYROTROPIN-RELEASING HORMONE-DEGRADING ECTOENZYME; 1.
+DR   Pfam; PF11838; ERAP1_C; 1.
+DR   Pfam; PF01433; Peptidase_M1; 1.
+DR   Pfam; PF17900; Peptidase_M1_N; 1.
+DR   PRINTS; PR00756; ALADIPTASE.
+DR   SUPFAM; SSF63737; Leukotriene A4 hydrolase N-terminal domain; 1.
+DR   SUPFAM; SSF55486; Metalloproteases ('zincins'), catalytic domain; 1.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   2: Evidence at transcript level;
+KW   Aminopeptidase; Disulfide bond; Glycoprotein; Hydrolase; Membrane;
+KW   Metal-binding; Metalloprotease; Protease; Reference proteome;
+KW   Signal-anchor; Transmembrane; Transmembrane helix; Zinc.
+FT   CHAIN           1..1024
+FT                   /note="Thyrotropin-releasing hormone-degrading ectoenzyme"
+FT                   /id="PRO_0000095118"
+FT   TOPO_DOM        1..40
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        41..61
+FT                   /note="Helical; Signal-anchor for type II membrane protein"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        62..1024
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   REGION          72..135
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        441
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   BINDING         404..408
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         440
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   BINDING         444
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   BINDING         463
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10095"
+FT   SITE            527
+FT                   /note="Transition state stabilizer"
+FT                   /evidence="ECO:0000250"
+FT   CARBOHYD        89
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        160
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        175
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        222
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        338
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        605
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        634
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        649
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        663
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        684
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        800
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        906
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        68
+FT                   /note="Interchain"
+FT                   /evidence="ECO:0000250"
+FT   CONFLICT        958
+FT                   /note="N -> Y (in Ref. 2; AAQ89125)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1024 AA;  117000 MW;  B82FBBC93927F6DC CRC64;
+     MGEDDAALRA GSRGLSDPWA DSVGVRPRTT ERHIAVHKRL VLAFAVSLVA LLAVTMLAVL
+     LSLRFDECGA SATPGADGGP SGFPERGGNG SLPGSARRNH HAGGDSWQPE AGGVASPGTT
+     SAQPPSEEER EPWEPWTQLR LSGHLKPLHY NLMLTAFMEN FTFSGEVNVE IACRNATRYV
+     VLHASRVAVE KVQLAEDRAF GAVPVAGFFL YPQTQVLVVV LNRTLDAQRN YNLKIIYNAL
+     IENELLGFFR SSYVLHGERR FLGVTQFSPT HARKAFPCFD EPIYKATFKI SIKHQATYLS
+     LSNMPVETSV FEEDGWVTDH FSQTPLMSTY YLAWAICNFT YRETTTKSGV VVRLYARPDA
+     IRRGSGDYAL HITKRLIEFY EDYFKVPYSL PKLDLLAVPK HPYAAMENWG LSIFVEQRIL
+     LDPSVSSISY LLDVTMVIVH EICHQWFGDL VTPVWWEDVW LKEGFAHYFE FVGTDYLYPG
+     WNMEKQRFLT DVLHEVMLLD GLASSHPVSQ EVLQATDIDR VFDWIAYKKG AALIRMLANF
+     MGHSVFQRGL QDYLTIHKYG NAARNDLWNT LSEALKRNGK YVNIQEVMDQ WTLQMGYPVI
+     TILGNTTAEN RIIITQQHFI YDISAKTKAL KLQNNSYLWQ IPLTIVVGNR SHVSSEAIIW
+     VSNKSEHHRI TYLDKGSWLL GNINQTGYFR VNYDLRNWRL LIDQLIRNHE VLSVSNRAGL
+     IDDAFSLARA GYLPQNIPLE IIRYLSEEKD FLPWHAASRA LYPLDKLLDR MENYNIFNEY
+     ILKQVATTYI KLGWPKNNFN GSLVQASYQH EELRREVIML ACSFGNKHCH QQASTLISDW
+     ISSNRNRIPL NVRDIVYCTG VSLLDEDVWE FIWMKFHSTT AVSEKKILLE ALTCSDDRNL
+     LNRLLNLSLN SEVVLDQDAI DVIIHVARNP HGRDLAWKFF RDKWKILNTR YGEALFMNSK
+     LISGVTEFLN TEGELKELKN FMKNYDGVAA ASFSRAVETV EANVRWKMLY QDELFQWLGK
+     ALRH
+//

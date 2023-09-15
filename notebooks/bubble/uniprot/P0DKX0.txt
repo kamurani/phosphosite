@@ -1,0 +1,170 @@
+ID   ZN728_HUMAN             Reviewed;         622 AA.
+AC   P0DKX0;
+DT   06-FEB-2013, integrated into UniProtKB/Swiss-Prot.
+DT   06-FEB-2013, sequence version 1.
+DT   03-MAY-2023, entry version 68.
+DE   RecName: Full=Zinc finger protein 728;
+GN   Name=ZNF728;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC011502; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC074135; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS59370.1; -.
+DR   RefSeq; NP_001254645.1; NM_001267716.1.
+DR   AlphaFoldDB; P0DKX0; -.
+DR   SMR; P0DKX0; -.
+DR   GlyGen; P0DKX0; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P0DKX0; -.
+DR   PhosphoSitePlus; P0DKX0; -.
+DR   BioMuta; ZNF728; -.
+DR   DMDM; 449061972; -.
+DR   EPD; P0DKX0; -.
+DR   jPOST; P0DKX0; -.
+DR   MassIVE; P0DKX0; -.
+DR   MaxQB; P0DKX0; -.
+DR   PaxDb; P0DKX0; -.
+DR   PeptideAtlas; P0DKX0; -.
+DR   DNASU; 388523; -.
+DR   Ensembl; ENST00000594710.2; ENSP00000471593.1; ENSG00000269067.2.
+DR   GeneID; 388523; -.
+DR   KEGG; hsa:388523; -.
+DR   MANE-Select; ENST00000594710.2; ENSP00000471593.1; NM_001267716.2; NP_001254645.1.
+DR   UCSC; uc002nqz.3; human.
+DR   AGR; HGNC:32463; -.
+DR   CTD; 388523; -.
+DR   GeneCards; ZNF728; -.
+DR   HGNC; HGNC:32463; ZNF728.
+DR   HPA; ENSG00000269067; Tissue enhanced (testis).
+DR   neXtProt; NX_P0DKX0; -.
+DR   OpenTargets; ENSG00000269067; -.
+DR   VEuPathDB; HostDB:ENSG00000269067; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000153236; -.
+DR   HOGENOM; CLU_002678_44_5_1; -.
+DR   InParanoid; P0DKX0; -.
+DR   OMA; WVSVLNK; -.
+DR   OrthoDB; 4625752at2759; -.
+DR   PhylomeDB; P0DKX0; -.
+DR   PathwayCommons; P0DKX0; -.
+DR   BioGRID-ORCS; 388523; 72 hits in 1099 CRISPR screens.
+DR   GenomeRNAi; 388523; -.
+DR   Pharos; P0DKX0; Tdark.
+DR   PRO; PR:P0DKX0; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; P0DKX0; protein.
+DR   Bgee; ENSG00000269067; Expressed in testis and 96 other tissues.
+DR   ExpressionAtlas; P0DKX0; baseline and differential.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IEA:InterPro.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 16.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23226; ZINC FINGER AND SCAN DOMAIN-CONTAINING; 1.
+DR   PANTHER; PTHR23226:SF234; ZINC FINGER PROTEIN 716; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 11.
+DR   Pfam; PF13912; zf-C2H2_6; 1.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 14.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 9.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 14.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 14.
+PE   4: Predicted;
+KW   Metal-binding; Reference proteome; Repeat; Zinc; Zinc-finger.
+FT   CHAIN           1..622
+FT                   /note="Zinc finger protein 728"
+FT                   /id="PRO_0000421023"
+FT   DOMAIN          4..75
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         228..250
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         256..278
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         284..306
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         312..334
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         340..362
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         368..390
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         396..418
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         424..446
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         452..474
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         480..502
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         508..530
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         536..558
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         564..586
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         592..614
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+SQ   SEQUENCE   622 AA;  71801 MW;  3C6857B813210100 CRC64;
+     MGSLTFRDVA IQFSLEEWQC LDTAQQNLYR NVMLENYRNL VFLGIAAPKP DLIIFLEQGK
+     EPWNMKRHEL VKEPPVICSH FAQDLWPEQG REDSFQKVIL RRYEKCGHEN LQLKIGCTNV
+     DECKVHKKGY NKLNQSLTTT QSKVFQCGKY ANIFHKCSNS KRHKIRHTGK KLLKCKEYVR
+     SFCMLSHLSQ HKRIYTRENS YKSEEHGKAF NWSSALTYKR IHTGEKPCKC EECGKAFSKF
+     SILTKHKVIH TGEKHYKCEE CGKAFTRSSS LIEHKRSHAG EKPYKCEECG KAFSKASTLT
+     AHKTIHAGEK PYKCEECGKA FNRSSNLMEH KRIHTGEKPC KCEECGKAFG NFSTLTKHKV
+     IHTGEKPYKC EECGKAFSWP SSLTEHKRIH AGDKPYKCEE CGKTFKWSST LTKHKIIHTG
+     EKPYKCEECG KAFTTFSSLT KHKVIHTGEK HYKCEECGKV FSWSSSLTTH KAIHAGEKLY
+     KCEECGKAFK WSSNLMEHKR IHTGEKPYKC EECGKAFSKV ANLTKHKVIH TGEKQYKCEE
+     CGKAFIWSSR LSEHKRIHTG EKPYKCEECG KAFSWVSVLN KHKKIHAGKK FYKCEECGKD
+     FNQSSHLTTH KRIHTGGKTL QM
+//

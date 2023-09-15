@@ -1,0 +1,258 @@
+ID   MILR1_HUMAN             Reviewed;         343 AA.
+AC   Q7Z6M3; A1L458; B4DUS1; B7ZM50; B9EGN0; D6RUW6; D6RUW8;
+DT   23-OCT-2007, integrated into UniProtKB/Swiss-Prot.
+DT   23-OCT-2007, sequence version 2.
+DT   28-JUN-2023, entry version 132.
+DE   RecName: Full=Allergin-1;
+DE   AltName: Full=Allergy inhibitory receptor 1;
+DE   AltName: Full=Mast cell antigen 32;
+DE            Short=MCA-32;
+DE   AltName: Full=Mast cell immunoglobulin-like receptor 1;
+DE   Flags: Precursor;
+GN   Name=MILR1; Synonyms=C17orf60, MCA32;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2 AND 3), SUBCELLULAR LOCATION,
+RP   TISSUE SPECIFICITY, AND GLYCOSYLATION.
+RX   PubMed=20526344; DOI=10.1038/ni.1886;
+RA   Hitomi K., Tahara-Hanaoka S., Someya S., Fujiki A., Tada H., Sugiyama T.,
+RA   Shibayama S., Shibuya K., Shibuya A.;
+RT   "An immunoglobulin-like receptor, Allergin-1, inhibits immunoglobulin E-
+RT   mediated immediate hypersensitivity reactions.";
+RL   Nat. Immunol. 11:601-607(2010).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Prostate, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Immunoglobulin-like receptor which plays an inhibitory role
+CC       in degranulation of mast cells. Negatively regulates IgE-mediated mast
+CC       cell activation and suppresses the type I immediate hypersensitivity
+CC       reaction (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Monomer. Interacts (tyrosine-phosphorylated) with PTPN6,
+CC       PTPN11 and INPP5D. {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       Q7Z6M3; Q6UX41-6: BTNL8; NbExp=3; IntAct=EBI-18391669, EBI-17442596;
+CC       Q7Z6M3; Q8WVX3-2: C4orf3; NbExp=3; IntAct=EBI-18391669, EBI-12003442;
+CC       Q7Z6M3; Q96F15: GIMAP5; NbExp=3; IntAct=EBI-18391669, EBI-6166686;
+CC       Q7Z6M3; Q9HCP6: HHATL; NbExp=3; IntAct=EBI-18391669, EBI-5916693;
+CC       Q7Z6M3; O75425: MOSPD3; NbExp=3; IntAct=EBI-18391669, EBI-12179105;
+CC       Q7Z6M3; Q9NV12: TMEM140; NbExp=3; IntAct=EBI-18391669, EBI-2844246;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:20526344};
+CC       Single-pass type I membrane protein {ECO:0000269|PubMed:20526344}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1; Synonyms=L;
+CC         IsoId=Q7Z6M3-1; Sequence=Displayed;
+CC       Name=2; Synonyms=S1;
+CC         IsoId=Q7Z6M3-2; Sequence=VSP_040766;
+CC       Name=3; Synonyms=S2;
+CC         IsoId=Q7Z6M3-3; Sequence=VSP_040765;
+CC   -!- TISSUE SPECIFICITY: Expressed in myeloid cells (dendritic cells,
+CC       macrophages and neutrophils, weak expression on B-cells but not in T-
+CC       cells or natural killer cells), peripheral blood basophils and mast
+CC       cells (at protein level). {ECO:0000269|PubMed:20526344}.
+CC   -!- PTM: N-glycosylated. {ECO:0000269|PubMed:20526344}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAI36595.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAG62433.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB542950; BAJ08251.1; -; mRNA.
+DR   EMBL; AB542951; BAJ08252.1; -; mRNA.
+DR   EMBL; AB542952; BAJ08253.1; -; mRNA.
+DR   EMBL; AK300768; BAG62433.1; ALT_INIT; mRNA.
+DR   EMBL; BC053534; AAH53534.1; -; mRNA.
+DR   EMBL; BC130406; AAI30407.2; -; mRNA.
+DR   EMBL; BC136594; AAI36595.1; ALT_INIT; mRNA.
+DR   EMBL; BC144272; AAI44273.1; -; mRNA.
+DR   CCDS; CCDS74133.1; -. [Q7Z6M3-1]
+DR   CCDS; CCDS77087.1; -. [Q7Z6M3-2]
+DR   CCDS; CCDS77088.1; -. [Q7Z6M3-3]
+DR   RefSeq; NP_001078892.1; NM_001085423.1. [Q7Z6M3-1]
+DR   RefSeq; NP_001278245.1; NM_001291316.1. [Q7Z6M3-2]
+DR   RefSeq; NP_001278246.1; NM_001291317.1. [Q7Z6M3-3]
+DR   RefSeq; XP_016879975.1; XM_017024486.1.
+DR   AlphaFoldDB; Q7Z6M3; -.
+DR   BioGRID; 129734; 76.
+DR   IntAct; Q7Z6M3; 13.
+DR   STRING; 9606.ENSP00000482801; -.
+DR   GlyCosmos; Q7Z6M3; 6 sites, No reported glycans.
+DR   GlyGen; Q7Z6M3; 6 sites.
+DR   iPTMnet; Q7Z6M3; -.
+DR   PhosphoSitePlus; Q7Z6M3; -.
+DR   BioMuta; MILR1; -.
+DR   DMDM; 160013631; -.
+DR   EPD; Q7Z6M3; -.
+DR   MassIVE; Q7Z6M3; -.
+DR   MaxQB; Q7Z6M3; -.
+DR   PeptideAtlas; Q7Z6M3; -.
+DR   ProteomicsDB; 69447; -. [Q7Z6M3-1]
+DR   ProteomicsDB; 69448; -. [Q7Z6M3-2]
+DR   ProteomicsDB; 69449; -. [Q7Z6M3-3]
+DR   Antibodypedia; 68852; 122 antibodies from 14 providers.
+DR   DNASU; 284021; -.
+DR   Ensembl; ENST00000612535.4; ENSP00000477504.1; ENSG00000271605.6. [Q7Z6M3-3]
+DR   Ensembl; ENST00000615220.4; ENSP00000480749.1; ENSG00000271605.6. [Q7Z6M3-1]
+DR   Ensembl; ENST00000616498.4; ENSP00000481318.1; ENSG00000271605.6. [Q7Z6M3-2]
+DR   Ensembl; ENST00000619286.5; ENSP00000482801.1; ENSG00000271605.6. [Q7Z6M3-1]
+DR   GeneID; 284021; -.
+DR   KEGG; hsa:284021; -.
+DR   MANE-Select; ENST00000619286.5; ENSP00000482801.1; NM_001085423.2; NP_001078892.1.
+DR   UCSC; uc010wpz.4; human. [Q7Z6M3-1]
+DR   AGR; HGNC:27570; -.
+DR   CTD; 284021; -.
+DR   DisGeNET; 284021; -.
+DR   GeneCards; MILR1; -.
+DR   HGNC; HGNC:27570; MILR1.
+DR   HPA; ENSG00000271605; Tissue enhanced (lymphoid).
+DR   MalaCards; MILR1; -.
+DR   neXtProt; NX_Q7Z6M3; -.
+DR   OpenTargets; ENSG00000271605; -.
+DR   PharmGKB; PA142672243; -.
+DR   VEuPathDB; HostDB:ENSG00000271605; -.
+DR   eggNOG; ENOG502S5BW; Eukaryota.
+DR   GeneTree; ENSGT01050000244808; -.
+DR   HOGENOM; CLU_069833_0_0_1; -.
+DR   InParanoid; Q7Z6M3; -.
+DR   OMA; PVKMQKK; -.
+DR   OrthoDB; 5263500at2759; -.
+DR   PhylomeDB; Q7Z6M3; -.
+DR   PathwayCommons; Q7Z6M3; -.
+DR   SignaLink; Q7Z6M3; -.
+DR   BioGRID-ORCS; 284021; 6 hits in 276 CRISPR screens.
+DR   ChiTaRS; MILR1; human.
+DR   GenomeRNAi; 284021; -.
+DR   Pharos; Q7Z6M3; Tbio.
+DR   PRO; PR:Q7Z6M3; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q7Z6M3; protein.
+DR   Bgee; ENSG00000271605; Expressed in monocyte and 121 other tissues.
+DR   ExpressionAtlas; Q7Z6M3; baseline and differential.
+DR   Genevisible; Q7Z6M3; HS.
+DR   GO; GO:0005886; C:plasma membrane; NAS:UniProtKB.
+DR   GO; GO:0004888; F:transmembrane signaling receptor activity; IBA:GO_Central.
+DR   GO; GO:0007166; P:cell surface receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0043303; P:mast cell degranulation; ISS:UniProtKB.
+DR   GO; GO:0033004; P:negative regulation of mast cell activation; ISS:UniProtKB.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 2.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR040878; IL-40-like_Ig.
+DR   PANTHER; PTHR11481:SF58; ALLERGIN-1; 1.
+DR   PANTHER; PTHR11481; IMMUNOGLOBULIN FC RECEPTOR; 1.
+DR   Pfam; PF17736; Ig_C17orf99; 2.
+DR   SUPFAM; SSF48726; Immunoglobulin; 2.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Disulfide bond; Glycoprotein;
+KW   Immunoglobulin domain; Membrane; Phosphoprotein; Reference proteome;
+KW   Repeat; Signal; Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..19
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           20..343
+FT                   /note="Allergin-1"
+FT                   /id="PRO_0000307364"
+FT   TOPO_DOM        20..227
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        228..248
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        249..343
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          35..118
+FT                   /note="Ig-like C2-type 1"
+FT   DOMAIN          128..213
+FT                   /note="Ig-like C2-type 2"
+FT   MOTIF           311..316
+FT                   /note="ITIM motif"
+FT   MOTIF           336..341
+FT                   /note="ITIM motif"
+FT   MOD_RES         313
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3TB92"
+FT   MOD_RES         338
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3TB92"
+FT   CARBOHYD        51
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        60
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        89
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        151
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        157
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        182
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        56..103
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        147..196
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         33..122
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:20526344"
+FT                   /id="VSP_040765"
+FT   VAR_SEQ         123..217
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:20526344"
+FT                   /id="VSP_040766"
+SQ   SEQUENCE   343 AA;  38735 MW;  DCD1E784D40885C5 CRC64;
+     MWSHLNRLLF WSIFSSVTCR KAVLDCEAMK TNEFPSPCLD SKTKVVMKGQ NVSMFCSHKN
+     KSLQITYSLF RRKTHLGTQD GKGEPAIFNL SITEAHESGP YKCKAQVTSC SKYSRDFSFT
+     IVDPVTSPVL NIMVIQTETD RHITLHCLSV NGSLPINYTF FENHVAISPA ISKYDREPAE
+     FNLTKKNPGE EEEYRCEAKN RLPNYATYSH PVTMPSTGGD SCPFCLKLLL PGLLLLLVVI
+     ILILAFWVLP KYKTRKAMRN NVPRDRGDTA MEVGIYANIL EKQAKEESVP EVGSRPCVST
+     AQDEAKHSQE LQYATPVFQE VAPREQEACD SYKSGYVYSE LNF
+//

@@ -1,0 +1,421 @@
+ID   RAPSN_HUMAN             Reviewed;         412 AA.
+AC   Q13702; Q8TDF3; Q9BTD9;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   17-APR-2007, sequence version 4.
+DT   28-JUN-2023, entry version 211.
+DE   RecName: Full=43 kDa receptor-associated protein of the synapse;
+DE            Short=RAPsyn;
+DE   AltName: Full=43 kDa postsynaptic protein;
+DE   AltName: Full=Acetylcholine receptor-associated 43 kDa protein;
+DE   AltName: Full=RING finger protein 205;
+GN   Name=RAPSN; Synonyms=RNF205;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Muscle;
+RX   PubMed=8812503; DOI=10.1006/geno.1996.0409;
+RA   Buckel A., Beeson D., James M., Vincent A.;
+RT   "Cloning of cDNA encoding human rapsyn and mapping of the RAPSN gene locus
+RT   to chromosome 11p11.2-p11.1.";
+RL   Genomics 35:613-616(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANTS CMS11 PRO-14 AND
+RP   LYS-88.
+RX   PubMed=11791205; DOI=10.1086/339465;
+RA   Ohno K., Engel A.G., Shen X.-M., Selcen D., Brengman J., Harper C.M.,
+RA   Tsujino A., Milone M.;
+RT   "Rapsyn mutations in humans cause endplate acetylcholine-receptor
+RT   deficiency and myasthenic syndrome.";
+RL   Am. J. Hum. Genet. 70:875-885(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT LYS-8.
+RC   TISSUE=Muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   UBIQUITINATION BY THE BCR(KLHL8) COMPLEX.
+RX   PubMed=19158078; DOI=10.1074/jbc.m808230200;
+RA   Nam S., Min K., Hwang H., Lee H.O., Lee J.H., Yoon J., Lee H., Park S.,
+RA   Lee J.;
+RT   "Control of rapsyn stability by the CUL-3-containing E3 ligase complex.";
+RL   J. Biol. Chem. 284:8195-8206(2009).
+RN   [6]
+RP   VARIANTS CMS11 PRO-14 AND LYS-88.
+RX   PubMed=12730725; DOI=10.1007/s10038-003-0005-7;
+RA   Dunne V., Maselli R.A.;
+RT   "Identification of pathogenic mutations in the human rapsyn gene.";
+RL   J. Hum. Genet. 48:204-207(2003).
+RN   [7]
+RP   VARIANTS CMS11 PRO-14 AND LYS-88.
+RX   PubMed=12929188; DOI=10.1002/mus.10433;
+RA   Maselli R.A., Dunne V., Pascual-Pascual S.I., Bowe C., Agius M., Frank R.,
+RA   Wollmann R.L.;
+RT   "Rapsyn mutations in myasthenic syndrome due to impaired receptor
+RT   clustering.";
+RL   Muscle Nerve 28:293-301(2003).
+RN   [8]
+RP   VARIANT CMS11 LYS-88.
+RX   PubMed=12796535; DOI=10.1212/01.wnl.0000072262.14931.80;
+RA   Mueller J.S., Mildner G., Mueller-Felber W., Schara U., Krampfl K.,
+RA   Petersen B., Petrova S., Stucka R., Mortier W., Bufler J., Kurlemann G.,
+RA   Huebner A., Merlini L., Lochmuller H., Abicht A.;
+RT   "Rapsyn N88K is a frequent cause of congenital myasthenic syndromes in
+RT   European patients.";
+RL   Neurology 60:1805-1810(2003).
+RN   [9]
+RP   VARIANT CMS11 LYS-88.
+RX   PubMed=14504330; DOI=10.1212/01.wnl.0000085865.55513.ae;
+RA   Burke G., Cossins J., Maxwell S., Owens G., Vincent A., Robb S.,
+RA   Nicolle M., Hilton-Jones D., Newsom-Davis J., Palace J., Beeson D.;
+RT   "Rapsyn mutations in hereditary myasthenia: distinct early- and late-onset
+RT   phenotypes.";
+RL   Neurology 61:826-828(2003).
+RN   [10]
+RP   VARIANT CMS11 LYS-88.
+RX   PubMed=15036330; DOI=10.1016/j.nmd.2003.11.004;
+RA   Banwell B.L., Ohno K., Sieb J.P., Engel A.G.;
+RT   "Novel truncating RAPSN mutations causing congenital myasthenic syndrome
+RT   responsive to 3,4-diaminopyridine.";
+RL   Neuromuscul. Disord. 14:202-207(2004).
+RN   [11]
+RP   VARIANT CMS11 LYS-88.
+RX   PubMed=15328566; DOI=10.1055/s-2004-820993;
+RA   Ioos C., Barois A., Richard P., Eymard B., Hantai D.,
+RA   Estournet-Mathiaud B.;
+RT   "Congenital myasthenic syndrome due to rapsyn deficiency: three cases with
+RT   arthrogryposis and bulbar symptoms.";
+RL   Neuropediatrics 35:246-249(2004).
+RN   [12]
+RP   VARIANTS CMS11 CYS-164 AND PRO-283, AND CHARACTERIZATION OF VARIANTS CMS11
+RP   CYS-164 AND PRO-283.
+RX   PubMed=16931511; DOI=10.1212/01.wnl.0000233837.79459.40;
+RA   Mueller J.S., Baumeister S.K., Rasic V.M., Krause S., Todorovic S.,
+RA   Kugler K., Mueller-Felber W., Abicht A., Lochmueller H.;
+RT   "Impaired receptor clustering in congenital myasthenic syndrome with novel
+RT   RAPSN mutations.";
+RL   Neurology 67:1159-1164(2006).
+RN   [13]
+RP   VARIANTS CMS11 MET-45 AND LYS-162, AND CHARACTERIZATION OF VARIANTS CMS11
+RP   MET-45 AND LYS-162.
+RX   PubMed=17594401; DOI=10.1111/j.1399-0004.2007.00824.x;
+RA   Maselli R.A., Dris H., Schnier J., Cockrell J.L., Wollmann R.L.;
+RT   "Congenital myasthenic syndrome caused by two non-N88K rapsyn mutations.";
+RL   Clin. Genet. 72:63-65(2007).
+RN   [14]
+RP   INVOLVEMENT IN FADS2.
+RX   PubMed=18179903; DOI=10.1016/j.ajhg.2007.09.016;
+RA   Vogt J., Harrison B.J., Spearman H., Cossins J., Vermeer S., ten Cate L.N.,
+RA   Morgan N.V., Beeson D., Maher E.R.;
+RT   "Mutation analysis of CHRNA1, CHRNB1, CHRND, and RAPSN genes in multiple
+RT   pterygium syndrome/fetal akinesia patients.";
+RL   Am. J. Hum. Genet. 82:222-227(2008).
+RN   [15]
+RP   VARIANTS FADS2 SER-139 AND VAL-189.
+RX   PubMed=18252226; DOI=10.1016/j.ajhg.2007.11.006;
+RA   Michalk A., Stricker S., Becker J., Rupps R., Pantzar T., Miertus J.,
+RA   Botta G., Naretto V.G., Janetzki C., Yaqoob N., Ott C.-E., Seelow D.,
+RA   Wieczorek D., Fiebig B., Wirth B., Hoopmann M., Walther M., Koerber F.,
+RA   Blankenburg M., Mundlos S., Heller R., Hoffmann K.;
+RT   "Acetylcholine receptor pathway mutations explain various fetal akinesia
+RT   deformation sequence disorders.";
+RL   Am. J. Hum. Genet. 82:464-476(2008).
+CC   -!- FUNCTION: Postsynaptic protein required for clustering of nicotinic
+CC       acetylcholine receptors (nAChRs) at the neuromuscular junction. It may
+CC       link the receptor to the underlying postsynaptic cytoskeleton, possibly
+CC       by direct association with actin or spectrin.
+CC   -!- INTERACTION:
+CC       Q13702-2; P54253: ATXN1; NbExp=6; IntAct=EBI-22012855, EBI-930964;
+CC       Q13702-2; P42858: HTT; NbExp=18; IntAct=EBI-22012855, EBI-466029;
+CC       Q13702-2; Q96CV9: OPTN; NbExp=3; IntAct=EBI-22012855, EBI-748974;
+CC       Q13702-2; P50454: SERPINH1; NbExp=3; IntAct=EBI-22012855, EBI-350723;
+CC       Q13702-2; P37840: SNCA; NbExp=3; IntAct=EBI-22012855, EBI-985879;
+CC       Q13702-2; P37173: TGFBR2; NbExp=3; IntAct=EBI-22012855, EBI-296151;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Peripheral membrane protein;
+CC       Cytoplasmic side. Postsynaptic cell membrane; Peripheral membrane
+CC       protein; Cytoplasmic side. Cytoplasm, cytoskeleton. Note=Cytoplasmic
+CC       surface of postsynaptic membranes.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q13702-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q13702-2; Sequence=VSP_005533;
+CC   -!- DOMAIN: A cysteine-rich region homologous to part of the regulatory
+CC       domain of protein kinase C may be important in interactions of this
+CC       protein with the lipid bilayer.
+CC   -!- PTM: Ubiquitinated by the BCR(KLHL8) complex, leading to its
+CC       degradation. {ECO:0000269|PubMed:19158078}.
+CC   -!- DISEASE: Myasthenic syndrome, congenital, 11, associated with
+CC       acetylcholine receptor deficiency (CMS11) [MIM:616326]: A form of
+CC       congenital myasthenic syndrome, a group of disorders characterized by
+CC       failure of neuromuscular transmission, including pre-synaptic,
+CC       synaptic, and post-synaptic disorders that are not of autoimmune
+CC       origin. Clinical features are easy fatigability and muscle weakness
+CC       affecting the axial and limb muscles (with hypotonia in early-onset
+CC       forms), the ocular muscles (leading to ptosis and ophthalmoplegia), and
+CC       the facial and bulbar musculature (affecting sucking and swallowing,
+CC       and leading to dysphonia). The symptoms fluctuate and worsen with
+CC       physical effort. CMS11 is an autosomal recessive disorder of
+CC       postsynaptic neuromuscular transmission, due to deficiency of AChR at
+CC       the endplate that results in low amplitude of the miniature endplate
+CC       potential and current. {ECO:0000269|PubMed:11791205,
+CC       ECO:0000269|PubMed:12730725, ECO:0000269|PubMed:12796535,
+CC       ECO:0000269|PubMed:12929188, ECO:0000269|PubMed:14504330,
+CC       ECO:0000269|PubMed:15036330, ECO:0000269|PubMed:15328566,
+CC       ECO:0000269|PubMed:16931511, ECO:0000269|PubMed:17594401}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: Fetal akinesia deformation sequence 2 (FADS2) [MIM:618388]: A
+CC       clinically and genetically heterogeneous group of disorders with
+CC       congenital malformations related to impaired fetal movement. Clinical
+CC       features include fetal akinesia, intrauterine growth retardation,
+CC       polyhydramnios, arthrogryposis, pulmonary hypoplasia, craniofacial
+CC       abnormalities, and cryptorchidism. FADS2 inheritance is autosomal
+CC       recessive. {ECO:0000269|PubMed:18179903, ECO:0000269|PubMed:18252226}.
+CC       Note=The disease is caused by variants affecting the gene represented
+CC       in this entry.
+CC   -!- SIMILARITY: Belongs to the RAPsyn family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; Z33905; CAA83954.1; -; mRNA.
+DR   EMBL; AF449218; AAL86639.1; -; mRNA.
+DR   EMBL; CH471064; EAW67914.1; -; Genomic_DNA.
+DR   EMBL; BC004196; AAH04196.1; -; mRNA.
+DR   CCDS; CCDS7936.1; -. [Q13702-1]
+DR   CCDS; CCDS7937.1; -. [Q13702-2]
+DR   PIR; S45064; S45064.
+DR   RefSeq; NP_005046.2; NM_005055.4. [Q13702-1]
+DR   RefSeq; NP_116034.2; NM_032645.4. [Q13702-2]
+DR   AlphaFoldDB; Q13702; -.
+DR   SMR; Q13702; -.
+DR   BioGRID; 111848; 21.
+DR   IntAct; Q13702; 10.
+DR   STRING; 9606.ENSP00000298854; -.
+DR   ChEMBL; CHEMBL2163166; -.
+DR   iPTMnet; Q13702; -.
+DR   PhosphoSitePlus; Q13702; -.
+DR   BioMuta; RAPSN; -.
+DR   DMDM; 145559521; -.
+DR   PaxDb; Q13702; -.
+DR   PeptideAtlas; Q13702; -.
+DR   ProteomicsDB; 59664; -. [Q13702-1]
+DR   ProteomicsDB; 59665; -. [Q13702-2]
+DR   Antibodypedia; 13774; 200 antibodies from 34 providers.
+DR   DNASU; 5913; -.
+DR   Ensembl; ENST00000298854.7; ENSP00000298854.2; ENSG00000165917.10. [Q13702-1]
+DR   Ensembl; ENST00000352508.7; ENSP00000298853.3; ENSG00000165917.10. [Q13702-2]
+DR   GeneID; 5913; -.
+DR   KEGG; hsa:5913; -.
+DR   MANE-Select; ENST00000298854.7; ENSP00000298854.2; NM_005055.5; NP_005046.2.
+DR   UCSC; uc001nfi.2; human. [Q13702-1]
+DR   AGR; HGNC:9863; -.
+DR   CTD; 5913; -.
+DR   DisGeNET; 5913; -.
+DR   GeneCards; RAPSN; -.
+DR   GeneReviews; RAPSN; -.
+DR   HGNC; HGNC:9863; RAPSN.
+DR   HPA; ENSG00000165917; Group enriched (skeletal muscle, tongue).
+DR   MalaCards; RAPSN; -.
+DR   MIM; 601592; gene.
+DR   MIM; 616326; phenotype.
+DR   MIM; 618388; phenotype.
+DR   neXtProt; NX_Q13702; -.
+DR   OpenTargets; ENSG00000165917; -.
+DR   Orphanet; 994; Fetal akinesia deformation sequence.
+DR   Orphanet; 33108; Lethal multiple pterygium syndrome.
+DR   Orphanet; 98913; Postsynaptic congenital myasthenic syndromes.
+DR   PharmGKB; PA34224; -.
+DR   VEuPathDB; HostDB:ENSG00000165917; -.
+DR   eggNOG; KOG1941; Eukaryota.
+DR   GeneTree; ENSGT00390000016785; -.
+DR   HOGENOM; CLU_030911_0_0_1; -.
+DR   InParanoid; Q13702; -.
+DR   OMA; ALRCSHI; -.
+DR   OrthoDB; 893642at2759; -.
+DR   PhylomeDB; Q13702; -.
+DR   TreeFam; TF328344; -.
+DR   PathwayCommons; Q13702; -.
+DR   SignaLink; Q13702; -.
+DR   SIGNOR; Q13702; -.
+DR   BioGRID-ORCS; 5913; 16 hits in 1189 CRISPR screens.
+DR   GeneWiki; RAPSN; -.
+DR   GenomeRNAi; 5913; -.
+DR   Pharos; Q13702; Tbio.
+DR   PRO; PR:Q13702; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q13702; protein.
+DR   Bgee; ENSG00000165917; Expressed in hindlimb stylopod muscle and 97 other tissues.
+DR   ExpressionAtlas; Q13702; baseline and differential.
+DR   Genevisible; Q13702; HS.
+DR   GO; GO:0005813; C:centrosome; IDA:HPA.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:Ensembl.
+DR   GO; GO:0031594; C:neuromuscular junction; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0099634; C:postsynaptic specialization membrane; IEA:Ensembl.
+DR   GO; GO:0033130; F:acetylcholine receptor binding; IDA:MGI.
+DR   GO; GO:0035255; F:ionotropic glutamate receptor binding; IEA:Ensembl.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0043495; F:protein-membrane adaptor activity; IEA:InterPro.
+DR   GO; GO:0098879; F:structural constituent of postsynaptic specialization; IEA:Ensembl.
+DR   GO; GO:0007268; P:chemical synaptic transmission; TAS:ProtInc.
+DR   GO; GO:1903540; P:establishment of protein localization to postsynaptic membrane; IEA:Ensembl.
+DR   GO; GO:0097049; P:motor neuron apoptotic process; IEA:Ensembl.
+DR   GO; GO:0099645; P:neurotransmitter receptor localization to postsynaptic specialization membrane; IEA:Ensembl.
+DR   GO; GO:2000673; P:positive regulation of motor neuron apoptotic process; IEA:Ensembl.
+DR   GO; GO:1900075; P:positive regulation of neuromuscular synaptic transmission; IBA:GO_Central.
+DR   GO; GO:1901626; P:regulation of postsynaptic membrane organization; IEA:Ensembl.
+DR   GO; GO:0007271; P:synaptic transmission, cholinergic; IGI:MGI.
+DR   CDD; cd16478; RING-H2_Rapsyn; 1.
+DR   Gene3D; 1.25.40.10; Tetratricopeptide repeat domain; 2.
+DR   Gene3D; 3.30.40.10; Zinc/RING finger domain, C3HC4 (zinc finger); 1.
+DR   InterPro; IPR001237; Postsynaptic.
+DR   InterPro; IPR018293; Postsynaptic_CS.
+DR   InterPro; IPR019568; Rapsyn_myristoylation/link_N.
+DR   InterPro; IPR011990; TPR-like_helical_dom_sf.
+DR   InterPro; IPR041617; TPR_MalT.
+DR   InterPro; IPR019734; TPR_repeat.
+DR   InterPro; IPR001841; Znf_RING.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   PANTHER; PTHR46574; 43 KDA RECEPTOR-ASSOCIATED PROTEIN OF THE SYNAPSE; 1.
+DR   PANTHER; PTHR46574:SF1; 43 KDA RECEPTOR-ASSOCIATED PROTEIN OF THE SYNAPSE; 1.
+DR   Pfam; PF10579; Rapsyn_N; 1.
+DR   Pfam; PF17874; TPR_MalT; 1.
+DR   Pfam; PF13639; zf-RING_2; 1.
+DR   PRINTS; PR00217; POSTSYNAPTIC.
+DR   SMART; SM00184; RING; 1.
+DR   SMART; SM00028; TPR; 7.
+DR   SUPFAM; SSF57850; RING/U-box; 1.
+DR   SUPFAM; SSF48452; TPR-like; 2.
+DR   PROSITE; PS00405; 43_KD_POSTSYNAPTIC; 1.
+DR   PROSITE; PS50005; TPR; 5.
+DR   PROSITE; PS50293; TPR_REGION; 1.
+DR   PROSITE; PS50089; ZF_RING_2; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Congenital myasthenic syndrome;
+KW   Cytoplasm; Cytoskeleton; Disease variant; Lipoprotein; Membrane;
+KW   Metal-binding; Myristate; Phosphoprotein; Postsynaptic cell membrane;
+KW   Reference proteome; Repeat; Synapse; TPR repeat; Ubl conjugation; Zinc;
+KW   Zinc-finger.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT   CHAIN           2..412
+FT                   /note="43 kDa receptor-associated protein of the synapse"
+FT                   /id="PRO_0000167591"
+FT   REPEAT          6..39
+FT                   /note="TPR 1"
+FT   REPEAT          83..116
+FT                   /note="TPR 2"
+FT   REPEAT          123..156
+FT                   /note="TPR 3"
+FT   REPEAT          163..196
+FT                   /note="TPR 4"
+FT   REPEAT          206..239
+FT                   /note="TPR 5"
+FT   REPEAT          246..279
+FT                   /note="TPR 6"
+FT   REPEAT          286..319
+FT                   /note="TPR 7"
+FT   ZN_FING         363..403
+FT                   /note="RING-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00175"
+FT   MOD_RES         196
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         405
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000255"
+FT   LIPID           2
+FT                   /note="N-myristoyl glycine"
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         264..322
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_005533"
+FT   VARIANT         8
+FT                   /note="Q -> K (in dbSNP:rs11556408)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_043897"
+FT   VARIANT         14
+FT                   /note="L -> P (in CMS11; dbSNP:rs104894300)"
+FT                   /evidence="ECO:0000269|PubMed:11791205,
+FT                   ECO:0000269|PubMed:12730725, ECO:0000269|PubMed:12929188"
+FT                   /id="VAR_021216"
+FT   VARIANT         45
+FT                   /note="V -> M (in CMS11; reduced coclustering with
+FT                   acetylcholine receptor; dbSNP:rs121909254)"
+FT                   /evidence="ECO:0000269|PubMed:17594401"
+FT                   /id="VAR_043898"
+FT   VARIANT         81
+FT                   /note="F -> L (in dbSNP:rs57878668)"
+FT                   /id="VAR_062142"
+FT   VARIANT         88
+FT                   /note="N -> K (in CMS11; dbSNP:rs104894299)"
+FT                   /evidence="ECO:0000269|PubMed:11791205,
+FT                   ECO:0000269|PubMed:12730725, ECO:0000269|PubMed:12796535,
+FT                   ECO:0000269|PubMed:12929188, ECO:0000269|PubMed:14504330,
+FT                   ECO:0000269|PubMed:15036330, ECO:0000269|PubMed:15328566"
+FT                   /id="VAR_021217"
+FT   VARIANT         139
+FT                   /note="F -> S (in FADS2; dbSNP:rs121909256)"
+FT                   /evidence="ECO:0000269|PubMed:18252226"
+FT                   /id="VAR_043899"
+FT   VARIANT         162
+FT                   /note="E -> K (in CMS11; reduced coclustering with
+FT                   acetylcholine receptor; dbSNP:rs121909255)"
+FT                   /evidence="ECO:0000269|PubMed:17594401"
+FT                   /id="VAR_043900"
+FT   VARIANT         164
+FT                   /note="R -> C (in CMS11; reduced coclustering with
+FT                   acetylcholine receptor; dbSNP:rs104894294)"
+FT                   /evidence="ECO:0000269|PubMed:16931511"
+FT                   /id="VAR_043901"
+FT   VARIANT         189
+FT                   /note="A -> V (in FADS2; dbSNP:rs121909257)"
+FT                   /evidence="ECO:0000269|PubMed:18252226"
+FT                   /id="VAR_043902"
+FT   VARIANT         283
+FT                   /note="L -> P (in CMS11; reduced coclustering with
+FT                   acetylcholine receptor; dbSNP:rs104894293)"
+FT                   /evidence="ECO:0000269|PubMed:16931511"
+FT                   /id="VAR_043903"
+FT   CONFLICT        112
+FT                   /note="L -> V (in Ref. 1; CAA83954)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        159
+FT                   /note="A -> T (in Ref. 1; CAA83954)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        205
+FT                   /note="R -> Q (in Ref. 1; CAA83954)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        364
+FT                   /note="G -> A (in Ref. 1; CAA83954)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   412 AA;  46328 MW;  D17AC566700F5AAF CRC64;
+     MGQDQTKQQI EKGLQLYQSN QTEKALQVWT KVLEKSSDLM GRFRVLGCLV TAHSEMGRYK
+     EMLKFAVVQI DTARELEDAD FLLESYLNLA RSNEKLCEFH KTISYCKTCL GLPGTRAGAQ
+     LGGQVSLSMG NAFLGLSVFQ KALESFEKAL RYAHNNDDAM LECRVCCSLG SFYAQVKDYE
+     KALFFPCKAA ELVNNYGKGW SLKYRAMSQY HMAVAYRLLG RLGSAMECCE ESMKIALQHG
+     DRPLQALCLL CFADIHRSRG DLETAFPRYD SAMSIMTEIG NRLGQVQALL GVAKCWVARK
+     ALDKALDAIE RAQDLAEEVG NKLSQLKLHC LSESIYRSKG LQRELRAHVV RFHECVEETE
+     LYCGLCGESI GEKNSRLQAL PCSHIFHLRC LQNNGTRSCP NCRRSSMKPG FV
+//

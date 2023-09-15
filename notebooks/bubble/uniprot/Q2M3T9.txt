@@ -1,0 +1,292 @@
+ID   HYAL4_HUMAN             Reviewed;         481 AA.
+AC   Q2M3T9; D0VXG1; Q9UL99; Q9Y6T9;
+DT   11-SEP-2007, integrated into UniProtKB/Swiss-Prot.
+DT   11-SEP-2007, sequence version 2.
+DT   28-JUN-2023, entry version 132.
+DE   RecName: Full=Hyaluronidase-4;
+DE            Short=Hyal-4;
+DE            EC=3.2.1.35;
+DE   AltName: Full=Chondroitin sulfate endo-beta-N-acetylgalactosaminidase;
+DE   AltName: Full=Chondroitin sulfate hydrolase;
+DE            Short=CSHY;
+DE   AltName: Full=Hyaluronoglucosaminidase-4;
+GN   Name=HYAL4;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RX   PubMed=10493834; DOI=10.1006/geno.1999.5876;
+RA   Csoka A.B., Scherer S.W., Stern R.;
+RT   "Expression analysis of six paralogous human hyaluronidase genes clustered
+RT   on chromosomes 3p21 and 7q31.";
+RL   Genomics 60:356-361(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=19889881; DOI=10.1093/glycob/cwp174;
+RA   Kaneiwa T., Mizumoto S., Sugahara K., Yamada S.;
+RT   "Identification of human hyaluronidase-4 as a novel chondroitin sulfate
+RT   hydrolase that preferentially cleaves the galactosaminidic linkage in the
+RT   trisulfated tetrasaccharide sequence.";
+RL   Glycobiology 20:300-309(2010).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12690205; DOI=10.1126/science.1083423;
+RA   Scherer S.W., Cheung J., MacDonald J.R., Osborne L.R., Nakabayashi K.,
+RA   Herbrick J.-A., Carson A.R., Parker-Katiraee L., Skaug J., Khaja R.,
+RA   Zhang J., Hudek A.K., Li M., Haddad M., Duggan G.E., Fernandez B.A.,
+RA   Kanematsu E., Gentles S., Christopoulos C.C., Choufani S., Kwasnicka D.,
+RA   Zheng X.H., Lai Z., Nusskern D.R., Zhang Q., Gu Z., Lu F., Zeesman S.,
+RA   Nowaczyk M.J., Teshima I., Chitayat D., Shuman C., Weksberg R.,
+RA   Zackai E.H., Grebe T.A., Cox S.R., Kirkpatrick S.J., Rahman N.,
+RA   Friedman J.M., Heng H.H.Q., Pelicci P.G., Lo-Coco F., Belloni E.,
+RA   Shaffer L.G., Pober B., Morton C.C., Gusella J.F., Bruns G.A.P., Korf B.R.,
+RA   Quade B.J., Ligon A.H., Ferguson H., Higgins A.W., Leach N.T.,
+RA   Herrick S.R., Lemyre E., Farra C.G., Kim H.-G., Summers A.M., Gripp K.W.,
+RA   Roberts W., Szatmari P., Winsor E.J.T., Grzeschik K.-H., Teebi A.,
+RA   Minassian B.A., Kere J., Armengol L., Pujana M.A., Estivill X.,
+RA   Wilson M.D., Koop B.F., Tosi S., Moore G.E., Boright A.P., Zlotorynski E.,
+RA   Kerem B., Kroisel P.M., Petek E., Oscier D.G., Mould S.J., Doehner H.,
+RA   Doehner K., Rommens J.M., Vincent J.B., Venter J.C., Li P.W., Mural R.J.,
+RA   Adams M.D., Tsui L.-C.;
+RT   "Human chromosome 7: DNA sequence and biology.";
+RL   Science 300:767-772(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT SER-346.
+RC   TISSUE=Cerebellum;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   FUNCTION, AND 3D-STRUCTURE MODELING.
+RX   PubMed=16104017; DOI=10.1002/prot.20592;
+RA   Jedrzejas M.J., Stern R.;
+RT   "Structures of vertebrate hyaluronidases and their unique enzymatic
+RT   mechanism of hydrolysis.";
+RL   Proteins 61:227-238(2005).
+RN   [8]
+RP   GLYCOSYLATION AT ASN-177.
+RX   PubMed=19139490; DOI=10.1074/mcp.m800504-mcp200;
+RA   Jia W., Lu Z., Fu Y., Wang H.P., Wang L.H., Chi H., Yuan Z.F., Zheng Z.B.,
+RA   Song L.N., Han H.H., Liang Y.M., Wang J.L., Cai Y., Zhang Y.K., Deng Y.L.,
+RA   Ying W.T., He S.M., Qian X.H.;
+RT   "A strategy for precise and large scale identification of core fucosylated
+RT   glycoproteins.";
+RL   Mol. Cell. Proteomics 8:913-923(2009).
+CC   -!- FUNCTION: Endo-hyaluronidase that degrades hyaluronan to smaller
+CC       oligosaccharide fragments. Has also chondroitin sulfate hydrolase
+CC       activity, The best substrate being the galactosaminidic linkage in the
+CC       sequence of a trisulfated tetrasaccharide.
+CC       {ECO:0000269|PubMed:16104017, ECO:0000269|PubMed:19889881}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Random hydrolysis of (1->4)-linkages between N-acetyl-beta-D-
+CC         glucosamine and D-glucuronate residues in hyaluronate.; EC=3.2.1.35;
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 4.5-5 (for chondroitin sulfate hydrolase activity).
+CC         {ECO:0000269|PubMed:19889881};
+CC       Temperature dependence:
+CC         Optimum temperature is 37 degrees Celsius.
+CC         {ECO:0000269|PubMed:19889881};
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Multi-pass membrane
+CC       protein {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Detected in placenta and skeletal muscle.
+CC       {ECO:0000269|PubMed:10493834}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 56 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF009010; AAC98883.1; -; mRNA.
+DR   EMBL; AB470346; BAI49593.1; -; mRNA.
+DR   EMBL; AC006029; AAD43186.1; -; Genomic_DNA.
+DR   EMBL; CH236947; EAL24331.1; -; Genomic_DNA.
+DR   EMBL; CH471070; EAW83603.1; -; Genomic_DNA.
+DR   EMBL; BC104788; AAI04789.1; -; mRNA.
+DR   EMBL; BC104790; AAI04791.1; -; mRNA.
+DR   CCDS; CCDS5789.1; -.
+DR   RefSeq; NP_036401.2; NM_012269.2.
+DR   RefSeq; XP_011514292.1; XM_011515990.2.
+DR   RefSeq; XP_016867400.1; XM_017011911.1.
+DR   AlphaFoldDB; Q2M3T9; -.
+DR   SMR; Q2M3T9; -.
+DR   BioGRID; 117097; 11.
+DR   IntAct; Q2M3T9; 2.
+DR   MINT; Q2M3T9; -.
+DR   STRING; 9606.ENSP00000223026; -.
+DR   DrugBank; DB08818; Hyaluronic acid.
+DR   CAZy; GH56; Glycoside Hydrolase Family 56.
+DR   GlyConnect; 1382; 3 N-Linked glycans (1 site).
+DR   GlyCosmos; Q2M3T9; 5 sites, 3 glycans.
+DR   GlyGen; Q2M3T9; 5 sites, 3 N-linked glycans (1 site).
+DR   iPTMnet; Q2M3T9; -.
+DR   PhosphoSitePlus; Q2M3T9; -.
+DR   BioMuta; HYAL4; -.
+DR   DMDM; 158564281; -.
+DR   PaxDb; Q2M3T9; -.
+DR   PeptideAtlas; Q2M3T9; -.
+DR   ProteomicsDB; 61382; -.
+DR   Antibodypedia; 31779; 100 antibodies from 18 providers.
+DR   DNASU; 23553; -.
+DR   Ensembl; ENST00000223026.9; ENSP00000223026.4; ENSG00000106302.10.
+DR   Ensembl; ENST00000476325.5; ENSP00000417186.1; ENSG00000106302.10.
+DR   GeneID; 23553; -.
+DR   KEGG; hsa:23553; -.
+DR   MANE-Select; ENST00000223026.9; ENSP00000223026.4; NM_012269.3; NP_036401.2.
+DR   UCSC; uc003vlc.4; human.
+DR   AGR; HGNC:5323; -.
+DR   CTD; 23553; -.
+DR   DisGeNET; 23553; -.
+DR   GeneCards; HYAL4; -.
+DR   HGNC; HGNC:5323; HYAL4.
+DR   HPA; ENSG00000106302; Tissue enhanced (placenta, skeletal muscle).
+DR   MIM; 604510; gene.
+DR   neXtProt; NX_Q2M3T9; -.
+DR   OpenTargets; ENSG00000106302; -.
+DR   PharmGKB; PA29574; -.
+DR   VEuPathDB; HostDB:ENSG00000106302; -.
+DR   eggNOG; ENOG502QPZH; Eukaryota.
+DR   GeneTree; ENSGT01020000230364; -.
+DR   HOGENOM; CLU_036366_0_0_1; -.
+DR   InParanoid; Q2M3T9; -.
+DR   OMA; AGQDINY; -.
+DR   OrthoDB; 5344684at2759; -.
+DR   PhylomeDB; Q2M3T9; -.
+DR   TreeFam; TF321598; -.
+DR   BioCyc; MetaCyc:HS02883-MON; -.
+DR   BRENDA; 3.2.1.35; 2681.
+DR   PathwayCommons; Q2M3T9; -.
+DR   SignaLink; Q2M3T9; -.
+DR   BioGRID-ORCS; 23553; 17 hits in 1143 CRISPR screens.
+DR   ChiTaRS; HYAL4; human.
+DR   GenomeRNAi; 23553; -.
+DR   Pharos; Q2M3T9; Tbio.
+DR   PRO; PR:Q2M3T9; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q2M3T9; protein.
+DR   Bgee; ENSG00000106302; Expressed in triceps brachii and 80 other tissues.
+DR   ExpressionAtlas; Q2M3T9; baseline and differential.
+DR   Genevisible; Q2M3T9; HS.
+DR   GO; GO:0009986; C:cell surface; IEA:Ensembl.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004415; F:hyalurononglucosaminidase activity; IBA:GO_Central.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   GO; GO:0030207; P:chondroitin sulfate catabolic process; IEA:Ensembl.
+DR   GO; GO:0006027; P:glycosaminoglycan catabolic process; TAS:ProtInc.
+DR   GO; GO:0030214; P:hyaluronan catabolic process; IBA:GO_Central.
+DR   Gene3D; 3.20.20.70; Aldolase class I; 1.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   InterPro; IPR018155; Hyaluronidase.
+DR   PANTHER; PTHR11769; HYALURONIDASE; 1.
+DR   PANTHER; PTHR11769:SF7; HYALURONIDASE-4; 1.
+DR   Pfam; PF01630; Glyco_hydro_56; 1.
+DR   PIRSF; PIRSF038193; Hyaluronidase; 1.
+DR   PRINTS; PR00846; GLHYDRLASE56.
+DR   PRINTS; PR00848; SPERMPH20.
+DR   SUPFAM; SSF51445; (Trans)glycosidases; 1.
+DR   PROSITE; PS00022; EGF_1; 1.
+DR   PROSITE; PS01186; EGF_2; 1.
+PE   1: Evidence at protein level;
+KW   Disulfide bond; EGF-like domain; Glycoprotein; Glycosidase; Hydrolase;
+KW   Membrane; Reference proteome; Transmembrane; Transmembrane helix.
+FT   CHAIN           1..481
+FT                   /note="Hyaluronidase-4"
+FT                   /id="PRO_0000301999"
+FT   TOPO_DOM        1..8
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        9..29
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        30..453
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        454..474
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        475..481
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   ACT_SITE        147
+FT                   /note="Proton donor"
+FT                   /evidence="ECO:0000250"
+FT   CARBOHYD        86
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        115
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        177
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19139490"
+FT   CARBOHYD        343
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        59..351
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        223..237
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        376..387
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        381..435
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        437..446
+FT                   /evidence="ECO:0000250"
+FT   VARIANT         346
+FT                   /note="A -> S (in dbSNP:rs6949082)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_034936"
+FT   CONFLICT        263
+FT                   /note="G -> C (in Ref. 1; AAC98883)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   481 AA;  54249 MW;  9D530009AA898D1F CRC64;
+     MKVLSEGQLK LCVVQPVHLT SWLLIFFILK SISCLKPARL PIYQRKPFIA AWNAPTDQCL
+     IKYNLRLNLK MFPVIGSPLA KARGQNVTIF YVNRLGYYPW YTSQGVPING GLPQNISLQV
+     HLEKADQDIN YYIPAEDFSG LAVIDWEYWR PQWARNWNSK DVYRQKSRKL ISDMGKNVSA
+     TDIEYLAKVT FEESAKAFMK ETIKLGIKSR PKGLWGYYLY PDCHNYNVYA PNYSGSCPED
+     EVLRNNELSW LWNSSAALYP SIGVWKSLGD SENILRFSKF RVHESMRIST MTSHDYALPV
+     FVYTRLGYRD EPLFFLSKQD LVSTIGESAA LGAAGIVIWG DMNLTASKAN CTKVKQFVSS
+     DLGSYIANVT RAAEVCSLHL CRNNGRCIRK MWNAPSYLHL NPASYHIEAS EDGEFTVKGK
+     ASDTDLAVMA DTFSCHCYQG YEGADCREIK TADGCSGVSP SPGSLMTLCL LLLASYRSIQ
+     L
+//

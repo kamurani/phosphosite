@@ -1,0 +1,510 @@
+ID   ZBT16_HUMAN             Reviewed;         673 AA.
+AC   Q05516; Q8TAL4;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   07-MAR-2006, sequence version 2.
+DT   28-JUN-2023, entry version 232.
+DE   RecName: Full=Zinc finger and BTB domain-containing protein 16;
+DE   AltName: Full=Promyelocytic leukemia zinc finger protein;
+DE   AltName: Full=Zinc finger protein 145;
+DE   AltName: Full=Zinc finger protein PLZF;
+GN   Name=ZBTB16; Synonyms=PLZF, ZNF145;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM PLZFB), ALTERNATIVE SPLICING, AND
+RP   CHROMOSOMAL TRANSLOCATION WITH RARA.
+RC   TISSUE=Heart ventricle;
+RX   PubMed=8384553; DOI=10.1002/j.1460-2075.1993.tb05757.x;
+RA   Chen Z., Brand N.J., Chen A., Chen S.-J., Tong J.-H., Wang Z.-Y.,
+RA   Waxman S., Zelent A.;
+RT   "Fusion between a novel Kruppel-like zinc finger gene and the retinoic acid
+RT   receptor-alpha locus due to a variant t(11;17) translocation associated
+RT   with acute promyelocytic leukaemia.";
+RL   EMBO J. 12:1161-1167(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=10500192; DOI=10.1073/pnas.96.20.11422;
+RA   Zhang T., Xiong H., Kan L.-X., Zhang C.-K., Jiao X.-F., Fu G., Zhang Q.-H.,
+RA   Lu L., Tong J.-H., Gu B.-W., Yu M., Liu J.-X., Licht J., Waxman S.,
+RA   Zelent A., Chen E., Chen S.-J.;
+RT   "Genomic sequence, structural organization, molecular evolution, and
+RT   aberrant rearrangement of promyelocytic leukemia zinc finger gene.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:11422-11427(1999).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM PLZFB).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 424-455.
+RX   PubMed=8387545; DOI=10.1172/jci116453;
+RA   Chen S.-J., Zelent A., Tong J.-H., Yu H.-Q., Wang Z.-Y., Derre J.,
+RA   Berger R., Waxman S., Chen Z.;
+RT   "Rearrangements of the retinoic acid receptor alpha and promyelocytic
+RT   leukemia zinc finger genes resulting from t(11;17)(q23;q21) in a patient
+RT   with acute promyelocytic leukemia.";
+RL   J. Clin. Invest. 91:2260-2267(1993).
+RN   [5]
+RP   INTERACTION WITH ZBTB32.
+RX   PubMed=10572087;
+RA   Hoatlin M.E., Zhi Y., Ball H., Silvey K., Melnick A., Stone S., Arai S.,
+RA   Hawe N., Owen G., Zelent A., Licht J.D.;
+RT   "A novel BTB/POZ transcriptional repressor protein interacts with the
+RT   Fanconi anemia group C protein and PLZF.";
+RL   Blood 94:3737-3747(1999).
+RN   [6]
+RP   FUNCTION, AND INTERACTION WITH RUNX1T1.
+RX   PubMed=10688654; DOI=10.1128/mcb.20.6.2075-2086.2000;
+RA   Melnick A.M., Westendorf J.J., Polinger A., Carlile G.W., Arai S.,
+RA   Ball H.J., Lutterbach B., Hiebert S.W., Licht J.D.;
+RT   "The ETO protein disrupted in t(8;21)-associated acute myeloid leukemia is
+RT   a corepressor for the promyelocytic leukemia zinc finger protein.";
+RL   Mol. Cell. Biol. 20:2075-2086(2000).
+RN   [7]
+RP   INTERACTION WITH EPN1.
+RX   PubMed=11161217; DOI=10.1126/science.291.5506.1047;
+RA   Itoh T., Koshiba S., Kigawa T., Kikuchi A., Yokoyama S., Takenawa T.;
+RT   "Role of the ENTH domain in phosphatidylinositol-4,5-bisphosphate binding
+RT   and endocytosis.";
+RL   Science 291:1047-1051(2001).
+RN   [8]
+RP   FUNCTION AS AN E3 UBIQUITIN-PROTEIN LIGASE, AND INTERACTION WITH CUL3.
+RX   PubMed=14528312; DOI=10.1038/ncb1056;
+RA   Furukawa M., He Y.J., Borchers C., Xiong Y.;
+RT   "Targeting of protein ubiquitination by BTB-Cullin 3-Roc1 ubiquitin
+RT   ligases.";
+RL   Nat. Cell Biol. 5:1001-1007(2003).
+RN   [9]
+RP   INTERACTION WITH ATP7B.
+RX   PubMed=16676348; DOI=10.1002/jcb.20980;
+RA   Ko J.H., Son W., Bae G.Y., Kang J.H., Oh W., Yoo O.J.;
+RT   "A new hepatocytic isoform of PLZF lacking the BTB domain interacts with
+RT   ATP7B, the Wilson disease protein, and positively regulates ERK signal
+RT   transduction.";
+RL   J. Cell. Biochem. 99:719-734(2006).
+RN   [10]
+RP   FUNCTION, INTERACTION WITH RNF112, AND SUBCELLULAR LOCATION.
+RX   PubMed=24359566; DOI=10.1186/1423-0127-20-98;
+RA   Lin D.Y., Huang C.C., Hsieh Y.T., Lin H.C., Pao P.C., Tsou J.H., Lai C.Y.,
+RA   Hung L.Y., Wang J.M., Chang W.C., Lee Y.C.;
+RT   "Analysis of the interaction between Zinc finger protein 179 (Znf179) and
+RT   promyelocytic leukemia zinc finger (Plzf).";
+RL   J. Biomed. Sci. 20:98-98(2013).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 6-126.
+RX   PubMed=9770450; DOI=10.1073/pnas.95.21.12123;
+RA   Ahmad K.F., Engel C.K., Prive G.G.;
+RT   "Crystal structure of the BTB domain from PLZF.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:12123-12128(1998).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 7-122.
+RX   PubMed=10537309;
+RA   Li X., Peng H., Schultz D.C., Lopez-Guisa J.M., Rauscher F.J. III,
+RA   Marmorstein R.;
+RT   "Structure-function studies of the BTB/POZ transcriptional repression
+RT   domain from the promyelocytic leukemia zinc finger oncoprotein.";
+RL   Cancer Res. 59:5275-5282(1999).
+RN   [13]
+RP   VARIANT SGYMR VAL-617.
+RX   PubMed=18611983; DOI=10.1136/jmg.2008.059451;
+RA   Fischer S., Kohlhase J., Boehm D., Schweiger B., Hoffmann D., Heitmann M.,
+RA   Horsthemke B., Wieczorek D.;
+RT   "Biallelic loss of function of the promyelocytic leukaemia zinc finger
+RT   (PLZF) gene causes severe skeletal defects and genital hypoplasia.";
+RL   J. Med. Genet. 45:731-737(2008).
+CC   -!- FUNCTION: Acts as a transcriptional repressor (PubMed:10688654,
+CC       PubMed:24359566). Transcriptional repression may be mediated through
+CC       recruitment of histone deacetylases to target promoters
+CC       (PubMed:10688654). May play a role in myeloid maturation and in the
+CC       development and/or maintenance of other differentiated tissues.
+CC       Probable substrate-recognition component of an E3 ubiquitin-protein
+CC       ligase complex which mediates the ubiquitination and subsequent
+CC       proteasomal degradation of target proteins (PubMed:14528312).
+CC       {ECO:0000269|PubMed:10688654, ECO:0000269|PubMed:14528312,
+CC       ECO:0000269|PubMed:24359566}.
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC   -!- SUBUNIT: Binds EPN1 (PubMed:11161217). Interacts with ZBTB32 and CUL3
+CC       (PubMed:10572087, PubMed:14528312). Interacts with ATP7B
+CC       (PubMed:16676348). Interacts with transcriptional corepressor RUNX1T1
+CC       (via its N-terminus); the interaction increases the transcription
+CC       repression activity of ZBTB16 (PubMed:10688654). Interacts (via C2H2-
+CC       type zinc finger domains 1 and 2) with RNF112 (PubMed:24359566).
+CC       {ECO:0000269|PubMed:10572087, ECO:0000269|PubMed:10688654,
+CC       ECO:0000269|PubMed:11161217, ECO:0000269|PubMed:14528312,
+CC       ECO:0000269|PubMed:16676348, ECO:0000269|PubMed:24359566}.
+CC   -!- INTERACTION:
+CC       Q05516; Q9Y2J4: AMOTL2; NbExp=3; IntAct=EBI-711925, EBI-746752;
+CC       Q05516; Q9H2G9: BLZF1; NbExp=3; IntAct=EBI-711925, EBI-2548012;
+CC       Q05516; Q9H257-2: CARD9; NbExp=3; IntAct=EBI-711925, EBI-11530605;
+CC       Q05516; Q8TD31-3: CCHCR1; NbExp=3; IntAct=EBI-711925, EBI-10175300;
+CC       Q05516; Q8NHQ1: CEP70; NbExp=4; IntAct=EBI-711925, EBI-739624;
+CC       Q05516; Q9Y2V7: COG6; NbExp=5; IntAct=EBI-711925, EBI-3866319;
+CC       Q05516; Q9GZU7: CTDSP1; NbExp=3; IntAct=EBI-711925, EBI-751587;
+CC       Q05516; P68104: EEF1A1; NbExp=4; IntAct=EBI-711925, EBI-352162;
+CC       Q05516; Q5JST6: EFHC2; NbExp=3; IntAct=EBI-711925, EBI-2349927;
+CC       Q05516; Q9NTX9: FAM217B; NbExp=3; IntAct=EBI-711925, EBI-19153639;
+CC       Q05516; Q86YD7: FAM90A1; NbExp=3; IntAct=EBI-711925, EBI-6658203;
+CC       Q05516; Q5TD97: FHL5; NbExp=3; IntAct=EBI-711925, EBI-750641;
+CC       Q05516; Q08379: GOLGA2; NbExp=8; IntAct=EBI-711925, EBI-618309;
+CC       Q05516; A6NEM1: GOLGA6L9; NbExp=3; IntAct=EBI-711925, EBI-5916454;
+CC       Q05516; O95872: GPANK1; NbExp=3; IntAct=EBI-711925, EBI-751540;
+CC       Q05516; Q13547: HDAC1; NbExp=2; IntAct=EBI-711925, EBI-301834;
+CC       Q05516; P07686: HEXB; NbExp=3; IntAct=EBI-711925, EBI-7133736;
+CC       Q05516; P49639: HOXA1; NbExp=3; IntAct=EBI-711925, EBI-740785;
+CC       Q05516; Q00444: HOXC5; NbExp=3; IntAct=EBI-711925, EBI-11955357;
+CC       Q05516; O75031: HSF2BP; NbExp=3; IntAct=EBI-711925, EBI-7116203;
+CC       Q05516; P42858: HTT; NbExp=4; IntAct=EBI-711925, EBI-466029;
+CC       Q05516; Q9BVG8-5: KIFC3; NbExp=3; IntAct=EBI-711925, EBI-14069005;
+CC       Q05516; Q6A162: KRT40; NbExp=9; IntAct=EBI-711925, EBI-10171697;
+CC       Q05516; A0A0C4DGV4: LAMTOR5; NbExp=6; IntAct=EBI-711925, EBI-10173304;
+CC       Q05516; O95751: LDOC1; NbExp=4; IntAct=EBI-711925, EBI-740738;
+CC       Q05516; Q6FHY5: MEOX2; NbExp=3; IntAct=EBI-711925, EBI-16439278;
+CC       Q05516; Q9UJV3-2: MID2; NbExp=3; IntAct=EBI-711925, EBI-10172526;
+CC       Q05516; Q5JR59-3: MTUS2; NbExp=3; IntAct=EBI-711925, EBI-11522433;
+CC       Q05516; Q8WY64: MYLIP; NbExp=3; IntAct=EBI-711925, EBI-6952711;
+CC       Q05516; Q8NI38: NFKBID; NbExp=3; IntAct=EBI-711925, EBI-10271199;
+CC       Q05516; O00746: NME4; NbExp=3; IntAct=EBI-711925, EBI-744871;
+CC       Q05516; Q9H4L5: OSBPL3; NbExp=3; IntAct=EBI-711925, EBI-1051317;
+CC       Q05516; O43189: PHF1; NbExp=3; IntAct=EBI-711925, EBI-530034;
+CC       Q05516; O75928-2: PIAS2; NbExp=3; IntAct=EBI-711925, EBI-348567;
+CC       Q05516; Q4G0R1: PIBF1; NbExp=3; IntAct=EBI-711925, EBI-14066006;
+CC       Q05516; P29590: PML; NbExp=7; IntAct=EBI-711925, EBI-295890;
+CC       Q05516; P29590-5: PML; NbExp=2; IntAct=EBI-711925, EBI-304008;
+CC       Q05516; P31321: PRKAR1B; NbExp=3; IntAct=EBI-711925, EBI-2805516;
+CC       Q05516; Q96QF0-7: RAB3IP; NbExp=3; IntAct=EBI-711925, EBI-11984839;
+CC       Q05516; Q04864-2: REL; NbExp=3; IntAct=EBI-711925, EBI-10829018;
+CC       Q05516; Q6NUQ1: RINT1; NbExp=3; IntAct=EBI-711925, EBI-726876;
+CC       Q05516; Q9H788-2: SH2D4A; NbExp=3; IntAct=EBI-711925, EBI-10308083;
+CC       Q05516; Q9NYJ8: TAB2; NbExp=3; IntAct=EBI-711925, EBI-358708;
+CC       Q05516; Q08117-2: TLE5; NbExp=3; IntAct=EBI-711925, EBI-11741437;
+CC       Q05516; Q13077: TRAF1; NbExp=5; IntAct=EBI-711925, EBI-359224;
+CC       Q05516; Q12933: TRAF2; NbExp=5; IntAct=EBI-711925, EBI-355744;
+CC       Q05516; Q9BUZ4: TRAF4; NbExp=3; IntAct=EBI-711925, EBI-3650647;
+CC       Q05516; P19474: TRIM21; NbExp=3; IntAct=EBI-711925, EBI-81290;
+CC       Q05516; P36406: TRIM23; NbExp=3; IntAct=EBI-711925, EBI-740098;
+CC       Q05516; P14373: TRIM27; NbExp=5; IntAct=EBI-711925, EBI-719493;
+CC       Q05516; Q9BYV2: TRIM54; NbExp=6; IntAct=EBI-711925, EBI-2130429;
+CC       Q05516; Q5W5X9-3: TTC23; NbExp=3; IntAct=EBI-711925, EBI-9090990;
+CC       Q05516; Q7KZS0: UBE2I; NbExp=3; IntAct=EBI-711925, EBI-10180829;
+CC       Q05516; Q9NP79: VTA1; NbExp=4; IntAct=EBI-711925, EBI-740160;
+CC       Q05516; Q05516: ZBTB16; NbExp=8; IntAct=EBI-711925, EBI-711925;
+CC       Q05516; B2RXF5: ZBTB42; NbExp=3; IntAct=EBI-711925, EBI-12287587;
+CC       Q05516; Q9H707: ZNF552; NbExp=3; IntAct=EBI-711925, EBI-2555731;
+CC       Q05516; Q6ZNG0: ZNF620; NbExp=3; IntAct=EBI-711925, EBI-4395669;
+CC       Q05516; Q8N720: ZNF655; NbExp=3; IntAct=EBI-711925, EBI-625509;
+CC       Q05516; O35826: Gne; Xeno; NbExp=2; IntAct=EBI-711925, EBI-7109445;
+CC       Q05516; P09022: Hoxa1; Xeno; NbExp=3; IntAct=EBI-711925, EBI-3957603;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:24359566}. Nucleus,
+CC       nuclear body {ECO:0000269|PubMed:24359566}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=PLZFB;
+CC         IsoId=Q05516-1; Sequence=Displayed;
+CC       Name=PLZFA;
+CC         IsoId=Q05516-2; Sequence=VSP_006896;
+CC   -!- TISSUE SPECIFICITY: Within the hematopoietic system, PLZF is expressed
+CC       in bone marrow, early myeloid cell lines and peripheral blood
+CC       mononuclear cells. Also expressed in the ovary, and at lower levels, in
+CC       the kidney and lung.
+CC   -!- INDUCTION: By retinoic acid.
+CC   -!- DISEASE: Skeletal defects, genital hypoplasia, and impaired
+CC       intellectual development (SGYMR) [MIM:612447]: A disorder characterized
+CC       by intellectual disability, craniofacial dysmorphism, microcephaly and
+CC       short stature. Additional features include absence of the thumbs,
+CC       hypoplasia of the radii and ulnae, additional vertebrae and ribs,
+CC       retarded bone age and genital hypoplasia.
+CC       {ECO:0000269|PubMed:18611983}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Note=A chromosomal aberration involving ZBTB16 may be a cause
+CC       of acute promyelocytic leukemia (APL). Translocation t(11;17)(q32;q21)
+CC       with RARA. {ECO:0000269|PubMed:8384553}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/37/PLZF";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; Z19002; CAA79489.1; -; mRNA.
+DR   EMBL; AF060568; AAD03619.1; -; Genomic_DNA.
+DR   EMBL; BC026902; AAH26902.1; -; mRNA.
+DR   EMBL; BC029812; AAH29812.1; -; mRNA.
+DR   EMBL; S60093; AAC60590.2; -; Genomic_DNA.
+DR   CCDS; CCDS8367.1; -. [Q05516-1]
+DR   PIR; S36336; S36336.
+DR   RefSeq; NP_001018011.1; NM_001018011.1. [Q05516-1]
+DR   RefSeq; NP_005997.2; NM_006006.4. [Q05516-1]
+DR   RefSeq; XP_016873746.1; XM_017018257.1.
+DR   RefSeq; XP_016873747.1; XM_017018258.1.
+DR   RefSeq; XP_016873748.1; XM_017018259.1.
+DR   PDB; 1BUO; X-ray; 1.90 A; A=6-126.
+DR   PDB; 1CS3; X-ray; 2.00 A; A=7-122.
+DR   PDBsum; 1BUO; -.
+DR   PDBsum; 1CS3; -.
+DR   AlphaFoldDB; Q05516; -.
+DR   SMR; Q05516; -.
+DR   BioGRID; 113498; 172.
+DR   DIP; DIP-2654N; -.
+DR   IntAct; Q05516; 124.
+DR   MINT; Q05516; -.
+DR   STRING; 9606.ENSP00000338157; -.
+DR   BindingDB; Q05516; -.
+DR   ChEMBL; CHEMBL4105726; -.
+DR   MoonDB; Q05516; Predicted.
+DR   iPTMnet; Q05516; -.
+DR   PhosphoSitePlus; Q05516; -.
+DR   BioMuta; ZBTB16; -.
+DR   DMDM; 90109930; -.
+DR   EPD; Q05516; -.
+DR   MassIVE; Q05516; -.
+DR   PaxDb; Q05516; -.
+DR   PeptideAtlas; Q05516; -.
+DR   ProteomicsDB; 58332; -. [Q05516-1]
+DR   ProteomicsDB; 58333; -. [Q05516-2]
+DR   ABCD; Q05516; 3 sequenced antibodies.
+DR   Antibodypedia; 897; 427 antibodies from 38 providers.
+DR   DNASU; 7704; -.
+DR   Ensembl; ENST00000335953.9; ENSP00000338157.4; ENSG00000109906.15. [Q05516-1]
+DR   Ensembl; ENST00000392996.2; ENSP00000376721.2; ENSG00000109906.15. [Q05516-1]
+DR   Ensembl; ENST00000682278.1; ENSP00000506794.1; ENSG00000109906.15. [Q05516-1]
+DR   Ensembl; ENST00000682697.1; ENSP00000506924.1; ENSG00000109906.15. [Q05516-1]
+DR   Ensembl; ENST00000682971.1; ENSP00000506894.1; ENSG00000109906.15. [Q05516-1]
+DR   Ensembl; ENST00000683318.1; ENSP00000508351.1; ENSG00000109906.15. [Q05516-1]
+DR   Ensembl; ENST00000683554.1; ENSP00000506953.1; ENSG00000109906.15. [Q05516-1]
+DR   Ensembl; ENST00000684295.1; ENSP00000507788.1; ENSG00000109906.15. [Q05516-1]
+DR   GeneID; 7704; -.
+DR   KEGG; hsa:7704; -.
+DR   MANE-Select; ENST00000335953.9; ENSP00000338157.4; NM_006006.6; NP_005997.2.
+DR   UCSC; uc001pop.4; human. [Q05516-1]
+DR   AGR; HGNC:12930; -.
+DR   CTD; 7704; -.
+DR   DisGeNET; 7704; -.
+DR   GeneCards; ZBTB16; -.
+DR   HGNC; HGNC:12930; ZBTB16.
+DR   HPA; ENSG00000109906; Tissue enhanced (tongue).
+DR   MalaCards; ZBTB16; -.
+DR   MIM; 176797; gene.
+DR   MIM; 612447; phenotype.
+DR   neXtProt; NX_Q05516; -.
+DR   OpenTargets; ENSG00000109906; -.
+DR   Orphanet; 520; Acute promyelocytic leukemia.
+DR   Orphanet; 99861; Precursor T-cell acute lymphoblastic leukemia.
+DR   PharmGKB; PA37517; -.
+DR   VEuPathDB; HostDB:ENSG00000109906; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000154616; -.
+DR   HOGENOM; CLU_026420_0_0_1; -.
+DR   InParanoid; Q05516; -.
+DR   OMA; TEVKHEM; -.
+DR   OrthoDB; 3044976at2759; -.
+DR   PhylomeDB; Q05516; -.
+DR   TreeFam; TF350825; -.
+DR   PathwayCommons; Q05516; -.
+DR   Reactome; R-HSA-8951664; Neddylation.
+DR   Reactome; R-HSA-983168; Antigen processing: Ubiquitination & Proteasome degradation.
+DR   SignaLink; Q05516; -.
+DR   SIGNOR; Q05516; -.
+DR   UniPathway; UPA00143; -.
+DR   BioGRID-ORCS; 7704; 12 hits in 1214 CRISPR screens.
+DR   ChiTaRS; ZBTB16; human.
+DR   EvolutionaryTrace; Q05516; -.
+DR   GeneWiki; Zinc_finger_and_BTB_domain-containing_protein_16; -.
+DR   GenomeRNAi; 7704; -.
+DR   Pharos; Q05516; Tbio.
+DR   PRO; PR:Q05516; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q05516; protein.
+DR   Bgee; ENSG00000109906; Expressed in skin of hip and 203 other tissues.
+DR   ExpressionAtlas; Q05516; baseline and differential.
+DR   Genevisible; Q05516; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0001673; C:male germ cell nucleus; IEA:Ensembl.
+DR   GO; GO:0016604; C:nuclear body; IDA:UniProtKB.
+DR   GO; GO:0016607; C:nuclear speck; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IEA:Ensembl.
+DR   GO; GO:0016605; C:PML body; IDA:UniProtKB.
+DR   GO; GO:0032991; C:protein-containing complex; IMP:UniProtKB.
+DR   GO; GO:0017053; C:transcription repressor complex; IDA:MGI.
+DR   GO; GO:0003677; F:DNA binding; IDA:MGI.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0019904; F:protein domain specific binding; IEA:Ensembl.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IDA:UniProtKB.
+DR   GO; GO:0001222; F:transcription corepressor binding; IPI:UniProtKB.
+DR   GO; GO:0031703; F:type 2 angiotensin receptor binding; IEA:Ensembl.
+DR   GO; GO:0009952; P:anterior/posterior pattern specification; IEA:Ensembl.
+DR   GO; GO:0006915; P:apoptotic process; NAS:UniProtKB.
+DR   GO; GO:0051216; P:cartilage development; IDA:UniProtKB.
+DR   GO; GO:0008283; P:cell population proliferation; IEA:Ensembl.
+DR   GO; GO:0007417; P:central nervous system development; ISS:UniProtKB.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0035116; P:embryonic hindlimb morphogenesis; IEA:Ensembl.
+DR   GO; GO:0009880; P:embryonic pattern specification; IEA:Ensembl.
+DR   GO; GO:0035136; P:forelimb morphogenesis; IEA:Ensembl.
+DR   GO; GO:0030097; P:hemopoiesis; IDA:UniProtKB.
+DR   GO; GO:0048133; P:male germ-line stem cell asymmetric division; IEA:Ensembl.
+DR   GO; GO:0001823; P:mesonephros development; ISS:UniProtKB.
+DR   GO; GO:0030099; P:myeloid cell differentiation; TAS:UniProtKB.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; IEA:Ensembl.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0045638; P:negative regulation of myeloid cell differentiation; ISS:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   GO; GO:0043931; P:ossification involved in bone maturation; IEA:Ensembl.
+DR   GO; GO:0043065; P:positive regulation of apoptotic process; IEA:Ensembl.
+DR   GO; GO:0061036; P:positive regulation of cartilage development; IDA:UniProtKB.
+DR   GO; GO:0032332; P:positive regulation of chondrocyte differentiation; IMP:UniProtKB.
+DR   GO; GO:0045893; P:positive regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0045600; P:positive regulation of fat cell differentiation; IMP:UniProtKB.
+DR   GO; GO:0051138; P:positive regulation of NK T cell differentiation; IEA:Ensembl.
+DR   GO; GO:0045778; P:positive regulation of ossification; IDA:UniProtKB.
+DR   GO; GO:0034504; P:protein localization to nucleus; IEA:Ensembl.
+DR   GO; GO:0016567; P:protein ubiquitination; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd18205; BTB_POZ_ZBTB16_PLZF; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 7.
+DR   InterPro; IPR000210; BTB/POZ_dom.
+DR   InterPro; IPR011333; SKP1/BTB/POZ_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR46105; AGAP004733-PA; 1.
+DR   PANTHER; PTHR46105:SF5; AGAP004733-PA; 1.
+DR   Pfam; PF00651; BTB; 1.
+DR   Pfam; PF00096; zf-C2H2; 3.
+DR   Pfam; PF13912; zf-C2H2_6; 2.
+DR   SMART; SM00225; BTB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 9.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 4.
+DR   SUPFAM; SSF54695; POZ domain; 1.
+DR   PROSITE; PS50097; BTB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 8.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 9.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Chromosomal rearrangement;
+KW   Disease variant; DNA-binding; Intellectual disability; Metal-binding;
+KW   Nucleus; Phosphoprotein; Proto-oncogene; Reference proteome; Repeat;
+KW   Repressor; Transcription; Transcription regulation;
+KW   Ubl conjugation pathway; Zinc; Zinc-finger.
+FT   CHAIN           1..673
+FT                   /note="Zinc finger and BTB domain-containing protein 16"
+FT                   /id="PRO_0000047729"
+FT   DOMAIN          34..96
+FT                   /note="BTB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00037"
+FT   ZN_FING         404..426
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         432..454
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         461..483
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         490..512
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         518..540
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         546..568
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         574..596
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         602..624
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         630..652
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          200..300
+FT                   /note="Interaction with RUNX1T1"
+FT                   /evidence="ECO:0000269|PubMed:10688654"
+FT   REGION          215..236
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          249..332
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   SITE            394..395
+FT                   /note="Breakpoint for translocation to form PLZF-RAR-alpha
+FT                   oncogene"
+FT   MOD_RES         76
+FT                   /note="Phosphoserine; by PDPK1"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         184
+FT                   /note="Phosphoserine; by PDPK1"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         197
+FT                   /note="Phosphoserine; by PDPK1"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         256
+FT                   /note="Phosphoserine; by PDPK1"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         282
+FT                   /note="Phosphothreonine; by PDPK1"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         628
+FT                   /note="Phosphoserine; by PDPK1"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         255..377
+FT                   /note="Missing (in isoform PLZFA)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_006896"
+FT   VARIANT         617
+FT                   /note="M -> V (in SGYMR; dbSNP:rs121434606)"
+FT                   /evidence="ECO:0000269|PubMed:18611983"
+FT                   /id="VAR_054912"
+FT   CONFLICT        580
+FT                   /note="G -> D (in Ref. 1; CAA79489)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           16..30
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   TURN            31..33
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   STRAND          36..42
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   STRAND          44..47
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   HELIX           49..55
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   HELIX           57..62
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   HELIX           63..65
+FT                   /evidence="ECO:0007829|PDB:1CS3"
+FT   STRAND          68..72
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   HELIX           77..89
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   HELIX           96..98
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   HELIX           99..109
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+FT   HELIX           112..125
+FT                   /evidence="ECO:0007829|PDB:1BUO"
+SQ   SEQUENCE   673 AA;  74274 MW;  51F8E361FA31239E CRC64;
+     MDLTKMGMIQ LQNPSHPTGL LCKANQMRLA GTLCDVVIMV DSQEFHAHRT VLACTSKMFE
+     ILFHRNSQHY TLDFLSPKTF QQILEYAYTA TLQAKAEDLD DLLYAAEILE IEYLEEQCLK
+     MLETIQASDD NDTEATMADG GAEEEEDRKA RYLKNIFISK HSSEESGYAS VAGQSLPGPM
+     VDQSPSVSTS FGLSAMSPTK AAVDSLMTIG QSLLQGTLQP PAGPEEPTLA GGGRHPGVAE
+     VKTEMMQVDE VPSQDSPGAA ESSISGGMGD KVEERGKEGP GTPTRSSVIT SARELHYGRE
+     ESAEQVPPPA EAGQAPTGRP EHPAPPPEKH LGIYSVLPNH KADAVLSMPS SVTSGLHVQP
+     ALAVSMDFST YGGLLPQGFI QRELFSKLGE LAVGMKSESR TIGEQCSVCG VELPDNEAVE
+     QHRKLHSGMK TYGCELCGKR FLDSLRLRMH LLAHSAGAKA FVCDQCGAQF SKEDALETHR
+     QTHTGTDMAV FCLLCGKRFQ AQSALQQHME VHAGVRSYIC SECNRTFPSH TALKRHLRSH
+     TGDHPYECEF CGSCFRDEST LKSHKRIHTG EKPYECNGCG KKFSLKHQLE THYRVHTGEK
+     PFECKLCHQR SRDYSAMIKH LRTHNGASPY QCTICTEYCP SLSSMQKHMK GHKPEEIPPD
+     WRIEKTYLYL CYV
+//

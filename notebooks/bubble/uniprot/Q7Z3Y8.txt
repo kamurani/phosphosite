@@ -1,0 +1,362 @@
+ID   K1C27_HUMAN             Reviewed;         459 AA.
+AC   Q7Z3Y8;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 140.
+DE   RecName: Full=Keratin, type I cytoskeletal 27;
+DE   AltName: Full=Cytokeratin-27;
+DE            Short=CK-27;
+DE   AltName: Full=Keratin-25C;
+DE            Short=K25C;
+DE   AltName: Full=Keratin-27;
+DE            Short=K27;
+DE   AltName: Full=Type I inner root sheath-specific keratin-K25irs3;
+GN   Name=KRT27 {ECO:0000312|HGNC:HGNC:30841};
+GN   Synonyms=KRT25C {ECO:0000312|EMBL:CAD91906.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:CAD91906.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, AND VARIANTS THR-52;
+RP   LYS-144 AND THR-305.
+RC   TISSUE=Scalp {ECO:0000312|EMBL:CAD91906.1};
+RX   PubMed=15617563; DOI=10.1111/j.1432-0436.2004.07209006.x;
+RA   Rogers M.A., Winter H., Langbein L., Bleiler R., Schweizer J.;
+RT   "The human type I keratin gene family: characterization of new hair
+RT   follicle specific members and evaluation of the chromosome 17q21.2 gene
+RT   domain.";
+RL   Differentiation 72:527-540(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [3] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=16874310; DOI=10.1038/sj.jid.5700494;
+RA   Langbein L., Rogers M.A., Praetzel-Wunder S., Helmke B., Schirmacher P.,
+RA   Schweizer J.;
+RT   "K25 (K25irs1), K26 (K25irs2), K27 (K25irs3), and K28 (K25irs4) represent
+RT   the type I inner root sheath keratins of the human hair follicle.";
+RL   J. Invest. Dermatol. 126:2377-2386(2006).
+CC   -!- FUNCTION: Essential for the proper assembly of type I and type II
+CC       keratin protein complexes and formation of keratin intermediate
+CC       filaments in the inner root sheath (irs).
+CC       {ECO:0000250|UniProtKB:Q9Z320}.
+CC   -!- SUBUNIT: Heterotetramer of two type I and two type II keratins.
+CC       Interacts with KRT6A to form filaments (By similarity).
+CC       {ECO:0000250|UniProtKB:Q9Z320, ECO:0000305}.
+CC   -!- INTERACTION:
+CC       Q7Z3Y8; Q4LEZ3: AARD; NbExp=6; IntAct=EBI-3044087, EBI-5463075;
+CC       Q7Z3Y8; Q9NYB9-2: ABI2; NbExp=3; IntAct=EBI-3044087, EBI-11096309;
+CC       Q7Z3Y8; A2BDD9: AMOT; NbExp=3; IntAct=EBI-3044087, EBI-17286414;
+CC       Q7Z3Y8; P53367: ARFIP1; NbExp=3; IntAct=EBI-3044087, EBI-2808808;
+CC       Q7Z3Y8; Q15052: ARHGEF6; NbExp=3; IntAct=EBI-3044087, EBI-1642523;
+CC       Q7Z3Y8; Q9Y5K8: ATP6V1D; NbExp=3; IntAct=EBI-3044087, EBI-2684998;
+CC       Q7Z3Y8; O75934: BCAS2; NbExp=3; IntAct=EBI-3044087, EBI-1050106;
+CC       Q7Z3Y8; Q9BXY8: BEX2; NbExp=3; IntAct=EBI-3044087, EBI-745073;
+CC       Q7Z3Y8; Q12934-2: BFSP1; NbExp=3; IntAct=EBI-3044087, EBI-12123320;
+CC       Q7Z3Y8; Q13515: BFSP2; NbExp=3; IntAct=EBI-3044087, EBI-10229433;
+CC       Q7Z3Y8; Q9H6X5-2: C19orf44; NbExp=3; IntAct=EBI-3044087, EBI-12061599;
+CC       Q7Z3Y8; Q8TAB5: C1orf216; NbExp=3; IntAct=EBI-3044087, EBI-747505;
+CC       Q7Z3Y8; Q0VAL7: C21orf58; NbExp=3; IntAct=EBI-3044087, EBI-10226774;
+CC       Q7Z3Y8; Q6UXH8-3: CCBE1; NbExp=3; IntAct=EBI-3044087, EBI-12013534;
+CC       Q7Z3Y8; Q96M89-2: CCDC138; NbExp=3; IntAct=EBI-3044087, EBI-10972887;
+CC       Q7Z3Y8; Q8IYE0: CCDC146; NbExp=3; IntAct=EBI-3044087, EBI-10749669;
+CC       Q7Z3Y8; Q8N715: CCDC185; NbExp=3; IntAct=EBI-3044087, EBI-740814;
+CC       Q7Z3Y8; O60826: CCDC22; NbExp=3; IntAct=EBI-3044087, EBI-3943153;
+CC       Q7Z3Y8; Q9H2F9: CCDC68; NbExp=3; IntAct=EBI-3044087, EBI-2813327;
+CC       Q7Z3Y8; Q8TD31-3: CCHCR1; NbExp=3; IntAct=EBI-3044087, EBI-10175300;
+CC       Q7Z3Y8; P24863: CCNC; NbExp=3; IntAct=EBI-3044087, EBI-395261;
+CC       Q7Z3Y8; Q96GE4: CEP95; NbExp=3; IntAct=EBI-3044087, EBI-372775;
+CC       Q7Z3Y8; Q5T655: CFAP58; NbExp=3; IntAct=EBI-3044087, EBI-10245749;
+CC       Q7Z3Y8; P10606: COX5B; NbExp=3; IntAct=EBI-3044087, EBI-1053725;
+CC       Q7Z3Y8; Q6W0C5: DPPA3; NbExp=3; IntAct=EBI-3044087, EBI-12082590;
+CC       Q7Z3Y8; O60941-5: DTNB; NbExp=3; IntAct=EBI-3044087, EBI-11984733;
+CC       Q7Z3Y8; Q9BV47: DUSP26; NbExp=3; IntAct=EBI-3044087, EBI-2924519;
+CC       Q7Z3Y8; Q86VI1: EXOC3L1; NbExp=3; IntAct=EBI-3044087, EBI-2813180;
+CC       Q7Z3Y8; Q9NQT4: EXOSC5; NbExp=3; IntAct=EBI-3044087, EBI-371876;
+CC       Q7Z3Y8; O95990-4: FAM107A; NbExp=3; IntAct=EBI-3044087, EBI-11977223;
+CC       Q7Z3Y8; Q9BQ89: FAM110A; NbExp=3; IntAct=EBI-3044087, EBI-1752811;
+CC       Q7Z3Y8; Q8TAE8: GADD45GIP1; NbExp=3; IntAct=EBI-3044087, EBI-372506;
+CC       Q7Z3Y8; O95995: GAS8; NbExp=3; IntAct=EBI-3044087, EBI-1052570;
+CC       Q7Z3Y8; P14136: GFAP; NbExp=3; IntAct=EBI-3044087, EBI-744302;
+CC       Q7Z3Y8; Q9P2W3: GNG13; NbExp=3; IntAct=EBI-3044087, EBI-11427343;
+CC       Q7Z3Y8; Q92805: GOLGA1; NbExp=3; IntAct=EBI-3044087, EBI-6164177;
+CC       Q7Z3Y8; Q13227: GPS2; NbExp=3; IntAct=EBI-3044087, EBI-713355;
+CC       Q7Z3Y8; Q9Y2Q3-2: GSTK1; NbExp=3; IntAct=EBI-3044087, EBI-12013556;
+CC       Q7Z3Y8; Q9GZV7: HAPLN2; NbExp=3; IntAct=EBI-3044087, EBI-11956675;
+CC       Q7Z3Y8; P56524-2: HDAC4; NbExp=3; IntAct=EBI-3044087, EBI-11953488;
+CC       Q7Z3Y8; O14964: HGS; NbExp=3; IntAct=EBI-3044087, EBI-740220;
+CC       Q7Z3Y8; Q86VS8: HOOK3; NbExp=3; IntAct=EBI-3044087, EBI-1777078;
+CC       Q7Z3Y8; P17482: HOXB9; NbExp=3; IntAct=EBI-3044087, EBI-745290;
+CC       Q7Z3Y8; Q8NDH6-2: ICA1L; NbExp=3; IntAct=EBI-3044087, EBI-12141931;
+CC       Q7Z3Y8; Q15040: JOSD1; NbExp=3; IntAct=EBI-3044087, EBI-2510602;
+CC       Q7Z3Y8; Q63ZY3: KANK2; NbExp=3; IntAct=EBI-3044087, EBI-2556193;
+CC       Q7Z3Y8; Q5T5P2-6: KIAA1217; NbExp=3; IntAct=EBI-3044087, EBI-10188326;
+CC       Q7Z3Y8; Q2WGJ6: KLHL38; NbExp=3; IntAct=EBI-3044087, EBI-6426443;
+CC       Q7Z3Y8; P04264: KRT1; NbExp=3; IntAct=EBI-3044087, EBI-298429;
+CC       Q7Z3Y8; P35908: KRT2; NbExp=3; IntAct=EBI-3044087, EBI-1247312;
+CC       Q7Z3Y8; P35900: KRT20; NbExp=3; IntAct=EBI-3044087, EBI-742094;
+CC       Q7Z3Y8; P12035: KRT3; NbExp=3; IntAct=EBI-3044087, EBI-2430095;
+CC       Q7Z3Y8; P19013: KRT4; NbExp=3; IntAct=EBI-3044087, EBI-2371606;
+CC       Q7Z3Y8; P13647: KRT5; NbExp=3; IntAct=EBI-3044087, EBI-702187;
+CC       Q7Z3Y8; P02538: KRT6A; NbExp=3; IntAct=EBI-3044087, EBI-702198;
+CC       Q7Z3Y8; P04259: KRT6B; NbExp=3; IntAct=EBI-3044087, EBI-740907;
+CC       Q7Z3Y8; P48668: KRT6C; NbExp=3; IntAct=EBI-3044087, EBI-2564105;
+CC       Q7Z3Y8; Q3SY84: KRT71; NbExp=3; IntAct=EBI-3044087, EBI-2952676;
+CC       Q7Z3Y8; Q14CN4: KRT72; NbExp=3; IntAct=EBI-3044087, EBI-1221280;
+CC       Q7Z3Y8; Q7RTS7: KRT74; NbExp=3; IntAct=EBI-3044087, EBI-968660;
+CC       Q7Z3Y8; O95678: KRT75; NbExp=3; IntAct=EBI-3044087, EBI-2949715;
+CC       Q7Z3Y8; Q01546: KRT76; NbExp=3; IntAct=EBI-3044087, EBI-2952745;
+CC       Q7Z3Y8; Q7Z794: KRT77; NbExp=3; IntAct=EBI-3044087, EBI-3045529;
+CC       Q7Z3Y8; Q8N1N4: KRT78; NbExp=3; IntAct=EBI-3044087, EBI-1056564;
+CC       Q7Z3Y8; Q5XKE5: KRT79; NbExp=4; IntAct=EBI-3044087, EBI-2514135;
+CC       Q7Z3Y8; P05787: KRT8; NbExp=3; IntAct=EBI-3044087, EBI-297852;
+CC       Q7Z3Y8; Q14533: KRT81; NbExp=3; IntAct=EBI-3044087, EBI-739648;
+CC       Q7Z3Y8; Q9NSB4: KRT82; NbExp=3; IntAct=EBI-3044087, EBI-1045341;
+CC       Q7Z3Y8; P78385: KRT83; NbExp=3; IntAct=EBI-3044087, EBI-10221390;
+CC       Q7Z3Y8; P78386: KRT85; NbExp=3; IntAct=EBI-3044087, EBI-1049371;
+CC       Q7Z3Y8; O43790: KRT86; NbExp=3; IntAct=EBI-3044087, EBI-9996498;
+CC       Q7Z3Y8; Q8TD35-2: LKAAEAR1; NbExp=3; IntAct=EBI-3044087, EBI-12159375;
+CC       Q7Z3Y8; Q8IXW0: LMNTD2; NbExp=3; IntAct=EBI-3044087, EBI-12028858;
+CC       Q7Z3Y8; P43243: MATR3; NbExp=3; IntAct=EBI-3044087, EBI-352602;
+CC       Q7Z3Y8; Q8NHZ7: MBD3L2; NbExp=3; IntAct=EBI-3044087, EBI-11989378;
+CC       Q7Z3Y8; Q8IVT4: MGC50722; NbExp=3; IntAct=EBI-3044087, EBI-14086479;
+CC       Q7Z3Y8; Q9UJV3-2: MID2; NbExp=3; IntAct=EBI-3044087, EBI-10172526;
+CC       Q7Z3Y8; Q8NDC4: MORN4; NbExp=3; IntAct=EBI-3044087, EBI-10269566;
+CC       Q7Z3Y8; P00540: MOS; NbExp=3; IntAct=EBI-3044087, EBI-1757866;
+CC       Q7Z3Y8; Q96QG7: MTMR9; NbExp=3; IntAct=EBI-3044087, EBI-744593;
+CC       Q7Z3Y8; O14777: NDC80; NbExp=3; IntAct=EBI-3044087, EBI-715849;
+CC       Q7Z3Y8; Q9BU61: NDUFAF3; NbExp=3; IntAct=EBI-3044087, EBI-2114801;
+CC       Q7Z3Y8; Q96HA8: NTAQ1; NbExp=3; IntAct=EBI-3044087, EBI-741158;
+CC       Q7Z3Y8; Q7Z3B4: NUP54; NbExp=3; IntAct=EBI-3044087, EBI-741048;
+CC       Q7Z3Y8; Q9BVL2: NUP58; NbExp=3; IntAct=EBI-3044087, EBI-2811583;
+CC       Q7Z3Y8; A5D8V7: ODAD3; NbExp=3; IntAct=EBI-3044087, EBI-8466445;
+CC       Q7Z3Y8; O43482: OIP5; NbExp=3; IntAct=EBI-3044087, EBI-536879;
+CC       Q7Z3Y8; Q96AL5: PBX3; NbExp=3; IntAct=EBI-3044087, EBI-741171;
+CC       Q7Z3Y8; Q9Y5E9: PCDHB14; NbExp=3; IntAct=EBI-3044087, EBI-10329013;
+CC       Q7Z3Y8; Q9H307: PNN; NbExp=3; IntAct=EBI-3044087, EBI-681904;
+CC       Q7Z3Y8; Q9UGP5-2: POLL; NbExp=3; IntAct=EBI-3044087, EBI-10320765;
+CC       Q7Z3Y8; Q6NYC8: PPP1R18; NbExp=3; IntAct=EBI-3044087, EBI-2557469;
+CC       Q7Z3Y8; P41219: PRPH; NbExp=3; IntAct=EBI-3044087, EBI-752074;
+CC       Q7Z3Y8; P62195: PSMC5; NbExp=3; IntAct=EBI-3044087, EBI-357745;
+CC       Q7Z3Y8; Q86YV0: RASAL3; NbExp=3; IntAct=EBI-3044087, EBI-3437896;
+CC       Q7Z3Y8; Q96IZ5: RBM41; NbExp=3; IntAct=EBI-3044087, EBI-740773;
+CC       Q7Z3Y8; Q9P2K3-2: RCOR3; NbExp=3; IntAct=EBI-3044087, EBI-1504830;
+CC       Q7Z3Y8; Q9H2S5: RNF39; NbExp=3; IntAct=EBI-3044087, EBI-12235180;
+CC       Q7Z3Y8; Q14D33: RTP5; NbExp=3; IntAct=EBI-3044087, EBI-10217913;
+CC       Q7Z3Y8; Q06455-2: RUNX1T1; NbExp=3; IntAct=EBI-3044087, EBI-11984663;
+CC       Q7Z3Y8; Q9BWG6: SCNM1; NbExp=3; IntAct=EBI-3044087, EBI-748391;
+CC       Q7Z3Y8; A6NFY7: SDHAF1; NbExp=3; IntAct=EBI-3044087, EBI-12011488;
+CC       Q7Z3Y8; Q9C0C4: SEMA4C; NbExp=3; IntAct=EBI-3044087, EBI-10303490;
+CC       Q7Z3Y8; Q96ES7: SGF29; NbExp=3; IntAct=EBI-3044087, EBI-743117;
+CC       Q7Z3Y8; O76082: SLC22A5; NbExp=3; IntAct=EBI-3044087, EBI-9846338;
+CC       Q7Z3Y8; Q9GZT3: SLIRP; NbExp=3; IntAct=EBI-3044087, EBI-1050793;
+CC       Q7Z3Y8; Q8TAQ2-2: SMARCC2; NbExp=3; IntAct=EBI-3044087, EBI-11990400;
+CC       Q7Z3Y8; Q96GM5: SMARCD1; NbExp=3; IntAct=EBI-3044087, EBI-358489;
+CC       Q7Z3Y8; Q969G3: SMARCE1; NbExp=3; IntAct=EBI-3044087, EBI-455078;
+CC       Q7Z3Y8; O95295: SNAPIN; NbExp=3; IntAct=EBI-3044087, EBI-296723;
+CC       Q7Z3Y8; A1L4H1: SSC5D; NbExp=3; IntAct=EBI-3044087, EBI-10172867;
+CC       Q7Z3Y8; Q99909: SSX3; NbExp=3; IntAct=EBI-3044087, EBI-10295431;
+CC       Q7Z3Y8; Q9UMX1: SUFU; NbExp=3; IntAct=EBI-3044087, EBI-740595;
+CC       Q7Z3Y8; P51687: SUOX; NbExp=3; IntAct=EBI-3044087, EBI-3921347;
+CC       Q7Z3Y8; Q969Z0: TBRG4; NbExp=3; IntAct=EBI-3044087, EBI-702328;
+CC       Q7Z3Y8; Q15561: TEAD4; NbExp=3; IntAct=EBI-3044087, EBI-747736;
+CC       Q7Z3Y8; Q7L2K0: TEDC2; NbExp=3; IntAct=EBI-3044087, EBI-8465456;
+CC       Q7Z3Y8; O15482: TEX28P2; NbExp=3; IntAct=EBI-3044087, EBI-751954;
+CC       Q7Z3Y8; Q9BT49: THAP7; NbExp=3; IntAct=EBI-3044087, EBI-741350;
+CC       Q7Z3Y8; P13805-3: TNNT1; NbExp=3; IntAct=EBI-3044087, EBI-12151635;
+CC       Q7Z3Y8; Q9Y228: TRAF3IP3; NbExp=3; IntAct=EBI-3044087, EBI-765817;
+CC       Q7Z3Y8; Q8N7C3: TRIML2; NbExp=3; IntAct=EBI-3044087, EBI-11059915;
+CC       Q7Z3Y8; Q9UJT2: TSKS; NbExp=3; IntAct=EBI-3044087, EBI-852101;
+CC       Q7Z3Y8; Q5W5X9-3: TTC23; NbExp=3; IntAct=EBI-3044087, EBI-9090990;
+CC       Q7Z3Y8; P40222: TXLNA; NbExp=3; IntAct=EBI-3044087, EBI-359793;
+CC       Q7Z3Y8; Q8N3L3: TXLNB; NbExp=3; IntAct=EBI-3044087, EBI-6116822;
+CC       Q7Z3Y8; Q99757: TXN2; NbExp=3; IntAct=EBI-3044087, EBI-2932492;
+CC       Q7Z3Y8; Q8N6Y0: USHBP1; NbExp=3; IntAct=EBI-3044087, EBI-739895;
+CC       Q7Z3Y8; O75604: USP2; NbExp=3; IntAct=EBI-3044087, EBI-743272;
+CC       Q7Z3Y8; A5D8V6: VPS37C; NbExp=3; IntAct=EBI-3044087, EBI-2559305;
+CC       Q7Z3Y8; Q9Y3C0: WASHC3; NbExp=3; IntAct=EBI-3044087, EBI-712969;
+CC       Q7Z3Y8; Q13426: XRCC4; NbExp=3; IntAct=EBI-3044087, EBI-717592;
+CC       Q7Z3Y8; Q6PJT7-6: ZC3H14; NbExp=3; IntAct=EBI-3044087, EBI-12147703;
+CC       Q7Z3Y8; Q68DK2-5: ZFYVE26; NbExp=3; IntAct=EBI-3044087, EBI-8656416;
+CC       Q7Z3Y8; P17036: ZNF3; NbExp=3; IntAct=EBI-3044087, EBI-1640965;
+CC       Q7Z3Y8; Q9UK33: ZNF580; NbExp=3; IntAct=EBI-3044087, EBI-746277;
+CC       Q7Z3Y8; Q9P0T4: ZNF581; NbExp=3; IntAct=EBI-3044087, EBI-745520;
+CC       Q7Z3Y8; Q96BR6: ZNF669; NbExp=3; IntAct=EBI-3044087, EBI-12006574;
+CC       Q7Z3Y8; P51504: ZNF80; NbExp=3; IntAct=EBI-3044087, EBI-12013828;
+CC       Q7Z3Y8; Q6ZN96; NbExp=3; IntAct=EBI-3044087, EBI-10255097;
+CC       Q7Z3Y8; PRO_0000449633 [P0DTD1]: rep; Xeno; NbExp=3; IntAct=EBI-3044087, EBI-25492395;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q9Z320}.
+CC   -!- TISSUE SPECIFICITY: Strongly expressed in skin and scalp. In the hair
+CC       follicle, expressed in Henle layer, Huxley layer and in the inner root
+CC       sheath cuticle of the hair follicle. Expression extends from the bulb
+CC       region up to the point of differentiation into the three layers. Also
+CC       present in the medulla of beard hair (at protein level).
+CC       {ECO:0000269|PubMed:15617563, ECO:0000269|PubMed:16874310}.
+CC   -!- MISCELLANEOUS: There are two types of cytoskeletal and microfibrillar
+CC       keratin: I (acidic; 40-55 kDa) and II (neutral to basic; 56-70 kDa).
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ564206; CAD91906.1; -; mRNA.
+DR   EMBL; AC090283; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS11375.1; -.
+DR   RefSeq; NP_853515.2; NM_181537.3.
+DR   AlphaFoldDB; Q7Z3Y8; -.
+DR   SMR; Q7Z3Y8; -.
+DR   BioGRID; 131185; 206.
+DR   IntAct; Q7Z3Y8; 143.
+DR   STRING; 9606.ENSP00000301656; -.
+DR   iPTMnet; Q7Z3Y8; -.
+DR   PhosphoSitePlus; Q7Z3Y8; -.
+DR   SwissPalm; Q7Z3Y8; -.
+DR   BioMuta; KRT27; -.
+DR   DMDM; 296434549; -.
+DR   jPOST; Q7Z3Y8; -.
+DR   MassIVE; Q7Z3Y8; -.
+DR   PaxDb; Q7Z3Y8; -.
+DR   PeptideAtlas; Q7Z3Y8; -.
+DR   ProteomicsDB; 69096; -.
+DR   TopDownProteomics; Q7Z3Y8; -.
+DR   Antibodypedia; 55223; 13 antibodies from 10 providers.
+DR   DNASU; 342574; -.
+DR   Ensembl; ENST00000301656.4; ENSP00000301656.3; ENSG00000171446.7.
+DR   GeneID; 342574; -.
+DR   KEGG; hsa:342574; -.
+DR   MANE-Select; ENST00000301656.4; ENSP00000301656.3; NM_181537.4; NP_853515.2.
+DR   UCSC; uc002hvg.3; human.
+DR   AGR; HGNC:30841; -.
+DR   CTD; 342574; -.
+DR   GeneCards; KRT27; -.
+DR   HGNC; HGNC:30841; KRT27.
+DR   HPA; ENSG00000171446; Tissue enriched (skin).
+DR   MIM; 616676; gene.
+DR   neXtProt; NX_Q7Z3Y8; -.
+DR   OpenTargets; ENSG00000171446; -.
+DR   PharmGKB; PA134990976; -.
+DR   VEuPathDB; HostDB:ENSG00000171446; -.
+DR   eggNOG; ENOG502SIHJ; Eukaryota.
+DR   GeneTree; ENSGT00940000161982; -.
+DR   HOGENOM; CLU_012560_8_3_1; -.
+DR   InParanoid; Q7Z3Y8; -.
+DR   OMA; SRVHTME; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; Q7Z3Y8; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; Q7Z3Y8; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; Q7Z3Y8; -.
+DR   BioGRID-ORCS; 342574; 12 hits in 1147 CRISPR screens.
+DR   GenomeRNAi; 342574; -.
+DR   Pharos; Q7Z3Y8; Tdark.
+DR   PRO; PR:Q7Z3Y8; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q7Z3Y8; protein.
+DR   Bgee; ENSG00000171446; Expressed in upper arm skin and 80 other tissues.
+DR   Genevisible; Q7Z3Y8; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005882; C:intermediate filament; IEA:UniProtKB-KW.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0030855; P:epithelial cell differentiation; IBA:GO_Central.
+DR   GO; GO:0031069; P:hair follicle morphogenesis; IBA:GO_Central.
+DR   GO; GO:0045109; P:intermediate filament organization; IBA:GO_Central.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF120; KERATIN, TYPE I CYTOSKELETAL 27; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   SUPFAM; SSF90257; Myosin rod fragments; 1.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil; Cytoplasm; Intermediate filament; Keratin; Reference proteome.
+FT   CHAIN           1..459
+FT                   /note="Keratin, type I cytoskeletal 27"
+FT                   /id="PRO_0000312701"
+FT   DOMAIN          84..399
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          1..83
+FT                   /note="Head"
+FT                   /evidence="ECO:0000255"
+FT   REGION          84..119
+FT                   /note="Coil 1A"
+FT                   /evidence="ECO:0000255"
+FT   REGION          120..141
+FT                   /note="Linker 1"
+FT                   /evidence="ECO:0000255"
+FT   REGION          142..233
+FT                   /note="Coil 1B"
+FT                   /evidence="ECO:0000255"
+FT   REGION          234..256
+FT                   /note="Linker 12"
+FT                   /evidence="ECO:0000255"
+FT   REGION          257..395
+FT                   /note="Coil 2"
+FT                   /evidence="ECO:0000255"
+FT   REGION          396..459
+FT                   /note="Tail"
+FT                   /evidence="ECO:0000255"
+FT   REGION          436..459
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        436..451
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VARIANT         52
+FT                   /note="S -> T (in dbSNP:rs2469826)"
+FT                   /evidence="ECO:0000269|PubMed:15617563"
+FT                   /id="VAR_063138"
+FT   VARIANT         144
+FT                   /note="E -> K (in dbSNP:rs12453124)"
+FT                   /evidence="ECO:0000269|PubMed:15617563"
+FT                   /id="VAR_063139"
+FT   VARIANT         193
+FT                   /note="G -> S (in dbSNP:rs17558560)"
+FT                   /id="VAR_056007"
+FT   VARIANT         284
+FT                   /note="A -> T (in dbSNP:rs17558532)"
+FT                   /id="VAR_056008"
+FT   VARIANT         305
+FT                   /note="I -> T (in dbSNP:rs981684)"
+FT                   /evidence="ECO:0000269|PubMed:15617563"
+FT                   /id="VAR_063140"
+SQ   SEQUENCE   459 AA;  49822 MW;  F5DD71FE7FEFFF62 CRC64;
+     MSVRFSSTSR RLGSCGGTGS VRLSSGGAGF GAGNTCGVPG IGSGFSCAFG GSSSAGGYGG
+     GLGGGSASCA AFTGNEHGLL SGNEKVTMQN LNDRLASYLE NVRALEEANA DLEQKIKGWY
+     EKFGPGSCRG LDHDYSRYFP IIDELKNQII SATTSNAHVV LQNDNARLTA DDFRLKFENE
+     LALHQSVEAD INGLRRVLDE LTLCRTDLEI QLETLSEELA YLKKNHEEEM KALQCAAGGN
+     VNVEMNAAPG VDLTVLLNNM RAEYEALAEQ NRRDAEAWFN EKSASLQQQI SDDAGATTSA
+     RNELIEMKRT LQTLEIELQS LLATKHSLEC SLTETESNYC AQLAQIQAQI GALEEQLHQV
+     RTETEGQKLE YEQLLDIKVH LEKEIETYCL LIDGEDGSCS KSKGYGGPGN QTKDSSKTTI
+     VKTVVEEIDP RGKVLSSRVH TVEEKSTKVN NKNEQRVSS
+//

@@ -1,0 +1,431 @@
+ID   TDT_HUMAN               Reviewed;         509 AA.
+AC   P04053; Q53FH1; Q5W103; Q96E50;
+DT   01-NOV-1986, integrated into UniProtKB/Swiss-Prot.
+DT   02-NOV-2010, sequence version 3.
+DT   28-JUN-2023, entry version 219.
+DE   RecName: Full=DNA nucleotidylexotransferase;
+DE            EC=2.7.7.31 {ECO:0000269|PubMed:11473582, ECO:0000269|PubMed:16371131, ECO:0000269|PubMed:8163485};
+DE   AltName: Full=Terminal addition enzyme;
+DE   AltName: Full=Terminal deoxynucleotidyltransferase;
+DE            Short=Terminal transferase {ECO:0000303|PubMed:11473582};
+GN   Name=DNTT; Synonyms=TDT {ECO:0000303|PubMed:11473582};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), AND VARIANT GLY-112.
+RX   PubMed=2863268; DOI=10.1016/s0021-9258(19)85111-6;
+RA   Peterson R.C., Cheung L.C., Mattaliano R.J., White S.T., Chang L.M.S.,
+RA   Bollum F.J.;
+RT   "Expression of human terminal deoxynucleotidyl transferase in Escherichia
+RT   coli.";
+RL   J. Biol. Chem. 260:10495-10502(1985).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT GLY-112.
+RX   PubMed=2833741; DOI=10.1073/pnas.85.8.2489;
+RA   Riley L.K., Morrow J.K., Danton M.J., Coleman M.S.;
+RT   "Human terminal deoxyribonucleotidyltransferase: molecular cloning and
+RT   structural analysis of the gene and 5' flanking region.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:2489-2493(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT GLY-112.
+RX   PubMed=11554927; DOI=10.1046/j.1365-2443.2001.00460.x;
+RA   Ibe S., Fujita K., Toyomoto T., Shimazaki N., Kaneko R., Tanabe A.,
+RA   Takebe I., Kuroda S., Kobayashi T., Toji S., Tamai K., Yamamoto H.,
+RA   Koiwai O.;
+RT   "Terminal deoxynucleotidyltransferase is negatively regulated by direct
+RT   interaction with proliferating cell nuclear antigen.";
+RL   Genes Cells 6:815-824(2001).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT GLY-112.
+RC   TISSUE=Thymus;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT GLY-112.
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-67.
+RX   PubMed=3395350; DOI=10.1016/0006-291x(88)90654-7;
+RA   Koiwai O., Morita A.;
+RT   "Isolation of putative promoter region for human terminal
+RT   deoxynucleotidyltransferase gene.";
+RL   Biochem. Biophys. Res. Commun. 154:91-100(1988).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 271-508 (ISOFORM 2).
+RX   PubMed=6087320; DOI=10.1073/pnas.81.14.4363;
+RA   Peterson R.C., Cheung L.C., Mattaliano R.J., Chang L.M.S., Bollum F.J.;
+RT   "Molecular cloning of human terminal deoxynucleotidyltransferase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81:4363-4367(1984).
+RN   [9]
+RP   MUTAGENESIS OF ASP-343, AND CATALYTIC ACTIVITY.
+RX   PubMed=8163485; DOI=10.1016/s0021-9258(17)32652-2;
+RA   Yang B., Gathy K.N., Coleman M.S.;
+RT   "Mutational analysis of residues in the nucleotide binding domain of human
+RT   terminal deoxynucleotidyl transferase.";
+RL   J. Biol. Chem. 269:11859-11868(1994).
+RN   [10]
+RP   INTERACTION WITH DNTTIP1, CATALYTIC ACTIVITY, AND COFACTOR.
+RC   TISSUE=Thymus;
+RX   PubMed=11473582; DOI=10.1046/j.1365-2443.2001.00449.x;
+RA   Yamashita N., Shimazaki N., Ibe S., Kaneko R., Tanabe A., Toyomoto T.,
+RA   Fujita K., Hasegawa T., Toji S., Tamai K., Yamamoto H., Koiwai O.;
+RT   "Terminal deoxynucleotidyltransferase directly interacts with a novel
+RT   nuclear protein that is homologous to p65.";
+RL   Genes Cells 6:641-652(2001).
+RN   [11]
+RP   INTERACTION WITH DNTTIP2 AND CORE HISTONE.
+RX   PubMed=12786946; DOI=10.1046/j.1365-2443.2003.00656.x;
+RA   Fujita K., Shimazaki N., Ohta Y., Kubota T., Ibe S., Toji S., Tamai K.,
+RA   Fujisaki S., Hayano T., Koiwai O.;
+RT   "Terminal deoxynucleotidyltransferase forms a ternary complex with a novel
+RT   chromatin remodeling protein with 82 kDa and core histone.";
+RL   Genes Cells 8:559-571(2003).
+RN   [12]
+RP   INTERACTION WITH PRP19.
+RX   PubMed=12960389; DOI=10.1073/pnas.1631060100;
+RA   Mahajan K.N., Mitchell B.S.;
+RT   "Role of human Pso4 in mammalian DNA repair and association with terminal
+RT   deoxynucleotidyl transferase.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:10746-10751(2003).
+RN   [13]
+RP   INTERACTION WITH DNTTIP1 AND TRERF1, SUBCELLULAR LOCATION, AND CATALYTIC
+RP   ACTIVITY.
+RX   PubMed=16371131; DOI=10.1111/j.1365-2443.2005.00916.x;
+RA   Fujisaki S., Sato A., Toyomoto T., Hayano T., Sugai M., Kubota T.,
+RA   Koiwai O.;
+RT   "Direct binding of TReP-132 with TdT results in reduction of TdT
+RT   activity.";
+RL   Genes Cells 11:47-57(2006).
+RN   [14]
+RP   STRUCTURE BY NMR OF 19-125.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of BRCT domain of terminal
+RT   deoxynucleotidyltransferase.";
+RL   Submitted (NOV-2005) to the PDB data bank.
+CC   -!- FUNCTION: Template-independent DNA polymerase which catalyzes the
+CC       random addition of deoxynucleoside 5'-triphosphate to the 3'-end of a
+CC       DNA initiator. One of the in vivo functions of this enzyme is the
+CC       addition of nucleotides at the junction (N region) of rearranged Ig
+CC       heavy chain and T-cell receptor gene segments during the maturation of
+CC       B- and T-cells. {ECO:0000250|UniProtKB:P09838}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a 2'-deoxyribonucleoside 5'-triphosphate + DNA(n) =
+CC         diphosphate + DNA(n+1); Xref=Rhea:RHEA:22508, Rhea:RHEA-COMP:17339,
+CC         Rhea:RHEA-COMP:17340, ChEBI:CHEBI:33019, ChEBI:CHEBI:61560,
+CC         ChEBI:CHEBI:173112; EC=2.7.7.31;
+CC         Evidence={ECO:0000269|PubMed:11473582, ECO:0000269|PubMed:16371131,
+CC         ECO:0000269|PubMed:8163485};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000305|PubMed:11473582};
+CC       Note=Can also utilize other divalent cations, such as Mn(2+) and Co(2+)
+CC       (in vitro). {ECO:0000250|UniProtKB:P09838, ECO:0000305};
+CC   -!- SUBUNIT: Interacts with PRP19 and DNTTIP1. Forms a ternary complex with
+CC       DNTTIP2 and core histone. Released from this complex by PCNA. Interacts
+CC       with TRERF1 (PubMed:16371131). {ECO:0000269|PubMed:11473582,
+CC       ECO:0000269|PubMed:12786946, ECO:0000269|PubMed:12960389,
+CC       ECO:0000269|PubMed:16371131}.
+CC   -!- INTERACTION:
+CC       P04053; A8MW99: MEI4; NbExp=3; IntAct=EBI-1220259, EBI-19944212;
+CC       P04053; Q04864: REL; NbExp=3; IntAct=EBI-1220259, EBI-307352;
+CC       P04053; P15884-3: TCF4; NbExp=3; IntAct=EBI-1220259, EBI-13636688;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:16371131}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P04053-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P04053-2; Sequence=VSP_038397;
+CC   -!- SIMILARITY: Belongs to the DNA polymerase type-X family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M11722; AAA36726.1; -; mRNA.
+DR   EMBL; M20703; AAA53100.1; -; mRNA.
+DR   EMBL; M22968; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20694; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20695; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20696; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20697; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20698; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20699; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20700; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20701; AAA53100.1; JOINED; mRNA.
+DR   EMBL; M20702; AAA53100.1; JOINED; mRNA.
+DR   EMBL; AB046378; BAB72001.1; -; mRNA.
+DR   EMBL; AK223317; BAD97037.1; -; mRNA.
+DR   EMBL; AL136181; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC012920; AAH12920.1; -; mRNA.
+DR   EMBL; M21195; AAA61137.1; -; Genomic_DNA.
+DR   EMBL; K01919; AAA61136.1; -; mRNA.
+DR   CCDS; CCDS44465.1; -. [P04053-2]
+DR   CCDS; CCDS7447.1; -. [P04053-1]
+DR   PIR; A23924; WXHU.
+DR   RefSeq; NP_001017520.1; NM_001017520.1. [P04053-2]
+DR   RefSeq; NP_004079.3; NM_004088.3. [P04053-1]
+DR   PDB; 2COE; NMR; -; A=19-125.
+DR   PDB; 5W4E; X-ray; 2.18 A; A/D=7-22.
+DR   PDBsum; 2COE; -.
+DR   PDBsum; 5W4E; -.
+DR   AlphaFoldDB; P04053; -.
+DR   SMR; P04053; -.
+DR   BioGRID; 108127; 13.
+DR   CORUM; P04053; -.
+DR   IntAct; P04053; 6.
+DR   STRING; 9606.ENSP00000360216; -.
+DR   BindingDB; P04053; -.
+DR   ChEMBL; CHEMBL4810; -.
+DR   DrugBank; DB02189; 2',3'-Dideoxyadenosine triphosphate.
+DR   GlyGen; P04053; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P04053; -.
+DR   PhosphoSitePlus; P04053; -.
+DR   BioMuta; DNTT; -.
+DR   DMDM; 311033533; -.
+DR   jPOST; P04053; -.
+DR   MassIVE; P04053; -.
+DR   MaxQB; P04053; -.
+DR   PaxDb; P04053; -.
+DR   PeptideAtlas; P04053; -.
+DR   ProteomicsDB; 51639; -. [P04053-1]
+DR   ProteomicsDB; 51640; -. [P04053-2]
+DR   Antibodypedia; 16924; 661 antibodies from 40 providers.
+DR   DNASU; 1791; -.
+DR   Ensembl; ENST00000371174.5; ENSP00000360216.2; ENSG00000107447.8. [P04053-1]
+DR   Ensembl; ENST00000630152.1; ENSP00000486733.1; ENSG00000107447.8. [P04053-2]
+DR   GeneID; 1791; -.
+DR   KEGG; hsa:1791; -.
+DR   MANE-Select; ENST00000371174.5; ENSP00000360216.2; NM_004088.4; NP_004079.3.
+DR   UCSC; uc001kmf.4; human. [P04053-1]
+DR   AGR; HGNC:2983; -.
+DR   CTD; 1791; -.
+DR   DisGeNET; 1791; -.
+DR   GeneCards; DNTT; -.
+DR   HGNC; HGNC:2983; DNTT.
+DR   HPA; ENSG00000107447; Tissue enriched (lymphoid).
+DR   MIM; 187410; gene.
+DR   neXtProt; NX_P04053; -.
+DR   OpenTargets; ENSG00000107447; -.
+DR   PharmGKB; PA27449; -.
+DR   VEuPathDB; HostDB:ENSG00000107447; -.
+DR   eggNOG; KOG2534; Eukaryota.
+DR   GeneTree; ENSGT00940000158584; -.
+DR   HOGENOM; CLU_008698_0_0_1; -.
+DR   InParanoid; P04053; -.
+DR   OMA; PKVINLW; -.
+DR   OrthoDB; 3019669at2759; -.
+DR   PhylomeDB; P04053; -.
+DR   TreeFam; TF103012; -.
+DR   BRENDA; 2.7.7.31; 2681.
+DR   PathwayCommons; P04053; -.
+DR   SABIO-RK; P04053; -.
+DR   SignaLink; P04053; -.
+DR   BioGRID-ORCS; 1791; 14 hits in 1149 CRISPR screens.
+DR   ChiTaRS; DNTT; human.
+DR   EvolutionaryTrace; P04053; -.
+DR   GeneWiki; Terminal_deoxynucleotidyl_transferase; -.
+DR   GenomeRNAi; 1791; -.
+DR   Pharos; P04053; Tchem.
+DR   PRO; PR:P04053; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; P04053; protein.
+DR   Bgee; ENSG00000107447; Expressed in thymus and 28 other tissues.
+DR   Genevisible; P04053; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0003912; F:DNA nucleotidylexotransferase activity; IDA:UniProtKB.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006259; P:DNA metabolic process; IDA:UniProtKB.
+DR   GO; GO:0006304; P:DNA modification; IEA:UniProtKB-KW.
+DR   GO; GO:0006303; P:double-strand break repair via nonhomologous end joining; IBA:GO_Central.
+DR   CDD; cd18443; BRCT_DNTT; 1.
+DR   CDD; cd00141; NT_POLXc; 1.
+DR   Gene3D; 1.10.150.20; 5' to 3' exonuclease, C-terminal subdomain; 1.
+DR   Gene3D; 3.30.460.10; Beta Polymerase, domain 2; 1.
+DR   Gene3D; 3.40.50.10190; BRCT domain; 1.
+DR   Gene3D; 1.10.150.110; DNA polymerase beta, N-terminal domain-like; 1.
+DR   Gene3D; 3.30.210.10; DNA polymerase, thumb domain; 1.
+DR   InterPro; IPR001357; BRCT_dom.
+DR   InterPro; IPR036420; BRCT_dom_sf.
+DR   InterPro; IPR002054; DNA-dir_DNA_pol_X.
+DR   InterPro; IPR019843; DNA_pol-X_BS.
+DR   InterPro; IPR010996; DNA_pol_b-like_N.
+DR   InterPro; IPR028207; DNA_pol_B_palm_palm.
+DR   InterPro; IPR018944; DNA_pol_lambd_fingers_domain.
+DR   InterPro; IPR027421; DNA_pol_lamdba_lyase_dom_sf.
+DR   InterPro; IPR037160; DNA_Pol_thumb_sf.
+DR   InterPro; IPR022312; DNA_pol_X.
+DR   InterPro; IPR043519; NT_sf.
+DR   InterPro; IPR029398; PolB_thumb.
+DR   InterPro; IPR027292; TdT.
+DR   InterPro; IPR001726; TdT/Mu.
+DR   PANTHER; PTHR11276:SF21; DNA NUCLEOTIDYLEXOTRANSFERASE; 1.
+DR   PANTHER; PTHR11276; DNA POLYMERASE TYPE-X FAMILY MEMBER; 1.
+DR   Pfam; PF00533; BRCT; 1.
+DR   Pfam; PF14792; DNA_pol_B_palm; 1.
+DR   Pfam; PF14791; DNA_pol_B_thumb; 1.
+DR   Pfam; PF10391; DNA_pol_lambd_f; 1.
+DR   Pfam; PF14716; HHH_8; 1.
+DR   PIRSF; PIRSF000817; DNA_NT; 1.
+DR   PIRSF; PIRSF501175; TDT; 1.
+DR   PRINTS; PR00869; DNAPOLX.
+DR   PRINTS; PR00871; DNAPOLXTDT.
+DR   SMART; SM00292; BRCT; 1.
+DR   SMART; SM00483; POLXc; 1.
+DR   SUPFAM; SSF52113; BRCT domain; 1.
+DR   SUPFAM; SSF47802; DNA polymerase beta, N-terminal domain-like; 1.
+DR   SUPFAM; SSF81301; Nucleotidyltransferase; 1.
+DR   SUPFAM; SSF81585; PsbU/PolX domain-like; 1.
+DR   PROSITE; PS50172; BRCT; 1.
+DR   PROSITE; PS00522; DNA_POLYMERASE_X; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Magnesium; Metal-binding;
+KW   Nucleotidyltransferase; Nucleus; Phosphoprotein; Reference proteome;
+KW   Terminal addition; Transferase.
+FT   CHAIN           1..509
+FT                   /note="DNA nucleotidylexotransferase"
+FT                   /id="PRO_0000218791"
+FT   DOMAIN          27..124
+FT                   /note="BRCT"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00033"
+FT   REGION          1..24
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          151..509
+FT                   /note="Mediates interaction with DNTTIP2"
+FT                   /evidence="ECO:0000269|PubMed:12786946"
+FT   REGION          258..262
+FT                   /note="Involved in DNA binding"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   MOTIF           11..17
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000250|UniProtKB:P06526"
+FT   BINDING         333..338
+FT                   /ligand="a 2'-deoxyribonucleoside 5'-triphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:61560"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   BINDING         342..345
+FT                   /ligand="a 2'-deoxyribonucleoside 5'-triphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:61560"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   BINDING         343
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   BINDING         345
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   BINDING         433
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   BINDING         448..449
+FT                   /ligand="a 2'-deoxyribonucleoside 5'-triphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:61560"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   MOD_RES         134
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P09838"
+FT   VAR_SEQ         454
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:2863268,
+FT                   ECO:0000303|PubMed:6087320"
+FT                   /id="VSP_038397"
+FT   VARIANT         112
+FT                   /note="R -> G (in dbSNP:rs6584066)"
+FT                   /evidence="ECO:0000269|PubMed:11554927,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:2833741,
+FT                   ECO:0000269|PubMed:2863268, ECO:0000269|Ref.4"
+FT                   /id="VAR_058200"
+FT   MUTAGEN         343
+FT                   /note="D->E: Nearly abolishes enzyme activity."
+FT                   /evidence="ECO:0000269|PubMed:8163485"
+FT   CONFLICT        51
+FT                   /note="F -> L (in Ref. 4; BAD97037)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        299
+FT                   /note="L -> P (in Ref. 4; BAD97037)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        329
+FT                   /note="T -> A (in Ref. 4; BAD97037)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        383
+FT                   /note="T -> A (in Ref. 4; BAD97037)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        389
+FT                   /note="L -> M (in Ref. 4; BAD97037)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        452
+FT                   /note="S -> SP (in Ref. 2; AAA53100)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          23..25
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   STRAND          36..40
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   TURN            42..44
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   HELIX           46..58
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   STRAND          73..78
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   HELIX           81..90
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   STRAND          100..103
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   HELIX           104..112
+FT                   /evidence="ECO:0007829|PDB:2COE"
+FT   STRAND          120..124
+FT                   /evidence="ECO:0007829|PDB:2COE"
+SQ   SEQUENCE   509 AA;  58536 MW;  0EC01E380FA7E5A2 CRC64;
+     MDPPRASHLS PRKKRPRQTG ALMASSPQDI KFQDLVVFIL EKKMGTTRRA FLMELARRKG
+     FRVENELSDS VTHIVAENNS GSDVLEWLQA QKVQVSSQPE LLDVSWLIEC IRAGKPVEMT
+     GKHQLVVRRD YSDSTNPGPP KTPPIAVQKI SQYACQRRTT LNNCNQIFTD AFDILAENCE
+     FRENEDSCVT FMRAASVLKS LPFTIISMKD TEGIPCLGSK VKGIIEEIIE DGESSEVKAV
+     LNDERYQSFK LFTSVFGVGL KTSEKWFRMG FRTLSKVRSD KSLKFTRMQK AGFLYYEDLV
+     SCVTRAEAEA VSVLVKEAVW AFLPDAFVTM TGGFRRGKKM GHDVDFLITS PGSTEDEEQL
+     LQKVMNLWEK KGLLLYYDLV ESTFEKLRLP SRKVDALDHF QKCFLIFKLP RQRVDSDQSS
+     WQEGKTWKAI RVDLVLCPYE RRAFALLGWT GSRQFERDLR RYATHERKMI LDNHALYDKT
+     KRIFLKAESE EEIFAHLGLD YIEPWERNA
+//

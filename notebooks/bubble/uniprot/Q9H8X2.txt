@@ -1,0 +1,268 @@
+ID   IPPK_HUMAN              Reviewed;         491 AA.
+AC   Q9H8X2; Q5T9F7; Q9H7V8;
+DT   06-DEC-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   28-JUN-2023, entry version 164.
+DE   RecName: Full=Inositol-pentakisphosphate 2-kinase;
+DE            EC=2.7.1.158;
+DE   AltName: Full=IPK1 homolog;
+DE   AltName: Full=Inositol-1,3,4,5,6-pentakisphosphate 2-kinase;
+DE   AltName: Full=Ins(1,3,4,5,6)P5 2-kinase;
+DE            Short=InsP5 2-kinase;
+GN   Name=IPPK; Synonyms=C9orf12;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, ENZYME ACTIVITY, BIOPHYSICOCHEMICAL
+RP   PROPERTIES, AND TISSUE SPECIFICITY.
+RX   PubMed=12084730; DOI=10.1074/jbc.m205682200;
+RA   Verbsky J.W., Wilson M.P., Kisseleva M.V., Majerus P.W., Wente S.R.;
+RT   "The synthesis of inositol hexakisphosphate. Characterization of human
+RT   inositol 1,3,4,5,6-pentakisphosphate 2-kinase.";
+RL   J. Biol. Chem. 277:31857-31862(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Spinal cord;
+RA   Hulme D.J., Dawkins J.L., Nicholson G.A.;
+RT   "Characterization of a novel gene, C9orf12, and exclusion as the gene
+RT   causing hereditary sensory neuropathy type I by mutation analysis.";
+RL   Submitted (FEB-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164053; DOI=10.1038/nature02465;
+RA   Humphray S.J., Oliver K., Hunt A.R., Plumb R.W., Loveland J.E., Howe K.L.,
+RA   Andrews T.D., Searle S., Hunt S.E., Scott C.E., Jones M.C., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Ashwell R.I.S., Babbage A.K., Babbage S.,
+RA   Bagguley C.L., Bailey J., Banerjee R., Barker D.J., Barlow K.F., Bates K.,
+RA   Beasley H., Beasley O., Bird C.P., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D., Burrill W., Burton J., Carder C., Carter N.P., Chapman J.C.,
+RA   Chen Y., Clarke G., Clark S.Y., Clee C.M., Clegg S., Collier R.E.,
+RA   Corby N., Crosier M., Cummings A.T., Davies J., Dhami P., Dunn M.,
+RA   Dutta I., Dyer L.W., Earthrowl M.E., Faulkner L., Fleming C.J.,
+RA   Frankish A., Frankland J.A., French L., Fricker D.G., Garner P.,
+RA   Garnett J., Ghori J., Gilbert J.G.R., Glison C., Grafham D.V., Gribble S.,
+RA   Griffiths C., Griffiths-Jones S., Grocock R., Guy J., Hall R.E.,
+RA   Hammond S., Harley J.L., Harrison E.S.I., Hart E.A., Heath P.D.,
+RA   Henderson C.D., Hopkins B.L., Howard P.J., Howden P.J., Huckle E.,
+RA   Johnson C., Johnson D., Joy A.A., Kay M., Keenan S., Kershaw J.K.,
+RA   Kimberley A.M., King A., Knights A., Laird G.K., Langford C., Lawlor S.,
+RA   Leongamornlert D.A., Leversha M., Lloyd C., Lloyd D.M., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., Matthews L., McLaren S., McLay K.E.,
+RA   McMurray A., Milne S., Nickerson T., Nisbett J., Nordsiek G., Pearce A.V.,
+RA   Peck A.I., Porter K.M., Pandian R., Pelan S., Phillimore B., Povey S.,
+RA   Ramsey Y., Rand V., Scharfe M., Sehra H.K., Shownkeen R., Sims S.K.,
+RA   Skuce C.D., Smith M., Steward C.A., Swarbreck D., Sycamore N., Tester J.,
+RA   Thorpe A., Tracey A., Tromans A., Thomas D.W., Wall M., Wallis J.M.,
+RA   West A.P., Whitehead S.L., Willey D.L., Williams S.A., Wilming L.,
+RA   Wray P.W., Young L., Ashurst J.L., Coulson A., Blocker H., Durbin R.M.,
+RA   Sulston J.E., Hubbard T., Jackson M.J., Bentley D.R., Beck S., Rogers J.,
+RA   Dunham I.;
+RT   "DNA sequence and analysis of human chromosome 9.";
+RL   Nature 429:369-374(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=15967797; DOI=10.1074/jbc.m503366200;
+RA   Verbsky J., Majerus P.W.;
+RT   "Increased levels of inositol hexakisphosphate (InsP6) protect HEK293 cells
+RT   from tumor necrosis factor (alpha)- and Fas-induced apoptosis.";
+RL   J. Biol. Chem. 280:29263-29268(2005).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-282, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+CC   -!- FUNCTION: Phosphorylates Ins(1,3,4,5,6)P5 at position 2 to form
+CC       Ins(1,2,3,4,5,6)P6 (InsP6 or phytate). InsP6 is involved in many
+CC       processes such as mRNA export, non-homologous end-joining, endocytosis,
+CC       ion channel regulation. It also protects cells from TNF-alpha-induced
+CC       apoptosis. {ECO:0000269|PubMed:12084730, ECO:0000269|PubMed:15967797}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=1D-myo-inositol 1,3,4,5,6-pentakisphosphate + ATP = 1D-myo-
+CC         inositol hexakisphosphate + ADP + H(+); Xref=Rhea:RHEA:20313,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:30616, ChEBI:CHEBI:57733,
+CC         ChEBI:CHEBI:58130, ChEBI:CHEBI:456216; EC=2.7.1.158;
+CC         Evidence={ECO:0000269|PubMed:12084730};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.43 uM for Ins(1,3,4,5,6)P5 {ECO:0000269|PubMed:12084730};
+CC         KM=21 uM for ATP {ECO:0000269|PubMed:12084730};
+CC         Vmax=31 nmol/min/mg enzyme {ECO:0000269|PubMed:12084730};
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Nucleus {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed, with high expression in
+CC       heart, brain, testis and placenta. {ECO:0000269|PubMed:12084730}.
+CC   -!- DOMAIN: The EXKPK motif is conserved in inositol-pentakisphosphate 2-
+CC       kinases of both family 1 and 2.
+CC   -!- SIMILARITY: Belongs to the IPK1 type 2 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB14866.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF520811; AAM75353.1; -; mRNA.
+DR   EMBL; AF351202; AAK69692.1; -; mRNA.
+DR   EMBL; AK023225; BAB14476.1; -; mRNA.
+DR   EMBL; AK024267; BAB14866.1; ALT_INIT; mRNA.
+DR   EMBL; AL137074; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL157827; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC026154; AAH26154.1; -; mRNA.
+DR   CCDS; CCDS6699.1; -.
+DR   RefSeq; NP_073592.1; NM_022755.5.
+DR   AlphaFoldDB; Q9H8X2; -.
+DR   SMR; Q9H8X2; -.
+DR   BioGRID; 122279; 110.
+DR   IntAct; Q9H8X2; 98.
+DR   STRING; 9606.ENSP00000287996; -.
+DR   MoonProt; Q9H8X2; -.
+DR   iPTMnet; Q9H8X2; -.
+DR   PhosphoSitePlus; Q9H8X2; -.
+DR   BioMuta; IPPK; -.
+DR   DMDM; 74752731; -.
+DR   EPD; Q9H8X2; -.
+DR   jPOST; Q9H8X2; -.
+DR   MassIVE; Q9H8X2; -.
+DR   MaxQB; Q9H8X2; -.
+DR   PaxDb; Q9H8X2; -.
+DR   PeptideAtlas; Q9H8X2; -.
+DR   ProteomicsDB; 81252; -.
+DR   Antibodypedia; 13762; 140 antibodies from 25 providers.
+DR   DNASU; 64768; -.
+DR   Ensembl; ENST00000287996.8; ENSP00000287996.3; ENSG00000127080.10.
+DR   GeneID; 64768; -.
+DR   KEGG; hsa:64768; -.
+DR   MANE-Select; ENST00000287996.8; ENSP00000287996.3; NM_022755.6; NP_073592.1.
+DR   UCSC; uc004asl.1; human.
+DR   AGR; HGNC:14645; -.
+DR   CTD; 64768; -.
+DR   DisGeNET; 64768; -.
+DR   GeneCards; IPPK; -.
+DR   HGNC; HGNC:14645; IPPK.
+DR   HPA; ENSG00000127080; Tissue enhanced (esophagus).
+DR   MIM; 619043; gene.
+DR   neXtProt; NX_Q9H8X2; -.
+DR   OpenTargets; ENSG00000127080; -.
+DR   PharmGKB; PA25970; -.
+DR   VEuPathDB; HostDB:ENSG00000127080; -.
+DR   eggNOG; KOG4749; Eukaryota.
+DR   GeneTree; ENSGT00390000010053; -.
+DR   HOGENOM; CLU_033188_1_0_1; -.
+DR   InParanoid; Q9H8X2; -.
+DR   OMA; NCVHCGE; -.
+DR   OrthoDB; 8233at2759; -.
+DR   PhylomeDB; Q9H8X2; -.
+DR   TreeFam; TF106142; -.
+DR   BioCyc; MetaCyc:HS05071-MON; -.
+DR   BRENDA; 2.7.1.158; 2681.
+DR   PathwayCommons; Q9H8X2; -.
+DR   Reactome; R-HSA-1855167; Synthesis of pyrophosphates in the cytosol.
+DR   Reactome; R-HSA-1855191; Synthesis of IPs in the nucleus.
+DR   SABIO-RK; Q9H8X2; -.
+DR   SignaLink; Q9H8X2; -.
+DR   BioGRID-ORCS; 64768; 176 hits in 1165 CRISPR screens.
+DR   ChiTaRS; IPPK; human.
+DR   GenomeRNAi; 64768; -.
+DR   Pharos; Q9H8X2; Tbio.
+DR   PRO; PR:Q9H8X2; -.
+DR   Proteomes; UP000005640; Chromosome 9.
+DR   RNAct; Q9H8X2; protein.
+DR   Bgee; ENSG00000127080; Expressed in lower esophagus mucosa and 169 other tissues.
+DR   ExpressionAtlas; Q9H8X2; baseline and differential.
+DR   Genevisible; Q9H8X2; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005730; C:nucleolus; IMP:CAFA.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0035299; F:inositol pentakisphosphate 2-kinase activity; IDA:HGNC-UCL.
+DR   GO; GO:0060090; F:molecular adaptor activity; IMP:CAFA.
+DR   GO; GO:0032958; P:inositol phosphate biosynthetic process; IBA:GO_Central.
+DR   GO; GO:0043647; P:inositol phosphate metabolic process; TAS:Reactome.
+DR   GO; GO:0016310; P:phosphorylation; IEA:UniProtKB-KW.
+DR   GO; GO:1901838; P:positive regulation of transcription of nucleolar large rRNA by RNA polymerase I; IMP:CAFA.
+DR   Gene3D; 3.30.200.110; Inositol-pentakisphosphate 2-kinase, N-lobe; 1.
+DR   InterPro; IPR009286; Ins_P5_2-kin.
+DR   InterPro; IPR043001; IP5_2-K_N_lobe.
+DR   PANTHER; PTHR14456; INOSITOL POLYPHOSPHATE KINASE 1; 1.
+DR   PANTHER; PTHR14456:SF2; INOSITOL-PENTAKISPHOSPHATE 2-KINASE; 1.
+DR   Pfam; PF06090; Ins_P5_2-kin; 1.
+PE   1: Evidence at protein level;
+KW   ATP-binding; Cytoplasm; Kinase; Nucleotide-binding; Nucleus;
+KW   Phosphoprotein; Reference proteome; Transferase.
+FT   CHAIN           1..491
+FT                   /note="Inositol-pentakisphosphate 2-kinase"
+FT                   /id="PRO_0000110529"
+FT   MOTIF           136..140
+FT                   /note="EXKPK motif"
+FT   MOD_RES         282
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VARIANT         277
+FT                   /note="R -> W (in dbSNP:rs2277168)"
+FT                   /id="VAR_049641"
+FT   VARIANT         376
+FT                   /note="L -> F (in dbSNP:rs2277170)"
+FT                   /id="VAR_049642"
+FT   CONFLICT        264
+FT                   /note="V -> A (in Ref. 3; BAB14866)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   491 AA;  56017 MW;  AE7A125F3BD709C0 CRC64;
+     MEEGKMDENE WGYHGEGNKS LVVAHAQRCV VLRFLKFPPN RKKTSEEIFQ HLQNIVDFGK
+     NVMKEFLGEN YVHYGEVVQL PLEFVKQLCL KIQSERPESR CDKDLDTLSG YAMCLPNLTR
+     LQTYRFAEHR PILCVEIKPK CGFIPFSSDV THEMKHKVCR YCMHQHLKVA TGKWKQISKY
+     CPLDLYSGNK QRMHFALKSL LQEAQNNLKI FKNGELIYGC KDARSPVADW SELAHHLKPF
+     FFPSNGLASG PHCTRAVIRE LVHVITRVLL SGSDKGRAGT LSPGLGPQGP RVCEASPFSR
+     SLRCQGKNTP ERSGLPKGCL LYKTLQVQML DLLDIEGLYP LYNRVERYLE EFPEERKTLQ
+     IDGPYDEAFY QKLLDLSTED DGTVAFALTK VQQYRVAMTA KDCSIMIALS PCLQDASSDQ
+     RPVVPSSRSR FAFSVSVLDL DLKPYESIPH QYKLDGKIVN YYSKTVRAKD NAVMSTRFKE
+     SEDCTLVLHK V
+//

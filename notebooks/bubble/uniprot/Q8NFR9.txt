@@ -1,0 +1,337 @@
+ID   I17RE_HUMAN             Reviewed;         667 AA.
+AC   Q8NFR9; B2RB34; B2RNR1; B9EH65; Q6P532; Q8N8H7; Q8N8H8; Q8TEC2;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   28-JUN-2023, entry version 137.
+DE   RecName: Full=Interleukin-17 receptor E;
+DE            Short=IL-17 receptor E;
+DE            Short=IL-17RE;
+DE   Flags: Precursor;
+GN   Name=IL17RE; ORFNames=UNQ3056/PRO9877;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Gilbert J.M., Gorman D.M.;
+RT   "Identification of novel IL-17 related receptors.";
+RL   Submitted (DEC-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=12975309; DOI=10.1101/gr.1293003;
+RA   Clark H.F., Gurney A.L., Abaya E., Baker K., Baldwin D.T., Brush J.,
+RA   Chen J., Chow B., Chui C., Crowley C., Currell B., Deuel B., Dowd P.,
+RA   Eaton D., Foster J.S., Grimaldi C., Gu Q., Hass P.E., Heldens S., Huang A.,
+RA   Kim H.S., Klimowski L., Jin Y., Johnson S., Lee J., Lewis L., Liao D.,
+RA   Mark M.R., Robbie E., Sanchez C., Schoenfeld J., Seshagiri S., Simmons L.,
+RA   Singh J., Smith V., Stinson J., Vagts A., Vandlen R.L., Watanabe C.,
+RA   Wieand D., Woods K., Xie M.-H., Yansura D.G., Yi S., Yu G., Yuan J.,
+RA   Zhang M., Zhang Z., Goddard A.D., Wood W.I., Godowski P.J., Gray A.M.;
+RT   "The secreted protein discovery initiative (SPDI), a large-scale effort to
+RT   identify novel human secreted and transmembrane proteins: a bioinformatics
+RT   assessment.";
+RL   Genome Res. 13:2265-2270(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2; 3 AND 4).
+RC   TISSUE=Colon mucosa, Prostate, and Small intestine;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 5).
+RC   TISSUE=Lung, Skin, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=16310341; DOI=10.1016/j.cellsig.2005.10.010;
+RA   Li T.-S., Li X.-N., Chang Z.-J., Fu X.-Y., Liu L.;
+RT   "Identification and functional characterization of a novel interleukin 17
+RT   receptor: a possible mitogenic activation through ras/mitogen-activated
+RT   protein kinase signaling pathway.";
+RL   Cell. Signal. 18:1287-1298(2006).
+RN   [7]
+RP   FUNCTION, AND IDENTIFICATION AS IL17C RECEPTOR.
+RX   PubMed=21993849; DOI=10.1038/ni.2155;
+RA   Song X., Zhu S., Shi P., Liu Y., Shi Y., Levin S.D., Qian Y.;
+RT   "IL-17RE is the functional receptor for IL-17C and mediates mucosal
+RT   immunity to infection with intestinal pathogens.";
+RL   Nat. Immunol. 12:1151-1158(2011).
+RN   [8]
+RP   FUNCTION, IDENTIFICATION AS IL17C RECEPTOR, INTERACTION WITH IL17RA, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=21993848; DOI=10.1038/ni.2156;
+RA   Ramirez-Carrozzi V., Sambandam A., Luis E., Lin Z., Jeet S., Lesch J.,
+RA   Hackney J., Kim J., Zhou M., Lai J., Modrusan Z., Sai T., Lee W., Xu M.,
+RA   Caplazi P., Diehl L., de Voss J., Balazs M., Gonzalez L. Jr., Singh H.,
+RA   Ouyang W., Pappu R.;
+RT   "IL-17C regulates the innate immune function of epithelial cells in an
+RT   autocrine manner.";
+RL   Nat. Immunol. 12:1159-1166(2011).
+CC   -!- FUNCTION: Specific functional receptor for IL17C. May be signaling
+CC       through the NF-kappa-B and MAPK pathways. May require TRAF3IP2 /ACT1
+CC       for signaling. May be a crucial regulator in innate immunity to
+CC       bacterial pathogens. Isoform 2 and isoform 4 may be either cytoplasmic
+CC       inactive or dominant active forms. Isoform 3 and isoform 5 may act as
+CC       soluble decoy receptors. {ECO:0000269|PubMed:21993848,
+CC       ECO:0000269|PubMed:21993849}.
+CC   -!- SUBUNIT: Forms heterodimers with IL17RA; the heterodimer binds IL17C.
+CC   -!- INTERACTION:
+CC       Q8NFR9; Q96F46: IL17RA; NbExp=2; IntAct=EBI-5591275, EBI-5591258;
+CC   -!- SUBCELLULAR LOCATION: [Isoform 1]: Cell membrane {ECO:0000250}; Single-
+CC       pass type I membrane protein {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 2]: Cytoplasm {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 3]: Secreted {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 4]: Cytoplasm {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 5]: Secreted {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=1;
+CC         IsoId=Q8NFR9-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8NFR9-2; Sequence=VSP_029190;
+CC       Name=3;
+CC         IsoId=Q8NFR9-3; Sequence=VSP_029193, VSP_029196;
+CC       Name=4;
+CC         IsoId=Q8NFR9-4; Sequence=VSP_029190, VSP_029194, VSP_029195;
+CC       Name=5;
+CC         IsoId=Q8NFR9-5; Sequence=VSP_029191, VSP_029192;
+CC   -!- TISSUE SPECIFICITY: Predominantly expressed in mucosal tissues with
+CC       high levels in keratinocytes and colon epithelial cells. Very low
+CC       expression in dermal fibroblasts. Expressed in various tumor cell
+CC       lines. {ECO:0000269|PubMed:16310341, ECO:0000269|PubMed:21993848}.
+CC   -!- SEQUENCE CAUTION: [Isoform 3]:
+CC       Sequence=BAB85028.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF458069; AAM77573.1; -; mRNA.
+DR   EMBL; AY358451; AAQ88816.1; -; mRNA.
+DR   EMBL; AK074238; BAB85028.1; ALT_FRAME; mRNA.
+DR   EMBL; AK096793; BAC04863.1; -; mRNA.
+DR   EMBL; AK096801; BAC04864.1; -; mRNA.
+DR   EMBL; AK314476; BAG37081.1; -; mRNA.
+DR   EMBL; CH471055; EAW64019.1; -; Genomic_DNA.
+DR   EMBL; CH471055; EAW64020.1; -; Genomic_DNA.
+DR   EMBL; CH471055; EAW64016.1; -; Genomic_DNA.
+DR   EMBL; BC063110; AAH63110.1; -; mRNA.
+DR   EMBL; BC137077; AAI37078.1; -; mRNA.
+DR   EMBL; BC137078; AAI37079.1; -; mRNA.
+DR   CCDS; CCDS2589.1; -. [Q8NFR9-1]
+DR   CCDS; CCDS54552.1; -. [Q8NFR9-3]
+DR   RefSeq; NP_001180309.1; NM_001193380.1. [Q8NFR9-3]
+DR   RefSeq; NP_705613.1; NM_153480.1. [Q8NFR9-1]
+DR   RefSeq; NP_705614.1; NM_153481.1. [Q8NFR9-2]
+DR   RefSeq; NP_705616.2; NM_153483.2.
+DR   RefSeq; XP_006713039.1; XM_006712976.1. [Q8NFR9-2]
+DR   AlphaFoldDB; Q8NFR9; -.
+DR   SMR; Q8NFR9; -.
+DR   BioGRID; 126304; 26.
+DR   IntAct; Q8NFR9; 10.
+DR   STRING; 9606.ENSP00000373325; -.
+DR   GlyCosmos; Q8NFR9; 3 sites, No reported glycans.
+DR   GlyGen; Q8NFR9; 3 sites.
+DR   iPTMnet; Q8NFR9; -.
+DR   PhosphoSitePlus; Q8NFR9; -.
+DR   BioMuta; IL17RE; -.
+DR   DMDM; 74730297; -.
+DR   MassIVE; Q8NFR9; -.
+DR   PaxDb; Q8NFR9; -.
+DR   PeptideAtlas; Q8NFR9; -.
+DR   ProteomicsDB; 73342; -. [Q8NFR9-1]
+DR   ProteomicsDB; 73343; -. [Q8NFR9-2]
+DR   Antibodypedia; 2563; 341 antibodies from 31 providers.
+DR   DNASU; 132014; -.
+DR   Ensembl; ENST00000383814.8; ENSP00000373325.3; ENSG00000163701.19. [Q8NFR9-1]
+DR   Ensembl; ENST00000454190.6; ENSP00000388086.2; ENSG00000163701.19. [Q8NFR9-3]
+DR   GeneID; 132014; -.
+DR   KEGG; hsa:132014; -.
+DR   MANE-Select; ENST00000383814.8; ENSP00000373325.3; NM_153480.2; NP_705613.1.
+DR   UCSC; uc003btw.4; human. [Q8NFR9-1]
+DR   AGR; HGNC:18439; -.
+DR   CTD; 132014; -.
+DR   DisGeNET; 132014; -.
+DR   GeneCards; IL17RE; -.
+DR   HGNC; HGNC:18439; IL17RE.
+DR   HPA; ENSG00000163701; Tissue enhanced (intestine, skin).
+DR   MIM; 614995; gene.
+DR   neXtProt; NX_Q8NFR9; -.
+DR   OpenTargets; ENSG00000163701; -.
+DR   PharmGKB; PA134896136; -.
+DR   VEuPathDB; HostDB:ENSG00000163701; -.
+DR   eggNOG; ENOG502QU0I; Eukaryota.
+DR   GeneTree; ENSGT00940000161421; -.
+DR   HOGENOM; CLU_026094_0_0_1; -.
+DR   InParanoid; Q8NFR9; -.
+DR   OMA; CVEVYYT; -.
+DR   OrthoDB; 5310632at2759; -.
+DR   PhylomeDB; Q8NFR9; -.
+DR   TreeFam; TF335690; -.
+DR   PathwayCommons; Q8NFR9; -.
+DR   Reactome; R-HSA-448424; Interleukin-17 signaling.
+DR   SignaLink; Q8NFR9; -.
+DR   BioGRID-ORCS; 132014; 12 hits in 1145 CRISPR screens.
+DR   GenomeRNAi; 132014; -.
+DR   Pharos; Q8NFR9; Tbio.
+DR   PRO; PR:Q8NFR9; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q8NFR9; protein.
+DR   Bgee; ENSG00000163701; Expressed in skin of leg and 92 other tissues.
+DR   ExpressionAtlas; Q8NFR9; baseline and differential.
+DR   Genevisible; Q8NFR9; HS.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0030368; F:interleukin-17 receptor activity; IBA:GO_Central.
+DR   GO; GO:0006954; P:inflammatory response; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.11530; -; 1.
+DR   InterPro; IPR039465; IL-17_rcpt-like.
+DR   InterPro; IPR027841; IL-17_rcpt_C/E_N.
+DR   InterPro; IPR013568; SEFIR_dom.
+DR   PANTHER; PTHR15583; INTERLEUKIN-17 RECEPTOR; 1.
+DR   PANTHER; PTHR15583:SF5; INTERLEUKIN-17 RECEPTOR E; 1.
+DR   Pfam; PF15037; IL17_R_N; 1.
+DR   Pfam; PF08357; SEFIR; 2.
+DR   PROSITE; PS51534; SEFIR; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Cytoplasm; Glycoprotein;
+KW   Inflammatory response; Membrane; Receptor; Reference proteome; Secreted;
+KW   Signal; Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..23
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           24..667
+FT                   /note="Interleukin-17 receptor E"
+FT                   /id="PRO_0000309467"
+FT   TOPO_DOM        24..454
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        455..475
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        476..667
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          487..624
+FT                   /note="SEFIR"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00867"
+FT   REGION          126..174
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        126..158
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        318
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        347
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        364
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         1..116
+FT                   /note="Missing (in isoform 2 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_029190"
+FT   VAR_SEQ         268..271
+FT                   /note="YGSD -> CECC (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_029191"
+FT   VAR_SEQ         272..667
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_029192"
+FT   VAR_SEQ         433..533
+FT                   /note="VWRSDVQFAWKHLLCPDVSYRHLGLLILALLALLTLLGVVLALTCRRPQSGP
+FT                   GPARPVLLLHAADSEAQRRLVGALAELLRAALGGGRDVIVDLWEGRHVA -> LHASLS
+FT                   SPGGEDAWLIGVGGSVPSGVAVRCPVCLEAPLVSGCLLQTPGALDPGTAGPPHPTGCCS
+FT                   GPHLPAPTVRPGPSAASAPPARGGLGGAAAPGGSAG (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_029193"
+FT   VAR_SEQ         433..506
+FT                   /note="VWRSDVQFAWKHLLCPDVSYRHLGLLILALLALLTLLGVVLALTCRRPQSGP
+FT                   GPARPVLLLHAADSEAQRRLVG -> ASSWSRHKPTWEEFPSQWGLPSPPAPCFTQLPG
+FT                   RRRCLAHRGGGLCALRCGGQMSSLPGSTSCVRMSLTDTWGS (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_029194"
+FT   VAR_SEQ         507..667
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_029195"
+FT   VAR_SEQ         534..667
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_029196"
+FT   VARIANT         219
+FT                   /note="Y -> C (in dbSNP:rs7356031)"
+FT                   /id="VAR_036956"
+FT   VARIANT         402
+FT                   /note="P -> S (in dbSNP:rs9870003)"
+FT                   /id="VAR_036957"
+FT   VARIANT         417
+FT                   /note="S -> T (in dbSNP:rs7647642)"
+FT                   /id="VAR_036958"
+FT   CONFLICT        270
+FT                   /note="S -> P (in Ref. 3; BAC04864)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        445
+FT                   /note="L -> F (in Ref. 3; BAC04864)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   667 AA;  74810 MW;  1493744E7354067D CRC64;
+     MGSSRLAALL LPLLLIVIDL SDSAGIGFRH LPHWNTRCPL ASHTDDSFTG SSAYIPCRTW
+     WALFSTKPWC VRVWHCSRCL CQHLLSGGSG LQRGLFHLLV QKSKKSSTFK FYRRHKMPAP
+     AQRKLLPRRH LSEKSHHISI PSPDISHKGL RSKRTQPSDP ETWESLPRLD SQRHGGPEFS
+     FDLLPEARAI RVTISSGPEV SVRLCHQWAL ECEELSSPYD VQKIVSGGHT VELPYEFLLP
+     CLCIEASYLQ EDTVRRKKCP FQSWPEAYGS DFWKSVHFTD YSQHTQMVMA LTLRCPLKLE
+     AALCQRHDWH TLCKDLPNAT ARESDGWYVL EKVDLHPQLC FKFSFGNSSH VECPHQTGSL
+     TSWNVSMDTQ AQQLILHFSS RMHATFSAAW SLPGLGQDTL VPPVYTVSQA RGSSPVSLDL
+     IIPFLRPGCC VLVWRSDVQF AWKHLLCPDV SYRHLGLLIL ALLALLTLLG VVLALTCRRP
+     QSGPGPARPV LLLHAADSEA QRRLVGALAE LLRAALGGGR DVIVDLWEGR HVARVGPLPW
+     LWAARTRVAR EQGTVLLLWS GADLRPVSGP DPRAAPLLAL LHAAPRPLLL LAYFSRLCAK
+     GDIPPPLRAL PRYRLLRDLP RLLRALDARP FAEATSWGRL GARQRRQSRL ELCSRLEREA
+     ARLADLG
+//

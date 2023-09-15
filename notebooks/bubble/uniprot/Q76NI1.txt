@@ -1,0 +1,390 @@
+ID   KNDC1_HUMAN             Reviewed;        1749 AA.
+AC   Q76NI1; B0QZC5; Q5T233; Q6ZNH8; Q8TEE5; Q96LV7; Q9C095;
+DT   23-OCT-2007, integrated into UniProtKB/Swiss-Prot.
+DT   23-OCT-2007, sequence version 2.
+DT   28-JUN-2023, entry version 146.
+DE   RecName: Full=Kinase non-catalytic C-lobe domain-containing protein 1 {ECO:0000312|HGNC:HGNC:29374};
+DE            Short=KIND domain-containing protein 1 {ECO:0000303|PubMed:24788352};
+DE   AltName: Full=Cerebral protein 9 {ECO:0000303|Ref.3};
+DE   AltName: Full=Protein very KIND {ECO:0000250|UniProtKB:Q0KK55};
+DE            Short=v-KIND {ECO:0000250|UniProtKB:Q0KK55};
+DE   AltName: Full=Ras-GEF domain-containing family member 2 {ECO:0000312|HGNC:HGNC:29374};
+GN   Name=KNDC1 {ECO:0000312|HGNC:HGNC:29374};
+GN   Synonyms=C10orf23, KIAA1768, RASGEF2, VKIND
+GN   {ECO:0000250|UniProtKB:Q0KK55}; ORFNames=hucep-9 {ECO:0000303|Ref.3};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 35-1193 (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=11214970; DOI=10.1093/dnares/7.6.347;
+RA   Nagase T., Kikuno R., Hattori A., Kondo Y., Okumura K., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIX. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:347-355(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 36-1749 (ISOFORM 1), TISSUE SPECIFICITY, AND
+RP   VARIANTS GLY-436 AND PRO-717.
+RC   TISSUE=Brain cortex;
+RA   Yoshimoto M., Yazaki M., Matsumoto K., Takayama K.;
+RT   "Molecular cloning of a novel gene which is specifically expressed in human
+RT   cerebral cortex.";
+RL   Submitted (JAN-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 579-1749 (ISOFORM 2).
+RC   TISSUE=Spleen;
+RA   Jikuya H., Takano J., Nomura N., Kikuno R., Nagase T., Ohara O.;
+RT   "The nucleotide sequence of a long cDNA clone isolated from human spleen.";
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1241-1749 (ISOFORM 1).
+RC   TISSUE=Brain, and Cerebellum;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=24788352; DOI=10.3892/mmr.2014.2201;
+RA   Zhang C., Zhen Y.Z., Lin Y.J., Liu J., Wei J., Xu R., Hu G.;
+RT   "KNDC1 knockdown protects human umbilical vein endothelial cells from
+RT   senescence.";
+RL   Mol. Med. Report. 10:82-88(2014).
+CC   -!- FUNCTION: RAS-Guanine nucleotide exchange factor (GEF) that controls
+CC       the negative regulation of neuronal dendrite growth by mediating a
+CC       signaling pathway linking RAS and MAP2 (By similarity). May be involved
+CC       in cellular senescence (PubMed:24788352).
+CC       {ECO:0000250|UniProtKB:Q0KK55, ECO:0000269|PubMed:24788352}.
+CC   -!- SUBUNIT: Interacts (via KIND2) with MAP2; the interaction enhances MAP2
+CC       phosphorylation and localizes KNDC1 to dendrites.
+CC       {ECO:0000250|UniProtKB:Q0KK55}.
+CC   -!- SUBCELLULAR LOCATION: Cell projection, dendrite
+CC       {ECO:0000250|UniProtKB:Q0KK55}. Perikaryon
+CC       {ECO:0000250|UniProtKB:Q0KK55}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q76NI1-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q76NI1-4; Sequence=VSP_028595, VSP_028598;
+CC   -!- TISSUE SPECIFICITY: Expressed specifically in the cerebral cortex.
+CC       {ECO:0000269|Ref.3}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB21859.1; Type=Miscellaneous discrepancy; Note=Intron retention.; Evidence={ECO:0000305};
+CC       Sequence=BAB71561.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAD12625.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAD18397.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AL445199; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AB051555; BAB21859.1; ALT_SEQ; mRNA.
+DR   EMBL; AB000781; BAD12625.1; ALT_INIT; mRNA.
+DR   EMBL; AK074179; BAB85005.1; -; mRNA.
+DR   EMBL; AK057756; BAB71561.1; ALT_INIT; mRNA.
+DR   EMBL; AK131205; BAD18397.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS7674.1; -. [Q76NI1-1]
+DR   RefSeq; NP_689856.6; NM_152643.7. [Q76NI1-1]
+DR   AlphaFoldDB; Q76NI1; -.
+DR   BioGRID; 124529; 26.
+DR   IntAct; Q76NI1; 7.
+DR   MINT; Q76NI1; -.
+DR   STRING; 9606.ENSP00000304437; -.
+DR   GlyGen; Q76NI1; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q76NI1; -.
+DR   PhosphoSitePlus; Q76NI1; -.
+DR   BioMuta; KNDC1; -.
+DR   DMDM; 160013711; -.
+DR   EPD; Q76NI1; -.
+DR   jPOST; Q76NI1; -.
+DR   MassIVE; Q76NI1; -.
+DR   PaxDb; Q76NI1; -.
+DR   PeptideAtlas; Q76NI1; -.
+DR   ProteomicsDB; 68693; -. [Q76NI1-1]
+DR   ProteomicsDB; 68696; -. [Q76NI1-4]
+DR   Antibodypedia; 48672; 65 antibodies from 12 providers.
+DR   DNASU; 85442; -.
+DR   Ensembl; ENST00000304613.8; ENSP00000304437.3; ENSG00000171798.19. [Q76NI1-1]
+DR   Ensembl; ENST00000368571.3; ENSP00000357560.3; ENSG00000171798.19. [Q76NI1-4]
+DR   GeneID; 85442; -.
+DR   KEGG; hsa:85442; -.
+DR   MANE-Select; ENST00000304613.8; ENSP00000304437.3; NM_152643.8; NP_689856.6.
+DR   UCSC; uc001llz.2; human. [Q76NI1-1]
+DR   AGR; HGNC:29374; -.
+DR   CTD; 85442; -.
+DR   GeneCards; KNDC1; -.
+DR   HGNC; HGNC:29374; KNDC1.
+DR   HPA; ENSG00000171798; Tissue enhanced (brain, pituitary gland).
+DR   MIM; 616237; gene.
+DR   neXtProt; NX_Q76NI1; -.
+DR   OpenTargets; ENSG00000171798; -.
+DR   PharmGKB; PA134983621; -.
+DR   VEuPathDB; HostDB:ENSG00000171798; -.
+DR   eggNOG; ENOG502QSHW; Eukaryota.
+DR   GeneTree; ENSGT00390000011408; -.
+DR   HOGENOM; CLU_003380_0_0_1; -.
+DR   InParanoid; Q76NI1; -.
+DR   OMA; CEEKMQL; -.
+DR   OrthoDB; 2919695at2759; -.
+DR   PhylomeDB; Q76NI1; -.
+DR   TreeFam; TF336009; -.
+DR   PathwayCommons; Q76NI1; -.
+DR   SignaLink; Q76NI1; -.
+DR   BioGRID-ORCS; 85442; 12 hits in 1142 CRISPR screens.
+DR   ChiTaRS; KNDC1; human.
+DR   GenomeRNAi; 85442; -.
+DR   Pharos; Q76NI1; Tdark.
+DR   PRO; PR:Q76NI1; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; Q76NI1; protein.
+DR   Bgee; ENSG00000171798; Expressed in right hemisphere of cerebellum and 139 other tissues.
+DR   Genevisible; Q76NI1; HS.
+DR   GO; GO:0030425; C:dendrite; ISS:UniProtKB.
+DR   GO; GO:0032045; C:guanyl-nucleotide exchange factor complex; ISS:UniProtKB.
+DR   GO; GO:0043025; C:neuronal cell body; ISS:UniProtKB.
+DR   GO; GO:0043204; C:perikaryon; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IBA:GO_Central.
+DR   GO; GO:0021707; P:cerebellar granule cell differentiation; ISS:UniProtKB.
+DR   GO; GO:0001934; P:positive regulation of protein phosphorylation; ISS:UniProtKB.
+DR   GO; GO:0050773; P:regulation of dendrite development; ISS:UniProtKB.
+DR   GO; GO:0048814; P:regulation of dendrite morphogenesis; ISS:UniProtKB.
+DR   GO; GO:0007264; P:small GTPase mediated signal transduction; IEA:InterPro.
+DR   CDD; cd06224; REM; 1.
+DR   Gene3D; 1.10.840.10; Ras guanine-nucleotide exchange factors catalytic domain; 1.
+DR   Gene3D; 1.20.870.10; Son of sevenless (SoS) protein Chain: S domain 1; 1.
+DR   Gene3D; 1.10.510.10; Transferase(Phosphotransferase) domain 1; 2.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR011019; KIND_dom.
+DR   InterPro; IPR029899; KNDC1.
+DR   InterPro; IPR000651; Ras-like_Gua-exchang_fac_N.
+DR   InterPro; IPR023578; Ras_GEF_dom_sf.
+DR   InterPro; IPR001895; RASGEF_cat_dom.
+DR   InterPro; IPR036964; RASGEF_cat_dom_sf.
+DR   PANTHER; PTHR21560:SF0; KINASE NON-CATALYTIC C-LOBE DOMAIN-CONTAINING PROTEIN 1; 1.
+DR   PANTHER; PTHR21560; VERY KIND PROTEIN; 1.
+DR   Pfam; PF16474; KIND; 1.
+DR   Pfam; PF00617; RasGEF; 1.
+DR   Pfam; PF00618; RasGEF_N; 1.
+DR   SMART; SM00750; KIND; 2.
+DR   SMART; SM00147; RasGEF; 1.
+DR   SMART; SM00229; RasGEFN; 1.
+DR   SUPFAM; SSF56112; Protein kinase-like (PK-like); 1.
+DR   SUPFAM; SSF48366; Ras GEF; 1.
+DR   PROSITE; PS51377; KIND; 2.
+DR   PROSITE; PS50009; RASGEF_CAT; 1.
+DR   PROSITE; PS50212; RASGEF_NTER; 1.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Cell projection; Coiled coil;
+KW   Guanine-nucleotide releasing factor; Phosphoprotein; Reference proteome;
+KW   Repeat.
+FT   CHAIN           1..1749
+FT                   /note="Kinase non-catalytic C-lobe domain-containing
+FT                   protein 1"
+FT                   /id="PRO_0000307141"
+FT   DOMAIN          37..217
+FT                   /note="KIND 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00709"
+FT   DOMAIN          444..608
+FT                   /note="KIND 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00709"
+FT   DOMAIN          1246..1371
+FT                   /note="N-terminal Ras-GEF"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00135"
+FT   DOMAIN          1468..1719
+FT                   /note="Ras-GEF"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00168"
+FT   REGION          210..275
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          361..435
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          689..871
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          962..1061
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          1133..1190
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        223..240
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        252..271
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        417..432
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        695..717
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        962..989
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1008..1023
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1045..1059
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         964
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q0KK55"
+FT   VAR_SEQ         1130..1396
+FT                   /note="ELEQQLMMEKRNYRKTLKFYQKLLQKEKRNKGSDVKTMLSKLKGQLEEMKSR
+FT                   VQFLSLVKKYLQVMYAERWGLEPCTLPVIVNIAAAPCDTLDFSPLDESSSLIFYNVNKH
+FT                   PGGRQKARILQAGTPLGLMAYLYSSDAFLEGYVQQFLYTFRYFCTPHDFLHFLLDRINS
+FT                   TLTRAHQDPTSTFTKIYRRSLCVLQAWVEDCYAVDFPRNSGLLGKLEDFISSKILPLDG
+FT                   SAKHLLGLLEVGMDRRAEGNPRGTDLENPREAEEDARP -> VSPRPWHCRVGQGVSFQ
+FT                   QSFLVTAGDRWHRVPRAPNRVTLVLVPPPRGCQDGQGPLPGLSSTSRDRLVCTGAPGGS
+FT                   TSEDREGLFSHGRPGDGFTGGPSMLVTRLRSVVFSVGQAQPPGPWAASLCSERKHQKRL
+FT                   PSKSRLGLVAAAWSGLSGQQCHPGSGAAATPPWPAGRGGLRPGSPGCRRGLQSSGRKVG
+FT                   PVTHSPDLGCILESPGTPGWMTGGAQWPSAPGTSPTTVCLELSHRGKPPPASGHRSPSW
+FT                   GSSLLLSCRLLACTL (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.4"
+FT                   /id="VSP_028595"
+FT   VAR_SEQ         1397..1749
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.4"
+FT                   /id="VSP_028598"
+FT   VARIANT         436
+FT                   /note="E -> G (in dbSNP:rs3810964)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_035358"
+FT   VARIANT         581
+FT                   /note="G -> S (in dbSNP:rs35152544)"
+FT                   /id="VAR_035359"
+FT   VARIANT         717
+FT                   /note="L -> P (in dbSNP:rs2998139)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_035360"
+FT   VARIANT         1038
+FT                   /note="R -> W (in dbSNP:rs35604376)"
+FT                   /id="VAR_061786"
+FT   VARIANT         1332
+FT                   /note="A -> T (in dbSNP:rs11101642)"
+FT                   /id="VAR_051902"
+FT   CONFLICT        346
+FT                   /note="L -> P (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        806
+FT                   /note="V -> D (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        925
+FT                   /note="A -> G (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        971
+FT                   /note="E -> G (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1072
+FT                   /note="S -> P (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1084
+FT                   /note="A -> V (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1260
+FT                   /note="A -> T (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1315
+FT                   /note="I -> T (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1468
+FT                   /note="S -> G (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1624
+FT                   /note="K -> R (in Ref. 3; BAD12625)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1749 AA;  191397 MW;  FB5F6C6692BBCB06 CRC64;
+     MQAMDPAAAD LYEEDGKDLD FYDFEPLPTL PEDEENVSLA DILSLRDRGL SEQEAWAVCL
+     ECSLSMRSVA HAAIFQSLCI TPDTLAFNTS GNVCFMEQLS DDPEGAFVPP EFDVTGNTFE
+     AHIYSLGATL KAALEYVAEP TLEPRLSQDL EALLSRMQAE DPGDRPDLES IIALCEEKLQ
+     LTSSCRVCRS LSAVGRRVLS IESFGALQDV SESSWRERPA PGNAGPRRPP GDPSTDPEVL
+     PTPEGPESET SRGPRASPTK ALLSTPVRNG ESHSREGLAG LVLDAERTLG ELDRDALRRS
+     RLRKVQTFPR LLSDSPEATL CLPLTRGKSQ LPISELFSPD PRKAFLDRKN GLSSFQAQPK
+     CRLWPEQEPE HQLGRVPCAG RSTDRGPGVP GSPGQPETSH PSQGPAEAPA DPRDASGEAQ
+     TPRDDERIPE GARQLESAAA EQWVSLQDLL SQLGRPFREY ELWALCLACL RALQTRPEHP
+     AYLCLDSVLV AEDGAVLFQP PPANGSYDSF FLAPELAEER LVTEKASVYC VAAVLWTAAK
+     FSVPRNHKLA LPRRLKTLLL DMARRSAPER PSAAEAIKVC GSYLLQRGMD SRKILAHLRA
+     SICQVYQEEE TISLQNAFSV VELKPSVAPA PEPSPGFLPV NSDTGLVAVP GPVPGQHPCG
+     EEATQLPAAF TSEATHFKPI VLAQNASVAR DQPALAQEES EERGGQREGE GEEKLSLEAH
+     AGSPSLKTPD GPVPGPGPQG AAPEPLGASV QRDSAQGRPC PPPQAPANQP EGASSAAPGS
+     PVPAPPTKAS ALPVEQGPAE PIPPGVASGG LRPDALGPTT AHHGPRHPPK PPRSKATERP
+     GQEPEGPGAT PAGERDDQSP DSVPERPRPA DRRLCLPCVD ASPLPGRTAC PSLQEATRLI
+     QEEFAFDGYL DNGLEALIMG EYIFALKDLT FATFCGAISE KFCDLYWDEK LLQNLFKVVN
+     GQASPSPSTA EEAGSQLEGS QSPRSPSSKR PSLHRLGKEK PAMARTSSRA PCSPTSVSDV
+     DSDALSRGNF EVGFRPQRSV KAERAQQPEA GEDRRPAGGA SDVEAVTRLA RSKGVGPALS
+     PGPAGFQSCS PGWCSAFYEA DCFGADVHNY VKDLGRQQAD GALPDAQSPE LEQQLMMEKR
+     NYRKTLKFYQ KLLQKEKRNK GSDVKTMLSK LKGQLEEMKS RVQFLSLVKK YLQVMYAERW
+     GLEPCTLPVI VNIAAAPCDT LDFSPLDESS SLIFYNVNKH PGGRQKARIL QAGTPLGLMA
+     YLYSSDAFLE GYVQQFLYTF RYFCTPHDFL HFLLDRINST LTRAHQDPTS TFTKIYRRSL
+     CVLQAWVEDC YAVDFPRNSG LLGKLEDFIS SKILPLDGSA KHLLGLLEVG MDRRAEGNPR
+     GTDLENPREA EEDARPFNAL CKRLSEDGIS RKSFPWRLPR GNGLVLPPHK ERPYTIAAAL
+     PKPCFLEDFY GPCAKTSEKG PYFLTEYSTH QLFSQLTLLQ QELFQKCHPV HFLNSRALGV
+     MDKSTAIPKA SSSESLSAKT CSLFLPNYVQ DKYLLQLLRN ADDVSTWVAA EIVTSHTSKL
+     QVNLLSKFLL IAKSCYEQRN FATAMQILSG LEHLAVRQSP AWRILPAKIA EVMEELKAVE
+     VFLKSDSLCL MEGRRFRAQP TLPSAHLLAM HIQQLETGGF TMTNGAHRWS KLRNIAKVVS
+     QVHAFQENPY TFSPDPKLQS YLKQRIARFS GADISTLAAD SRANFHQVSS EKHSRKIQDK
+     LRRMKATFQ
+//

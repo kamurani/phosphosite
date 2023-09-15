@@ -1,0 +1,183 @@
+ID   O5AR1_HUMAN             Reviewed;         310 AA.
+AC   Q8NGP9; Q6IF61;
+DT   26-SEP-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   28-JUN-2023, entry version 155.
+DE   RecName: Full=Olfactory receptor 5AR1 {ECO:0000305};
+DE   AltName: Full=Olfactory receptor OR11-209;
+GN   Name=OR5AR1 {ECO:0000312|HGNC:HGNC:15260};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Suwa M., Sato T., Okouchi I., Arita M., Futami K., Matsumoto S.,
+RA   Tsutsumi S., Aburatani H., Asai K., Akiyama Y.;
+RT   "Genome-wide discovery and analysis of human seven transmembrane helix
+RT   receptor genes.";
+RL   Submitted (JUL-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   IDENTIFICATION.
+RX   PubMed=14983052; DOI=10.1073/pnas.0307882100;
+RA   Malnic B., Godfrey P.A., Buck L.B.;
+RT   "The human olfactory receptor gene family.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:2584-2589(2004).
+RN   [3]
+RP   ERRATUM OF PUBMED:14983052.
+RA   Malnic B., Godfrey P.A., Buck L.B.;
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:7205-7205(2004).
+RN   [4]
+RP   POLYMORPHISM.
+RX   PubMed=17973576; DOI=10.1371/journal.pbio.0050284;
+RA   Menashe I., Abaffy T., Hasin Y., Goshen S., Yahalom V., Luetje C.W.,
+RA   Lancet D.;
+RT   "Genetic elucidation of human hyperosmia to isovaleric acid.";
+RL   PLoS Biol. 5:2462-2468(2007).
+CC   -!- FUNCTION: Odorant receptor. {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250|UniProtKB:Q8VGS3};
+CC       Multi-pass membrane protein {ECO:0000255}.
+CC   -!- POLYMORPHISM: A stop codon in the gene coding for this protein at
+CC       position Gln-19 is responsible for functional diversity thus producing
+CC       a pseudogene.
+CC   -!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00521}.
+CC   -!- WEB RESOURCE: Name=Human Olfactory Receptor Data Exploratorium (HORDE);
+CC       URL="http://genome.weizmann.ac.il/horde/card/index/symbol:OR5AR1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB065740; BAC05961.1; -; Genomic_DNA.
+DR   EMBL; BK004401; DAA04799.1; -; Genomic_DNA.
+DR   RefSeq; NP_001004730.1; NM_001004730.1.
+DR   AlphaFoldDB; Q8NGP9; -.
+DR   SMR; Q8NGP9; -.
+DR   STRING; 9606.ENSP00000485424; -.
+DR   GlyCosmos; Q8NGP9; 1 site, No reported glycans.
+DR   GlyGen; Q8NGP9; 1 site.
+DR   iPTMnet; Q8NGP9; -.
+DR   PhosphoSitePlus; Q8NGP9; -.
+DR   BioMuta; OR5AR1; -.
+DR   DMDM; 37081363; -.
+DR   MassIVE; Q8NGP9; -.
+DR   PaxDb; Q8NGP9; -.
+DR   Antibodypedia; 78755; 57 antibodies from 14 providers.
+DR   DNASU; 219493; -.
+DR   Ensembl; ENST00000624596.2; ENSP00000485240.1; ENSG00000172459.5.
+DR   GeneID; 219493; -.
+DR   KEGG; hsa:219493; -.
+DR   MANE-Select; ENST00000624596.2; ENSP00000485240.1; NM_001004730.1; NP_001004730.1.
+DR   UCSC; uc010rjm.2; human.
+DR   AGR; HGNC:15260; -.
+DR   CTD; 219493; -.
+DR   GeneCards; OR5AR1; -.
+DR   HGNC; HGNC:15260; OR5AR1.
+DR   HPA; ENSG00000172459; Not detected.
+DR   neXtProt; NX_Q8NGP9; -.
+DR   PharmGKB; PA32471; -.
+DR   VEuPathDB; HostDB:ENSG00000172459; -.
+DR   eggNOG; ENOG502SHXT; Eukaryota.
+DR   GeneTree; ENSGT01090000260058; -.
+DR   HOGENOM; CLU_012526_1_0_1; -.
+DR   InParanoid; Q8NGP9; -.
+DR   OMA; TGITQDP; -.
+DR   OrthoDB; 4625537at2759; -.
+DR   PhylomeDB; Q8NGP9; -.
+DR   TreeFam; TF352753; -.
+DR   PathwayCommons; Q8NGP9; -.
+DR   Reactome; R-HSA-9752946; Expression and translocation of olfactory receptors.
+DR   BioGRID-ORCS; 219493; 18 hits in 751 CRISPR screens.
+DR   GeneWiki; OR5AR1; -.
+DR   GenomeRNAi; 219493; -.
+DR   Pharos; Q8NGP9; Tdark.
+DR   PRO; PR:Q8NGP9; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q8NGP9; protein.
+DR   ExpressionAtlas; Q8NGP9; baseline and differential.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005507; F:copper ion binding; IEA:Ensembl.
+DR   GO; GO:0004930; F:G protein-coupled receptor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0005549; F:odorant binding; IBA:GO_Central.
+DR   GO; GO:0004984; F:olfactory receptor activity; IBA:GO_Central.
+DR   CDD; cd15944; 7tmA_OR5AR1-like; 1.
+DR   Gene3D; 1.20.1070.10; Rhodopsin 7-helix transmembrane proteins; 1.
+DR   InterPro; IPR000276; GPCR_Rhodpsn.
+DR   InterPro; IPR017452; GPCR_Rhodpsn_7TM.
+DR   InterPro; IPR000725; Olfact_rcpt.
+DR   PANTHER; PTHR48018; OLFACTORY RECEPTOR; 1.
+DR   PANTHER; PTHR48018:SF105; OLFACTORY RECEPTOR; 1.
+DR   Pfam; PF13853; 7tm_4; 1.
+DR   PRINTS; PR00237; GPCRRHODOPSN.
+DR   PRINTS; PR00245; OLFACTORYR.
+DR   SUPFAM; SSF81321; Family A G protein-coupled receptor-like; 1.
+DR   PROSITE; PS50262; G_PROTEIN_RECEP_F1_2; 1.
+PE   3: Inferred from homology;
+KW   Cell membrane; Disulfide bond; G-protein coupled receptor; Glycoprotein;
+KW   Membrane; Olfaction; Receptor; Reference proteome; Sensory transduction;
+KW   Transducer; Transmembrane; Transmembrane helix.
+FT   CHAIN           1..310
+FT                   /note="Olfactory receptor 5AR1"
+FT                   /id="PRO_0000150579"
+FT   TOPO_DOM        1..28
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        29..49
+FT                   /note="Helical; Name=1"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        50..58
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        59..79
+FT                   /note="Helical; Name=2"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        80..100
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        101..120
+FT                   /note="Helical; Name=3"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        121..139
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        140..160
+FT                   /note="Helical; Name=4"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        161..205
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        206..226
+FT                   /note="Helical; Name=5"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        227..239
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        240..260
+FT                   /note="Helical; Name=6"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        261..271
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        272..292
+FT                   /note="Helical; Name=7"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        293..310
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        5
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        97..189
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00521"
+FT   VARIANT         225
+FT                   /note="I -> V (in dbSNP:rs56067375)"
+FT                   /id="VAR_062038"
+SQ   SEQUENCE   310 AA;  34815 MW;  660D5C566B330E47 CRC64;
+     MDKENSSMVT EFIFMGITQD PQMEIIFFVV FLIVYLVNVV GNIGMIILIT TDTQLHTPMY
+     FFLCNLSFVD LGYSSAIAPR MLADFLTNHK VISFSSCATQ FAFFVGFVDA ECYVLAAMAY
+     GRFVAICRPL HYSTFMSKQV CLALMLGSYL AGLVSLVAHT TLTFSLSYCG SNIINHFFCE
+     IPPLLALSCS DTYISEILLF SLCGFIEFST ILIIFISYTF ILVAIIRMRS AEGRLKAFST
+     CGSHLTGITL FYGTVMFMYL RPTSSYSLDQ DKWASVFYTV IIPMLNPLIY SLRNKDVKAA
+     FKKLIGKKSQ
+//

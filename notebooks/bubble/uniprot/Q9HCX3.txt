@@ -1,0 +1,294 @@
+ID   ZN304_HUMAN             Reviewed;         659 AA.
+AC   Q9HCX3;
+DT   19-SEP-2002, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 177.
+DE   RecName: Full=Zinc finger protein 304 {ECO:0000312|HGNC:HGNC:13505};
+DE   AltName: Full=KRAB-containing zinc finger protein {ECO:0000303|PubMed:12051768};
+GN   Name=ZNF304 {ECO:0000312|HGNC:HGNC:13505};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], VARIANT GLU-367, AND TISSUE SPECIFICITY.
+RC   TISSUE=Thymus;
+RX   PubMed=12051768; DOI=10.1016/s0006-291x(02)00344-3;
+RA   Sabater L., Ashhab Y., Caro P., Kolkowski E.C., Pujol-Borrell R.,
+RA   Dominguez O.;
+RT   "Identification of a KRAB-containing zinc finger protein, ZNF304, by AU-
+RT   motif-directed display method and initial characterization in lymphocyte
+RT   activation.";
+RL   Biochem. Biophys. Res. Commun. 293:1066-1072(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [3]
+RP   FUNCTION, INTERACTION WITH USP28, POSSIBLE IDENTIFICATION IN A COREPRESSOR
+RP   COMPLEX, CHROMATIN-BINDING, DEUBIQUITINATION BY USP28, TISSUE SPECIFICITY,
+RP   AND INDUCTION.
+RX   PubMed=24623306; DOI=10.7554/elife.02313;
+RA   Serra R.W., Fang M., Park S.M., Hutchinson L., Green M.R.;
+RT   "A KRAS-directed transcriptional silencing pathway that mediates the CpG
+RT   island methylator phenotype.";
+RL   Elife 3:E02313-E02313(2014).
+RN   [4]
+RP   FUNCTION, DNA-BINDING, AND TISSUE SPECIFICITY.
+RX   PubMed=26081979; DOI=10.1038/ncomms8351;
+RA   Aslan B., Monroig P., Hsu M.C., Pena G.A., Rodriguez-Aguayo C.,
+RA   Gonzalez-Villasana V., Rupaimoole R., Nagaraja A.S., Mangala S., Han H.D.,
+RA   Yuca E., Wu S.Y., Ivan C., Moss T.J., Ram P.T., Wang H., Gol-Chambers A.,
+RA   Ozkayar O., Kanlikilicer P., Fuentes-Mattei E., Kahraman N., Pradeep S.,
+RA   Ozpolat B., Tucker S., Hung M.C., Baggerly K., Bartholomeusz G., Calin G.,
+RA   Sood A.K., Lopez-Berestein G.;
+RT   "The ZNF304-integrin axis protects against anoikis in cancer.";
+RL   Nat. Commun. 6:7351-7351(2015).
+CC   -!- FUNCTION: Acts as transcriptional regulator and plays a role in gene
+CC       silencing (PubMed:24623306, PubMed:26081979). Probably forms a
+CC       corepressor complex required for activated KRAS-mediated promoter
+CC       hypermethylation and transcriptional silencing of several tumor
+CC       suppressor genes (TSGs) or other tumor-related genes in colorectal
+CC       cancer (CRC) cells (PubMed:24623306). Also required to maintain a
+CC       transcriptionally repressive state of genes in undifferentiated
+CC       embryonic stem cells (ESCs) by inducing trimethylation of 'Lys-27' of
+CC       histone H3 (H3K27me3) (PubMed:24623306) in a Polycomb group (PcG)
+CC       complexes-dependent manner. Associates at promoter regions of TSGs and
+CC       mediates the recruitment of the corepressor complex containing the
+CC       scaffolding protein TRIM28, methyltransferase DNMT1 and histone
+CC       methyltransferase SETDB1 and/or the PcG complexes at those sites
+CC       (PubMed:24623306). Transcription factor involved in the metastatic
+CC       cascade process by inducing cell migration and proliferation and gain
+CC       resistance to anoikis of ovarian carcinoma (OC) cells via integrin-
+CC       mediated signaling pathways (PubMed:26081979). Associates with the
+CC       ITGB1 promoter and positively regulates beta-1 integrin transcription
+CC       expression (PubMed:26081979). Promotes angiogenesis (PubMed:26081979).
+CC       Promotes tumor growth (PubMed:24623306, PubMed:26081979).
+CC       {ECO:0000269|PubMed:24623306, ECO:0000269|PubMed:26081979}.
+CC   -!- SUBUNIT: Probably part of a corepressor complex containing ZNF304,
+CC       TRIM28, SETDB1 and DNMT1; leading to promoter hypermethylation and
+CC       transcriptional silencing (PubMed:24623306). Probably associates with
+CC       Polycomb group (PcG) complexes; leading to trimethylation of 'Lys-27'
+CC       of histone H3 (H3K27me3) (PubMed:24623306). Interacts with USP28
+CC       (PubMed:24623306). {ECO:0000269|PubMed:24623306}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305|PubMed:24623306}.
+CC       Note=Associates with chromatin (PubMed:24623306).
+CC       {ECO:0000269|PubMed:24623306}.
+CC   -!- TISSUE SPECIFICITY: Expressed in undifferentiated embryonic stem cells
+CC       (ESCs) (PubMed:24623306). Expressed strongly in colorectal cancers
+CC       cells (CRCs) (PubMed:24623306). Expressed strongly in ovarian carcinoma
+CC       (OC) tumor cell lines compared to non-transformed ovarian epithelial
+CC       cells (at protein level) (PubMed:26081979). Expressed in lymphoid
+CC       tissues, thyroid, adrenal gland, prostate, pancreas and skeletal
+CC       muscles (PubMed:12051768). {ECO:0000269|PubMed:12051768,
+CC       ECO:0000269|PubMed:24623306, ECO:0000269|PubMed:26081979}.
+CC   -!- INDUCTION: Down-regulated during embryonic stem cells (ESCs)
+CC       differentiation by retinoic acid treatment (PubMed:24623306).
+CC       {ECO:0000269|PubMed:24623306}.
+CC   -!- PTM: Deubiquitinated by USP28; the deubiquitination leads to the
+CC       stabilization of ZNF304 from proteolytic degradation (PubMed:24623306).
+CC       {ECO:0000269|PubMed:24623306}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ276316; CAC06610.1; -; mRNA.
+DR   EMBL; AC005261; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS12950.1; -.
+DR   RefSeq; NP_065708.2; NM_020657.3.
+DR   AlphaFoldDB; Q9HCX3; -.
+DR   SMR; Q9HCX3; -.
+DR   BioGRID; 121493; 5.
+DR   CORUM; Q9HCX3; -.
+DR   IntAct; Q9HCX3; 2.
+DR   STRING; 9606.ENSP00000375586; -.
+DR   GlyGen; Q9HCX3; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9HCX3; -.
+DR   PhosphoSitePlus; Q9HCX3; -.
+DR   BioMuta; ZNF304; -.
+DR   DMDM; 296453049; -.
+DR   MassIVE; Q9HCX3; -.
+DR   MaxQB; Q9HCX3; -.
+DR   PaxDb; Q9HCX3; -.
+DR   PeptideAtlas; Q9HCX3; -.
+DR   ProteomicsDB; 81804; -.
+DR   Antibodypedia; 46525; 21 antibodies from 12 providers.
+DR   DNASU; 57343; -.
+DR   Ensembl; ENST00000282286.6; ENSP00000282286.4; ENSG00000131845.15.
+DR   Ensembl; ENST00000391705.7; ENSP00000375586.3; ENSG00000131845.15.
+DR   GeneID; 57343; -.
+DR   KEGG; hsa:57343; -.
+DR   MANE-Select; ENST00000282286.6; ENSP00000282286.4; NM_020657.4; NP_065708.2.
+DR   UCSC; uc010ygw.3; human.
+DR   AGR; HGNC:13505; -.
+DR   CTD; 57343; -.
+DR   DisGeNET; 57343; -.
+DR   GeneCards; ZNF304; -.
+DR   HGNC; HGNC:13505; ZNF304.
+DR   HPA; ENSG00000131845; Low tissue specificity.
+DR   MIM; 613840; gene.
+DR   neXtProt; NX_Q9HCX3; -.
+DR   OpenTargets; ENSG00000131845; -.
+DR   PharmGKB; PA37791; -.
+DR   VEuPathDB; HostDB:ENSG00000131845; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000161016; -.
+DR   HOGENOM; CLU_002678_44_5_1; -.
+DR   InParanoid; Q9HCX3; -.
+DR   OMA; KPHECNS; -.
+DR   OrthoDB; 4709447at2759; -.
+DR   PhylomeDB; Q9HCX3; -.
+DR   TreeFam; TF339848; -.
+DR   PathwayCommons; Q9HCX3; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q9HCX3; -.
+DR   SIGNOR; Q9HCX3; -.
+DR   BioGRID-ORCS; 57343; 11 hits in 1179 CRISPR screens.
+DR   GenomeRNAi; 57343; -.
+DR   Pharos; Q9HCX3; Tbio.
+DR   PRO; PR:Q9HCX3; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q9HCX3; protein.
+DR   Bgee; ENSG00000131845; Expressed in secondary oocyte and 181 other tissues.
+DR   ExpressionAtlas; Q9HCX3; baseline and differential.
+DR   Genevisible; Q9HCX3; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:1990841; F:promoter-specific chromatin binding; IDA:UniProtKB.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0001525; P:angiogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0006325; P:chromatin organization; IEA:UniProtKB-KW.
+DR   GO; GO:0007229; P:integrin-mediated signaling pathway; IMP:UniProtKB.
+DR   GO; GO:2000811; P:negative regulation of anoikis; IMP:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IMP:UniProtKB.
+DR   GO; GO:0045766; P:positive regulation of angiogenesis; IMP:UniProtKB.
+DR   GO; GO:0030335; P:positive regulation of cell migration; IMP:UniProtKB.
+DR   GO; GO:0090309; P:positive regulation of DNA methylation-dependent heterochromatin formation; IMP:UniProtKB.
+DR   GO; GO:0050679; P:positive regulation of epithelial cell proliferation; IMP:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 15.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24390; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24390:SF203; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 11.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 16.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 10.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 16.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 15.
+PE   1: Evidence at protein level;
+KW   Activator; Angiogenesis; Chromatin regulator; DNA-binding; Metal-binding;
+KW   Nucleus; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..659
+FT                   /note="Zinc finger protein 304"
+FT                   /id="PRO_0000047523"
+FT   DOMAIN          14..88
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         89..111
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         115..139
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         251..273
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         279..301
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         307..329
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         335..357
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         363..385
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         391..413
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         419..441
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         447..469
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         475..497
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         503..525
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         531..553
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         559..581
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         587..609
+FT                   /note="C2H2-type 15"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         615..637
+FT                   /note="C2H2-type 16"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   VARIANT         121
+FT                   /note="L -> P (in dbSNP:rs862708)"
+FT                   /id="VAR_019979"
+FT   VARIANT         367
+FT                   /note="K -> E (in dbSNP:rs862709)"
+FT                   /evidence="ECO:0000269|PubMed:12051768"
+FT                   /id="VAR_033563"
+FT   CONFLICT        323
+FT                   /note="V -> A (in Ref. 1; CAC06610)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        334
+FT                   /note="S -> P (in Ref. 1; CAC06610)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        445
+FT                   /note="R -> S (in Ref. 1; CAC06610)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   659 AA;  75047 MW;  11B5263F41DB2704 CRC64;
+     MAAAVLMDRV QSCVTFEDVF VYFSREEWEL LEEAQRFLYR DVMLENFALV ATLGFWCEAE
+     HEAPSEQSVS VEGVSQVRTA ESGLFQKAHP CEMCDPLLKD ILHLAEHQGS HLTQKLCTRG
+     LCRRRFSFSA NFYQHQKQHN GENCFRGDDG GASFVKSCTV HMLGRSFTCR EEGMDLPDSS
+     GLFQHQTTYN RVSPCRRTEC MESFPHSSSL RQHQGDYDGQ MLFSCGDEGK AFLDTFTLLD
+     SQMTHAEVRP FRCLPCGNVF KEKSALINHR KIHSGEISHV CKECGKAFIH LHHLKMHQKF
+     HTGKRHYTCS ECGKAFSRKD TLVQHQRVHT GERSYDCSEC GKAYSRSSHL VQHQRIHTGE
+     RPYKCNKCGK AFSRKDTLVQ HQRFHTGERP YECSECGKFF SQSSHLIEHW RIHTGARPYE
+     CIECGKFFSH NSSLIKHRRV HTGARSYVCS KCGKAFGCKD TLVQHQIIHT GARPYECSEC
+     GKAFSRKDTL VQHQKIHTGE RPYECGECGK FFSHSSNLIV HQRIHTGAKP YECNECGKCF
+     SHNSSLILHQ RVHTGARPYV CSECGKAYIS SSHLVQHKKV HTGARPYECS ECGKFFSRNS
+     GLILHQRVHT GEKPYVCSEC GKAYSRSSHL VRHQKAHTGE RAHECNSFGG PLAASLKLV
+//

@@ -1,0 +1,927 @@
+ID   TAP1_HUMAN              Reviewed;         748 AA.
+AC   Q03518; Q16149; Q96CP4;
+DT   01-JUN-1994, integrated into UniProtKB/Swiss-Prot.
+DT   23-FEB-2022, sequence version 3.
+DT   28-JUN-2023, entry version 229.
+DE   RecName: Full=Antigen peptide transporter 1;
+DE            Short=APT1;
+DE            EC=7.4.2.14 {ECO:0000269|PubMed:11274390, ECO:0000269|PubMed:25377891, ECO:0000269|PubMed:25656091};
+DE   AltName: Full=ATP-binding cassette sub-family B member 2;
+DE   AltName: Full=Peptide supply factor 1 {ECO:0000303|PubMed:1946428};
+DE   AltName: Full=Peptide transporter PSF1;
+DE            Short=PSF-1 {ECO:0000303|PubMed:1946428};
+DE   AltName: Full=Peptide transporter TAP1;
+DE   AltName: Full=Peptide transporter involved in antigen processing 1;
+DE   AltName: Full=Really interesting new gene 4 protein;
+DE            Short=RING4 {ECO:0000303|PubMed:1538751};
+GN   Name=TAP1 {ECO:0000303|PubMed:10605026, ECO:0000312|HGNC:HGNC:43};
+GN   Synonyms=ABCB2, PSF1, RING4, Y3;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2259383; DOI=10.1038/348741a0;
+RA   Trowsdale J., Hanson I., Mockridge I., Beck S., Townsend A., Kelly A.;
+RT   "Sequences encoded in the class II region of the MHC related to the 'ABC'
+RT   superfamily of transporters.";
+RL   Nature 348:741-744(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=1453454; DOI=10.1016/0022-2836(92)90832-5;
+RA   Beck S., Kelly A., Radley E., Khurshid F., Alderton R.P., Trowsdale J.;
+RT   "DNA sequence analysis of 66 kb of the human MHC class II region encoding a
+RT   cluster of genes for antigen processing.";
+RL   J. Mol. Biol. 228:433-441(1992).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8568858; DOI=10.1006/jmbi.1996.0001;
+RA   Beck S., Abdulla S., Alderton R.P., Glynne R.J., Gut I.G., Hosking L.K.,
+RA   Jackson A., Kelly A., Newell W.R., Sanseau P., Radley E., Thorpe K.L.,
+RA   Trowsdale J.;
+RT   "Evolutionary dynamics of non-coding sequences within the class II region
+RT   of the human MHC.";
+RL   J. Mol. Biol. 255:1-13(1996).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA], VARIANTS VAL-333; LEU-458; GLY-637 AND GLN-648,
+RP   AND POLYMORPHISM.
+RC   TISSUE=Blood;
+RX   PubMed=8248212; DOI=10.1073/pnas.90.23.11079;
+RA   Jackson D.G., Capra J.D.;
+RT   "TAP1 alleles in insulin-dependent diabetes mellitus: a newly defined
+RT   centromeric boundary of disease susceptibility.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90:11079-11083(1993).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 123-552.
+RX   PubMed=2259384; DOI=10.1038/348744a0;
+RA   Spies T., Bresnahan M., Bahram S., Arnold D., Blanck G., Mellins E.,
+RA   Pious D., Demars R.;
+RT   "A gene in the human major histocompatibility complex class II region
+RT   controlling the class I antigen presentation pathway.";
+RL   Nature 348:744-747(1990).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 631-663, VARIANTS GLY-637 AND GLN-648, AND
+RP   POLYMORPHISM.
+RX   PubMed=8168860; DOI=10.1007/bf00189240;
+RA   Szafer F., Oksenberg J.R., Steinman L.;
+RT   "New allelic polymorphisms in TAP genes.";
+RL   Immunogenetics 39:374-374(1994).
+RN   [10]
+RP   INDUCTION BY IFNG.
+RX   PubMed=1946428; DOI=10.1073/pnas.88.22.10094;
+RA   Bahram S., Arnold D., Bresnahan M., Strominger J.L., Spies T.;
+RT   "Two putative subunits of a peptide pump encoded in the human major
+RT   histocompatibility complex class II region.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:10094-10098(1991).
+RN   [11]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=1589036; DOI=10.1038/357342a0;
+RA   Kleijmeer M.J., Kelly A., Geuze H.J., Slot J.W., Townsend A., Trowsdale J.;
+RT   "Location of MHC-encoded transporters in the endoplasmic reticulum and cis-
+RT   Golgi.";
+RL   Nature 357:342-344(1992).
+RN   [12]
+RP   FUNCTION, AND INTERACTION WITH TAP2.
+RX   PubMed=1538751; DOI=10.1038/355641a0;
+RA   Kelly A., Powis S.H., Kerr L.A., Mockridge I., Elliott T., Bastin J.,
+RA   Uchanska-Ziegler B., Ziegler A., Trowsdale J., Townsend A.;
+RT   "Assembly and function of the two ABC transporter proteins encoded in the
+RT   human major histocompatibility complex.";
+RL   Nature 355:641-644(1992).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=7500034; DOI=10.1084/jem.182.6.1883;
+RA   van Endert P.M., Riganelli D., Greco G., Fleischhauer K., Sidney J.,
+RA   Sette A., Bach J.F.;
+RT   "The peptide-binding motif for the human transporter associated with
+RT   antigen processing.";
+RL   J. Exp. Med. 182:1883-1895(1995).
+RN   [14]
+RP   INTERACTION WITH HERPES SIMPLEX VIRUS US12/ICP47 (MICROBIAL INFECTION).
+RX   PubMed=7760936; DOI=10.1038/375415a0;
+RA   Frueh K., Ahn K., Djaballah H., Sempe P., van Endert P.M., Tampe R.,
+RA   Peterson P.A., Yang Y.;
+RT   "A viral inhibitor of peptide transporters for antigen presentation.";
+RL   Nature 375:415-418(1995).
+RN   [15]
+RP   INTERACTION WITH HLA-A*02-B2M.
+RX   PubMed=8805302; DOI=10.1016/s0960-9822(02)00611-5;
+RA   Lewis J.W., Neisig A., Neefjes J., Elliott T.;
+RT   "Point mutations in the alpha 2 domain of HLA-A2.1 define a functionally
+RT   relevant interaction with TAP.";
+RL   Curr. Biol. 6:873-883(1996).
+RN   [16]
+RP   ACTIVITY REGULATION (MICROBIAL INFECTION), AND INHIBITION BY US12/ICP47.
+RX   PubMed=8670825; DOI=10.1002/j.1460-2075.1996.tb00689.x;
+RA   Ahn K., Meyer T.H., Uebel S., Sempe P., Djaballah H., Yang Y.,
+RA   Peterson P.A., Frueh K., Tampe R.;
+RT   "Molecular mechanism and species specificity of TAP inhibition by herpes
+RT   simplex virus ICP47.";
+RL   EMBO J. 15:3247-3255(1996).
+RN   [17]
+RP   INTERACTION WITH HLA-A*02-B2M.
+RX   PubMed=8630735; DOI=10.1016/s1074-7613(00)80416-1;
+RA   Peace-Brewer A.L., Tussey L.G., Matsui M., Li G., Quinn D.G.,
+RA   Frelinger J.A.;
+RT   "A point mutation in HLA-A*0201 results in failure to bind the TAP complex
+RT   and to present virus-derived peptides to CTL.";
+RL   Immunity 4:505-514(1996).
+RN   [18]
+RP   PEPTIDE-BINDING SITE.
+RX   PubMed=8955196;
+RA   Nijenhuis M., Hammerling G.J.;
+RT   "Multiple regions of the transporter associated with antigen processing
+RT   (TAP) contribute to its peptide binding site.";
+RL   J. Immunol. 157:5467-5477(1996).
+RN   [19]
+RP   TISSUE SPECIFICITY, INDUCTION, AND INDUCTION (MICROBIAL INFECTION).
+RX   PubMed=9310490;
+RA   Zeidler R., Eissner G., Meissner P., Uebel S., Tampe R., Lazis S.,
+RA   Hammerschmidt W.;
+RT   "Downregulation of TAP1 in B lymphocytes by cellular and Epstein-Barr
+RT   virus-encoded interleukin-10.";
+RL   Blood 90:2390-2397(1997).
+RN   [20]
+RP   ACTIVITY REGULATION (MICROBIAL INFECTION), AND INHIBITION BY US6
+RP   GLYCOPROTEIN.
+RX   PubMed=9175839; DOI=10.1016/s1074-7613(00)80349-0;
+RA   Ahn K., Gruhler A., Galocha B., Jones T.R., Wiertz E.J.H.J., Ploegh H.L.,
+RA   Peterson P.A., Yang Y., Frueh K.;
+RT   "The ER-luminal domain of the HCMV glycoprotein US6 inhibits peptide
+RT   translocation by TAP.";
+RL   Immunity 6:613-621(1997).
+RN   [21]
+RP   FUNCTION.
+RX   PubMed=9256420; DOI=10.1073/pnas.94.17.8976;
+RA   Uebel S., Kraas W., Kienle S., Wiesmueller K.H., Jung G., Tampe R.;
+RT   "Recognition principle of the TAP transporter disclosed by combinatorial
+RT   peptide libraries.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:8976-8981(1997).
+RN   [22]
+RP   SUBUNIT, AND INTERACTION WITH HLA-E-B2M.
+RX   PubMed=9427624; DOI=10.1016/s0960-9822(98)70014-4;
+RA   Braud V.M., Allan D.S., Wilson D., McMichael A.J.;
+RT   "TAP- and tapasin-dependent HLA-E surface expression correlates with the
+RT   binding of an MHC class I leader peptide.";
+RL   Curr. Biol. 8:1-10(1998).
+RN   [23]
+RP   INTERACTION WITH ADENOVIRUS E3-19K GLYCOPROTEIN (MICROBIAL INFECTION).
+RX   PubMed=10227971;
+RA   Bennett E.M., Bennink J.R., Yewdell J.W., Brodsky F.M.;
+RT   "Adenovirus E19 has two mechanisms for affecting class I MHC expression.";
+RL   J. Immunol. 162:5049-5052(1999).
+RN   [24]
+RP   SUBUNIT, AND INTERACTION WITH HLA-F.
+RX   PubMed=10605026; DOI=10.4049/jimmunol.164.1.319;
+RA   Wainwright S.D., Biro P.A., Holmes C.H.;
+RT   "HLA-F is a predominantly empty, intracellular, TAP-associated MHC class Ib
+RT   protein with a restricted expression pattern.";
+RL   J. Immunol. 164:319-328(2000).
+RN   [25]
+RP   ACTIVITY REGULATION (MICROBIAL INFECTION), AND INHIBITION BY US6
+RP   GLYCOPROTEIN.
+RX   PubMed=11157746; DOI=10.1093/emboj/20.3.387;
+RA   Hewitt E.W., Gupta S.S., Lehner P.J.;
+RT   "The human cytomegalovirus gene product US6 inhibits ATP binding by TAP.";
+RL   EMBO J. 20:387-396(2001).
+RN   [26]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=11274390; DOI=10.1073/pnas.061467898;
+RA   Gorbulev S., Abele R., Tampe R.;
+RT   "Allosteric crosstalk between peptide-binding, transport, and ATP
+RT   hydrolysis of the ABC transporter TAP.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:3732-3737(2001).
+RN   [27]
+RP   INTERACTION WITH PSMB5 AND PSMB8.
+RX   PubMed=15488952; DOI=10.1016/j.molimm.2004.07.005;
+RA   Begley G.S., Horvath A.R., Taylor J.C., Higgins C.F.;
+RT   "Cytoplasmic domains of the transporter associated with antigen processing
+RT   and P-glycoprotein interact with subunits of the proteasome.";
+RL   Mol. Immunol. 42:137-141(2005).
+RN   [28]
+RP   INTERACTION WITH EPSTEIN-VIRUS/EBV PROTEIN BNLF2A (MICROBIAL INFECTION).
+RX   PubMed=19201886; DOI=10.4049/jimmunol.0803218;
+RA   Horst D., van Leeuwen D., Croft N.P., Garstka M.A., Hislop A.D.,
+RA   Kremmer E., Rickinson A.B., Wiertz E.J.H.J., Ressing M.E.;
+RT   "Specific targeting of the EBV lytic phase protein BNLF2a to the
+RT   transporter associated with antigen processing results in impairment of HLA
+RT   class I-restricted antigen presentation.";
+RL   J. Immunol. 182:2313-2324(2009).
+RN   [29]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [30]
+RP   SUBCELLULAR LOCATION, AND INTERACTION WITH TAPBP.
+RX   PubMed=22638925; DOI=10.1007/s00018-012-1005-6;
+RA   Hulpke S., Tomioka M., Kremmer E., Ueda K., Abele R., Tampe R.;
+RT   "Direct evidence that the N-terminal extensions of the TAP complex act as
+RT   autonomous interaction scaffolds for the assembly of the MHC I peptide-
+RT   loading complex.";
+RL   Cell. Mol. Life Sci. 69:3317-3327(2012).
+RN   [31]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, COFACTOR,
+RP   ACTIVITY REGULATION, AND MUTAGENESIS OF ASP-674.
+RX   PubMed=25377891; DOI=10.1038/ncomms6419;
+RA   Grossmann N., Vakkasoglu A.S., Hulpke S., Abele R., Gaudet R., Tampe R.;
+RT   "Mechanistic determinants of the directionality and energetics of active
+RT   export by a heterodimeric ABC transporter.";
+RL   Nat. Commun. 5:5419-5419(2014).
+RN   [32]
+RP   FUNCTION, CATALYTIC ACTIVITY, TISSUE SPECIFICITY, AND ACTIVITY REGULATION
+RP   (MICROBIAL INFECTION).
+RX   PubMed=25656091; DOI=10.1038/ncomms7199;
+RA   Fischbach H., Doering M., Nikles D., Lehnert E., Baldauf C., Kalinke U.,
+RA   Tampe R.;
+RT   "Ultrasensitive quantification of TAP-dependent antigen
+RT   compartmentalization in scarce primary immune cell subsets.";
+RL   Nat. Commun. 6:6199-6199(2015).
+RN   [33]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [34]
+RP   FUNCTION, SUBUNIT, INTERACTION WITH TAPBP, SITE, AND MUTAGENESIS OF ASP-32.
+RX   PubMed=26611325; DOI=10.1038/srep17341;
+RA   Blees A., Reichel K., Trowitzsch S., Fisette O., Bock C., Abele R.,
+RA   Hummer G., Schaefer L.V., Tampe R.;
+RT   "Assembly of the MHC I peptide-loading complex determined by a conserved
+RT   ionic lock-switch.";
+RL   Sci. Rep. 5:17341-17341(2015).
+RN   [35]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 489-748 IN COMPLEX WITH ADP AND
+RP   MAGNESIUM, AND COFACTOR.
+RX   PubMed=11532960; DOI=10.1093/emboj/20.17.4964;
+RA   Gaudet R., Wiley D.C.;
+RT   "Structure of the ABC ATPase domain of human TAP1, the transporter
+RT   associated with antigen processing.";
+RL   EMBO J. 20:4964-4972(2001).
+RN   [36]
+RP   VARIANTS VAL-333 AND GLY-637, AND POLYMORPHISM.
+RX   PubMed=1570316; DOI=10.1073/pnas.89.9.3932;
+RA   Colonna M., Bresnahan M., Bahram S., Strominger J.L., Spies T.;
+RT   "Allelic variants of the human putative peptide transporter involved in
+RT   antigen processing.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:3932-3936(1992).
+RN   [37]
+RP   VARIANT GLN-659.
+RX   PubMed=8640228; DOI=10.1038/ng0696-210;
+RA   Chen H.L., Gabrilovich D., Tampe R., Girgis K.R., Nadaf S., Carbone D.P.;
+RT   "A functionally defective allele of TAP1 results in loss of MHC class I
+RT   antigen presentation in a human lung cancer.";
+RL   Nat. Genet. 13:210-213(1996).
+RN   [38]
+RP   INVOLVEMENT IN BLS1.
+RX   PubMed=10074494; DOI=10.1172/jci5335;
+RA   Furukawa H., Murata S., Yabe T., Shimbara N., Keicho N., Kashiwase K.,
+RA   Watanabe K., Ishikawa Y., Akaza T., Tadokoro K., Tohma S., Inoue T.,
+RA   Tokunaga K., Yamamoto K., Tanaka K., Juji T.;
+RT   "Splice acceptor site mutation of the transporter associated with antigen
+RT   processing-1 gene in human bare lymphocyte syndrome.";
+RL   J. Clin. Invest. 103:755-758(1999).
+RN   [39]
+RP   VARIANTS VAL-333; VAL-370; LEU-458; ILE-518; GLY-637 AND GLN-648, AND
+RP   POLYMORPHISM.
+RX   PubMed=11250043; DOI=10.1016/s0198-8859(00)00259-7;
+RA   Tang J., Freedman D.O., Allen S., Karita E., Musonda R., Braga C.,
+RA   Margolick J., Kaslow R.A.;
+RT   "TAP1 polymorphisms in several human ethnic groups: characteristics,
+RT   evolution, and genotyping strategies.";
+RL   Hum. Immunol. 62:256-268(2001).
+RN   [40]
+RP   VARIANTS SER-7; ARG-17; VAL-333; VAL-370; CYS-419; LEU-458; GLY-637 AND
+RP   GLN-648, AND POLYMORPHISM.
+RX   PubMed=12878362; DOI=10.1016/s0198-8859(03)00110-1;
+RA   Lajoie J., Zijenah L.S., Faucher M.C., Ward B.J., Roger M.;
+RT   "Novel TAP1 polymorphisms in indigenous Zimbabweans: their potential
+RT   implications on TAP function and in human diseases.";
+RL   Hum. Immunol. 64:823-829(2003).
+CC   -!- FUNCTION: ABC transporter associated with antigen processing. In
+CC       complex with TAP2 mediates unidirectional translocation of peptide
+CC       antigens from cytosol to endoplasmic reticulum (ER) for loading onto
+CC       MHC class I (MHCI) molecules (PubMed:25656091, PubMed:25377891). Uses
+CC       the chemical energy of ATP to export peptides against the concentration
+CC       gradient (PubMed:25377891). During the transport cycle alternates
+CC       between 'inward-facing' state with peptide binding site facing the
+CC       cytosol to 'outward-facing' state with peptide binding site facing the
+CC       ER lumen. Peptide antigen binding to ATP-loaded TAP1-TAP2 induces a
+CC       switch to hydrolysis-competent 'outward-facing' conformation ready for
+CC       peptide loading onto nascent MHCI molecules. Subsequently ATP
+CC       hydrolysis resets the transporter to the 'inward facing' state for a
+CC       new cycle (PubMed:25377891, PubMed:25656091, PubMed:11274390).
+CC       Typically transports intracellular peptide antigens of 8 to 13 amino
+CC       acids that arise from cytosolic proteolysis via IFNG-induced
+CC       immunoproteasome. Binds peptides with free N- and C-termini, the first
+CC       three and the C-terminal residues being critical. Preferentially
+CC       selects peptides having a highly hydrophobic residue at position 3 and
+CC       hydrophobic or charged residues at the C-terminal anchor. Proline at
+CC       position 2 has the most destabilizing effect (PubMed:7500034,
+CC       PubMed:9256420, PubMed:11274390). As a component of the peptide loading
+CC       complex (PLC), acts as a molecular scaffold essential for peptide-MHCI
+CC       assembly and antigen presentation (PubMed:26611325, PubMed:1538751,
+CC       PubMed:25377891). {ECO:0000269|PubMed:11274390,
+CC       ECO:0000269|PubMed:1538751, ECO:0000269|PubMed:25377891,
+CC       ECO:0000269|PubMed:25656091, ECO:0000269|PubMed:26611325,
+CC       ECO:0000269|PubMed:7500034, ECO:0000269|PubMed:9256420}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a peptide antigen(in) + ATP + H2O = a peptide antigen(out) +
+CC         ADP + H(+) + phosphate; Xref=Rhea:RHEA:65972, Rhea:RHEA-COMP:16941,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:166823, ChEBI:CHEBI:456216;
+CC         EC=7.4.2.14; Evidence={ECO:0000269|PubMed:11274390,
+CC         ECO:0000269|PubMed:25377891, ECO:0000269|PubMed:25656091};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:65973;
+CC         Evidence={ECO:0000305|PubMed:11274390, ECO:0000305|PubMed:25377891,
+CC         ECO:0000305|PubMed:25656091};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:11532960, ECO:0000269|PubMed:25377891,
+CC         ECO:0007744|PDB:1JJ7};
+CC   -!- ACTIVITY REGULATION: Inhibited at high ER lumenal peptide
+CC       concentrations. {ECO:0000269|PubMed:25377891}.
+CC   -!- ACTIVITY REGULATION: (Microbial infection) Inhibited by herpes simplex
+CC       virus US12/ICP47 protein, which blocks the peptide-binding site of
+CC       TAP1-TAP2. {ECO:0000269|PubMed:25656091, ECO:0000269|PubMed:8670825}.
+CC   -!- ACTIVITY REGULATION: (Microbial infection) Inhibited by human
+CC       cytomegalovirus US6 glycoprotein, which binds to the lumenal side of
+CC       TAP1-TAP2 complex and inhibits peptide translocation by specifically
+CC       blocking ATP-binding and preventing TAP1-TAP2 conformational
+CC       rearrangement induced by peptide binding. {ECO:0000269|PubMed:11157746,
+CC       ECO:0000269|PubMed:25656091, ECO:0000269|PubMed:9175839}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.3 mM for ATP {ECO:0000269|PubMed:11274390};
+CC         KM=0.099 mM for ATP {ECO:0000269|PubMed:25377891};
+CC         Vmax=2 umol/min/mg enzyme toward ATP {ECO:0000269|PubMed:11274390};
+CC   -!- SUBUNIT: Heterodimer of TAP1 and TAP2 (TAP1-TAP2) (PubMed:1538751). A
+CC       component of the peptide loading complex (PLC), interacts via TAPBP
+CC       with MHCI heterodimer; this interaction mediates peptide-MHCI assembly
+CC       (PubMed:26611325). Recruits TAPBP in a 1:1 stoichiometry
+CC       (PubMed:22638925). Interacts with classical MHCI such as HLA-A*02-B2M;
+CC       this interaction is obligatory for the loading of peptide epitopes
+CC       (PubMed:8805302, PubMed:8630735). Interacts with non-classical MHCI
+CC       molecules including HLA-E-B2M and HLA-F-B2M as well as PLC component
+CC       CALR before the peptide loading (PubMed:9427624, PubMed:10605026).
+CC       Interacts with PSMB5 and PSMB8 (PubMed:15488952).
+CC       {ECO:0000269|PubMed:10605026, ECO:0000269|PubMed:1538751,
+CC       ECO:0000269|PubMed:15488952, ECO:0000269|PubMed:22638925,
+CC       ECO:0000269|PubMed:26611325, ECO:0000269|PubMed:8630735,
+CC       ECO:0000269|PubMed:8805302, ECO:0000269|PubMed:9427624}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with Epstein-Barr virus
+CC       BNLF2a. {ECO:0000269|PubMed:19201886}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with herpes simplex virus
+CC       US12/ICP47. {ECO:0000269|PubMed:7760936}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with adenovirus E3-19K
+CC       glycoprotein, which binds TAP1-TAP2 and acts as a TAPBP inhibitor,
+CC       preventing TAP1-TAP2 association with MHCI.
+CC       {ECO:0000269|PubMed:10227971}.
+CC   -!- INTERACTION:
+CC       Q03518; Q13520: AQP6; NbExp=3; IntAct=EBI-747259, EBI-13059134;
+CC       Q03518; P27797: CALR; NbExp=2; IntAct=EBI-747259, EBI-1049597;
+CC       Q03518; Q9Y282: ERGIC3; NbExp=3; IntAct=EBI-747259, EBI-781551;
+CC       Q03518; P60508: ERVFRD-1; NbExp=3; IntAct=EBI-747259, EBI-17973325;
+CC       Q03518; P57678: GEMIN4; NbExp=3; IntAct=EBI-747259, EBI-356700;
+CC       Q03518; Q8TDT2: GPR152; NbExp=3; IntAct=EBI-747259, EBI-13345167;
+CC       Q03518; Q5TA81: LCE2C; NbExp=3; IntAct=EBI-747259, EBI-11973993;
+CC       Q03518; P07237: P4HB; NbExp=4; IntAct=EBI-747259, EBI-395883;
+CC       Q03518; P30101: PDIA3; NbExp=5; IntAct=EBI-747259, EBI-979862;
+CC       Q03518; Q6ZMZ0: RNF19B; NbExp=3; IntAct=EBI-747259, EBI-2466594;
+CC       Q03518; Q14973: SLC10A1; NbExp=3; IntAct=EBI-747259, EBI-3923031;
+CC       Q03518; Q3KNW5: SLC10A6; NbExp=3; IntAct=EBI-747259, EBI-18159983;
+CC       Q03518; Q9NQQ7-3: SLC35C2; NbExp=3; IntAct=EBI-747259, EBI-17295964;
+CC       Q03518; Q8WWF3: SSMEM1; NbExp=3; IntAct=EBI-747259, EBI-17280858;
+CC       Q03518; Q03519: TAP2; NbExp=14; IntAct=EBI-747259, EBI-780781;
+CC       Q03518; O15533: TAPBP; NbExp=13; IntAct=EBI-747259, EBI-874801;
+CC       Q03518; Q13769: THOC5; NbExp=4; IntAct=EBI-747259, EBI-5280316;
+CC       Q03518; Q9NUH8: TMEM14B; NbExp=3; IntAct=EBI-747259, EBI-8638294;
+CC       Q03518; P0C739: BNLF2a; Xeno; NbExp=9; IntAct=EBI-747259, EBI-9346744;
+CC       Q03518; Q77CE4: gN; Xeno; NbExp=6; IntAct=EBI-747259, EBI-11303846;
+CC       Q03518-2; Q03519: TAP2; NbExp=4; IntAct=EBI-31441209, EBI-780781;
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum membrane
+CC       {ECO:0000269|PubMed:1589036, ECO:0000269|PubMed:22638925}; Multi-pass
+CC       membrane protein {ECO:0000255}. Note=The transmembrane segments seem to
+CC       form a pore in the membrane.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative initiation; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q03518-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q03518-2; Sequence=VSP_061432;
+CC   -!- TISSUE SPECIFICITY: Higly expressed in professional APCs monocytes and
+CC       dendritic cells as well as in lymphocyte subsets T cells, B cells and
+CC       NK cells. {ECO:0000269|PubMed:25656091, ECO:0000269|PubMed:9310490}.
+CC   -!- INDUCTION: Up-regulated by IFNG (PubMed:1946428). Down-regulated by
+CC       IL10 (PubMed:9310490). {ECO:0000269|PubMed:1946428,
+CC       ECO:0000269|PubMed:9310490}.
+CC   -!- INDUCTION: (Microbial infection) Down-regulated by BCRF1/viral IL10.
+CC       {ECO:0000269|PubMed:9310490}.
+CC   -!- DOMAIN: The peptide-binding site is shared between the cytoplasmic
+CC       loops of TAP1 and TAP2. {ECO:0000269|PubMed:8955196}.
+CC   -!- DOMAIN: The nucleotide-binding domain (NBD) mediates ATP hydrolysis
+CC       coupled to peptide translocation. Two ATP molecules are accommodated at
+CC       distinct nucleotide binding sites (NBS) at TAP1-TAP2 dimer interface.
+CC       Each NBS is formed by Walker A (GxxGxGKST) and Q-loop motifs from NBD
+CC       of one subunit, while the NBD from the second subunit completes the
+CC       active site by contributing the C loop motif (LSGGQ). Each ATP molecule
+CC       is coordinated via the beta- and gamma-phosphates to a Mg2+ ion, which
+CC       is necessary for ATP hydrolysis. {ECO:0000250|UniProtKB:P36370}.
+CC   -!- POLYMORPHISM: There are five common alleles; TAP1*01:01 (PSF1A),
+CC       TAP1*02:01 (PSF1B), TAP1*03:01 (PSF1C), TAP1*01:04 and TAP1*x. The
+CC       sequence of TAP1*01:01 is shown here. {ECO:0000269|PubMed:11250043,
+CC       ECO:0000269|PubMed:12878362, ECO:0000269|PubMed:1570316,
+CC       ECO:0000269|PubMed:8168860, ECO:0000269|PubMed:8248212}.
+CC   -!- DISEASE: Bare lymphocyte syndrome 1 (BLS1) [MIM:604571]: A HLA class I
+CC       deficiency. Contrary to bare lymphocyte syndromes type 2 and type 3,
+CC       which are characterized by early-onset severe combined
+CC       immunodeficiency, class I antigen deficiencies are not accompanied by
+CC       particular pathologic manifestations during the first years of life.
+CC       Systemic infections have not been described. Chronic bacterial
+CC       infections, often beginning in the first decade of life, are restricted
+CC       to the respiratory tract. {ECO:0000269|PubMed:10074494}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- SIMILARITY: Belongs to the ABC transporter superfamily. ABCB family.
+CC       MHC peptide exporter (TC 3.A.1.209) subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA47025.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=CAA60785.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=TAP1base; Note=TAP1 mutation db;
+CC       URL="http://structure.bmc.lu.se/idbase/TAP1base/";
+CC   -!- WEB RESOURCE: Name=ABCMdb; Note=Database for mutations in ABC proteins;
+CC       URL="http://abcm2.hegelab.org/search";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X57522; CAA40741.1; -; mRNA.
+DR   EMBL; X66401; CAA47025.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; X87344; CAA60785.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AL669918; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL671681; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL935043; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BX927138; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR762476; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR933844; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR753889; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471081; EAX03647.1; -; Genomic_DNA.
+DR   EMBL; BC014081; AAH14081.1; -; mRNA.
+DR   EMBL; L21204; AAC12902.1; -; mRNA.
+DR   EMBL; L21205; AAC12903.1; -; mRNA.
+DR   EMBL; L21206; AAC12904.1; -; mRNA.
+DR   EMBL; L21207; AAC12905.1; -; mRNA.
+DR   EMBL; L21208; AAC12906.1; -; mRNA.
+DR   EMBL; X57521; CAA40740.1; -; mRNA.
+DR   EMBL; S70274; AAD14056.1; -; mRNA.
+DR   CCDS; CCDS4758.2; -. [Q03518-1]
+DR   PIR; S13427; A41538.
+DR   RefSeq; NP_000584.2; NM_000593.5. [Q03518-1]
+DR   RefSeq; NP_001278951.1; NM_001292022.1.
+DR   PDB; 1JJ7; X-ray; 2.40 A; A=489-748.
+DR   PDB; 5U1D; EM; 3.97 A; A=1-748.
+DR   PDBsum; 1JJ7; -.
+DR   PDBsum; 5U1D; -.
+DR   AlphaFoldDB; Q03518; -.
+DR   SMR; Q03518; -.
+DR   BioGRID; 112753; 171.
+DR   CORUM; Q03518; -.
+DR   DIP; DIP-35626N; -.
+DR   IntAct; Q03518; 65.
+DR   MINT; Q03518; -.
+DR   STRING; 9606.ENSP00000346206; -.
+DR   ChEMBL; CHEMBL4523275; -.
+DR   DrugBank; DB01259; Lapatinib.
+DR   TCDB; 3.A.1.209.1; the atp-binding cassette (abc) superfamily.
+DR   GlyGen; Q03518; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q03518; -.
+DR   MetOSite; Q03518; -.
+DR   PhosphoSitePlus; Q03518; -.
+DR   SwissPalm; Q03518; -.
+DR   BioMuta; TAP1; -.
+DR   DMDM; 215273957; -.
+DR   EPD; Q03518; -.
+DR   jPOST; Q03518; -.
+DR   MassIVE; Q03518; -.
+DR   MaxQB; Q03518; -.
+DR   PaxDb; Q03518; -.
+DR   PeptideAtlas; Q03518; -.
+DR   ProteomicsDB; 58214; -.
+DR   Antibodypedia; 4017; 353 antibodies from 40 providers.
+DR   CPTC; Q03518; 1 antibody.
+DR   DNASU; 6890; -.
+DR   Ensembl; ENST00000354258.5; ENSP00000346206.5; ENSG00000168394.13. [Q03518-1]
+DR   Ensembl; ENST00000383235.4; ENSP00000372722.4; ENSG00000206297.7. [Q03518-2]
+DR   Ensembl; ENST00000414467.2; ENSP00000405356.2; ENSG00000226173.4. [Q03518-2]
+DR   Ensembl; ENST00000418205.2; ENSP00000401149.2; ENSG00000227816.4. [Q03518-2]
+DR   Ensembl; ENST00000424897.2; ENSP00000413080.2; ENSG00000230705.4. [Q03518-2]
+DR   Ensembl; ENST00000439781.2; ENSP00000415660.2; ENSG00000224212.4. [Q03518-2]
+DR   Ensembl; ENST00000440894.2; ENSP00000402316.2; ENSG00000232367.5. [Q03518-2]
+DR   GeneID; 6890; -.
+DR   KEGG; hsa:6890; -.
+DR   MANE-Select; ENST00000354258.5; ENSP00000346206.5; NM_000593.6; NP_000584.3.
+DR   UCSC; uc003ocg.4; human. [Q03518-1]
+DR   AGR; HGNC:43; -.
+DR   CTD; 6890; -.
+DR   DisGeNET; 6890; -.
+DR   GeneCards; TAP1; -.
+DR   HGNC; HGNC:43; TAP1.
+DR   HPA; ENSG00000168394; Low tissue specificity.
+DR   MalaCards; TAP1; -.
+DR   MIM; 170260; gene.
+DR   MIM; 604571; phenotype.
+DR   neXtProt; NX_Q03518; -.
+DR   OpenTargets; ENSG00000168394; -.
+DR   Orphanet; 34592; Immunodeficiency by defective expression of MHC class I.
+DR   PharmGKB; PA35021; -.
+DR   VEuPathDB; HostDB:ENSG00000168394; -.
+DR   eggNOG; KOG0058; Eukaryota.
+DR   GeneTree; ENSGT00940000159023; -.
+DR   HOGENOM; CLU_000604_84_3_1; -.
+DR   InParanoid; Q03518; -.
+DR   OMA; VINGMSV; -.
+DR   OrthoDB; 5487044at2759; -.
+DR   PhylomeDB; Q03518; -.
+DR   TreeFam; TF105197; -.
+DR   BRENDA; 7.4.2.14; 2681.
+DR   BRENDA; 7.4.2.5; 2681.
+DR   PathwayCommons; Q03518; -.
+DR   Reactome; R-HSA-1236974; ER-Phagosome pathway.
+DR   Reactome; R-HSA-983170; Antigen Presentation: Folding, assembly and peptide loading of class I MHC.
+DR   SignaLink; Q03518; -.
+DR   SIGNOR; Q03518; -.
+DR   BioGRID-ORCS; 6890; 23 hits in 1165 CRISPR screens.
+DR   ChiTaRS; TAP1; human.
+DR   EvolutionaryTrace; Q03518; -.
+DR   GeneWiki; TAP1; -.
+DR   GenomeRNAi; 6890; -.
+DR   Pharos; Q03518; Tbio.
+DR   PRO; PR:Q03518; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q03518; protein.
+DR   Bgee; ENSG00000168394; Expressed in granulocyte and 97 other tissues.
+DR   ExpressionAtlas; Q03518; baseline and differential.
+DR   Genevisible; Q03518; HS.
+DR   GO; GO:0034451; C:centriolar satellite; IDA:HPA.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:HPA.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IDA:UniProtKB.
+DR   GO; GO:0033116; C:endoplasmic reticulum-Golgi intermediate compartment membrane; TAS:Reactome.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0042824; C:MHC class I peptide loading complex; IDA:UniProtKB.
+DR   GO; GO:0030670; C:phagocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0042825; C:TAP complex; IDA:UniProtKB.
+DR   GO; GO:0015433; F:ABC-type peptide antigen transporter activity; IDA:UniProtKB.
+DR   GO; GO:0043531; F:ADP binding; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IDA:UniProtKB.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:InterPro.
+DR   GO; GO:0042626; F:ATPase-coupled transmembrane transporter activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0042288; F:MHC class I protein binding; IEA:Ensembl.
+DR   GO; GO:0023029; F:MHC class Ib protein binding; IPI:UniProtKB.
+DR   GO; GO:0042605; F:peptide antigen binding; IDA:UniProtKB.
+DR   GO; GO:1904680; F:peptide transmembrane transporter activity; IMP:UniProtKB.
+DR   GO; GO:0042803; F:protein homodimerization activity; ISS:UniProtKB.
+DR   GO; GO:0046978; F:TAP1 binding; ISS:UniProtKB.
+DR   GO; GO:0046979; F:TAP2 binding; IPI:UniProtKB.
+DR   GO; GO:0002250; P:adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0019885; P:antigen processing and presentation of endogenous peptide antigen via MHC class I; IDA:UniProt.
+DR   GO; GO:0046967; P:cytosol to endoplasmic reticulum transport; IMP:UniProtKB.
+DR   GO; GO:0006952; P:defense response; IEA:Ensembl.
+DR   GO; GO:0015833; P:peptide transport; IMP:UniProtKB.
+DR   GO; GO:0015031; P:protein transport; IEA:UniProtKB-KW.
+DR   GO; GO:0055085; P:transmembrane transport; IBA:GO_Central.
+DR   CDD; cd18589; ABC_6TM_TAP1; 1.
+DR   CDD; cd03248; ABCC_TAP; 1.
+DR   DisProt; DP01306; -.
+DR   Gene3D; 1.20.1560.10; ABC transporter type 1, transmembrane domain; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 1.
+DR   InterPro; IPR003593; AAA+_ATPase.
+DR   InterPro; IPR011527; ABC1_TM_dom.
+DR   InterPro; IPR036640; ABC1_TM_sf.
+DR   InterPro; IPR013305; ABC_Tap-like.
+DR   InterPro; IPR003439; ABC_transporter-like_ATP-bd.
+DR   InterPro; IPR017871; ABC_transporter-like_CS.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR039421; Type_1_exporter.
+DR   PANTHER; PTHR43394:SF8; ATP BINDING CASSETTE SUBFAMILY B MEMBER 9; 1.
+DR   PANTHER; PTHR43394; ATP-DEPENDENT PERMEASE MDL1, MITOCHONDRIAL; 1.
+DR   Pfam; PF00664; ABC_membrane; 1.
+DR   Pfam; PF00005; ABC_tran; 1.
+DR   PIRSF; PIRSF002773; ABC_prm/ATPase_B; 1.
+DR   PRINTS; PR01896; TAP1PROTEIN.
+DR   SMART; SM00382; AAA; 1.
+DR   SUPFAM; SSF90123; ABC transporter transmembrane region; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS50929; ABC_TM1F; 1.
+DR   PROSITE; PS00211; ABC_TRANSPORTER_1; 1.
+DR   PROSITE; PS50893; ABC_TRANSPORTER_2; 1.
+DR   TIGRFAMs; TIGR00958; 3a01208; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Adaptive immunity; Alternative initiation; ATP-binding;
+KW   Endoplasmic reticulum; Host-virus interaction; Immunity; Magnesium;
+KW   Membrane; Metal-binding; Nucleotide-binding; Peptide transport;
+KW   Protein transport; Reference proteome; Translocase; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   CHAIN           1..748
+FT                   /note="Antigen peptide transporter 1"
+FT                   /id="PRO_0000093326"
+FT   TOPO_DOM        1..15
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        16..36
+FT                   /note="Helical; Name=1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        37..53
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        54..76
+FT                   /note="Helical; Name=2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        77..92
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        93..113
+FT                   /note="Helical; Name=3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        114..133
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        134..154
+FT                   /note="Helical; Name=4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        155..186
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        187..207
+FT                   /note="Helical; Name=5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        208..227
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        228..248
+FT                   /note="Helical; Name=6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        249..298
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        299..319
+FT                   /note="Helical; Name=7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        320..328
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        329..349
+FT                   /note="Helical; Name=8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        350..418
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        419..439
+FT                   /note="Helical; Name=9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        440..443
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        444..464
+FT                   /note="Helical; Name=10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   TOPO_DOM        465..748
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          187..470
+FT                   /note="ABC transmembrane type-1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00441"
+FT   DOMAIN          503..742
+FT                   /note="ABC transporter"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00434"
+FT   REGION          375..420
+FT                   /note="Part of the peptide-binding site"
+FT                   /evidence="ECO:0000269|PubMed:8955196"
+FT   REGION          453..487
+FT                   /note="Part of the peptide-binding site"
+FT                   /evidence="ECO:0000269|PubMed:8955196"
+FT   BINDING         538..546
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:P36370,
+FT                   ECO:0000255|PROSITE-ProRule:PRU00434"
+FT   BINDING         545
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /evidence="ECO:0000269|PubMed:11532960,
+FT                   ECO:0007744|PDB:1JJ7"
+FT   BINDING         641..647
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:P36370"
+FT   BINDING         701
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:P36370"
+FT   SITE            32
+FT                   /note="Inter-subunit salt bridge with TAPBP"
+FT                   /evidence="ECO:0000269|PubMed:26611325"
+FT   VAR_SEQ         1
+FT                   /note="M -> MAELLASAGSACSWDFPRAPPSFPPPAASRGGLGGTRSFRPHRGAES
+FT                   PRPGRDRDGVRVPM (in isoform 2)"
+FT                   /id="VSP_061432"
+FT   VARIANT         7
+FT                   /note="P -> S (in dbSNP:rs375389015)"
+FT                   /evidence="ECO:0000269|PubMed:12878362"
+FT                   /id="VAR_016801"
+FT   VARIANT         17
+FT                   /note="G -> R (in dbSNP:rs57640466)"
+FT                   /evidence="ECO:0000269|PubMed:12878362"
+FT                   /id="VAR_016802"
+FT   VARIANT         110
+FT                   /note="L -> V (in dbSNP:rs2228108)"
+FT                   /id="VAR_048137"
+FT   VARIANT         244
+FT                   /note="V -> L (in dbSNP:rs36229525)"
+FT                   /id="VAR_060987"
+FT   VARIANT         286
+FT                   /note="S -> F (in dbSNP:rs2228111)"
+FT                   /id="VAR_048138"
+FT   VARIANT         333
+FT                   /note="I -> V (in allele TAP1*02:01, allele TAP1*03:01,
+FT                   allele TAP1*04:01 and allele TAP1*x; dbSNP:rs1057141)"
+FT                   /evidence="ECO:0000269|PubMed:11250043,
+FT                   ECO:0000269|PubMed:12878362, ECO:0000269|PubMed:1570316,
+FT                   ECO:0000269|PubMed:8248212"
+FT                   /id="VAR_000092"
+FT   VARIANT         370
+FT                   /note="A -> V (in allele TAP1*x; dbSNP:rs2127679)"
+FT                   /evidence="ECO:0000269|PubMed:11250043,
+FT                   ECO:0000269|PubMed:12878362"
+FT                   /id="VAR_013151"
+FT   VARIANT         419
+FT                   /note="G -> C (in dbSNP:rs2228110)"
+FT                   /evidence="ECO:0000269|PubMed:12878362"
+FT                   /id="VAR_016803"
+FT   VARIANT         458
+FT                   /note="V -> L (in allele TAP1*04:01; dbSNP:rs41550019)"
+FT                   /evidence="ECO:0000269|PubMed:11250043,
+FT                   ECO:0000269|PubMed:12878362, ECO:0000269|PubMed:8248212"
+FT                   /id="VAR_013152"
+FT   VARIANT         518
+FT                   /note="V -> I (in allele TAP1*x; dbSNP:rs41561219)"
+FT                   /evidence="ECO:0000269|PubMed:11250043"
+FT                   /id="VAR_013153"
+FT   VARIANT         637
+FT                   /note="D -> G (in allele TAP1*02:01, allele TAP1*04:01 and
+FT                   allele TAP1*x; dbSNP:rs1135216)"
+FT                   /evidence="ECO:0000269|PubMed:11250043,
+FT                   ECO:0000269|PubMed:12878362, ECO:0000269|PubMed:1570316,
+FT                   ECO:0000269|PubMed:8168860, ECO:0000269|PubMed:8248212"
+FT                   /id="VAR_000093"
+FT   VARIANT         648
+FT                   /note="R -> Q (in allele TAP1*04:01; dbSNP:rs1057149)"
+FT                   /evidence="ECO:0000269|PubMed:11250043,
+FT                   ECO:0000269|PubMed:12878362, ECO:0000269|PubMed:8168860,
+FT                   ECO:0000269|PubMed:8248212"
+FT                   /id="VAR_013154"
+FT   VARIANT         659
+FT                   /note="R -> Q (in a lung cancer cell line deficient in MHC
+FT                   class I presentation; dbSNP:rs121917702)"
+FT                   /evidence="ECO:0000269|PubMed:8640228"
+FT                   /id="VAR_013173"
+FT   VARIANT         708
+FT                   /note="Q -> R (in dbSNP:rs1057149)"
+FT                   /id="VAR_047514"
+FT   MUTAGEN         32
+FT                   /note="D->K: Complete loss of interaction with TAPBP,
+FT                   resulting in impaired PLC assembly and antigen
+FT                   presentation."
+FT                   /evidence="ECO:0000269|PubMed:26611325"
+FT   MUTAGEN         674
+FT                   /note="D->A: Impairs allosteric coupling of peptide
+FT                   transport to ATP hydrolysis, converting the unidirectional
+FT                   active pump into a passive bidirectional nucleotide-gated
+FT                   facilitator. Inactive in peptide transport when associated
+FT                   with 'A-638' of TAP2."
+FT                   /evidence="ECO:0000269|PubMed:25377891"
+FT   STRAND          503..510
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          520..528
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          533..537
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           544..551
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          558..564
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           569..571
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           574..580
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          581..584
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          592..594
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           595..600
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           609..618
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           622..626
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           631..633
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          641..643
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           645..657
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          662..668
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   TURN            669..672
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           675..686
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           689..693
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          695..699
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           703..707
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          710..716
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   STRAND          719..724
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           726..732
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+FT   HELIX           735..740
+FT                   /evidence="ECO:0007829|PDB:1JJ7"
+SQ   SEQUENCE   748 AA;  80965 MW;  E703ECCC09417002 CRC64;
+     MASSRCPAPR GCRCLPGASL AWLGTVLLLL ADWVLLRTAL PRIFSLLVPT ALPLLRVWAV
+     GLSRWAVLWL GACGVLRATV GSKSENAGAQ GWLAALKPLA AALGLALPGL ALFRELISWG
+     APGSADSTRL LHWGSHPTAF VVSYAAALPA AALWHKLGSL WVPGGQGGSG NPVRRLLGCL
+     GSETRRLSLF LVLVVLSSLG EMAIPFFTGR LTDWILQDGS ADTFTRNLTL MSILTIASAV
+     LEFVGDGIYN NTMGHVHSHL QGEVFGAVLR QETEFFQQNQ TGNIMSRVTE DTSTLSDSLS
+     ENLSLFLWYL VRGLCLLGIM LWGSVSLTMV TLITLPLLFL LPKKVGKWYQ LLEVQVRESL
+     AKSSQVAIEA LSAMPTVRSF ANEEGEAQKF REKLQEIKTL NQKEAVAYAV NSWTTSISGM
+     LLKVGILYIG GQLVTSGAVS SGNLVTFVLY QMQFTQAVEV LLSIYPRVQK AVGSSEKIFE
+     YLDRTPRCPP SGLLTPLHLE GLVQFQDVSF AYPNRPDVLV LQGLTFTLRP GEVTALVGPN
+     GSGKSTVAAL LQNLYQPTGG QLLLDGKPLP QYEHRYLHRQ VAAVGQEPQV FGRSLQENIA
+     YGLTQKPTME EITAAAVKSG AHSFISGLPQ GYDTEVDEAG SQLSGGQRQA VALARALIRK
+     PCVLILDDAT SALDANSQLQ VEQLLYESPE RYSRSVLLIT QHLSLVEQAD HILFLEGGAI
+     REGGTHQQLM EKKGCYWAMV QAPADAPE
+//

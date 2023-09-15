@@ -1,0 +1,618 @@
+ID   RIR1_HUMAN              Reviewed;         792 AA.
+AC   P23921; Q9UNN2;
+DT   01-MAR-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-1992, sequence version 1.
+DT   28-JUN-2023, entry version 216.
+DE   RecName: Full=Ribonucleoside-diphosphate reductase large subunit;
+DE            EC=1.17.4.1;
+DE   AltName: Full=Ribonucleoside-diphosphate reductase subunit M1;
+DE   AltName: Full=Ribonucleotide reductase large subunit;
+GN   Name=RRM1; Synonyms=RR1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Bone marrow;
+RX   PubMed=1840662; DOI=10.1093/nar/19.13.3741;
+RA   Parker N.J., Begley C.G., Fox R.M.;
+RT   "Human M1 subunit of ribonucleotide reductase: cDNA sequence and expression
+RT   in stimulated lymphocytes.";
+RL   Nucleic Acids Res. 19:3741-3741(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Mammary carcinoma;
+RX   PubMed=1627826; DOI=10.3109/10425179209020807;
+RA   Pavloff N., Rivard D., Masson S., Shen S.-H., Mes-Masson A.-M.;
+RT   "Sequence analysis of the large and small subunits of human ribonucleotide
+RT   reductase.";
+RL   DNA Seq. 2:227-234(1992).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9933563; DOI=10.1006/geno.1998.5659;
+RA   Bepler G., O'Briant K.C., Kim Y.-C., Schreiber G., Pitterle D.M.;
+RT   "A 1.4-Mb high-resolution physical map and contig of chromosome segment
+RT   11p15.5 and genes in the LOH11A metastasis suppressor region.";
+RL   Genomics 55:164-175(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lymph;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-6.
+RC   TISSUE=Placenta;
+RX   PubMed=8188248; DOI=10.1006/geno.1994.1017;
+RA   Parker N.J., Begley C.G., Fox R.M.;
+RT   "Human R1 subunit of ribonucleotide reductase (RRM1): 5' flanking region of
+RT   the gene.";
+RL   Genomics 19:91-96(1994).
+RN   [6]
+RP   ACTIVITY REGULATION.
+RX   PubMed=1867633; DOI=10.1016/0006-2952(91)90033-2;
+RA   Harrington J.A., Spector T.;
+RT   "Human ribonucleotide reductase. Activation and inhibition by analogs of
+RT   ATP.";
+RL   Biochem. Pharmacol. 42:759-763(1991).
+RN   [7]
+RP   INTERACTION WITH RRM2B.
+RX   PubMed=12615712;
+RA   Xue L., Zhou B., Liu X., Qiu W., Jin Z., Yen Y.;
+RT   "Wild-type p53 regulates human ribonucleotide reductase by protein-protein
+RT   interaction with p53R2 as well as hRRM2 subunits.";
+RL   Cancer Res. 63:980-986(2003).
+RN   [8]
+RP   CATALYTIC ACTIVITY, SUBUNIT, AND ACTIVITY REGULATION.
+RX   PubMed=16376858; DOI=10.1016/j.bbrc.2005.12.019;
+RA   Qiu W., Zhou B., Darwish D., Shao J., Yen Y.;
+RT   "Characterization of enzymatic properties of human ribonucleotide reductase
+RT   holoenzyme reconstituted in vitro from hRRM1, hRRM2, and p53R2 subunits.";
+RL   Biochem. Biophys. Res. Commun. 340:428-434(2006).
+RN   [9]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-17 AND LYS-376, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-751, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [12]
+RP   ACTIVITY REGULATION, MUTAGENESIS OF ASP-57, AND INTERACTION WITH AHCYL1.
+RX   PubMed=25237103; DOI=10.1126/science.1251550;
+RA   Arnaoutov A., Dasso M.;
+RT   "Enzyme regulation. IRBIT is a novel regulator of ribonucleotide reductase
+RT   in higher eukaryotes.";
+RL   Science 345:1512-1515(2014).
+RN   [13] {ECO:0007744|PDB:2WGH, ECO:0007744|PDB:3HNC, ECO:0007744|PDB:3HND, ECO:0007744|PDB:3HNE, ECO:0007744|PDB:3HNF}
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 75-742 IN COMPLEX WITH ALLOSTERIC
+RP   EFFECTORS ATP; DATP; DTTP; SUBSTRATE GDP AND MAGNESIUM IONS.
+RX   PubMed=21336276; DOI=10.1038/nsmb.2007;
+RA   Fairman J.W., Wijerathna S.R., Ahmad M.F., Xu H., Nakano R., Jha S.,
+RA   Prendergast J., Welin R.M., Flodin S., Roos A., Nordlund P., Li Z.,
+RA   Walz T., Dealwis C.G.;
+RT   "Structural basis for allosteric regulation of human ribonucleotide
+RT   reductase by nucleotide-induced oligomerization.";
+RL   Nat. Struct. Mol. Biol. 18:316-322(2011).
+CC   -!- FUNCTION: Provides the precursors necessary for DNA synthesis.
+CC       Catalyzes the biosynthesis of deoxyribonucleotides from the
+CC       corresponding ribonucleotides.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=[thioredoxin]-disulfide + a 2'-deoxyribonucleoside 5'-
+CC         diphosphate + H2O = [thioredoxin]-dithiol + a ribonucleoside 5'-
+CC         diphosphate; Xref=Rhea:RHEA:23252, Rhea:RHEA-COMP:10698, Rhea:RHEA-
+CC         COMP:10700, ChEBI:CHEBI:15377, ChEBI:CHEBI:29950, ChEBI:CHEBI:50058,
+CC         ChEBI:CHEBI:57930, ChEBI:CHEBI:73316; EC=1.17.4.1;
+CC         Evidence={ECO:0000269|PubMed:16376858};
+CC   -!- ACTIVITY REGULATION: Under complex allosteric control mediated by
+CC       deoxynucleoside triphosphates and ATP binding to separate specificity
+CC       and activation sites on the M1 subunit. The type of nucleotide bound at
+CC       the specificity site determines substrate preference. It seems probable
+CC       that ATP makes the enzyme reduce CDP and UDP, dGTP favors ADP reduction
+CC       and dTTP favors GDP reduction. Stimulated by ATP and inhibited by dATP
+CC       binding to the activity site, the dATP inhibition is mediated by AHCYL1
+CC       which stabilizes dATP in the site. {ECO:0000269|PubMed:16376858,
+CC       ECO:0000269|PubMed:1867633, ECO:0000269|PubMed:25237103}.
+CC   -!- PATHWAY: Genetic information processing; DNA replication.
+CC   -!- SUBUNIT: Heterodimer of a large and a small subunit. Heterodimer with
+CC       small subunit RRM2 or RRM2B. The heterodimer with RRM2 has higher
+CC       catalytic activity than the heterodimer with RRM2B. Interacts with
+CC       AHCYL1 which inhibits its activity. {ECO:0000269|PubMed:16376858,
+CC       ECO:0000269|PubMed:21336276, ECO:0000269|PubMed:25237103}.
+CC   -!- INTERACTION:
+CC       P23921; P23921: RRM1; NbExp=5; IntAct=EBI-717006, EBI-717006;
+CC       P23921; P31350: RRM2; NbExp=6; IntAct=EBI-717006, EBI-2339245;
+CC       P23921; Q8N720: ZNF655; NbExp=3; IntAct=EBI-717006, EBI-625509;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- MISCELLANEOUS: Two distinct regulatory sites have been defined: the
+CC       specificity site, which controls substrate specificity, and the
+CC       activity site which regulates overall catalytic activity. A substrate-
+CC       binding catalytic site, located on M1, is formed only in the presence
+CC       of the second subunit M2.
+CC   -!- MISCELLANEOUS: The level of the enzyme activity is closely correlated
+CC       with the growth rate of a cell and appears to vary with the cell cycle.
+CC   -!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase large
+CC       chain family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Ribonucleotide reductase entry;
+CC       URL="https://en.wikipedia.org/wiki/Ribonucleotide_reductase";
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/42174/RRM1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X59543; CAA42118.1; -; mRNA.
+DR   EMBL; X59617; CAA42180.1; -; mRNA.
+DR   EMBL; AF107045; AAD37491.1; -; Genomic_DNA.
+DR   EMBL; BC006498; AAH06498.1; -; mRNA.
+DR   EMBL; L10342; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS7750.1; -.
+DR   PIR; S16680; S16680.
+DR   RefSeq; NP_001024.1; NM_001033.4.
+DR   RefSeq; NP_001304993.1; NM_001318064.1.
+DR   RefSeq; NP_001304994.1; NM_001318065.1.
+DR   PDB; 2WGH; X-ray; 2.30 A; A/B=75-742.
+DR   PDB; 3HNC; X-ray; 2.41 A; A/B=1-792.
+DR   PDB; 3HND; X-ray; 3.21 A; A/B=1-792.
+DR   PDB; 3HNE; X-ray; 3.11 A; A/B=1-792.
+DR   PDB; 3HNF; X-ray; 3.16 A; A/B=1-792.
+DR   PDB; 4X3V; X-ray; 3.70 A; A/B=1-792.
+DR   PDB; 5D1Y; X-ray; 9.01 A; A/B=1-792.
+DR   PDB; 5TUS; X-ray; 2.66 A; A/B=1-792.
+DR   PDB; 6AUI; EM; 3.30 A; A/B/C/D/E/F=1-792.
+DR   PDB; 6L3R; X-ray; 2.00 A; A/E=75-742.
+DR   PDB; 6L7L; X-ray; 2.17 A; A/E=75-742.
+DR   PDB; 6LKM; X-ray; 2.55 A; A/B=75-742.
+DR   PDBsum; 2WGH; -.
+DR   PDBsum; 3HNC; -.
+DR   PDBsum; 3HND; -.
+DR   PDBsum; 3HNE; -.
+DR   PDBsum; 3HNF; -.
+DR   PDBsum; 4X3V; -.
+DR   PDBsum; 5D1Y; -.
+DR   PDBsum; 5TUS; -.
+DR   PDBsum; 6AUI; -.
+DR   PDBsum; 6L3R; -.
+DR   PDBsum; 6L7L; -.
+DR   PDBsum; 6LKM; -.
+DR   AlphaFoldDB; P23921; -.
+DR   SMR; P23921; -.
+DR   BioGRID; 112154; 137.
+DR   ComplexPortal; CPX-2194; Ribonucleoside-diphosphate reductase RR1 complex, RRM2 variant.
+DR   ComplexPortal; CPX-369; Ribonucleoside-diphosphate reductase RR1 complex, RRM2B variant.
+DR   DIP; DIP-24233N; -.
+DR   IntAct; P23921; 28.
+DR   MINT; P23921; -.
+DR   STRING; 9606.ENSP00000300738; -.
+DR   BindingDB; P23921; -.
+DR   ChEMBL; CHEMBL1830; -.
+DR   DrugBank; DB00242; Cladribine.
+DR   DrugBank; DB00631; Clofarabine.
+DR   DrugBank; DB01073; Fludarabine.
+DR   DrugBank; DB05420; Gallium maltolate.
+DR   DrugBank; DB00441; Gemcitabine.
+DR   DrugBank; DB01005; Hydroxyurea.
+DR   DrugBank; DB05003; Imexon.
+DR   DrugBank; DB06433; Tezacitabine.
+DR   DrugCentral; P23921; -.
+DR   GuidetoPHARMACOLOGY; 2630; -.
+DR   GlyCosmos; P23921; 4 sites, 1 glycan.
+DR   GlyGen; P23921; 6 sites, 1 O-linked glycan (6 sites).
+DR   iPTMnet; P23921; -.
+DR   MetOSite; P23921; -.
+DR   PhosphoSitePlus; P23921; -.
+DR   SwissPalm; P23921; -.
+DR   BioMuta; RRM1; -.
+DR   DMDM; 132608; -.
+DR   EPD; P23921; -.
+DR   jPOST; P23921; -.
+DR   MassIVE; P23921; -.
+DR   MaxQB; P23921; -.
+DR   PaxDb; P23921; -.
+DR   PeptideAtlas; P23921; -.
+DR   ProteomicsDB; 54166; -.
+DR   Antibodypedia; 10853; 738 antibodies from 38 providers.
+DR   DNASU; 6240; -.
+DR   Ensembl; ENST00000300738.10; ENSP00000300738.5; ENSG00000167325.15.
+DR   GeneID; 6240; -.
+DR   KEGG; hsa:6240; -.
+DR   MANE-Select; ENST00000300738.10; ENSP00000300738.5; NM_001033.5; NP_001024.1.
+DR   UCSC; uc001lyw.5; human.
+DR   AGR; HGNC:10451; -.
+DR   CTD; 6240; -.
+DR   DisGeNET; 6240; -.
+DR   GeneCards; RRM1; -.
+DR   HGNC; HGNC:10451; RRM1.
+DR   HPA; ENSG00000167325; Low tissue specificity.
+DR   MIM; 180410; gene.
+DR   neXtProt; NX_P23921; -.
+DR   OpenTargets; ENSG00000167325; -.
+DR   PharmGKB; PA298; -.
+DR   VEuPathDB; HostDB:ENSG00000167325; -.
+DR   eggNOG; KOG1112; Eukaryota.
+DR   GeneTree; ENSGT00910000144246; -.
+DR   HOGENOM; CLU_000404_1_0_1; -.
+DR   InParanoid; P23921; -.
+DR   OMA; RGSIQNI; -.
+DR   OrthoDB; 5472715at2759; -.
+DR   PhylomeDB; P23921; -.
+DR   TreeFam; TF300578; -.
+DR   BioCyc; MetaCyc:HS09541-MON; -.
+DR   BRENDA; 1.17.4.1; 2681.
+DR   PathwayCommons; P23921; -.
+DR   Reactome; R-HSA-499943; Interconversion of nucleotide di- and triphosphates.
+DR   SignaLink; P23921; -.
+DR   SIGNOR; P23921; -.
+DR   UniPathway; UPA00326; -.
+DR   BioGRID-ORCS; 6240; 845 hits in 1174 CRISPR screens.
+DR   ChiTaRS; RRM1; human.
+DR   EvolutionaryTrace; P23921; -.
+DR   GeneWiki; RRM1; -.
+DR   GenomeRNAi; 6240; -.
+DR   Pharos; P23921; Tclin.
+DR   PRO; PR:P23921; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; P23921; protein.
+DR   Bgee; ENSG00000167325; Expressed in ventricular zone and 215 other tissues.
+DR   ExpressionAtlas; P23921; baseline and differential.
+DR   Genevisible; P23921; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005739; C:mitochondrion; IEA:GOC.
+DR   GO; GO:0005971; C:ribonucleoside-diphosphate reductase complex; IPI:ComplexPortal.
+DR   GO; GO:0005524; F:ATP binding; IBA:GO_Central.
+DR   GO; GO:0097718; F:disordered domain specific binding; IEA:Ensembl.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0061731; F:ribonucleoside-diphosphate reductase activity; IMP:CACAO.
+DR   GO; GO:0004748; F:ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor; ISS:UniProtKB.
+DR   GO; GO:0009265; P:2'-deoxyribonucleotide biosynthetic process; IDA:ComplexPortal.
+DR   GO; GO:0009263; P:deoxyribonucleotide biosynthetic process; ISS:UniProtKB.
+DR   GO; GO:0006281; P:DNA repair; IDA:ComplexPortal.
+DR   GO; GO:0000731; P:DNA synthesis involved in DNA repair; NAS:ComplexPortal.
+DR   GO; GO:0006264; P:mitochondrial DNA replication; IMP:ComplexPortal.
+DR   GO; GO:0070318; P:positive regulation of G0 to G1 transition; IDA:ComplexPortal.
+DR   GO; GO:1900087; P:positive regulation of G1/S transition of mitotic cell cycle; IDA:ComplexPortal.
+DR   GO; GO:0010971; P:positive regulation of G2/M transition of mitotic cell cycle; IDA:ComplexPortal.
+DR   GO; GO:0051290; P:protein heterotetramerization; IEA:Ensembl.
+DR   GO; GO:0009185; P:ribonucleoside diphosphate metabolic process; IDA:ComplexPortal.
+DR   CDD; cd01679; RNR_I; 1.
+DR   Gene3D; 3.20.70.20; -; 1.
+DR   InterPro; IPR005144; ATP-cone_dom.
+DR   InterPro; IPR013346; NrdE_NrdA_C.
+DR   InterPro; IPR000788; RNR_lg_C.
+DR   InterPro; IPR013509; RNR_lsu_N.
+DR   InterPro; IPR008926; RNR_R1-su_N.
+DR   InterPro; IPR039718; Rrm1.
+DR   PANTHER; PTHR11573; RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE LARGE CHAIN; 1.
+DR   PANTHER; PTHR11573:SF6; RIBONUCLEOSIDE-DIPHOSPHATE REDUCTASE LARGE SUBUNIT; 1.
+DR   Pfam; PF03477; ATP-cone; 1.
+DR   Pfam; PF02867; Ribonuc_red_lgC; 1.
+DR   Pfam; PF00317; Ribonuc_red_lgN; 1.
+DR   PRINTS; PR01183; RIBORDTASEM1.
+DR   SUPFAM; SSF51998; PFL-like glycyl radical enzymes; 1.
+DR   SUPFAM; SSF48168; R1 subunit of ribonucleotide reductase, N-terminal domain; 1.
+DR   PROSITE; PS51161; ATP_CONE; 1.
+DR   PROSITE; PS00089; RIBORED_LARGE; 1.
+DR   TIGRFAMs; TIGR02506; NrdE_NrdA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Allosteric enzyme; ATP-binding; Cytoplasm;
+KW   Deoxyribonucleotide synthesis; Disulfide bond; Nucleotide-binding;
+KW   Oxidoreductase; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..792
+FT                   /note="Ribonucleoside-diphosphate reductase large subunit"
+FT                   /id="PRO_0000187190"
+FT   DOMAIN          1..92
+FT                   /note="ATP-cone"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00492"
+FT   ACT_SITE        427
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        429
+FT                   /note="Cysteine radical intermediate"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        431
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         5..6
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /ligand_note="allosteric activator"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         11..17
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /ligand_note="allosteric activator"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         53
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /ligand_note="allosteric activator"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         57
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /ligand_note="allosteric activator"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         202
+FT                   /ligand="GDP"
+FT                   /ligand_id="ChEBI:CHEBI:58189"
+FT                   /evidence="ECO:0007744|PDB:3HND"
+FT   BINDING         217
+FT                   /ligand="GDP"
+FT                   /ligand_id="ChEBI:CHEBI:58189"
+FT                   /evidence="ECO:0007744|PDB:3HND"
+FT   BINDING         226..228
+FT                   /ligand="dTTP"
+FT                   /ligand_id="ChEBI:CHEBI:37568"
+FT                   /ligand_note="allosteric effector that controls substrate
+FT                   specificity"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         243
+FT                   /ligand="dTTP"
+FT                   /ligand_id="ChEBI:CHEBI:37568"
+FT                   /ligand_note="allosteric effector that controls substrate
+FT                   specificity"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         256
+FT                   /ligand="dTTP"
+FT                   /ligand_id="ChEBI:CHEBI:37568"
+FT                   /ligand_note="allosteric effector that controls substrate
+FT                   specificity"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         263..264
+FT                   /ligand="dTTP"
+FT                   /ligand_id="ChEBI:CHEBI:37568"
+FT                   /ligand_note="allosteric effector that controls substrate
+FT                   specificity"
+FT                   /evidence="ECO:0007744|PDB:3HNE"
+FT   BINDING         427
+FT                   /ligand="GDP"
+FT                   /ligand_id="ChEBI:CHEBI:58189"
+FT                   /evidence="ECO:0007744|PDB:3HND"
+FT   BINDING         431
+FT                   /ligand="GDP"
+FT                   /ligand_id="ChEBI:CHEBI:58189"
+FT                   /evidence="ECO:0007744|PDB:3HND"
+FT   BINDING         604..607
+FT                   /ligand="GDP"
+FT                   /ligand_id="ChEBI:CHEBI:58189"
+FT                   /evidence="ECO:0007744|PDB:3HND"
+FT   SITE            218
+FT                   /note="Important for hydrogen atom transfer"
+FT                   /evidence="ECO:0000250"
+FT   SITE            444
+FT                   /note="Important for hydrogen atom transfer"
+FT                   /evidence="ECO:0000250"
+FT   SITE            737
+FT                   /note="Important for electron transfer"
+FT                   /evidence="ECO:0000250"
+FT   SITE            738
+FT                   /note="Important for electron transfer"
+FT                   /evidence="ECO:0000250"
+FT   SITE            787
+FT                   /note="Interacts with thioredoxin/glutaredoxin"
+FT                   /evidence="ECO:0000250"
+FT   SITE            790
+FT                   /note="Interacts with thioredoxin/glutaredoxin"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         17
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         376
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         751
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   DISULFID        218..444
+FT                   /note="Redox-active"
+FT                   /evidence="ECO:0000250"
+FT   VARIANT         590
+FT                   /note="K -> Q (in dbSNP:rs2228123)"
+FT                   /id="VAR_052052"
+FT   VARIANT         778
+FT                   /note="V -> A (in dbSNP:rs2229196)"
+FT                   /id="VAR_052053"
+FT   MUTAGEN         57
+FT                   /note="D->N: Severely decreases interaction with AHCYL1 in
+FT                   the presence of dATP."
+FT                   /evidence="ECO:0000269|PubMed:25237103"
+FT   CONFLICT        6
+FT                   /note="R -> Q (in Ref. 3; AAD37491)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          2..4
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   TURN            6..8
+FT                   /evidence="ECO:0007829|PDB:6AUI"
+FT   STRAND          10..12
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   HELIX           15..23
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   HELIX           24..26
+FT                   /evidence="ECO:0007829|PDB:6AUI"
+FT   TURN            31..33
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   HELIX           36..44
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   STRAND          48..50
+FT                   /evidence="ECO:0007829|PDB:3HND"
+FT   HELIX           53..66
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   HELIX           67..69
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   HELIX           76..88
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           94..103
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   TURN            107..109
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           118..126
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           128..134
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           137..142
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           145..154
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          158..163
+FT                   /evidence="ECO:0007829|PDB:3HNF"
+FT   HELIX           167..179
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           183..194
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          197..200
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           202..207
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          210..212
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          218..222
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           228..243
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          247..251
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          258..261
+FT                   /evidence="ECO:0007829|PDB:3HNE"
+FT   TURN            263..266
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          268..270
+FT                   /evidence="ECO:0007829|PDB:3HNE"
+FT   HELIX           272..285
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          286..288
+FT                   /evidence="ECO:0007829|PDB:6AUI"
+FT   STRAND          289..291
+FT                   /evidence="ECO:0007829|PDB:6LKM"
+FT   STRAND          297..301
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           308..311
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   TURN            312..315
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          317..319
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           321..323
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          328..334
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           336..343
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          347..351
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   TURN            353..355
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           359..361
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           364..376
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          381..385
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           386..400
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          404..407
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           408..413
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           418..420
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          428..430
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   STRAND          442..444
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          446..450
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           451..454
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          459..461
+FT                   /evidence="ECO:0007829|PDB:3HND"
+FT   HELIX           463..483
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           489..498
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          502..506
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           508..514
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          519..521
+FT                   /evidence="ECO:0007829|PDB:6LKM"
+FT   HELIX           522..550
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           554..556
+FT                   /evidence="ECO:0007829|PDB:3HNE"
+FT   HELIX           561..563
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           567..570
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          577..579
+FT                   /evidence="ECO:0007829|PDB:2WGH"
+FT   HELIX           581..591
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           605..611
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          615..618
+FT                   /evidence="ECO:0007829|PDB:6AUI"
+FT   STRAND          623..625
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          632..637
+FT                   /evidence="ECO:0007829|PDB:3HNC"
+FT   HELIX           639..647
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           655..661
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   TURN            662..664
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           666..668
+FT                   /evidence="ECO:0007829|PDB:6AUI"
+FT   STRAND          670..672
+FT                   /evidence="ECO:0007829|PDB:6L7L"
+FT   HELIX           674..679
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           683..685
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   HELIX           688..699
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          709..711
+FT                   /evidence="ECO:0007829|PDB:6AUI"
+FT   HELIX           717..729
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+FT   STRAND          733..737
+FT                   /evidence="ECO:0007829|PDB:6L3R"
+SQ   SEQUENCE   792 AA;  90070 MW;  4470A76C61E8F86A CRC64;
+     MHVIKRDGRQ ERVMFDKITS RIQKLCYGLN MDFVDPAQIT MKVIQGLYSG VTTVELDTLA
+     AETAATLTTK HPDYAILAAR IAVSNLHKET KKVFSDVMED LYNYINPHNG KHSPMVAKST
+     LDIVLANKDR LNSAIIYDRD FSYNYFGFKT LERSYLLKIN GKVAERPQHM LMRVSVGIHK
+     EDIDAAIETY NLLSERWFTH ASPTLFNAGT NRPQLSSCFL LSMKDDSIEG IYDTLKQCAL
+     ISKSAGGIGV AVSCIRATGS YIAGTNGNSN GLVPMLRVYN NTARYVDQGG NKRPGAFAIY
+     LEPWHLDIFE FLDLKKNTGK EEQRARDLFF ALWIPDLFMK RVETNQDWSL MCPNECPGLD
+     EVWGEEFEKL YASYEKQGRV RKVVKAQQLW YAIIESQTET GTPYMLYKDS CNRKSNQQNL
+     GTIKCSNLCT EIVEYTSKDE VAVCNLASLA LNMYVTSEHT YDFKKLAEVT KVVVRNLNKI
+     IDINYYPVPE ACLSNKRHRP IGIGVQGLAD AFILMRYPFE SAEAQLLNKQ IFETIYYGAL
+     EASCDLAKEQ GPYETYEGSP VSKGILQYDM WNVTPTDLWD WKVLKEKIAK YGIRNSLLIA
+     PMPTASTAQI LGNNESIEPY TSNIYTRRVL SGEFQIVNPH LLKDLTERGL WHEEMKNQII
+     ACNGSIQSIP EIPDDLKQLY KTVWEISQKT VLKMAAERGA FIDQSQSLNI HIAEPNYGKL
+     TSMHFYGWKQ GLKTGMYYLR TRPAANPIQF TLNKEKLKDK EKVSKEEEEK ERNTAAMVCS
+     LENRDECLMC GS
+//

@@ -1,0 +1,379 @@
+ID   AK1BF_HUMAN             Reviewed;         316 AA.
+AC   C9JRZ8; C9J3V2;
+DT   13-JUL-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-2015, sequence version 2.
+DT   28-JUN-2023, entry version 102.
+DE   RecName: Full=Aldo-keto reductase family 1 member B15 {ECO:0000305};
+DE            EC=1.1.1.- {ECO:0000269|PubMed:25577493};
+DE            EC=1.1.1.300 {ECO:0000269|PubMed:26222439};
+DE            EC=1.1.1.54 {ECO:0000269|PubMed:26222439};
+DE   AltName: Full=Estradiol 17-beta-dehydrogenase AKR1B15 {ECO:0000305};
+DE   AltName: Full=Farnesol dehydrogenase {ECO:0000305|PubMed:26222439};
+DE            EC=1.1.1.216 {ECO:0000269|PubMed:26222439};
+DE   AltName: Full=Testosterone 17beta-dehydrogenase {ECO:0000305|PubMed:25577493};
+DE            EC=1.1.1.64 {ECO:0000269|PubMed:25577493};
+GN   Name=AKR1B15 {ECO:0000312|HGNC:HGNC:37281};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND FUNCTION.
+RC   TISSUE=Eye, and Testis;
+RX   PubMed=21276782; DOI=10.1016/j.cbi.2011.01.020;
+RA   Salabei J.K., Li X.P., Petrash J.M., Bhatnagar A., Barski O.A.;
+RT   "Functional expression of novel human and murine AKR1B genes.";
+RL   Chem. Biol. Interact. 191:177-184(2011).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   FUNCTION (ISOFORMS 1 AND 2), CATALYTIC ACTIVITY (ISOFORM 1),
+RP   BIOPHYSICOCHEMICAL PROPERTIES (ISOFORM 1), SUBCELLULAR LOCATION (ISOFORMS 1
+RP   AND 2), ALTERNATIVE SPLICING (ISOFORMS 1 AND 2), AND TISSUE SPECIFICITY.
+RX   PubMed=25577493; DOI=10.1074/jbc.m114.610121;
+RA   Weber S., Salabei J.K., Moller G., Kremmer E., Bhatnagar A., Adamski J.,
+RA   Barski O.A.;
+RT   "Aldo-keto reductase 1B15 (AKR1B15): a mitochondrial human aldo-keto
+RT   reductase with activity towards steroids and 3-keto-acyl-coa conjugates.";
+RL   J. Biol. Chem. 290:6531-6545(2015).
+RN   [5]
+RP   CATALYTIC ACTIVITY, FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, ACTIVITY
+RP   REGULATION, SUBSTRATE SPECIFICITY, AND SUBUNIT.
+RX   PubMed=26222439; DOI=10.1371/journal.pone.0134506;
+RA   Gimenez-Dejoz J., Kolar M.H., Ruiz F.X., Crespo I., Cousido-Siah A.,
+RA   Podjarny A., Barski O.A., Fanfrlik J., Pares X., Farres J., Porte S.;
+RT   "Substrate Specificity, Inhibitor Selectivity and Structure-Function
+RT   Relationships of Aldo-Keto Reductase 1B15: A Novel Human Retinaldehyde
+RT   Reductase.";
+RL   PLoS ONE 10:E0134506-E0134506(2015).
+CC   -!- FUNCTION: [Isoform 1]: Catalyzes the NADPH-dependent reduction of a
+CC       variety of carbonyl substrates, like aromatic aldehydes, alkenals,
+CC       ketones and alpha-dicarbonyl compounds (PubMed:26222439,
+CC       PubMed:21276782). In addition, catalyzes the reduction of androgens and
+CC       estrogens with high positional selectivity (shows 17-beta-
+CC       hydroxysteroid dehydrogenase activity) as well as 3-keto-acyl-CoAs
+CC       (PubMed:25577493). Displays strong enzymatic activity toward all-trans-
+CC       retinal and 9-cis-retinal (PubMed:26222439). May play a physiological
+CC       role in retinoid metabolism (PubMed:26222439).
+CC       {ECO:0000269|PubMed:21276782, ECO:0000269|PubMed:25577493,
+CC       ECO:0000269|PubMed:26222439}.
+CC   -!- FUNCTION: [Isoform 2]: No oxidoreductase activity observed with the
+CC       tested substrates. {ECO:0000269|PubMed:25577493}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=17beta-estradiol + NADP(+) = estrone + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:24616, ChEBI:CHEBI:15378, ChEBI:CHEBI:16469,
+CC         ChEBI:CHEBI:17263, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         Evidence={ECO:0000269|PubMed:25577493};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=NADP(+) + testosterone = androst-4-ene-3,17-dione + H(+) +
+CC         NADPH; Xref=Rhea:RHEA:14981, ChEBI:CHEBI:15378, ChEBI:CHEBI:16422,
+CC         ChEBI:CHEBI:17347, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349; EC=1.1.1.64;
+CC         Evidence={ECO:0000269|PubMed:25577493};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=17beta-hydroxy-5alpha-androstan-3-one + NADP(+) = 5alpha-
+CC         androstan-3,17-dione + H(+) + NADPH; Xref=Rhea:RHEA:42120,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:15994, ChEBI:CHEBI:16330,
+CC         ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         Evidence={ECO:0000269|PubMed:25577493};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=3beta-hydroxyandrost-5-en-17-one + H(+) + NADPH = androst-5-
+CC         en-3beta,17beta-diol + NADP(+); Xref=Rhea:RHEA:46628,
+CC         ChEBI:CHEBI:2710, ChEBI:CHEBI:15378, ChEBI:CHEBI:28689,
+CC         ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         Evidence={ECO:0000269|PubMed:25577493};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=androsterone + H(+) + NADPH = 5alpha-androstane-3alpha,17beta-
+CC         diol + NADP(+); Xref=Rhea:RHEA:42156, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:16032, ChEBI:CHEBI:36713, ChEBI:CHEBI:57783,
+CC         ChEBI:CHEBI:58349; Evidence={ECO:0000269|PubMed:25577493};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=all-trans-retinol + NADP(+) = all-trans-retinal + H(+) +
+CC         NADPH; Xref=Rhea:RHEA:25033, ChEBI:CHEBI:15378, ChEBI:CHEBI:17336,
+CC         ChEBI:CHEBI:17898, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         EC=1.1.1.300; Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=9-cis-retinol + NADP(+) = 9-cis-retinal + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:54916, ChEBI:CHEBI:15378, ChEBI:CHEBI:57783,
+CC         ChEBI:CHEBI:58349, ChEBI:CHEBI:78272, ChEBI:CHEBI:78273;
+CC         Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=allyl alcohol + NADP(+) = acrolein + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:12168, ChEBI:CHEBI:15368, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:16605, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349; EC=1.1.1.54;
+CC         Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(E)-hex-2-en-1-ol + NADP(+) = (E)-hex-2-enal + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:58424, ChEBI:CHEBI:15378, ChEBI:CHEBI:28913,
+CC         ChEBI:CHEBI:57783, ChEBI:CHEBI:58349, ChEBI:CHEBI:141205;
+CC         Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=NADP(+) + nonan-2-one = (3E)-nonen-2-one + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:50616, ChEBI:CHEBI:15378, ChEBI:CHEBI:57783,
+CC         ChEBI:CHEBI:58349, ChEBI:CHEBI:77927, ChEBI:CHEBI:133457;
+CC         Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(2E,6E)-farnesol + NADP(+) = (2E,6E)-farnesal + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:14697, ChEBI:CHEBI:15378, ChEBI:CHEBI:15894,
+CC         ChEBI:CHEBI:16619, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         EC=1.1.1.216; Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=acetoin + NADP(+) = diacetyl + H(+) + NADPH;
+CC         Xref=Rhea:RHEA:35607, ChEBI:CHEBI:15378, ChEBI:CHEBI:15688,
+CC         ChEBI:CHEBI:16583, ChEBI:CHEBI:57783, ChEBI:CHEBI:58349;
+CC         Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(E)-4-hydroxynon-2-en-1-ol + NADP(+) = (E)-4-hydroxynon-2-enal
+CC         + H(+) + NADPH; Xref=Rhea:RHEA:58416, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:57783, ChEBI:CHEBI:58349, ChEBI:CHEBI:58968,
+CC         ChEBI:CHEBI:142617; Evidence={ECO:0000269|PubMed:26222439};
+CC   -!- ACTIVITY REGULATION: Inhibited by the inhibitor JF0064.
+CC       {ECO:0000269|PubMed:26222439}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=2.8 uM for androsterone (tested with isoform 1 in the reductive
+CC         reaction) {ECO:0000269|PubMed:25577493};
+CC         KM=1.9 uM for delta-4-androstenedione (tested with isoform 1 in the
+CC         reductive reaction) {ECO:0000269|PubMed:25577493};
+CC         KM=2.5 uM for estrone (tested with isoform 1 in the reductive
+CC         reaction) {ECO:0000269|PubMed:25577493};
+CC         KM=63.4 uM for acetoacetyl-CoA (tested with isoform 1 in the
+CC         reductive reaction) {ECO:0000269|PubMed:25577493};
+CC         KM=19.2 uM for 3-alpha,17-beta-androstandiol (tested with isoform 1
+CC         in the oxidative reaction) {ECO:0000269|PubMed:25577493};
+CC         KM=7.1 uM for testosterone (tested with isoform 1 in the oxidative
+CC         reaction) {ECO:0000269|PubMed:25577493};
+CC         KM=9.1 uM for 17-beta-estradiol (tested with isoform 1 in the
+CC         oxidative reaction) {ECO:0000269|PubMed:25577493};
+CC         KM=1 uM for all-trans-retinal {ECO:0000269|PubMed:26222439};
+CC         KM=0.16 uM for 9-cis-retinal {ECO:0000269|PubMed:26222439};
+CC         KM=880 uM for D,L-glyceraldehyde {ECO:0000269|PubMed:26222439};
+CC         KM=2.9 uM for pyridine-3-aldehyde {ECO:0000269|PubMed:26222439};
+CC         KM=3.1 uM for hexanal {ECO:0000269|PubMed:26222439};
+CC         KM=36 uM for acrolein {ECO:0000269|PubMed:26222439};
+CC         KM=5 uM for trans-2-hexenal {ECO:0000269|PubMed:26222439};
+CC         KM=2.2 uM for 4-hydroxy-2-nonenal {ECO:0000269|PubMed:26222439};
+CC         KM=1.7 uM for 3-nonen-2-one {ECO:0000269|PubMed:26222439};
+CC         KM=1 uM for 2,3-butanedione {ECO:0000269|PubMed:26222439};
+CC         KM=1 uM for farnesal {ECO:0000269|PubMed:26222439};
+CC         KM=5.7 uM for NADPH {ECO:0000269|PubMed:26222439};
+CC         Note=kcat is 1.7 min(-1) using isoform 1 for the reduction of
+CC         androsterone. kcat is 1.1 min(-1) using isoform 1 for the reduction
+CC         of delta-4-androstenedione. kcat is 1.0 min(-1) using isoform 1 for
+CC         the reduction of estrone. kcat is 0.5 min(-1) using isoform 1 for the
+CC         reduction of acetoacetyl-CoA. kcat is 3.0 min(-1) using isoform 1 for
+CC         the oxidation of 3-alpha,17-beta-androstandiol. kcat is 0.6 min(-1)
+CC         using isoform 1 for the oxidation of testosterone. kcat is 0.5
+CC         min(-1) using isoform 1 for the oxidation of 17-beta-estradiol
+CC         (PubMed:25577493). kcat is 10.7 min(-1) with D,L-glyceraldehyde as
+CC         substrate. kcat is 9 min(-1) with pyridine-3-aldehyde as substrate.
+CC         kcat is 7.3 min(-1) with hexanal as substrate. kcat is 9 min(-1) with
+CC         acrolein as substrate. kcat is 11.3 min(-1) with trans-2-hexenal as
+CC         substrate. kcat is 5.2 min(-1) with 4-hydroxy-2-nonenal as substrate.
+CC         kcat is 4.8 min(-1) with farnesal as substrate. kcat is 1.7 min(-1)
+CC         with 2,3-butanedione as substrate. kcat is 5.4 min(-1) with
+CC         all-trans-retinaldehyde as substrate. kcat is 3.8 min(-1) with
+CC         9-cis-retinal as substrate (PubMed:26222439).
+CC         {ECO:0000269|PubMed:25577493, ECO:0000269|PubMed:26222439};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:26222439}.
+CC   -!- INTERACTION:
+CC       C9JRZ8-2; Q12933: TRAF2; NbExp=3; IntAct=EBI-17190479, EBI-355744;
+CC   -!- SUBCELLULAR LOCATION: [Isoform 1]: Mitochondrion
+CC       {ECO:0000269|PubMed:25577493}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 2]: Cytoplasm, cytosol
+CC       {ECO:0000269|PubMed:25577493}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=AKR1B15.1 {ECO:0000303|PubMed:25577493};
+CC         IsoId=C9JRZ8-1; Sequence=Displayed;
+CC       Name=2; Synonyms=AKR1B15.2 {ECO:0000303|PubMed:25577493};
+CC         IsoId=C9JRZ8-2; Sequence=VSP_041606;
+CC   -!- TISSUE SPECIFICITY: Widely expressed. Expressed at highest levels in
+CC       steroid-sensitive tissues, such as placenta, testis and adipose tissue.
+CC       {ECO:0000269|PubMed:25577493}.
+CC   -!- MISCELLANEOUS: Has no counterpart in murine species. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the aldo/keto reductase family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC078847; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471070; EAW83819.1; -; Genomic_DNA.
+DR   CCDS; CCDS47715.2; -. [C9JRZ8-2]
+DR   CCDS; CCDS94205.1; -. [C9JRZ8-1]
+DR   RefSeq; NP_001074007.2; NM_001080538.2. [C9JRZ8-2]
+DR   RefSeq; XP_011514543.2; XM_011516241.2.
+DR   RefSeq; XP_016867713.1; XM_017012224.1.
+DR   AlphaFoldDB; C9JRZ8; -.
+DR   SMR; C9JRZ8; -.
+DR   BioGRID; 137330; 13.
+DR   IntAct; C9JRZ8; 3.
+DR   STRING; 9606.ENSP00000389289; -.
+DR   DrugBank; DB06077; Lumateperone.
+DR   SwissLipids; SLP:000001307; -. [C9JRZ8-1]
+DR   iPTMnet; C9JRZ8; -.
+DR   PhosphoSitePlus; C9JRZ8; -.
+DR   BioMuta; AKR1B15; -.
+DR   EPD; C9JRZ8; -.
+DR   jPOST; C9JRZ8; -.
+DR   MassIVE; C9JRZ8; -.
+DR   MaxQB; C9JRZ8; -.
+DR   PaxDb; C9JRZ8; -.
+DR   PeptideAtlas; C9JRZ8; -.
+DR   PRIDE; C9JRZ8; -.
+DR   ProteomicsDB; 11424; -. [C9JRZ8-1]
+DR   ProteomicsDB; 11425; -. [C9JRZ8-2]
+DR   Antibodypedia; 67875; 7 antibodies from 6 providers.
+DR   DNASU; 441282; -.
+DR   Ensembl; ENST00000423958.2; ENSP00000397009.2; ENSG00000227471.9. [C9JRZ8-2]
+DR   Ensembl; ENST00000457545.7; ENSP00000389289.1; ENSG00000227471.9. [C9JRZ8-2]
+DR   Ensembl; ENST00000652743.1; ENSP00000498877.1; ENSG00000227471.9. [C9JRZ8-1]
+DR   GeneID; 441282; -.
+DR   KEGG; hsa:441282; -.
+DR   MANE-Select; ENST00000457545.7; ENSP00000389289.1; NM_001080538.3; NP_001074007.2. [C9JRZ8-2]
+DR   UCSC; uc011kpr.3; human. [C9JRZ8-1]
+DR   AGR; HGNC:37281; -.
+DR   CTD; 441282; -.
+DR   DisGeNET; 441282; -.
+DR   GeneCards; AKR1B15; -.
+DR   HGNC; HGNC:37281; AKR1B15.
+DR   HPA; ENSG00000227471; Tissue enriched (breast).
+DR   MIM; 616336; gene.
+DR   neXtProt; NX_C9JRZ8; -.
+DR   OpenTargets; ENSG00000227471; -.
+DR   PharmGKB; PA165617622; -.
+DR   VEuPathDB; HostDB:ENSG00000227471; -.
+DR   eggNOG; KOG1577; Eukaryota.
+DR   GeneTree; ENSGT00940000164182; -.
+DR   HOGENOM; CLU_023205_0_0_1; -.
+DR   InParanoid; C9JRZ8; -.
+DR   OMA; HGIHVTQ; -.
+DR   TreeFam; TF106492; -.
+DR   BRENDA; 1.1.1.36; 2681.
+DR   BRENDA; 1.1.1.62; 2681.
+DR   PathwayCommons; C9JRZ8; -.
+DR   Reactome; R-HSA-193144; Estrogen biosynthesis.
+DR   SignaLink; C9JRZ8; -.
+DR   BioGRID-ORCS; 441282; 213 hits in 1078 CRISPR screens.
+DR   GenomeRNAi; 441282; -.
+DR   Pharos; C9JRZ8; Tbio.
+DR   PRO; PR:C9JRZ8; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; C9JRZ8; protein.
+DR   Bgee; ENSG00000227471; Expressed in duodenum and 72 other tissues.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005759; C:mitochondrial matrix; TAS:Reactome.
+DR   GO; GO:0005739; C:mitochondrion; IDA:UniProtKB.
+DR   GO; GO:0004032; F:alditol:NADP+ 1-oxidoreductase activity; IBA:GO_Central.
+DR   GO; GO:0047655; F:allyl-alcohol dehydrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0004303; F:estradiol 17-beta-dehydrogenase [NAD(P)] activity; IDA:UniProtKB.
+DR   GO; GO:0047886; F:farnesol dehydrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0052650; F:NADP-retinol dehydrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0016616; F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor; IDA:UniProtKB.
+DR   GO; GO:0047045; F:testosterone 17-beta-dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006703; P:estrogen biosynthetic process; TAS:Reactome.
+DR   CDD; cd19107; AKR_AKR1B1-19; 1.
+DR   Gene3D; 3.20.20.100; NADP-dependent oxidoreductase domain; 1.
+DR   InterPro; IPR020471; AKR.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   InterPro; IPR036812; NADP_OxRdtase_dom_sf.
+DR   PANTHER; PTHR11732:SF197; ALDO-KETO REDUCTASE FAMILY 1 MEMBER B15; 1.
+DR   PANTHER; PTHR11732; ALDO/KETO REDUCTASE; 1.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; NAD(P)-linked oxidoreductase; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Cytoplasm; Lipid metabolism;
+KW   Mitochondrion; NADP; Oxidoreductase; Reference proteome.
+FT   CHAIN           1..316
+FT                   /note="Aldo-keto reductase family 1 member B15"
+FT                   /id="PRO_0000395341"
+FT   ACT_SITE        49
+FT                   /note="Proton donor"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   BINDING         20..22
+FT                   /ligand="NADP(+)"
+FT                   /ligand_id="ChEBI:CHEBI:58349"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   BINDING         44
+FT                   /ligand="NADP(+)"
+FT                   /ligand_id="ChEBI:CHEBI:58349"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   BINDING         111
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   BINDING         160..161
+FT                   /ligand="NADP(+)"
+FT                   /ligand_id="ChEBI:CHEBI:58349"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   BINDING         184
+FT                   /ligand="NADP(+)"
+FT                   /ligand_id="ChEBI:CHEBI:58349"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   BINDING         210..217
+FT                   /ligand="NADP(+)"
+FT                   /ligand_id="ChEBI:CHEBI:58349"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   BINDING         261..273
+FT                   /ligand="NADP(+)"
+FT                   /ligand_id="ChEBI:CHEBI:58349"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   SITE            78
+FT                   /note="Lowers pKa of active site Tyr"
+FT                   /evidence="ECO:0000250|UniProtKB:P14550"
+FT   MOD_RES         125
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   MOD_RES         263
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0000250|UniProtKB:O60218"
+FT   VAR_SEQ         1..22
+FT                   /note="MATFVELSTKAKMPIVGLGTWR -> MVLQMEPQVNSTNNFHQGPLDQPVGP
+FT                   LTGLKSSLLKDTTSAGPLLRPYPA (in isoform 2)"
+FT                   /evidence="ECO:0000269|PubMed:21276782,
+FT                   ECO:0000269|PubMed:25577493"
+FT                   /id="VSP_041606"
+SQ   SEQUENCE   316 AA;  36537 MW;  5FB6CBFA7190C740 CRC64;
+     MATFVELSTK AKMPIVGLGT WRSLLGKVKE AVKVAIDAEY RHIDCAYFYE NQHEVGEAIQ
+     EKIQEKAVMR EDLFIVSKVW PTFFERPLVR KAFEKTLKDL KLSYLDVYLI HWPQGFKTGD
+     DFFPKDDKGN MISGKGTFLD AWEAMEELVD EGLVKALGVS NFNHFQIERL LNKPGLKYKP
+     VTNQVECHPY LTQEKLIQYC HSKGITVTAY SPLGSPDRPW AKPEDPSLLE DPKIKEIAAK
+     HKKTTAQVLI RFHIQRNVTV IPKSMTPAHI VENIQVFDFK LSDEEMATIL SFNRNWRAFD
+     FKEFSHLEDF PFDAEY
+//

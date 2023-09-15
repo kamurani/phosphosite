@@ -1,0 +1,335 @@
+ID   CNTP3_HUMAN             Reviewed;        1288 AA.
+AC   Q9BZ76; B1AMA0; Q9C0E9;
+DT   05-DEC-2001, integrated into UniProtKB/Swiss-Prot.
+DT   14-OCT-2008, sequence version 3.
+DT   28-JUN-2023, entry version 190.
+DE   RecName: Full=Contactin-associated protein-like 3;
+DE   AltName: Full=Cell recognition molecule Caspr3;
+DE   Flags: Precursor;
+GN   Name=CNTNAP3; Synonyms=CASPR3, KIAA1714;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=12093160; DOI=10.1006/mcne.2002.1110;
+RA   Spiegel I., Salomon D., Erne B., Schaeren-Wiemers N., Peles E.;
+RT   "Caspr3 and Caspr4, two novel members of the Caspr family are expressed in
+RT   the nervous system and interact with PDZ domains.";
+RL   Mol. Cell. Neurosci. 20:283-297(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT HIS-845.
+RC   TISSUE=Brain;
+RX   PubMed=11214970; DOI=10.1093/dnares/7.6.347;
+RA   Nagase T., Kikuno R., Hattori A., Kondo Y., Okumura K., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIX. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:347-355(2000).
+RN   [3]
+RP   SEQUENCE REVISION.
+RA   Nagase T., Kikuno R., Yamakawa H., Ohara O.;
+RL   Submitted (JAN-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164053; DOI=10.1038/nature02465;
+RA   Humphray S.J., Oliver K., Hunt A.R., Plumb R.W., Loveland J.E., Howe K.L.,
+RA   Andrews T.D., Searle S., Hunt S.E., Scott C.E., Jones M.C., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Ashwell R.I.S., Babbage A.K., Babbage S.,
+RA   Bagguley C.L., Bailey J., Banerjee R., Barker D.J., Barlow K.F., Bates K.,
+RA   Beasley H., Beasley O., Bird C.P., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D., Burrill W., Burton J., Carder C., Carter N.P., Chapman J.C.,
+RA   Chen Y., Clarke G., Clark S.Y., Clee C.M., Clegg S., Collier R.E.,
+RA   Corby N., Crosier M., Cummings A.T., Davies J., Dhami P., Dunn M.,
+RA   Dutta I., Dyer L.W., Earthrowl M.E., Faulkner L., Fleming C.J.,
+RA   Frankish A., Frankland J.A., French L., Fricker D.G., Garner P.,
+RA   Garnett J., Ghori J., Gilbert J.G.R., Glison C., Grafham D.V., Gribble S.,
+RA   Griffiths C., Griffiths-Jones S., Grocock R., Guy J., Hall R.E.,
+RA   Hammond S., Harley J.L., Harrison E.S.I., Hart E.A., Heath P.D.,
+RA   Henderson C.D., Hopkins B.L., Howard P.J., Howden P.J., Huckle E.,
+RA   Johnson C., Johnson D., Joy A.A., Kay M., Keenan S., Kershaw J.K.,
+RA   Kimberley A.M., King A., Knights A., Laird G.K., Langford C., Lawlor S.,
+RA   Leongamornlert D.A., Leversha M., Lloyd C., Lloyd D.M., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., Matthews L., McLaren S., McLay K.E.,
+RA   McMurray A., Milne S., Nickerson T., Nisbett J., Nordsiek G., Pearce A.V.,
+RA   Peck A.I., Porter K.M., Pandian R., Pelan S., Phillimore B., Povey S.,
+RA   Ramsey Y., Rand V., Scharfe M., Sehra H.K., Shownkeen R., Sims S.K.,
+RA   Skuce C.D., Smith M., Steward C.A., Swarbreck D., Sycamore N., Tester J.,
+RA   Thorpe A., Tracey A., Tromans A., Thomas D.W., Wall M., Wallis J.M.,
+RA   West A.P., Whitehead S.L., Willey D.L., Williams S.A., Wilming L.,
+RA   Wray P.W., Young L., Ashurst J.L., Coulson A., Blocker H., Durbin R.M.,
+RA   Sulston J.E., Hubbard T., Jackson M.J., Bentley D.R., Beck S., Rogers J.,
+RA   Dunham I.;
+RT   "DNA sequence and analysis of human chromosome 9.";
+RL   Nature 429:369-374(2004).
+CC   -!- SUBCELLULAR LOCATION: [Isoform 1]: Cell membrane {ECO:0000305}; Single-
+CC       pass type I membrane protein {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 2]: Secreted {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9BZ76-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BZ76-2; Sequence=VSP_003535, VSP_003536;
+CC   -!- SIMILARITY: Belongs to the neurexin family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB21805.2; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF333769; AAG52889.2; -; mRNA.
+DR   EMBL; AB051501; BAB21805.2; ALT_INIT; mRNA.
+DR   EMBL; AL162501; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL353729; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS6616.1; -. [Q9BZ76-1]
+DR   RefSeq; NP_387504.2; NM_033655.3. [Q9BZ76-1]
+DR   AlphaFoldDB; Q9BZ76; -.
+DR   SMR; Q9BZ76; -.
+DR   BioGRID; 123011; 209.
+DR   IntAct; Q9BZ76; 34.
+DR   STRING; 9606.ENSP00000297668; -.
+DR   GlyCosmos; Q9BZ76; 9 sites, No reported glycans.
+DR   GlyGen; Q9BZ76; 9 sites.
+DR   iPTMnet; Q9BZ76; -.
+DR   PhosphoSitePlus; Q9BZ76; -.
+DR   BioMuta; CNTNAP3; -.
+DR   DMDM; 209572752; -.
+DR   EPD; Q9BZ76; -.
+DR   MassIVE; Q9BZ76; -.
+DR   MaxQB; Q9BZ76; -.
+DR   PaxDb; Q9BZ76; -.
+DR   PeptideAtlas; Q9BZ76; -.
+DR   ProteomicsDB; 79776; -. [Q9BZ76-1]
+DR   ProteomicsDB; 79777; -. [Q9BZ76-2]
+DR   Antibodypedia; 12082; 75 antibodies from 21 providers.
+DR   DNASU; 79937; -.
+DR   Ensembl; ENST00000297668.11; ENSP00000297668.6; ENSG00000106714.18. [Q9BZ76-1]
+DR   GeneID; 79937; -.
+DR   KEGG; hsa:79937; -.
+DR   MANE-Select; ENST00000297668.11; ENSP00000297668.6; NM_033655.5; NP_387504.2.
+DR   UCSC; uc004abi.4; human. [Q9BZ76-1]
+DR   AGR; HGNC:13834; -.
+DR   CTD; 79937; -.
+DR   DisGeNET; 79937; -.
+DR   GeneCards; CNTNAP3; -.
+DR   HGNC; HGNC:13834; CNTNAP3.
+DR   HPA; ENSG00000106714; Low tissue specificity.
+DR   MIM; 610517; gene.
+DR   neXtProt; NX_Q9BZ76; -.
+DR   OpenTargets; ENSG00000106714; -.
+DR   PharmGKB; PA134963289; -.
+DR   VEuPathDB; HostDB:ENSG00000106714; -.
+DR   eggNOG; KOG3516; Eukaryota.
+DR   GeneTree; ENSGT00940000160228; -.
+DR   HOGENOM; CLU_003504_1_0_1; -.
+DR   InParanoid; Q9BZ76; -.
+DR   OMA; HISDRSG; -.
+DR   OrthoDB; 4255614at2759; -.
+DR   PhylomeDB; Q9BZ76; -.
+DR   TreeFam; TF321823; -.
+DR   PathwayCommons; Q9BZ76; -.
+DR   SignaLink; Q9BZ76; -.
+DR   BioGRID-ORCS; 79937; 16 hits in 1067 CRISPR screens.
+DR   ChiTaRS; CNTNAP3; human.
+DR   GenomeRNAi; 79937; -.
+DR   Pharos; Q9BZ76; Tbio.
+DR   PRO; PR:Q9BZ76; -.
+DR   Proteomes; UP000005640; Chromosome 9.
+DR   RNAct; Q9BZ76; protein.
+DR   Bgee; ENSG00000106714; Expressed in mucosa of stomach and 99 other tissues.
+DR   ExpressionAtlas; Q9BZ76; baseline and differential.
+DR   Genevisible; Q9BZ76; HS.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016020; C:membrane; NAS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   GO; GO:0008037; P:cell recognition; NAS:UniProtKB.
+DR   CDD; cd00054; EGF_CA; 1.
+DR   CDD; cd00057; FA58C; 1.
+DR   CDD; cd00110; LamG; 4.
+DR   Gene3D; 2.60.120.1000; -; 1.
+DR   Gene3D; 2.60.120.200; -; 4.
+DR   Gene3D; 2.60.120.260; Galactose-binding domain-like; 1.
+DR   Gene3D; 2.10.25.10; Laminin; 2.
+DR   InterPro; IPR013320; ConA-like_dom_sf.
+DR   InterPro; IPR000742; EGF-like_dom.
+DR   InterPro; IPR000421; FA58C.
+DR   InterPro; IPR036056; Fibrinogen-like_C.
+DR   InterPro; IPR002181; Fibrinogen_a/b/g_C_dom.
+DR   InterPro; IPR008979; Galactose-bd-like_sf.
+DR   InterPro; IPR001791; Laminin_G.
+DR   PANTHER; PTHR15036:SF36; CONTACTIN-ASSOCIATED PROTEIN-LIKE 3-RELATED; 1.
+DR   PANTHER; PTHR15036; PIKACHURIN-LIKE PROTEIN; 1.
+DR   Pfam; PF00754; F5_F8_type_C; 1.
+DR   Pfam; PF02210; Laminin_G_2; 4.
+DR   SMART; SM00181; EGF; 2.
+DR   SMART; SM00231; FA58C; 1.
+DR   SMART; SM00282; LamG; 4.
+DR   SUPFAM; SSF49899; Concanavalin A-like lectins/glucanases; 4.
+DR   SUPFAM; SSF57196; EGF/Laminin; 1.
+DR   SUPFAM; SSF56496; Fibrinogen C-terminal domain-like; 1.
+DR   SUPFAM; SSF49785; Galactose-binding domain-like; 1.
+DR   PROSITE; PS50026; EGF_3; 2.
+DR   PROSITE; PS01285; FA58C_1; 1.
+DR   PROSITE; PS01286; FA58C_2; 1.
+DR   PROSITE; PS50022; FA58C_3; 1.
+DR   PROSITE; PS51406; FIBRINOGEN_C_2; 1.
+DR   PROSITE; PS50025; LAM_G_DOMAIN; 4.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Cell adhesion; Cell membrane; Disulfide bond;
+KW   EGF-like domain; Glycoprotein; Membrane; Reference proteome; Repeat;
+KW   Secreted; Signal; Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..25
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           26..1288
+FT                   /note="Contactin-associated protein-like 3"
+FT                   /id="PRO_0000019509"
+FT   TOPO_DOM        26..1245
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        1246..1266
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1267..1288
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          31..177
+FT                   /note="F5/8 type C"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00081"
+FT   DOMAIN          183..364
+FT                   /note="Laminin G-like 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   DOMAIN          370..545
+FT                   /note="Laminin G-like 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   DOMAIN          551..583
+FT                   /note="EGF-like 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          584..792
+FT                   /note="Fibrinogen C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00739"
+FT   DOMAIN          793..958
+FT                   /note="Laminin G-like 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   DOMAIN          962..996
+FT                   /note="EGF-like 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          1015..1203
+FT                   /note="Laminin G-like 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00122"
+FT   REGION          1215..1236
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        285
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        359
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        441
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        497
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        623
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        706
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1023
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1073
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1120
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        31..177
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        332..364
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        513..545
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        551..562
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        556..571
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        573..583
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        931..958
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        962..975
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        969..984
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        986..996
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        1167..1203
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         1120..1127
+FT                   /note="NQSTKKQV -> IPQMQKSN (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11214970"
+FT                   /id="VSP_003535"
+FT   VAR_SEQ         1128..1288
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11214970"
+FT                   /id="VSP_003536"
+FT   VARIANT         628
+FT                   /note="A -> S (in dbSNP:rs1758272)"
+FT                   /id="VAR_046710"
+FT   VARIANT         845
+FT                   /note="R -> H (in dbSNP:rs7852039)"
+FT                   /evidence="ECO:0000269|PubMed:11214970"
+FT                   /id="VAR_046711"
+FT   CONFLICT        21
+FT                   /note="S -> R (in Ref. 1; AAG52889)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        33
+FT                   /note="A -> S (in Ref. 1; AAG52889)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        89
+FT                   /note="M -> I (in Ref. 1; AAG52889)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        711
+FT                   /note="S -> Y (in Ref. 1; AAG52889 and 2; BAB21805)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        714
+FT                   /note="G -> V (in Ref. 2; BAB21805)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        769..771
+FT                   /note="AGR -> TGQ (in Ref. 1; AAG52889)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        777
+FT                   /note="A -> D (in Ref. 1; AAG52889)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1288 AA;  140690 MW;  F41F1CE8A83D417E CRC64;
+     MASVAWAVLK VLLLLPTQTW SPVGAGNPPD CDAPLASALP RSSFSSSSEL SSSHGPGFSR
+     LNRRDGAGGW TPLVSNKYQW LQIDLGERME VTAVATQGGY GSSDWVTSYL LMFSDGGRNW
+     KQYRREESIW GFPGNTNADS VVHYRLQPPF EARFLRFLPL AWNPRGRIGM RIEVYGCAYK
+     SEVVYFDGQS ALLYRLDKKP LKPIRDVISL KFKAMQSNGI LLHREGQHGN HITLELIKGK
+     LVFFLNSGNA KLPSTIAPVT LTLGSLLDDQ HWHSVLIELL DTQVNFTVDK HTHHFQAKGD
+     SSYLDLNFEI SFGGIPTPGR SRAFRRKSFH GCLENLYYNG VDVTELAKKH KPQILMMGNV
+     SFSCPQPQTV PVTFLSSRSY LALPGNSGED KVSVTFQFRT WNRAGHLLFG ELRRGSGSFV
+     LFLKDGKLKL SLFQPGQSPR NVTAGAGLND GQWHSVSFSA KWSHMNVVVD DDTAVQPLVA
+     VLIDSGDTYY FGGCLDNSSG SGCKSPLGGF QGCLRLITIG DKAVDPILVQ QGALGSFRDL
+     QIDSCGITDR CLPSYCEHGG ECSQSWDTFS CDCLGTGYTG ETCHSSLYEQ SCEAHKHRGN
+     PSGLYYIDAD GSGPLGPFLV YCNMTADAAW TVVQHGGPDA VTLRGAPSGH PRSAVSFAYA
+     AGAGQLRSAV NLAERCEQRL ALRCGTARRP DSRDGTPLSW WVGRTNETHT SWGGSLPDAQ
+     KCTCGLEGNC IDSQYYCNCD AGRNEWTSDT IVLSQKEHLP VTQIVMTDAG RPHSEAAYTL
+     GPLLCRGDQS FWNSASFNTE TSYLHFPAFH GELTADVCFF FKTTVSSGVF MENLGITDFI
+     RIELRAPTEV TFSFDVGNGP CEVTVQSPTP FNDNQWHHVR AERNVKGASL QVDQLPQKMQ
+     PAPADGHVRL QLNSQLFIGG TATRQRGFLG CIRSLQLNGV ALDLEERATV TPGVEPGCAG
+     HCSTYGHLCR NGGRCREKRR GVTCDCAFSA YDGPFCSNEI SAYFATGSSM TYHFQEHYTL
+     SENSSSLVSS LHRDVTLTRE MITLSFRTTR TPSLLLYVSS FYEEYLSVIL ANNGSLQIRY
+     KLDRHQNPDA FTFDFKNMAD GQLHQVKINR EEAVVMVEVN QSTKKQVILS SGTEFNAVKS
+     LILGKVLEAA GADPDTRRAA TSGFTGCLSA VRFGRAAPLK AALRPSGPSR VTVRGHVAPM
+     ARCAAGAASG SPARELAPRL AGGAGRSGPA DEGEPLVNAD RRDSAVIGGV IAVVIFILLC
+     ITAIAIRIYQ QRKLRKENES KVSKKEEC
+//

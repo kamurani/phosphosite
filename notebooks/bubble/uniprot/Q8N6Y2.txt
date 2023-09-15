@@ -1,0 +1,239 @@
+ID   LRC17_HUMAN             Reviewed;         441 AA.
+AC   Q8N6Y2; Q13288; Q6UWA7; Q75MG5;
+DT   31-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   28-JUN-2023, entry version 156.
+DE   RecName: Full=Leucine-rich repeat-containing protein 17;
+DE   AltName: Full=p37NB;
+DE   Flags: Precursor;
+GN   Name=LRRC17; Synonyms=P37NB; ORFNames=UNQ3076/PRO9909;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), TISSUE SPECIFICITY, AND VARIANT
+RP   ALA-187.
+RX   PubMed=8982252; DOI=10.1016/s0167-4781(96)00158-3;
+RA   Kim D., LaQuaglia M.P., Yang S.Y.;
+RT   "A cDNA encoding a putative 37 kDa leucine-rich repeat (LRR) protein,
+RT   p37NB, isolated from S-type neuroblastoma cell has a differential tissue
+RT   distribution.";
+RL   Biochim. Biophys. Acta 1309:183-188(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=12975309; DOI=10.1101/gr.1293003;
+RA   Clark H.F., Gurney A.L., Abaya E., Baker K., Baldwin D.T., Brush J.,
+RA   Chen J., Chow B., Chui C., Crowley C., Currell B., Deuel B., Dowd P.,
+RA   Eaton D., Foster J.S., Grimaldi C., Gu Q., Hass P.E., Heldens S., Huang A.,
+RA   Kim H.S., Klimowski L., Jin Y., Johnson S., Lee J., Lewis L., Liao D.,
+RA   Mark M.R., Robbie E., Sanchez C., Schoenfeld J., Seshagiri S., Simmons L.,
+RA   Singh J., Smith V., Stinson J., Vagts A., Vandlen R.L., Watanabe C.,
+RA   Wieand D., Woods K., Xie M.-H., Yansura D.G., Yi S., Yu G., Yuan J.,
+RA   Zhang M., Zhang Z., Goddard A.D., Wood W.I., Godowski P.J., Gray A.M.;
+RT   "The secreted protein discovery initiative (SPDI), a large-scale effort to
+RT   identify novel human secreted and transmembrane proteins: a bioinformatics
+RT   assessment.";
+RL   Genome Res. 13:2265-2270(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ISOFORM 2).
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Pancreas;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=19336404; DOI=10.1074/jbc.m807722200;
+RA   Kim T., Kim K., Lee S.H., So H.-S., Lee J., Kim N., Choi Y.;
+RT   "Identification of LRRc17 as a negative regulator of receptor activator of
+RT   NF-kappaB ligand (RANKL)-induced osteoclast differentiation.";
+RL   J. Biol. Chem. 284:15308-15316(2009).
+CC   -!- FUNCTION: Involved in bone homeostasis. Acts as a negative regulator of
+CC       RANKL-induced osteoclast precursor differentiation from bone marrow
+CC       precursors (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q8N6Y2-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8N6Y2-2; Sequence=VSP_011424, VSP_011425;
+CC   -!- TISSUE SPECIFICITY: Expressed in osteoblast cell lines. Well expressed
+CC       in ovary, heart, pancreas, skeletal muscle, lung, and fetal kidney and
+CC       lung and only at the basal levels in the other tissues examined
+CC       including adult kidney. More expressed in S-type neuroblastoma cells
+CC       than in N-type neuroblastoma cells. {ECO:0000269|PubMed:19336404,
+CC       ECO:0000269|PubMed:8982252}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U32907; AAB41565.1; -; mRNA.
+DR   EMBL; AY358889; AAQ89248.1; -; mRNA.
+DR   EMBL; AC073127; AAS07483.1; -; Genomic_DNA.
+DR   EMBL; BC027903; AAH27903.1; -; mRNA.
+DR   CCDS; CCDS34721.1; -. [Q8N6Y2-1]
+DR   CCDS; CCDS5727.1; -. [Q8N6Y2-2]
+DR   PIR; G02020; G02020.
+DR   RefSeq; NP_001026862.1; NM_001031692.2. [Q8N6Y2-1]
+DR   RefSeq; NP_005815.2; NM_005824.2. [Q8N6Y2-2]
+DR   RefSeq; XP_005250165.1; XM_005250108.1. [Q8N6Y2-1]
+DR   AlphaFoldDB; Q8N6Y2; -.
+DR   SMR; Q8N6Y2; -.
+DR   BioGRID; 115528; 23.
+DR   IntAct; Q8N6Y2; 1.
+DR   STRING; 9606.ENSP00000344242; -.
+DR   GlyCosmos; Q8N6Y2; 1 site, 1 glycan.
+DR   GlyGen; Q8N6Y2; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8N6Y2; -.
+DR   PhosphoSitePlus; Q8N6Y2; -.
+DR   BioMuta; LRRC17; -.
+DR   DMDM; 51701682; -.
+DR   jPOST; Q8N6Y2; -.
+DR   MassIVE; Q8N6Y2; -.
+DR   MaxQB; Q8N6Y2; -.
+DR   PaxDb; Q8N6Y2; -.
+DR   PeptideAtlas; Q8N6Y2; -.
+DR   ProteomicsDB; 72249; -. [Q8N6Y2-1]
+DR   ProteomicsDB; 72250; -. [Q8N6Y2-2]
+DR   Antibodypedia; 31152; 68 antibodies from 16 providers.
+DR   DNASU; 10234; -.
+DR   Ensembl; ENST00000249377.4; ENSP00000249377.4; ENSG00000128606.13. [Q8N6Y2-2]
+DR   Ensembl; ENST00000339431.9; ENSP00000344242.4; ENSG00000128606.13. [Q8N6Y2-1]
+DR   GeneID; 10234; -.
+DR   KEGG; hsa:10234; -.
+DR   MANE-Select; ENST00000339431.9; ENSP00000344242.4; NM_001031692.3; NP_001026862.1.
+DR   UCSC; uc003vat.4; human. [Q8N6Y2-1]
+DR   AGR; HGNC:16895; -.
+DR   CTD; 10234; -.
+DR   DisGeNET; 10234; -.
+DR   GeneCards; LRRC17; -.
+DR   HGNC; HGNC:16895; LRRC17.
+DR   HPA; ENSG00000128606; Tissue enhanced (ovary).
+DR   MIM; 618749; gene.
+DR   neXtProt; NX_Q8N6Y2; -.
+DR   OpenTargets; ENSG00000128606; -.
+DR   PharmGKB; PA134866295; -.
+DR   VEuPathDB; HostDB:ENSG00000128606; -.
+DR   eggNOG; KOG0619; Eukaryota.
+DR   GeneTree; ENSGT00940000156400; -.
+DR   HOGENOM; CLU_049990_0_0_1; -.
+DR   InParanoid; Q8N6Y2; -.
+DR   OMA; RQTQECK; -.
+DR   OrthoDB; 5397338at2759; -.
+DR   PhylomeDB; Q8N6Y2; -.
+DR   PathwayCommons; Q8N6Y2; -.
+DR   BioGRID-ORCS; 10234; 13 hits in 1139 CRISPR screens.
+DR   ChiTaRS; LRRC17; human.
+DR   GeneWiki; LRRC17; -.
+DR   GenomeRNAi; 10234; -.
+DR   Pharos; Q8N6Y2; Tdark.
+DR   PRO; PR:Q8N6Y2; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q8N6Y2; protein.
+DR   Bgee; ENSG00000128606; Expressed in secondary oocyte and 163 other tissues.
+DR   ExpressionAtlas; Q8N6Y2; baseline and differential.
+DR   Genevisible; Q8N6Y2; HS.
+DR   GO; GO:0031012; C:extracellular matrix; IBA:GO_Central.
+DR   GO; GO:0005615; C:extracellular space; ISS:UniProtKB.
+DR   GO; GO:0048539; P:bone marrow development; ISS:UniProtKB.
+DR   GO; GO:0045671; P:negative regulation of osteoclast differentiation; ISS:UniProtKB.
+DR   GO; GO:0001503; P:ossification; IEA:UniProtKB-KW.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 2.
+DR   InterPro; IPR000483; Cys-rich_flank_reg_C.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   PANTHER; PTHR24369; ANTIGEN BSP, PUTATIVE-RELATED; 1.
+DR   Pfam; PF13855; LRR_8; 2.
+DR   PRINTS; PR00019; LEURICHRPT.
+DR   SMART; SM00365; LRR_SD22; 3.
+DR   SMART; SM00369; LRR_TYP; 6.
+DR   SMART; SM00082; LRRCT; 2.
+DR   SUPFAM; SSF52058; L domain-like; 1.
+DR   PROSITE; PS51450; LRR; 6.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Leucine-rich repeat; Osteogenesis;
+KW   Reference proteome; Repeat; Secreted; Signal.
+FT   SIGNAL          1..18
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           19..441
+FT                   /note="Leucine-rich repeat-containing protein 17"
+FT                   /id="PRO_0000021608"
+FT   REPEAT          82..103
+FT                   /note="LRR 1"
+FT   REPEAT          106..127
+FT                   /note="LRR 2"
+FT   REPEAT          130..151
+FT                   /note="LRR 3"
+FT   DOMAIN          163..214
+FT                   /note="LRRCT 1"
+FT   DOMAIN          225..268
+FT                   /note="LRRNT"
+FT   REPEAT          269..290
+FT                   /note="LRR 4"
+FT   REPEAT          293..314
+FT                   /note="LRR 5"
+FT   REPEAT          317..340
+FT                   /note="LRR 6"
+FT   DOMAIN          350..402
+FT                   /note="LRRCT 2"
+FT   VAR_SEQ         310..313
+FT                   /note="AAFL -> GSLR (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:8982252"
+FT                   /id="VSP_011424"
+FT   VAR_SEQ         314..441
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:8982252"
+FT                   /id="VSP_011425"
+FT   VARIANT         95
+FT                   /note="T -> I (in dbSNP:rs34613342)"
+FT                   /id="VAR_051103"
+FT   VARIANT         119
+FT                   /note="K -> E (in dbSNP:rs3800939)"
+FT                   /id="VAR_051104"
+FT   VARIANT         187
+FT                   /note="G -> A (in dbSNP:rs1057066)"
+FT                   /evidence="ECO:0000269|PubMed:8982252"
+FT                   /id="VAR_051105"
+FT   CONFLICT        214
+FT                   /note="Missing (in Ref. 2; AAQ89248)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   441 AA;  51800 MW;  F629666C807A4254 CRC64;
+     MRVVTIVILL CFCKAAELRK ASPGSVRSRV NHGRAGGGRR GSNPVKRYAP GLPCDVYTYL
+     HEKYLDCQER KLVYVLPGWP QDLLHMLLAR NKIRTLKNNM FSKFKKLKSL DLQQNEISKI
+     ESEAFFGLNK LTTLLLQHNQ IKVLTEEVFI YTPLLSYLRL YDNPWHCTCE IETLISMLQI
+     PRNRNLGNYA KCESPQEQKN KKLRQIKSEQ LCNEEEKEQL DPKPQVSGRP PVIKPEVDST
+     FCHNYVFPIQ TLDCKRKELK KVPNNIPPDI VKLDLSYNKI NQLRPKEFED VHELKKLNLS
+     SNGIEFIDPA AFLGLTHLEE LDLSNNSLQN FDYGVLEDLY FLKLLWLRDN PWRCDYNIHY
+     LYYWLKHHYN VHFNGLECKT PEEYKGWSVG KYIRSYYEEC PKDKLPAYPE SFDQDTEDDE
+     WEKKHRDHTA KKQSVIITIV G
+//

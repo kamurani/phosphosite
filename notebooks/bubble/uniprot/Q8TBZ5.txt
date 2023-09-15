@@ -1,0 +1,209 @@
+ID   ZN502_HUMAN             Reviewed;         544 AA.
+AC   Q8TBZ5;
+DT   15-MAR-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2002, sequence version 1.
+DT   28-JUN-2023, entry version 166.
+DE   RecName: Full=Zinc finger protein 502;
+GN   Name=ZNF502;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [2]
+RP   INTERACTION WITH HRSV MATRIX PROTEIN (MICROBIAL INFECTION).
+RX   PubMed=25556234; DOI=10.1074/mcp.m114.044107;
+RA   Kipper S., Hamad S., Caly L., Avrahami D., Bacharach E., Jans D.A.,
+RA   Gerber D., Bajorek M.;
+RT   "New host factors important for respiratory syncytial virus (RSV)
+RT   replication revealed by a novel microfluidics screen for interactors of
+RT   matrix (M) protein.";
+RL   Mol. Cell. Proteomics 14:532-543(2015).
+RN   [3]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-43, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with human respiratory
+CC       syncytial virus (HRSV) matrix protein; this interaction probably
+CC       facilitates viral release. {ECO:0000269|PubMed:25556234}.
+CC   -!- INTERACTION:
+CC       Q8TBZ5; Q13077: TRAF1; NbExp=7; IntAct=EBI-10273699, EBI-359224;
+CC       Q8TBZ5; P0DOE7: M; Xeno; NbExp=3; IntAct=EBI-10273699, EBI-10042882;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; BC028377; AAH28377.1; -; mRNA.
+DR   CCDS; CCDS2719.1; -.
+DR   RefSeq; NP_001127912.1; NM_001134440.1.
+DR   RefSeq; NP_001127913.1; NM_001134441.1.
+DR   RefSeq; NP_001127914.1; NM_001134442.1.
+DR   RefSeq; NP_001269809.1; NM_001282880.1.
+DR   RefSeq; NP_149987.2; NM_033210.4.
+DR   RefSeq; XP_016862929.1; XM_017007440.1.
+DR   AlphaFoldDB; Q8TBZ5; -.
+DR   SMR; Q8TBZ5; -.
+DR   BioGRID; 124825; 3.
+DR   IntAct; Q8TBZ5; 3.
+DR   STRING; 9606.ENSP00000296091; -.
+DR   GlyGen; Q8TBZ5; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q8TBZ5; -.
+DR   PhosphoSitePlus; Q8TBZ5; -.
+DR   BioMuta; ZNF502; -.
+DR   DMDM; 45477319; -.
+DR   EPD; Q8TBZ5; -.
+DR   jPOST; Q8TBZ5; -.
+DR   MassIVE; Q8TBZ5; -.
+DR   MaxQB; Q8TBZ5; -.
+DR   PaxDb; Q8TBZ5; -.
+DR   PeptideAtlas; Q8TBZ5; -.
+DR   ProteomicsDB; 74060; -.
+DR   Antibodypedia; 29472; 132 antibodies from 17 providers.
+DR   DNASU; 91392; -.
+DR   Ensembl; ENST00000296091.8; ENSP00000296091.4; ENSG00000196653.12.
+DR   Ensembl; ENST00000436624.7; ENSP00000406469.2; ENSG00000196653.12.
+DR   Ensembl; ENST00000449836.5; ENSP00000397390.1; ENSG00000196653.12.
+DR   Ensembl; ENST00000626630.2; ENSP00000487139.1; ENSG00000281448.3.
+DR   Ensembl; ENST00000628995.3; ENSP00000485847.1; ENSG00000281448.3.
+DR   Ensembl; ENST00000630464.2; ENSP00000486576.1; ENSG00000281448.3.
+DR   GeneID; 91392; -.
+DR   KEGG; hsa:91392; -.
+DR   MANE-Select; ENST00000436624.7; ENSP00000406469.2; NM_001134442.3; NP_001127914.1.
+DR   UCSC; uc003cns.4; human.
+DR   AGR; HGNC:23718; -.
+DR   CTD; 91392; -.
+DR   DisGeNET; 91392; -.
+DR   GeneCards; ZNF502; -.
+DR   HGNC; HGNC:23718; ZNF502.
+DR   HPA; ENSG00000196653; Low tissue specificity.
+DR   neXtProt; NX_Q8TBZ5; -.
+DR   OpenTargets; ENSG00000196653; -.
+DR   PharmGKB; PA134866656; -.
+DR   VEuPathDB; HostDB:ENSG00000196653; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000163095; -.
+DR   HOGENOM; CLU_002678_44_0_1; -.
+DR   InParanoid; Q8TBZ5; -.
+DR   OMA; WETSNIH; -.
+DR   OrthoDB; 3121569at2759; -.
+DR   PhylomeDB; Q8TBZ5; -.
+DR   TreeFam; TF341817; -.
+DR   PathwayCommons; Q8TBZ5; -.
+DR   SignaLink; Q8TBZ5; -.
+DR   BioGRID-ORCS; 91392; 5 hits in 1166 CRISPR screens.
+DR   GenomeRNAi; 91392; -.
+DR   Pharos; Q8TBZ5; Tbio.
+DR   PRO; PR:Q8TBZ5; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q8TBZ5; protein.
+DR   Bgee; ENSG00000196653; Expressed in calcaneal tendon and 102 other tissues.
+DR   ExpressionAtlas; Q8TBZ5; baseline and differential.
+DR   Genevisible; Q8TBZ5; HS.
+DR   GO; GO:0005634; C:nucleus; IDA:AgBase.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0044794; P:positive regulation by host of viral process; IMP:AgBase.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IBA:GO_Central.
+DR   GO; GO:0019076; P:viral release from host cell; IMP:AgBase.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 14.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23234:SF7; GENE 14408-RELATED; 1.
+DR   PANTHER; PTHR23234; ZNF44 PROTEIN; 1.
+DR   Pfam; PF00096; zf-C2H2; 12.
+DR   SMART; SM00355; ZnF_C2H2; 14.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 8.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 14.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 14.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Host-virus interaction; Isopeptide bond; Metal-binding;
+KW   Nucleus; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..544
+FT                   /note="Zinc finger protein 502"
+FT                   /id="PRO_0000047623"
+FT   ZN_FING         155..177
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         183..205
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         211..233
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         239..261
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         267..289
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         295..317
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         323..345
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         351..373
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         379..401
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         407..429
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         435..457
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         463..485
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         491..513
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         519..541
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   CROSSLNK        43
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         28
+FT                   /note="L -> P (in dbSNP:rs6798400)"
+FT                   /id="VAR_033574"
+FT   VARIANT         174
+FT                   /note="Q -> R (in dbSNP:rs56084453)"
+FT                   /id="VAR_061953"
+FT   VARIANT         243
+FT                   /note="E -> A (in dbSNP:rs7640654)"
+FT                   /id="VAR_024220"
+SQ   SEQUENCE   544 AA;  62920 MW;  63437B670A6B22D0 CRC64;
+     MLNMQGAEER DIRRETCPGW VNKNKPALEQ DVCKIDSSGI VVKRFQEDEY QDSTFEEKYA
+     CEGMKENSPR EIAESCLFQE GGFGRITFIH KEAPPEIISQ GYNFEKSLLL TSSLVTRLRV
+     STEESLHQWE TSNIQTNDIS DQSKCPTLCT QKKSWKCNEC GKTFTQSSSL TQHQRTHTGE
+     RPYTCEECGK AFSRSSFLVQ HQRIHTGVKP YGCEQCGKTF RCRSFLTQHQ RIHTGEKPYK
+     CNECGNSFRN HSHLTEHQRI HTGEKPYKCN RCGKAFNQNT HLIHHQRIHT GEKPYICSEC
+     GSSFRKHSNL TQHQRIHTGE KPHKCDECGK TFQTKANLSQ HQRIHSGEKP YKCKECGKAF
+     CQSPSLIKHQ RIHTGEKPYK CKECGKAFTQ STPLTKHQRI HTGERPYKCS ECGKAFIQSI
+     CLIRHQRSHT GEKPYKCNEC GKGFNQNTCL TQHMRIHTGE KPYKCKECGK AFAHSSSLTE
+     HHRTHTGEKL YKCSECEKTF RKYAHLSEHY RIHTGEKPYE CIECGKFFRH SSVLFRHQKL
+     HSGD
+//

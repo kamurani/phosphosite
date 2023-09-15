@@ -1,0 +1,555 @@
+ID   HYEP_HUMAN              Reviewed;         455 AA.
+AC   P07099; B2R8N0; Q5VTJ6; Q9NP75; Q9NPE7; Q9NQU6; Q9NQU7; Q9NQU8; Q9NQU9;
+AC   Q9NQV0; Q9NQV1; Q9NQV2;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1988, sequence version 1.
+DT   28-JUN-2023, entry version 215.
+DE   RecName: Full=Epoxide hydrolase 1 {ECO:0000305};
+DE            EC=3.3.2.9 {ECO:0000250|UniProtKB:P07687};
+DE   AltName: Full=Epoxide hydratase;
+DE   AltName: Full=Microsomal epoxide hydrolase;
+DE            Short=mEH {ECO:0000305};
+GN   Name=EPHX1 {ECO:0000312|HGNC:HGNC:3401}; Synonyms=EPHX, EPOX;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND PROTEIN SEQUENCE OF 1-19.
+RX   PubMed=2891713; DOI=10.1016/s0021-9258(19)57339-2;
+RA   Skoda R.C., Demierre A., McBride O.W., Gonzalez F.J., Meyer U.A.;
+RT   "Human microsomal xenobiotic epoxide hydrolase. Complementary DNA sequence,
+RT   complementary DNA-directed expression in COS-1 cells, and chromosomal
+RT   localization.";
+RL   J. Biol. Chem. 263:1549-1554(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Fetal liver;
+RA   Wilson N.M., Omiecinski C.J.;
+RT   "Nucleotide sequence of a human microsomal epoxide hydrolase cDNA clone.";
+RL   Submitted (JUL-1988) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Liver;
+RX   PubMed=3502697; DOI=10.1093/nar/15.17.7188;
+RA   Jackson M.R., Craft J.A., Burchell B.;
+RT   "Nucleotide and deduced amino acid sequence of human liver microsomal
+RT   epoxide hydrolase.";
+RL   Nucleic Acids Res. 15:7188-7188(1987).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANTS HIS-113; ARG-139 AND ILE-396.
+RC   TISSUE=Liver;
+RX   PubMed=7516776; DOI=10.1093/hmg/3.3.421;
+RA   Hassett C., Aicher L., Sidhu J.S., Omiecinski C.J.;
+RT   "Human microsomal epoxide hydrolase: genetic polymorphism and functional
+RT   expression in vitro of amino acid variants.";
+RL   Hum. Mol. Genet. 3:421-428(1994).
+RN   [5]
+RP   ERRATUM OF PUBMED:7516776.
+RA   Hassett C., Aicher L., Sidhu J.S., Omiecinski C.J.;
+RL   Hum. Mol. Genet. 3:1214-1214(1994).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=7835893; DOI=10.1006/geno.1994.1520;
+RA   Hassett C., Robinson K.B., Beck N.B., Omiecinski C.J.;
+RT   "The human microsomal epoxide hydrolase gene (EPHX1): complete nucleotide
+RT   sequence and structural characterization.";
+RL   Genomics 23:433-442(1994).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain cortex;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS THR-43; HIS-113; ARG-139;
+RP   LEU-285; MET-408 AND GLN-452.
+RG   NIEHS SNPs program;
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Skin, Testis, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 9-327.
+RC   TISSUE=Liver;
+RA   Craft J.A., Jackson M.R., Burchell B.;
+RT   "Partial nucleotide sequence of a cloned cDNA for human liver microsomal
+RT   epoxide hydrolase.";
+RL   Biochem. Soc. Trans. 15:708-709(1987).
+RN   [12]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-197; 242-310 AND 348-455, AND
+RP   VARIANTS CYS-49; HIS-113; ARG-139; PRO-260 AND GLN-454.
+RX   PubMed=11058921;
+RX   DOI=10.1002/1098-1004(200011)16:5<450::aid-humu28>3.0.co;2-1;
+RA   Belmahdi F., Chevalier D., Lo-Guidice J.-M., Allorge D., Cauffiez C.,
+RA   Lafitte J.-J., Broly F.;
+RT   "Identification of 6 new polymorphisms, g.11177G>A, g.14622C>T (R49C),
+RT   g.17540T>C, g.17639T>C, g.30929T>C, g.31074G>A (R454Q), in the human
+RT   microsomal epoxide hydrolase gene (EPHX1) in a French population.";
+RL   Hum. Mutat. 16:450-450(2000).
+RN   [13]
+RP   POTENTIAL INVOLVEMENT IN HYPERCHOLANEMIA, AND TISSUE SPECIFICITY.
+RX   PubMed=12878321; DOI=10.1016/s0925-4439(03)00085-1;
+RA   Zhu Q.S., Xing W., Qian B., von Dippe P., Shneider B.L., Fox V.L., Levy D.;
+RT   "Inhibition of human m-epoxide hydrolase gene expression in a case of
+RT   hypercholanemia.";
+RL   Biochim. Biophys. Acta 1638:208-216(2003).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [15]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=22798687; DOI=10.1194/jlr.m024448;
+RA   Decker M., Adamska M., Cronin A., Di Giallonardo F., Burgener J.,
+RA   Marowsky A., Falck J.R., Morisseau C., Hammock B.D., Gruzdev A.,
+RA   Zeldin D.C., Arand M.;
+RT   "EH3 (ABHD9): the first member of a new epoxide hydrolase family with high
+RT   activity for fatty acid epoxides.";
+RL   J. Lipid Res. 53:2038-2045(2012).
+RN   [16]
+RP   FUNCTION, CATALYTIC ACTIVITY, ACTIVITY REGULATION, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=24958911; DOI=10.1194/jlr.m051284;
+RA   Nithipatikom K., Endsley M.P., Pfeiffer A.W., Falck J.R., Campbell W.B.;
+RT   "A novel activity of microsomal epoxide hydrolase: metabolism of the
+RT   endocannabinoid 2-arachidonoylglycerol.";
+RL   J. Lipid Res. 55:2093-2102(2014).
+RN   [17]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [19]
+RP   VARIANTS HIS-113 AND ARG-139, AND DISEASE.
+RX   PubMed=12173035; DOI=10.1038/sj.ejhg.5200849;
+RA   Laasanen J., Romppanen E.-L., Hiltunen M., Helisalmi S., Mannermaa A.,
+RA   Punnonen K., Heinonen S.;
+RT   "Two exonic single nucleotide polymorphisms in the microsomal epoxide
+RT   hydrolase gene are jointly associated with preeclampsia.";
+RL   Eur. J. Hum. Genet. 10:569-573(2002).
+RN   [20]
+RP   VARIANT GLN-44.
+RX   PubMed=15618730; DOI=10.2133/dmpk.18.150;
+RA   Shiseki K., Itoda M., Saito Y., Nakajima Y., Maekawa K., Kimura H.,
+RA   Goto Y., Saitoh O., Katoh M., Ohnuma T., Kawai M., Sugai K., Ohtsuki T.,
+RA   Suzuki C., Minami N., Ozawa S., Sawada J.;
+RT   "Five novel single nucleotide polymorphisms in the EPHX1 gene encoding
+RT   microsomal epoxide hydrolase.";
+RL   Drug Metab. Pharmacokinet. 18:150-153(2003).
+RN   [21]
+RP   CHARACTERIZATION OF VARIANTS HIS-113 AND ARG-139.
+RX   PubMed=15535985; DOI=10.1016/j.cbi.2004.07.004;
+RA   Hosagrahara V.P., Rettie A.E., Hassett C., Omiecinski C.J.;
+RT   "Functional analysis of human microsomal epoxide hydrolase genetic
+RT   variants.";
+RL   Chem. Biol. Interact. 150:149-159(2004).
+CC   -!- FUNCTION: Biotransformation enzyme that catalyzes the hydrolysis of
+CC       arene and aliphatic epoxides to less reactive and more water soluble
+CC       dihydrodiols by the trans addition of water (By similarity). Plays a
+CC       role in the metabolism of endogenous lipids such as epoxide-containing
+CC       fatty acids (PubMed:22798687). Metabolizes the abundant endocannabinoid
+CC       2-arachidonoylglycerol (2-AG) to free arachidonic acid (AA) and
+CC       glycerol (PubMed:24958911). {ECO:0000250|UniProtKB:P07687,
+CC       ECO:0000269|PubMed:22798687, ECO:0000269|PubMed:24958911}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=cis-stilbene oxide + H2O = (1R,2R)-hydrobenzoin;
+CC         Xref=Rhea:RHEA:23900, ChEBI:CHEBI:15377, ChEBI:CHEBI:50004,
+CC         ChEBI:CHEBI:50014; EC=3.3.2.9;
+CC         Evidence={ECO:0000269|PubMed:24958911};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:23901;
+CC         Evidence={ECO:0000269|PubMed:24958911};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=1-(4-methoxyphenyl)-N-methyl-N-[(3-methyloxetan-3-
+CC         yl)methyl]methanamine + H2O = 2-{[(4-
+CC         methoxybenzyl)(methyl)amino]methyl}-2-methylpropane-1,3-diol;
+CC         Xref=Rhea:RHEA:55764, ChEBI:CHEBI:15377, ChEBI:CHEBI:139161,
+CC         ChEBI:CHEBI:139164; EC=3.3.2.9;
+CC         Evidence={ECO:0000250|UniProtKB:P07687};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=8,9-epoxy-(5Z,11Z,14Z)-eicosatrienoate + H2O = 8,9-dihydroxy-
+CC         (5Z,11Z,14Z)-eicosatrienoate; Xref=Rhea:RHEA:44048,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:84025, ChEBI:CHEBI:84032;
+CC         Evidence={ECO:0000269|PubMed:22798687};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:44049;
+CC         Evidence={ECO:0000269|PubMed:22798687};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=11,12-epoxy-(5Z,8Z,14Z)-eicosatrienoate + H2O = 11,12-
+CC         dihydroxy-(5Z,8Z,14Z)-eicosatrienoate; Xref=Rhea:RHEA:44044,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:76625, ChEBI:CHEBI:84031;
+CC         Evidence={ECO:0000269|PubMed:22798687};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:44045;
+CC         Evidence={ECO:0000269|PubMed:22798687};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-glycerol + H2O =
+CC         (5Z,8Z,11Z,14Z)-eicosatetraenoate + glycerol + H(+);
+CC         Xref=Rhea:RHEA:26132, ChEBI:CHEBI:15377, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:17754, ChEBI:CHEBI:32395, ChEBI:CHEBI:52392;
+CC         Evidence={ECO:0000269|PubMed:24958911};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:26133;
+CC         Evidence={ECO:0000269|PubMed:24958911};
+CC   -!- ACTIVITY REGULATION: Inhibited by 10-hydroxystearamide and methoxy-
+CC       arachidonyl fluorophosphate. {ECO:0000269|PubMed:24958911}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.8 uM for 8,9-EET {ECO:0000269|PubMed:22798687};
+CC         KM=0.4 uM for 11,12-EET {ECO:0000269|PubMed:22798687};
+CC         KM=0.9 uM for 14,15-EET {ECO:0000269|PubMed:22798687};
+CC         KM=5.8 uM for leukotoxin {ECO:0000269|PubMed:22798687};
+CC         Vmax=0.12 umol/min/mg enzyme with 8,9-EET as substrate
+CC         {ECO:0000269|PubMed:22798687};
+CC         Vmax=0.6 umol/min/mg enzyme with 11,12-EET as substrate
+CC         {ECO:0000269|PubMed:22798687};
+CC         Vmax=0.04 umol/min/mg enzyme with 14,15-EET as substrate
+CC         {ECO:0000269|PubMed:22798687};
+CC         Vmax=0.008 umol/min/mg enzyme with leukotoxin as substrate
+CC         {ECO:0000269|PubMed:22798687};
+CC   -!- INTERACTION:
+CC       P07099; P23560-2: BDNF; NbExp=3; IntAct=EBI-6138796, EBI-12275524;
+CC   -!- SUBCELLULAR LOCATION: Microsome membrane {ECO:0000269|PubMed:24958911};
+CC       Single-pass type III membrane protein {ECO:0000255}. Endoplasmic
+CC       reticulum membrane {ECO:0000250|UniProtKB:P07687}; Single-pass type III
+CC       membrane protein {ECO:0000250|UniProtKB:P07687}.
+CC   -!- TISSUE SPECIFICITY: Found in liver. {ECO:0000269|PubMed:12878321}.
+CC   -!- DISEASE: Note=In some populations, the high activity haplotype
+CC       tyr113/his139 is overrepresented among women suffering from pregnancy-
+CC       induced hypertension (pre-eclampsia) when compared with healthy
+CC       controls. {ECO:0000269|PubMed:12173035}.
+CC   -!- DISEASE: Note=Variations in EPHX1 gene non-coding regions have been
+CC       observed in a patient with hypercholanemia. The pathogenicity of these
+CC       variants has not been confirmed. {ECO:0000269|PubMed:12878321}.
+CC   -!- SIMILARITY: Belongs to the peptidase S33 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/ephx1/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; J03518; AAA61305.1; -; mRNA.
+DR   EMBL; X07936; CAA30759.1; -; mRNA.
+DR   EMBL; Y00424; CAA68486.1; -; mRNA.
+DR   EMBL; L25878; AAA52389.1; -; mRNA.
+DR   EMBL; L25879; AAA52390.1; -; mRNA.
+DR   EMBL; U06661; AAB60649.1; -; Genomic_DNA.
+DR   EMBL; U06656; AAB60649.1; JOINED; Genomic_DNA.
+DR   EMBL; U06657; AAB60649.1; JOINED; Genomic_DNA.
+DR   EMBL; U06658; AAB60649.1; JOINED; Genomic_DNA.
+DR   EMBL; U06659; AAB60649.1; JOINED; Genomic_DNA.
+DR   EMBL; U06660; AAB60649.1; JOINED; Genomic_DNA.
+DR   EMBL; AK313436; BAG36227.1; -; mRNA.
+DR   EMBL; AY948961; AAX81410.1; -; Genomic_DNA.
+DR   EMBL; AL591895; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC003567; AAH03567.1; -; mRNA.
+DR   EMBL; BC008291; AAH08291.1; -; mRNA.
+DR   EMBL; BC095430; AAH95430.1; -; mRNA.
+DR   EMBL; M36374; AAA59580.1; -; mRNA.
+DR   EMBL; AF253417; AAC41694.1; -; Genomic_DNA.
+DR   EMBL; AF276626; AAF87726.1; -; Genomic_DNA.
+DR   EMBL; AF276627; AAF87727.1; -; Genomic_DNA.
+DR   EMBL; AF276628; AAF87728.1; -; Genomic_DNA.
+DR   EMBL; AF276629; AAF87729.1; -; Genomic_DNA.
+DR   EMBL; AF276630; AAF87730.1; -; Genomic_DNA.
+DR   EMBL; AF276631; AAF87731.1; -; Genomic_DNA.
+DR   EMBL; AF276632; AAF87732.1; -; Genomic_DNA.
+DR   EMBL; AF276633; AAF87733.1; -; Genomic_DNA.
+DR   EMBL; AF276634; AAF87734.1; -; Genomic_DNA.
+DR   EMBL; AF276635; AAF87735.1; -; Genomic_DNA.
+DR   EMBL; AF276636; AAF87736.1; -; Genomic_DNA.
+DR   EMBL; AF276637; AAF87737.1; -; Genomic_DNA.
+DR   EMBL; AF276638; AAF87738.1; -; Genomic_DNA.
+DR   CCDS; CCDS1547.1; -.
+DR   PIR; A29939; A29939.
+DR   RefSeq; NP_000111.1; NM_000120.3.
+DR   RefSeq; NP_001129490.1; NM_001136018.3.
+DR   RefSeq; NP_001278092.1; NM_001291163.1.
+DR   AlphaFoldDB; P07099; -.
+DR   SMR; P07099; -.
+DR   BioGRID; 108366; 138.
+DR   IntAct; P07099; 22.
+DR   MINT; P07099; -.
+DR   STRING; 9606.ENSP00000480004; -.
+DR   BindingDB; P07099; -.
+DR   ChEMBL; CHEMBL1968; -.
+DR   DrugBank; DB00808; Indapamide.
+DR   DrugBank; DB00252; Phenytoin.
+DR   DrugCentral; P07099; -.
+DR   SwissLipids; SLP:000001117; -.
+DR   ESTHER; human-EPHX1; Epoxide_hydrolase.
+DR   MEROPS; S33.971; -.
+DR   GlyGen; P07099; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P07099; -.
+DR   PhosphoSitePlus; P07099; -.
+DR   SwissPalm; P07099; -.
+DR   BioMuta; EPHX1; -.
+DR   DMDM; 123926; -.
+DR   CPTAC; CPTAC-1613; -.
+DR   CPTAC; CPTAC-359; -.
+DR   CPTAC; CPTAC-360; -.
+DR   EPD; P07099; -.
+DR   jPOST; P07099; -.
+DR   MassIVE; P07099; -.
+DR   PaxDb; P07099; -.
+DR   PeptideAtlas; P07099; -.
+DR   ProteomicsDB; 51949; -.
+DR   Antibodypedia; 34646; 496 antibodies from 29 providers.
+DR   DNASU; 2052; -.
+DR   Ensembl; ENST00000272167.10; ENSP00000272167.5; ENSG00000143819.13.
+DR   Ensembl; ENST00000366837.5; ENSP00000355802.4; ENSG00000143819.13.
+DR   Ensembl; ENST00000614058.4; ENSP00000480004.1; ENSG00000143819.13.
+DR   GeneID; 2052; -.
+DR   KEGG; hsa:2052; -.
+DR   MANE-Select; ENST00000272167.10; ENSP00000272167.5; NM_001136018.4; NP_001129490.1.
+DR   AGR; HGNC:3401; -.
+DR   CTD; 2052; -.
+DR   DisGeNET; 2052; -.
+DR   GeneCards; EPHX1; -.
+DR   HGNC; HGNC:3401; EPHX1.
+DR   HPA; ENSG00000143819; Tissue enhanced (adrenal gland, liver).
+DR   MalaCards; EPHX1; -.
+DR   MIM; 132810; gene.
+DR   neXtProt; NX_P07099; -.
+DR   OpenTargets; ENSG00000143819; -.
+DR   Orphanet; 238475; Familial hypercholanemia.
+DR   PharmGKB; PA27829; -.
+DR   VEuPathDB; HostDB:ENSG00000143819; -.
+DR   eggNOG; KOG2565; Eukaryota.
+DR   GeneTree; ENSGT00390000002210; -.
+DR   HOGENOM; CLU_019414_3_0_1; -.
+DR   InParanoid; P07099; -.
+DR   OMA; LYIHKPF; -.
+DR   OrthoDB; 5472392at2759; -.
+DR   PhylomeDB; P07099; -.
+DR   TreeFam; TF313813; -.
+DR   BioCyc; MetaCyc:HS07112-MON; -.
+DR   BRENDA; 3.3.2.9; 2681.
+DR   PathwayCommons; P07099; -.
+DR   Reactome; R-HSA-211945; Phase I - Functionalization of compounds.
+DR   SABIO-RK; P07099; -.
+DR   SignaLink; P07099; -.
+DR   BioGRID-ORCS; 2052; 18 hits in 1161 CRISPR screens.
+DR   ChiTaRS; EPHX1; human.
+DR   GeneWiki; EPHX1; -.
+DR   GenomeRNAi; 2052; -.
+DR   Pharos; P07099; Tchem.
+DR   PRO; PR:P07099; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; P07099; protein.
+DR   Bgee; ENSG00000143819; Expressed in right adrenal gland cortex and 184 other tissues.
+DR   ExpressionAtlas; P07099; baseline and differential.
+DR   Genevisible; P07099; HS.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; TAS:Reactome.
+DR   GO; GO:0033961; F:cis-stilbene-oxide hydrolase activity; IDA:UniProtKB.
+DR   GO; GO:0004301; F:epoxide hydrolase activity; IDA:UniProtKB.
+DR   GO; GO:0019369; P:arachidonic acid metabolic process; IDA:UniProtKB.
+DR   GO; GO:0019439; P:aromatic compound catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0097176; P:epoxide metabolic process; IDA:UniProtKB.
+DR   GO; GO:0014070; P:response to organic cyclic compound; IEA:Ensembl.
+DR   GO; GO:0009636; P:response to toxic substance; IEA:UniProtKB-KW.
+DR   GO; GO:0006805; P:xenobiotic metabolic process; TAS:Reactome.
+DR   Gene3D; 3.40.50.1820; alpha/beta hydrolase; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000073; AB_hydrolase_1.
+DR   InterPro; IPR000639; Epox_hydrolase-like.
+DR   InterPro; IPR016292; Epoxide_hydrolase.
+DR   PANTHER; PTHR21661:SF78; EPOXIDE HYDROLASE 1; 1.
+DR   PANTHER; PTHR21661; EPOXIDE HYDROLASE 1-RELATED; 1.
+DR   Pfam; PF00561; Abhydrolase_1; 1.
+DR   PIRSF; PIRSF001112; Epoxide_hydrolase; 1.
+DR   PRINTS; PR00412; EPOXHYDRLASE.
+DR   SUPFAM; SSF53474; alpha/beta-Hydrolases; 1.
+PE   1: Evidence at protein level;
+KW   Aromatic hydrocarbons catabolism; Detoxification;
+KW   Direct protein sequencing; Endoplasmic reticulum; Hydrolase;
+KW   Lipid metabolism; Membrane; Methylation; Microsome; Reference proteome;
+KW   Transmembrane; Transmembrane helix.
+FT   CHAIN           1..455
+FT                   /note="Epoxide hydrolase 1"
+FT                   /id="PRO_0000080855"
+FT   TRANSMEM        1..21
+FT                   /note="Helical; Signal-anchor for type III membrane
+FT                   protein"
+FT                   /evidence="ECO:0000250|UniProtKB:P07687"
+FT   TOPO_DOM        22..455
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000250|UniProtKB:P07687"
+FT   ACT_SITE        226
+FT                   /note="Nucleophile"
+FT                   /evidence="ECO:0000250|UniProtKB:P07687"
+FT   ACT_SITE        374
+FT                   /note="Proton donor"
+FT                   /evidence="ECO:0000250|UniProtKB:P34913"
+FT   ACT_SITE        431
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250|UniProtKB:P07687"
+FT   MOD_RES         295
+FT                   /note="Dimethylated arginine"
+FT                   /evidence="ECO:0000250|UniProtKB:P07687"
+FT   VARIANT         43
+FT                   /note="R -> T (in dbSNP:rs3738046)"
+FT                   /evidence="ECO:0000269|Ref.8"
+FT                   /id="VAR_023303"
+FT   VARIANT         44
+FT                   /note="E -> Q (in dbSNP:rs745306359)"
+FT                   /evidence="ECO:0000269|PubMed:15618730"
+FT                   /id="VAR_018347"
+FT   VARIANT         49
+FT                   /note="R -> C (in allele EPHX1*2; dbSNP:rs2234697)"
+FT                   /evidence="ECO:0000269|PubMed:11058921"
+FT                   /id="VAR_013298"
+FT   VARIANT         113
+FT                   /note="Y -> H (in allele EPHX1*3; benign variant; frequent
+FT                   in the human population; 55% of wild type enzyme activity;
+FT                   dbSNP:rs1051740)"
+FT                   /evidence="ECO:0000269|PubMed:11058921,
+FT                   ECO:0000269|PubMed:12173035, ECO:0000269|PubMed:15535985,
+FT                   ECO:0000269|PubMed:7516776, ECO:0000269|Ref.8"
+FT                   /id="VAR_005295"
+FT   VARIANT         139
+FT                   /note="H -> R (in allele EPHX1*4; benign variant; frequent
+FT                   in the human population; 62% of wild type enzyme activity;
+FT                   dbSNP:rs2234922)"
+FT                   /evidence="ECO:0000269|PubMed:11058921,
+FT                   ECO:0000269|PubMed:12173035, ECO:0000269|PubMed:15535985,
+FT                   ECO:0000269|PubMed:7516776, ECO:0000269|Ref.8"
+FT                   /id="VAR_005296"
+FT   VARIANT         260
+FT                   /note="L -> P (in allele EPHX1*1G)"
+FT                   /evidence="ECO:0000269|PubMed:11058921"
+FT                   /id="VAR_013299"
+FT   VARIANT         275
+FT                   /note="T -> A (in dbSNP:rs35073925)"
+FT                   /id="VAR_051828"
+FT   VARIANT         285
+FT                   /note="V -> L (in dbSNP:rs45449793)"
+FT                   /evidence="ECO:0000269|Ref.8"
+FT                   /id="VAR_023304"
+FT   VARIANT         396
+FT                   /note="T -> I (either a rare variant or a sequencing
+FT                   error)"
+FT                   /evidence="ECO:0000269|PubMed:7516776"
+FT                   /id="VAR_005297"
+FT   VARIANT         408
+FT                   /note="T -> M (in dbSNP:rs45495897)"
+FT                   /evidence="ECO:0000269|Ref.8"
+FT                   /id="VAR_023305"
+FT   VARIANT         452
+FT                   /note="L -> Q (in dbSNP:rs45563137)"
+FT                   /evidence="ECO:0000269|Ref.8"
+FT                   /id="VAR_023306"
+FT   VARIANT         454
+FT                   /note="R -> Q (in allele EPHX1*5; dbSNP:rs2234701)"
+FT                   /evidence="ECO:0000269|PubMed:11058921"
+FT                   /id="VAR_013300"
+FT   CONFLICT        15
+FT                   /note="I -> V (in Ref. 7; BAG36227)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        112
+FT                   /note="R -> K (in Ref. 11)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        148
+FT                   /note="H -> N (in Ref. 3 and 11)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        243
+FT                   /note="V -> L (in Ref. 11)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        348
+FT                   /note="K -> S (in Ref. 3; CAA68486)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        406
+FT                   /note="L -> F (in Ref. 3; CAA68486)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        420
+FT                   /note="L -> V (in Ref. 3; CAA68486)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   455 AA;  52949 MW;  88E333838C841390 CRC64;
+     MWLEILLTSV LGFAIYWFIS RDKEETLPLE DGWWGPGTRS AAREDDSIRP FKVETSDEEI
+     HDLHQRIDKF RFTPPLEDSC FHYGFNSNYL KKVISYWRNE FDWKKQVEIL NRYPHFKTKI
+     EGLDIHFIHV KPPQLPAGHT PKPLLMVHGW PGSFYEFYKI IPLLTDPKNH GLSDEHVFEV
+     ICPSIPGYGF SEASSKKGFN SVATARIFYK LMLRLGFQEF YIQGGDWGSL ICTNMAQLVP
+     SHVKGLHLNM ALVLSNFSTL TLLLGQRFGR FLGLTERDVE LLYPVKEKVF YSLMRESGYM
+     HIQCTKPDTV GSALNDSPVG LAAYILEKFS TWTNTEFRYL EDGGLERKFS LDDLLTNVML
+     YWTTGTIISS QRFYKENLGQ GWMTQKHERM KVYVPTGFSA FPFELLHTPE KWVRFKYPKL
+     ISYSYMVRGG HFAAFEEPEL LAQDIRKFLS VLERQ
+//

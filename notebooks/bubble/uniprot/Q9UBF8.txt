@@ -1,0 +1,885 @@
+ID   PI4KB_HUMAN             Reviewed;         816 AA.
+AC   Q9UBF8; B4DGI2; O15096; P78405; Q5VWB9; Q5VWC0; Q5VWC1; Q9BWR6;
+DT   14-NOV-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   28-JUN-2023, entry version 195.
+DE   RecName: Full=Phosphatidylinositol 4-kinase beta {ECO:0000305};
+DE            Short=PI4K-beta;
+DE            Short=PI4Kbeta;
+DE            Short=PtdIns 4-kinase beta;
+DE            EC=2.7.1.67 {ECO:0000269|PubMed:11277933, ECO:0000269|PubMed:9405935};
+DE   AltName: Full=NPIK;
+DE   AltName: Full=PI4K92;
+DE   AltName: Full=PI4KIII {ECO:0000303|PubMed:22124328, ECO:0000303|PubMed:22258260};
+GN   Name=PI4KB {ECO:0000312|HGNC:HGNC:8984}; Synonyms=PIK4CB;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000312|EMBL:AAC51156.1};
+RN   [1] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, SUBCELLULAR LOCATION, AND
+RP   TISSUE SPECIFICITY.
+RC   TISSUE=Fetal brain;
+RX   PubMed=9405935; DOI=10.1093/dnares/4.4.273;
+RA   Suzuki K., Hirano H., Okutomi K., Suzuki M., Kuga Y., Fujiwara T.,
+RA   Kanemoto N., Isono K., Horie M.;
+RT   "Identification and characterization of a novel human phosphatidylinositol
+RT   4-kinase.";
+RL   DNA Res. 4:273-280(1997).
+RN   [2] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND TISSUE SPECIFICITY.
+RC   TISSUE=Brain {ECO:0000312|EMBL:BAA21661.1};
+RX   PubMed=9405938; DOI=10.1093/dnares/4.4.301;
+RA   Saito T., Seki N., Ishii H., Ohira M., Hayashi A., Kozuma S., Hori T.-A.;
+RT   "Complementary DNA cloning and chromosomal mapping of a novel
+RT   phosphatidylinositol kinase gene.";
+RL   DNA Res. 4:301-305(1997).
+RN   [3] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), ACTIVITY REGULATION, AND TISSUE
+RP   SPECIFICITY.
+RC   TISSUE=Heart {ECO:0000269|PubMed:9020160};
+RX   PubMed=9020160; DOI=10.1074/jbc.272.7.4384;
+RA   Meyers R., Cantley L.C.;
+RT   "Cloning and characterization of a wortmannin-sensitive human
+RT   phosphatidylinositol 4-kinase.";
+RL   J. Biol. Chem. 272:4384-4390(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Brain;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain {ECO:0000312|EMBL:AAH00029.1}, and Testis
+RC   {ECO:0000312|EMBL:AAH40300.1};
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 2-118; 121-229; 236-303; 319-442; 497-798 AND 804-816
+RP   (ISOFORM 2), CLEAVAGE OF INITIATOR METHIONINE, ACETYLATION AT GLY-2,
+RP   PHOSPHORYLATION AT SER-294, INTERACTION WITH ACBD3; ARMH3; RAB11B; YWHAB;
+RP   YWHAE; YWHAG; YWHAH; YWHAQ; YWHAZ AND SFN, MUTAGENESIS OF 40-LEU--VAL-42;
+RP   43-ILE--PRO-45; 46-GLU-VAL-47; 49-GLN-LYS-50; CYS-52; 53-GLN-GLU-54;
+RP   55-VAL-LEU-56 AND 57-GLU--VAL-59, AND MASS SPECTROMETRY.
+RX   PubMed=23572552; DOI=10.1128/mbio.00098-13;
+RA   Greninger A.L., Knudsen G.M., Betegon M., Burlingame A.L., DeRisi J.L.;
+RT   "ACBD3 interaction with TBC1 domain 22 protein is differentially affected
+RT   by enteroviral and kobuviral 3A protein binding.";
+RL   MBio 4:E00098-E00098(2013).
+RN   [9]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=9148941; DOI=10.1074/jbc.272.20.13236;
+RA   Wong K., Meyers R., Cantley L.C.;
+RT   "Subcellular locations of phosphatidylinositol 4-kinase isoforms.";
+RL   J. Biol. Chem. 272:13236-13241(1997).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=10559940; DOI=10.1038/12993;
+RA   Godi A., Pertile P., Meyers R., Marra P., Di Tullio G., Iurisci C.,
+RA   Luini A., Corda D., De Matteis M.A.;
+RT   "ARF mediates recruitment of PtdIns-4-OH kinase-beta and stimulates
+RT   synthesis of PtdIns(4,5)P2 on the Golgi complex.";
+RL   Nat. Cell Biol. 1:280-287(1999).
+RN   [11]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, ACTIVITY
+RP   REGULATION, COFACTOR, AND PHOSPHORYLATION AT SER-258; THR-263; SER-266;
+RP   SER-277; SER-294; THR-438; SER-511 AND THR-519.
+RX   PubMed=11277933; DOI=10.1046/j.1432-1327.2001.02089.x;
+RA   Suer S., Sickmann A., Meyer H.E., Herberg F.W., Heilmeyer L.M.G. Jr.;
+RT   "Human phosphatidylinositol 4-kinase isoform PI4K92. Expression of the
+RT   recombinant enzyme and determination of multiple phosphorylation sites.";
+RL   Eur. J. Biochem. 268:2099-2106(2001).
+RN   [12]
+RP   FUNCTION.
+RX   PubMed=12749687; DOI=10.1002/tbmb.718540873;
+RA   Heilmeyer L.M.G. Jr., Vereb G. Jr., Vereb G., Kakuk A., Szivak I.;
+RT   "Mammalian phosphatidylinositol 4-kinases.";
+RL   IUBMB Life 55:59-65(2003).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-428, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [14]
+RP   INTERACTION WITH ARF1 AND ARF3, AND SUBCELLULAR LOCATION.
+RX   PubMed=17555535; DOI=10.1111/j.1600-0854.2007.00594.x;
+RA   Haynes L.P., Sherwood M.W., Dolman N.J., Burgoyne R.D.;
+RT   "Specificity, promiscuity and localization of ARF protein interactions with
+RT   NCS-1 and phosphatidylinositol-4 kinase-III beta.";
+RL   Traffic 8:1080-1092(2007).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-511, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D., Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient
+RT   phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-258; SER-277; SER-428 AND
+RP   SER-511, PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-294 (ISOFORM 2), AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-428, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-258; SER-266 AND SER-428, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-428, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [21]
+RP   FUNCTION (MICROBIAL INFECTION), SUBCELLULAR LOCATION, IDENTIFICATION IN A
+RP   COMPLEX AICHI VIRUS PROTEIN 3A/ACBD3/PI4KB (MICROBIAL INFECTION), AND
+RP   INTERACTION WITH ACBD3.
+RX   PubMed=22124328; DOI=10.1038/emboj.2011.429;
+RA   Sasaki J., Ishikawa K., Arita M., Taniguchi K.;
+RT   "ACBD3-mediated recruitment of PI4KB to picornavirus RNA replication
+RT   sites.";
+RL   EMBO J. 31:754-766(2012).
+RN   [22]
+RP   FUNCTION (MICROBIAL INFECTION).
+RX   PubMed=22253445; DOI=10.1074/jbc.m111.312561;
+RA   Yang N., Ma P., Lang J., Zhang Y., Deng J., Ju X., Zhang G., Jiang C.;
+RT   "Phosphatidylinositol 4-kinase IIIbeta is required for severe acute
+RT   respiratory syndrome coronavirus spike-mediated cell entry.";
+RL   J. Biol. Chem. 287:8457-8467(2012).
+RN   [23]
+RP   FUNCTION (MICROBIAL INFECTION), INTERACTION WITH AICHI VIRUS PROTEIN 3A
+RP   (MICROBIAL INFECTION), IDENTIFICATION IN A COMPLEX AICHI VIRUS PROTEIN
+RP   3A/ACBD3/PI4KB (MICROBIAL INFECTION), AND INTERACTION WITH ACBD3.
+RX   PubMed=22258260; DOI=10.1128/jvi.06778-11;
+RA   Greninger A.L., Knudsen G.M., Betegon M., Burlingame A.L., Derisi J.L.;
+RT   "The 3A protein from multiple picornaviruses utilizes the golgi adaptor
+RT   protein ACBD3 to recruit PI4KIIIbeta.";
+RL   J. Virol. 86:3605-3616(2012).
+RN   [24]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-258; SER-266; SER-277;
+RP   SER-428; SER-511 AND THR-517, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [25]
+RP   SUBCELLULAR LOCATION, AND ACTIVITY REGULATION (MICROBIAL INFECTION).
+RX   PubMed=24672044; DOI=10.1128/jvi.00208-14;
+RA   Ishikawa-Sasaki K., Sasaki J., Taniguchi K.;
+RT   "A complex comprising phosphatidylinositol 4-kinase IIIbeta, ACBD3, and
+RT   Aichi virus proteins enhances phosphatidylinositol 4-phosphate synthesis
+RT   and is critical for formation of the viral replication complex.";
+RL   J. Virol. 88:6586-6598(2014).
+RN   [26]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [27]
+RP   INTERACTION WITH GGA2, AND SUBCELLULAR LOCATION.
+RX   PubMed=28289207; DOI=10.1073/pnas.1615163114;
+RA   Daboussi L., Costaguta G., Ghukasyan R., Payne G.S.;
+RT   "Conserved role for Gga proteins in phosphatidylinositol 4-kinase
+RT   localization to the trans-Golgi network.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 114:3433-3438(2017).
+RN   [28]
+RP   INTERACTION WITH ACBD3, MUTAGENESIS OF ILE-43 AND ASP-44, FUNCTION
+RP   (MICROBIAL INFECTION), IDENTIFICATION IN A COMPLEX PROTEIN 3A/ACBD3/PI4KB
+RP   (MICROBIAL INFECTION), AND ACTIVITY REGULATION (MICROBIAL INFECTION).
+RX   PubMed=27989622; DOI=10.1016/j.str.2016.11.016;
+RA   McPhail J.A., Ottosen E.H., Jenkins M.L., Burke J.E.;
+RT   "The molecular basis of Aichi virus 3A protein activation of
+RT   phosphatidylinositol 4 kinase IIIbeta, PI4KB, through ACBD3.";
+RL   Structure 25:121-131(2017).
+RN   [29]
+RP   INTERACTION WITH ATG9A.
+RX   PubMed=30917996; DOI=10.1083/jcb.201901115;
+RA   Judith D., Jefferies H.B.J., Boeing S., Frith D., Snijders A.P.,
+RA   Tooze S.A.;
+RT   "ATG9A shapes the forming autophagosome through Arfaptin 2 and
+RT   phosphatidylinositol 4-kinase IIIbeta.";
+RL   J. Cell Biol. 218:1634-1652(2019).
+RN   [30]
+RP   STRUCTURE BY NMR OF 1-68 IN COMPLEX WITH ACBD3, INTERACTION WITH ACBD3, AND
+RP   MUTAGENESIS OF VAL-42; ILE-43; VAL-47; VAL-55 AND LEU-56.
+RX   PubMed=27009356; DOI=10.1038/srep23641;
+RA   Klima M., Toth D.J., Hexnerova R., Baumlova A., Chalupska D., Tykvart J.,
+RA   Rezabkova L., Sengupta N., Man P., Dubankova A., Humpolickova J.,
+RA   Nencka R., Veverka V., Balla T., Boura E.;
+RT   "Structural insights and in vitro reconstitution of membrane targeting and
+RT   activation of human PI4KB by the ACBD3 protein.";
+RL   Sci. Rep. 6:23641-23641(2016).
+CC   -!- FUNCTION: Phosphorylates phosphatidylinositol (PI) in the first
+CC       committed step in the production of the second messenger
+CC       inositol-1,4,5,-trisphosphate (PIP). May regulate Golgi
+CC       disintegration/reorganization during mitosis, possibly via its
+CC       phosphorylation. Involved in Golgi-to-plasma membrane trafficking (By
+CC       similarity). {ECO:0000250|UniProtKB:O08561,
+CC       ECO:0000269|PubMed:10559940, ECO:0000269|PubMed:11277933,
+CC       ECO:0000269|PubMed:12749687, ECO:0000269|PubMed:9405935}.
+CC   -!- FUNCTION: (Microbial infection) Plays an essential role in Aichi virus
+CC       RNA replication (PubMed:22124328, PubMed:27989622, PubMed:22258260).
+CC       Recruited by ACBD3 at the viral replication sites (PubMed:22124328,
+CC       PubMed:27989622). {ECO:0000269|PubMed:22124328,
+CC       ECO:0000269|PubMed:22258260, ECO:0000269|PubMed:27989622}.
+CC   -!- FUNCTION: (Microbial infection) Required for cellular spike-mediated
+CC       entry of human coronavirus SARS-CoV. {ECO:0000269|PubMed:22253445}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol) + ATP = a
+CC         1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol 4-phosphate) + ADP +
+CC         H(+); Xref=Rhea:RHEA:19877, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:57880, ChEBI:CHEBI:58178, ChEBI:CHEBI:456216;
+CC         EC=2.7.1.67; Evidence={ECO:0000269|PubMed:11277933,
+CC         ECO:0000269|PubMed:9405935};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:19878;
+CC         Evidence={ECO:0000305|PubMed:11277933};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000269|PubMed:11277933};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000269|PubMed:11277933};
+CC   -!- ACTIVITY REGULATION: Inhibited by wortmannin and adenosine
+CC       (PubMed:11277933). Increased kinase activity upon interaction with
+CC       NCS1/FREQ (By similarity). {ECO:0000250|UniProtKB:O02810,
+CC       ECO:0000269|PubMed:11277933}.
+CC   -!- ACTIVITY REGULATION: (Microbial infection) Activated by Aichi virus
+CC       protein 3A, this activation is sensitized by ACBD3.
+CC       {ECO:0000269|PubMed:24672044, ECO:0000269|PubMed:27989622}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1 mM for PtdIns {ECO:0000269|PubMed:11277933};
+CC         KM=1 mM for ATP {ECO:0000269|PubMed:11277933};
+CC   -!- SUBUNIT: Interacts with ARF1 and ARF3 in the Golgi complex, but not
+CC       with ARF4, ARF5 or ARF6 (PubMed:17555535). Interacts with NCS1/FREQ in
+CC       a calcium-independent manner. Interacts with CALN1/CABP8 and
+CC       CALN2/CABP7; in a calcium-dependent manner; this interaction competes
+CC       with NCS1/FREQ binding (By similarity). Interacts with ACBD3
+CC       (PubMed:23572552, PubMed:27009356, PubMed:27989622, PubMed:22124328,
+CC       PubMed:22258260). Interacts with ARMH3, YWHAB, YWHAE, YWHAG, YWHAH,
+CC       YWHAQ, YWHAZ and SFN (PubMed:23572552). Interacts with GGA2 (via VHS
+CC       domain); the interaction is important for PI4KB location at the Golgi
+CC       apparatus membrane (PubMed:28289207). Interacts with ATG9A
+CC       (PubMed:30917996). {ECO:0000250|UniProtKB:O08561,
+CC       ECO:0000269|PubMed:17555535, ECO:0000269|PubMed:22124328,
+CC       ECO:0000269|PubMed:22258260, ECO:0000269|PubMed:23572552,
+CC       ECO:0000269|PubMed:27009356, ECO:0000269|PubMed:27989622,
+CC       ECO:0000269|PubMed:28289207, ECO:0000269|PubMed:30917996}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with Aichi virus protein 3A.
+CC       Part of a complex Aichi virus protein 3A/ACBD3/PI4KB that allows the
+CC       synthesis of PI4P at the viral RNA replication sites.
+CC       {ECO:0000269|PubMed:22124328, ECO:0000269|PubMed:22258260,
+CC       ECO:0000269|PubMed:27989622}.
+CC   -!- INTERACTION:
+CC       Q9UBF8; Q9H3P7: ACBD3; NbExp=4; IntAct=EBI-1053214, EBI-1791792;
+CC       Q9UBF8; P03495: NS; Xeno; NbExp=2; IntAct=EBI-1053214, EBI-2548993;
+CC       Q9UBF8; PRO_0000424692 [P03300]; Xeno; NbExp=9; IntAct=EBI-1053214, EBI-21242141;
+CC       Q9UBF8-2; P62491: RAB11A; NbExp=5; IntAct=EBI-16107849, EBI-745098;
+CC   -!- SUBCELLULAR LOCATION: Endomembrane system. Mitochondrion outer
+CC       membrane; Peripheral membrane protein. Rough endoplasmic reticulum
+CC       membrane; Peripheral membrane protein. Golgi apparatus
+CC       {ECO:0000269|PubMed:22124328}. Golgi apparatus membrane
+CC       {ECO:0000269|PubMed:24672044, ECO:0000269|PubMed:27009356,
+CC       ECO:0000269|PubMed:28289207}. Cytoplasm, perinuclear region. Note=Found
+CC       in the outer membrane of mitochondria and membranes of the rough
+CC       endoplasmic reticulum. Recruited to the Golgi complex by the small
+CC       GTPase ARF to stimulate the synthesis of phosphatidylinositol 4,5-
+CC       bisphosphate (PIP2) on the Golgi complex. Recruited to the Golgi
+CC       apparatus membrane by ACBD3 (PubMed:24672044, PubMed:27009356,
+CC       PubMed:28289207). GGA2 is also involved in the recruitment
+CC       (PubMed:28289207). {ECO:0000269|PubMed:24672044,
+CC       ECO:0000269|PubMed:27009356, ECO:0000269|PubMed:28289207}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1 {ECO:0000269|PubMed:9405935}; Synonyms=NPIK-B
+CC       {ECO:0000269|PubMed:9405935};
+CC         IsoId=Q9UBF8-1; Sequence=Displayed;
+CC       Name=2 {ECO:0000269|PubMed:9405935}; Synonyms=NPIK-C
+CC       {ECO:0000269|PubMed:9405935};
+CC         IsoId=Q9UBF8-2; Sequence=VSP_050627;
+CC       Name=3;
+CC         IsoId=Q9UBF8-3; Sequence=VSP_037133;
+CC   -!- TISSUE SPECIFICITY: Widely expressed with highest levels in heart,
+CC       skeletal muscle, pancreas, testis and ovary. Weakly expressed in liver.
+CC       {ECO:0000269|PubMed:9020160, ECO:0000269|PubMed:9405935,
+CC       ECO:0000269|PubMed:9405938}.
+CC   -!- SIMILARITY: Belongs to the PI3/PI4-kinase family. Type III PI4K
+CC       subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA21661.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=EAW53450.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ011121; CAA09495.1; -; mRNA.
+DR   EMBL; AJ011122; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; AJ011123; CAA09496.1; -; mRNA.
+DR   EMBL; AB005910; BAA21661.1; ALT_INIT; mRNA.
+DR   EMBL; U81802; AAC51156.1; -; mRNA.
+DR   EMBL; AK294606; BAG57793.1; -; mRNA.
+DR   EMBL; AL391069; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471121; EAW53449.1; -; Genomic_DNA.
+DR   EMBL; CH471121; EAW53450.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; BC000029; AAH00029.1; -; mRNA.
+DR   EMBL; BC040300; AAH40300.1; -; mRNA.
+DR   CCDS; CCDS55637.1; -. [Q9UBF8-3]
+DR   CCDS; CCDS55638.1; -. [Q9UBF8-2]
+DR   CCDS; CCDS81376.1; -. [Q9UBF8-1]
+DR   PIR; JC5706; JC5706.
+DR   RefSeq; NP_001185702.1; NM_001198773.2. [Q9UBF8-2]
+DR   RefSeq; NP_001185703.1; NM_001198774.1. [Q9UBF8-2]
+DR   RefSeq; NP_001185704.1; NM_001198775.2. [Q9UBF8-3]
+DR   RefSeq; NP_001317650.1; NM_001330721.1. [Q9UBF8-1]
+DR   RefSeq; NP_002642.1; NM_002651.3.
+DR   RefSeq; XP_016856979.1; XM_017001490.1.
+DR   RefSeq; XP_016856980.1; XM_017001491.1.
+DR   RefSeq; XP_016856981.1; XM_017001492.1.
+DR   PDB; 2N73; NMR; -; B=1-68.
+DR   PDB; 4D0L; X-ray; 2.94 A; A/C/E=121-799.
+DR   PDB; 4D0M; X-ray; 6.00 A; A/C/G/I/M/O/Q/S/W/Y/c/g=121-799.
+DR   PDB; 4WAE; X-ray; 3.32 A; A=128-799.
+DR   PDB; 4WAG; X-ray; 3.41 A; A=128-799.
+DR   PDB; 5C46; X-ray; 2.65 A; E=121-799.
+DR   PDB; 5C4G; X-ray; 3.20 A; E=121-799.
+DR   PDB; 5EUQ; X-ray; 3.20 A; E=121-248, E=523-799.
+DR   PDB; 5FBL; X-ray; 3.37 A; A=128-799.
+DR   PDB; 5FBQ; X-ray; 3.79 A; A=128-799.
+DR   PDB; 5FBR; X-ray; 3.28 A; A=128-799.
+DR   PDB; 5FBV; X-ray; 3.29 A; A=128-799.
+DR   PDB; 5FBW; X-ray; 3.49 A; A=128-799.
+DR   PDB; 5LX2; X-ray; 2.58 A; B=292-297.
+DR   PDB; 5NAS; X-ray; 2.08 A; C/D=289-297.
+DR   PDB; 6GL3; X-ray; 2.77 A; A/B=317-428, A/B=532-798.
+DR   PDBsum; 2N73; -.
+DR   PDBsum; 4D0L; -.
+DR   PDBsum; 4D0M; -.
+DR   PDBsum; 4WAE; -.
+DR   PDBsum; 4WAG; -.
+DR   PDBsum; 5C46; -.
+DR   PDBsum; 5C4G; -.
+DR   PDBsum; 5EUQ; -.
+DR   PDBsum; 5FBL; -.
+DR   PDBsum; 5FBQ; -.
+DR   PDBsum; 5FBR; -.
+DR   PDBsum; 5FBV; -.
+DR   PDBsum; 5FBW; -.
+DR   PDBsum; 5LX2; -.
+DR   PDBsum; 5NAS; -.
+DR   PDBsum; 6GL3; -.
+DR   AlphaFoldDB; Q9UBF8; -.
+DR   SMR; Q9UBF8; -.
+DR   BioGRID; 111316; 56.
+DR   DIP; DIP-42267N; -.
+DR   IntAct; Q9UBF8; 27.
+DR   MINT; Q9UBF8; -.
+DR   STRING; 9606.ENSP00000357869; -.
+DR   BindingDB; Q9UBF8; -.
+DR   ChEMBL; CHEMBL3268; -.
+DR   DrugBank; DB12010; Fostamatinib.
+DR   DrugCentral; Q9UBF8; -.
+DR   GuidetoPHARMACOLOGY; 2149; -.
+DR   SwissLipids; SLP:000001947; -. [Q9UBF8-2]
+DR   GlyGen; Q9UBF8; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9UBF8; -.
+DR   PhosphoSitePlus; Q9UBF8; -.
+DR   BioMuta; PI4KB; -.
+DR   DMDM; 38372507; -.
+DR   CPTAC; CPTAC-2965; -.
+DR   CPTAC; CPTAC-2966; -.
+DR   EPD; Q9UBF8; -.
+DR   jPOST; Q9UBF8; -.
+DR   MassIVE; Q9UBF8; -.
+DR   MaxQB; Q9UBF8; -.
+DR   PaxDb; Q9UBF8; -.
+DR   PeptideAtlas; Q9UBF8; -.
+DR   ProteomicsDB; 83959; -. [Q9UBF8-1]
+DR   ProteomicsDB; 83960; -. [Q9UBF8-2]
+DR   ProteomicsDB; 83961; -. [Q9UBF8-3]
+DR   Antibodypedia; 1666; 154 antibodies from 30 providers.
+DR   DNASU; 5298; -.
+DR   Ensembl; ENST00000368872.5; ENSP00000357866.1; ENSG00000143393.17. [Q9UBF8-2]
+DR   Ensembl; ENST00000368873.6; ENSP00000357867.1; ENSG00000143393.17. [Q9UBF8-1]
+DR   Ensembl; ENST00000368874.8; ENSP00000357868.4; ENSG00000143393.17. [Q9UBF8-2]
+DR   Ensembl; ENST00000529142.5; ENSP00000433149.1; ENSG00000143393.17. [Q9UBF8-3]
+DR   GeneID; 5298; -.
+DR   KEGG; hsa:5298; -.
+DR   MANE-Select; ENST00000368873.6; ENSP00000357867.1; NM_001369623.2; NP_001356552.1.
+DR   UCSC; uc001ext.4; human. [Q9UBF8-1]
+DR   AGR; HGNC:8984; -.
+DR   CTD; 5298; -.
+DR   DisGeNET; 5298; -.
+DR   GeneCards; PI4KB; -.
+DR   HGNC; HGNC:8984; PI4KB.
+DR   HPA; ENSG00000143393; Low tissue specificity.
+DR   MIM; 602758; gene.
+DR   neXtProt; NX_Q9UBF8; -.
+DR   OpenTargets; ENSG00000143393; -.
+DR   PharmGKB; PA162399420; -.
+DR   VEuPathDB; HostDB:ENSG00000143393; -.
+DR   eggNOG; KOG0903; Eukaryota.
+DR   GeneTree; ENSGT00550000074892; -.
+DR   InParanoid; Q9UBF8; -.
+DR   OMA; GNKMFSF; -.
+DR   OrthoDB; 147843at2759; -.
+DR   PhylomeDB; Q9UBF8; -.
+DR   TreeFam; TF102042; -.
+DR   BioCyc; MetaCyc:HS07046-MON; -.
+DR   BRENDA; 2.7.1.67; 2681.
+DR   PathwayCommons; Q9UBF8; -.
+DR   Reactome; R-HSA-1660514; Synthesis of PIPs at the Golgi membrane.
+DR   SignaLink; Q9UBF8; -.
+DR   SIGNOR; Q9UBF8; -.
+DR   BioGRID-ORCS; 5298; 200 hits in 1169 CRISPR screens.
+DR   ChiTaRS; PI4KB; human.
+DR   GeneWiki; PI4KB; -.
+DR   GenomeRNAi; 5298; -.
+DR   Pharos; Q9UBF8; Tchem.
+DR   PRO; PR:Q9UBF8; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q9UBF8; protein.
+DR   Bgee; ENSG00000143393; Expressed in right lobe of thyroid gland and 206 other tissues.
+DR   ExpressionAtlas; Q9UBF8; baseline and differential.
+DR   Genevisible; Q9UBF8; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005768; C:endosome; TAS:ProtInc.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:MGI.
+DR   GO; GO:0000139; C:Golgi membrane; IDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; IBA:GO_Central.
+DR   GO; GO:0005741; C:mitochondrial outer membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030867; C:rough endoplasmic reticulum membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004430; F:1-phosphatidylinositol 4-kinase activity; IDA:UniProtKB.
+DR   GO; GO:0071889; F:14-3-3 protein binding; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0007040; P:lysosome organization; IDA:MGI.
+DR   GO; GO:0006661; P:phosphatidylinositol biosynthetic process; TAS:Reactome.
+DR   GO; GO:0046854; P:phosphatidylinositol phosphate biosynthetic process; IBA:GO_Central.
+DR   GO; GO:0048015; P:phosphatidylinositol-mediated signaling; IBA:GO_Central.
+DR   GO; GO:0006898; P:receptor-mediated endocytosis; TAS:ProtInc.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   CDD; cd22246; PI4KB_NTD; 1.
+DR   CDD; cd05168; PI4Kc_III_beta; 1.
+DR   Gene3D; 1.10.1070.11; Phosphatidylinositol 3-/4-kinase, catalytic domain; 1.
+DR   InterPro; IPR011009; Kinase-like_dom_sf.
+DR   InterPro; IPR000403; PI3/4_kinase_cat_dom.
+DR   InterPro; IPR036940; PI3/4_kinase_cat_sf.
+DR   InterPro; IPR018936; PI3/4_kinase_CS.
+DR   InterPro; IPR001263; PI3K_accessory_dom.
+DR   InterPro; IPR015433; PI_Kinase.
+DR   PANTHER; PTHR10048:SF22; PHOSPHATIDYLINOSITOL 4-KINASE BETA; 1.
+DR   PANTHER; PTHR10048; PHOSPHATIDYLINOSITOL KINASE; 1.
+DR   Pfam; PF00454; PI3_PI4_kinase; 1.
+DR   SMART; SM00146; PI3Kc; 1.
+DR   SUPFAM; SSF56112; Protein kinase-like (PK-like); 1.
+DR   PROSITE; PS00915; PI3_4_KINASE_1; 1.
+DR   PROSITE; PS00916; PI3_4_KINASE_2; 1.
+DR   PROSITE; PS50290; PI3_4_KINASE_3; 1.
+DR   PROSITE; PS51545; PIK_HELICAL; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; ATP-binding; Cytoplasm;
+KW   Direct protein sequencing; Endoplasmic reticulum; Golgi apparatus;
+KW   Host-virus interaction; Kinase; Lipid metabolism; Membrane; Mitochondrion;
+KW   Mitochondrion outer membrane; Nucleotide-binding; Phosphoprotein;
+KW   Reference proteome; Transferase.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   CHAIN           2..816
+FT                   /note="Phosphatidylinositol 4-kinase beta"
+FT                   /id="PRO_0000088829"
+FT   DOMAIN          29..242
+FT                   /note="PIK helical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00878"
+FT   DOMAIN          535..801
+FT                   /note="PI3K/PI4K catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00269"
+FT   REGION          1..30
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          41..67
+FT                   /note="Interaction with ACBD3"
+FT                   /evidence="ECO:0000269|PubMed:27009356,
+FT                   ECO:0000269|PubMed:27989622, ECO:0000305|PubMed:23572552"
+FT   REGION          101..120
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          248..318
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          541..547
+FT                   /note="G-loop"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00269"
+FT   REGION          668..676
+FT                   /note="Catalytic loop"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00269"
+FT   REGION          687..711
+FT                   /note="Activation loop"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00269"
+FT   COMPBIAS        277..294
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         2
+FT                   /note="N-acetylglycine"
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MOD_RES         258
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:11277933,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         263
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:11277933"
+FT   MOD_RES         266
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:11277933,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         275
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BKC8"
+FT   MOD_RES         277
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:11277933,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         284
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8BKC8"
+FT   MOD_RES         294
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:11277933,
+FT                   ECO:0000269|PubMed:23572552"
+FT   MOD_RES         428
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         438
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:11277933"
+FT   MOD_RES         511
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:11277933,
+FT                   ECO:0007744|PubMed:18220336, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         517
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         519
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:11277933"
+FT   VAR_SEQ         1..332
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_037133"
+FT   VAR_SEQ         304..318
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:9020160, ECO:0000303|PubMed:9405935"
+FT                   /id="VSP_050627"
+FT   MUTAGEN         40..42
+FT                   /note="LSV->AAA: Small decrease in C10ORF76-binding. No
+FT                   effect on ACBD3-, nor RAB11B-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MUTAGEN         42
+FT                   /note="V->A: No loss of interaction with ACBD3."
+FT                   /evidence="ECO:0000269|PubMed:27009356"
+FT   MUTAGEN         43..45
+FT                   /note="IDP->AAA: Drastically decreased ACBD3-binding. No
+FT                   effect on C10ORF76-, nor RAB11B-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MUTAGEN         43
+FT                   /note="I->A: Loss of interaction with ACBD3."
+FT                   /evidence="ECO:0000269|PubMed:27009356,
+FT                   ECO:0000269|PubMed:27989622"
+FT   MUTAGEN         44
+FT                   /note="D->A: Loss of interaction with ACBD3."
+FT                   /evidence="ECO:0000269|PubMed:27989622"
+FT   MUTAGEN         46..47
+FT                   /note="EV->AA: No effect on ACBD3-, C10ORF76-, nor
+FT                   RAB11B-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MUTAGEN         47
+FT                   /note="V->A: No loss of interaction with ACBD3."
+FT                   /evidence="ECO:0000269|PubMed:27009356"
+FT   MUTAGEN         49..50
+FT                   /note="QK->AA: No effect on ACBD3-, C10ORF76-, nor
+FT                   RAB11B-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MUTAGEN         52
+FT                   /note="C->A: No effect on ACBD3-, C10ORF76-, nor
+FT                   RAB11B-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MUTAGEN         53..54
+FT                   /note="QE->AA: Drastically decreased C10ORF76- and
+FT                   RAB11B-binding. 6-fold increase in ACBD3-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MUTAGEN         55..56
+FT                   /note="VL->AA: Drastically decreased ACBD3-binding. No
+FT                   effect on C10ORF76-, nor RAB11B-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   MUTAGEN         55
+FT                   /note="V->A: Loss of interaction with ACBD3."
+FT                   /evidence="ECO:0000269|PubMed:27009356"
+FT   MUTAGEN         56
+FT                   /note="L->A: Loss of interaction with ACBD3."
+FT                   /evidence="ECO:0000269|PubMed:27009356"
+FT   MUTAGEN         57..59
+FT                   /note="EKV->AAA: No effect on ACBD3-, C10ORF76-, nor
+FT                   RAB11B-binding."
+FT                   /evidence="ECO:0000269|PubMed:23572552"
+FT   CONFLICT        216
+FT                   /note="L -> V (in Ref. 3; AAC51156)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        339
+FT                   /note="L -> V (in Ref. 3; AAC51156)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        340
+FT                   /note="A -> V (in Ref. 3; AAC51156)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        370
+FT                   /note="P -> S (in Ref. 3; AAC51156)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        446
+FT                   /note="F -> S (in Ref. 4; BAG57793)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        754
+FT                   /note="M -> L (in Ref. 4; BAG57793)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        796
+FT                   /note="S -> G (in Ref. 4; BAG57793)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           45..63
+FT                   /evidence="ECO:0007829|PDB:2N73"
+FT   HELIX           129..134
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           141..150
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           154..163
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           164..166
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           169..173
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           176..185
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           188..204
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           206..218
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           234..242
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   TURN            319..322
+FT                   /evidence="ECO:0007829|PDB:4WAE"
+FT   HELIX           323..338
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           339..341
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          342..344
+FT                   /evidence="ECO:0007829|PDB:6GL3"
+FT   HELIX           345..356
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   TURN            357..359
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           360..362
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          364..366
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          372..374
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          376..380
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           383..385
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          392..394
+FT                   /evidence="ECO:0007829|PDB:6GL3"
+FT   STRAND          397..405
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   TURN            409..411
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           537..546
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   TURN            549..552
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          556..564
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           570..588
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          600..602
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          604..606
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          608..610
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          614..618
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           619..625
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           630..637
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           644..667
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   TURN            674..676
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          677..680
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          685..687
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           712..717
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          721..723
+FT                   /evidence="ECO:0007829|PDB:6GL3"
+FT   HELIX           724..741
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           744..755
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   HELIX           761..763
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          765..767
+FT                   /evidence="ECO:0007829|PDB:5FBR"
+FT   HELIX           768..774
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   STRAND          778..780
+FT                   /evidence="ECO:0007829|PDB:6GL3"
+FT   HELIX           782..796
+FT                   /evidence="ECO:0007829|PDB:5C46"
+FT   MOD_RES         Q9UBF8-2:294
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+SQ   SEQUENCE   816 AA;  91379 MW;  CAD8791729BB4308 CRC64;
+     MGDTVVEPAP LKPTSEPTSG PPGNNGGSLL SVITEGVGEL SVIDPEVAQK ACQEVLEKVK
+     LLHGGVAVSS RGTPLELVNG DGVDSEIRCL DDPPAQIREE EDEMGAAVAS GTAKGARRRR
+     QNNSAKQSWL LRLFESKLFD ISMAISYLYN SKEPGVQAYI GNRLFCFRNE DVDFYLPQLL
+     NMYIHMDEDV GDAIKPYIVH RCRQSINFSL QCALLLGAYS SDMHISTQRH SRGTKLRKLI
+     LSDELKPAHR KRELPSLSPA PDTGLSPSKR THQRSKSDAT ASISLSSNLK RTASNPKVEN
+     EDEELSSSTE SIDNSFSSPV RLAPEREFIK SLMAIGKRLA TLPTKEQKTQ RLISELSLLN
+     HKLPARVWLP TAGFDHHVVR VPHTQAVVLN SKDKAPYLIY VEVLECENFD TTSVPARIPE
+     NRIRSTRSVE NLPECGITHE QRAGSFSTVP NYDNDDEAWS VDDIGELQVE LPEVHTNSCD
+     NISQFSVDSI TSQESKEPVF IAAGDIRRRL SEQLAHTPTA FKRDPEDPSA VALKEPWQEK
+     VRRIREGSPY GHLPNWRLLS VIVKCGDDLR QELLAFQVLK QLQSIWEQER VPLWIKPYKI
+     LVISADSGMI EPVVNAVSIH QVKKQSQLSL LDYFLQEHGS YTTEAFLSAQ RNFVQSCAGY
+     CLVCYLLQVK DRHNGNILLD AEGHIIHIDF GFILSSSPRN LGFETSAFKL TTEFVDVMGG
+     LDGDMFNYYK MLMLQGLIAA RKHMDKVVQI VEIMQQGSQL PCFHGSSTIR NLKERFHMSM
+     TEEQLQLLVE QMVDGSMRSI TTKLYDGFQY LTNGIM
+//

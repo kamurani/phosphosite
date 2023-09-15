@@ -1,0 +1,219 @@
+ID   EPMIP_HUMAN             Reviewed;         607 AA.
+AC   Q7L775; O94866; Q9H3L3;
+DT   16-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   28-JUN-2023, entry version 131.
+DE   RecName: Full=EPM2A-interacting protein 1;
+DE   AltName: Full=Laforin-interacting protein;
+GN   Name=EPM2AIP1; Synonyms=KIAA0766; ORFNames=My007;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, SUBCELLULAR LOCATION, AND
+RP   INTERACTION WITH EPM2A.
+RX   PubMed=12782127; DOI=10.1016/s0888-7543(03)00094-6;
+RA   Ianzano L., Zhao X.C., Minassian B.A., Scherer S.W.;
+RT   "Identification of a novel protein interacting with laforin, the EPM2A
+RT   progressive myoclonus epilepsy gene product.";
+RL   Genomics 81:579-587(2003).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Fetal brain;
+RA   Mao Y.M., Xie Y., Zhou Z.X., Ying K., Zheng Z.H.;
+RL   Submitted (APR-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=9872452; DOI=10.1093/dnares/5.5.277;
+RA   Nagase T., Ishikawa K., Suyama M., Kikuno R., Miyajima N., Tanaka A.,
+RA   Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XI. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 5:277-286(1998).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-146, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+CC   -!- SUBUNIT: Interacts with EPM2A. {ECO:0000269|PubMed:12782127}.
+CC   -!- INTERACTION:
+CC       Q7L775; P12814: ACTN1; NbExp=6; IntAct=EBI-6255981, EBI-351710;
+CC       Q7L775; Q8NEU8: APPL2; NbExp=3; IntAct=EBI-6255981, EBI-741261;
+CC       Q7L775; Q12774: ARHGEF5; NbExp=3; IntAct=EBI-6255981, EBI-602199;
+CC       Q7L775; Q9BV19: C1orf50; NbExp=3; IntAct=EBI-6255981, EBI-2874661;
+CC       Q7L775; Q9NPC3: CCNB1IP1; NbExp=4; IntAct=EBI-6255981, EBI-745269;
+CC       Q7L775; Q8N137: CNTROB; NbExp=3; IntAct=EBI-6255981, EBI-947360;
+CC       Q7L775; Q8N684: CPSF7; NbExp=3; IntAct=EBI-6255981, EBI-746909;
+CC       Q7L775; Q8N9I9: DTX3; NbExp=3; IntAct=EBI-6255981, EBI-2340258;
+CC       Q7L775; Q7L775: EPM2AIP1; NbExp=4; IntAct=EBI-6255981, EBI-6255981;
+CC       Q7L775; Q13643: FHL3; NbExp=3; IntAct=EBI-6255981, EBI-741101;
+CC       Q7L775; P14136: GFAP; NbExp=3; IntAct=EBI-6255981, EBI-744302;
+CC       Q7L775; O75031: HSF2BP; NbExp=3; IntAct=EBI-6255981, EBI-7116203;
+CC       Q7L775; Q719H9: KCTD1; NbExp=3; IntAct=EBI-6255981, EBI-9027502;
+CC       Q7L775; Q7L273: KCTD9; NbExp=3; IntAct=EBI-6255981, EBI-4397613;
+CC       Q7L775; P08779: KRT16; NbExp=3; IntAct=EBI-6255981, EBI-356410;
+CC       Q7L775; O95678: KRT75; NbExp=3; IntAct=EBI-6255981, EBI-2949715;
+CC       Q7L775; O43679: LDB2; NbExp=3; IntAct=EBI-6255981, EBI-2865580;
+CC       Q7L775; Q52LA3: LIN52; NbExp=3; IntAct=EBI-6255981, EBI-1389456;
+CC       Q7L775; Q8TBB1: LNX1; NbExp=3; IntAct=EBI-6255981, EBI-739832;
+CC       Q7L775; Q13257: MAD2L1; NbExp=3; IntAct=EBI-6255981, EBI-78203;
+CC       Q7L775; P50222: MEOX2; NbExp=3; IntAct=EBI-6255981, EBI-748397;
+CC       Q7L775; Q6FHY5: MEOX2; NbExp=3; IntAct=EBI-6255981, EBI-16439278;
+CC       Q7L775; Q9BVI4: NOC4L; NbExp=3; IntAct=EBI-6255981, EBI-395927;
+CC       Q7L775; Q6GQQ9: OTUD7B; NbExp=3; IntAct=EBI-6255981, EBI-527784;
+CC       Q7L775; Q9NRD5: PICK1; NbExp=3; IntAct=EBI-6255981, EBI-79165;
+CC       Q7L775; Q9NRG1: PRTFDC1; NbExp=6; IntAct=EBI-6255981, EBI-739759;
+CC       Q7L775; O14818: PSMA7; NbExp=3; IntAct=EBI-6255981, EBI-603272;
+CC       Q7L775; Q15415: RBMY1J; NbExp=3; IntAct=EBI-6255981, EBI-8642021;
+CC       Q7L775; Q04864: REL; NbExp=3; IntAct=EBI-6255981, EBI-307352;
+CC       Q7L775; P36955: SERPINF1; NbExp=11; IntAct=EBI-6255981, EBI-2932733;
+CC       Q7L775; Q6NVH7: SWSAP1; NbExp=3; IntAct=EBI-6255981, EBI-5281637;
+CC       Q7L775; Q9UBB9: TFIP11; NbExp=3; IntAct=EBI-6255981, EBI-1105213;
+CC       Q7L775; Q13829: TNFAIP1; NbExp=3; IntAct=EBI-6255981, EBI-2505861;
+CC       Q7L775; O95271: TNKS; NbExp=3; IntAct=EBI-6255981, EBI-1105254;
+CC       Q7L775; P62995: TRA2B; NbExp=3; IntAct=EBI-6255981, EBI-725485;
+CC       Q7L775; Q86XT4: TRIM50; NbExp=3; IntAct=EBI-6255981, EBI-9867283;
+CC       Q7L775; Q9BYV2: TRIM54; NbExp=6; IntAct=EBI-6255981, EBI-2130429;
+CC       Q7L775; Q70EL1-9: USP54; NbExp=3; IntAct=EBI-6255981, EBI-11975223;
+CC       Q7L775; Q8N1B4: VPS52; NbExp=6; IntAct=EBI-6255981, EBI-2799833;
+CC       Q7L775; O43829: ZBTB14; NbExp=6; IntAct=EBI-6255981, EBI-10176632;
+CC       Q7L775; Q9NZV7: ZIM2; NbExp=6; IntAct=EBI-6255981, EBI-11962760;
+CC       Q7L775; Q6ZNG0: ZNF620; NbExp=3; IntAct=EBI-6255981, EBI-4395669;
+CC       Q7L775; Q8TBC5: ZSCAN18; NbExp=3; IntAct=EBI-6255981, EBI-3919096;
+CC   -!- SUBCELLULAR LOCATION: Endoplasmic reticulum
+CC       {ECO:0000269|PubMed:12782127}.
+CC   -!- TISSUE SPECIFICITY: Expressed in heart, brain, placenta, liver,
+CC       pancreas, kidney and skeletal muscle. {ECO:0000269|PubMed:12782127}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAG43120.1; Type=Erroneous termination; Note=Truncated C-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAG43120.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=BAA34486.2; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY178832; AAO21376.1; -; mRNA.
+DR   EMBL; AF059751; AAG43120.1; ALT_SEQ; mRNA.
+DR   EMBL; AB018309; BAA34486.2; ALT_INIT; mRNA.
+DR   EMBL; BC064696; AAH64696.1; -; mRNA.
+DR   CCDS; CCDS46790.1; -.
+DR   RefSeq; NP_055620.1; NM_014805.3.
+DR   AlphaFoldDB; Q7L775; -.
+DR   BioGRID; 115186; 75.
+DR   IntAct; Q7L775; 47.
+DR   STRING; 9606.ENSP00000406027; -.
+DR   GlyGen; Q7L775; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q7L775; -.
+DR   PhosphoSitePlus; Q7L775; -.
+DR   BioMuta; EPM2AIP1; -.
+DR   DMDM; 51315907; -.
+DR   EPD; Q7L775; -.
+DR   jPOST; Q7L775; -.
+DR   MassIVE; Q7L775; -.
+DR   MaxQB; Q7L775; -.
+DR   PaxDb; Q7L775; -.
+DR   PeptideAtlas; Q7L775; -.
+DR   ProteomicsDB; 68825; -.
+DR   Antibodypedia; 28166; 441 antibodies from 28 providers.
+DR   DNASU; 9852; -.
+DR   Ensembl; ENST00000322716.8; ENSP00000406027.1; ENSG00000178567.8.
+DR   GeneID; 9852; -.
+DR   KEGG; hsa:9852; -.
+DR   MANE-Select; ENST00000322716.8; ENSP00000406027.1; NM_014805.4; NP_055620.1.
+DR   UCSC; uc003cgk.4; human.
+DR   AGR; HGNC:19735; -.
+DR   CTD; 9852; -.
+DR   DisGeNET; 9852; -.
+DR   GeneCards; EPM2AIP1; -.
+DR   HGNC; HGNC:19735; EPM2AIP1.
+DR   HPA; ENSG00000178567; Low tissue specificity.
+DR   MIM; 607911; gene.
+DR   neXtProt; NX_Q7L775; -.
+DR   OpenTargets; ENSG00000178567; -.
+DR   PharmGKB; PA134917440; -.
+DR   VEuPathDB; HostDB:ENSG00000178567; -.
+DR   eggNOG; ENOG502QS6T; Eukaryota.
+DR   GeneTree; ENSGT00950000182812; -.
+DR   HOGENOM; CLU_021316_5_1_1; -.
+DR   InParanoid; Q7L775; -.
+DR   OMA; HGERING; -.
+DR   OrthoDB; 4638370at2759; -.
+DR   PhylomeDB; Q7L775; -.
+DR   TreeFam; TF328297; -.
+DR   PathwayCommons; Q7L775; -.
+DR   SignaLink; Q7L775; -.
+DR   BioGRID-ORCS; 9852; 21 hits in 1151 CRISPR screens.
+DR   ChiTaRS; EPM2AIP1; human.
+DR   GenomeRNAi; 9852; -.
+DR   Pharos; Q7L775; Tdark.
+DR   PRO; PR:Q7L775; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q7L775; protein.
+DR   Bgee; ENSG00000178567; Expressed in middle temporal gyrus and 212 other tissues.
+DR   ExpressionAtlas; Q7L775; baseline and differential.
+DR   Genevisible; Q7L775; HS.
+DR   GO; GO:0098554; C:cytoplasmic side of endoplasmic reticulum membrane; IEA:Ensembl.
+DR   GO; GO:0005634; C:nucleus; IEA:Ensembl.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0005978; P:glycogen biosynthetic process; IEA:Ensembl.
+DR   GO; GO:2000467; P:positive regulation of glycogen (starch) synthase activity; IEA:Ensembl.
+DR   GO; GO:0045725; P:positive regulation of glycogen biosynthetic process; IBA:GO_Central.
+DR   GO; GO:0032868; P:response to insulin; IEA:Ensembl.
+DR   InterPro; IPR026630; EPM2A-int_1/ZBED8-like.
+DR   InterPro; IPR040647; SPIN-DOC_Znf-C2H2.
+DR   PANTHER; PTHR45913; EPM2A-INTERACTING PROTEIN 1; 1.
+DR   PANTHER; PTHR45913:SF11; EPM2A-INTERACTING PROTEIN 1; 1.
+DR   Pfam; PF18658; zf-C2H2_12; 1.
+PE   1: Evidence at protein level;
+KW   Endoplasmic reticulum; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..607
+FT                   /note="EPM2A-interacting protein 1"
+FT                   /id="PRO_0000086992"
+FT   MOD_RES         146
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976"
+FT   VARIANT         333
+FT                   /note="V -> F (in dbSNP:rs4647202)"
+FT                   /id="VAR_050969"
+FT   VARIANT         360
+FT                   /note="A -> S (in dbSNP:rs4647201)"
+FT                   /id="VAR_050970"
+FT   CONFLICT        411..413
+FT                   /note="HIC -> QIW (in Ref. 2; AAG43120)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        424
+FT                   /note="R -> S (in Ref. 2; AAG43120)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        430
+FT                   /note="N -> I (in Ref. 2; AAG43120)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   607 AA;  70370 MW;  417936544D570CAE CRC64;
+     MWMTPKRSKM EVDEALVFRP EWTQRYLVVE PPEGDGALCL VCRRLIVATR ERDVRRHYEA
+     EHEYYERYVA DGERAALVER LRQGDLPVAS FTPEERAARA GLGLCRLLAL KGRGWGEGDF
+     VYQCMEVLLR EVLPEHVSVL QGVDLSPDIT RQRILSIDRN LRNQLFNRAR DFKAYSLALD
+     DQAFVAYENY LLVFIRGVGP ELEVQEDLLT IINLTHHFSV GALMSAILES LQTAGLSLQR
+     MVGLTTTHTL RMIGENSGLV SYMREKAVSP NCWNVIHYSG FLHLELLSSY DVDVNQIINT
+     ISEWIVLIKT RGVRRPEFQT LLTESESEHG ERVNGRCLNN WLRRGKTLKL IFSLRKEMEA
+     FLVSVGATTV HFSDKQWLCD FGFLVDIMEH LRELSEELRV SKVFAAAAFD HICTFEVKLN
+     LFQRHIEEKN LTDFPALREV VDELKQQNKE DEKIFDPDRY QMVICRLQKE FERHFKDLRF
+     IKKDLELFSN PFNFKPEYAP ISVRVELTKL QANTNLWNEY RIKDLGQFYA GLSAESYPII
+     KGVACKVASL FDSNQICEKA FSYLTRNQHT LSQPLTDEHL QALFRVATTE MEPGWDDLVR
+     ERNESNP
+//

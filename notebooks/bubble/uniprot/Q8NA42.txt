@@ -1,0 +1,248 @@
+ID   ZN383_HUMAN             Reviewed;         475 AA.
+AC   Q8NA42; Q6X2C7;
+DT   08-NOV-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   28-JUN-2023, entry version 162.
+DE   RecName: Full=Zinc finger protein 383;
+GN   Name=ZNF383; ORFNames=HSD17;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, SUBCELLULAR LOCATION, TISSUE
+RP   SPECIFICITY, AND DEVELOPMENTAL STAGE.
+RC   TISSUE=Embryonic heart;
+RX   PubMed=15964543; DOI=10.1016/j.bbrc.2005.05.193;
+RA   Cao L., Wang Z., Zhu C., Zhao Y., Yuan W., Li J., Wang Y., Ying Z., Li Y.,
+RA   Yu W., Wu X., Liu M.;
+RT   "ZNF383, a novel KRAB-containing zinc finger protein, suppresses MAPK
+RT   signaling pathway.";
+RL   Biochem. Biophys. Res. Commun. 333:1050-1059(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RA   Hu T.H., Miao S.Y., Zhang X.D., Qiao Y., Liang G., Wang L.F.;
+RT   "A new spermatogenesis-related gene.";
+RL   Submitted (MAR-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+CC   -!- FUNCTION: May function as a transcriptional repressor, suppressing
+CC       transcriptional activities mediated by MAPK signaling pathways.
+CC       {ECO:0000269|PubMed:15964543}.
+CC   -!- INTERACTION:
+CC       Q8NA42; O94818-2: NOL4; NbExp=3; IntAct=EBI-20110775, EBI-10190763;
+CC       Q8NA42; Q9P2K3-2: RCOR3; NbExp=3; IntAct=EBI-20110775, EBI-1504830;
+CC       Q8NA42; Q08117-2: TLE5; NbExp=3; IntAct=EBI-20110775, EBI-11741437;
+CC       Q8NA42; Q9NZV7: ZIM2; NbExp=3; IntAct=EBI-20110775, EBI-11962760;
+CC       Q8NA42; Q7Z3I7: ZNF572; NbExp=3; IntAct=EBI-20110775, EBI-10172590;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:15964543}. Cytoplasm
+CC       {ECO:0000269|PubMed:15964543}. Note=Shuttling between the nucleus and
+CC       cytoplasm may occur under different stimulation and growth conditions.
+CC   -!- TISSUE SPECIFICITY: Expressed in heart, placenta, liver, pancreas and
+CC       with a higher level in skeletal muscle. {ECO:0000269|PubMed:15964543}.
+CC   -!- DEVELOPMENTAL STAGE: In tissues from a six months embryo, highly
+CC       expressed in heart, testis and skeletal muscle, lower expression levels
+CC       in kidney, intestines and prostate. {ECO:0000269|PubMed:15964543}.
+CC   -!- DOMAIN: The KRAB domain is responsible for the transcriptional
+CC       repressor activity.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY438646; AAR14184.1; -; mRNA.
+DR   EMBL; AY260141; AAP20067.1; -; mRNA.
+DR   EMBL; AK093182; BAC04086.1; -; mRNA.
+DR   CCDS; CCDS12501.1; -.
+DR   RefSeq; NP_001332876.1; NM_001345947.1.
+DR   RefSeq; NP_001332877.1; NM_001345948.1.
+DR   RefSeq; NP_001332878.1; NM_001345949.1.
+DR   RefSeq; NP_689817.1; NM_152604.2.
+DR   RefSeq; XP_005258642.1; XM_005258585.2.
+DR   RefSeq; XP_011524888.1; XM_011526586.2.
+DR   RefSeq; XP_011524889.1; XM_011526587.2.
+DR   RefSeq; XP_011524890.1; XM_011526588.2.
+DR   RefSeq; XP_011524891.1; XM_011526589.2.
+DR   RefSeq; XP_011524892.1; XM_011526590.2.
+DR   RefSeq; XP_016881911.1; XM_017026422.1.
+DR   RefSeq; XP_016881912.1; XM_017026423.1.
+DR   RefSeq; XP_016881913.1; XM_017026424.1.
+DR   AlphaFoldDB; Q8NA42; -.
+DR   SMR; Q8NA42; -.
+DR   BioGRID; 127849; 21.
+DR   IntAct; Q8NA42; 6.
+DR   STRING; 9606.ENSP00000340132; -.
+DR   GlyGen; Q8NA42; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8NA42; -.
+DR   PhosphoSitePlus; Q8NA42; -.
+DR   BioMuta; ZNF383; -.
+DR   DMDM; 74760056; -.
+DR   jPOST; Q8NA42; -.
+DR   MassIVE; Q8NA42; -.
+DR   MaxQB; Q8NA42; -.
+DR   PaxDb; Q8NA42; -.
+DR   PeptideAtlas; Q8NA42; -.
+DR   ProteomicsDB; 72635; -.
+DR   Antibodypedia; 29883; 66 antibodies from 13 providers.
+DR   DNASU; 163087; -.
+DR   Ensembl; ENST00000352998.7; ENSP00000340132.2; ENSG00000188283.12.
+DR   Ensembl; ENST00000589413.5; ENSP00000464871.1; ENSG00000188283.12.
+DR   Ensembl; ENST00000590503.5; ENSP00000466101.1; ENSG00000188283.12.
+DR   Ensembl; ENST00000684119.1; ENSP00000507972.1; ENSG00000188283.12.
+DR   GeneID; 163087; -.
+DR   KEGG; hsa:163087; -.
+DR   MANE-Select; ENST00000684119.1; ENSP00000507972.1; NM_001387601.1; NP_001374530.1.
+DR   UCSC; uc002oft.2; human.
+DR   AGR; HGNC:18609; -.
+DR   CTD; 163087; -.
+DR   DisGeNET; 163087; -.
+DR   GeneCards; ZNF383; -.
+DR   HGNC; HGNC:18609; ZNF383.
+DR   HPA; ENSG00000188283; Low tissue specificity.
+DR   MIM; 619499; gene.
+DR   neXtProt; NX_Q8NA42; -.
+DR   OpenTargets; ENSG00000188283; -.
+DR   PharmGKB; PA134903145; -.
+DR   VEuPathDB; HostDB:ENSG00000188283; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000156284; -.
+DR   HOGENOM; CLU_002678_0_10_1; -.
+DR   InParanoid; Q8NA42; -.
+DR   OMA; ESCQREM; -.
+DR   OrthoDB; 3120634at2759; -.
+DR   PhylomeDB; Q8NA42; -.
+DR   PathwayCommons; Q8NA42; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q8NA42; -.
+DR   BioGRID-ORCS; 163087; 18 hits in 1145 CRISPR screens.
+DR   ChiTaRS; ZNF383; human.
+DR   GenomeRNAi; 163087; -.
+DR   Pharos; Q8NA42; Tdark.
+DR   PRO; PR:Q8NA42; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q8NA42; protein.
+DR   Bgee; ENSG00000188283; Expressed in granulocyte and 121 other tissues.
+DR   ExpressionAtlas; Q8NA42; baseline and differential.
+DR   Genevisible; Q8NA42; HS.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031965; C:nuclear membrane; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 11.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24377; IP01015P-RELATED; 1.
+DR   PANTHER; PTHR24377:SF980; ZINC FINGER PROTEIN 420; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 8.
+DR   Pfam; PF13465; zf-H2C2_2; 1.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 11.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 6.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 11.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 11.
+PE   1: Evidence at protein level;
+KW   Cytoplasm; DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..475
+FT                   /note="Zinc finger protein 383"
+FT                   /id="PRO_0000047550"
+FT   DOMAIN          6..77
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         170..192
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         198..220
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         226..248
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         254..276
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         282..304
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         310..332
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         338..360
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         366..388
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         394..416
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         422..444
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         450..472
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   CONFLICT        11
+FT                   /note="V -> A (in Ref. 2; AAP20067)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        114
+FT                   /note="Y -> H (in Ref. 2; AAP20067)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        443
+FT                   /note="I -> V (in Ref. 2; AAP20067)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   475 AA;  54613 MW;  2F47070F5C2E582B CRC64;
+     MAEGSVMFSD VSIDFSQEEW DCLDPVQRDL YRDVMLENYG NLVSMGLYTP KPQVISLLEQ
+     GKEPWMVGRE LTRGLCSDLE SMCETKLLSL KKEVYEIELC QREIMGLTKH GLEYSSFGDV
+     LEYRSHLAKQ LGYPNGHFSQ EIFTPEYMPT FIQQTFLTLH QIINNEDRPY ECKKCGKAFS
+     QNSQFIQHQR IHIGEKSYEC KECGKFFSCG SHVTRHLKIH TGEKPFECKE CGKAFSCSSY
+     LSQHQRIHTG KKPYECKECG KAFSYCSNLI DHQRIHTGEK PYECKVCGKA FTKSSQLFQH
+     ARIHTGEKPY ECKECGKAFT QSSKLVQHQR IHTGEKPYEC KECGKAFSSG SALTNHQRIH
+     TGEKPYDCKE CGKAFTQSSQ LRQHQRIHAG EKPFECLECG KAFTQNSQLF QHQRIHTDEK
+     PYECNECGKA FNKCSNLTRH LRIHTGEKPY NCKECGKAFS SGSDLIRHQG IHTNK
+//

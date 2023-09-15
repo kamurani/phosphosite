@@ -1,0 +1,338 @@
+ID   MED18_HUMAN             Reviewed;         208 AA.
+AC   Q9BUE0; D3DPM1; Q9NXU9;
+DT   11-SEP-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   28-JUN-2023, entry version 159.
+DE   RecName: Full=Mediator of RNA polymerase II transcription subunit 18;
+DE   AltName: Full=Mediator complex subunit 18;
+DE   AltName: Full=p28b;
+GN   Name=MED18;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Lymphoma;
+RA   Furumoto T., Malik S., Hayashi K., Tanaka A., Ito M., Roeder R.G.,
+RA   Hanaoka F., Ohkuma Y.;
+RT   "Physical and functional connections between human Mediator complex and
+RT   general transcription machinery.";
+RL   Submitted (APR-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Colon;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   INTERACTION WITH MED10 AND MED20.
+RX   PubMed=12584197; DOI=10.1074/jbc.c300054200;
+RA   Sato S., Tomomori-Sato C., Banks C.A.S., Sorokina I., Parmely T.J.,
+RA   Kong S.E., Jin J., Cai Y., Lane W.S., Brower C.S., Conaway R.C.,
+RA   Conaway J.W.;
+RT   "Identification of mammalian Mediator subunits with similarities to yeast
+RT   Mediator subunits Srb5, Srb6, Med11, and Rox3.";
+RL   J. Biol. Chem. 278:15123-15127(2003).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND IDENTIFICATION IN THE MEDIATOR
+RP   COMPLEX.
+RX   PubMed=15175163; DOI=10.1016/j.molcel.2004.05.006;
+RA   Sato S., Tomomori-Sato C., Parmely T.J., Florens L., Zybailov B.,
+RA   Swanson S.K., Banks C.A.S., Jin J., Cai Y., Washburn M.P., Conaway J.W.,
+RA   Conaway R.C.;
+RT   "A set of consensus mammalian mediator subunits identified by
+RT   multidimensional protein identification technology.";
+RL   Mol. Cell 14:685-691(2004).
+RN   [8]
+RP   INTERACTION WITH CCNC; MED1; MED12; MED13; MED17; MED20 AND MED21,
+RP   IDENTIFICATION BY MASS SPECTROMETRY, IDENTIFICATION IN THE MEDIATOR
+RP   COMPLEX, AND ASSOCIATION OF THE MEDIATOR COMPLEX WITH RNA POLYMERASE II.
+RX   PubMed=15989967; DOI=10.1016/j.molcel.2005.05.015;
+RA   Zhang X., Krutchinsky A., Fukuda A., Chen W., Yamamura S., Chait B.T.,
+RA   Roeder R.G.;
+RT   "MED1/TRAP220 exists predominantly in a TRAP/Mediator subpopulation
+RT   enriched in RNA polymerase II and is required for ER-mediated
+RT   transcription.";
+RL   Mol. Cell 19:89-100(2005).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-66, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+CC   -!- FUNCTION: Component of the Mediator complex, a coactivator involved in
+CC       the regulated transcription of nearly all RNA polymerase II-dependent
+CC       genes. Mediator functions as a bridge to convey information from gene-
+CC       specific regulatory proteins to the basal RNA polymerase II
+CC       transcription machinery. Mediator is recruited to promoters by direct
+CC       interactions with regulatory proteins and serves as a scaffold for the
+CC       assembly of a functional preinitiation complex with RNA polymerase II
+CC       and the general transcription factors.
+CC   -!- SUBUNIT: Component of the Mediator complex, which is composed of MED1,
+CC       MED4, MED6, MED7, MED8, MED9, MED10, MED11, MED12, MED13, MED13L,
+CC       MED14, MED15, MED16, MED17, MED18, MED19, MED20, MED21, MED22, MED23,
+CC       MED24, MED25, MED26, MED27, MED29, MED30, MED31, CCNC, CDK8 and
+CC       CDC2L6/CDK11. The MED12, MED13, CCNC and CDK8 subunits form a distinct
+CC       module termed the CDK8 module. Mediator containing the CDK8 module is
+CC       less active than Mediator lacking this module in supporting
+CC       transcriptional activation. Individual preparations of the Mediator
+CC       complex lacking one or more distinct subunits have been variously
+CC       termed ARC, CRSP, DRIP, PC2, SMCC and TRAP.
+CC       {ECO:0000269|PubMed:15175163, ECO:0000269|PubMed:15989967}.
+CC   -!- INTERACTION:
+CC       Q9BUE0; Q63HM1: AFMID; NbExp=3; IntAct=EBI-394640, EBI-13286382;
+CC       Q9BUE0; Q13554: CAMK2B; NbExp=3; IntAct=EBI-394640, EBI-1058722;
+CC       Q9BUE0; Q8IX15-3: HOMEZ; NbExp=3; IntAct=EBI-394640, EBI-10172004;
+CC       Q9BUE0; Q9NVC6: MED17; NbExp=3; IntAct=EBI-394640, EBI-394562;
+CC       Q9BUE0; Q9H944: MED20; NbExp=21; IntAct=EBI-394640, EBI-394644;
+CC       Q9BUE0; Q15528: MED22; NbExp=3; IntAct=EBI-394640, EBI-394687;
+CC       Q9BUE0; Q9NX70: MED29; NbExp=6; IntAct=EBI-394640, EBI-394656;
+CC       Q9BUE0; O75586: MED6; NbExp=3; IntAct=EBI-394640, EBI-394624;
+CC       Q9BUE0; Q96N21: TEPSIN; NbExp=3; IntAct=EBI-394640, EBI-11139477;
+CC       Q9BUE0; Q9HCM9: TRIM39; NbExp=3; IntAct=EBI-394640, EBI-739510;
+CC       Q9BUE0; Q9HCM9-2: TRIM39; NbExp=3; IntAct=EBI-394640, EBI-11523450;
+CC       Q9BUE0; Q9R0X0: Med20; Xeno; NbExp=6; IntAct=EBI-394640, EBI-398698;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the Mediator complex subunit 18 family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB107222; BAD06869.1; -; mRNA.
+DR   EMBL; AK000052; BAA90910.1; -; mRNA.
+DR   EMBL; AL353622; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471059; EAX07699.1; -; Genomic_DNA.
+DR   EMBL; CH471059; EAX07700.1; -; Genomic_DNA.
+DR   EMBL; CH471059; EAX07702.1; -; Genomic_DNA.
+DR   EMBL; BC002694; AAH02694.1; -; mRNA.
+DR   CCDS; CCDS322.1; -.
+DR   RefSeq; NP_001120822.1; NM_001127350.1.
+DR   RefSeq; NP_060108.2; NM_017638.2.
+DR   RefSeq; XP_005245971.1; XM_005245914.4.
+DR   PDB; 7EMF; EM; 3.50 A; R=1-208.
+DR   PDB; 7ENA; EM; 4.07 A; r=1-208.
+DR   PDB; 7ENC; EM; 4.13 A; r=1-208.
+DR   PDB; 7ENJ; EM; 4.40 A; R=1-208.
+DR   PDB; 7LBM; EM; 4.80 A; k=1-208.
+DR   PDB; 7NVR; EM; 4.50 A; e=1-208.
+DR   PDB; 8GXQ; EM; 5.04 A; r=1-208.
+DR   PDB; 8GXS; EM; 4.16 A; r=1-208.
+DR   PDBsum; 7EMF; -.
+DR   PDBsum; 7ENA; -.
+DR   PDBsum; 7ENC; -.
+DR   PDBsum; 7ENJ; -.
+DR   PDBsum; 7LBM; -.
+DR   PDBsum; 7NVR; -.
+DR   PDBsum; 8GXQ; -.
+DR   PDBsum; 8GXS; -.
+DR   AlphaFoldDB; Q9BUE0; -.
+DR   SMR; Q9BUE0; -.
+DR   BioGRID; 120156; 77.
+DR   ComplexPortal; CPX-3227; Core mediator complex.
+DR   CORUM; Q9BUE0; -.
+DR   IntAct; Q9BUE0; 65.
+DR   MINT; Q9BUE0; -.
+DR   STRING; 9606.ENSP00000362948; -.
+DR   GlyGen; Q9BUE0; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9BUE0; -.
+DR   MetOSite; Q9BUE0; -.
+DR   PhosphoSitePlus; Q9BUE0; -.
+DR   BioMuta; MED18; -.
+DR   DMDM; 74752353; -.
+DR   EPD; Q9BUE0; -.
+DR   jPOST; Q9BUE0; -.
+DR   MassIVE; Q9BUE0; -.
+DR   MaxQB; Q9BUE0; -.
+DR   PaxDb; Q9BUE0; -.
+DR   PeptideAtlas; Q9BUE0; -.
+DR   ProteomicsDB; 79079; -.
+DR   Antibodypedia; 30928; 256 antibodies from 25 providers.
+DR   DNASU; 54797; -.
+DR   Ensembl; ENST00000373842.9; ENSP00000362948.4; ENSG00000130772.14.
+DR   Ensembl; ENST00000398997.2; ENSP00000381963.2; ENSG00000130772.14.
+DR   Ensembl; ENST00000645794.2; ENSP00000494184.1; ENSG00000284944.2.
+DR   Ensembl; ENST00000647352.1; ENSP00000494048.1; ENSG00000284944.2.
+DR   GeneID; 54797; -.
+DR   KEGG; hsa:54797; -.
+DR   MANE-Select; ENST00000373842.9; ENSP00000362948.4; NM_017638.3; NP_060108.2.
+DR   UCSC; uc001bpt.5; human.
+DR   AGR; HGNC:25944; -.
+DR   CTD; 54797; -.
+DR   DisGeNET; 54797; -.
+DR   GeneCards; MED18; -.
+DR   HGNC; HGNC:25944; MED18.
+DR   HPA; ENSG00000130772; Low tissue specificity.
+DR   MIM; 612384; gene.
+DR   neXtProt; NX_Q9BUE0; -.
+DR   OpenTargets; ENSG00000130772; -.
+DR   PharmGKB; PA134884523; -.
+DR   VEuPathDB; HostDB:ENSG00000130772; -.
+DR   eggNOG; KOG3264; Eukaryota.
+DR   GeneTree; ENSGT00390000003312; -.
+DR   HOGENOM; CLU_084570_0_0_1; -.
+DR   InParanoid; Q9BUE0; -.
+DR   OMA; PTSPWHL; -.
+DR   OrthoDB; 2873347at2759; -.
+DR   PhylomeDB; Q9BUE0; -.
+DR   TreeFam; TF313246; -.
+DR   PathwayCommons; Q9BUE0; -.
+DR   Reactome; R-HSA-1989781; PPARA activates gene expression.
+DR   Reactome; R-HSA-381340; Transcriptional regulation of white adipocyte differentiation.
+DR   SignaLink; Q9BUE0; -.
+DR   SIGNOR; Q9BUE0; -.
+DR   BioGRID-ORCS; 54797; 660 hits in 1173 CRISPR screens.
+DR   GenomeRNAi; 54797; -.
+DR   Pharos; Q9BUE0; Tbio.
+DR   PRO; PR:Q9BUE0; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q9BUE0; protein.
+DR   Bgee; ENSG00000130772; Expressed in mucosa of transverse colon and 107 other tissues.
+DR   Genevisible; Q9BUE0; HS.
+DR   GO; GO:0070847; C:core mediator complex; IPI:ComplexPortal.
+DR   GO; GO:0016592; C:mediator complex; IDA:MGI.
+DR   GO; GO:0005634; C:nucleus; IDA:ComplexPortal.
+DR   GO; GO:0003712; F:transcription coregulator activity; IBA:GO_Central.
+DR   GO; GO:0032968; P:positive regulation of transcription elongation by RNA polymerase II; NAS:ComplexPortal.
+DR   GO; GO:0060261; P:positive regulation of transcription initiation by RNA polymerase II; NAS:ComplexPortal.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0051123; P:RNA polymerase II preinitiation complex assembly; NAS:ComplexPortal.
+DR   GO; GO:0006369; P:termination of RNA polymerase II transcription; IBA:GO_Central.
+DR   Gene3D; 2.40.320.10; Hypothetical Protein Pfu-838710-001; 1.
+DR   InterPro; IPR019095; Mediator_Med18.
+DR   PANTHER; PTHR13321:SF2; MEDIATOR OF RNA POLYMERASE II TRANSCRIPTION SUBUNIT 18; 1.
+DR   PANTHER; PTHR13321; MEDIATOR OF RNA POLYMERASE II TRANSCRIPTION, SUBUNIT 18; 1.
+DR   Pfam; PF09637; Med18; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Nucleus; Phosphoprotein; Reference proteome;
+KW   Transcription; Transcription regulation.
+FT   CHAIN           1..208
+FT                   /note="Mediator of RNA polymerase II transcription subunit
+FT                   18"
+FT                   /id="PRO_0000304742"
+FT   MOD_RES         66
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   CONFLICT        148
+FT                   /note="I -> T (in Ref. 2; BAA90910)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          18..27
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   HELIX           29..42
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          51..60
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          63..66
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          68..78
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          83..88
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          94..110
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   HELIX           114..121
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          124..138
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          141..151
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          157..163
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   STRAND          165..178
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   HELIX           183..191
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+FT   TURN            192..196
+FT                   /evidence="ECO:0007829|PDB:7EMF"
+SQ   SEQUENCE   208 AA;  23663 MW;  AE68984390532C33 CRC64;
+     MEAPPVTMMP VTGGTINMME YLLQGSVLDH SLESLIHRLR GLCDNMEPET FLDHEMVFLL
+     KGQQASPFVL RARRSMDRAG APWHLRYLGQ PEMGDKNRHA LVRNCVDIAT SENLTDFLME
+     MGFRMDHEFV AKGHLFRKGI MKIMVYKIFR ILVPGNTDST EALSLSYLVE LSVVAPAGQD
+     MVSDDMKNFA EQLKPLVHLE KIDPKRLM
+//

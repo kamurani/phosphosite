@@ -1,0 +1,297 @@
+ID   CNGA4_HUMAN             Reviewed;         575 AA.
+AC   Q8IV77;
+DT   05-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   02-NOV-2010, sequence version 3.
+DT   28-JUN-2023, entry version 150.
+DE   RecName: Full=Cyclic nucleotide-gated cation channel alpha-4;
+DE   AltName: Full=Cyclic nucleotide-gated channel alpha-4;
+DE            Short=CNG channel alpha-4;
+DE            Short=CNG-4;
+DE            Short=CNG4;
+GN   Name=CNGA4;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Brain, and Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   SUBUNIT, AND MUTAGENESIS OF LEU-292.
+RX   PubMed=15195096; DOI=10.1038/nn1266;
+RA   Bradley J., Boenigk W., Yau K.-W., Frings S.;
+RT   "Calmodulin permanently associates with rat olfactory CNG channels under
+RT   native conditions.";
+RL   Nat. Neurosci. 7:705-710(2004).
+RN   [5]
+RP   ACTIVITY REGULATION.
+RX   PubMed=17032767; DOI=10.1073/pnas.0603344103;
+RA   Brady J.D., Rich E.D., Martens J.R., Karpen J.W., Varnum M.D., Brown R.L.;
+RT   "Interplay between PIP3 and calmodulin regulation of olfactory cyclic
+RT   nucleotide-gated channels.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:15635-15640(2006).
+CC   -!- FUNCTION: Second messenger, cAMP, causes the opening of cation-
+CC       selective cyclic nucleotide-gated (CNG) channels and depolarization of
+CC       the neuron (olfactory sensory neurons, OSNs). CNGA4 is the modulatory
+CC       subunit of this channel which is known to play a central role in the
+CC       transduction of odorant signals and subsequent adaptation. By
+CC       accelerating the calcium-mediated negative feedback in olfactory
+CC       signaling it allows rapid adaptation to odor stimulation and extends
+CC       its range of odor detection (By similarity). {ECO:0000250}.
+CC   -!- ACTIVITY REGULATION: Calcium-calmodulin exerts its inhibitory effect in
+CC       cAMP sensitivity by binding to IQ-like motif of CNGA4 and preferably
+CC       binds to the channel in the closed state. Inhibition by PIP3 of the CNG
+CC       channel probably occurs via CGNA2 binding.
+CC       {ECO:0000269|PubMed:17032767}.
+CC   -!- SUBUNIT: Heterotetramer composed of two subunits of CNGA2, one of CNGA4
+CC       and one of CNGB1b. The complex forms the cyclic nucleotide-gated (CNG)
+CC       channel of olfactory sensory neurons. {ECO:0000269|PubMed:15195096}.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Multi-pass membrane
+CC       protein {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q8IV77-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8IV77-2; Sequence=VSP_039919, VSP_039920, VSP_039921;
+CC   -!- DOMAIN: The C-terminal coiled-coil domain mediates trimerization of
+CC       CNGA subunits. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the cyclic nucleotide-gated cation channel
+CC       (TC 1.A.1.5) family. CNGA4 subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH40277.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AK122736; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK122736; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; AC022762; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC040277; AAH40277.1; ALT_INIT; mRNA.
+DR   EMBL; BC106935; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; BC106936; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS31408.1; -. [Q8IV77-1]
+DR   RefSeq; NP_001032406.1; NM_001037329.3. [Q8IV77-1]
+DR   AlphaFoldDB; Q8IV77; -.
+DR   SMR; Q8IV77; -.
+DR   BioGRID; 107662; 40.
+DR   STRING; 9606.ENSP00000369268; -.
+DR   iPTMnet; Q8IV77; -.
+DR   PhosphoSitePlus; Q8IV77; -.
+DR   BioMuta; CNGA4; -.
+DR   DMDM; 311033466; -.
+DR   MassIVE; Q8IV77; -.
+DR   PaxDb; Q8IV77; -.
+DR   PeptideAtlas; Q8IV77; -.
+DR   Antibodypedia; 58012; 106 antibodies from 21 providers.
+DR   DNASU; 1262; -.
+DR   Ensembl; ENST00000379936.3; ENSP00000369268.2; ENSG00000132259.13. [Q8IV77-1]
+DR   GeneID; 1262; -.
+DR   KEGG; hsa:1262; -.
+DR   MANE-Select; ENST00000379936.3; ENSP00000369268.2; NM_001037329.4; NP_001032406.1.
+DR   UCSC; uc001mco.4; human. [Q8IV77-1]
+DR   AGR; HGNC:2152; -.
+DR   CTD; 1262; -.
+DR   GeneCards; CNGA4; -.
+DR   HGNC; HGNC:2152; CNGA4.
+DR   HPA; ENSG00000132259; Tissue enhanced (fallopian tube, testis).
+DR   MIM; 609472; gene.
+DR   neXtProt; NX_Q8IV77; -.
+DR   OpenTargets; ENSG00000132259; -.
+DR   VEuPathDB; HostDB:ENSG00000132259; -.
+DR   eggNOG; KOG0500; Eukaryota.
+DR   GeneTree; ENSGT00940000159415; -.
+DR   HOGENOM; CLU_005746_12_0_1; -.
+DR   InParanoid; Q8IV77; -.
+DR   OMA; HSYLVAW; -.
+DR   OrthoDB; 74296at2759; -.
+DR   PhylomeDB; Q8IV77; -.
+DR   TreeFam; TF319048; -.
+DR   PathwayCommons; Q8IV77; -.
+DR   Reactome; R-HSA-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-HSA-5620916; VxPx cargo-targeting to cilium.
+DR   SignaLink; Q8IV77; -.
+DR   BioGRID-ORCS; 1262; 12 hits in 1142 CRISPR screens.
+DR   GeneWiki; Cyclic_nucleotide-gated_channel_alpha_4; -.
+DR   GenomeRNAi; 1262; -.
+DR   Pharos; Q8IV77; Tbio.
+DR   PRO; PR:Q8IV77; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q8IV77; protein.
+DR   Bgee; ENSG00000132259; Expressed in right uterine tube and 102 other tissues.
+DR   ExpressionAtlas; Q8IV77; baseline and differential.
+DR   Genevisible; Q8IV77; HS.
+DR   GO; GO:0060170; C:ciliary membrane; TAS:Reactome.
+DR   GO; GO:0030660; C:Golgi-associated vesicle membrane; TAS:Reactome.
+DR   GO; GO:0017071; C:intracellular cyclic nucleotide activated cation channel complex; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IBA:GO_Central.
+DR   GO; GO:0030552; F:cAMP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030553; F:cGMP binding; IBA:GO_Central.
+DR   GO; GO:0005222; F:intracellular cAMP-activated cation channel activity; IBA:GO_Central.
+DR   GO; GO:0005223; F:intracellular cGMP-activated cation channel activity; IBA:GO_Central.
+DR   GO; GO:0044877; F:protein-containing complex binding; IBA:GO_Central.
+DR   GO; GO:0098655; P:monoatomic cation transmembrane transport; IBA:GO_Central.
+DR   GO; GO:0050896; P:response to stimulus; IEA:UniProtKB-KW.
+DR   GO; GO:0007608; P:sensory perception of smell; IEA:UniProtKB-KW.
+DR   CDD; cd00038; CAP_ED; 1.
+DR   Gene3D; 1.10.287.70; -; 1.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.10.287.630; Helix hairpin bin; 1.
+DR   Gene3D; 2.60.120.10; Jelly Rolls; 1.
+DR   InterPro; IPR032406; CLZ_dom.
+DR   InterPro; IPR018488; cNMP-bd_CS.
+DR   InterPro; IPR000595; cNMP-bd_dom.
+DR   InterPro; IPR018490; cNMP-bd_dom_sf.
+DR   InterPro; IPR005821; Ion_trans_dom.
+DR   InterPro; IPR014710; RmlC-like_jellyroll.
+DR   PANTHER; PTHR45638:SF2; CYCLIC NUCLEOTIDE-GATED CATION CHANNEL ALPHA-4; 1.
+DR   PANTHER; PTHR45638; CYCLIC NUCLEOTIDE-GATED CATION CHANNEL SUBUNIT A; 1.
+DR   Pfam; PF16526; CLZ; 1.
+DR   Pfam; PF00027; cNMP_binding; 1.
+DR   Pfam; PF00520; Ion_trans; 1.
+DR   SMART; SM00100; cNMP; 1.
+DR   SUPFAM; SSF51206; cAMP-binding domain-like; 1.
+DR   SUPFAM; SSF81324; Voltage-gated potassium channels; 1.
+DR   PROSITE; PS00888; CNMP_BINDING_1; 1.
+DR   PROSITE; PS00889; CNMP_BINDING_2; 1.
+DR   PROSITE; PS50042; CNMP_BINDING_3; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; cAMP; cAMP-binding; Coiled coil; Ion channel;
+KW   Ion transport; Ligand-gated ion channel; Membrane; Nucleotide-binding;
+KW   Olfaction; Reference proteome; Sensory transduction; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   CHAIN           1..575
+FT                   /note="Cyclic nucleotide-gated cation channel alpha-4"
+FT                   /id="PRO_0000317107"
+FT   TOPO_DOM        1..33
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        34..54
+FT                   /note="Helical; Name=H1"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        55..65
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        66..86
+FT                   /note="Helical; Name=H2"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        87..112
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        113..133
+FT                   /note="Helical; Name=H3"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        134..168
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        169..189
+FT                   /note="Helical; Name=H4"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        190..217
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        218..234
+FT                   /note="Helical; Name=H5"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        235..244
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        245..265
+FT                   /note="Helical; Name=H6"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        266..575
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   REGION          538..575
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          493..536
+FT                   /evidence="ECO:0000250"
+FT   MOTIF           292..302
+FT                   /note="IQ-type"
+FT   BINDING         348..471
+FT                   /ligand="a nucleoside 3',5'-cyclic phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58464"
+FT   VAR_SEQ         1..40
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_039919"
+FT   VAR_SEQ         424..456
+FT                   /note="NMSGNRRTANIKSLGYSDLFCLSKEDLREVLSE -> GYPSICSRDKDGWGR
+FT                   GEQQSPVLGPDSTSGLNF (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_039920"
+FT   VAR_SEQ         457..575
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_039921"
+FT   VARIANT         553
+FT                   /note="E -> V (in dbSNP:rs325706)"
+FT                   /id="VAR_038480"
+FT   MUTAGEN         292
+FT                   /note="L->E: Loss of inhibition produced by
+FT                   calcium/calmodulin binding."
+FT                   /evidence="ECO:0000269|PubMed:15195096"
+SQ   SEQUENCE   575 AA;  65999 MW;  4249188A8563A461 CRC64;
+     MSQDTKVKTT ESSPPAPSKA RKLLPVLDPS GDYYYWWLNT MVFPVMYNLI ILVCRACFPD
+     LQHGYLVAWL VLDYTSDLLY LLDMVVRFHT GFLEQGILVV DKGRISSRYV RTWSFFLDLA
+     SLMPTDVVYV RLGPHTPTLR LNRFLRAPRL FEAFDRTETR TAYPNAFRIA KLMLYIFVVI
+     HWNSCLYFAL SRYLGFGRDA WVYPDPAQPG FERLRRQYLY SFYFSTLILT TVGDTPPPAR
+     EEEYLFMVGD FLLAVMGFAT IMGSMSSVIY NMNTADAAFY PDHALVKKYM KLQHVNRKLE
+     RRVIDWYQHL QINKKMTNEV AILQHLPERL RAEVAVSVHL STLSRVQIFQ NCEASLLEEL
+     VLKLQPQTYS PGEYVCRKGD IGQEMYIIRE GQLAVVADDG ITQYAVLGAG LYFGEISIIN
+     IKGNMSGNRR TANIKSLGYS DLFCLSKEDL REVLSEYPQA QTIMEEKGRE ILLKMNKLDV
+     NAEAAEIALQ EATESRLRGL DQQLDDLQTK FARLLAELES SALKIAYRIE RLEWQTREWP
+     MPEDLAEADD EGEPEEGTSK DEEGRASQEG PPGPE
+//

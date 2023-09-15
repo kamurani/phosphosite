@@ -1,0 +1,419 @@
+ID   PLAL1_HUMAN             Reviewed;         463 AA.
+AC   Q9UM63; B2RBA4; B2RCM8; E1P595; E1P597; O76019; Q7Z3V8; Q92981; Q96JR9;
+AC   Q9UIZ0;
+DT   20-JUN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   11-SEP-2007, sequence version 2.
+DT   28-JUN-2023, entry version 191.
+DE   RecName: Full=Zinc finger protein PLAGL1;
+DE   AltName: Full=Lost on transformation 1;
+DE            Short=LOT-1;
+DE   AltName: Full=Pleiomorphic adenoma-like protein 1;
+DE   AltName: Full=Tumor suppressor ZAC;
+GN   Name=PLAGL1; Synonyms=LOT1, ZAC;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=9150364; DOI=10.1038/sj.onc.1201034;
+RA   Abdollahi A., Roberts D., Godwin A.K., Schultz D.C., Sonoda G., Testa J.R.,
+RA   Hamilton T.C.;
+RT   "Identification of a zinc-finger gene at 6q25: a chromosomal region
+RT   implicated in development of many solid tumors.";
+RL   Oncogene 14:1973-1979(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), AND FUNCTION.
+RX   PubMed=9722527; DOI=10.1074/jbc.273.36.23026;
+RA   Kas K., Voz M.L., Hensen K., Meyen E., Van de Ven W.J.M.;
+RT   "Transcriptional activation capacity of the novel PLAG family of zinc
+RT   finger proteins.";
+RL   J. Biol. Chem. 273:23026-23032(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Pituitary;
+RX   PubMed=9671765; DOI=10.1073/pnas.95.15.8835;
+RA   Varrault A., Ciani E., Apiou F., Bilanges B., Hoffmann A., Pantaloni C.,
+RA   Bockaert J., Spengler D., Journot L.;
+RT   "hZAC encodes a zinc finger protein with antiproliferative properties and
+RT   maps to a chromosomal region frequently lost in cancer.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:8835-8840(1998).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), AND SUBCELLULAR LOCATION.
+RC   TISSUE=Mammary gland;
+RX   PubMed=11313869; DOI=10.1038/sj.onc.1204237;
+RA   Bilanges B., Varrault A., Mazumdar A., Pantaloni C., Hoffmann A.,
+RA   Bockaert J., Spengler D., Journot L.;
+RT   "Alternative splicing of the imprinted candidate tumor suppressor gene ZAC
+RT   regulates its antiproliferative and DNA binding activities.";
+RL   Oncogene 20:1246-1253(2001).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Placenta;
+RA   Varrault A., Bilanges B., Mackay D.J., Basyuk E., Ahr B., Fernandez C.,
+RA   Robinson D.O., Bockaert J., Journot L.;
+RT   "Characterization of the methylation-sensitive promoter of the imprinted
+RT   ZAC (PLAGL1) gene supports its role in transient neonatal diabetes
+RT   mellitus.";
+RL   Submitted (MAY-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Colon;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Fetal kidney;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [11]
+RP   INVOLVEMENT IN TNDM1.
+RX   PubMed=11935319; DOI=10.1007/s00439-001-0671-5;
+RA   Mackay D.J., Coupe A.M., Shield J.P., Storr J.N., Temple I.K.,
+RA   Robinson D.O.;
+RT   "Relaxation of imprinted expression of ZAC and HYMAI in a patient with
+RT   transient neonatal diabetes mellitus.";
+RL   Hum. Genet. 110:139-144(2002).
+RN   [12]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH THRSP.
+RX   PubMed=18299245; DOI=10.1016/j.biocel.2008.01.014;
+RA   Chou W.Y., Ho C.L., Tseng M.L., Liu S.T., Yen L.C., Huang S.M.;
+RT   "Human Spot 14 protein is a p53-dependent transcriptional coactivator via
+RT   the recruitment of thyroid receptor and Zac1.";
+RL   Int. J. Biochem. Cell Biol. 40:1826-1834(2008).
+RN   [13]
+RP   INVOLVEMENT IN TNDM1.
+RX   PubMed=18622393; DOI=10.1038/ng.187;
+RA   Mackay D.J.G., Callaway J.L.A., Marks S.M., White H.E., Acerini C.L.,
+RA   Boonen S.E., Dayanikli P., Firth H.V., Goodship J.A., Haemers A.P.,
+RA   Hahnemann J.M.D., Kordonouri O., Masoud A.F., Oestergaard E., Storr J.,
+RA   Ellard S., Hattersley A.T., Robinson D.O., Temple I.K.;
+RT   "Hypomethylation of multiple imprinted loci in individuals with transient
+RT   neonatal diabetes is associated with mutations in ZFP57.";
+RL   Nat. Genet. 40:949-951(2008).
+CC   -!- FUNCTION: Acts as a transcriptional activator (PubMed:9722527).
+CC       Involved in the transcriptional regulation of type 1 receptor for
+CC       pituitary adenylate cyclase-activating polypeptide.
+CC       {ECO:0000269|PubMed:18299245, ECO:0000269|PubMed:9722527}.
+CC   -!- SUBUNIT: Interacts with THRSP. {ECO:0000269|PubMed:18299245}.
+CC   -!- INTERACTION:
+CC       Q9UM63; Q63ZY3: KANK2; NbExp=3; IntAct=EBI-7233410, EBI-2556193;
+CC       Q9UM63; Q08117-2: TLE5; NbExp=3; IntAct=EBI-7233410, EBI-11741437;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11313869,
+CC       ECO:0000269|PubMed:18299245}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9UM63-1; Sequence=Displayed;
+CC       Name=2; Synonyms=ZACdelta2;
+CC         IsoId=Q9UM63-2; Sequence=VSP_028123;
+CC   -!- DISEASE: Diabetes mellitus, transient neonatal, 1 (TNDM1) [MIM:601410]:
+CC       An autosomal dominant form of diabetes mellitus defined by the onset of
+CC       mild-to-severe hyperglycemia within the first month of life. In about
+CC       half of the neonates, diabetes is transient and resolves at a median
+CC       age of 3 months, whereas the rest have a permanent form of diabetes.
+CC       {ECO:0000269|PubMed:11935319}. Note=The gene represented in this entry
+CC       is involved in disease pathogenesis. Imprinted expression of PLAGL1 is
+CC       relaxed in patients with transient neonatal diabetes (TND)
+CC       (PubMed:11935319). Aberrant hypomethylation of the TND differentially
+CC       methylated region within the PLAGL1 promoter as well as other imprinted
+CC       loci at chromosome 6q24 is caused by ZFP57 mutations (PubMed:18622393).
+CC       {ECO:0000269|PubMed:11935319, ECO:0000269|PubMed:18622393}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/41737/PLAGL1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U72621; AAB67041.1; -; mRNA.
+DR   EMBL; U81992; AAC34250.1; -; mRNA.
+DR   EMBL; AJ006354; CAA06994.1; -; mRNA.
+DR   EMBL; AJ303119; CAC39614.1; -; mRNA.
+DR   EMBL; AJ311395; CAC39615.1; -; mRNA.
+DR   EMBL; AK314570; BAG37151.1; -; mRNA.
+DR   EMBL; AK315184; BAG37625.1; -; mRNA.
+DR   EMBL; BX537397; CAD97639.1; -; mRNA.
+DR   EMBL; AL049844; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471051; EAW47852.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW47853.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW47854.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW47855.1; -; Genomic_DNA.
+DR   EMBL; CH471051; EAW47856.1; -; Genomic_DNA.
+DR   EMBL; BC074814; AAH74814.1; -; mRNA.
+DR   EMBL; BC109085; AAI09086.1; -; mRNA.
+DR   EMBL; BC109086; AAI09087.1; -; mRNA.
+DR   CCDS; CCDS5202.1; -. [Q9UM63-1]
+DR   CCDS; CCDS5203.1; -. [Q9UM63-2]
+DR   RefSeq; NP_001074420.1; NM_001080951.2. [Q9UM63-1]
+DR   RefSeq; NP_001074421.1; NM_001080952.2. [Q9UM63-1]
+DR   RefSeq; NP_001074422.1; NM_001080953.2. [Q9UM63-1]
+DR   RefSeq; NP_001074423.1; NM_001080954.2. [Q9UM63-1]
+DR   RefSeq; NP_001074424.1; NM_001080955.2. [Q9UM63-2]
+DR   RefSeq; NP_001074425.1; NM_001080956.2. [Q9UM63-2]
+DR   RefSeq; NP_001275966.1; NM_001289037.1. [Q9UM63-2]
+DR   RefSeq; NP_001275967.1; NM_001289038.1. [Q9UM63-2]
+DR   RefSeq; NP_001275968.1; NM_001289039.1. [Q9UM63-2]
+DR   RefSeq; NP_001275969.1; NM_001289040.1. [Q9UM63-2]
+DR   RefSeq; NP_001275970.1; NM_001289041.1. [Q9UM63-2]
+DR   RefSeq; NP_001275971.1; NM_001289042.1. [Q9UM63-1]
+DR   RefSeq; NP_001275972.1; NM_001289043.1. [Q9UM63-1]
+DR   RefSeq; NP_001275973.1; NM_001289044.1. [Q9UM63-1]
+DR   RefSeq; NP_001275974.1; NM_001289045.1. [Q9UM63-1]
+DR   RefSeq; NP_001275975.1; NM_001289046.1. [Q9UM63-1]
+DR   RefSeq; NP_001275976.1; NM_001289047.1. [Q9UM63-1]
+DR   RefSeq; NP_001275977.1; NM_001289048.1. [Q9UM63-1]
+DR   RefSeq; NP_001275978.1; NM_001289049.1. [Q9UM63-1]
+DR   RefSeq; NP_001304085.1; NM_001317156.1. [Q9UM63-1]
+DR   RefSeq; NP_001304086.1; NM_001317157.1. [Q9UM63-1]
+DR   RefSeq; NP_001304087.1; NM_001317158.1. [Q9UM63-2]
+DR   RefSeq; NP_001304088.1; NM_001317159.1. [Q9UM63-1]
+DR   RefSeq; NP_001304089.1; NM_001317160.1. [Q9UM63-2]
+DR   RefSeq; NP_001304090.1; NM_001317161.1. [Q9UM63-1]
+DR   RefSeq; NP_001304091.1; NM_001317162.1. [Q9UM63-1]
+DR   RefSeq; NP_006709.2; NM_006718.4. [Q9UM63-1]
+DR   AlphaFoldDB; Q9UM63; -.
+DR   SMR; Q9UM63; -.
+DR   BioGRID; 111341; 20.
+DR   IntAct; Q9UM63; 3.
+DR   MINT; Q9UM63; -.
+DR   STRING; 9606.ENSP00000353734; -.
+DR   iPTMnet; Q9UM63; -.
+DR   PhosphoSitePlus; Q9UM63; -.
+DR   BioMuta; PLAGL1; -.
+DR   DMDM; 158523334; -.
+DR   EPD; Q9UM63; -.
+DR   jPOST; Q9UM63; -.
+DR   MassIVE; Q9UM63; -.
+DR   MaxQB; Q9UM63; -.
+DR   PaxDb; Q9UM63; -.
+DR   PeptideAtlas; Q9UM63; -.
+DR   ProteomicsDB; 85183; -. [Q9UM63-1]
+DR   ProteomicsDB; 85184; -. [Q9UM63-2]
+DR   Antibodypedia; 19825; 263 antibodies from 30 providers.
+DR   DNASU; 5325; -.
+DR   Ensembl; ENST00000354765.6; ENSP00000346810.2; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000360537.6; ENSP00000353734.2; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000367571.3; ENSP00000356543.1; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000367572.3; ENSP00000356544.1; ENSG00000118495.21. [Q9UM63-2]
+DR   Ensembl; ENST00000416623.5; ENSP00000400060.1; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000417959.4; ENSP00000395960.2; ENSG00000118495.21. [Q9UM63-2]
+DR   Ensembl; ENST00000437412.5; ENSP00000392418.1; ENSG00000118495.21. [Q9UM63-2]
+DR   Ensembl; ENST00000444202.5; ENSP00000400929.1; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000625622.2; ENSP00000486355.1; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000647880.1; ENSP00000496815.1; ENSG00000118495.21. [Q9UM63-2]
+DR   Ensembl; ENST00000649211.1; ENSP00000497492.1; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000649307.1; ENSP00000496979.1; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000650125.1; ENSP00000497363.1; ENSG00000118495.21. [Q9UM63-1]
+DR   Ensembl; ENST00000674357.1; ENSP00000501459.1; ENSG00000118495.21. [Q9UM63-1]
+DR   GeneID; 5325; -.
+DR   KEGG; hsa:5325; -.
+DR   MANE-Select; ENST00000674357.1; ENSP00000501459.1; NM_001317162.2; NP_001304091.1.
+DR   UCSC; uc003qjv.4; human. [Q9UM63-1]
+DR   AGR; HGNC:9046; -.
+DR   CTD; 5325; -.
+DR   DisGeNET; 5325; -.
+DR   GeneCards; PLAGL1; -.
+DR   GeneReviews; PLAGL1; -.
+DR   HGNC; HGNC:9046; PLAGL1.
+DR   HPA; ENSG00000118495; Tissue enhanced (placenta).
+DR   MalaCards; PLAGL1; -.
+DR   MIM; 601410; phenotype.
+DR   MIM; 603044; gene.
+DR   neXtProt; NX_Q9UM63; -.
+DR   OpenTargets; ENSG00000118495; -.
+DR   Orphanet; 96191; Paternal uniparental disomy of chromosome 6.
+DR   Orphanet; 99886; Transient neonatal diabetes mellitus.
+DR   PharmGKB; PA33379; -.
+DR   VEuPathDB; HostDB:ENSG00000118495; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000162004; -.
+DR   HOGENOM; CLU_002678_66_1_1; -.
+DR   InParanoid; Q9UM63; -.
+DR   OMA; NKMAYGC; -.
+DR   OrthoDB; 2971215at2759; -.
+DR   PhylomeDB; Q9UM63; -.
+DR   TreeFam; TF332024; -.
+DR   PathwayCommons; Q9UM63; -.
+DR   Reactome; R-HSA-6804115; TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain.
+DR   SignaLink; Q9UM63; -.
+DR   SIGNOR; Q9UM63; -.
+DR   BioGRID-ORCS; 5325; 18 hits in 1185 CRISPR screens.
+DR   ChiTaRS; PLAGL1; human.
+DR   GeneWiki; PLAGL1; -.
+DR   GenomeRNAi; 5325; -.
+DR   Pharos; Q9UM63; Tbio.
+DR   PRO; PR:Q9UM63; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q9UM63; protein.
+DR   Bgee; ENSG00000118495; Expressed in adrenal tissue and 196 other tissues.
+DR   ExpressionAtlas; Q9UM63; baseline and differential.
+DR   Genevisible; Q9UM63; HS.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:HPA.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:HPA.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0003677; F:DNA binding; IDA:MGI.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:0006915; P:apoptotic process; TAS:ProtInc.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:MGI.
+DR   GO; GO:0051726; P:regulation of cell cycle; TAS:ProtInc.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 6.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24399; ZINC FINGER AND BTB DOMAIN-CONTAINING; 1.
+DR   PANTHER; PTHR24399:SF31; ZINC FINGER PROTEIN PLAGL1; 1.
+DR   Pfam; PF00096; zf-C2H2; 2.
+DR   SMART; SM00355; ZnF_C2H2; 7.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 3.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 7.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 7.
+PE   1: Evidence at protein level;
+KW   Activator; Alternative splicing; Diabetes mellitus; DNA-binding;
+KW   Metal-binding; Nucleus; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..463
+FT                   /note="Zinc finger protein PLAGL1"
+FT                   /id="PRO_0000047222"
+FT   ZN_FING         4..26
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         32..56
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         62..84
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         91..113
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         120..142
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         156..178
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         184..207
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          268..306
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         1..52
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11313869,
+FT                   ECO:0000303|PubMed:14702039, ECO:0000303|PubMed:17974005,
+FT                   ECO:0000303|PubMed:9722527"
+FT                   /id="VSP_028123"
+FT   VARIANT         272
+FT                   /note="A -> V (in dbSNP:rs35263016)"
+FT                   /id="VAR_052729"
+FT   CONFLICT        81
+FT                   /note="L -> F (in Ref. 1; AAB67041)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        197
+FT                   /note="D -> V (in Ref. 2; AAC34250)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   463 AA;  50819 MW;  B10C74DA409BD4F7 CRC64;
+     MATFPCQLCG KTFLTLEKFT IHNYSHSRER PYKCVQPDCG KAFVSRYKLM RHMATHSPQK
+     SHQCAHCEKT FNRKDHLKNH LQTHDPNKMA FGCEECGKKY NTMLGYKRHL ALHAASSGDL
+     TCGVCALELG STEVLLDHLK AHAEEKPPSG TKEKKHQCDH CERCFYTRKD VRRHLVVHTG
+     CKDFLCQFCA QRFGRKDHLT RHTKKTHSQE LMKESLQTGD LLSTFHTISP SFQLKAAALP
+     PFPLGASAQN GLASSLPAEV HSLTLSPPEQ AAQPMQPLPE SLASLHPSVS PGSPPPPLPN
+     HKYNTTSTSY SPLASLPLKA DTKGFCNISL FEDLPLQEPQ SPQKLNPGFD LAKGNAGKVN
+     LPKELPADAV NLTIPASLDL SPLLGFWQLP PPATQNTFGN STLALGPGES LPHRLSCLGQ
+     QQQEPPLAMG TVSLGQLPLP PIPHVFSAGT GSAILPHFHH AFR
+//

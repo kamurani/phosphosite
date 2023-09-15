@@ -1,0 +1,502 @@
+ID   K1C12_HUMAN             Reviewed;         494 AA.
+AC   Q99456; B2R9E0;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1997, sequence version 1.
+DT   28-JUN-2023, entry version 186.
+DE   RecName: Full=Keratin, type I cytoskeletal 12;
+DE   AltName: Full=Cytokeratin-12;
+DE            Short=CK-12;
+DE   AltName: Full=Keratin-12;
+DE            Short=K12;
+GN   Name=KRT12;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Cornea;
+RX   PubMed=8759347;
+RA   Nishida K., Adachi W., Shimizu-Matsumoto A., Kinoshita S., Mizuno K.,
+RA   Matsubara K., Okubo K.;
+RT   "A gene expression profile of human corneal epithelium and the isolation of
+RT   human keratin 12 cDNA.";
+RL   Invest. Ophthalmol. Vis. Sci. 37:1800-1809(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS MECD1 GLY-135; ILE-135;
+RP   ARG-140 AND ASP-429.
+RX   PubMed=9399908; DOI=10.1086/301650;
+RA   Nishida K., Honma Y., Dota A., Kawasaki S., Adachi W., Nakamura T.,
+RA   Quantock A.J., Hosotani H., Yamamoto S., Okada M., Shimomura Y.,
+RA   Kinoshita S.;
+RT   "Isolation and chromosomal localization of a cornea-specific human keratin
+RT   12 gene and detection of four mutations in Meesmann corneal epithelial
+RT   dystrophy.";
+RL   Am. J. Hum. Genet. 61:1268-1275(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA], VARIANTS MECD1 THR-129 AND THR-135, AND VARIANT
+RP   TRP-20.
+RX   PubMed=10644419; DOI=10.1006/exer.1999.0769;
+RA   Corden L.D., Swensson O., Swensson B., Smith F.J.D., Rochels R., Uitto J.,
+RA   McLean W.H.I.;
+RT   "Molecular genetics of Meesmann's corneal dystrophy: ancestral and novel
+RT   mutations in keratin 12 (K12) and complete sequence of the human KRT12
+RT   gene.";
+RL   Exp. Eye Res. 70:41-49(2000).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   PROTEIN SEQUENCE OF 21-31.
+RC   TISSUE=Platelet;
+RX   PubMed=12665801; DOI=10.1038/nbt810;
+RA   Gevaert K., Goethals M., Martens L., Van Damme J., Staes A., Thomas G.R.,
+RA   Vandekerckhove J.;
+RT   "Exploring proteomes and analyzing protein processing by mass spectrometric
+RT   identification of sorted N-terminal peptides.";
+RL   Nat. Biotechnol. 21:566-569(2003).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [8]
+RP   FUNCTION, TISSUE SPECIFICITY, AND CHARACTERIZATION OF VARIANT MECD1
+RP   PRO-132.
+RX   PubMed=26758872; DOI=10.1093/hmg/ddw001;
+RA   Allen E.H., Courtney D.G., Atkinson S.D., Moore J.E., Mairs L.,
+RA   Poulsen E.T., Schiroli D., Maurizi E., Cole C., Hickerson R.P., James J.,
+RA   Murgatroyd H., Smith F.J., MacEwen C., Enghild J.J., Nesbit M.A.,
+RA   Leslie Pedrioli D.M., McLean W.H., Moore C.B.;
+RT   "Keratin 12 missense mutation induces the unfolded protein response and
+RT   apoptosis in Meesmann epithelial corneal dystrophy.";
+RL   Hum. Mol. Genet. 25:1176-1191(2016).
+RN   [9]
+RP   VARIANTS MECD1 THR-135 AND LEU-143.
+RX   PubMed=9171831; DOI=10.1038/ng0697-184;
+RA   Irvine A.D., Corden L.D., Swensson O., Swensson B., Moore J.E.,
+RA   Frazer D.G., Smith F.J.D., Knowlton R.G., Christophers E., Rochels R.,
+RA   Uitto J., McLean W.H.I.;
+RT   "Mutations in cornea-specific keratin K3 or K12 genes cause Meesmann's
+RT   corneal dystrophy.";
+RL   Nat. Genet. 16:184-187(1997).
+RN   [10]
+RP   VARIANT MECD1 VAL-426.
+RX   PubMed=10612503; DOI=10.1016/s0002-9394(99)00317-7;
+RA   Coleman C.M., Hannush S., Covello S.P., Smith F.J., Uitto J., McLean W.H.;
+RT   "A novel mutation in the helix termination motif of keratin K12 in a US
+RT   family with Meesmann corneal dystrophy.";
+RL   Am. J. Ophthalmol. 128:687-691(1999).
+RN   [11]
+RP   VARIANT MECD1 PRO-130.
+RX   PubMed=10781519; DOI=10.1136/bjo.84.5.527;
+RA   Corden L.D., Swensson O., Swensson B., Rochels R., Wannke B., Thiel H.J.,
+RA   McLean W.H.I.;
+RT   "A novel keratin 12 mutation in a German kindred with Meesmann's corneal
+RT   dystrophy.";
+RL   Br. J. Ophthalmol. 84:527-530(2000).
+RN   [12]
+RP   VARIANT MECD1 PRO-137.
+RX   PubMed=12543196; DOI=10.1016/s0021-5155(02)00563-4;
+RA   Takahashi K., Takahashi K., Murakami A., Okisaka S., Kimura T., Kanai A.;
+RT   "Heterozygous Ala137Pro mutation in keratin 12 gene found in Japanese with
+RT   Meesmann's corneal dystrophy.";
+RL   Jpn. J. Ophthalmol. 46:673-674(2002).
+RN   [13]
+RP   VARIANTS MECD1 SER-135 AND ILE-SER-ASN-LEU-GLU-ALA-GLN-LEU-LEU-399 INS.
+RX   PubMed=15148206; DOI=10.1136/bjo.2003.032870;
+RA   Yoon M.K., Warren J.F., Holsclaw D.S., Gritz D.C., Margolis T.P.;
+RT   "A novel arginine substitution mutation in 1A domain and a novel 27 bp
+RT   insertion mutation in 2B domain of keratin 12 gene associated with
+RT   Meesmann's corneal dystrophy.";
+RL   Br. J. Ophthalmol. 88:752-756(2004).
+RN   [14]
+RP   VARIANT MECD1 CYS-429.
+RX   PubMed=16227835; DOI=10.1097/01.ico.0000159732.29930.26;
+RA   Chen Y.T., Tseng S.H., Chao S.C.;
+RT   "Novel mutations in the helix termination motif of keratin 3 and keratin 12
+RT   in 2 Taiwanese families with Meesmann corneal dystrophy.";
+RL   Cornea 24:928-932(2005).
+RN   [15]
+RP   VARIANTS MECD1 THR-129 AND SER-426.
+RX   PubMed=16352477; DOI=10.1080/13816810500374391;
+RA   Nichini O., Manzi V., Munier F.L., Schorderet D.F.;
+RT   "Meesmann corneal dystrophy (MECD): report of 2 families and a novel
+RT   mutation in the cornea specific keratin 12 (KRT12) gene.";
+RL   Ophthalmic Genet. 26:169-173(2005).
+RN   [16]
+RP   VARIANT MECD1 PRO-430.
+RX   PubMed=17653038;
+RA   Sullivan L.S., Baylin E.B., Font R., Daiger S.P., Pepose J.S., Clinch T.E.,
+RA   Nakamura H., Zhao X.C., Yee R.W.;
+RT   "A novel mutation of the Keratin 12 gene responsible for a severe phenotype
+RT   of Meesmann's corneal dystrophy.";
+RL   Mol. Vis. 13:975-980(2007).
+RN   [17]
+RP   VARIANTS SER-15 AND TRP-20, AND VARIANT MECD1 LEU-143.
+RX   PubMed=18245975; DOI=10.1097/ico.0b013e31815652fd;
+RA   Nielsen K., Orntoft T., Hjortdal J., Rasmussen T., Ehlers N.;
+RT   "A novel mutation as the basis for asymptomatic meesmann dystrophy in a
+RT   Danish family.";
+RL   Cornea 27:100-102(2008).
+RN   [18]
+RP   VARIANT MECD1 ARG-433.
+RX   PubMed=18661274; DOI=10.1007/s10384-007-0518-2;
+RA   Seto T., Fujiki K., Kishishita H., Fujimaki T., Murakami A., Kanai A.;
+RT   "A novel mutation in the cornea-specific keratin 12 gene in Meesmann
+RT   corneal dystrophy.";
+RL   Jpn. J. Ophthalmol. 52:224-226(2008).
+RN   [19]
+RP   VARIANT SER-15, AND VARIANT MECD1 VAL-129.
+RX   PubMed=20577595;
+RA   Clausen I., Duncker G.I., Grunauer-Kloevekorn C.;
+RT   "Identification of a novel mutation in the cornea specific keratin 12 gene
+RT   causing Meesmann's corneal dystrophy in a German family.";
+RL   Mol. Vis. 16:954-960(2010).
+RN   [20]
+RP   VARIANT MECD1 PRO-132.
+RX   PubMed=23222558; DOI=10.1038/eye.2012.261;
+RA   Hassan H., Thaung C., Ebenezer N.D., Larkin G., Hardcastle A.J., Tuft S.J.;
+RT   "Severe Meesmann's epithelial corneal dystrophy phenotype due to a missense
+RT   mutation in the helix-initiation motif of keratin 12.";
+RL   Eye 27:367-373(2013).
+RN   [21]
+RP   VARIANT MECD1 GLN-140.
+RX   PubMed=24099278; DOI=10.1016/j.ajo.2013.08.008;
+RA   Ogasawara M., Matsumoto Y., Hayashi T., Ohno K., Yamada H., Kawakita T.,
+RA   Dogru M., Shimazaki J., Tsubota K., Tsuneoka H.;
+RT   "KRT12 mutations and in vivo confocal microscopy in two Japanese families
+RT   with Meesmann corneal dystrophy.";
+RL   Am. J. Ophthalmol. 157:93-102(2014).
+RN   [22]
+RP   VARIANTS MECD1 VAL-132 AND ASN-248.
+RX   PubMed=30535821; DOI=10.1007/s10384-018-00643-6;
+RA   Nishino T., Kobayashi A., Mori N., Masaki T., Yokogawa H., Fujiki K.,
+RA   Yanagawa A., Murakami A., Sugiyama K.;
+RT   "In vivo histology and p.L132V mutation in KRT12 gene in Japanese patients
+RT   with Meesmann corneal dystrophy.";
+RL   Jpn. J. Ophthalmol. 63:46-55(2019).
+CC   -!- FUNCTION: Involved in corneal epithelium organization, integrity and
+CC       corneal keratin expression. {ECO:0000269|PubMed:26758872}.
+CC   -!- SUBUNIT: Heterotetramer of two type I and two type II keratins.
+CC       Keratin-3 associates with keratin-12.
+CC   -!- TISSUE SPECIFICITY: Expressed in the corneal epithelium (at protein
+CC       level). {ECO:0000269|PubMed:26758872, ECO:0000269|PubMed:8759347}.
+CC   -!- DISEASE: Corneal dystrophy, Meesmann 1 (MECD1) [MIM:122100]: A form of
+CC       Meesmann corneal dystrophy, a corneal disease characterized by
+CC       fragility of the anterior corneal epithelium. Histological examination
+CC       shows a disorganized and thickened epithelium with widespread
+CC       cytoplasmic vacuolation and numerous small, round, debris-laden
+CC       intraepithelial cysts. Patients are usually asymptomatic until
+CC       adulthood when rupture of the corneal microcysts may cause erosions,
+CC       producing clinical symptoms such as photophobia, contact lens
+CC       intolerance and intermittent diminution of visual acuity. Rarely,
+CC       subepithelial scarring causes irregular corneal astigmatism and
+CC       permanent visual impairment. MECD1 inheritance is autosomal dominant.
+CC       {ECO:0000269|PubMed:10612503, ECO:0000269|PubMed:10644419,
+CC       ECO:0000269|PubMed:10781519, ECO:0000269|PubMed:12543196,
+CC       ECO:0000269|PubMed:15148206, ECO:0000269|PubMed:16227835,
+CC       ECO:0000269|PubMed:16352477, ECO:0000269|PubMed:17653038,
+CC       ECO:0000269|PubMed:18245975, ECO:0000269|PubMed:18661274,
+CC       ECO:0000269|PubMed:20577595, ECO:0000269|PubMed:23222558,
+CC       ECO:0000269|PubMed:24099278, ECO:0000269|PubMed:26758872,
+CC       ECO:0000269|PubMed:30535821, ECO:0000269|PubMed:9171831,
+CC       ECO:0000269|PubMed:9399908}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: There are two types of cytoskeletal and microfibrillar
+CC       keratin: I (acidic; 40-55 kDa) and II (neutral to basic; 56-70 kDa).
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   -!- WEB RESOURCE: Name=Human Intermediate Filament Mutation Database;
+CC       URL="http://www.interfil.org";
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Keratin-12 entry;
+CC       URL="https://en.wikipedia.org/wiki/Keratin_12";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D78367; BAA11376.1; -; mRNA.
+DR   EMBL; AB007119; BAA25063.1; -; Genomic_DNA.
+DR   EMBL; AF137286; AAF61432.1; -; Genomic_DNA.
+DR   EMBL; AK313747; BAG36487.1; -; mRNA.
+DR   EMBL; CH471152; EAW60685.1; -; Genomic_DNA.
+DR   CCDS; CCDS11378.1; -.
+DR   RefSeq; NP_000214.1; NM_000223.3.
+DR   AlphaFoldDB; Q99456; -.
+DR   SMR; Q99456; -.
+DR   BioGRID; 110057; 5.
+DR   STRING; 9606.ENSP00000251643; -.
+DR   DrugBank; DB11157; Anthralin.
+DR   DrugBank; DB00400; Griseofulvin.
+DR   GlyGen; Q99456; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q99456; -.
+DR   PhosphoSitePlus; Q99456; -.
+DR   SwissPalm; Q99456; -.
+DR   BioMuta; KRT12; -.
+DR   DMDM; 2497269; -.
+DR   jPOST; Q99456; -.
+DR   MassIVE; Q99456; -.
+DR   PaxDb; Q99456; -.
+DR   PeptideAtlas; Q99456; -.
+DR   PRIDE; Q99456; -.
+DR   ProteomicsDB; 78275; -.
+DR   Antibodypedia; 55294; 266 antibodies from 33 providers.
+DR   DNASU; 3859; -.
+DR   Ensembl; ENST00000251643.5; ENSP00000251643.4; ENSG00000187242.6.
+DR   Ensembl; ENST00000572470.2; ENSP00000459559.2; ENSG00000263243.2.
+DR   GeneID; 3859; -.
+DR   KEGG; hsa:3859; -.
+DR   MANE-Select; ENST00000251643.5; ENSP00000251643.4; NM_000223.4; NP_000214.1.
+DR   UCSC; uc002hvk.3; human.
+DR   AGR; HGNC:6414; -.
+DR   CTD; 3859; -.
+DR   DisGeNET; 3859; -.
+DR   GeneCards; KRT12; -.
+DR   HGNC; HGNC:6414; KRT12.
+DR   HPA; ENSG00000187242; Tissue enhanced (intestine).
+DR   MalaCards; KRT12; -.
+DR   MIM; 122100; phenotype.
+DR   MIM; 601687; gene.
+DR   neXtProt; NX_Q99456; -.
+DR   OpenTargets; ENSG00000187242; -.
+DR   Orphanet; 98954; Meesmann corneal dystrophy.
+DR   PharmGKB; PA30201; -.
+DR   VEuPathDB; HostDB:ENSG00000187242; -.
+DR   eggNOG; ENOG502QTM6; Eukaryota.
+DR   GeneTree; ENSGT00940000159382; -.
+DR   HOGENOM; CLU_012560_8_3_1; -.
+DR   InParanoid; Q99456; -.
+DR   OMA; EHQNADH; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; Q99456; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; Q99456; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   BioGRID-ORCS; 3859; 12 hits in 1153 CRISPR screens.
+DR   ChiTaRS; KRT12; human.
+DR   GeneWiki; Keratin_12; -.
+DR   GenomeRNAi; 3859; -.
+DR   Pharos; Q99456; Tbio.
+DR   PRO; PR:Q99456; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q99456; protein.
+DR   Bgee; ENSG00000187242; Expressed in mucosa of transverse colon and 57 other tissues.
+DR   ExpressionAtlas; Q99456; baseline and differential.
+DR   Genevisible; Q99456; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005882; C:intermediate filament; IEA:UniProtKB-KW.
+DR   GO; GO:0005198; F:structural molecule activity; NAS:ProtInc.
+DR   GO; GO:0061303; P:cornea development in camera-type eye; IMP:UniProtKB.
+DR   GO; GO:0030855; P:epithelial cell differentiation; IBA:GO_Central.
+DR   GO; GO:0045109; P:intermediate filament organization; IBA:GO_Central.
+DR   GO; GO:0002009; P:morphogenesis of an epithelium; IMP:UniProtKB.
+DR   GO; GO:0007601; P:visual perception; TAS:ProtInc.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR018039; IF_conserved.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF369; KERATIN, TYPE I CYTOSKELETAL 12; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   PROSITE; PS00226; IF_ROD_1; 1.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil; Corneal dystrophy; Direct protein sequencing; Disease variant;
+KW   Intermediate filament; Keratin; Reference proteome.
+FT   CHAIN           1..494
+FT                   /note="Keratin, type I cytoskeletal 12"
+FT                   /id="PRO_0000063644"
+FT   DOMAIN          125..440
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          1..124
+FT                   /note="Head"
+FT   REGION          1..32
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          125..160
+FT                   /note="Coil 1A"
+FT   REGION          164..182
+FT                   /note="Linker 1"
+FT   REGION          183..274
+FT                   /note="Coil 1B"
+FT   REGION          275..297
+FT                   /note="Linker 12"
+FT   REGION          298..435
+FT                   /note="Coil 2"
+FT   REGION          436..494
+FT                   /note="Tail"
+FT   REGION          446..468
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1..31
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        447..461
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VARIANT         15
+FT                   /note="P -> S (in dbSNP:rs11650915)"
+FT                   /evidence="ECO:0000269|PubMed:18245975,
+FT                   ECO:0000269|PubMed:20577595"
+FT                   /id="VAR_049783"
+FT   VARIANT         20
+FT                   /note="R -> W (in dbSNP:rs17566772)"
+FT                   /evidence="ECO:0000269|PubMed:10644419,
+FT                   ECO:0000269|PubMed:18245975"
+FT                   /id="VAR_009547"
+FT   VARIANT         129
+FT                   /note="M -> T (in MECD1; dbSNP:rs28936695)"
+FT                   /evidence="ECO:0000269|PubMed:10644419,
+FT                   ECO:0000269|PubMed:16352477"
+FT                   /id="VAR_013126"
+FT   VARIANT         129
+FT                   /note="M -> V (in MECD1; dbSNP:rs267607387)"
+FT                   /evidence="ECO:0000269|PubMed:20577595"
+FT                   /id="VAR_072069"
+FT   VARIANT         130
+FT                   /note="Q -> P (in MECD1; dbSNP:rs58864803)"
+FT                   /evidence="ECO:0000269|PubMed:10781519"
+FT                   /id="VAR_013127"
+FT   VARIANT         132
+FT                   /note="L -> P (in MECD1; increased expression of keratins
+FT                   KRT5, KRT6, KRT14 and KRT16 and decreased expression of
+FT                   KRT12 in the corneal epithelium; increased expression of
+FT                   DDIT3/CHOP and CASP12 in the corneal epithelium indicative
+FT                   of up-regulation of the unfolded protein response.;
+FT                   dbSNP:rs886038212)"
+FT                   /evidence="ECO:0000269|PubMed:23222558,
+FT                   ECO:0000269|PubMed:26758872"
+FT                   /id="VAR_072070"
+FT   VARIANT         132
+FT                   /note="L -> V (in MECD1)"
+FT                   /evidence="ECO:0000269|PubMed:30535821"
+FT                   /id="VAR_083313"
+FT   VARIANT         135
+FT                   /note="R -> G (in MECD1; dbSNP:rs58410481)"
+FT                   /evidence="ECO:0000269|PubMed:9399908"
+FT                   /id="VAR_008526"
+FT   VARIANT         135
+FT                   /note="R -> I (in MECD1; dbSNP:rs57218384)"
+FT                   /evidence="ECO:0000269|PubMed:9399908"
+FT                   /id="VAR_008525"
+FT   VARIANT         135
+FT                   /note="R -> S (in MECD1; dbSNP:rs61282718)"
+FT                   /evidence="ECO:0000269|PubMed:15148206"
+FT                   /id="VAR_031394"
+FT   VARIANT         135
+FT                   /note="R -> T (in MECD1; dbSNP:rs57218384)"
+FT                   /evidence="ECO:0000269|PubMed:10644419,
+FT                   ECO:0000269|PubMed:9171831"
+FT                   /id="VAR_003834"
+FT   VARIANT         137
+FT                   /note="A -> P (in MECD1; dbSNP:rs58038639)"
+FT                   /evidence="ECO:0000269|PubMed:12543196"
+FT                   /id="VAR_031395"
+FT   VARIANT         140
+FT                   /note="L -> Q (in MECD1)"
+FT                   /evidence="ECO:0000269|PubMed:24099278"
+FT                   /id="VAR_072071"
+FT   VARIANT         140
+FT                   /note="L -> R (in MECD1; dbSNP:rs58918655)"
+FT                   /evidence="ECO:0000269|PubMed:9399908"
+FT                   /id="VAR_008527"
+FT   VARIANT         143
+FT                   /note="V -> L (in MECD1; dbSNP:rs58343600)"
+FT                   /evidence="ECO:0000269|PubMed:18245975,
+FT                   ECO:0000269|PubMed:9171831"
+FT                   /id="VAR_003835"
+FT   VARIANT         248
+FT                   /note="D -> N (in MECD1; unknown pathological significance;
+FT                   dbSNP:rs150674571)"
+FT                   /evidence="ECO:0000269|PubMed:30535821"
+FT                   /id="VAR_083314"
+FT   VARIANT         399
+FT                   /note="L -> LISNLEAQLL (in MECD1)"
+FT                   /id="VAR_031396"
+FT   VARIANT         426
+FT                   /note="I -> S (in MECD1; dbSNP:rs59350319)"
+FT                   /evidence="ECO:0000269|PubMed:16352477"
+FT                   /id="VAR_031397"
+FT   VARIANT         426
+FT                   /note="I -> V (in MECD1; unknown pathological significance;
+FT                   dbSNP:rs59465138)"
+FT                   /evidence="ECO:0000269|PubMed:10612503"
+FT                   /id="VAR_083315"
+FT   VARIANT         429
+FT                   /note="Y -> C (in MECD1; dbSNP:rs59202432)"
+FT                   /evidence="ECO:0000269|PubMed:16227835"
+FT                   /id="VAR_031398"
+FT   VARIANT         429
+FT                   /note="Y -> D (in MECD1; dbSNP:rs58162394)"
+FT                   /evidence="ECO:0000269|PubMed:9399908"
+FT                   /id="VAR_008528"
+FT   VARIANT         430
+FT                   /note="R -> P (in MECD1; dbSNP:rs62635290)"
+FT                   /evidence="ECO:0000269|PubMed:17653038"
+FT                   /id="VAR_072072"
+FT   VARIANT         433
+FT                   /note="L -> R (in MECD1; dbSNP:rs267607386)"
+FT                   /evidence="ECO:0000269|PubMed:18661274"
+FT                   /id="VAR_072073"
+SQ   SEQUENCE   494 AA;  53511 MW;  75C981380532B682 CRC64;
+     MDLSNNTMSL SVRTPGLSRR LSSQSVIGRP RGMSASSVGS GYGGSAFGFG ASCGGGFSAA
+     SMFGSSSGFG GGSGSSMAGG LGAGYGRALG GGSFGGLGMG FGGSPGGGSL GILSGNDGGL
+     LSGSEKETMQ NLNDRLASYL DKVRALEEAN TELENKIREW YETRGTGTAD ASQSDYSKYY
+     PLIEDLRNKI ISASIGNAQL LLQIDNARLA AEDFRMKYEN ELALRQGVEA DINGLRRVLD
+     ELTLTRTDLE MQIESLNEEL AYMKKNHEDE LQSFRVGGPG EVSVEMDAAP GVDLTRLLND
+     MRAQYETIAE QNRKDAEAWF IEKSGELRKE ISTNTEQLQS SKSEVTDLRR AFQNLEIELQ
+     SQLAMKKSLE DSLAEAEGDY CAQLSQVQQL ISNLEAQLLQ VRADAERQNV DHQRLLNVKA
+     RLELEIETYR RLLDGEAQGD GLEESLFVTD SKSQAQSTDS SKDPTKTRKI KTVVQEMVNG
+     EVVSSQVQEI EELM
+//

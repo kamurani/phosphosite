@@ -1,0 +1,695 @@
+ID   TE2IP_HUMAN             Reviewed;         399 AA.
+AC   Q9NYB0; B4DQN4; Q4W4Y2; Q8WYZ3; Q9NWR2;
+DT   20-JUN-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   28-JUN-2023, entry version 207.
+DE   RecName: Full=Telomeric repeat-binding factor 2-interacting protein 1;
+DE            Short=TERF2-interacting telomeric protein 1;
+DE            Short=TRF2-interacting telomeric protein 1;
+DE   AltName: Full=Dopamine receptor-interacting protein 5;
+DE   AltName: Full=Repressor/activator protein 1 homolog;
+DE            Short=RAP1 homolog;
+DE            Short=hRap1;
+GN   Name=TERF2IP; Synonyms=DRIP5, RAP1; ORFNames=PP8000;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=10850490; DOI=10.1016/s0092-8674(00)80858-2;
+RA   Li B., Oestreich S., de Lange T.;
+RT   "Identification of human RAP1: implications for telomere evolution.";
+RL   Cell 101:471-483(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Lafuente M.J., Nasir J.;
+RT   "Cloning and characterization of DRIP5, a new protein that specifically
+RT   interacts with the D1 dopamine receptor.";
+RL   Submitted (MAR-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15498874; DOI=10.1073/pnas.0404089101;
+RA   Wan D., Gong Y., Qin W., Zhang P., Li J., Wei L., Zhou X., Li H., Qiu X.,
+RA   Zhong F., He L., Yu J., Yao G., Jiang H., Qian L., Yu Y., Shu H., Chen X.,
+RA   Xu H., Guo M., Pan Z., Chen Y., Ge C., Yang S., Gu J.;
+RT   "Large-scale cDNA transfection screening for genes related to cancer
+RT   development and progression.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:15724-15729(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Ileal mucosa, and Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15616553; DOI=10.1038/nature03187;
+RA   Martin J., Han C., Gordon L.A., Terry A., Prabhakar S., She X., Xie G.,
+RA   Hellsten U., Chan Y.M., Altherr M., Couronne O., Aerts A., Bajorek E.,
+RA   Black S., Blumer H., Branscomb E., Brown N.C., Bruno W.J., Buckingham J.M.,
+RA   Callen D.F., Campbell C.S., Campbell M.L., Campbell E.W., Caoile C.,
+RA   Challacombe J.F., Chasteen L.A., Chertkov O., Chi H.C., Christensen M.,
+RA   Clark L.M., Cohn J.D., Denys M., Detter J.C., Dickson M.,
+RA   Dimitrijevic-Bussod M., Escobar J., Fawcett J.J., Flowers D., Fotopulos D.,
+RA   Glavina T., Gomez M., Gonzales E., Goodstein D., Goodwin L.A., Grady D.L.,
+RA   Grigoriev I., Groza M., Hammon N., Hawkins T., Haydu L., Hildebrand C.E.,
+RA   Huang W., Israni S., Jett J., Jewett P.B., Kadner K., Kimball H.,
+RA   Kobayashi A., Krawczyk M.-C., Leyba T., Longmire J.L., Lopez F., Lou Y.,
+RA   Lowry S., Ludeman T., Manohar C.F., Mark G.A., McMurray K.L., Meincke L.J.,
+RA   Morgan J., Moyzis R.K., Mundt M.O., Munk A.C., Nandkeshwar R.D.,
+RA   Pitluck S., Pollard M., Predki P., Parson-Quintana B., Ramirez L., Rash S.,
+RA   Retterer J., Ricke D.O., Robinson D.L., Rodriguez A., Salamov A.,
+RA   Saunders E.H., Scott D., Shough T., Stallings R.L., Stalvey M.,
+RA   Sutherland R.D., Tapia R., Tesmer J.G., Thayer N., Thompson L.S., Tice H.,
+RA   Torney D.C., Tran-Gyamfi M., Tsai M., Ulanovsky L.E., Ustaszewska A.,
+RA   Vo N., White P.S., Williams A.L., Wills P.L., Wu J.-R., Wu K., Yang J.,
+RA   DeJong P., Bruce D., Doggett N.A., Deaven L., Schmutz J., Grimwood J.,
+RA   Richardson P., Rokhsar D.S., Eichler E.E., Gilna P., Lucas S.M.,
+RA   Myers R.M., Rubin E.M., Pennacchio L.A.;
+RT   "The sequence and analysis of duplication-rich human chromosome 16.";
+RL   Nature 432:988-994(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Colon, Lung, and Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   BIDIRECTIONAL PROMOTER WITH KARS1.
+RX   PubMed=14659874; DOI=10.1016/j.gene.2003.08.026;
+RA   Tan M., Wei C., Price C.M.;
+RT   "The telomeric protein Rap1 is conserved in vertebrates and is expressed
+RT   from a bidirectional promoter positioned between the Rap1 and KARS genes.";
+RL   Gene 323:1-10(2003).
+RN   [9]
+RP   IDENTIFICATION IN THE SHELTERIN COMPLEX.
+RX   PubMed=15316005; DOI=10.1074/jbc.m409047200;
+RA   Ye J.Z.-S., Donigian J.R., van Overbeek M., Loayza D., Luo Y.,
+RA   Krutchinsky A.N., Chait B.T., de Lange T.;
+RT   "TIN2 binds TRF1 and TRF2 simultaneously and stabilizes the TRF2 complex on
+RT   telomeres.";
+RL   J. Biol. Chem. 279:47264-47271(2004).
+RN   [10]
+RP   IDENTIFICATION IN THE SHELTERIN COMPLEX.
+RX   PubMed=15383534; DOI=10.1074/jbc.m409293200;
+RA   Liu D., O'Connor M.S., Qin J., Songyang Z.;
+RT   "Telosome, a mammalian telomere-associated complex formed by multiple
+RT   telomeric proteins.";
+RL   J. Biol. Chem. 279:51338-51342(2004).
+RN   [11]
+RP   FUNCTION OF THE SHELTERIN COMPLEX.
+RX   PubMed=16166375; DOI=10.1101/gad.1346005;
+RA   de Lange T.;
+RT   "Shelterin: the protein complex that shapes and safeguards human
+RT   telomeres.";
+RL   Genes Dev. 19:2100-2110(2005).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-156 AND SER-203, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=16964243; DOI=10.1038/nbt1240;
+RA   Beausoleil S.A., Villen J., Gerber S.A., Rush J., Gygi S.P.;
+RT   "A probability-based approach for high-throughput protein phosphorylation
+RT   analysis and site localization.";
+RL   Nat. Biotechnol. 24:1285-1292(2006).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-36; SER-154 AND SER-203, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [15]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [16]
+RP   INTERACTION WITH SLX4.
+RX   PubMed=19596235; DOI=10.1016/j.cell.2009.06.030;
+RA   Svendsen J.M., Smogorzewska A., Sowa M.E., O'Connell B.C., Gygi S.P.,
+RA   Elledge S.J., Harper J.W.;
+RT   "Mammalian BTBD12/SLX4 assembles a Holliday junction resolvase and is
+RT   required for DNA repair.";
+RL   Cell 138:63-77(2009).
+RN   [17]
+RP   FUNCTION.
+RX   PubMed=19763083; DOI=10.1038/emboj.2009.275;
+RA   Sarthy J., Bae N.S., Scrafford J., Baumann P.;
+RT   "Human RAP1 inhibits non-homologous end joining at telomeres.";
+RL   EMBO J. 28:3390-3399(2009).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-154 AND SER-203, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-36; SER-154 AND SER-203, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [20]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-203, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [22]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-36; SER-43; SER-154; SER-203
+RP   AND SER-206, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-203, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [24]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-240, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [25]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-114; LYS-212 AND LYS-240, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to replication
+RT   stress reveals novel small ubiquitin-like modified target proteins and
+RT   acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [26]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-114; LYS-194; LYS-208; LYS-212;
+RP   LYS-240 AND LYS-372, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [27]
+RP   STRUCTURE BY NMR OF 132-190.
+RX   PubMed=11545594; DOI=10.1006/jmbi.2001.4924;
+RA   Hanaoka S., Nagadoi A., Yoshimura S., Aimoto S., Li B., de Lange T.,
+RA   Nishimura Y.;
+RT   "NMR structure of the hRap1 Myb motif reveals a canonical three-helix
+RT   bundle lacking the positive surface charge typical of Myb DNA-binding
+RT   domains.";
+RL   J. Mol. Biol. 312:167-175(2001).
+CC   -!- FUNCTION: Acts both as a regulator of telomere function and as a
+CC       transcription regulator. Involved in the regulation of telomere length
+CC       and protection as a component of the shelterin complex (telosome). In
+CC       contrast to other components of the shelterin complex, it is
+CC       dispensible for telomere capping and does not participate in the
+CC       protection of telomeres against non-homologous end-joining (NHEJ)-
+CC       mediated repair. Instead, it is required to negatively regulate
+CC       telomere recombination and is essential for repressing homology-
+CC       directed repair (HDR), which can affect telomere length. Does not bind
+CC       DNA directly: recruited to telomeric double-stranded 5'-TTAGGG-3'
+CC       repeats via its interaction with TERF2. Independently of its function
+CC       in telomeres, also acts as a transcription regulator: recruited to
+CC       extratelomeric 5'-TTAGGG-3' sites via its association with TERF2 or
+CC       other factors, and regulates gene expression. When cytoplasmic,
+CC       associates with the I-kappa-B-kinase (IKK) complex and acts as a
+CC       regulator of the NF-kappa-B signaling by promoting IKK-mediated
+CC       phosphorylation of RELA/p65, leading to activate expression of NF-
+CC       kappa-B target genes. {ECO:0000269|PubMed:16166375,
+CC       ECO:0000269|PubMed:19763083}.
+CC   -!- SUBUNIT: Associates with the I-kappa-B-kinase (IKK) core complex,
+CC       composed of CHUK, IKBKB and IKBKG (By similarity). Homodimer. Component
+CC       of the shelterin complex (telosome) composed of TERF1, TERF2, TINF2,
+CC       TERF2IP ACD and POT1. Interacts with TERF2; the interaction is direct.
+CC       Does not interact with TERF1. Interacts with SLX4/BTBD12. {ECO:0000250,
+CC       ECO:0000269|PubMed:15316005, ECO:0000269|PubMed:15383534,
+CC       ECO:0000269|PubMed:19596235}.
+CC   -!- INTERACTION:
+CC       Q9NYB0; Q13155: AIMP2; NbExp=2; IntAct=EBI-750109, EBI-745226;
+CC       Q9NYB0; P14550: AKR1A1; NbExp=2; IntAct=EBI-750109, EBI-372388;
+CC       Q9NYB0; O60218: AKR1B10; NbExp=2; IntAct=EBI-750109, EBI-1572139;
+CC       Q9NYB0; O95154: AKR7A3; NbExp=2; IntAct=EBI-750109, EBI-748869;
+CC       Q9NYB0; P31749: AKT1; NbExp=2; IntAct=EBI-750109, EBI-296087;
+CC       Q9NYB0; Q9NWV8: BABAM1; NbExp=2; IntAct=EBI-750109, EBI-745725;
+CC       Q9NYB0; Q9BQE9: BCL7B; NbExp=2; IntAct=EBI-750109, EBI-2560588;
+CC       Q9NYB0; Q8IYL3: C1orf174; NbExp=2; IntAct=EBI-750109, EBI-715898;
+CC       Q9NYB0; Q9NZ63: C9orf78; NbExp=2; IntAct=EBI-750109, EBI-2557577;
+CC       Q9NYB0; P27482: CALML3; NbExp=2; IntAct=EBI-750109, EBI-747537;
+CC       Q9NYB0; Q9UQN3: CHMP2B; NbExp=2; IntAct=EBI-750109, EBI-718324;
+CC       Q9NYB0; Q14019: COTL1; NbExp=2; IntAct=EBI-750109, EBI-79926;
+CC       Q9NYB0; Q96FN4: CPNE2; NbExp=2; IntAct=EBI-750109, EBI-7097057;
+CC       Q9NYB0; P46108: CRK; NbExp=2; IntAct=EBI-750109, EBI-886;
+CC       Q9NYB0; Q13363: CTBP1; NbExp=2; IntAct=EBI-750109, EBI-908846;
+CC       Q9NYB0; Q92620: DHX38; NbExp=2; IntAct=EBI-750109, EBI-1043041;
+CC       Q9NYB0; Q8N8S7: ENAH; NbExp=2; IntAct=EBI-750109, EBI-2834410;
+CC       Q9NYB0; Q8TE68: EPS8L1; NbExp=2; IntAct=EBI-750109, EBI-7487998;
+CC       Q9NYB0; P12104: FABP2; NbExp=2; IntAct=EBI-750109, EBI-3905109;
+CC       Q9NYB0; Q13069: GAGE5; NbExp=2; IntAct=EBI-750109, EBI-745702;
+CC       Q9NYB0; Q92917: GPKOW; NbExp=2; IntAct=EBI-750109, EBI-746309;
+CC       Q9NYB0; Q16775: HAGH; NbExp=2; IntAct=EBI-750109, EBI-3905342;
+CC       Q9NYB0; O15347: HMGB3; NbExp=2; IntAct=EBI-750109, EBI-2214136;
+CC       Q9NYB0; O00479: HMGN4; NbExp=2; IntAct=EBI-750109, EBI-2867693;
+CC       Q9NYB0; P61978: HNRNPK; NbExp=2; IntAct=EBI-750109, EBI-304185;
+CC       Q9NYB0; P18510: IL1RN; NbExp=2; IntAct=EBI-750109, EBI-1026330;
+CC       Q9NYB0; Q9NS86: LANCL2; NbExp=2; IntAct=EBI-750109, EBI-2510837;
+CC       Q9NYB0; Q96A72: MAGOHB; NbExp=2; IntAct=EBI-750109, EBI-746778;
+CC       Q9NYB0; P49736: MCM2; NbExp=2; IntAct=EBI-750109, EBI-374819;
+CC       Q9NYB0; Q9UKD2: MRTO4; NbExp=2; IntAct=EBI-750109, EBI-1046493;
+CC       Q9NYB0; P80297: MT1X; NbExp=2; IntAct=EBI-750109, EBI-11308402;
+CC       Q9NYB0; P25713: MT3; NbExp=2; IntAct=EBI-750109, EBI-8084264;
+CC       Q9NYB0; P49321: NASP; NbExp=2; IntAct=EBI-750109, EBI-716205;
+CC       Q9NYB0; O95848: NUDT14; NbExp=2; IntAct=EBI-750109, EBI-536866;
+CC       Q9NYB0; Q6ZVK8: NUDT18; NbExp=2; IntAct=EBI-750109, EBI-740486;
+CC       Q9NYB0; Q14980: NUMA1; NbExp=2; IntAct=EBI-750109, EBI-521611;
+CC       Q9NYB0; Q9NZT2: OGFR; NbExp=2; IntAct=EBI-750109, EBI-1044212;
+CC       Q9NYB0; Q96E09: PABIR1; NbExp=2; IntAct=EBI-750109, EBI-9355758;
+CC       Q9NYB0; Q8WW12: PCNP; NbExp=2; IntAct=EBI-750109, EBI-10972020;
+CC       Q9NYB0; P48539: PCP4; NbExp=2; IntAct=EBI-750109, EBI-4287270;
+CC       Q9NYB0; Q15121: PEA15; NbExp=2; IntAct=EBI-750109, EBI-714410;
+CC       Q9NYB0; O95336: PGLS; NbExp=2; IntAct=EBI-750109, EBI-11307753;
+CC       Q9NYB0; P28340: POLD1; NbExp=2; IntAct=EBI-750109, EBI-716569;
+CC       Q9NYB0; Q5H9R7: PPP6R3; NbExp=2; IntAct=EBI-750109, EBI-355498;
+CC       Q9NYB0; Q9BXM0: PRX; NbExp=2; IntAct=EBI-750109, EBI-1753064;
+CC       Q9NYB0; P06454: PTMA; NbExp=2; IntAct=EBI-750109, EBI-2682091;
+CC       Q9NYB0; P47224: RABIF; NbExp=2; IntAct=EBI-750109, EBI-713992;
+CC       Q9NYB0; O75884: RBBP9; NbExp=2; IntAct=EBI-750109, EBI-11310604;
+CC       Q9NYB0; Q96B86: RGMA; NbExp=2; IntAct=EBI-750109, EBI-722102;
+CC       Q9NYB0; Q9BUL9: RPP25; NbExp=2; IntAct=EBI-750109, EBI-366570;
+CC       Q9NYB0; P25815: S100P; NbExp=2; IntAct=EBI-750109, EBI-743700;
+CC       Q9NYB0; Q96I15: SCLY; NbExp=2; IntAct=EBI-750109, EBI-2823066;
+CC       Q9NYB0; Q8IY92: SLX4; NbExp=4; IntAct=EBI-750109, EBI-2370740;
+CC       Q9NYB0; Q8TAQ2: SMARCC2; NbExp=2; IntAct=EBI-750109, EBI-357418;
+CC       Q9NYB0; P37837: TALDO1; NbExp=2; IntAct=EBI-750109, EBI-1056712;
+CC       Q9NYB0; O75347: TBCA; NbExp=2; IntAct=EBI-750109, EBI-2686341;
+CC       Q9NYB0; Q15554: TERF2; NbExp=36; IntAct=EBI-750109, EBI-706637;
+CC       Q9NYB0; Q9BSI4-3: TINF2; NbExp=3; IntAct=EBI-750109, EBI-717418;
+CC       Q9NYB0; O14604: TMSB4Y; NbExp=2; IntAct=EBI-750109, EBI-751196;
+CC       Q9NYB0; Q5JTV8: TOR1AIP1; NbExp=2; IntAct=EBI-750109, EBI-2559665;
+CC       Q9NYB0; Q9Y5U2: TSSC4; NbExp=2; IntAct=EBI-750109, EBI-717229;
+CC       Q9NYB0; Q6IBS0: TWF2; NbExp=2; IntAct=EBI-750109, EBI-722204;
+CC       Q9NYB0; P09936: UCHL1; NbExp=2; IntAct=EBI-750109, EBI-714860;
+CC       Q9NYB0; Q14135: VGLL4; NbExp=2; IntAct=EBI-750109, EBI-5278589;
+CC       Q9NYB0; P61964: WDR5; NbExp=2; IntAct=EBI-750109, EBI-540834;
+CC       Q9NYB0; Q96GT9: XAGE2; NbExp=2; IntAct=EBI-750109, EBI-750167;
+CC       Q9NYB0; P12956: XRCC6; NbExp=3; IntAct=EBI-750109, EBI-353208;
+CC       Q9NYB0; Q96IQ9: ZNF414; NbExp=2; IntAct=EBI-750109, EBI-744257;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250|UniProtKB:Q91VL8}. Cytoplasm
+CC       {ECO:0000250|UniProtKB:Q91VL8}. Chromosome
+CC       {ECO:0000250|UniProtKB:Q91VL8}. Chromosome, telomere
+CC       {ECO:0000250|UniProtKB:Q91VL8}. Note=Associates with chromosomes, both
+CC       at telomeres and in extratelomeric sites. Also exists as a cytoplasmic
+CC       form, where it associates with the IKK complex.
+CC       {ECO:0000250|UniProtKB:Q91VL8}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. Highly expressed.
+CC   -!- MISCELLANEOUS: Shares a bidirectional promoter with KARS1.
+CC       {ECO:0000305|PubMed:14659874}.
+CC   -!- SIMILARITY: Belongs to the RAP1 family. {ECO:0000305}.
+CC   -!- CAUTION: Was reported to participate in the protection of telomeres
+CC       against non-homologous end-joining (NHEJ)-mediated repair in the
+CC       absence of TERF2 (PubMed:19763083). However, this probably does not
+CC       corresponds to its primary function and experiments in mouse showed
+CC       that it is dispensible for such process and is required for repression
+CC       of homology-directed repair (HDR). {ECO:0000305|PubMed:19763083}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAL55783.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=BAA91317.1; Type=Erroneous termination; Note=Truncated C-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAG60996.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF262988; AAF72711.1; -; mRNA.
+DR   EMBL; AF250393; AAQ14259.1; -; mRNA.
+DR   EMBL; AF289599; AAL55783.1; ALT_FRAME; mRNA.
+DR   EMBL; AK000669; BAA91317.1; ALT_SEQ; mRNA.
+DR   EMBL; AK298880; BAG60996.1; ALT_INIT; mRNA.
+DR   EMBL; AC025287; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471114; EAW95616.1; -; Genomic_DNA.
+DR   EMBL; CH471114; EAW95618.1; -; Genomic_DNA.
+DR   EMBL; BC004465; AAH04465.1; -; mRNA.
+DR   EMBL; BC005841; AAH05841.1; -; mRNA.
+DR   EMBL; BC022428; AAH22428.1; -; mRNA.
+DR   EMBL; BC078171; AAH78171.1; -; mRNA.
+DR   CCDS; CCDS32491.1; -.
+DR   RefSeq; NP_061848.2; NM_018975.3.
+DR   PDB; 1FEX; NMR; -; A=132-190.
+DR   PDB; 3K6G; X-ray; 1.95 A; A/B/C=303-399.
+DR   PDB; 4RQI; X-ray; 2.44 A; E/F/G/H=89-106.
+DR   PDB; 7OZ0; NMR; -; A=1-114.
+DR   PDBsum; 1FEX; -.
+DR   PDBsum; 3K6G; -.
+DR   PDBsum; 4RQI; -.
+DR   PDBsum; 7OZ0; -.
+DR   AlphaFoldDB; Q9NYB0; -.
+DR   BMRB; Q9NYB0; -.
+DR   SMR; Q9NYB0; -.
+DR   BioGRID; 119942; 614.
+DR   ComplexPortal; CPX-152; Shelterin complex.
+DR   CORUM; Q9NYB0; -.
+DR   DIP; DIP-34868N; -.
+DR   IntAct; Q9NYB0; 161.
+DR   MINT; Q9NYB0; -.
+DR   STRING; 9606.ENSP00000300086; -.
+DR   BindingDB; Q9NYB0; -.
+DR   ChEMBL; CHEMBL3751647; -.
+DR   GlyCosmos; Q9NYB0; 1 site, 1 glycan.
+DR   GlyGen; Q9NYB0; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q9NYB0; -.
+DR   PhosphoSitePlus; Q9NYB0; -.
+DR   BioMuta; TERF2IP; -.
+DR   DMDM; 21542267; -.
+DR   EPD; Q9NYB0; -.
+DR   jPOST; Q9NYB0; -.
+DR   MassIVE; Q9NYB0; -.
+DR   MaxQB; Q9NYB0; -.
+DR   PaxDb; Q9NYB0; -.
+DR   PeptideAtlas; Q9NYB0; -.
+DR   ProteomicsDB; 83206; -.
+DR   Antibodypedia; 1877; 566 antibodies from 42 providers.
+DR   DNASU; 54386; -.
+DR   Ensembl; ENST00000300086.5; ENSP00000300086.4; ENSG00000166848.7.
+DR   GeneID; 54386; -.
+DR   KEGG; hsa:54386; -.
+DR   MANE-Select; ENST00000300086.5; ENSP00000300086.4; NM_018975.4; NP_061848.2.
+DR   UCSC; uc002fet.3; human.
+DR   AGR; HGNC:19246; -.
+DR   CTD; 54386; -.
+DR   DisGeNET; 54386; -.
+DR   GeneCards; TERF2IP; -.
+DR   HGNC; HGNC:19246; TERF2IP.
+DR   HPA; ENSG00000166848; Low tissue specificity.
+DR   MalaCards; TERF2IP; -.
+DR   MIM; 605061; gene.
+DR   neXtProt; NX_Q9NYB0; -.
+DR   OpenTargets; ENSG00000166848; -.
+DR   Orphanet; 618; Familial melanoma.
+DR   PharmGKB; PA134976325; -.
+DR   VEuPathDB; HostDB:ENSG00000166848; -.
+DR   eggNOG; ENOG502RPXS; Eukaryota.
+DR   GeneTree; ENSGT00390000005351; -.
+DR   HOGENOM; CLU_028192_0_0_1; -.
+DR   InParanoid; Q9NYB0; -.
+DR   OMA; MEKFAVD; -.
+DR   OrthoDB; 2920206at2759; -.
+DR   PhylomeDB; Q9NYB0; -.
+DR   TreeFam; TF332348; -.
+DR   PathwayCommons; Q9NYB0; -.
+DR   Reactome; R-HSA-110328; Recognition and association of DNA glycosylase with site containing an affected pyrimidine.
+DR   Reactome; R-HSA-110329; Cleavage of the damaged pyrimidine.
+DR   Reactome; R-HSA-110330; Recognition and association of DNA glycosylase with site containing an affected purine.
+DR   Reactome; R-HSA-110331; Cleavage of the damaged purine.
+DR   Reactome; R-HSA-1221632; Meiotic synapsis.
+DR   Reactome; R-HSA-171306; Packaging Of Telomere Ends.
+DR   Reactome; R-HSA-171319; Telomere Extension By Telomerase.
+DR   Reactome; R-HSA-174411; Polymerase switching on the C-strand of the telomere.
+DR   Reactome; R-HSA-174414; Processive synthesis on the C-strand of the telomere.
+DR   Reactome; R-HSA-174417; Telomere C-strand (Lagging Strand) Synthesis.
+DR   Reactome; R-HSA-174430; Telomere C-strand synthesis initiation.
+DR   Reactome; R-HSA-174437; Removal of the Flap Intermediate from the C-strand.
+DR   Reactome; R-HSA-2559586; DNA Damage/Telomere Stress Induced Senescence.
+DR   Reactome; R-HSA-9670095; Inhibition of DNA recombination at telomere.
+DR   SignaLink; Q9NYB0; -.
+DR   SIGNOR; Q9NYB0; -.
+DR   BioGRID-ORCS; 54386; 23 hits in 1161 CRISPR screens.
+DR   ChiTaRS; TERF2IP; human.
+DR   EvolutionaryTrace; Q9NYB0; -.
+DR   GeneWiki; TERF2IP; -.
+DR   GenomeRNAi; 54386; -.
+DR   Pharos; Q9NYB0; Tchem.
+DR   PRO; PR:Q9NYB0; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   RNAct; Q9NYB0; protein.
+DR   Bgee; ENSG00000166848; Expressed in middle temporal gyrus and 209 other tissues.
+DR   ExpressionAtlas; Q9NYB0; baseline and differential.
+DR   Genevisible; Q9NYB0; HS.
+DR   GO; GO:0000781; C:chromosome, telomeric region; IDA:BHF-UCL.
+DR   GO; GO:0005737; C:cytoplasm; IDA:CAFA.
+DR   GO; GO:0001673; C:male germ cell nucleus; IEA:Ensembl.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0000228; C:nuclear chromosome; TAS:ProtInc.
+DR   GO; GO:0000783; C:nuclear telomere cap complex; IDA:BHF-UCL.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0070187; C:shelterin complex; IDA:BHF-UCL.
+DR   GO; GO:0098505; F:G-rich strand telomeric DNA binding; IDA:BHF-UCL.
+DR   GO; GO:0019902; F:phosphatase binding; IPI:CAFA.
+DR   GO; GO:0042162; F:telomeric DNA binding; IDA:BHF-UCL.
+DR   GO; GO:0048239; P:negative regulation of DNA recombination at telomere; ISS:UniProtKB.
+DR   GO; GO:0001933; P:negative regulation of protein phosphorylation; IMP:CAFA.
+DR   GO; GO:0032205; P:negative regulation of telomere maintenance; IDA:UniProtKB.
+DR   GO; GO:0043123; P:positive regulation of I-kappaB kinase/NF-kappaB signaling; ISS:UniProtKB.
+DR   GO; GO:0051092; P:positive regulation of NF-kappaB transcription factor activity; ISS:UniProtKB.
+DR   GO; GO:1901224; P:positive regulation of NIK/NF-kappaB signaling; IMP:CAFA.
+DR   GO; GO:0032206; P:positive regulation of telomere maintenance; NAS:ComplexPortal.
+DR   GO; GO:0031848; P:protection from non-homologous end joining at telomere; IMP:BHF-UCL.
+DR   GO; GO:0070198; P:protein localization to chromosome, telomeric region; IMP:BHF-UCL.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IMP:CAFA.
+DR   GO; GO:0010569; P:regulation of double-strand break repair via homologous recombination; ISS:UniProtKB.
+DR   GO; GO:0032204; P:regulation of telomere maintenance; IMP:BHF-UCL.
+DR   GO; GO:0016233; P:telomere capping; IDA:ComplexPortal.
+DR   GO; GO:0000723; P:telomere maintenance; IDA:BHF-UCL.
+DR   GO; GO:0007004; P:telomere maintenance via telomerase; TAS:ProtInc.
+DR   GO; GO:0010833; P:telomere maintenance via telomere lengthening; ISS:UniProtKB.
+DR   CDD; cd11655; rap1_myb-like; 1.
+DR   CDD; cd11653; rap1_RCT; 1.
+DR   Gene3D; 1.10.10.2170; -; 1.
+DR   Gene3D; 3.40.50.10190; BRCT domain; 1.
+DR   Gene3D; 1.10.10.60; Homeodomain-like; 1.
+DR   InterPro; IPR001357; BRCT_dom.
+DR   InterPro; IPR036420; BRCT_dom_sf.
+DR   InterPro; IPR009057; Homeobox-like_sf.
+DR   InterPro; IPR021661; Rap1_C.
+DR   InterPro; IPR038104; Rap1_C_sf.
+DR   InterPro; IPR015010; Rap1_Myb_dom.
+DR   InterPro; IPR039595; TE2IP/Rap1.
+DR   PANTHER; PTHR16466; TELOMERE REPEAT-BINDING FACTOR 2-INTERACTING PROTEIN 1; 1.
+DR   PANTHER; PTHR16466:SF6; TELOMERIC REPEAT-BINDING FACTOR 2-INTERACTING PROTEIN 1; 1.
+DR   Pfam; PF16589; BRCT_2; 1.
+DR   Pfam; PF08914; Myb_DNA-bind_2; 1.
+DR   Pfam; PF11626; Rap1_C; 1.
+DR   SUPFAM; SSF46689; Homeodomain-like; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Activator; Chromosome; Cytoplasm;
+KW   Isopeptide bond; Nucleus; Phosphoprotein; Reference proteome; Telomere;
+KW   Transcription; Transcription regulation; Ubl conjugation.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0007744|PubMed:19413330"
+FT   CHAIN           2..399
+FT                   /note="Telomeric repeat-binding factor 2-interacting
+FT                   protein 1"
+FT                   /id="PRO_0000197126"
+FT   DOMAIN          78..101
+FT                   /note="BRCT"
+FT   DOMAIN          128..188
+FT                   /note="Myb-like"
+FT   REGION          104..132
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          196..244
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          264..311
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           383..399
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        208..237
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        264..283
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        284..306
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         2
+FT                   /note="N-acetylalanine"
+FT                   /evidence="ECO:0007744|PubMed:19413330"
+FT   MOD_RES         36
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         43
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         154
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         156
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:16964243"
+FT   MOD_RES         203
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:16964243,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         206
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   CROSSLNK        114
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        194
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        208
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        212
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        240
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:25755297, ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        372
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         324
+FT                   /note="K -> E (in dbSNP:rs4888444)"
+FT                   /id="VAR_050195"
+FT   CONFLICT        83
+FT                   /note="Y -> H (in Ref. 4; BAA91317)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           93..97
+FT                   /evidence="ECO:0007829|PDB:4RQI"
+FT   HELIX           138..150
+FT                   /evidence="ECO:0007829|PDB:1FEX"
+FT   TURN            155..159
+FT                   /evidence="ECO:0007829|PDB:1FEX"
+FT   HELIX           162..169
+FT                   /evidence="ECO:0007829|PDB:1FEX"
+FT   STRAND          172..174
+FT                   /evidence="ECO:0007829|PDB:1FEX"
+FT   HELIX           178..187
+FT                   /evidence="ECO:0007829|PDB:1FEX"
+FT   HELIX           308..324
+FT                   /evidence="ECO:0007829|PDB:3K6G"
+FT   HELIX           329..338
+FT                   /evidence="ECO:0007829|PDB:3K6G"
+FT   TURN            339..341
+FT                   /evidence="ECO:0007829|PDB:3K6G"
+FT   HELIX           343..352
+FT                   /evidence="ECO:0007829|PDB:3K6G"
+FT   HELIX           364..370
+FT                   /evidence="ECO:0007829|PDB:3K6G"
+FT   HELIX           375..385
+FT                   /evidence="ECO:0007829|PDB:3K6G"
+FT   HELIX           387..397
+FT                   /evidence="ECO:0007829|PDB:3K6G"
+SQ   SEQUENCE   399 AA;  44260 MW;  EAA615777F9D3D3D CRC64;
+     MAEAMDLGKD PNGPTHSSTL FVRDDGSSMS FYVRPSPAKR RLSTLILHGG GTVCRVQEPG
+     AVLLAQPGEA LAEASGDFIS TQYILDCVER NERLELEAYR LGPASAADTG SEAKPGALAE
+     GAAEPEPQRH AGRIAFTDAD DVAILTYVKE NARSPSSVTG NALWKAMEKS SLTQHSWQSL
+     KDRYLKHLRG QEHKYLLGDA PVSPSSQKLK RKAEEDPEAA DSGEPQNKRT PDLPEEEYVK
+     EEIQENEEAV KKMLVEATRE FEEVVVDESP PDFEIHITMC DDDPPTPEED SETQPDEEEE
+     EEEEKVSQPE VGAAIKIIRQ LMEKFNLDLS TVTQAFLKNS GELEATSAFL ASGQRADGYP
+     IWSRQDDIDL QKDDEDTREA LVKKFGAQNV ARRIEFRKK
+//

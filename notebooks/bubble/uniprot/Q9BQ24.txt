@@ -1,0 +1,326 @@
+ID   ZFY21_HUMAN             Reviewed;         234 AA.
+AC   Q9BQ24; A8K3A4; Q86T05; Q96LT1;
+DT   24-MAY-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   28-JUN-2023, entry version 156.
+DE   RecName: Full=Zinc finger FYVE domain-containing protein 21;
+DE            Short=ZF21;
+GN   Name=ZFYVE21;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Zheng H., Xie Y., Mao Y.;
+RT   "Cloning of a FYVE containing protein.";
+RL   Submitted (SEP-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RA   Li W.B., Gruber C., Jessee J., Polayes D.;
+RT   "Full-length cDNA libraries and normalization.";
+RL   Submitted (FEB-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Brain, and Cerebellum;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Bone marrow, and Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION, INTERACTION WITH PTK2/FAK1, SUBCELLULAR LOCATION, AND MUTAGENESIS
+RP   OF 64-HIS-HIS-65.
+RX   PubMed=20439989; DOI=10.1074/jbc.m110.106443;
+RA   Nagano M., Hoshino D., Sakamoto T., Kawasaki N., Koshikawa N., Seiki M.;
+RT   "ZF21 protein regulates cell adhesion and motility.";
+RL   J. Biol. Chem. 285:21013-21022(2010).
+RN   [7]
+RP   STRUCTURE BY NMR OF 107-234, FUNCTION, SUBUNIT, SUBCELLULAR LOCATION, AND
+RP   PH-LIKE DOMAIN.
+RX   PubMed=21768110; DOI=10.1074/jbc.m110.199430;
+RA   Nagano M., Hoshino D., Koshiba S., Shuo T., Koshikawa N., Tomizawa T.,
+RA   Hayashi F., Tochio N., Harada T., Akizawa T., Watanabe S., Handa N.,
+RA   Shirouzu M., Kigawa T., Yokoyama S., Seiki M.;
+RT   "ZF21 protein, a regulator of the disassembly of focal adhesions and cancer
+RT   metastasis, contains a novel noncanonical pleckstrin homology domain.";
+RL   J. Biol. Chem. 286:31598-31609(2011).
+CC   -!- FUNCTION: Plays a role in cell adhesion, and thereby in cell motility
+CC       which requires repeated formation and disassembly of focal adhesions.
+CC       Regulates microtubule-induced PTK2/FAK1 dephosphorylation, an event
+CC       important for focal adhesion disassembly, as well as integrin beta-
+CC       1/ITGB1 cell surface expression. {ECO:0000269|PubMed:20439989,
+CC       ECO:0000269|PubMed:21768110}.
+CC   -!- SUBUNIT: Interacts with PTK2/FAK1. {ECO:0000269|PubMed:20439989,
+CC       ECO:0000269|PubMed:21768110}.
+CC   -!- INTERACTION:
+CC       Q9BQ24; Q6RW13: AGTRAP; NbExp=3; IntAct=EBI-2849569, EBI-741181;
+CC       Q9BQ24; Q15041: ARL6IP1; NbExp=6; IntAct=EBI-2849569, EBI-714543;
+CC       Q9BQ24; Q8IZR5-2: CMTM4; NbExp=3; IntAct=EBI-2849569, EBI-17278014;
+CC       Q9BQ24; Q5SUL5: HLA-A; NbExp=3; IntAct=EBI-2849569, EBI-8561769;
+CC       Q9BQ24; Q92993: KAT5; NbExp=3; IntAct=EBI-2849569, EBI-399080;
+CC       Q9BQ24; Q15323: KRT31; NbExp=3; IntAct=EBI-2849569, EBI-948001;
+CC       Q9BQ24; O76015: KRT38; NbExp=3; IntAct=EBI-2849569, EBI-1047263;
+CC       Q9BQ24; Q6A162: KRT40; NbExp=3; IntAct=EBI-2849569, EBI-10171697;
+CC       Q9BQ24; P60370: KRTAP10-5; NbExp=3; IntAct=EBI-2849569, EBI-10172150;
+CC       Q9BQ24; P60410: KRTAP10-8; NbExp=3; IntAct=EBI-2849569, EBI-10171774;
+CC       Q9BQ24; P26371: KRTAP5-9; NbExp=3; IntAct=EBI-2849569, EBI-3958099;
+CC       Q9BQ24; Q8TAP4-4: LMO3; NbExp=3; IntAct=EBI-2849569, EBI-11742507;
+CC       Q9BQ24; Q9UJV3-2: MID2; NbExp=3; IntAct=EBI-2849569, EBI-10172526;
+CC       Q9BQ24; Q5JR59: MTUS2; NbExp=3; IntAct=EBI-2849569, EBI-742948;
+CC       Q9BQ24; Q7Z3S9: NOTCH2NLA; NbExp=3; IntAct=EBI-2849569, EBI-945833;
+CC       Q9BQ24; Q5VU43: PDE4DIP; NbExp=3; IntAct=EBI-2849569, EBI-1105124;
+CC       Q9BQ24; P17252: PRKCA; NbExp=3; IntAct=EBI-2849569, EBI-1383528;
+CC       Q9BQ24; Q9UI14: RABAC1; NbExp=6; IntAct=EBI-2849569, EBI-712367;
+CC       Q9BQ24; Q96HR9: REEP6; NbExp=3; IntAct=EBI-2849569, EBI-750345;
+CC       Q9BQ24; Q96HR9-2: REEP6; NbExp=3; IntAct=EBI-2849569, EBI-14065960;
+CC       Q9BQ24; Q9NQC3: RTN4; NbExp=3; IntAct=EBI-2849569, EBI-715945;
+CC       Q9BQ24; Q9NQC3-2: RTN4; NbExp=3; IntAct=EBI-2849569, EBI-10296096;
+CC       Q9BQ24; Q15047-2: SETDB1; NbExp=3; IntAct=EBI-2849569, EBI-9090795;
+CC       Q9BQ24; Q8IUQ4: SIAH1; NbExp=3; IntAct=EBI-2849569, EBI-747107;
+CC       Q9BQ24; Q71RC9: SMIM5; NbExp=3; IntAct=EBI-2849569, EBI-12334905;
+CC       Q9BQ24; Q13077: TRAF1; NbExp=3; IntAct=EBI-2849569, EBI-359224;
+CC       Q9BQ24; P14373: TRIM27; NbExp=3; IntAct=EBI-2849569, EBI-719493;
+CC       Q9BQ24; O95070: YIF1A; NbExp=3; IntAct=EBI-2849569, EBI-2799703;
+CC       Q9BQ24; P61981: YWHAG; NbExp=3; IntAct=EBI-2849569, EBI-359832;
+CC   -!- SUBCELLULAR LOCATION: Cell junction, focal adhesion. Cytoplasmic
+CC       vesicle. Endosome. Note=Within cytoplasmic vesicles, partially
+CC       colocalizes with EEA1, an endosomal marker.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9BQ24-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BQ24-2; Sequence=VSP_013794;
+CC   -!- DOMAIN: The FYVE-type zinc finger mediates interaction with PTK2/FAK1,
+CC       and also interaction with PI(3)P and association with endosomes.
+CC   -!- DOMAIN: The C-terminal region exhibits a structure similar to canonical
+CC       PH domains, but lacks a positively charged interface to bind
+CC       phosphatidylinositol phosphate.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAD62589.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY395756; AAR14313.1; -; mRNA.
+DR   EMBL; BX248261; CAD62589.1; ALT_INIT; mRNA.
+DR   EMBL; AK057816; BAB71589.1; -; mRNA.
+DR   EMBL; AK290519; BAF83208.1; -; mRNA.
+DR   EMBL; CH471061; EAW81844.1; -; Genomic_DNA.
+DR   EMBL; BC001130; AAH01130.1; -; mRNA.
+DR   EMBL; BC005999; AAH05999.1; -; mRNA.
+DR   CCDS; CCDS55948.1; -. [Q9BQ24-2]
+DR   CCDS; CCDS9985.1; -. [Q9BQ24-1]
+DR   RefSeq; NP_001185882.1; NM_001198953.1. [Q9BQ24-2]
+DR   RefSeq; NP_076976.1; NM_024071.3. [Q9BQ24-1]
+DR   PDB; 2RRF; NMR; -; A=107-234.
+DR   PDBsum; 2RRF; -.
+DR   AlphaFoldDB; Q9BQ24; -.
+DR   BMRB; Q9BQ24; -.
+DR   SMR; Q9BQ24; -.
+DR   BioGRID; 122502; 85.
+DR   IntAct; Q9BQ24; 34.
+DR   STRING; 9606.ENSP00000216602; -.
+DR   iPTMnet; Q9BQ24; -.
+DR   PhosphoSitePlus; Q9BQ24; -.
+DR   BioMuta; ZFYVE21; -.
+DR   DMDM; 66774028; -.
+DR   EPD; Q9BQ24; -.
+DR   jPOST; Q9BQ24; -.
+DR   MassIVE; Q9BQ24; -.
+DR   MaxQB; Q9BQ24; -.
+DR   PeptideAtlas; Q9BQ24; -.
+DR   ProteomicsDB; 78615; -. [Q9BQ24-1]
+DR   ProteomicsDB; 78616; -. [Q9BQ24-2]
+DR   Antibodypedia; 28114; 125 antibodies from 23 providers.
+DR   DNASU; 79038; -.
+DR   Ensembl; ENST00000216602.10; ENSP00000216602.6; ENSG00000100711.14. [Q9BQ24-2]
+DR   Ensembl; ENST00000311141.7; ENSP00000310543.2; ENSG00000100711.14. [Q9BQ24-1]
+DR   GeneID; 79038; -.
+DR   KEGG; hsa:79038; -.
+DR   MANE-Select; ENST00000311141.7; ENSP00000310543.2; NM_024071.4; NP_076976.1.
+DR   UCSC; uc001yoc.4; human. [Q9BQ24-1]
+DR   AGR; HGNC:20760; -.
+DR   CTD; 79038; -.
+DR   DisGeNET; 79038; -.
+DR   GeneCards; ZFYVE21; -.
+DR   HGNC; HGNC:20760; ZFYVE21.
+DR   HPA; ENSG00000100711; Low tissue specificity.
+DR   MIM; 613504; gene.
+DR   neXtProt; NX_Q9BQ24; -.
+DR   OpenTargets; ENSG00000100711; -.
+DR   PharmGKB; PA134879875; -.
+DR   VEuPathDB; HostDB:ENSG00000100711; -.
+DR   eggNOG; ENOG502QRR6; Eukaryota.
+DR   GeneTree; ENSGT00940000159639; -.
+DR   HOGENOM; CLU_103398_0_0_1; -.
+DR   InParanoid; Q9BQ24; -.
+DR   OMA; KRPAAAW; -.
+DR   OrthoDB; 38671at2759; -.
+DR   PhylomeDB; Q9BQ24; -.
+DR   TreeFam; TF329481; -.
+DR   PathwayCommons; Q9BQ24; -.
+DR   SignaLink; Q9BQ24; -.
+DR   BioGRID-ORCS; 79038; 12 hits in 1159 CRISPR screens.
+DR   ChiTaRS; ZFYVE21; human.
+DR   EvolutionaryTrace; Q9BQ24; -.
+DR   GenomeRNAi; 79038; -.
+DR   Pharos; Q9BQ24; Tbio.
+DR   PRO; PR:Q9BQ24; -.
+DR   Proteomes; UP000005640; Chromosome 14.
+DR   RNAct; Q9BQ24; protein.
+DR   Bgee; ENSG00000100711; Expressed in secondary oocyte and 190 other tissues.
+DR   ExpressionAtlas; Q9BQ24; baseline and differential.
+DR   Genevisible; Q9BQ24; HS.
+DR   GO; GO:0005768; C:endosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005925; C:focal adhesion; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   CDD; cd15727; FYVE_ZF21; 1.
+DR   Gene3D; 2.30.29.160; Zinc finger FYVE domain-containing protein 21, C-terminal; 1.
+DR   Gene3D; 3.30.40.10; Zinc/RING finger domain, C3HC4 (zinc finger); 1.
+DR   InterPro; IPR032031; ZFYVE21_C.
+DR   InterPro; IPR038632; ZFYVE21_C_sf.
+DR   InterPro; IPR000306; Znf_FYVE.
+DR   InterPro; IPR017455; Znf_FYVE-rel.
+DR   InterPro; IPR011011; Znf_FYVE_PHD.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   PANTHER; PTHR39490; ARRESTIN DOMAIN-CONTAINING PROTEIN D; 1.
+DR   PANTHER; PTHR39490:SF8; ZINC FINGER FYVE DOMAIN-CONTAINING PROTEIN 21; 1.
+DR   Pfam; PF01363; FYVE; 1.
+DR   Pfam; PF16696; ZFYVE21_C; 1.
+DR   SMART; SM00064; FYVE; 1.
+DR   SUPFAM; SSF57903; FYVE/PHD zinc finger; 1.
+DR   PROSITE; PS50178; ZF_FYVE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell junction; Cytoplasmic vesicle;
+KW   Endosome; Metal-binding; Reference proteome; Zinc; Zinc-finger.
+FT   CHAIN           1..234
+FT                   /note="Zinc finger FYVE domain-containing protein 21"
+FT                   /id="PRO_0000098720"
+FT   ZN_FING         44..104
+FT                   /note="FYVE-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   REGION          107..234
+FT                   /note="PH-like"
+FT   BINDING         50
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         53
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         66
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         69
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         74
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         77
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         96
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   BINDING         99
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00091"
+FT   VAR_SEQ         175
+FT                   /note="G -> GEKDIHAYTSLRGSQPASE (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_013794"
+FT   MUTAGEN         64..65
+FT                   /note="HH->NN: Diffuse cytoplasmic localization."
+FT                   /evidence="ECO:0000269|PubMed:20439989"
+FT   HELIX           108..119
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          121..125
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          134..140
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          144..158
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   TURN            159..161
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          174..178
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          185..188
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          193..195
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          197..202
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   STRAND          206..208
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+FT   HELIX           211..230
+FT                   /evidence="ECO:0007829|PDB:2RRF"
+SQ   SEQUENCE   234 AA;  26506 MW;  AF8C695D2417FE98 CRC64;
+     MSSEVSARRD AKKLVRSPSG LRMVPEHRAF GSPFGLEEPQ WVPDKECRRC MQCDAKFDFL
+     TRKHHCRRCG KCFCDRCCSQ KVPLRRMCFV DPVRQCAECA LVSLKEAEFY DKQLKVLLSG
+     ATFLVTFGNS EKPETMTCRL SNNQRYLFLD GDSHYEIEIV HISTVQILTE GFPPGGGNAR
+     ATGMFLQYTV PGTEGVTQLK LTVVEDVTVG RRQAVAWLVA MHKAAKLLYE SRDQ
+//

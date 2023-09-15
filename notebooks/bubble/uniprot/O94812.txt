@@ -1,0 +1,525 @@
+ID   BAIP3_HUMAN             Reviewed;        1187 AA.
+AC   O94812; A2A2B2; B2RCD7; B4DGS5; B4DIK3; B4DRK9; B4DRP1; E7EUB9; H3BUH8;
+AC   H3BVI3; H7C2Q1; O94839; Q2M226; Q658J2; Q76N05; Q96RZ3; Q9UJK1;
+DT   31-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   31-AUG-2004, sequence version 2.
+DT   28-JUN-2023, entry version 168.
+DE   RecName: Full=BAI1-associated protein 3 {ECO:0000303|PubMed:9790924};
+DE            Short=BAP3 {ECO:0000303|PubMed:9790924};
+DE   AltName: Full=Brain-specific angiogenesis inhibitor I-associated protein 3 {ECO:0000303|PubMed:9790924};
+GN   Name=BAIAP3 {ECO:0000303|PubMed:28626000, ECO:0000312|HGNC:HGNC:948};
+GN   Synonyms=KIAA0734 {ECO:0000303|PubMed:12168954};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], INTERACTION WITH ADGRB1, TISSUE
+RP   SPECIFICITY, AND VARIANT ALA-582.
+RX   PubMed=9790924; DOI=10.1006/bbrc.1998.9408;
+RA   Shiratsuchi T., Oda K., Nishimori H., Suzuki M., Takahashi E., Tokino T.,
+RA   Nakamura Y.;
+RT   "Cloning and characterization of BAP3 (BAI-associated protein 3), a C2
+RT   domain-containing protein that interacts with BAI1.";
+RL   Biochem. Biophys. Res. Commun. 251:158-165(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=9872452; DOI=10.1093/dnares/5.5.277;
+RA   Nagase T., Ishikawa K., Suyama M., Kikuno R., Miyajima N., Tanaka A.,
+RA   Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XI. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 5:277-286(1998).
+RN   [3]
+RP   SEQUENCE REVISION.
+RX   PubMed=12168954; DOI=10.1093/dnares/9.3.99;
+RA   Nakajima D., Okazaki N., Yamakawa H., Kikuno R., Ohara O., Nagase T.;
+RT   "Construction of expression-ready cDNA clones for KIAA genes: manual
+RT   curation of 330 KIAA cDNA clones.";
+RL   DNA Res. 9:99-106(2002).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1; 3; 4; 5 AND 6), AND
+RP   VARIANT ALA-582.
+RC   TISSUE=Brain, and Hippocampus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT ALA-582.
+RC   TISSUE=Amygdala;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11157797; DOI=10.1093/hmg/10.4.339;
+RA   Daniels R.J., Peden J.F., Lloyd C., Horsley S.W., Clark K., Tufarelli C.,
+RA   Kearney L., Buckle V.J., Doggett N.A., Flint J., Higgs D.R.;
+RT   "Sequence, structure and pathology of the fully annotated terminal 2 Mb of
+RT   the short arm of human chromosome 16.";
+RL   Hum. Mol. Genet. 10:339-352(2001).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15616553; DOI=10.1038/nature03187;
+RA   Martin J., Han C., Gordon L.A., Terry A., Prabhakar S., She X., Xie G.,
+RA   Hellsten U., Chan Y.M., Altherr M., Couronne O., Aerts A., Bajorek E.,
+RA   Black S., Blumer H., Branscomb E., Brown N.C., Bruno W.J., Buckingham J.M.,
+RA   Callen D.F., Campbell C.S., Campbell M.L., Campbell E.W., Caoile C.,
+RA   Challacombe J.F., Chasteen L.A., Chertkov O., Chi H.C., Christensen M.,
+RA   Clark L.M., Cohn J.D., Denys M., Detter J.C., Dickson M.,
+RA   Dimitrijevic-Bussod M., Escobar J., Fawcett J.J., Flowers D., Fotopulos D.,
+RA   Glavina T., Gomez M., Gonzales E., Goodstein D., Goodwin L.A., Grady D.L.,
+RA   Grigoriev I., Groza M., Hammon N., Hawkins T., Haydu L., Hildebrand C.E.,
+RA   Huang W., Israni S., Jett J., Jewett P.B., Kadner K., Kimball H.,
+RA   Kobayashi A., Krawczyk M.-C., Leyba T., Longmire J.L., Lopez F., Lou Y.,
+RA   Lowry S., Ludeman T., Manohar C.F., Mark G.A., McMurray K.L., Meincke L.J.,
+RA   Morgan J., Moyzis R.K., Mundt M.O., Munk A.C., Nandkeshwar R.D.,
+RA   Pitluck S., Pollard M., Predki P., Parson-Quintana B., Ramirez L., Rash S.,
+RA   Retterer J., Ricke D.O., Robinson D.L., Rodriguez A., Salamov A.,
+RA   Saunders E.H., Scott D., Shough T., Stallings R.L., Stalvey M.,
+RA   Sutherland R.D., Tapia R., Tesmer J.G., Thayer N., Thompson L.S., Tice H.,
+RA   Torney D.C., Tran-Gyamfi M., Tsai M., Ulanovsky L.E., Ustaszewska A.,
+RA   Vo N., White P.S., Williams A.L., Wills P.L., Wu J.-R., Wu K., Yang J.,
+RA   DeJong P., Bruce D., Doggett N.A., Deaven L., Schmutz J., Grimwood J.,
+RA   Richardson P., Rokhsar D.S., Eichler E.E., Gilna P., Lucas S.M.,
+RA   Myers R.M., Rubin E.M., Pennacchio L.A.;
+RT   "The sequence and analysis of duplication-rich human chromosome 16.";
+RL   Nature 432:988-994(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ALA-582.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [10]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=12498718; DOI=10.1016/s1535-6108(02)00205-2;
+RA   Palmer R.E., Lee S.B., Wong J.C., Reynolds P.A., Zhang H., Truong V.,
+RA   Oliner J.D., Gerald W.L., Haber D.A.;
+RT   "Induction of BAIAP3 by the EWS-WT1 chimeric fusion implicates regulated
+RT   exocytosis in tumorigenesis.";
+RL   Cancer Cell 2:497-505(2002).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [12]
+RP   FUNCTION, INTERACTION WITH VAMP3; VAMP4; STX6 AND STX16, SUBCELLULAR
+RP   LOCATION, AND TOPOLOGY.
+RX   PubMed=28626000; DOI=10.1083/jcb.201702099;
+RA   Zhang X., Jiang S., Mitok K.A., Li L., Attie A.D., Martin T.F.J.;
+RT   "BAIAP3, a C2 domain-containing Munc13 protein, controls the fate of dense-
+RT   core vesicles in neuroendocrine cells.";
+RL   J. Cell Biol. 216:2151-2166(2017).
+CC   -!- FUNCTION: Functions in endosome to Golgi retrograde transport. In
+CC       response to calcium influx, may interact with SNARE fusion receptors
+CC       and membrane phospholipids to mediate endosome fusion with the trans-
+CC       Golgi network. By promoting the recycling of secretory vesicle
+CC       transmembrane proteins, it indirectly controls dense-core secretory
+CC       vesicle biogenesis, maturation and their ability to mediate the
+CC       constitutive and regulated secretion of neurotransmitters and hormones.
+CC       May regulate behavior and food intake by controlling calcium-stimulated
+CC       exocytosis of neurotransmitters including NPY and serotonin and
+CC       hormones like insulin (PubMed:28626000). Proposed to play a role in
+CC       hypothalamic neuronal firing by modulating gamma-aminobutyric acid
+CC       (GABA)ergic inhibitory neurotransmission (By similarity).
+CC       {ECO:0000250|UniProtKB:Q80TT2, ECO:0000269|PubMed:28626000}.
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU00041};
+CC       Note=Binds 3 Ca(2+) ions per C2 domain. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00041};
+CC   -!- SUBUNIT: Interacts with ADGRB1; this interaction is direct
+CC       (PubMed:9790924). Interacts with endosomal SNARE proteins VAMP3, VAMP4,
+CC       STX6 and STX16; this interaction is increased in the presence of
+CC       calcium (PubMed:28626000). {ECO:0000269|PubMed:28626000,
+CC       ECO:0000269|PubMed:9790924}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytosol {ECO:0000269|PubMed:28626000}.
+CC       Recycling endosome membrane {ECO:0000269|PubMed:28626000}; Peripheral
+CC       membrane protein {ECO:0000305|PubMed:28626000}. Late endosome membrane
+CC       {ECO:0000269|PubMed:28626000}; Peripheral membrane protein
+CC       {ECO:0000305|PubMed:28626000}. Golgi apparatus, trans-Golgi network
+CC       membrane {ECO:0000269|PubMed:28626000}; Peripheral membrane protein
+CC       {ECO:0000305|PubMed:28626000}. Cell membrane
+CC       {ECO:0000269|PubMed:28626000}; Peripheral membrane protein
+CC       {ECO:0000305|PubMed:28626000}. Note=Rapidly recruited to the plasma
+CC       membrane and to Golgi structures in response to increased intracellular
+CC       calcium concentration. {ECO:0000269|PubMed:28626000}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1;
+CC         IsoId=O94812-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O94812-2; Sequence=VSP_019231, VSP_019232;
+CC       Name=3;
+CC         IsoId=O94812-3; Sequence=VSP_019231, VSP_044673;
+CC       Name=4;
+CC         IsoId=O94812-5; Sequence=VSP_019231, VSP_047000;
+CC       Name=5;
+CC         IsoId=O94812-6; Sequence=VSP_019231;
+CC       Name=6;
+CC         IsoId=O94812-7; Sequence=VSP_019231, VSP_047001;
+CC   -!- TISSUE SPECIFICITY: Predominantly expressed in brain (PubMed:9790924).
+CC       Also expressed in nonneural tissues such as breast and testes
+CC       epithelium (PubMed:12498718). {ECO:0000269|PubMed:12498718,
+CC       ECO:0000269|PubMed:9790924}.
+CC   -!- SIMILARITY: Belongs to the unc-13 family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA34454.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAG57886.1; Type=Erroneous termination; Note=Truncated C-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB017111; BAA34710.1; -; Genomic_DNA.
+DR   EMBL; AB018277; BAA34454.2; ALT_INIT; mRNA.
+DR   EMBL; AK294744; BAG57886.1; ALT_SEQ; mRNA.
+DR   EMBL; AK295645; BAG58515.1; -; mRNA.
+DR   EMBL; AK299309; BAG61321.1; -; mRNA.
+DR   EMBL; AK299358; BAG61353.1; -; mRNA.
+DR   EMBL; AK315059; BAG37534.1; -; mRNA.
+DR   EMBL; AL834321; CAH56376.1; -; mRNA.
+DR   EMBL; AE006467; AAK61275.1; -; Genomic_DNA.
+DR   EMBL; AL031709; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471112; EAW85670.1; -; Genomic_DNA.
+DR   EMBL; BC104966; AAI04967.1; -; mRNA.
+DR   EMBL; BC112129; AAI12130.1; -; mRNA.
+DR   CCDS; CCDS10434.1; -. [O94812-1]
+DR   CCDS; CCDS55978.1; -. [O94812-6]
+DR   CCDS; CCDS55979.1; -. [O94812-7]
+DR   CCDS; CCDS58402.1; -. [O94812-3]
+DR   CCDS; CCDS58403.1; -. [O94812-5]
+DR   CCDS; CCDS66894.1; -. [O94812-2]
+DR   PIR; JE0347; JE0347.
+DR   RefSeq; NP_001186025.1; NM_001199096.1. [O94812-7]
+DR   RefSeq; NP_001186026.1; NM_001199097.1. [O94812-6]
+DR   RefSeq; NP_001186027.1; NM_001199098.1. [O94812-3]
+DR   RefSeq; NP_001186028.1; NM_001199099.1. [O94812-5]
+DR   RefSeq; NP_001273393.1; NM_001286464.1. [O94812-2]
+DR   RefSeq; NP_003924.2; NM_003933.4. [O94812-1]
+DR   AlphaFoldDB; O94812; -.
+DR   SMR; O94812; -.
+DR   BioGRID; 114450; 5.
+DR   IntAct; O94812; 3.
+DR   MINT; O94812; -.
+DR   STRING; 9606.ENSP00000324510; -.
+DR   iPTMnet; O94812; -.
+DR   PhosphoSitePlus; O94812; -.
+DR   BioMuta; BAIAP3; -.
+DR   jPOST; O94812; -.
+DR   MassIVE; O94812; -.
+DR   PaxDb; O94812; -.
+DR   PeptideAtlas; O94812; -.
+DR   ProteomicsDB; 18396; -.
+DR   ProteomicsDB; 188; -.
+DR   ProteomicsDB; 42936; -.
+DR   ProteomicsDB; 43226; -.
+DR   ProteomicsDB; 45064; -.
+DR   ProteomicsDB; 50452; -. [O94812-1]
+DR   ProteomicsDB; 50453; -. [O94812-2]
+DR   Antibodypedia; 23051; 148 antibodies from 26 providers.
+DR   DNASU; 8938; -.
+DR   Ensembl; ENST00000324385.9; ENSP00000324510.5; ENSG00000007516.14. [O94812-1]
+DR   Ensembl; ENST00000397488.6; ENSP00000380625.2; ENSG00000007516.14. [O94812-2]
+DR   Ensembl; ENST00000421665.6; ENSP00000409533.2; ENSG00000007516.14. [O94812-7]
+DR   Ensembl; ENST00000426824.8; ENSP00000407242.4; ENSG00000007516.14. [O94812-6]
+DR   Ensembl; ENST00000562208.5; ENSP00000458134.1; ENSG00000007516.14. [O94812-3]
+DR   Ensembl; ENST00000568887.5; ENSP00000457644.1; ENSG00000007516.14. [O94812-5]
+DR   Ensembl; ENST00000628027.2; ENSP00000487275.1; ENSG00000007516.14. [O94812-2]
+DR   GeneID; 8938; -.
+DR   KEGG; hsa:8938; -.
+DR   MANE-Select; ENST00000426824.8; ENSP00000407242.4; NM_001199097.2; NP_001186026.1. [O94812-6]
+DR   UCSC; uc002clj.4; human. [O94812-1]
+DR   AGR; HGNC:948; -.
+DR   CTD; 8938; -.
+DR   DisGeNET; 8938; -.
+DR   GeneCards; BAIAP3; -.
+DR   HGNC; HGNC:948; BAIAP3.
+DR   HPA; ENSG00000007516; Group enriched (brain, pituitary gland).
+DR   MIM; 604009; gene.
+DR   neXtProt; NX_O94812; -.
+DR   OpenTargets; ENSG00000007516; -.
+DR   PharmGKB; PA25252; -.
+DR   VEuPathDB; HostDB:ENSG00000007516; -.
+DR   eggNOG; KOG1328; Eukaryota.
+DR   GeneTree; ENSGT00730000110939; -.
+DR   HOGENOM; CLU_003295_2_0_1; -.
+DR   InParanoid; O94812; -.
+DR   OMA; IFELFMS; -.
+DR   OrthoDB; 3059697at2759; -.
+DR   PhylomeDB; O94812; -.
+DR   TreeFam; TF315526; -.
+DR   PathwayCommons; O94812; -.
+DR   SignaLink; O94812; -.
+DR   BioGRID-ORCS; 8938; 11 hits in 1146 CRISPR screens.
+DR   GeneWiki; BAIAP3; -.
+DR   GenomeRNAi; 8938; -.
+DR   Pharos; O94812; Tbio.
+DR   PRO; PR:O94812; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   RNAct; O94812; protein.
+DR   Bgee; ENSG00000007516; Expressed in right uterine tube and 133 other tissues.
+DR   ExpressionAtlas; O94812; baseline and differential.
+DR   Genevisible; O94812; HS.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0031902; C:late endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0098793; C:presynapse; IEA:GOC.
+DR   GO; GO:0055038; C:recycling endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0099503; C:secretory vesicle; IBA:GO_Central.
+DR   GO; GO:0032588; C:trans-Golgi network membrane; IDA:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0005543; F:phospholipid binding; IDA:UniProtKB.
+DR   GO; GO:0000149; F:SNARE binding; IDA:UniProtKB.
+DR   GO; GO:0019905; F:syntaxin binding; IPI:UniProtKB.
+DR   GO; GO:1990502; P:dense core granule maturation; IMP:UniProtKB.
+DR   GO; GO:0006887; P:exocytosis; IEA:UniProtKB-KW.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IPI:MGI.
+DR   GO; GO:0035774; P:positive regulation of insulin secretion involved in cellular response to glucose stimulus; IMP:UniProtKB.
+DR   GO; GO:0001956; P:positive regulation of neurotransmitter secretion; IMP:UniProtKB.
+DR   GO; GO:1905413; P:regulation of dense core granule exocytosis; IDA:UniProtKB.
+DR   GO; GO:0032228; P:regulation of synaptic transmission, GABAergic; ISS:UniProtKB.
+DR   GO; GO:0042147; P:retrograde transport, endosome to Golgi; IDA:UniProtKB.
+DR   CDD; cd08676; C2A_Munc13-like; 1.
+DR   CDD; cd04009; C2B_Munc13-like; 1.
+DR   Gene3D; 1.10.357.50; -; 1.
+DR   Gene3D; 2.60.40.150; C2 domain; 2.
+DR   InterPro; IPR000008; C2_dom.
+DR   InterPro; IPR035892; C2_domain_sf.
+DR   InterPro; IPR010439; MUN_dom.
+DR   InterPro; IPR014770; Munc13_1.
+DR   InterPro; IPR014772; Munc13_dom-2.
+DR   PANTHER; PTHR45999:SF1; BAI1-ASSOCIATED PROTEIN 3; 1.
+DR   PANTHER; PTHR45999; UNC-13-4A, ISOFORM B; 1.
+DR   Pfam; PF00168; C2; 2.
+DR   Pfam; PF06292; MUN; 1.
+DR   SMART; SM00239; C2; 2.
+DR   SUPFAM; SSF49562; C2 domain (Calcium/lipid-binding domain, CaLB); 2.
+DR   PROSITE; PS50004; C2; 2.
+DR   PROSITE; PS51258; MHD1; 1.
+DR   PROSITE; PS51259; MHD2; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Calcium; Cell membrane; Cytoplasm; Endosome;
+KW   Exocytosis; Golgi apparatus; Membrane; Metal-binding; Reference proteome;
+KW   Repeat; Transport.
+FT   CHAIN           1..1187
+FT                   /note="BAI1-associated protein 3"
+FT                   /id="PRO_0000064819"
+FT   DOMAIN          176..335
+FT                   /note="C2 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   DOMAIN          663..784
+FT                   /note="MHD1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00587"
+FT   DOMAIN          888..996
+FT                   /note="MHD2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00588"
+FT   DOMAIN          1010..1136
+FT                   /note="C2 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   REGION          55..81
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         211
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         217
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         295
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         297
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1040
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1041
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1041
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1047
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1105
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1105
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1107
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1107
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1107
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1110
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1113
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   BINDING         1113
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00041"
+FT   VAR_SEQ         1..35
+FT                   /note="Missing (in isoform 2, isoform 3, isoform 4, isoform
+FT                   5 and isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_019231"
+FT   VAR_SEQ         108
+FT                   /note="E -> EAWGSPCRQSPHPGPHTQ (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_019232"
+FT   VAR_SEQ         136..163
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_047000"
+FT   VAR_SEQ         136..158
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_044673"
+FT   VAR_SEQ         355..390
+FT                   /note="Missing (in isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_047001"
+FT   VARIANT         582
+FT                   /note="D -> A (in dbSNP:rs1132356)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:17974005,
+FT                   ECO:0000269|PubMed:9790924"
+FT                   /id="VAR_026667"
+FT   VARIANT         879
+FT                   /note="S -> I (in dbSNP:rs36074509)"
+FT                   /id="VAR_050687"
+FT   CONFLICT        216
+FT                   /note="S -> G (in Ref. 4; BAG61321)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        248
+FT                   /note="S -> G (in Ref. 4; BAG57886)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        318
+FT                   /note="M -> T (in Ref. 4; BAG61353)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        422
+FT                   /note="E -> G (in Ref. 4; BAG61353)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        599
+FT                   /note="V -> L (in Ref. 4; BAG61321)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        O94812-2:87
+FT                   /note="P -> T (in Ref. 5; CAH56376)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1187 AA;  131901 MW;  E38EF36E91BE7DEB CRC64;
+     MRPRGAAFAA GPPGDLHLGT AIGFAGAIWR SRSPAMSTLL DIKSSVLRQV QVCPSFRRRT
+     EQDPGSASAD PQEPATGAWK PGDGVEFFAH MRLMLKKGEG RQGLPCLEVP LRSGSPAPPE
+     PVDPSLGLRA LAPEEVEMLY EEALYTVLYR AGTMGPDQVD DEEALLSYLQ QVFGTSLEEH
+     TEAIERVRKA KAPTYALKVS VMRAKNLLAK DPNGFSDPYC MLGILPASDA TREPRAQKEQ
+     RFGFRKGSKR GGPLPAKCIQ VTEVKSSTLN PVWKEHFLFE IEDVSTDQLH LDIWDHDDDV
+     SLVEACRKLN EVIGLKGMGR YFKQIVKSAR ANGTAGPTED HTDDFLGCLN IPVREVPVAG
+     VDRWFKLEPR SSASRVQGHC HLVLKLITTQ RDTAMSQRGR SGFLSHLLLL SHLLRLEHSA
+     EEPNSSSWRG ELSTPAATIL CLHGAQSNLS PLQLAVLHWQ VSSRHHQTCT LDYSYLLGLL
+     EDMQAHWEEA PSLPQEQEES LADSLSAFSE FGLQLLRQLR DYFPATNSTA VHRLELLLKC
+     LGKLQLFQPS FEICPFESEL NMDIAAALKR GNREWYDRIL NDKSPREQPG PQRLPGLVVL
+     ADAVYDDLQF CYSVYASLFH SILNVDVFTL TFRQLERLVA EEAWVLTEEL SPKMTLEVAS
+     GLFELYLTLA DLQRFWDSIP GRDSRSLALA GIHAPFLPAV KLWFQVLRDQ AKWRLQGAVD
+     MDTLEPVDAS SRHSSSAATA GLCLSHIQEL WVRLAWPDPA QAQGLGTQLG QDVCEATLFY
+     TELLRKKVDT QPGAAGEAVS EALCVVLNNV ELVRKAAGQA LKGLAWPEGA TGPEGVLPRP
+     LLSCTQALDD DLQREAHTVT AHLTSKMVGD IRKYVQHISL SPDSIQNDEA VAPLMKYLDE
+     KLALLNASLV KGNLSRVLEA LWELLLQAIL QALGANRDVS ADFYSRFHFT LEALVSFFHA
+     EGQGLPLESL RDGSYKRLKE ELRLHKCSTR ECIEQFYLDK LKQRTLEQNR FGRLSVRCHY
+     EAAEQRLAVE VLHAADLLPL DANGLSDPFV IVELGPPHLF PLVRSQRTQV KTRTLHPVYD
+     ELFYFSVPAE ACRRRAACVL FTVMDHDWLS TNDFAGEAAL GLGGVTGVAR PQVGGGARAG
+     QPVTLHLCRP RAQVRSALRR LEGRTSKEAQ EFVKKLKELE KCMEADP
+//

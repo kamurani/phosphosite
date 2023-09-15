@@ -1,0 +1,144 @@
+ID   LRC58_HUMAN             Reviewed;         371 AA.
+AC   Q96CX6;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   04-DEC-2007, sequence version 2.
+DT   28-JUN-2023, entry version 138.
+DE   RecName: Full=Leucine-rich repeat-containing protein 58;
+GN   Name=LRRC58;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [2]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-24, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH13757.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; BC013757; AAH13757.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS46892.1; -.
+DR   RefSeq; NP_001093148.1; NM_001099678.1.
+DR   AlphaFoldDB; Q96CX6; -.
+DR   SMR; Q96CX6; -.
+DR   BioGRID; 125468; 9.
+DR   IntAct; Q96CX6; 6.
+DR   MINT; Q96CX6; -.
+DR   STRING; 9606.ENSP00000295628; -.
+DR   GlyGen; Q96CX6; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q96CX6; -.
+DR   PhosphoSitePlus; Q96CX6; -.
+DR   BioMuta; LRRC58; -.
+DR   DMDM; 162416229; -.
+DR   EPD; Q96CX6; -.
+DR   jPOST; Q96CX6; -.
+DR   MassIVE; Q96CX6; -.
+DR   MaxQB; Q96CX6; -.
+DR   PaxDb; Q96CX6; -.
+DR   PeptideAtlas; Q96CX6; -.
+DR   ProteomicsDB; 76240; -.
+DR   Antibodypedia; 58235; 22 antibodies from 12 providers.
+DR   DNASU; 116064; -.
+DR   Ensembl; ENST00000295628.4; ENSP00000295628.3; ENSG00000163428.4.
+DR   GeneID; 116064; -.
+DR   KEGG; hsa:116064; -.
+DR   MANE-Select; ENST00000295628.4; ENSP00000295628.3; NM_001099678.2; NP_001093148.1.
+DR   UCSC; uc003edr.3; human.
+DR   AGR; HGNC:26968; -.
+DR   CTD; 116064; -.
+DR   DisGeNET; 116064; -.
+DR   GeneCards; LRRC58; -.
+DR   HGNC; HGNC:26968; LRRC58.
+DR   HPA; ENSG00000163428; Low tissue specificity.
+DR   neXtProt; NX_Q96CX6; -.
+DR   OpenTargets; ENSG00000163428; -.
+DR   PharmGKB; PA142671517; -.
+DR   VEuPathDB; HostDB:ENSG00000163428; -.
+DR   eggNOG; KOG0619; Eukaryota.
+DR   GeneTree; ENSGT00940000156556; -.
+DR   HOGENOM; CLU_000288_18_2_1; -.
+DR   InParanoid; Q96CX6; -.
+DR   OMA; FVKEMIY; -.
+DR   OrthoDB; 24416at2759; -.
+DR   PhylomeDB; Q96CX6; -.
+DR   TreeFam; TF351911; -.
+DR   PathwayCommons; Q96CX6; -.
+DR   SignaLink; Q96CX6; -.
+DR   BioGRID-ORCS; 116064; 14 hits in 1150 CRISPR screens.
+DR   ChiTaRS; LRRC58; human.
+DR   GenomeRNAi; 116064; -.
+DR   Pharos; Q96CX6; Tdark.
+DR   PRO; PR:Q96CX6; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; Q96CX6; protein.
+DR   Bgee; ENSG00000163428; Expressed in upper arm skin and 195 other tissues.
+DR   Genevisible; Q96CX6; HS.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 2.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   PANTHER; PTHR48051; -; 1.
+DR   PANTHER; PTHR48051:SF1; NON-SPECIFIC SERINE/THREONINE PROTEIN KINASE-RELATED; 1.
+DR   Pfam; PF13855; LRR_8; 3.
+DR   SMART; SM00369; LRR_TYP; 7.
+DR   SUPFAM; SSF52058; L domain-like; 1.
+DR   PROSITE; PS51450; LRR; 8.
+PE   1: Evidence at protein level;
+KW   Leucine-rich repeat; Phosphoprotein; Reference proteome; Repeat.
+FT   CHAIN           1..371
+FT                   /note="Leucine-rich repeat-containing protein 58"
+FT                   /id="PRO_0000312017"
+FT   REPEAT          45..66
+FT                   /note="LRR 1"
+FT   REPEAT          69..91
+FT                   /note="LRR 2"
+FT   REPEAT          92..113
+FT                   /note="LRR 3"
+FT   REPEAT          121..143
+FT                   /note="LRR 4"
+FT   REPEAT          144..166
+FT                   /note="LRR 5"
+FT   REPEAT          167..189
+FT                   /note="LRR 6"
+FT   REPEAT          190..211
+FT                   /note="LRR 7"
+FT   REPEAT          213..234
+FT                   /note="LRR 8"
+FT   REPEAT          236..256
+FT                   /note="LRR 9"
+FT   REGION          340..361
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        340..355
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         24
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+SQ   SEQUENCE   371 AA;  40586 MW;  89C66EAD62CBE55C CRC64;
+     MEEAGAAVVT AGEAELNWSR LSVSTETLES ELEARGEERR GAREALLRLL LPHNRLVSLP
+     RALGSGFPHL QLLDVSGNAL TALGPELLAL RGLRTLLAKN NRLGGPSALP KGLAQSPLCR
+     SLQVLNLSGN CFQEVPASLL ELRALQTLSL GGNQLQSIPA EIENLQSLEC LYLGGNFIKE
+     IPPELGNLPS LNYLVLCDNK IQSIPPQLSQ LHSLRSLSLH NNLLTYLPRE ILNLIHLEEL
+     SLRGNPLVVR FVRDLTYDPP TLLELAARTI KIRNISYTPY DLPGNLLRYL GSASNCPNPK
+     CGGVYFDCCV RQIKFVDFCG KYRLPLMHYL CSPECSSPCS SASHSSTSQS ESDSEDEASV
+     AARRMQKVLL G
+//

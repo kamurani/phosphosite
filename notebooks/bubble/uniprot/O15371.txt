@@ -1,0 +1,705 @@
+ID   EIF3D_HUMAN             Reviewed;         548 AA.
+AC   O15371; A8MWD3; B2R7D4; B4DTF8; B4DVY1; Q3MJD9; Q5M9Q6;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   28-JUN-2023, entry version 206.
+DE   RecName: Full=Eukaryotic translation initiation factor 3 subunit D {ECO:0000255|HAMAP-Rule:MF_03003};
+DE            Short=eIF3d {ECO:0000255|HAMAP-Rule:MF_03003};
+DE   AltName: Full=Eukaryotic translation initiation factor 3 subunit 7 {ECO:0000255|HAMAP-Rule:MF_03003};
+DE   AltName: Full=eIF-3-zeta {ECO:0000255|HAMAP-Rule:MF_03003};
+DE   AltName: Full=eIF3 p66;
+GN   Name=EIF3D {ECO:0000255|HAMAP-Rule:MF_03003};
+GN   Synonyms=EIF3S7 {ECO:0000255|HAMAP-Rule:MF_03003};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Liver;
+RX   PubMed=9341143; DOI=10.1074/jbc.272.43.27042;
+RA   Asano K., Vornlocher H.-P., Richter-Cook N.J., Merrick W.C.,
+RA   Hinnebusch A.G., Hershey J.W.B.;
+RT   "Structure of cDNAs encoding human eukaryotic initiation factor 3 subunits.
+RT   Possible roles in RNA binding and macromolecular assembly.";
+RL   J. Biol. Chem. 272:27042-27052(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=15461802; DOI=10.1186/gb-2004-5-10-r84;
+RA   Collins J.E., Wright C.L., Edwards C.A., Davis M.P., Grinham J.A.,
+RA   Cole C.G., Goward M.E., Aguado B., Mallya M., Mokrab Y., Huckle E.J.,
+RA   Beare D.M., Dunham I.;
+RT   "A genome annotation-driven approach to cloning the human ORFeome.";
+RL   Genome Biol. 5:R84.1-R84.11(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1; 2 AND 3).
+RC   TISSUE=Placenta, and Stomach;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10591208; DOI=10.1038/990031;
+RA   Dunham I., Hunt A.R., Collins J.E., Bruskiewich R., Beare D.M., Clamp M.,
+RA   Smink L.J., Ainscough R., Almeida J.P., Babbage A.K., Bagguley C.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beasley O.P., Bird C.P., Blakey S.E.,
+RA   Bridgeman A.M., Buck D., Burgess J., Burrill W.D., Burton J., Carder C.,
+RA   Carter N.P., Chen Y., Clark G., Clegg S.M., Cobley V.E., Cole C.G.,
+RA   Collier R.E., Connor R., Conroy D., Corby N.R., Coville G.J., Cox A.V.,
+RA   Davis J., Dawson E., Dhami P.D., Dockree C., Dodsworth S.J., Durbin R.M.,
+RA   Ellington A.G., Evans K.L., Fey J.M., Fleming K., French L., Garner A.A.,
+RA   Gilbert J.G.R., Goward M.E., Grafham D.V., Griffiths M.N.D., Hall C.,
+RA   Hall R.E., Hall-Tamlyn G., Heathcott R.W., Ho S., Holmes S., Hunt S.E.,
+RA   Jones M.C., Kershaw J., Kimberley A.M., King A., Laird G.K., Langford C.F.,
+RA   Leversha M.A., Lloyd C., Lloyd D.M., Martyn I.D., Mashreghi-Mohammadi M.,
+RA   Matthews L.H., Mccann O.T., Mcclay J., Mclaren S., McMurray A.A.,
+RA   Milne S.A., Mortimore B.J., Odell C.N., Pavitt R., Pearce A.V., Pearson D.,
+RA   Phillimore B.J.C.T., Phillips S.H., Plumb R.W., Ramsay H., Ramsey Y.,
+RA   Rogers L., Ross M.T., Scott C.E., Sehra H.K., Skuce C.D., Smalley S.,
+RA   Smith M.L., Soderlund C., Spragon L., Steward C.A., Sulston J.E.,
+RA   Swann R.M., Vaudin M., Wall M., Wallis J.M., Whiteley M.N., Willey D.L.,
+RA   Williams L., Williams S.A., Williamson H., Wilmer T.E., Wilming L.,
+RA   Wright C.L., Hubbard T., Bentley D.R., Beck S., Rogers J., Shimizu N.,
+RA   Minoshima S., Kawasaki K., Sasaki T., Asakawa S., Kudoh J., Shintani A.,
+RA   Shibuya K., Yoshizaki Y., Aoki N., Mitsuyama S., Roe B.A., Chen F., Chu L.,
+RA   Crabtree J., Deschamps S., Do A., Do T., Dorman A., Fang F., Fu Y., Hu P.,
+RA   Hua A., Kenton S., Lai H., Lao H.I., Lewis J., Lewis S., Lin S.-P., Loh P.,
+RA   Malaj E., Nguyen T., Pan H., Phan S., Qi S., Qian Y., Ray L., Ren Q.,
+RA   Shaull S., Sloan D., Song L., Wang Q., Wang Y., Wang Z., White J.,
+RA   Willingham D., Wu H., Yao Z., Zhan M., Zhang G., Chissoe S., Murray J.,
+RA   Miller N., Minx P., Fulton R., Johnson D., Bemis G., Bentley D.,
+RA   Bradshaw H., Bourne S., Cordes M., Du Z., Fulton L., Goela D., Graves T.,
+RA   Hawkins J., Hinds K., Kemp K., Latreille P., Layman D., Ozersky P.,
+RA   Rohlfing T., Scheet P., Walker C., Wamsley A., Wohldmann P., Pepin K.,
+RA   Nelson J., Korf I., Bedell J.A., Hillier L.W., Mardis E., Waterston R.,
+RA   Wilson R., Emanuel B.S., Shaikh T., Kurahashi H., Saitta S., Budarf M.L.,
+RA   McDermid H.E., Johnson A., Wong A.C.C., Morrow B.E., Edelmann L., Kim U.J.,
+RA   Shizuya H., Simon M.I., Dumanski J.P., Peyrard M., Kedra D., Seroussi E.,
+RA   Fransson I., Tapia I., Bruder C.E., O'Brien K.P., Wilkinson P.,
+RA   Bodenteich A., Hartman K., Hu X., Khan A.S., Lane L., Tilahun Y.,
+RA   Wright H.;
+RT   "The DNA sequence of human chromosome 22.";
+RL   Nature 402:489-495(1999).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain, Lung, Muscle, Skin, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   INTERACTION WITH NORWALK VIRUS VPG PROTEIN (MICROBIAL INFECTION).
+RX   PubMed=12773399; DOI=10.1093/emboj/cdg251;
+RA   Daughenbaugh K.F., Fraser C.S., Hershey J.W., Hardy M.E.;
+RT   "The genome-linked protein VPg of the Norwalk virus binds eIF3, suggesting
+RT   its role in translation initiation complex recruitment.";
+RL   EMBO J. 22:2852-2859(2003).
+RN   [9]
+RP   CHARACTERIZATION OF THE EIF-3 COMPLEX.
+RX   PubMed=15703437; DOI=10.1261/rna.7215305;
+RA   Kolupaeva V.G., Unbehaun A., Lomakin I.B., Hellen C.U.T., Pestova T.V.;
+RT   "Binding of eukaryotic initiation factor 3 to ribosomal 40S subunits and
+RT   its role in ribosomal dissociation and anti-association.";
+RL   RNA 11:470-486(2005).
+RN   [10]
+RP   IDENTIFICATION IN THE EIF-3 COMPLEX, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=16766523; DOI=10.1074/jbc.m605418200;
+RA   LeFebvre A.K., Korneeva N.L., Trutschl M., Cvek U., Duzan R.D.,
+RA   Bradley C.A., Hershey J.W.B., Rhoads R.E.;
+RT   "Translation initiation factor eIF4G-1 binds to eIF3 through the eIF3e
+RT   subunit.";
+RL   J. Biol. Chem. 281:22917-22932(2006).
+RN   [11]
+RP   CHARACTERIZATION OF THE EIF-3 COMPLEX.
+RX   PubMed=17581632; DOI=10.1038/sj.emboj.7601765;
+RA   Masutani M., Sonenberg N., Yokoyama S., Imataka H.;
+RT   "Reconstitution reveals the functional core of mammalian eIF3.";
+RL   EMBO J. 26:3373-3383(2007).
+RN   [12]
+RP   FUNCTION (MICROBIAL INFECTION).
+RX   PubMed=18056426; DOI=10.1101/gad.439507;
+RA   Poyry T.A., Kaminski A., Connell E.J., Fraser C.S., Jackson R.J.;
+RT   "The mechanism of an exceptional case of reinitiation after translation of
+RT   a long ORF reveals why such events do not generally occur in mammalian mRNA
+RT   translation.";
+RL   Genes Dev. 21:3149-3162(2007).
+RN   [13]
+RP   IDENTIFICATION IN THE EIF-3 COMPLEX, CHARACTERIZATION OF THE EIF-3 COMPLEX,
+RP   AND MASS SPECTROMETRY.
+RX   PubMed=17322308; DOI=10.1074/mcp.m600399-mcp200;
+RA   Damoc E., Fraser C.S., Zhou M., Videler H., Mayeur G.L., Hershey J.W.B.,
+RA   Doudna J.A., Robinson C.V., Leary J.A.;
+RT   "Structural characterization of the human eukaryotic initiation factor 3
+RT   protein complex by mass spectrometry.";
+RL   Mol. Cell. Proteomics 6:1135-1146(2007).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Platelet;
+RX   PubMed=18088087; DOI=10.1021/pr0704130;
+RA   Zahedi R.P., Lewandrowski U., Wiesner J., Wortelkamp S., Moebius J.,
+RA   Schuetz C., Walter U., Gambaryan S., Sickmann A.;
+RT   "Phosphoproteome of resting human platelets.";
+RL   J. Proteome Res. 7:526-534(2008).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-529, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [17]
+RP   FUNCTION, IDENTIFICATION IN THE EIF-3 COMPLEX, CHARACTERIZATION OF THE
+RP   EIF-3 COMPLEX, AND MASS SPECTROMETRY.
+RX   PubMed=18599441; DOI=10.1073/pnas.0801313105;
+RA   Zhou M., Sandercock A.M., Fraser C.S., Ridlova G., Stephens E.,
+RA   Schenauer M.R., Yokoi-Fong T., Barsky D., Leary J.A., Hershey J.W.B.,
+RA   Doudna J.A., Robinson C.V.;
+RT   "Mass spectrometry reveals modularity and a complete subunit interaction
+RT   map of the eukaryotic translation factor eIF3.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:18139-18144(2008).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-528 AND SER-529, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-529, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [20]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [21]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-161, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [22]
+RP   POSSIBLE INVOLVEMENT IN CANCER.
+RX   PubMed=25370813; DOI=10.1042/bsr20140078;
+RA   Yu X., Zheng B., Chai R.;
+RT   "Lentivirus-mediated knockdown of eukaryotic translation initiation factor
+RT   3 subunit D inhibits proliferation of HCT116 colon cancer cells.";
+RL   Biosci. Rep. 34:E00161-E00161(2014).
+RN   [23]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [24]
+RP   POSSIBLE INVOLVEMENT IN CANCER.
+RX   PubMed=25322666; DOI=10.1002/bab.1305;
+RA   Li H., Zhou F., Wang H., Lin D., Chen G., Zuo X., Sun L., Zhang X.,
+RA   Yang S.;
+RT   "Knockdown of EIF3D suppresses proliferation of human melanoma cells
+RT   through G2/M phase arrest.";
+RL   Biotechnol. Appl. Biochem. 62:615-620(2015).
+RN   [25]
+RP   POSSIBLE INVOLVEMENT IN CANCER.
+RX   PubMed=25682860; DOI=10.1111/cbdd.12542;
+RA   Ren M., Zhou C., Liang H., Wang X., Xu L.;
+RT   "RNAi-mediated silencing of eif3d alleviates proliferation and migration of
+RT   glioma U251 and U87MG cells.";
+RL   Chem. Biol. Drug Des. 86:715-722(2015).
+RN   [26]
+RP   POSSIBLE INVOLVEMENT IN CANCER.
+RX   PubMed=26617750;
+RA   Fan Y., Guo Y.;
+RT   "Knockdown of eIF3D inhibits breast cancer cell proliferation and invasion
+RT   through suppressing the Wnt/beta-catenin signaling pathway.";
+RL   Int. J. Clin. Exp. Pathol. 8:10420-10427(2015).
+RN   [27]
+RP   POSSIBLE INVOLVEMENT IN CANCER.
+RX   PubMed=26008152; DOI=10.1007/s12032-015-0625-8;
+RA   Lin Z., Xiong L., Lin Q.;
+RT   "Knockdown of eIF3d inhibits cell proliferation through G2/M phase arrest
+RT   in non-small cell lung cancer.";
+RL   Med. Oncol. 32:183-183(2015).
+RN   [28]
+RP   POSSIBLE INVOLVEMENT IN CANCER.
+RX   PubMed=26036682; DOI=10.1007/s12032-015-0518-x;
+RA   Gao Y., Teng J., Hong Y., Qu F., Ren J., Li L., Pan X., Chen L., Yin L.,
+RA   Xu D., Cui X.;
+RT   "The oncogenic role of EIF3D is associated with increased cell cycle
+RT   progression and motility in prostate cancer.";
+RL   Med. Oncol. 32:518-518(2015).
+RN   [29]
+RP   FUNCTION, AND IDENTIFICATION IN THE EIF-3 COMPLEX.
+RX   PubMed=25849773; DOI=10.1038/nature14267;
+RA   Lee A.S., Kranzusch P.J., Cate J.H.;
+RT   "eIF3 targets cell-proliferation messenger RNAs for translational
+RT   activation or repression.";
+RL   Nature 522:111-114(2015).
+RN   [30]
+RP   POSSIBLE INVOLVEMENT IN CANCER.
+RX   PubMed=27035563; DOI=10.3892/ijo.2016.3459;
+RA   Pan X.W., Chen L., Hong Y., Xu D.F., Liu X., Li L., Huang Y., Cui L.M.,
+RA   Gan S.S., Yang Q.W., Huang H., Qu F.J., Ye J.Q., Wang L.H., Cui X.G.;
+RT   "EIF3D silencing suppresses renal cell carcinoma tumorigenesis via inducing
+RT   G2/M arrest through downregulation of Cyclin B1/CDK1 signaling.";
+RL   Int. J. Oncol. 48:2580-2590(2016).
+RN   [31]
+RP   FUNCTION, DOMAIN, RNA-BINDING, IDENTIFICATION BY MASS SPECTROMETRY, AND
+RP   MUTAGENESIS OF ASP-249; 262-VAL-TYR-263 AND 317-THR--HIS-321.
+RX   PubMed=27462815; DOI=10.1038/nature18954;
+RA   Lee A.S., Kranzusch P.J., Doudna J.A., Cate J.H.;
+RT   "eIF3d is an mRNA cap-binding protein that is required for specialized
+RT   translation initiation.";
+RL   Nature 536:96-99(2016).
+RN   [32]
+RP   3D-STRUCTURE MODELING, AND ELECTRON MICROSCOPY.
+RX   PubMed=16322461; DOI=10.1126/science.1118977;
+RA   Siridechadilok B., Fraser C.S., Hall R.J., Doudna J.A., Nogales E.;
+RT   "Structural roles for human translation factor eIF3 in initiation of
+RT   protein synthesis.";
+RL   Science 310:1513-1515(2005).
+RN   [33]
+RP   VARIANT CYS-310.
+RX   PubMed=25787250; DOI=10.1073/pnas.1503696112;
+RA   Cromer M.K., Choi M., Nelson-Williams C., Fonseca A.L., Kunstman J.W.,
+RA   Korah R.M., Overton J.D., Mane S., Kenney B., Malchoff C.D., Stalberg P.,
+RA   Akerstroem G., Westin G., Hellman P., Carling T., Bjoerklund P.,
+RA   Lifton R.P.;
+RT   "Neomorphic effects of recurrent somatic mutations in Yin Yang 1 in
+RT   insulin-producing adenomas.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 112:4062-4067(2015).
+CC   -!- FUNCTION: mRNA cap-binding component of the eukaryotic translation
+CC       initiation factor 3 (eIF-3) complex, a complex required for several
+CC       steps in the initiation of protein synthesis of a specialized
+CC       repertoire of mRNAs (PubMed:27462815). The eIF-3 complex associates
+CC       with the 40S ribosome and facilitates the recruitment of eIF-1, eIF-1A,
+CC       eIF-2:GTP:methionyl-tRNAi and eIF-5 to form the 43S pre-initiation
+CC       complex (43S PIC). The eIF-3 complex stimulates mRNA recruitment to the
+CC       43S PIC and scanning of the mRNA for AUG recognition. The eIF-3 complex
+CC       is also required for disassembly and recycling of post-termination
+CC       ribosomal complexes and subsequently prevents premature joining of the
+CC       40S and 60S ribosomal subunits prior to initiation (PubMed:18599441,
+CC       PubMed:25849773). The eIF-3 complex specifically targets and initiates
+CC       translation of a subset of mRNAs involved in cell proliferation,
+CC       including cell cycling, differentiation and apoptosis, and uses
+CC       different modes of RNA stem-loop binding to exert either translational
+CC       activation or repression (PubMed:25849773). In the eIF-3 complex, EIF3D
+CC       specifically recognizes and binds the 7-methylguanosine cap of a subset
+CC       of mRNAs (PubMed:27462815). {ECO:0000269|PubMed:18599441,
+CC       ECO:0000269|PubMed:25849773, ECO:0000269|PubMed:27462815}.
+CC   -!- FUNCTION: (Microbial infection) In case of FCV infection, plays a role
+CC       in the ribosomal termination-reinitiation event leading to the
+CC       translation of VP2 (PubMed:18056426). {ECO:0000269|PubMed:18056426}.
+CC   -!- SUBUNIT: Component of the eukaryotic translation initiation factor 3
+CC       (eIF-3) complex, which is composed of 13 subunits: EIF3A, EIF3B, EIF3C,
+CC       EIF3D, EIF3E, EIF3F, EIF3G, EIF3H, EIF3I, EIF3J, EIF3K, EIF3L and
+CC       EIF3M. The eIF-3 complex appears to include 3 stable modules: module A
+CC       is composed of EIF3A, EIF3B, EIF3G and EIF3I; module B is composed of
+CC       EIF3F, EIF3H, and EIF3M; and module C is composed of EIF3C, EIF3D,
+CC       EIF3E, EIF3K and EIF3L. EIF3C of module C binds EIF3B of module A and
+CC       EIF3H of module B, thereby linking the three modules. EIF3J is a labile
+CC       subunit that binds to the eIF-3 complex via EIF3B. The eIF-3 complex
+CC       interacts with RPS6KB1 under conditions of nutrient depletion.
+CC       Mitogenic stimulation leads to binding and activation of a complex
+CC       composed of MTOR and RPTOR, leading to phosphorylation and release of
+CC       RPS6KB1 and binding of EIF4B to eIF-3. {ECO:0000255|HAMAP-
+CC       Rule:MF_03003, ECO:0000269|PubMed:12773399,
+CC       ECO:0000269|PubMed:16766523, ECO:0000269|PubMed:17322308,
+CC       ECO:0000269|PubMed:18599441, ECO:0000269|PubMed:25849773}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with Norwalk virus VPg protein
+CC       (PubMed:12773399). {ECO:0000269|PubMed:12773399}.
+CC   -!- INTERACTION:
+CC       O15371; O15084: ANKRD28; NbExp=3; IntAct=EBI-353818, EBI-359567;
+CC       O15371; Q7L4P6: BEND5; NbExp=3; IntAct=EBI-353818, EBI-724373;
+CC       O15371; Q86Z20: CCDC125; NbExp=3; IntAct=EBI-353818, EBI-11977221;
+CC       O15371; Q2TAC2-2: CCDC57; NbExp=3; IntAct=EBI-353818, EBI-10961624;
+CC       O15371; Q8NHQ1: CEP70; NbExp=3; IntAct=EBI-353818, EBI-739624;
+CC       O15371; Q92997: DVL3; NbExp=3; IntAct=EBI-353818, EBI-739789;
+CC       O15371; P60228: EIF3E; NbExp=6; IntAct=EBI-353818, EBI-347740;
+CC       O15371; A6NEM1: GOLGA6L9; NbExp=3; IntAct=EBI-353818, EBI-5916454;
+CC       O15371; Q9NSC5: HOMER3; NbExp=8; IntAct=EBI-353818, EBI-748420;
+CC       O15371; Q96ED9-2: HOOK2; NbExp=3; IntAct=EBI-353818, EBI-10961706;
+CC       O15371; O75031: HSF2BP; NbExp=3; IntAct=EBI-353818, EBI-7116203;
+CC       O15371; Q9BVG8-5: KIFC3; NbExp=3; IntAct=EBI-353818, EBI-14069005;
+CC       O15371; Q9BRK4: LZTS2; NbExp=3; IntAct=EBI-353818, EBI-741037;
+CC       O15371; Q6PF18: MORN3; NbExp=3; IntAct=EBI-353818, EBI-9675802;
+CC       O15371; Q5JR59-3: MTUS2; NbExp=3; IntAct=EBI-353818, EBI-11522433;
+CC       O15371; Q8WV24: PHLDA1; NbExp=2; IntAct=EBI-353818, EBI-738731;
+CC       O15371; Q9NRD5: PICK1; NbExp=3; IntAct=EBI-353818, EBI-79165;
+CC       O15371; P62487: POLR2G; NbExp=3; IntAct=EBI-353818, EBI-347928;
+CC       O15371; Q04864: REL; NbExp=3; IntAct=EBI-353818, EBI-307352;
+CC       O15371; P21673: SAT1; NbExp=3; IntAct=EBI-353818, EBI-711613;
+CC       O15371; Q9UBB9: TFIP11; NbExp=3; IntAct=EBI-353818, EBI-1105213;
+CC       O15371; P36406: TRIM23; NbExp=3; IntAct=EBI-353818, EBI-740098;
+CC       O15371; P14373: TRIM27; NbExp=6; IntAct=EBI-353818, EBI-719493;
+CC       O15371; Q9UGI0: ZRANB1; NbExp=3; IntAct=EBI-353818, EBI-527853;
+CC       O15371; Q9Q2G4: ORF; Xeno; NbExp=5; IntAct=EBI-353818, EBI-6248094;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_03003}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=O15371-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O15371-2; Sequence=VSP_055473;
+CC       Name=3;
+CC         IsoId=O15371-3; Sequence=VSP_055474;
+CC   -!- DOMAIN: The RNA gate region regulates mRNA cap recognition to prevent
+CC       promiscuous mRNA-binding before assembly of EIF3D into the full
+CC       eukaryotic translation initiation factor 3 (eIF-3) complex.
+CC       {ECO:0000305|PubMed:27462815}.
+CC   -!- MASS SPECTROMETRY: Mass=63972.9; Method=Unknown;
+CC       Evidence={ECO:0000269|PubMed:17322308};
+CC   -!- MASS SPECTROMETRY: Mass=64046.7; Mass_error=1.4; Method=MALDI;
+CC       Evidence={ECO:0000269|PubMed:18599441};
+CC   -!- DISEASE: Note=Defects in EIF3D are associated with some cancers, such
+CC       as prostate, breast and colon cancers. Disease susceptibility may be
+CC       associated with variants affecting the gene represented in this entry.
+CC       Down-regulation inhibits proliferation of cancers (PubMed:25370813,
+CC       PubMed:25322666, PubMed:25682860, PubMed:26617750, PubMed:26008152,
+CC       PubMed:26036682, PubMed:27035563). {ECO:0000269|PubMed:25322666,
+CC       ECO:0000269|PubMed:25370813, ECO:0000269|PubMed:25682860,
+CC       ECO:0000269|PubMed:26008152, ECO:0000269|PubMed:26036682,
+CC       ECO:0000269|PubMed:26617750, ECO:0000269|PubMed:27035563}.
+CC   -!- SIMILARITY: Belongs to the eIF-3 subunit D family. {ECO:0000255|HAMAP-
+CC       Rule:MF_03003}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U54558; AAD03466.1; -; mRNA.
+DR   EMBL; BT007381; AAP36045.1; -; mRNA.
+DR   EMBL; CR456489; CAG30375.1; -; mRNA.
+DR   EMBL; AK300199; BAG61970.1; -; mRNA.
+DR   EMBL; AK301284; BAG62843.1; -; mRNA.
+DR   EMBL; AK312939; BAG35781.1; -; mRNA.
+DR   EMBL; AL022313; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471095; EAW60109.1; -; Genomic_DNA.
+DR   EMBL; BC000328; AAH00328.1; -; mRNA.
+DR   EMBL; BC000469; AAH00469.1; -; mRNA.
+DR   EMBL; BC014912; AAH14912.1; -; mRNA.
+DR   EMBL; BC080515; AAH80515.1; -; mRNA.
+DR   EMBL; BC093100; AAH93100.1; -; mRNA.
+DR   EMBL; BC093686; AAH93686.1; -; mRNA.
+DR   EMBL; BC101477; AAI01478.1; -; mRNA.
+DR   CCDS; CCDS13930.1; -. [O15371-1]
+DR   RefSeq; NP_003744.1; NM_003753.3. [O15371-1]
+DR   PDB; 6YBD; EM; 3.30 A; x=1-548.
+DR   PDB; 6YBS; EM; 3.10 A; x=1-548.
+DR   PDB; 6ZMW; EM; 3.70 A; x=1-548.
+DR   PDB; 6ZON; EM; 3.00 A; D=1-548.
+DR   PDB; 6ZP4; EM; 2.90 A; N=1-548.
+DR   PDB; 6ZVJ; EM; 3.80 A; D=1-527.
+DR   PDB; 7A09; EM; 3.50 A; N=1-548.
+DR   PDB; 7QP6; EM; 4.70 A; x=1-548.
+DR   PDB; 7QP7; EM; 3.70 A; x=1-548.
+DR   PDBsum; 6YBD; -.
+DR   PDBsum; 6YBS; -.
+DR   PDBsum; 6ZMW; -.
+DR   PDBsum; 6ZON; -.
+DR   PDBsum; 6ZP4; -.
+DR   PDBsum; 6ZVJ; -.
+DR   PDBsum; 7A09; -.
+DR   PDBsum; 7QP6; -.
+DR   PDBsum; 7QP7; -.
+DR   AlphaFoldDB; O15371; -.
+DR   SMR; O15371; -.
+DR   BioGRID; 114213; 223.
+DR   ComplexPortal; CPX-6036; Eukaryotic translation initiation factor 3 complex.
+DR   CORUM; O15371; -.
+DR   DIP; DIP-32870N; -.
+DR   IntAct; O15371; 100.
+DR   MINT; O15371; -.
+DR   STRING; 9606.ENSP00000216190; -.
+DR   MoonProt; O15371; -.
+DR   GlyCosmos; O15371; 2 sites, 1 glycan.
+DR   GlyGen; O15371; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; O15371; -.
+DR   MetOSite; O15371; -.
+DR   PhosphoSitePlus; O15371; -.
+DR   SwissPalm; O15371; -.
+DR   BioMuta; EIF3D; -.
+DR   EPD; O15371; -.
+DR   jPOST; O15371; -.
+DR   MassIVE; O15371; -.
+DR   MaxQB; O15371; -.
+DR   PaxDb; O15371; -.
+DR   PeptideAtlas; O15371; -.
+DR   ProteomicsDB; 2242; -.
+DR   ProteomicsDB; 48614; -. [O15371-1]
+DR   ProteomicsDB; 5301; -.
+DR   Antibodypedia; 25691; 292 antibodies from 32 providers.
+DR   DNASU; 8664; -.
+DR   Ensembl; ENST00000216190.13; ENSP00000216190.8; ENSG00000100353.18. [O15371-1]
+DR   Ensembl; ENST00000405442.5; ENSP00000385812.1; ENSG00000100353.18. [O15371-1]
+DR   GeneID; 8664; -.
+DR   KEGG; hsa:8664; -.
+DR   MANE-Select; ENST00000216190.13; ENSP00000216190.8; NM_003753.4; NP_003744.1.
+DR   UCSC; uc003apr.4; human. [O15371-1]
+DR   AGR; HGNC:3278; -.
+DR   CTD; 8664; -.
+DR   DisGeNET; 8664; -.
+DR   GeneCards; EIF3D; -.
+DR   HGNC; HGNC:3278; EIF3D.
+DR   HPA; ENSG00000100353; Low tissue specificity.
+DR   MIM; 603915; gene.
+DR   neXtProt; NX_O15371; -.
+DR   OpenTargets; ENSG00000100353; -.
+DR   PharmGKB; PA162384740; -.
+DR   VEuPathDB; HostDB:ENSG00000100353; -.
+DR   eggNOG; KOG2479; Eukaryota.
+DR   GeneTree; ENSGT00390000002667; -.
+DR   HOGENOM; CLU_024521_2_0_1; -.
+DR   InParanoid; O15371; -.
+DR   OMA; DGWGPCE; -.
+DR   OrthoDB; 226064at2759; -.
+DR   PhylomeDB; O15371; -.
+DR   TreeFam; TF101519; -.
+DR   PathwayCommons; O15371; -.
+DR   Reactome; R-HSA-156827; L13a-mediated translational silencing of Ceruloplasmin expression.
+DR   Reactome; R-HSA-72649; Translation initiation complex formation.
+DR   Reactome; R-HSA-72689; Formation of a pool of free 40S subunits.
+DR   Reactome; R-HSA-72695; Formation of the ternary complex, and subsequently, the 43S complex.
+DR   Reactome; R-HSA-72702; Ribosomal scanning and start codon recognition.
+DR   Reactome; R-HSA-72706; GTP hydrolysis and joining of the 60S ribosomal subunit.
+DR   SignaLink; O15371; -.
+DR   SIGNOR; O15371; -.
+DR   BioGRID-ORCS; 8664; 846 hits in 1172 CRISPR screens.
+DR   ChiTaRS; EIF3D; human.
+DR   GeneWiki; EIF3D; -.
+DR   GenomeRNAi; 8664; -.
+DR   Pharos; O15371; Tbio.
+DR   PRO; PR:O15371; -.
+DR   Proteomes; UP000005640; Chromosome 22.
+DR   RNAct; O15371; protein.
+DR   Bgee; ENSG00000100353; Expressed in body of pancreas and 211 other tissues.
+DR   ExpressionAtlas; O15371; baseline and differential.
+DR   Genevisible; O15371; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0016282; C:eukaryotic 43S preinitiation complex; IEA:UniProtKB-UniRule.
+DR   GO; GO:0033290; C:eukaryotic 48S preinitiation complex; IEA:UniProtKB-UniRule.
+DR   GO; GO:0005852; C:eukaryotic translation initiation factor 3 complex; IDA:UniProtKB.
+DR   GO; GO:0071541; C:eukaryotic translation initiation factor 3 complex, eIF3m; IEA:Ensembl.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0045202; C:synapse; IEA:Ensembl.
+DR   GO; GO:0098808; F:mRNA cap binding; IDA:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; IDA:UniProtKB.
+DR   GO; GO:0003743; F:translation initiation factor activity; IEA:UniProtKB-UniRule.
+DR   GO; GO:0002191; P:cap-dependent translational initiation; IDA:UniProtKB.
+DR   GO; GO:0001732; P:formation of cytoplasmic translation initiation complex; NAS:ComplexPortal.
+DR   GO; GO:0075522; P:IRES-dependent viral translational initiation; IDA:UniProtKB.
+DR   GO; GO:1902416; P:positive regulation of mRNA binding; IPI:ParkinsonsUK-UCL.
+DR   GO; GO:0045727; P:positive regulation of translation; IPI:ParkinsonsUK-UCL.
+DR   GO; GO:0006413; P:translational initiation; IDA:UniProtKB.
+DR   GO; GO:0075525; P:viral translational termination-reinitiation; IDA:UniProtKB.
+DR   HAMAP; MF_03003; eIF3d; 1.
+DR   InterPro; IPR007783; eIF3d.
+DR   PANTHER; PTHR12399; EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT 7; 1.
+DR   PANTHER; PTHR12399:SF0; EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT D; 1.
+DR   Pfam; PF05091; eIF-3_zeta; 1.
+DR   PIRSF; PIRSF016281; EIF-3_zeta; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Cytoplasm;
+KW   Host-virus interaction; Initiation factor; Phosphoprotein;
+KW   Protein biosynthesis; Reference proteome; RNA-binding.
+FT   CHAIN           1..548
+FT                   /note="Eukaryotic translation initiation factor 3 subunit
+FT                   D"
+FT                   /id="PRO_0000123520"
+FT   REGION          285..299
+FT                   /note="RNA gate"
+FT                   /evidence="ECO:0000250|UniProtKB:K7IM66"
+FT   REGION          523..548
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        527..548
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         53
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0000250|UniProtKB:O70194"
+FT   MOD_RES         161
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         528
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         529
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231"
+FT   VAR_SEQ         54..102
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_055473"
+FT   VAR_SEQ         137..151
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_055474"
+FT   VARIANT         310
+FT                   /note="R -> C (in dbSNP:rs745920273)"
+FT                   /evidence="ECO:0000269|PubMed:25787250"
+FT                   /id="VAR_074184"
+FT   MUTAGEN         249
+FT                   /note="D->Q: Reduced binding to JUN mRNA; when associated
+FT                   with 262-I-A-263."
+FT                   /evidence="ECO:0000269|PubMed:27462815"
+FT   MUTAGEN         262..263
+FT                   /note="VY->IA: Reduced binding to JUN mRNA; when associated
+FT                   with Q-249."
+FT                   /evidence="ECO:0000269|PubMed:27462815"
+FT   MUTAGEN         317..321
+FT                   /note="TYINH->EYENA: Reduced binding to JUN mRNA."
+FT                   /evidence="ECO:0000269|PubMed:27462815"
+FT   STRAND          35..37
+FT                   /evidence="ECO:0007829|PDB:6YBD"
+FT   STRAND          169..175
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           176..180
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          193..196
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           204..207
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            229..231
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           233..236
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            237..241
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          244..246
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            253..256
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            258..260
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          267..270
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          276..280
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           309..322
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           323..325
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          342..345
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          357..361
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          371..374
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          390..395
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            401..405
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           409..412
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            413..415
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           417..427
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           430..441
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          445..456
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          463..471
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           475..478
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            479..481
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   HELIX           484..497
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          503..507
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   TURN            512..515
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+FT   STRAND          516..521
+FT                   /evidence="ECO:0007829|PDB:6YBS"
+SQ   SEQUENCE   548 AA;  63973 MW;  7FE0448EC3BE1711 CRC64;
+     MAKFMTPVIQ DNPSGWGPCA VPEQFRDMPY QPFSKGDRLG KVADWTGATY QDKRYTNKYS
+     SQFGGGSQYA YFHEEDESSF QLVDTARTQK TAYQRNRMRF AQRNLRRDKD RRNMLQFNLQ
+     ILPKSAKQKE RERIRLQKKF QKQFGVRQKW DQKSQKPRDS SVEVRSDWEV KEEMDFPQLM
+     KMRYLEVSEP QDIECCGALE YYDKAFDRIT TRSEKPLRSI KRIFHTVTTT DDPVIRKLAK
+     TQGNVFATDA ILATLMSCTR SVYSWDIVVQ RVGSKLFFDK RDNSDFDLLT VSETANEPPQ
+     DEGNSFNSPR NLAMEATYIN HNFSQQCLRM GKERYNFPNP NPFVEDDMDK NEIASVAYRY
+     RRWKLGDDID LIVRCEHDGV MTGANGEVSF INIKTLNEWD SRHCNGVDWR QKLDSQRGAV
+     IATELKNNSY KLARWTCCAL LAGSEYLKLG YVSRYHVKDS SRHVILGTQQ FKPNEFASQI
+     NLSVENAWGI LRCVIDICMK LEEGKYLILK DPNKQVIRVY SLPDGTFSSD EDEEEEEEEE
+     EEEEEEET
+//

@@ -1,0 +1,444 @@
+ID   PKHM2_HUMAN             Reviewed;        1019 AA.
+AC   Q8IWE5; O94928; Q5VT65; Q5VVD7; Q6NUH9; Q7L8G1; Q8IVT7; Q8N2T4; Q96AY0;
+AC   Q9NTF7;
+DT   13-NOV-2007, integrated into UniProtKB/Swiss-Prot.
+DT   13-NOV-2007, sequence version 2.
+DT   28-JUN-2023, entry version 145.
+DE   RecName: Full=Pleckstrin homology domain-containing family M member 2 {ECO:0000305};
+DE            Short=PH domain-containing family M member 2;
+DE   AltName: Full=Salmonella-induced filaments A and kinesin-interacting protein {ECO:0000303|PubMed:22172677};
+DE            Short=SifA and kinesin-interacting protein {ECO:0000303|PubMed:22172677};
+GN   Name=PLEKHM2 {ECO:0000312|HGNC:HGNC:29131};
+GN   Synonyms=KIAA0842, SKIP {ECO:0000303|PubMed:22172677,
+GN   ECO:0000303|PubMed:28325809};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=10048485; DOI=10.1093/dnares/5.6.355;
+RA   Nagase T., Ishikawa K., Suyama M., Kikuno R., Hirosawa M., Miyajima N.,
+RA   Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XII. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 5:355-364(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Bone, Cervix, Kidney, Ovary, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 824-1019.
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [6]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH KIF5B AND SALMONELLA
+RP   TYPHIMURIUM SIFA PROTEIN (MICROBIAL INFECTION).
+RX   PubMed=15905402; DOI=10.1126/science.1110225;
+RA   Boucrot E., Henry T., Borg J.-P., Gorvel J.-P., Meresse S.;
+RT   "The intracellular fate of Salmonella depends on the recruitment of
+RT   kinesin.";
+RL   Science 308:1174-1178(2005).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D., Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient
+RT   phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [9]
+RP   FUNCTION, INTERACTION WITH ARL8B, SUBCELLULAR LOCATION, ALTERNATIVE
+RP   SPLICING, AND MUTAGENESIS OF 207-TRP-ASP-208 AND 236-TRP-GLU-237.
+RX   PubMed=22172677; DOI=10.1016/j.devcel.2011.10.007;
+RA   Rosa-Ferreira C., Munro S.;
+RT   "Arl8 and SKIP act together to link lysosomes to kinesin-1.";
+RL   Dev. Cell 21:1171-1178(2011).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [12]
+RP   FUNCTION.
+RX   PubMed=24088571; DOI=10.1091/mbc.e13-05-0259;
+RA   Tuli A., Thiery J., James A.M., Michelet X., Sharma M., Garg S.,
+RA   Sanborn K.B., Orange J.S., Lieberman J., Brenner M.B.;
+RT   "Arf-like GTPase Arl8b regulates lytic granule polarization and natural
+RT   killer cell-mediated cytotoxicity.";
+RL   Mol. Biol. Cell 24:3721-3735(2013).
+RN   [13]
+RP   FUNCTION, AND INTERACTION WITH BORCS5.
+RX   PubMed=25898167; DOI=10.1016/j.devcel.2015.02.011;
+RA   Pu J., Schindler C., Jia R., Jarnik M., Backlund P., Bonifacino J.S.;
+RT   "BORC, a multisubunit complex that regulates lysosome positioning.";
+RL   Dev. Cell 33:176-188(2015).
+RN   [14]
+RP   FUNCTION, INTERACTION WITH ARL8A AND ARL8B, AND SUBCELLULAR LOCATION.
+RX   PubMed=28325809; DOI=10.1083/jcb.201607085;
+RA   Marwaha R., Arya S.B., Jagga D., Kaur H., Tuli A., Sharma M.;
+RT   "The Rab7 effector PLEKHM1 binds Arl8b to promote cargo traffic to
+RT   lysosomes.";
+RL   J. Cell Biol. 216:1051-1070(2017).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 773-884 IN COMPLEX WITH
+RP   SALMONELLA TYPHIMURIUM SIFA PROTEIN (MICROBIAL INFECTION), AND MUTAGENESIS
+RP   OF GLY-828; ARG-830; ARG-831 AND CYS-869.
+RX   PubMed=18996344; DOI=10.1016/j.chom.2008.08.012;
+RA   Ohlson M.B., Huang Z., Alto N.M., Blanc M.-P., Dixon J.E., Chai J.,
+RA   Miller S.I.;
+RT   "Structure and function of Salmonella SifA indicate that its interactions
+RT   with SKIP, SseJ, and RhoA family GTPases induce endosomal tubulation.";
+RL   Cell Host Microbe 4:434-446(2008).
+CC   -!- FUNCTION: Plays a role in lysosomes movement and localization at the
+CC       cell periphery acting as an effector of ARL8B. Required for ARL8B to
+CC       exert its effects on lysosome location, recruits kinesin-1 to lysosomes
+CC       and hence direct their movement toward microtubule plus ends. Binding
+CC       to ARL8B provides a link from lysosomal membranes to plus-end-directed
+CC       motility (PubMed:28325809, PubMed:22172677, PubMed:25898167,
+CC       PubMed:24088571). Critical factor involved in NK cell-mediated
+CC       cytotoxicity. Drives the polarization of cytolytic granules and
+CC       microtubule-organizing centers (MTOCs) toward the immune synapse
+CC       between effector NK lymphocytes and target cells (PubMed:24088571).
+CC       Required for maintenance of the Golgi apparatus organization
+CC       (PubMed:22172677). May play a role in membrane tubulation
+CC       (PubMed:15905402). {ECO:0000269|PubMed:15905402,
+CC       ECO:0000269|PubMed:22172677, ECO:0000269|PubMed:24088571,
+CC       ECO:0000269|PubMed:25898167, ECO:0000269|PubMed:28325809}.
+CC   -!- SUBUNIT: Interacts with KLC2 (via TPR repeats) (Probable). Interacts
+CC       with KIF5B (PubMed:15905402). Interacts with BORCS5 (PubMed:25898167).
+CC       Interacts (via RUN domain) with ARL8B (GTP-bound form); PLEKHM1 and
+CC       PLEKHM2 compete for interaction with ARL8B (PubMed:28325809,
+CC       PubMed:22172677). Interacts with ARL8A (PubMed:28325809).
+CC       {ECO:0000269|PubMed:15905402, ECO:0000269|PubMed:22172677,
+CC       ECO:0000269|PubMed:25898167, ECO:0000269|PubMed:28325809,
+CC       ECO:0000305|PubMed:22172677}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with the S.typhimurium sifA
+CC       protein; required for S.typhimurium infection.
+CC       {ECO:0000269|PubMed:15905402, ECO:0000269|PubMed:18996344}.
+CC   -!- INTERACTION:
+CC       Q8IWE5; P51151: RAB9A; NbExp=4; IntAct=EBI-726484, EBI-4401353;
+CC       Q8IWE5; Q91YS4: Klc2; Xeno; NbExp=4; IntAct=EBI-726484, EBI-6272135;
+CC       Q8IWE5; A0A0F6B063: sifA; Xeno; NbExp=3; IntAct=EBI-726484, EBI-11477981;
+CC       Q8IWE5; Q56061: sifA; Xeno; NbExp=3; IntAct=EBI-726484, EBI-10765408;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:15905402}. Lysosome
+CC       membrane {ECO:0000269|PubMed:22172677}; Peripheral membrane protein
+CC       {ECO:0000305}; Cytoplasmic side {ECO:0000305|PubMed:22172677}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q8IWE5-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8IWE5-2; Sequence=VSP_061018;
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH40441.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=BAA74865.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB020649; BAA74865.1; ALT_INIT; mRNA.
+DR   EMBL; AL450998; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL606758; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL121992; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471167; EAW51745.1; -; Genomic_DNA.
+DR   EMBL; BC008002; AAH08002.1; -; mRNA.
+DR   EMBL; BC016488; AAH16488.1; -; mRNA.
+DR   EMBL; BC030545; AAH30545.1; -; mRNA.
+DR   EMBL; BC040441; AAH40441.1; ALT_INIT; mRNA.
+DR   EMBL; BC042103; AAH42103.1; -; mRNA.
+DR   EMBL; AL137297; CAB70684.1; -; mRNA.
+DR   CCDS; CCDS44063.1; -. [Q8IWE5-1]
+DR   CCDS; CCDS90868.1; -. [Q8IWE5-2]
+DR   PIR; T46361; T46361.
+DR   RefSeq; NP_055979.2; NM_015164.3. [Q8IWE5-1]
+DR   RefSeq; XP_005245847.1; XM_005245790.3.
+DR   PDB; 3CXB; X-ray; 2.60 A; B=773-884.
+DR   PDB; 3HW2; X-ray; 3.30 A; B=771-875.
+DR   PDB; 3ZFW; X-ray; 2.90 A; X/Y=203-212.
+DR   PDBsum; 3CXB; -.
+DR   PDBsum; 3HW2; -.
+DR   PDBsum; 3ZFW; -.
+DR   AlphaFoldDB; Q8IWE5; -.
+DR   SMR; Q8IWE5; -.
+DR   BioGRID; 116814; 11.
+DR   CORUM; Q8IWE5; -.
+DR   DIP; DIP-46410N; -.
+DR   ELM; Q8IWE5; -.
+DR   IntAct; Q8IWE5; 9.
+DR   STRING; 9606.ENSP00000364956; -.
+DR   iPTMnet; Q8IWE5; -.
+DR   PhosphoSitePlus; Q8IWE5; -.
+DR   BioMuta; PLEKHM2; -.
+DR   DMDM; 160419243; -.
+DR   EPD; Q8IWE5; -.
+DR   jPOST; Q8IWE5; -.
+DR   MassIVE; Q8IWE5; -.
+DR   MaxQB; Q8IWE5; -.
+DR   PaxDb; Q8IWE5; -.
+DR   PeptideAtlas; Q8IWE5; -.
+DR   ProteomicsDB; 65459; -.
+DR   ProteomicsDB; 70850; -.
+DR   Antibodypedia; 47979; 78 antibodies from 22 providers.
+DR   DNASU; 23207; -.
+DR   Ensembl; ENST00000375793.2; ENSP00000364950.2; ENSG00000116786.13. [Q8IWE5-2]
+DR   Ensembl; ENST00000375799.8; ENSP00000364956.3; ENSG00000116786.13. [Q8IWE5-1]
+DR   GeneID; 23207; -.
+DR   KEGG; hsa:23207; -.
+DR   MANE-Select; ENST00000375799.8; ENSP00000364956.3; NM_015164.4; NP_055979.2.
+DR   UCSC; uc010obo.2; human. [Q8IWE5-1]
+DR   AGR; HGNC:29131; -.
+DR   CTD; 23207; -.
+DR   DisGeNET; 23207; -.
+DR   GeneCards; PLEKHM2; -.
+DR   HGNC; HGNC:29131; PLEKHM2.
+DR   HPA; ENSG00000116786; Low tissue specificity.
+DR   MalaCards; PLEKHM2; -.
+DR   MIM; 609613; gene.
+DR   neXtProt; NX_Q8IWE5; -.
+DR   OpenTargets; ENSG00000116786; -.
+DR   Orphanet; 54260; Left ventricular noncompaction.
+DR   PharmGKB; PA134888781; -.
+DR   VEuPathDB; HostDB:ENSG00000116786; -.
+DR   eggNOG; KOG1829; Eukaryota.
+DR   GeneTree; ENSGT00390000015175; -.
+DR   HOGENOM; CLU_012258_0_0_1; -.
+DR   InParanoid; Q8IWE5; -.
+DR   OMA; PSEMIHS; -.
+DR   OrthoDB; 5400354at2759; -.
+DR   PhylomeDB; Q8IWE5; -.
+DR   TreeFam; TF332641; -.
+DR   PathwayCommons; Q8IWE5; -.
+DR   SignaLink; Q8IWE5; -.
+DR   BioGRID-ORCS; 23207; 17 hits in 1155 CRISPR screens.
+DR   ChiTaRS; PLEKHM2; human.
+DR   EvolutionaryTrace; Q8IWE5; -.
+DR   GeneWiki; PLEKHM2; -.
+DR   GenomeRNAi; 23207; -.
+DR   Pharos; Q8IWE5; Tbio.
+DR   PRO; PR:Q8IWE5; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q8IWE5; protein.
+DR   Bgee; ENSG00000116786; Expressed in right frontal lobe and 187 other tissues.
+DR   ExpressionAtlas; Q8IWE5; baseline and differential.
+DR   Genevisible; Q8IWE5; HS.
+DR   GO; GO:0010008; C:endosome membrane; IDA:AgBase.
+DR   GO; GO:0005765; C:lysosomal membrane; IDA:UniProtKB.
+DR   GO; GO:0019894; F:kinesin binding; IDA:UniProtKB.
+DR   GO; GO:0007030; P:Golgi organization; IMP:UniProtKB.
+DR   GO; GO:0032418; P:lysosome localization; IDA:UniProtKB.
+DR   GO; GO:0042267; P:natural killer cell mediated cytotoxicity; IMP:UniProtKB.
+DR   GO; GO:0032880; P:regulation of protein localization; IMP:AgBase.
+DR   CDD; cd13309; PH_SKIP; 1.
+DR   CDD; cd17680; RUN_PLEKHM2; 1.
+DR   Gene3D; 1.20.58.900; -; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR004012; Run_dom.
+DR   InterPro; IPR037213; Run_dom_sf.
+DR   InterPro; IPR047327; RUN_PLEKHM2.
+DR   PANTHER; PTHR46556; PLECKSTRIN HOMOLOGY DOMAIN-CONTAINING FAMILY M MEMBER 2; 1.
+DR   PANTHER; PTHR46556:SF1; PLECKSTRIN HOMOLOGY DOMAIN-CONTAINING FAMILY M MEMBER 2; 1.
+DR   Pfam; PF00169; PH; 1.
+DR   Pfam; PF02759; RUN; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SMART; SM00593; RUN; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   SUPFAM; SSF140741; RUN domain-like; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+DR   PROSITE; PS50826; RUN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Cytoplasm; Lysosome;
+KW   Membrane; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..1019
+FT                   /note="Pleckstrin homology domain-containing family M
+FT                   member 2"
+FT                   /id="PRO_0000309455"
+FT   DOMAIN          36..158
+FT                   /note="RUN"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00178"
+FT   DOMAIN          771..873
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   REGION          1..310
+FT                   /note="Interaction with KIF5B"
+FT                   /evidence="ECO:0000269|PubMed:15905402"
+FT   REGION          230..458
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          471..525
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          557..581
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          762..885
+FT                   /note="Interaction with sifA"
+FT   COMPBIAS        237..294
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        352..366
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        374..389
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        413..435
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   MOD_RES         441
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q80TQ5"
+FT   VAR_SEQ         218..237
+FT                   /note="Missing (in isoform 2)"
+FT                   /id="VSP_061018"
+FT   VARIANT         32
+FT                   /note="I -> T (in dbSNP:rs12091750)"
+FT                   /id="VAR_036950"
+FT   MUTAGEN         207..208
+FT                   /note="WD->AA: No effect on lysosomal location; loss of
+FT                   interaction with kinesin-1 and movement of lysosomes to the
+FT                   periphery; when associated with A-236-237-A."
+FT                   /evidence="ECO:0000269|PubMed:22172677"
+FT   MUTAGEN         236..237
+FT                   /note="WE->AA: No effect on lysosomal location; loss of
+FT                   interaction with kinesin-1 and movement of lysosomes to the
+FT                   periphery; when associated with A-207-208-A."
+FT                   /evidence="ECO:0000269|PubMed:22172677"
+FT   MUTAGEN         828
+FT                   /note="G->D: Loss of interaction with sifA."
+FT                   /evidence="ECO:0000269|PubMed:18996344"
+FT   MUTAGEN         830
+FT                   /note="R->D: Loss of interaction with sifA."
+FT                   /evidence="ECO:0000269|PubMed:18996344"
+FT   MUTAGEN         831
+FT                   /note="R->A: Alters interaction with sifA."
+FT                   /evidence="ECO:0000269|PubMed:18996344"
+FT   MUTAGEN         869
+FT                   /note="C->D: Loss of interaction with sifA."
+FT                   /evidence="ECO:0000269|PubMed:18996344"
+FT   CONFLICT        600..602
+FT                   /note="VFR -> ASG (in Ref. 4; AAH30545)"
+FT                   /evidence="ECO:0000305"
+FT   TURN            210..212
+FT                   /evidence="ECO:0007829|PDB:3ZFW"
+FT   STRAND          774..780
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+FT   STRAND          787..789
+FT                   /evidence="ECO:0007829|PDB:3HW2"
+FT   STRAND          793..800
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+FT   STRAND          803..811
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+FT   STRAND          816..820
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+FT   STRAND          826..831
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+FT   STRAND          840..845
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+FT   STRAND          851..854
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+FT   HELIX           858..872
+FT                   /evidence="ECO:0007829|PDB:3CXB"
+SQ   SEQUENCE   1019 AA;  112780 MW;  FFD857F4C11BC0DB CRC64;
+     MEPGEVKDRI LENISLSVKK LQSYFAACED EIPAIRNHDK VLQRLCEHLD HALLYGLQDL
+     SSGYWVLVVH FTRREAIKQI EVLQHVATNL GRSRAWLYLA LNENSLESYL RLFQENLGLL
+     HKYYVKNALV CSHDHLTLFL TLVSGLEFIR FELDLDAPYL DLAPYMPDYY KPQYLLDFED
+     RLPSSVHGSD SLSLNSFNSV TSTNLEWDDS AIAPSSEDYD FGDVFPAVPS VPSTDWEDGD
+     LTDTVSGPRS TASDLTSSKA STRSPTQRQN PFNEEPAETV SSSDTTPVHT TSQEKEEAQA
+     LDPPDACTEL EVIRVTKKKK IGKKKKSRSD EEASPLHPAC SQKKCAKQGD GDSRNGSPSL
+     GRDSPDTMLA SPQEEGEGPS STTESSERSE PGLLIPEMKD TSMERLGQPL SKVIDQLNGQ
+     LDPSTWCSRA EPPDQSFRTG SPGDAPERPP LCDFSEGLSA PMDFYRFTVE SPSTVTSGGG
+     HHDPAGLGQP LHVPSSPEAA GQEEEGGGGE GQTPRPLEDT TREAQELEAQ LSLVREGPVS
+     EPEPGTQEVL CQLKRDQPSP CLSSAEDSGV DEGQGSPSEM VHSSEFRVDN NHLLLLMIHV
+     FRENEEQLFK MIRMSTGHME GNLQLLYVLL TDCYVYLLRK GATEKPYLVE EAVSYNELDY
+     VSVGLDQQTV KLVCTNRRKQ FLLDTADVAL AEFFLASLKS AMIKGCREPP YPSILTDATM
+     EKLALAKFVA QESKCEASAV TVRFYGLVHW EDPTDESLGP TPCHCSPPEG TITKEGMLHY
+     KAGTSYLGKE HWKTCFVVLS NGILYQYPDR TDVIPLLSVN MGGEQCGGCR RANTTDRPHA
+     FQVILSDRPC LELSAESEAE MAEWMQHLCQ AVSKGVIPQG VAPSPCIPCC LVLTDDRLFT
+     CHEDCQTSFF RSLGTAKLGD ISAVSTEPGK EYCVLEFSQD SQQLLPPWVI YLSCTSELDR
+     LLSALNSGWK TIYQVDLPHT AIQEASNKKK FEDALSLIHS AWQRSDSLCR GRASRDPWC
+//

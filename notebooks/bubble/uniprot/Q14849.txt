@@ -1,0 +1,593 @@
+ID   STAR3_HUMAN             Reviewed;         445 AA.
+AC   Q14849; A8MXA4; B4DUY1; F5H0G2; Q53Y53; Q96HM9;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 2.
+DT   28-JUN-2023, entry version 204.
+DE   RecName: Full=StAR-related lipid transfer protein 3 {ECO:0000305};
+DE   AltName: Full=Metastatic lymph node gene 64 protein {ECO:0000303|PubMed:11053434};
+DE            Short=MLN 64 {ECO:0000303|PubMed:11053434};
+DE   AltName: Full=Protein CAB1 {ECO:0000303|PubMed:9270027};
+DE   AltName: Full=START domain-containing protein 3 {ECO:0000303|PubMed:21322544};
+DE            Short=StARD3 {ECO:0000303|PubMed:21322544};
+GN   Name=STARD3 {ECO:0000312|HGNC:HGNC:17579};
+GN   Synonyms=CAB1 {ECO:0000303|PubMed:9270027}, MLN64
+GN   {ECO:0000303|PubMed:11053434};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT GLN-117.
+RC   TISSUE=Mammary carcinoma;
+RX   PubMed=7490069; DOI=10.1006/geno.1995.1163;
+RA   Tomasetto C.L., Regnier C.H., Moog-Lutz C., Mattei M.-G., Chenard M.-P.,
+RA   Lidereau R., Basset P., Rio M.-C.;
+RT   "Identification of four novel human genes amplified and overexpressed in
+RT   breast carcinoma and localized to the q11-q21.3 region of chromosome 17.";
+RL   Genomics 28:367-376(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT GLN-117.
+RC   TISSUE=Esophageal carcinoma;
+RX   PubMed=9270027;
+RA   Akiyama N., Sasaki H., Ishizuka T., Kishi T., Sakamoto H., Onda M.,
+RA   Hirai H., Yazaki Y., Sugimura T., Terada M.;
+RT   "Isolation of a candidate gene, CAB1, for cholesterol transport to
+RT   mitochondria from the c-ERBB-2 amplicon by a modified cDNA selection
+RT   method.";
+RL   Cancer Res. 57:3548-3553(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT GLN-117.
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2 AND 3), AND VARIANT
+RP   GLN-117.
+RC   TISSUE=Placenta, and Small intestine;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANTS GLN-117
+RP   AND ALA-216.
+RC   TISSUE=Lung, Skin, and Spleen;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   FUNCTION, SUBCELLULAR LOCATION, TOPOLOGY, DOMAIN, AND MUTAGENESIS OF
+RP   66-LEU-LEU-67; TYR-89; TYR-113; ASN-219 AND ASN-311.
+RX   PubMed=11053434; DOI=10.1074/jbc.m006279200;
+RA   Alpy F., Stoeckel M.-E., Dierich A., Escola J.-M., Wendling C.,
+RA   Chenard M.-P., Vanier M.T., Gruenberg J., Tomasetto C., Rio M.-C.;
+RT   "The steroidogenic acute regulatory protein homolog MLN64, a late endosomal
+RT   cholesterol-binding protein.";
+RL   J. Biol. Chem. 276:4261-4269(2001).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=12070139; DOI=10.1074/jbc.m200003200;
+RA   Zhang M., Liu P., Dwyer N.K., Christenson L.K., Fujimoto T., Martinez F.,
+RA   Comly M., Hanover J.A., Blanchette-Mackie E.J., Strauss J.F. III;
+RT   "MLN64 mediates mobilization of lysosomal cholesterol to steroidogenic
+RT   mitochondria.";
+RL   J. Biol. Chem. 277:33300-33310(2002).
+RN   [9]
+RP   SUBUNIT, INTERACTION WITH STARD3NL, AND DOMAIN.
+RX   PubMed=15718238; DOI=10.1074/jbc.m500723200;
+RA   Alpy F., Latchumanan V.K., Kedinger V., Janoshazi A., Thiele C.,
+RA   Wendling C., Rio M.C., Tomasetto C.;
+RT   "Functional characterization of the MENTAL domain.";
+RL   J. Biol. Chem. 280:17945-17952(2005).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=15930133; DOI=10.1091/mbc.e04-12-1105;
+RA   Hoelttae-Vuori M., Alpy F., Tanhuanpaeae K., Jokitalo E., Mutka A.L.,
+RA   Ikonen E.;
+RT   "MLN64 is involved in actin-mediated dynamics of late endocytic
+RT   organelles.";
+RL   Mol. Biol. Cell 16:3873-3886(2005).
+RN   [11]
+RP   SUBCELLULAR LOCATION, SUBUNIT, INTERACTION WITH STARD3NL, AND DOMAIN.
+RX   PubMed=16709157; DOI=10.1042/bst0340343;
+RA   Alpy F., Tomasetto C.;
+RT   "MLN64 and MENTHO, two mediators of endosomal cholesterol transport.";
+RL   Biochem. Soc. Trans. 34:343-345(2006).
+RN   [12]
+RP   3D-STRUCTURE MODELING.
+RX   PubMed=16990645; DOI=10.1194/jlr.m600232-jlr200;
+RA   Murcia M., Faraldo-Gomez J.D., Maxfield F.R., Roux B.;
+RT   "Modeling the structure of the StART domains of MLN64 and StAR proteins in
+RT   complex with cholesterol.";
+RL   J. Lipid Res. 47:2614-2630(2006).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=19965586; DOI=10.1194/jlr.m002345;
+RA   Charman M., Kennedy B.E., Osborne N., Karten B.;
+RT   "MLN64 mediates egress of cholesterol from endosomes to mitochondria in the
+RT   absence of functional Niemann-Pick Type C1 protein.";
+RL   J. Lipid Res. 51:1023-1034(2010).
+RN   [14]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=21322544; DOI=10.1021/bi101906y;
+RA   Li B., Vachali P., Frederick J.M., Bernstein P.S.;
+RT   "Identification of StARD3 as a lutein-binding protein in the macula of the
+RT   primate retina.";
+RL   Biochemistry 50:2541-2549(2011).
+RN   [15]
+RP   FUNCTION.
+RX   PubMed=22514632; DOI=10.1371/journal.pone.0034424;
+RA   Liapis A., Chen F.W., Davies J.P., Wang R., Ioannou Y.A.;
+RT   "MLN64 transport to the late endosome is regulated by binding to 14-3-3 via
+RT   a non-canonical binding site.";
+RL   PLoS ONE 7:E34424-E34424(2012).
+RN   [16]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH VAPA AND VAPB, MUTAGENESIS
+RP   OF 206-GLN--GLU-211, FFAT MOTIF, AND DOMAIN.
+RX   PubMed=24105263; DOI=10.1242/jcs.139295;
+RA   Alpy F., Rousseau A., Schwab Y., Legueux F., Stoll I., Wendling C.,
+RA   Spiegelhalter C., Kessler P., Mathelin C., Rio M.C., Levine T.P.,
+RA   Tomasetto C.;
+RT   "STARD3 or STARD3NL and VAP form a novel molecular tether between late
+RT   endosomes and the ER.";
+RL   J. Cell Sci. 126:5500-5512(2013).
+RN   [17]
+RP   INDUCTION.
+RX   PubMed=27679500; DOI=10.1007/s13238-016-0315-0;
+RA   Pinto J.B., Graham A.;
+RT   "The role of endosomal cholesterol trafficking protein, StAR-related lipid
+RT   transfer domain 3 (StarD3/MLN64), in BRIN-BD11 insulinoma cells.";
+RL   Protein Cell 7:833-838(2016).
+RN   [18]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH VAPA AND VAPB,
+RP   LIPID-BINDING, AND MUTAGENESIS OF 207-PHE-TYR-208 AND 307-MET--ASN-311.
+RX   PubMed=28377464; DOI=10.15252/embj.201695917;
+RA   Wilhelm L.P., Wendling C., Vedie B., Kobayashi T., Chenard M.P.,
+RA   Tomasetto C., Drin G., Alpy F.;
+RT   "STARD3 mediates endoplasmic reticulum-to-endosome cholesterol transport at
+RT   membrane contact sites.";
+RL   EMBO J. 36:1412-1433(2017).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, INTERACTION WITH MOSPD2, SUBCELLULAR
+RP   LOCATION, DOMAIN, FFAT MOTIF, AND MUTAGENESIS OF 207-PHE-TYR-208.
+RX   PubMed=29858488; DOI=10.15252/embr.201745453;
+RA   Di Mattia T., Wilhelm L.P., Ikhlef S., Wendling C., Spehner D., Nomine Y.,
+RA   Giordano F., Mathelin C., Drin G., Tomasetto C., Alpy F.;
+RT   "Identification of MOSPD2, a novel scaffold for endoplasmic reticulum
+RT   membrane contact sites.";
+RL   EMBO Rep. 19:0-0(2018).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 216-445.
+RX   PubMed=10802740; DOI=10.1038/75192;
+RA   Tsujishita Y., Hurley J.H.;
+RT   "Structure and lipid transport mechanism of a StAR-related domain.";
+RL   Nat. Struct. Biol. 7:408-414(2000).
+RN   [21] {ECO:0007744|PDB:5I9J}
+RP   X-RAY CRYSTALLOGRAPHY (1.74 ANGSTROMS) OF 216-444.
+RX   PubMed=27487925; DOI=10.1107/s2053230x16010694;
+RA   Horvath M.P., George E.W., Tran Q.T., Baumgardner K., Zharov G., Lee S.,
+RA   Sharifzadeh H., Shihab S., Mattinson T., Li B., Bernstein P.S.;
+RT   "Structure of the lutein-binding domain of human StARD3 at 1.74A resolution
+RT   and model of a complex with lutein.";
+RL   Acta Crystallogr. F 72:609-618(2016).
+CC   -!- FUNCTION: Sterol-binding protein that mediates cholesterol transport
+CC       from the endoplasmic reticulum to endosomes (PubMed:11053434,
+CC       PubMed:15930133, PubMed:22514632, PubMed:28377464). Creates contact
+CC       site between the endoplasmic reticulum and late endosomes: localizes to
+CC       late endosome membranes and contacts the endoplasmic reticulum via
+CC       interaction with VAPA and VAPB (PubMed:24105263, PubMed:28377464). Acts
+CC       as a lipid transfer protein that redirects sterol to the endosome at
+CC       the expense of the cell membrane and favors membrane formation inside
+CC       endosomes (PubMed:28377464). May also mediate cholesterol transport
+CC       between other membranes, such as mitochondria membrane or cell membrane
+CC       (PubMed:12070139, PubMed:19965586). However, such results need
+CC       additional experimental evidences; probably mainly mediates cholesterol
+CC       transport from the endoplasmic reticulum to endosomes
+CC       (PubMed:28377464). Does not activate transcriptional cholesterol
+CC       sensing (PubMed:28377464). Able to bind other lipids, such as lutein, a
+CC       xanthophyll carotenoids that form the macular pigment of the retina
+CC       (PubMed:21322544). {ECO:0000269|PubMed:11053434,
+CC       ECO:0000269|PubMed:12070139, ECO:0000269|PubMed:15930133,
+CC       ECO:0000269|PubMed:19965586, ECO:0000269|PubMed:21322544,
+CC       ECO:0000269|PubMed:22514632, ECO:0000269|PubMed:24105263,
+CC       ECO:0000269|PubMed:28377464}.
+CC   -!- SUBUNIT: Homodimer (PubMed:15718238, PubMed:16709157). Interacts (via
+CC       the MENTAL domain) with STARD3NL (PubMed:15718238, PubMed:16709157).
+CC       Interacts (via FFAT motif) with VAPA (PubMed:24105263,
+CC       PubMed:28377464). Interacts (via FFAT motif) with VAPB
+CC       (PubMed:24105263, PubMed:28377464). Interacts (via FFAT motif) with
+CC       MOSPD2 (via MSP domain) (PubMed:29858488).
+CC       {ECO:0000269|PubMed:15718238, ECO:0000269|PubMed:16709157,
+CC       ECO:0000269|PubMed:24105263, ECO:0000269|PubMed:28377464,
+CC       ECO:0000269|PubMed:29858488}.
+CC   -!- INTERACTION:
+CC       Q14849; Q13520: AQP6; NbExp=3; IntAct=EBI-9819324, EBI-13059134;
+CC       Q14849; Q9HD26: GOPC; NbExp=3; IntAct=EBI-9819324, EBI-349832;
+CC       Q14849; Q8NHP6: MOSPD2; NbExp=6; IntAct=EBI-9819324, EBI-2812848;
+CC       Q14849; Q96K19-5: RNF170; NbExp=3; IntAct=EBI-9819324, EBI-12055631;
+CC       Q14849-1; Q9P0L0: VAPA; NbExp=4; IntAct=EBI-9819369, EBI-1059156;
+CC   -!- SUBCELLULAR LOCATION: Late endosome membrane
+CC       {ECO:0000269|PubMed:11053434, ECO:0000269|PubMed:16709157,
+CC       ECO:0000269|PubMed:24105263, ECO:0000269|PubMed:28377464,
+CC       ECO:0000269|PubMed:29858488}; Multi-pass membrane protein
+CC       {ECO:0000255}. Note=Localizes to contact sites between the endoplasmic
+CC       reticulum and late endosomes: associates with the endoplasmic reticulum
+CC       membrane via interaction with VAPA, VAPB or MOSPD2.
+CC       {ECO:0000269|PubMed:24105263, ECO:0000269|PubMed:29858488}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q14849-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q14849-2; Sequence=VSP_042710;
+CC       Name=3;
+CC         IsoId=Q14849-3; Sequence=VSP_045361;
+CC   -!- TISSUE SPECIFICITY: Expressed in retina. {ECO:0000269|PubMed:21322544}.
+CC   -!- INDUCTION: Not regulated by increases in total cholesterol content, or
+CC       by marked alterations in cholesterol flux.
+CC       {ECO:0000269|PubMed:27679500}.
+CC   -!- DOMAIN: The FFAT motif mediates interaction with VAPA, VAPB and MOSPD2.
+CC       {ECO:0000269|PubMed:24105263, ECO:0000269|PubMed:29858488}.
+CC   -!- DOMAIN: The START domain mediates lipid-transfer between membranes. It
+CC       contains a hydrophobic cavity able to accommodate one lipid molecule,
+CC       thereby serving as a 'hydrophobic bridge' across the aqueous gap
+CC       between donor and acceptor organelle membranes.
+CC       {ECO:0000305|PubMed:28377464}.
+CC   -!- DOMAIN: The MENTAL domain anchors the protein in endosome membranes and
+CC       exposes the START domain in the cytosol (PubMed:11053434). It binds
+CC       cholesterol and mediates homotypic as well as heterotypic interactions
+CC       between STARD3 and STARD3NL (PubMed:15718238, PubMed:16709157).
+CC       {ECO:0000269|PubMed:11053434, ECO:0000269|PubMed:15718238,
+CC       ECO:0000269|PubMed:16709157}.
+CC   -!- SIMILARITY: Belongs to the STARD3 family. {ECO:0000305}.
+CC   -!- CAUTION: STARD3 was reported to function in cholesterol transport to
+CC       the mitochondria or to the cell membrane (PubMed:12070139,
+CC       PubMed:19965586). Other reports however showed that it mediates
+CC       cholesterol transport from the endoplasmic reticulum to endosomes
+CC       (PubMed:11053434, PubMed:28377464). Discrepancies may be due to the
+CC       different cell type used and the cellular physiological state
+CC       (PubMed:28377464). {ECO:0000269|PubMed:11053434,
+CC       ECO:0000269|PubMed:12070139, ECO:0000269|PubMed:19965586,
+CC       ECO:0000269|PubMed:28377464}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/202/MLN64";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X80198; CAA56489.1; -; mRNA.
+DR   EMBL; D38255; BAA22525.1; -; mRNA.
+DR   EMBL; BT006964; AAP35610.1; -; mRNA.
+DR   EMBL; AK300176; BAG61955.1; -; mRNA.
+DR   EMBL; AK300842; BAG62493.1; -; mRNA.
+DR   EMBL; AC087491; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC008356; AAH08356.1; -; mRNA.
+DR   EMBL; BC008747; AAH08747.1; -; mRNA.
+DR   EMBL; BC025679; AAH25679.1; -; mRNA.
+DR   CCDS; CCDS11341.1; -. [Q14849-1]
+DR   CCDS; CCDS54117.1; -. [Q14849-3]
+DR   CCDS; CCDS54118.1; -. [Q14849-2]
+DR   PIR; I38027; I38027.
+DR   RefSeq; NP_001159409.1; NM_001165937.1. [Q14849-3]
+DR   RefSeq; NP_001159410.1; NM_001165938.1. [Q14849-2]
+DR   RefSeq; NP_006795.3; NM_006804.3. [Q14849-1]
+DR   RefSeq; XP_016879530.1; XM_017024041.1. [Q14849-1]
+DR   PDB; 1EM2; X-ray; 2.20 A; A=216-444.
+DR   PDB; 5I9J; X-ray; 1.74 A; A=216-444.
+DR   PDB; 6TQR; X-ray; 1.85 A; E/F=200-216.
+DR   PDB; 6TQU; X-ray; 2.40 A; C/D=196-216.
+DR   PDBsum; 1EM2; -.
+DR   PDBsum; 5I9J; -.
+DR   PDBsum; 6TQR; -.
+DR   PDBsum; 6TQU; -.
+DR   AlphaFoldDB; Q14849; -.
+DR   SMR; Q14849; -.
+DR   BioGRID; 116148; 96.
+DR   IntAct; Q14849; 19.
+DR   STRING; 9606.ENSP00000337446; -.
+DR   BindingDB; Q14849; -.
+DR   ChEMBL; CHEMBL4523297; -.
+DR   SwissLipids; SLP:000000712; -.
+DR   TCDB; 9.B.64.1.1; the putative cholesterol transporter (start1) family.
+DR   iPTMnet; Q14849; -.
+DR   MetOSite; Q14849; -.
+DR   PhosphoSitePlus; Q14849; -.
+DR   BioMuta; STARD3; -.
+DR   DMDM; 116242802; -.
+DR   EPD; Q14849; -.
+DR   jPOST; Q14849; -.
+DR   MassIVE; Q14849; -.
+DR   MaxQB; Q14849; -.
+DR   PaxDb; Q14849; -.
+DR   PeptideAtlas; Q14849; -.
+DR   ProteomicsDB; 25332; -.
+DR   ProteomicsDB; 60208; -. [Q14849-1]
+DR   ProteomicsDB; 60209; -. [Q14849-2]
+DR   Antibodypedia; 28306; 97 antibodies from 22 providers.
+DR   DNASU; 10948; -.
+DR   Ensembl; ENST00000336308.10; ENSP00000337446.5; ENSG00000131748.16. [Q14849-1]
+DR   Ensembl; ENST00000394250.8; ENSP00000377794.4; ENSG00000131748.16. [Q14849-2]
+DR   Ensembl; ENST00000544210.6; ENSP00000439869.2; ENSG00000131748.16. [Q14849-3]
+DR   GeneID; 10948; -.
+DR   KEGG; hsa:10948; -.
+DR   MANE-Select; ENST00000336308.10; ENSP00000337446.5; NM_006804.4; NP_006795.3.
+DR   UCSC; uc002hsd.4; human. [Q14849-1]
+DR   AGR; HGNC:17579; -.
+DR   CTD; 10948; -.
+DR   DisGeNET; 10948; -.
+DR   GeneCards; STARD3; -.
+DR   HGNC; HGNC:17579; STARD3.
+DR   HPA; ENSG00000131748; Low tissue specificity.
+DR   MIM; 607048; gene.
+DR   neXtProt; NX_Q14849; -.
+DR   OpenTargets; ENSG00000131748; -.
+DR   PharmGKB; PA134981867; -.
+DR   VEuPathDB; HostDB:ENSG00000131748; -.
+DR   eggNOG; KOG3845; Eukaryota.
+DR   GeneTree; ENSGT00940000159051; -.
+DR   HOGENOM; CLU_033480_0_0_1; -.
+DR   InParanoid; Q14849; -.
+DR   OMA; NQMGLDC; -.
+DR   OrthoDB; 3740290at2759; -.
+DR   PhylomeDB; Q14849; -.
+DR   TreeFam; TF313869; -.
+DR   PathwayCommons; Q14849; -.
+DR   Reactome; R-HSA-196108; Pregnenolone biosynthesis.
+DR   SignaLink; Q14849; -.
+DR   BioGRID-ORCS; 10948; 20 hits in 1150 CRISPR screens.
+DR   ChiTaRS; STARD3; human.
+DR   EvolutionaryTrace; Q14849; -.
+DR   GenomeRNAi; 10948; -.
+DR   Pharos; Q14849; Tbio.
+DR   PRO; PR:Q14849; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q14849; protein.
+DR   Bgee; ENSG00000131748; Expressed in right lung and 172 other tissues.
+DR   ExpressionAtlas; Q14849; baseline and differential.
+DR   Genevisible; Q14849; HS.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ProtInc.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0140284; C:endoplasmic reticulum-endosome membrane contact site; IDA:UniProtKB.
+DR   GO; GO:0005768; C:endosome; IDA:UniProtKB.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:HPA.
+DR   GO; GO:0031902; C:late endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0005765; C:lysosomal membrane; HDA:UniProtKB.
+DR   GO; GO:0005739; C:mitochondrion; IEA:Ensembl.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0044232; C:organelle membrane contact site; IDA:UniProtKB.
+DR   GO; GO:0015485; F:cholesterol binding; IDA:UniProtKB.
+DR   GO; GO:0120020; F:cholesterol transfer activity; IEA:InterPro.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0008203; P:cholesterol metabolic process; TAS:ProtInc.
+DR   GO; GO:0030301; P:cholesterol transport; IDA:UniProtKB.
+DR   GO; GO:0006629; P:lipid metabolic process; TAS:ProtInc.
+DR   GO; GO:0006839; P:mitochondrial transport; TAS:ProtInc.
+DR   GO; GO:0006701; P:progesterone biosynthetic process; IEA:Ensembl.
+DR   GO; GO:0008202; P:steroid metabolic process; TAS:ProtInc.
+DR   GO; GO:0099044; P:vesicle tethering to endoplasmic reticulum; IDA:UniProtKB.
+DR   CDD; cd08906; START_STARD3-like; 1.
+DR   DisProt; DP02835; -.
+DR   Gene3D; 3.30.530.20; -; 1.
+DR   InterPro; IPR019498; MENTAL.
+DR   InterPro; IPR000799; StAR-like.
+DR   InterPro; IPR029867; STARD3_MLN64_C.
+DR   InterPro; IPR023393; START-like_dom_sf.
+DR   InterPro; IPR002913; START_lipid-bd_dom.
+DR   PANTHER; PTHR46121:SF2; STAR-RELATED LIPID TRANSFER PROTEIN 3; 1.
+DR   PANTHER; PTHR46121; STEROIDOGENIC ACUTE REGULATORY PROTEIN-LIKE; 1.
+DR   Pfam; PF10457; MENTAL; 1.
+DR   Pfam; PF01852; START; 1.
+DR   PRINTS; PR00978; STARPROTEIN.
+DR   SMART; SM00234; START; 1.
+DR   SUPFAM; SSF55961; Bet v1-like; 1.
+DR   PROSITE; PS51439; MENTAL; 1.
+DR   PROSITE; PS50848; START; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Endosome; Lipid transport;
+KW   Lipid-binding; Membrane; Phosphoprotein; Reference proteome; Transmembrane;
+KW   Transmembrane helix; Transport.
+FT   CHAIN           1..445
+FT                   /note="StAR-related lipid transfer protein 3"
+FT                   /id="PRO_0000220653"
+FT   TOPO_DOM        1..51
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305|PubMed:11053434"
+FT   TRANSMEM        52..72
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00770"
+FT   TOPO_DOM        73..94
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        95..115
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00770"
+FT   TOPO_DOM        116..120
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        121..141
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00770"
+FT   TOPO_DOM        142..148
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        149..169
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00770"
+FT   TOPO_DOM        170..445
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305|PubMed:11053434"
+FT   DOMAIN          46..217
+FT                   /note="MENTAL"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00770"
+FT   DOMAIN          230..443
+FT                   /note="START"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00197"
+FT   MOTIF           207..212
+FT                   /note="FFAT"
+FT                   /evidence="ECO:0000269|PubMed:24105263,
+FT                   ECO:0000269|PubMed:29858488"
+FT   MOD_RES         209
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61542"
+FT   MOD_RES         217
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61542"
+FT   MOD_RES         221
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61542"
+FT   VAR_SEQ         122..183
+FT                   /note="WVIAVTTLVSSAFLIVKVILSELLSKGAFGYLLPIVSFVLAWLETWFLDFKV
+FT                   LPQEAEEERW -> SRRWCPVHSSLSRSSSLSCSAKGHLATCSPSSLLSSPGWRPGSLT
+FT                   SKSYPRKLKRSDSAPPG (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_045361"
+FT   VAR_SEQ         126..143
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_042710"
+FT   VARIANT         117
+FT                   /note="R -> Q (in dbSNP:rs1877031)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:7490069,
+FT                   ECO:0000269|PubMed:9270027, ECO:0000269|Ref.3"
+FT                   /id="VAR_027877"
+FT   VARIANT         216
+FT                   /note="G -> A (in dbSNP:rs11556624)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_027878"
+FT   MUTAGEN         66..67
+FT                   /note="LL->AS: Abolishes localization to late endosomes and
+FT                   leads to mislocalization to the endoplasmic reticulum."
+FT                   /evidence="ECO:0000269|PubMed:11053434"
+FT   MUTAGEN         89
+FT                   /note="Y->V: Abolishes localization to late endosomes and
+FT                   leads to mislocalization to the endoplasmic reticulum."
+FT                   /evidence="ECO:0000269|PubMed:11053434"
+FT   MUTAGEN         113
+FT                   /note="Y->A: Does not affect localization to late
+FT                   endosomes."
+FT                   /evidence="ECO:0000269|PubMed:11053434"
+FT   MUTAGEN         206..212
+FT                   /note="Missing: Abolishes interaction with VAPA and VAPB,
+FT                   thereby preventing contact with the endoplasmic reticulum
+FT                   membrane."
+FT                   /evidence="ECO:0000269|PubMed:24105263"
+FT   MUTAGEN         207..208
+FT                   /note="FY->AA: Abolishes interaction with VAPA, VAPB and
+FT                   MOSPD2, thereby preventing contact with the endoplasmic
+FT                   reticulum membrane. Abolishes cholesterol accumulation in
+FT                   endosomes."
+FT                   /evidence="ECO:0000269|PubMed:28377464,
+FT                   ECO:0000269|PubMed:29858488"
+FT   MUTAGEN         219
+FT                   /note="N->A: Does not affect localization to late
+FT                   endosomes."
+FT                   /evidence="ECO:0000269|PubMed:11053434"
+FT   MUTAGEN         307..311
+FT                   /note="MVLWN->NVLWD: Abolishes ability to transfer
+FT                   cholesterol between membranes."
+FT                   /evidence="ECO:0000269|PubMed:28377464"
+FT   MUTAGEN         311
+FT                   /note="N->A: Does not affect localization to late
+FT                   endosomes."
+FT                   /evidence="ECO:0000269|PubMed:11053434"
+FT   HELIX           233..254
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   HELIX           255..258
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          260..264
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          270..276
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   TURN            277..279
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          280..291
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   HELIX           293..300
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   HELIX           304..310
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          314..323
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   TURN            324..326
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          327..334
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          340..342
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          345..355
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          357..366
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          378..380
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          385..392
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          400..406
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   STRAND          412..414
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+FT   HELIX           416..443
+FT                   /evidence="ECO:0007829|PDB:5I9J"
+SQ   SEQUENCE   445 AA;  50502 MW;  8EBFBAF013CFDC7E CRC64;
+     MSKLPRELTR DLERSLPAVA SLGSSLSHSQ SLSSHLLPPP EKRRAISDVR RTFCLFVTFD
+     LLFISLLWII ELNTNTGIRK NLEQEIIQYN FKTSFFDIFV LAFFRFSGLL LGYAVLRLRH
+     WWVIAVTTLV SSAFLIVKVI LSELLSKGAF GYLLPIVSFV LAWLETWFLD FKVLPQEAEE
+     ERWYLAAQVA VARGPLLFSG ALSEGQFYSP PESFAGSDNE SDEEVAGKKS FSAQEREYIR
+     QGKEATAVVD QILAQEENWK FEKNNEYGDT VYTIEVPFHG KTFILKTFLP CPAELVYQEV
+     ILQPERMVLW NKTVTACQIL QRVEDNTLIS YDVSAGAAGG VVSPRDFVNV RRIERRRDRY
+     LSSGIATSHS AKPPTHKYVR GENGPGGFIV LKSASNPRVC TFVWILNTDL KGRLPRYLIH
+     QSLAATMFEF AFHLRQRISE LGARA
+//

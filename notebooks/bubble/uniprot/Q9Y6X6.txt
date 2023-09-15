@@ -1,0 +1,472 @@
+ID   MYO16_HUMAN             Reviewed;        1858 AA.
+AC   Q9Y6X6; A6H8Y0; A8MTX3; Q5VYX4; Q5VYX5; Q5VYX6; Q6ZS13; Q8N3C2; Q8N948;
+DT   29-MAY-2007, integrated into UniProtKB/Swiss-Prot.
+DT   29-MAY-2007, sequence version 3.
+DT   28-JUN-2023, entry version 173.
+DE   RecName: Full=Unconventional myosin-XVI;
+DE   AltName: Full=Neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adapter 3;
+DE   AltName: Full=Unconventional myosin-16;
+GN   Name=MYO16 {ECO:0000312|HGNC:HGNC:29822};
+GN   Synonyms=KIAA0865 {ECO:0000312|EMBL:BAA74888.2}, MYO16B
+GN   {ECO:0000312|HGNC:HGNC:29822}, NYAP3;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:BAA74888.2}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ALA-831.
+RC   TISSUE=Brain {ECO:0000312|EMBL:BAA74888.2};
+RX   PubMed=10048485; DOI=10.1093/dnares/5.6.355;
+RA   Nagase T., Ishikawa K., Suyama M., Kikuno R., Hirosawa M., Miyajima N.,
+RA   Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XII. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 5:355-364(1998).
+RN   [2] {ECO:0000305, ECO:0000312|EMBL:BAC04608.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 1-995 (ISOFORMS 1/3), AND VARIANTS THR-385 AND
+RP   ALA-831.
+RC   TISSUE=Brain {ECO:0000312|EMBL:BAC04608.1};
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3] {ECO:0000305, ECO:0000312|EMBL:CAD39107.2}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ALA-831.
+RC   TISSUE=Brain;
+RA   Yamakawa H., Kikuno R.F., Nagase T., Ohara O.;
+RT   "Multiplex amplification and cloning of 5'-ends of cDNA by ligase-free
+RT   recombination: preparation of full-length cDNA clones encoding motor
+RT   proteins.";
+RL   Submitted (JAN-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000312|EMBL:AL136132}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057823; DOI=10.1038/nature02379;
+RA   Dunham A., Matthews L.H., Burton J., Ashurst J.L., Howe K.L.,
+RA   Ashcroft K.J., Beare D.M., Burford D.C., Hunt S.E., Griffiths-Jones S.,
+RA   Jones M.C., Keenan S.J., Oliver K., Scott C.E., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Andrews D.T., Ashwell R.I.S., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Bannerjee R., Barlow K.F., Bates K., Beasley H., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burrill W., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M.E., Clark S.Y., Clarke G., Clee C.M., Clegg S.C.,
+RA   Cobley V., Collins J.E., Corby N., Coville G.J., Deloukas P., Dhami P.,
+RA   Dunham I., Dunn M., Earthrowl M.E., Ellington A.G., Faulkner L.,
+RA   Frankish A.G., Frankland J., French L., Garner P., Garnett J.,
+RA   Gilbert J.G.R., Gilson C.J., Ghori J., Grafham D.V., Gribble S.M.,
+RA   Griffiths C., Hall R.E., Hammond S., Harley J.L., Hart E.A., Heath P.D.,
+RA   Howden P.J., Huckle E.J., Hunt P.J., Hunt A.R., Johnson C., Johnson D.,
+RA   Kay M., Kimberley A.M., King A., Laird G.K., Langford C.J., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Lloyd C., Loveland J.E., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., McLaren S.J., McMurray A., Milne S.,
+RA   Moore M.J.F., Nickerson T., Palmer S.A., Pearce A.V., Peck A.I., Pelan S.,
+RA   Phillimore B., Porter K.M., Rice C.M., Searle S., Sehra H.K., Shownkeen R.,
+RA   Skuce C.D., Smith M., Steward C.A., Sycamore N., Tester J., Thomas D.W.,
+RA   Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Wilming L., Wray P.W., Wright M.W., Young L.,
+RA   Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Beck S., Bentley D.R.,
+RA   Rogers J., Ross M.T.;
+RT   "The DNA sequence and analysis of human chromosome 13.";
+RL   Nature 428:522-528(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ALA-831.
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-935 (ISOFORMS 1/2/3), AND
+RP   VARIANT ALA-831.
+RC   TISSUE=Amygdala;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [7]
+RP   INTERACTION WITH KIRREL3.
+RX   PubMed=25902260; DOI=10.1371/journal.pone.0123106;
+RA   Liu Y.F., Sowell S.M., Luo Y., Chaubey A., Cameron R.S., Kim H.G.,
+RA   Srivastava A.K.;
+RT   "Autism and intellectual disability-associated KIRREL3 interacts with
+RT   neuronal proteins MAP1B and MYO16 with potential roles in
+RT   neurodevelopment.";
+RL   PLoS ONE 10:E0123106-E0123106(2015).
+RN   [8]
+RP   VARIANT HIS-1168.
+RX   PubMed=21248752; DOI=10.1038/nature09639;
+RA   Varela I., Tarpey P., Raine K., Huang D., Ong C.K., Stephens P., Davies H.,
+RA   Jones D., Lin M.L., Teague J., Bignell G., Butler A., Cho J.,
+RA   Dalgliesh G.L., Galappaththige D., Greenman C., Hardy C., Jia M.,
+RA   Latimer C., Lau K.W., Marshall J., McLaren S., Menzies A., Mudie L.,
+RA   Stebbings L., Largaespada D.A., Wessels L.F.A., Richard S., Kahnoski R.J.,
+RA   Anema J., Tuveson D.A., Perez-Mancera P.A., Mustonen V., Fischer A.,
+RA   Adams D.J., Rust A., Chan-On W., Subimerb C., Dykema K., Furge K.,
+RA   Campbell P.J., Teh B.T., Stratton M.R., Futreal P.A.;
+RT   "Exome sequencing identifies frequent mutation of the SWI/SNF complex gene
+RT   PBRM1 in renal carcinoma.";
+RL   Nature 469:539-542(2011).
+CC   -!- FUNCTION: Myosins are actin-based motor molecules with ATPase activity.
+CC       Unconventional myosins serve in intracellular movements. Their highly
+CC       divergent tails are presumed to bind to membranous compartments, which
+CC       would be moved relative to actin filaments. May be involved in
+CC       targeting of the catalytic subunit of protein phosphatase 1 during
+CC       brain development. Activates PI3K and concomitantly recruits the WAVE1
+CC       complex to the close vicinity of PI3K and regulates neuronal
+CC       morphogenesis (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Binds PPP1CA and/or PPP1CC. Binds F-actin in an ATP-sensitive
+CC       manner. Interacts with ACOT9, ARHGAP26 and PIK3R2. Interacts with
+CC       components of the WAVE1 complex, CYFIP1 and NCKAP1; this interaction
+CC       mediates PI3K-WAVE1 association and actin cytoskeleton remodeling (By
+CC       similarity). Interacts with KIRREL3 (PubMed:25902260).
+CC       {ECO:0000250|UniProtKB:Q5DU14, ECO:0000250|UniProtKB:Q9ERC1,
+CC       ECO:0000269|PubMed:25902260}.
+CC   -!- INTERACTION:
+CC       Q9Y6X6; Q8IZU9: KIRREL3; NbExp=4; IntAct=EBI-310686, EBI-16427312;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q9ERC1}.
+CC       Note=Found in puncta in soma and processes of astrocytes and
+CC       dissociated cerebellar cells with the morphology of migrating granule
+CC       cells. {ECO:0000250|UniProtKB:Q9ERC1}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1 {ECO:0000269|PubMed:10048485};
+CC         IsoId=Q9Y6X6-1; Sequence=Displayed;
+CC       Name=2 {ECO:0000269|PubMed:14702039};
+CC         IsoId=Q9Y6X6-2; Sequence=VSP_052451;
+CC       Name=3 {ECO:0000269|PubMed:15057823};
+CC         IsoId=Q9Y6X6-3; Sequence=VSP_052449, VSP_052450;
+CC       Name=4 {ECO:0000269|PubMed:15057823};
+CC         IsoId=Q9Y6X6-4; Sequence=VSP_052447, VSP_052448, VSP_052449,
+CC                                  VSP_052450;
+CC   -!- PTM: Phosphorylated on tyrosine residues by FYN upon stimulation with
+CC       CNTN5. {ECO:0000250}.
+CC   -!- SIMILARITY: In the N-terminal section; belongs to the TRAFAC class
+CC       myosin-kinesin ATPase superfamily. Myosin family. {ECO:0000305}.
+CC   -!- SIMILARITY: In the C-terminal section; belongs to the NYAP family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA74888.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAC04608.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAC87143.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB020672; BAA74888.2; ALT_INIT; mRNA.
+DR   EMBL; AK095691; BAC04608.1; ALT_INIT; mRNA.
+DR   EMBL; AB290159; BAG06713.1; -; mRNA.
+DR   EMBL; AL136132; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL157771; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL161431; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL353143; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL390918; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AK127806; BAC87143.1; ALT_INIT; mRNA.
+DR   EMBL; BC146791; AAI46792.1; -; mRNA.
+DR   EMBL; AL834447; CAD39107.2; -; mRNA.
+DR   CCDS; CCDS32008.1; -. [Q9Y6X6-1]
+DR   RefSeq; NP_055826.1; NM_015011.1. [Q9Y6X6-1]
+DR   RefSeq; XP_011519364.1; XM_011521062.1. [Q9Y6X6-1]
+DR   AlphaFoldDB; Q9Y6X6; -.
+DR   SMR; Q9Y6X6; -.
+DR   BioGRID; 116666; 11.
+DR   ELM; Q9Y6X6; -.
+DR   IntAct; Q9Y6X6; 10.
+DR   MINT; Q9Y6X6; -.
+DR   STRING; 9606.ENSP00000401633; -.
+DR   iPTMnet; Q9Y6X6; -.
+DR   PhosphoSitePlus; Q9Y6X6; -.
+DR   BioMuta; MYO16; -.
+DR   DMDM; 152112422; -.
+DR   EPD; Q9Y6X6; -.
+DR   MassIVE; Q9Y6X6; -.
+DR   MaxQB; Q9Y6X6; -.
+DR   PaxDb; Q9Y6X6; -.
+DR   PeptideAtlas; Q9Y6X6; -.
+DR   ProteomicsDB; 86817; -. [Q9Y6X6-1]
+DR   ProteomicsDB; 86818; -. [Q9Y6X6-2]
+DR   ProteomicsDB; 86819; -. [Q9Y6X6-3]
+DR   ProteomicsDB; 86820; -. [Q9Y6X6-4]
+DR   Antibodypedia; 42542; 100 antibodies from 21 providers.
+DR   DNASU; 23026; -.
+DR   Ensembl; ENST00000251041.10; ENSP00000251041.5; ENSG00000041515.16. [Q9Y6X6-3]
+DR   Ensembl; ENST00000356711.7; ENSP00000349145.2; ENSG00000041515.16. [Q9Y6X6-1]
+DR   GeneID; 23026; -.
+DR   KEGG; hsa:23026; -.
+DR   UCSC; uc001vqt.1; human. [Q9Y6X6-1]
+DR   AGR; HGNC:29822; -.
+DR   CTD; 23026; -.
+DR   DisGeNET; 23026; -.
+DR   GeneCards; MYO16; -.
+DR   HGNC; HGNC:29822; MYO16.
+DR   HPA; ENSG00000041515; Tissue enhanced (brain).
+DR   MIM; 615479; gene.
+DR   neXtProt; NX_Q9Y6X6; -.
+DR   OpenTargets; ENSG00000041515; -.
+DR   PharmGKB; PA162396437; -.
+DR   VEuPathDB; HostDB:ENSG00000041515; -.
+DR   eggNOG; KOG0161; Eukaryota.
+DR   eggNOG; KOG0515; Eukaryota.
+DR   GeneTree; ENSGT00940000158920; -.
+DR   HOGENOM; CLU_013794_0_0_1; -.
+DR   InParanoid; Q9Y6X6; -.
+DR   OrthoDB; 1094820at2759; -.
+DR   PhylomeDB; Q9Y6X6; -.
+DR   TreeFam; TF332267; -.
+DR   PathwayCommons; Q9Y6X6; -.
+DR   SignaLink; Q9Y6X6; -.
+DR   BioGRID-ORCS; 23026; 9 hits in 1149 CRISPR screens.
+DR   ChiTaRS; MYO16; human.
+DR   GenomeRNAi; 23026; -.
+DR   Pharos; Q9Y6X6; Tbio.
+DR   PRO; PR:Q9Y6X6; -.
+DR   Proteomes; UP000005640; Chromosome 13.
+DR   RNAct; Q9Y6X6; protein.
+DR   Bgee; ENSG00000041515; Expressed in cortical plate and 98 other tissues.
+DR   ExpressionAtlas; Q9Y6X6; baseline and differential.
+DR   Genevisible; Q9Y6X6; HS.
+DR   GO; GO:0005737; C:cytoplasm; ISS:HGNC-UCL.
+DR   GO; GO:0016459; C:myosin complex; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HGNC-UCL.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:HGNC-UCL.
+DR   GO; GO:0005886; C:plasma membrane; ISS:HGNC-UCL.
+DR   GO; GO:0051015; F:actin filament binding; ISS:HGNC-UCL.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003774; F:cytoskeletal motor activity; IEA:InterPro.
+DR   GO; GO:0019903; F:protein phosphatase binding; IBA:GO_Central.
+DR   GO; GO:0021549; P:cerebellum development; ISS:HGNC-UCL.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; ISS:HGNC-UCL.
+DR   GO; GO:2000134; P:negative regulation of G1/S transition of mitotic cell cycle; ISS:HGNC.
+DR   GO; GO:0048812; P:neuron projection morphogenesis; IBA:GO_Central.
+DR   GO; GO:0014065; P:phosphatidylinositol 3-kinase signaling; IBA:GO_Central.
+DR   CDD; cd14878; MYSc_Myo16; 1.
+DR   Gene3D; 1.10.10.820; -; 1.
+DR   Gene3D; 1.20.5.4820; -; 1.
+DR   Gene3D; 1.20.58.530; -; 1.
+DR   Gene3D; 1.25.40.20; Ankyrin repeat-containing domain; 2.
+DR   Gene3D; 3.40.850.10; Kinesin motor domain; 1.
+DR   Gene3D; 1.20.120.720; Myosin VI head, motor domain, U50 subdomain; 1.
+DR   InterPro; IPR002110; Ankyrin_rpt.
+DR   InterPro; IPR036770; Ankyrin_rpt-contain_sf.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR036961; Kinesin_motor_dom_sf.
+DR   InterPro; IPR001609; Myosin_head_motor_dom.
+DR   InterPro; IPR036042; MYSc_Myo16.
+DR   InterPro; IPR039482; NYAP_N.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR47335; UNCONVENTIONAL MYOSIN-XVI; 1.
+DR   PANTHER; PTHR47335:SF1; UNCONVENTIONAL MYOSIN-XVI; 1.
+DR   Pfam; PF12796; Ank_2; 2.
+DR   Pfam; PF00063; Myosin_head; 1.
+DR   Pfam; PF15439; NYAP_N; 1.
+DR   PRINTS; PR00193; MYOSINHEAVY.
+DR   SMART; SM00248; ANK; 5.
+DR   SMART; SM00242; MYSc; 1.
+DR   SUPFAM; SSF48403; Ankyrin repeat; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS50297; ANK_REP_REGION; 1.
+DR   PROSITE; PS50088; ANK_REPEAT; 4.
+DR   PROSITE; PS50096; IQ; 1.
+DR   PROSITE; PS51456; MYOSIN_MOTOR; 1.
+PE   1: Evidence at protein level;
+KW   Actin-binding; Alternative splicing; ANK repeat; ATP-binding; Cytoplasm;
+KW   Motor protein; Myosin; Nucleotide-binding; Phosphoprotein;
+KW   Reference proteome; Repeat.
+FT   CHAIN           1..1858
+FT                   /note="Unconventional myosin-XVI"
+FT                   /id="PRO_0000289136"
+FT   REPEAT          59..88
+FT                   /note="ANK 1"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          92..121
+FT                   /note="ANK 2"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          125..154
+FT                   /note="ANK 3"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          158..189
+FT                   /note="ANK 4"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          191..217
+FT                   /note="ANK 5"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          221..250
+FT                   /note="ANK 6"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          254..283
+FT                   /note="ANK 7"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          401..1145
+FT                   /note="Myosin motor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00782"
+FT   DOMAIN          1147..1176
+FT                   /note="IQ"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00116"
+FT   REGION          373..392
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1111..1377
+FT                   /note="Involved in CYFIP1- and NCKAP1-binding"
+FT                   /evidence="ECO:0000250"
+FT   REGION          1219..1250
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1282..1307
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1326..1409
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1448..1674
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1697..1731
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1747..1778
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1821..1844
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        373..390
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1219..1248
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1329..1346
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1474..1498
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1529..1548
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1568..1596
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1702..1731
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1763..1778
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         497..504
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00782"
+FT   VAR_SEQ         1..192
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15057823"
+FT                   /id="VSP_052447"
+FT   VAR_SEQ         206..225
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15057823"
+FT                   /id="VSP_052448"
+FT   VAR_SEQ         936..940
+FT                   /note="TSENV -> RGRCF (in isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15057823"
+FT                   /id="VSP_052449"
+FT   VAR_SEQ         941..1858
+FT                   /note="Missing (in isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15057823"
+FT                   /id="VSP_052450"
+FT   VAR_SEQ         1091..1858
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_052451"
+FT   VARIANT         181
+FT                   /note="D -> E (in dbSNP:rs911973)"
+FT                   /id="VAR_050214"
+FT   VARIANT         339
+FT                   /note="V -> I (in dbSNP:rs405397)"
+FT                   /id="VAR_050215"
+FT   VARIANT         385
+FT                   /note="M -> T (in dbSNP:rs16973313)"
+FT                   /evidence="ECO:0000269|PubMed:14702039"
+FT                   /id="VAR_032584"
+FT   VARIANT         831
+FT                   /note="P -> A (in dbSNP:rs3825491)"
+FT                   /evidence="ECO:0000269|PubMed:10048485,
+FT                   ECO:0000269|PubMed:14702039, ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:17974005, ECO:0000269|Ref.3"
+FT                   /id="VAR_032585"
+FT   VARIANT         1168
+FT                   /note="L -> H (found in a renal cell carcinoma sample;
+FT                   somatic mutation)"
+FT                   /evidence="ECO:0000269|PubMed:21248752"
+FT                   /id="VAR_064737"
+FT   VARIANT         1171
+FT                   /note="I -> M (in dbSNP:rs157024)"
+FT                   /id="VAR_050216"
+FT   CONFLICT        555
+FT                   /note="K -> E (in Ref. 6; CAD39107)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        953
+FT                   /note="T -> A (in Ref. 2; BAC87143)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1858 AA;  206129 MW;  B2D821DD53BD109E CRC64;
+     MEIDQCLLES LPLGQRQRLV KRMRCEQIKA YYEREKAFQK QEGFLKRLKH AKNPKVHFNL
+     TDMLQDAIIH HNDKEVLRLL KEGADPHTLV SSGGSLLHLC ARYDNAFIAE ILIDRGVNVN
+     HQDEDFWTPM HIACACDNPD IVLLLVLAGA NVLLQDVNGN IPLDYAVEGT ESSSILLTYL
+     DENGVDLTSL RQMKLQRPMS MLTDVKHFLS SGGNVNEKND EGVTLLHMAC ASGYKEVVSL
+     ILEHGGDLNI VDDQYWTPLH LAAKYGQTNL VKLLLMHQAN PHLVNCNEEK ASDIAASEFI
+     EEMLLKAEIA WEEKMKEPLS ASTLAQEEPY EEIIHDLPVL SSKLSPLVLP IAKQDSLLEK
+     DIMFKDATKG LCKQQSQDSI PENPMMSGST KPEQVKLMPP APNDDLATLS ELNDGSLLYE
+     IQKRFGNNQI YTFIGDILLL VNPYKELPIY SSMVSQLYFS SSGKLCSSLP PHLFSCVERA
+     FHQLFREQRP QCFILSGERG SGKSEASKQI IRHLTCRAGA SRATLDSRFK HVVCILEAFG
+     HAKTTLNDLS SCFIKYFELQ FCERKQQLTG ARIYTYLLEK SRLVSQPLGQ SNFLIFYLLM
+     DGLSAEEKYG LHLNNLCAHR YLNQTIQDDA STGERSLNRE KLAVLKRALN VVGFSSLEVE
+     NLFVILAAIL HLGDIRFTAL NEGNSAFVSD LQLLEQVAGM LQVSTDELAS ALTTDIQYFK
+     GDMIIRRHTI QIAEFFRDLL AKSLYSRLFS FLVNTMNSCL HSQDEQKSMQ TLDIGILDIF
+     GFEEFQKNEF EQLCVNMTNE KMHHYINEVL FLHEQVECVQ EGVTMETAYS PGNQNGVLDF
+     FFQKPSGFLT LLDEESQMIW SVESNFPKKL QSLLESSNTN AVYSPMKDGN GNVALKDHGT
+     AFTIMHYAGR VMYDVVGAIE KNKDSLSQNL LFVMKTSENV VINHLFQSKL SQTGSLVSAY
+     PSFKFRGHKS ALLSKKMTAS SIIGENKNYL ELSKLLKKKG TSTFLQRLER GDPVTIASQL
+     RKSLMDIIGK LQKCTPHFIH CIRPNNSKLP DTFDNFYVSA QLQYIGVLEM VKIFRYGYPV
+     RLSFSDFLSR YKPLADTFLR EKKEQSAAER CRLVLQQCKL QGWQMGVRKV FLKYWHADQL
+     NDLCLQLQRK IITCQKVIRG FLARQHLLQR ISIRQQEVTS INSFLQNTED MGLKTYDALV
+     IQNASDIARE NDRLRSEMNA PYHKEKLEVR NMQEEGSKRT DDKSGPRHFH PSSMSVCAAV
+     DGLGQCLVGP SIWSPSLHSV FSMDDSSSLP SPRKQPPPKP KRDPNTRLSA SYEAVSACLS
+     AAREAANEAL ARPRPHSDDY STMKKIPPRK PKRSPNTKLS GSYEEISGSR PGDARPAGAP
+     GAAARVLTPG TPQCALPPAA PPGDEDDSEP VYIEMLGHAA RPDSPDPGES VYEEMKCCLP
+     DDGGPGAGSF LLHGASPPLL HRAPEDEAAG PPGDACDIPP PFPNLLPHRP PLLVFPPTPV
+     TCSPASDESP LTPLEVKKLP VLETNLKYPV QPEGSSPLSP QYSKSQKGDG DRPASPGLAL
+     FNGSGRASPP STPPPPPPPP GPPPAPYRPC AHLAFPPEPA PVNAGKAGPS AEAPKVHPKP
+     NSAPVAGPCS SFPKIPYSPV KATRADARKA GSSASPPAPY SPPSSRPLSS PLDELASLFN
+     SGRSVLRKSA AGRKIREAEG FETNMNISSR DDPSTSEITS ETQDRNANNH GIQLSNSLSS
+     AITAENGNSI SNGLPEEDGY SRLSISGTGT STFQRHRDSH TTQVIHQLRL SENESVALQE
+     LLDWRRKLCE EGQDWQQILH HAEPRVPPPP PCKKPSLLKK PEGASCNRLP SELWDTTI
+//

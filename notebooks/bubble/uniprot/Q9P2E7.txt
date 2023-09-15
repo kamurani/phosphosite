@@ -1,0 +1,452 @@
+ID   PCD10_HUMAN             Reviewed;        1040 AA.
+AC   Q9P2E7; Q4W5F6; Q96SF0;
+DT   16-JAN-2004, integrated into UniProtKB/Swiss-Prot.
+DT   16-JAN-2004, sequence version 2.
+DT   28-JUN-2023, entry version 168.
+DE   RecName: Full=Protocadherin-10;
+DE   Flags: Precursor;
+GN   Name=PCDH10; Synonyms=KIAA1400;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RX   PubMed=11230163; DOI=10.1101/gr.167301;
+RA   Wu Q., Zhang T., Cheng J.-F., Kim Y., Grimwood J., Schmutz J., Dickson M.,
+RA   Noonan J.P., Zhang M.Q., Myers R.M., Maniatis T.;
+RT   "Comparative DNA sequence analysis of mouse and human protocadherin gene
+RT   clusters.";
+RL   Genome Res. 11:389-404(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=10718198; DOI=10.1093/dnares/7.1.65;
+RA   Nagase T., Kikuno R., Ishikawa K., Hirosawa M., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XVI. The
+RT   complete sequences of 150 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:65-73(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Hippocampus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   GENE STRUCTURE, AND TISSUE SPECIFICITY.
+RX   PubMed=11549318; DOI=10.1006/geno.2001.6592;
+RA   Wolverton T., Lalande M.;
+RT   "Identification and characterization of three members of a novel subclass
+RT   of protocadherins.";
+RL   Genomics 76:66-72(2001).
+CC   -!- FUNCTION: Potential calcium-dependent cell-adhesion protein.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Single-pass type I
+CC       membrane protein {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9P2E7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9P2E7-2; Sequence=VSP_054404, VSP_054405;
+CC   -!- TISSUE SPECIFICITY: Moderately expressed in all regions of the brain
+CC       examined, as well as in testis and ovary, and low expression in all
+CC       other tissues tested. {ECO:0000269|PubMed:11549318}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA92638.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY013874; AAK21987.1; -; mRNA.
+DR   EMBL; AB037821; BAA92638.1; ALT_INIT; mRNA.
+DR   EMBL; AK314377; BAG37004.1; -; mRNA.
+DR   EMBL; AC105383; AAY41018.1; -; Genomic_DNA.
+DR   EMBL; CH471056; EAX05151.1; -; Genomic_DNA.
+DR   EMBL; CH471056; EAX05152.1; -; Genomic_DNA.
+DR   CCDS; CCDS34063.1; -. [Q9P2E7-1]
+DR   CCDS; CCDS75192.1; -. [Q9P2E7-2]
+DR   RefSeq; NP_065866.1; NM_020815.2. [Q9P2E7-2]
+DR   RefSeq; NP_116586.1; NM_032961.2. [Q9P2E7-1]
+DR   PDB; 6VFQ; X-ray; 2.30 A; A=18-455.
+DR   PDB; 6VFW; X-ray; 3.60 A; A/B/C/D/E=18-455.
+DR   PDB; 6VG4; X-ray; 3.30 A; A=18-680.
+DR   PDBsum; 6VFQ; -.
+DR   PDBsum; 6VFW; -.
+DR   PDBsum; 6VG4; -.
+DR   AlphaFoldDB; Q9P2E7; -.
+DR   SMR; Q9P2E7; -.
+DR   BioGRID; 121628; 62.
+DR   IntAct; Q9P2E7; 13.
+DR   STRING; 9606.ENSP00000264360; -.
+DR   GlyCosmos; Q9P2E7; 2 sites, No reported glycans.
+DR   GlyGen; Q9P2E7; 2 sites.
+DR   iPTMnet; Q9P2E7; -.
+DR   PhosphoSitePlus; Q9P2E7; -.
+DR   SwissPalm; Q9P2E7; -.
+DR   BioMuta; PCDH10; -.
+DR   DMDM; 41017507; -.
+DR   jPOST; Q9P2E7; -.
+DR   MassIVE; Q9P2E7; -.
+DR   PaxDb; Q9P2E7; -.
+DR   PeptideAtlas; Q9P2E7; -.
+DR   ProteomicsDB; 83796; -. [Q9P2E7-1]
+DR   Antibodypedia; 2468; 183 antibodies from 26 providers.
+DR   DNASU; 57575; -.
+DR   Ensembl; ENST00000264360.7; ENSP00000264360.4; ENSG00000138650.9. [Q9P2E7-1]
+DR   Ensembl; ENST00000618019.1; ENSP00000480512.1; ENSG00000138650.9. [Q9P2E7-2]
+DR   GeneID; 57575; -.
+DR   KEGG; hsa:57575; -.
+DR   MANE-Select; ENST00000264360.7; ENSP00000264360.4; NM_032961.3; NP_116586.1.
+DR   UCSC; uc003igz.4; human. [Q9P2E7-1]
+DR   AGR; HGNC:13404; -.
+DR   CTD; 57575; -.
+DR   DisGeNET; 57575; -.
+DR   GeneCards; PCDH10; -.
+DR   HGNC; HGNC:13404; PCDH10.
+DR   HPA; ENSG00000138650; Group enriched (brain, placenta, prostate, seminal vesicle).
+DR   MIM; 608286; gene.
+DR   neXtProt; NX_Q9P2E7; -.
+DR   OpenTargets; ENSG00000138650; -.
+DR   PharmGKB; PA32995; -.
+DR   VEuPathDB; HostDB:ENSG00000138650; -.
+DR   eggNOG; KOG3594; Eukaryota.
+DR   GeneTree; ENSGT00940000158277; -.
+DR   HOGENOM; CLU_006480_3_0_1; -.
+DR   InParanoid; Q9P2E7; -.
+DR   OMA; SLWMLEG; -.
+DR   OrthoDB; 4259465at2759; -.
+DR   PhylomeDB; Q9P2E7; -.
+DR   TreeFam; TF352008; -.
+DR   PathwayCommons; Q9P2E7; -.
+DR   SignaLink; Q9P2E7; -.
+DR   SIGNOR; Q9P2E7; -.
+DR   BioGRID-ORCS; 57575; 17 hits in 1151 CRISPR screens.
+DR   ChiTaRS; PCDH10; human.
+DR   GeneWiki; PCDH10; -.
+DR   GenomeRNAi; 57575; -.
+DR   Pharos; Q9P2E7; Tbio.
+DR   PRO; PR:Q9P2E7; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; Q9P2E7; protein.
+DR   Bgee; ENSG00000138650; Expressed in endothelial cell and 124 other tissues.
+DR   ExpressionAtlas; Q9P2E7; baseline and differential.
+DR   Genevisible; Q9P2E7; HS.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0007155; P:cell adhesion; IBA:GO_Central.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IEA:Ensembl.
+DR   GO; GO:0007399; P:nervous system development; IEA:UniProt.
+DR   CDD; cd11304; Cadherin_repeat; 6.
+DR   Gene3D; 2.60.40.60; Cadherins; 6.
+DR   InterPro; IPR002126; Cadherin-like_dom.
+DR   InterPro; IPR015919; Cadherin-like_sf.
+DR   InterPro; IPR032455; Cadherin_C.
+DR   InterPro; IPR020894; Cadherin_CS.
+DR   InterPro; IPR013164; Cadherin_N.
+DR   PANTHER; PTHR24028; CADHERIN-87A; 1.
+DR   PANTHER; PTHR24028:SF0; PROTOCADHERIN-10; 1.
+DR   Pfam; PF00028; Cadherin; 5.
+DR   Pfam; PF08266; Cadherin_2; 1.
+DR   Pfam; PF16492; Cadherin_C_2; 1.
+DR   PRINTS; PR00205; CADHERIN.
+DR   SMART; SM00112; CA; 6.
+DR   SUPFAM; SSF49313; Cadherin-like; 6.
+DR   PROSITE; PS00232; CADHERIN_1; 5.
+DR   PROSITE; PS50268; CADHERIN_2; 6.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium; Cell adhesion; Cell membrane;
+KW   Glycoprotein; Membrane; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..18
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           19..1040
+FT                   /note="Protocadherin-10"
+FT                   /id="PRO_0000003995"
+FT   TOPO_DOM        19..715
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        716..736
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        737..1040
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          19..122
+FT                   /note="Cadherin 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          123..250
+FT                   /note="Cadherin 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          251..358
+FT                   /note="Cadherin 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          359..463
+FT                   /note="Cadherin 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          464..574
+FT                   /note="Cadherin 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          582..690
+FT                   /note="Cadherin 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   REGION          207..228
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          686..708
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          899..927
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        908..924
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        273
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        557
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         878..896
+FT                   /note="TKHQRAELSYLVDRPRRVN -> VRLKRKDHHLSSPPSESLL (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230163,
+FT                   ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_054404"
+FT   VAR_SEQ         897..1040
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230163,
+FT                   ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_054405"
+FT   STRAND          20..25
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          33..36
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           37..41
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           45..48
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   TURN            49..52
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           57..59
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          64..67
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   TURN            68..71
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          72..75
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           81..85
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          92..99
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   TURN            100..103
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          104..113
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          123..132
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          140..142
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           152..154
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          155..161
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          165..175
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          178..185
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   TURN            191..193
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          195..206
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          231..241
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          249..251
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          253..260
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          268..271
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           280..283
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          285..289
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           295..300
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          301..303
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   TURN            305..307
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          309..312
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   TURN            318..320
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          322..334
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          340..349
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          357..363
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          365..367
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          376..383
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   HELIX           388..391
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          393..397
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          402..409
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          412..417
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   TURN            423..426
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          428..437
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          439..441
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          444..453
+FT                   /evidence="ECO:0007829|PDB:6VFQ"
+FT   STRAND          462..464
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          466..473
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          480..484
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   HELIX           493..496
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          498..502
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   HELIX           512..514
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          516..518
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   TURN            520..522
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          524..527
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   TURN            533..535
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          538..547
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          550..552
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          555..565
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          573..577
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          581..583
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          586..590
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          599..602
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          604..606
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   HELIX           611..613
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          617..620
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          625..627
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          629..631
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   TURN            633..635
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          637..642
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          654..661
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          664..666
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+FT   STRAND          669..678
+FT                   /evidence="ECO:0007829|PDB:6VG4"
+SQ   SEQUENCE   1040 AA;  112936 MW;  DE53F8B1A7198F85 CRC64;
+     MIVLLLFALL WMVEGVFSQL HYTVQEEQEH GTFVGNIAED LGLDITKLSA RGFQTVPNSR
+     TPYLDLNLET GVLYVNEKID REQICKQSPS CVLHLEVFLE NPLELFQVEI EVLDINDNPP
+     SFPEPDLTVE ISESATPGTR FPLESAFDPD VGTNSLRDYE ITPNSYFSLD VQTQGDGNRF
+     AELVLEKPLD REQQAVHRYV LTAVDGGGGG GVGEGGGGGG GAGLPPQQQR TGTALLTIRV
+     LDSNDNVPAF DQPVYTVSLP ENSPPGTLVI QLNATDPDEG QNGEVVYSFS SHISPRAREL
+     FGLSPRTGRL EVSGELDYEE SPVYQVYVQA KDLGPNAVPA HCKVLVRVLD ANDNAPEISF
+     STVKEAVSEG AAPGTVVALF SVTDRDSEEN GQVQCELLGD VPFRLKSSFK NYYTIVTEAP
+     LDREAGDSYT LTVVARDRGE PALSTSKSIQ VQVSDVNDNA PRFSQPVYDV YVTENNVPGA
+     YIYAVSATDR DEGANAQLAY SILECQIQGM SVFTYVSINS ENGYLYALRS FDYEQLKDFS
+     FQVEARDAGS PQALAGNATV NILIVDQNDN APAIVAPLPG RNGTPAREVL PRSAEPGYLL
+     TRVAAVDADD GENARLTYSI VRGNEMNLFR MDWRTGELRT ARRVPAKRDP QRPYELVIEV
+     RDHGQPPLSS TATLVVQLVD GAVEPQGGGG SGGGGSGEHQ RPSRSGGGET SLDLTLILII
+     ALGSVSFIFL LAMIVLAVRC QKEKKLNIYT CLASDCCLCC CCCGGGGSTC CGRQARARKK
+     KLSKSDIMLV QSSNVPSNPA QVPIEESGGF GSHHHNQNYC YQVCLTPESA KTDLMFLKPC
+     SPSRSTDTEH NPCGAIVTGY TDQQPDIISN GSILSNETKH QRAELSYLVD RPRRVNSSAF
+     QEADIVSSKD SGHGDSEQGD SDHDATNRAQ SAGMDLFSNC TEECKALGHS DRCWMPSFVP
+     SDGRQAADYR SNLHVPGMDS VPDTEVFETP EAQPGAERSF STFGKEKALH STLERKELDG
+     LLTNTRAPYK PPYLTRKRIC
+//

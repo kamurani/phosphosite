@@ -1,0 +1,147 @@
+ID   Z705G_HUMAN             Reviewed;         300 AA.
+AC   A8MUZ8;
+DT   01-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-2008, sequence version 2.
+DT   28-JUN-2023, entry version 117.
+DE   RecName: Full=Putative zinc finger protein 705G;
+GN   Name=ZNF705G;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16421571; DOI=10.1038/nature04406;
+RA   Nusbaum C., Mikkelsen T.S., Zody M.C., Asakawa S., Taudien S., Garber M.,
+RA   Kodira C.D., Schueler M.G., Shimizu A., Whittaker C.A., Chang J.L.,
+RA   Cuomo C.A., Dewar K., FitzGerald M.G., Yang X., Allen N.R., Anderson S.,
+RA   Asakawa T., Blechschmidt K., Bloom T., Borowsky M.L., Butler J., Cook A.,
+RA   Corum B., DeArellano K., DeCaprio D., Dooley K.T., Dorris L. III,
+RA   Engels R., Gloeckner G., Hafez N., Hagopian D.S., Hall J.L., Ishikawa S.K.,
+RA   Jaffe D.B., Kamat A., Kudoh J., Lehmann R., Lokitsang T., Macdonald P.,
+RA   Major J.E., Matthews C.D., Mauceli E., Menzel U., Mihalev A.H.,
+RA   Minoshima S., Murayama Y., Naylor J.W., Nicol R., Nguyen C., O'Leary S.B.,
+RA   O'Neill K., Parker S.C.J., Polley A., Raymond C.K., Reichwald K.,
+RA   Rodriguez J., Sasaki T., Schilhabel M., Siddiqui R., Smith C.L.,
+RA   Sneddon T.P., Talamas J.A., Tenzin P., Topham K., Venkataraman V., Wen G.,
+RA   Yamazaki S., Young S.K., Zeng Q., Zimmer A.R., Rosenthal A., Birren B.W.,
+RA   Platzer M., Shimizu N., Lander E.S.;
+RT   "DNA sequence and analysis of human chromosome 8.";
+RL   Nature 439:331-335(2006).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-169.
+RG   The Cancer Genome Anatomy Project (CGAP) at the National Cancer Institute;
+RL   Submitted (JUL-2000) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: May be involved in transcriptional regulation. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC130360; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BE466749; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS47773.1; -.
+DR   RefSeq; NP_001157929.1; NM_001164457.1.
+DR   RefSeq; XP_016868430.1; XM_017012941.1.
+DR   RefSeq; XP_016868431.1; XM_017012942.1.
+DR   AlphaFoldDB; A8MUZ8; -.
+DR   SMR; A8MUZ8; -.
+DR   BioGRID; 573352; 1.
+DR   STRING; 9606.ENSP00000383020; -.
+DR   iPTMnet; A8MUZ8; -.
+DR   PhosphoSitePlus; A8MUZ8; -.
+DR   BioMuta; ZNF705G; -.
+DR   MassIVE; A8MUZ8; -.
+DR   MaxQB; A8MUZ8; -.
+DR   PaxDb; A8MUZ8; -.
+DR   PeptideAtlas; A8MUZ8; -.
+DR   Antibodypedia; 76320; 4 antibodies from 3 providers.
+DR   DNASU; 100131980; -.
+DR   Ensembl; ENST00000400156.4; ENSP00000383020.4; ENSG00000215372.6.
+DR   GeneID; 100131980; -.
+DR   KEGG; hsa:100131980; -.
+DR   MANE-Select; ENST00000400156.4; ENSP00000383020.4; NM_001164457.3; NP_001157929.1.
+DR   UCSC; uc033bav.2; human.
+DR   AGR; HGNC:37134; -.
+DR   CTD; 100131980; -.
+DR   DisGeNET; 100131980; -.
+DR   GeneCards; ZNF705G; -.
+DR   HGNC; HGNC:37134; ZNF705G.
+DR   HPA; ENSG00000215372; Not detected.
+DR   neXtProt; NX_A8MUZ8; -.
+DR   OpenTargets; ENSG00000215372; -.
+DR   PharmGKB; PA165586029; -.
+DR   VEuPathDB; HostDB:ENSG00000215372; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000163626; -.
+DR   HOGENOM; CLU_002678_0_7_1; -.
+DR   InParanoid; A8MUZ8; -.
+DR   OMA; CYECDKG; -.
+DR   OrthoDB; 3079685at2759; -.
+DR   PhylomeDB; A8MUZ8; -.
+DR   TreeFam; TF338497; -.
+DR   PathwayCommons; A8MUZ8; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; A8MUZ8; -.
+DR   BioGRID-ORCS; 100131980; 101 hits in 957 CRISPR screens.
+DR   GenomeRNAi; 100131980; -.
+DR   Pharos; A8MUZ8; Tdark.
+DR   PRO; PR:A8MUZ8; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; A8MUZ8; protein.
+DR   Bgee; ENSG00000215372; Expressed in right testis and 1 other tissue.
+DR   Genevisible; A8MUZ8; HS.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 6.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24381; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24381:SF19; ZINC FINGER PROTEIN 705G-RELATED; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 2.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 3.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 4.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 2.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 4.
+PE   2: Evidence at transcript level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..300
+FT                   /note="Putative zinc finger protein 705G"
+FT                   /id="PRO_0000342396"
+FT   DOMAIN          7..78
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         172..194
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         200..222
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         228..250
+FT                   /note="C2H2-type 3; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         256..278
+FT                   /note="C2H2-type 4; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+SQ   SEQUENCE   300 AA;  34765 MW;  FACCC34A68841184 CRC64;
+     MHSLKKLTFE DVAIDFTQEE WAMMDTSKRK LYRDVMLENI SHLVSLGYQI SKSYIILQLE
+     QGKELWREGR VFLQDQNPNR ESALKKTHMI SMHPITRKDA STSMTMENSL ILEDPFECND
+     SGEDCTRSST ITQCLLTHSG KKPYVSKQCG KSLRNLLSTE PHKQIHTKGK SYQCNLCEKA
+     YTNCFHLRRH KMTHTGERPY ACHLCRKAFT QCSHLRRHEK THTGQRPYKC HQYGKVFIQS
+     FNLQRHERTH LGKKCYECDK SGKAFSQSSG FRGNKIIHTG EKPHACLLCG KAFSLSSNLR
+//

@@ -1,0 +1,218 @@
+ID   CRHBP_HUMAN             Reviewed;         322 AA.
+AC   P24387; Q53F32; Q6FHT5;
+DT   01-MAR-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1994, sequence version 2.
+DT   28-JUN-2023, entry version 171.
+DE   RecName: Full=Corticotropin-releasing factor-binding protein;
+DE            Short=CRF-BP;
+DE            Short=CRF-binding protein;
+DE   AltName: Full=Corticotropin-releasing hormone-binding protein;
+DE            Short=CRH-BP;
+DE   Flags: Precursor;
+GN   Name=CRHBP; Synonyms=CRFBP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Liver;
+RX   PubMed=1846945; DOI=10.1038/349423a0;
+RA   Potter E., Behan D.P., Fischer W.H., Linton E.A., Lowry P.J., Vale W.W.;
+RT   "Cloning and characterization of the cDNAs for human and rat corticotropin
+RT   releasing factor-binding proteins.";
+RL   Nature 349:423-426(1991).
+RN   [2]
+RP   SEQUENCE REVISION TO 47-48 AND 248, AND DISULFIDE BONDS.
+RX   PubMed=8307998; DOI=10.1016/s0021-9258(17)41780-7;
+RA   Fischer W.H., Behan D.P., Park M., Potter E., Lowry P.J., Vale W.W.;
+RT   "Assignment of disulfide bonds in corticotropin-releasing factor-binding
+RT   protein.";
+RL   J. Biol. Chem. 269:4313-4316(1994).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Kidney;
+RA   Totoki Y., Toyoda A., Takeda T., Sakaki Y., Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Hippocampus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-27.
+RX   PubMed=8198617; DOI=10.1006/geno.1993.1141;
+RA   Behan D.P., Potter E., Lewis K.A., Jenkins N.A., Copeland N.G., Lowry P.J.,
+RA   Vale W.W.;
+RT   "Cloning and structure of the human corticotrophin releasing factor-binding
+RT   protein gene (CRHBP).";
+RL   Genomics 16:63-68(1993).
+CC   -!- FUNCTION: Binds CRF and inactivates it. May prevent inappropriate
+CC       pituitary-adrenal stimulation in pregnancy.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the CRF-binding protein family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X58022; CAA41086.1; ALT_SEQ; mRNA.
+DR   EMBL; S60697; AAD13916.1; -; Genomic_DNA.
+DR   EMBL; CR541666; CAG46467.1; -; mRNA.
+DR   EMBL; AK223457; BAD97177.1; -; mRNA.
+DR   EMBL; CH471084; EAW95786.1; -; Genomic_DNA.
+DR   EMBL; BC018038; AAH18038.1; -; mRNA.
+DR   CCDS; CCDS4034.1; -.
+DR   PIR; S13640; S13640.
+DR   RefSeq; NP_001873.2; NM_001882.3.
+DR   AlphaFoldDB; P24387; -.
+DR   BioGRID; 107783; 15.
+DR   IntAct; P24387; 11.
+DR   STRING; 9606.ENSP00000274368; -.
+DR   BindingDB; P24387; -.
+DR   ChEMBL; CHEMBL5930; -.
+DR   GlyConnect; 1932; 6 N-Linked glycans (1 site).
+DR   GlyCosmos; P24387; 1 site, 6 glycans.
+DR   GlyGen; P24387; 1 site, 6 N-linked glycans (1 site).
+DR   iPTMnet; P24387; -.
+DR   PhosphoSitePlus; P24387; -.
+DR   BioMuta; CRHBP; -.
+DR   DMDM; 544099; -.
+DR   MassIVE; P24387; -.
+DR   PaxDb; P24387; -.
+DR   PeptideAtlas; P24387; -.
+DR   ProteomicsDB; 54201; -.
+DR   Antibodypedia; 24474; 224 antibodies from 26 providers.
+DR   DNASU; 1393; -.
+DR   Ensembl; ENST00000274368.9; ENSP00000274368.4; ENSG00000145708.11.
+DR   GeneID; 1393; -.
+DR   KEGG; hsa:1393; -.
+DR   MANE-Select; ENST00000274368.9; ENSP00000274368.4; NM_001882.4; NP_001873.2.
+DR   UCSC; uc003ker.4; human.
+DR   AGR; HGNC:2356; -.
+DR   CTD; 1393; -.
+DR   DisGeNET; 1393; -.
+DR   GeneCards; CRHBP; -.
+DR   HGNC; HGNC:2356; CRHBP.
+DR   HPA; ENSG00000145708; Tissue enriched (liver).
+DR   MIM; 122559; gene.
+DR   neXtProt; NX_P24387; -.
+DR   OpenTargets; ENSG00000145708; -.
+DR   PharmGKB; PA26873; -.
+DR   VEuPathDB; HostDB:ENSG00000145708; -.
+DR   eggNOG; ENOG502QRNI; Eukaryota.
+DR   GeneTree; ENSGT00390000001362; -.
+DR   HOGENOM; CLU_056739_0_0_1; -.
+DR   InParanoid; P24387; -.
+DR   OMA; EFCFPSI; -.
+DR   OrthoDB; 5341869at2759; -.
+DR   PhylomeDB; P24387; -.
+DR   TreeFam; TF105383; -.
+DR   PathwayCommons; P24387; -.
+DR   Reactome; R-HSA-373080; Class B/2 (Secretin family receptors).
+DR   SignaLink; P24387; -.
+DR   BioGRID-ORCS; 1393; 8 hits in 1141 CRISPR screens.
+DR   ChiTaRS; CRHBP; human.
+DR   GeneWiki; CRHBP; -.
+DR   GenomeRNAi; 1393; -.
+DR   Pharos; P24387; Tbio.
+DR   PRO; PR:P24387; -.
+DR   Proteomes; UP000005640; Chromosome 5.
+DR   RNAct; P24387; protein.
+DR   Bgee; ENSG00000145708; Expressed in spleen and 112 other tissues.
+DR   ExpressionAtlas; P24387; baseline and differential.
+DR   Genevisible; P24387; HS.
+DR   GO; GO:0043679; C:axon terminus; ISS:UniProtKB.
+DR   GO; GO:0030425; C:dendrite; ISS:UniProtKB.
+DR   GO; GO:0031045; C:dense core granule; ISS:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProtKB.
+DR   GO; GO:0005874; C:microtubule; ISS:UniProtKB.
+DR   GO; GO:0005771; C:multivesicular body; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; ISS:UniProtKB.
+DR   GO; GO:0043204; C:perikaryon; ISS:UniProtKB.
+DR   GO; GO:0005767; C:secondary lysosome; ISS:UniProtKB.
+DR   GO; GO:0030141; C:secretory granule; IDA:UniProtKB.
+DR   GO; GO:0043196; C:varicosity; ISS:UniProtKB.
+DR   GO; GO:0051424; F:corticotropin-releasing hormone binding; IDA:UniProtKB.
+DR   GO; GO:0042277; F:peptide binding; ISS:UniProtKB.
+DR   GO; GO:0048149; P:behavioral response to ethanol; IMP:UniProtKB.
+DR   GO; GO:0071277; P:cellular response to calcium ion; ISS:UniProtKB.
+DR   GO; GO:0071320; P:cellular response to cAMP; ISS:UniProtKB.
+DR   GO; GO:0071314; P:cellular response to cocaine; ISS:UniProtKB.
+DR   GO; GO:0071392; P:cellular response to estradiol stimulus; IDA:UniProtKB.
+DR   GO; GO:0071391; P:cellular response to estrogen stimulus; IDA:UniProtKB.
+DR   GO; GO:0097211; P:cellular response to gonadotropin-releasing hormone; ISS:UniProtKB.
+DR   GO; GO:0035865; P:cellular response to potassium ion; IDA:UniProtKB.
+DR   GO; GO:0071356; P:cellular response to tumor necrosis factor; IDA:UniProtKB.
+DR   GO; GO:0071466; P:cellular response to xenobiotic stimulus; ISS:UniProtKB.
+DR   GO; GO:0007565; P:female pregnancy; IDA:UniProtKB.
+DR   GO; GO:0009755; P:hormone-mediated signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0006954; P:inflammatory response; IDA:UniProtKB.
+DR   GO; GO:0007611; P:learning or memory; TAS:UniProtKB.
+DR   GO; GO:0051460; P:negative regulation of corticotropin secretion; IDA:UniProtKB.
+DR   GO; GO:1900011; P:negative regulation of corticotropin-releasing hormone receptor activity; IDA:UniProtKB.
+DR   GO; GO:0045055; P:regulated exocytosis; IDA:UniProtKB.
+DR   GO; GO:0080135; P:regulation of cellular response to stress; IMP:UniProtKB.
+DR   GO; GO:0051459; P:regulation of corticotropin secretion; IDA:UniProtKB.
+DR   GO; GO:2000310; P:regulation of NMDA receptor activity; ISS:UniProtKB.
+DR   GO; GO:0007165; P:signal transduction; TAS:UniProtKB.
+DR   GO; GO:0001963; P:synaptic transmission, dopaminergic; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.290; Spermadhesin, CUB domain; 1.
+DR   InterPro; IPR008435; CRF-bd.
+DR   InterPro; IPR035914; Sperma_CUB_dom_sf.
+DR   PANTHER; PTHR10278; CORTICOTROPIN-RELEASING FACTOR-BINDING PROTEIN; 1.
+DR   PANTHER; PTHR10278:SF0; CORTICOTROPIN-RELEASING FACTOR-BINDING PROTEIN; 1.
+DR   Pfam; PF05428; CRF-BP; 1.
+DR   PIRSF; PIRSF009279; CRF_bd; 1.
+DR   SUPFAM; SSF49854; Spermadhesin, CUB domain; 1.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein;
+KW   Reference proteome; Secreted; Signal.
+FT   SIGNAL          1..24
+FT   CHAIN           25..322
+FT                   /note="Corticotropin-releasing factor-binding protein"
+FT                   /id="PRO_0000020994"
+FT   CARBOHYD        204
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        60..81
+FT                   /evidence="ECO:0000269|PubMed:8307998"
+FT   DISULFID        104..141
+FT                   /evidence="ECO:0000269|PubMed:8307998"
+FT   DISULFID        183..205
+FT                   /evidence="ECO:0000269|PubMed:8307998"
+FT   DISULFID        237..264
+FT                   /evidence="ECO:0000269|PubMed:8307998"
+FT   DISULFID        277..318
+FT                   /evidence="ECO:0000269|PubMed:8307998"
+FT   CONFLICT        279
+FT                   /note="N -> D (in Ref. 4; BAD97177)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   322 AA;  36144 MW;  771A894BE06039BD CRC64;
+     MSPNFKLQCH FILIFLTALR GESRYLELRE AADYDPFLLF SANLKRELAG EQPYRRALRC
+     LDMLSLQGQF TFTADRPQLH CAAFFISEPE EFITIHYDQV SIDCQGGDFL KVFDGWILKG
+     EKFPSSQDHP LPSAERYIDF CESGLSRRSI RSSQNVAMIF FRVHEPGNGF TLTIKTDPNL
+     FPCNVISQTP NGKFTLVVPH QHRNCSFSII YPVVIKISDL TLGHVNGLQL KKSSAGCEGI
+     GDFVELLGGT GLDPSKMTPL ADLCYPFHGP AQMKVGCDNT VVRMVSSGKH VNRVTFEYRQ
+     LEPYELENPN GNSIGEFCLS GL
+//

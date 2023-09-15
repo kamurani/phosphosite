@@ -1,0 +1,162 @@
+ID   ZN735_HUMAN             Reviewed;         412 AA.
+AC   P0CB33;
+DT   22-SEP-2009, integrated into UniProtKB/Swiss-Prot.
+DT   22-SEP-2009, sequence version 1.
+DT   28-JUN-2023, entry version 92.
+DE   RecName: Full=Putative zinc finger protein 735;
+DE   AltName: Full=Zinc finger protein 735 pseudogene;
+GN   Name=ZNF735; Synonyms=ZNF735P;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+CC   -!- FUNCTION: May be involved in transcriptional regulation. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- CAUTION: Could be the product of a pseudogene. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC073270; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC104094; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS78236.1; -.
+DR   RefSeq; NP_001152996.1; NM_001159524.1.
+DR   AlphaFoldDB; P0CB33; -.
+DR   SMR; P0CB33; -.
+DR   BioGRID; 610679; 1.
+DR   STRING; 9606.ENSP00000485193; -.
+DR   iPTMnet; P0CB33; -.
+DR   PhosphoSitePlus; P0CB33; -.
+DR   BioMuta; ZNF735; -.
+DR   DMDM; 259710468; -.
+DR   jPOST; P0CB33; -.
+DR   MassIVE; P0CB33; -.
+DR   MaxQB; P0CB33; -.
+DR   PeptideAtlas; P0CB33; -.
+DR   ProteomicsDB; 52432; -.
+DR   Antibodypedia; 74087; 39 antibodies from 9 providers.
+DR   DNASU; 730291; -.
+DR   Ensembl; ENST00000429565.5; ENSP00000485547.1; ENSG00000223614.6.
+DR   GeneID; 730291; -.
+DR   KEGG; hsa:730291; -.
+DR   MANE-Select; ENST00000429565.5; ENSP00000485547.1; NM_001159524.1; NP_001152996.1.
+DR   UCSC; uc011kdn.3; human.
+DR   AGR; HGNC:32466; -.
+DR   CTD; 730291; -.
+DR   GeneCards; ZNF735; -.
+DR   HGNC; HGNC:32466; ZNF735.
+DR   HPA; ENSG00000223614; Not detected.
+DR   neXtProt; NX_P0CB33; -.
+DR   PharmGKB; PA162410268; -.
+DR   VEuPathDB; HostDB:ENSG00000223614; -.
+DR   GeneTree; ENSGT00940000153236; -.
+DR   HOGENOM; CLU_002678_0_10_1; -.
+DR   InParanoid; P0CB33; -.
+DR   OMA; FSCSSTI; -.
+DR   OrthoDB; 3120079at2759; -.
+DR   PhylomeDB; P0CB33; -.
+DR   PathwayCommons; P0CB33; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   BioGRID-ORCS; 730291; 8 hits in 250 CRISPR screens.
+DR   ChiTaRS; ZNF735; human.
+DR   GenomeRNAi; 730291; -.
+DR   Pharos; P0CB33; Tdark.
+DR   PRO; PR:P0CB33; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; P0CB33; protein.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 8.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24384; FINGER PUTATIVE TRANSCRIPTION FACTOR FAMILY-RELATED; 1.
+DR   PANTHER; PTHR24384:SF228; ZINC FINGER PROTEIN 479-RELATED; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 6.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 8.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 5.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 6.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 8.
+PE   5: Uncertain;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..412
+FT                   /note="Putative zinc finger protein 735"
+FT                   /id="PRO_0000383475"
+FT   DOMAIN          16..87
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         157..179
+FT                   /note="C2H2-type 1; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         185..207
+FT                   /note="C2H2-type 2; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         213..235
+FT                   /note="C2H2-type 3; degenerate"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         241..263
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         269..291
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         297..319
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         325..347
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         353..375
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         381..403
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+SQ   SEQUENCE   412 AA;  47565 MW;  2E53E51DC216A02F CRC64;
+     MAKRPGPPGS REMGLLTFRD IAIEFSLAEW QCLDHAQQNL YRDVMLENYR NLFSLGMTVS
+     KPDLIACLEQ NKEPQNIKRN EMAAKHPVTC SHFNQDLQPE QSIKDSLQKV IPRTYGKCGH
+     ENLQLKKCCK RVDECEVHKG GYNDLNQCLS NTQNKIFQTH KCVKVFSKFS NSNRHNARYT
+     GKKHLKCKKY GKSFCMFSHL NQHQIIHTKE KSYKCEECGK SFNHSSSGTT HKRILTGEKP
+     YRCEECGKAF RWPSNLTRHK RIHTGEKPYA CEECGQAFRR SSTLTNHKRI HTGERPYKCE
+     ECGKAFSVSS ALIYHKRIHT GEKPYTCEEC GKAFNCSSTL KTHKIIHTGE KPYTCEECGR
+     TFNCSSTVKA HKRIHTGEKP YKCEECDKAF KWHSSLAKHK IIHTGEKPYK CK
+//

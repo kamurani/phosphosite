@@ -1,0 +1,360 @@
+ID   VP35L_HUMAN             Reviewed;         963 AA.
+AC   Q7Z3J2; A8K2M1; O43329; Q69YI1; Q6PDA0; Q7L371; Q86W66; Q8WXA5; Q9H0L7;
+AC   Q9H7C8;
+DT   13-NOV-2007, integrated into UniProtKB/Swiss-Prot.
+DT   13-NOV-2007, sequence version 2.
+DT   28-JUN-2023, entry version 126.
+DE   RecName: Full=VPS35 endosomal protein-sorting factor-like {ECO:0000305};
+DE   AltName: Full=Esophageal cancer-associated protein;
+GN   Name=VPS35L {ECO:0000312|HGNC:HGNC:24641};
+GN   Synonyms=C16orf62 {ECO:0000312|HGNC:HGNC:24641}; ORFNames=101F10.2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RA   Lu J., Liu Z., Hu G., Wu M., Wang X.;
+RL   Submitted (FEB-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Tongue;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Heart;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANTS CYS-32 AND
+RP   VAL-506.
+RC   TISSUE=Pancreas, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 396-963 (ISOFORM 1).
+RC   TISSUE=Testis;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] OF 758-963.
+RX   PubMed=10493829; DOI=10.1006/geno.1999.5927;
+RA   Loftus B.J., Kim U.-J., Sneddon V.P., Kalush F., Brandon R., Fuhrmann J.,
+RA   Mason T., Crosby M.L., Barnstead M., Cronin L., Mays A.D., Cao Y., Xu R.X.,
+RA   Kang H.-L., Mitchell S., Eichler E.E., Harris P.C., Venter J.C.,
+RA   Adams M.D.;
+RT   "Genome duplications and other features in 12 Mb of DNA sequence from human
+RT   chromosome 16p and 16q.";
+RL   Genomics 60:295-308(1999).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-265, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [9]
+RP   FUNCTION, IDENTIFICATION IN THE CCC COMPLEX, SUBCELLULAR LOCATION, AND
+RP   SUBUNIT.
+RX   PubMed=25355947; DOI=10.1091/mbc.e14-06-1073;
+RA   Phillips-Krawczak C.A., Singla A., Starokadomskyy P., Deng Z.,
+RA   Osborne D.G., Li H., Dick C.J., Gomez T.S., Koenecke M., Zhang J.S.,
+RA   Dai H., Sifuentes-Dominguez L.F., Geng L.N., Kaufmann S.H., Hein M.Y.,
+RA   Wallis M., McGaughran J., Gecz J., van de Sluis B., Billadeau D.D.,
+RA   Burstein E.;
+RT   "COMMD1 is linked to the WASH complex and regulates endosomal trafficking
+RT   of the copper transporter ATP7A.";
+RL   Mol. Biol. Cell 26:91-103(2015).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [11]
+RP   FUNCTION, INTERACTION WITH CCDC22; SNX17 AND SNX31, IDENTIFICATION IN THE
+RP   RETRIEVER COMPLEX, SUBCELLULAR LOCATION, AND FUNCTION (MICROBIAL
+RP   INFECTION).
+RX   PubMed=28892079; DOI=10.1038/ncb3610;
+RA   McNally K.E., Faulkner R., Steinberg F., Gallon M., Ghai R., Pim D.,
+RA   Langton P., Pearson N., Danson C.M., Naegele H., Morris L.L., Singla A.,
+RA   Overlee B.L., Heesom K.J., Sessions R., Banks L., Collins B.M., Berger I.,
+RA   Billadeau D.D., Burstein E., Cullen P.J.;
+RT   "Retriever is a multiprotein complex for retromer-independent endosomal
+RT   cargo recycling.";
+RL   Nat. Cell Biol. 19:1214-1225(2017).
+RN   [12]
+RP   INTERACTION WITH VPS29, INVOLVEMENT IN RTSC3, VARIANT RTSC3 THR-830, AND
+RP   CHARACTERIZATION OF VARIANT RTSC3 THR-830.
+RX   PubMed=31712251; DOI=10.1136/jmedgenet-2019-106213;
+RA   Kato K., Oka Y., Muramatsu H., Vasilev F.F., Otomo T., Oishi H., Kawano Y.,
+RA   Kidokoro H., Nakazawa Y., Ogi T., Takahashi Y., Saitoh S.;
+RT   "Biallelic VPS35L pathogenic variants cause 3C/Ritscher-Schinzel-like
+RT   syndrome through dysfunction of retriever complex.";
+RL   J. Med. Genet. 57:245-253(2020).
+CC   -!- FUNCTION: Acts as component of the retriever complex. The retriever
+CC       complex is a heterotrimeric complex related to retromer cargo-selective
+CC       complex (CSC) and essential for retromer-independent retrieval and
+CC       recycling of numerous cargos such as integrin alpha-5/beta-1
+CC       (ITGA5:ITGB1) (PubMed:28892079). The recruitment of the retriever
+CC       complex to the endosomal membrane involves CCC and WASH complexes
+CC       (PubMed:28892079). In the endosomes, drives the retrieval and recycling
+CC       of NxxY-motif-containing cargo proteins by coupling to SNX17, a cargo
+CC       essential for the homeostatic maintenance of numerous cell surface
+CC       proteins associated with processes that include cell migration, cell
+CC       adhesion, nutrient supply and cell signaling (PubMed:28892079).
+CC       Involved in copper-dependent ATP7A trafficking between the trans-Golgi
+CC       network and vesicles in the cell periphery; the function is proposed to
+CC       depend on its association with the CCC complex and cooperation with the
+CC       WASH complex on early endosomes. Seems not to be required for CCC
+CC       complex stability (PubMed:25355947). {ECO:0000269|PubMed:25355947,
+CC       ECO:0000269|PubMed:28892079}.
+CC   -!- FUNCTION: (Microbial infection) The heterotrimeric retriever complex,
+CC       in collaboration with the CCC complex, mediates the exit of human
+CC       papillomavirus to the cell surface. {ECO:0000269|PubMed:28892079}.
+CC   -!- SUBUNIT: Component of the heterotrimeric retriever complex formed by
+CC       VPS26C, VPS29 and VPS35L (PubMed:28892079). Interacts with VPS29
+CC       (PubMed:31712251). Interacts with COMMD1, CCDC93 and CCDC22; associates
+CC       with the CCC (COMMD/CCDC22/CCDC93) complex which contains at least
+CC       COMMD1 (and possibly other COMM domain-containing proteins), CCDC22 and
+CC       CCDC93 (PubMed:25355947, PubMed:28892079). Interacts with WASHC1,
+CC       WASHC2A and WASHC2C (PubMed:25355947). Interacts with SNX17 and SNX31
+CC       (PubMed:28892079). {ECO:0000269|PubMed:25355947,
+CC       ECO:0000269|PubMed:28892079, ECO:0000269|PubMed:31712251}.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000255}; Single-pass membrane
+CC       protein {ECO:0000255}. Endosome {ECO:0000269|PubMed:25355947,
+CC       ECO:0000269|PubMed:28892079}. Note=Endosome location is dependent of
+CC       the association with the CCC and WASH complexes.
+CC       {ECO:0000269|PubMed:28892079}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q7Z3J2-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q7Z3J2-2; Sequence=VSP_029536, VSP_029537, VSP_029538;
+CC   -!- DISEASE: Ritscher-Schinzel syndrome 3 (RTSC3) [MIM:619135]: A form of
+CC       Ritscher-Schinzel syndrome, a developmental malformation syndrome
+CC       characterized by cerebellar brain malformations, congenital heart
+CC       defects, and craniofacial abnormalities. RTSC3 is an autosomal
+CC       recessive form. Affected individuals show cranio-cerebello-cardiac
+CC       anomalies, coloboma, microphthalmia, chondrodysplasia punctata,
+CC       complicated skeletal malformations, periventricular nodular heterotopia
+CC       and proteinuria. {ECO:0000269|PubMed:31712251}. Note=The disease may be
+CC       caused by variants affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the VPS35L family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH14900.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAD97869.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF461052; AAL67806.2; -; mRNA.
+DR   EMBL; AK024693; BAB14965.1; -; mRNA.
+DR   EMBL; AK290286; BAF82975.1; -; mRNA.
+DR   EMBL; BX537867; CAD97869.1; ALT_INIT; mRNA.
+DR   EMBL; AL833428; CAH10399.1; -; mRNA.
+DR   EMBL; BC014900; AAH14900.2; ALT_INIT; mRNA.
+DR   EMBL; BC050464; AAH50464.1; -; mRNA.
+DR   EMBL; BC058845; AAH58845.1; -; mRNA.
+DR   EMBL; AL136744; CAB66678.1; -; mRNA.
+DR   EMBL; AC002550; AAC05806.1; -; Genomic_DNA.
+DR   CCDS; CCDS32397.3; -. [Q7Z3J2-1]
+DR   RefSeq; NP_064710.4; NM_020314.5. [Q7Z3J2-1]
+DR   AlphaFoldDB; Q7Z3J2; -.
+DR   BioGRID; 121329; 43.
+DR   CORUM; Q7Z3J2; -.
+DR   IntAct; Q7Z3J2; 18.
+DR   MINT; Q7Z3J2; -.
+DR   STRING; 9606.ENSP00000251143; -.
+DR   iPTMnet; Q7Z3J2; -.
+DR   PhosphoSitePlus; Q7Z3J2; -.
+DR   BioMuta; C16orf62; -.
+DR   EPD; Q7Z3J2; -.
+DR   jPOST; Q7Z3J2; -.
+DR   MassIVE; Q7Z3J2; -.
+DR   MaxQB; Q7Z3J2; -.
+DR   PaxDb; Q7Z3J2; -.
+DR   PeptideAtlas; Q7Z3J2; -.
+DR   ProteomicsDB; 69055; -. [Q7Z3J2-1]
+DR   ProteomicsDB; 69056; -. [Q7Z3J2-2]
+DR   Antibodypedia; 52453; 53 antibodies from 15 providers.
+DR   DNASU; 57020; -.
+DR   Ensembl; ENST00000417362.7; ENSP00000395973.3; ENSG00000103544.17. [Q7Z3J2-1]
+DR   GeneID; 57020; -.
+DR   KEGG; hsa:57020; -.
+DR   MANE-Select; ENST00000417362.7; ENSP00000395973.3; NM_020314.7; NP_064710.5.
+DR   UCSC; uc059rnn.1; human. [Q7Z3J2-1]
+DR   AGR; HGNC:24641; -.
+DR   CTD; 57020; -.
+DR   DisGeNET; 57020; -.
+DR   GeneCards; VPS35L; -.
+DR   HGNC; HGNC:24641; VPS35L.
+DR   HPA; ENSG00000103544; Low tissue specificity.
+DR   MalaCards; VPS35L; -.
+DR   MIM; 618981; gene.
+DR   MIM; 619135; phenotype.
+DR   neXtProt; NX_Q7Z3J2; -.
+DR   OpenTargets; ENSG00000103544; -.
+DR   PharmGKB; PA162378300; -.
+DR   VEuPathDB; HostDB:ENSG00000103544; -.
+DR   eggNOG; KOG3682; Eukaryota.
+DR   GeneTree; ENSGT00390000011343; -.
+DR   InParanoid; Q7Z3J2; -.
+DR   OrthoDB; 179316at2759; -.
+DR   PhylomeDB; Q7Z3J2; -.
+DR   PathwayCommons; Q7Z3J2; -.
+DR   Reactome; R-HSA-6798695; Neutrophil degranulation.
+DR   SignaLink; Q7Z3J2; -.
+DR   BioGRID-ORCS; 57020; 28 hits in 1150 CRISPR screens.
+DR   ChiTaRS; VPS35L; human.
+DR   GenomeRNAi; 57020; -.
+DR   Pharos; Q7Z3J2; Tdark.
+DR   PRO; PR:Q7Z3J2; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   RNAct; Q7Z3J2; protein.
+DR   Bgee; ENSG00000103544; Expressed in buccal mucosa cell and 193 other tissues.
+DR   ExpressionAtlas; Q7Z3J2; baseline and differential.
+DR   Genevisible; Q7Z3J2; HS.
+DR   GO; GO:0005768; C:endosome; IDA:UniProtKB.
+DR   GO; GO:0101003; C:ficolin-1-rich granule membrane; TAS:Reactome.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0032456; P:endocytic recycling; IMP:UniProtKB.
+DR   GO; GO:0006893; P:Golgi to plasma membrane transport; IMP:UniProtKB.
+DR   GO; GO:0015031; P:protein transport; IEA:UniProtKB-KW.
+DR   InterPro; IPR029705; VPS35L.
+DR   PANTHER; PTHR13673; ESOPHAGEAL CANCER ASSOCIATED PROTEIN; 1.
+DR   PANTHER; PTHR13673:SF0; VPS35 ENDOSOMAL PROTEIN-SORTING FACTOR-LIKE; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Disease variant; Endosome; Membrane; Phosphoprotein;
+KW   Protein transport; Reference proteome; Transmembrane; Transmembrane helix;
+KW   Transport.
+FT   CHAIN           1..963
+FT                   /note="VPS35 endosomal protein-sorting factor-like"
+FT                   /id="PRO_0000311352"
+FT   TRANSMEM        703..719
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   REGION          43..69
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        50..69
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         265
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1..122
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_029536"
+FT   VAR_SEQ         123..144
+FT                   /note="EILARYTTTEKLSINLFMGSEK -> MPPLGVLVHEKSHLCDVNSFCL (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_029537"
+FT   VAR_SEQ         214..243
+FT                   /note="CSKLLSDTSVIQFYPSKFVLITDILDTFGK -> EE (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_029538"
+FT   VARIANT         32
+FT                   /note="Y -> C (in dbSNP:rs17854969)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_037230"
+FT   VARIANT         186
+FT                   /note="N -> I (in dbSNP:rs7206637)"
+FT                   /id="VAR_037231"
+FT   VARIANT         506
+FT                   /note="A -> V (in dbSNP:rs17854970)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_037232"
+FT   VARIANT         830
+FT                   /note="A -> T (in RTSC3; does not interact with VPS29;
+FT                   dbSNP:rs747119819)"
+FT                   /evidence="ECO:0000269|PubMed:31712251"
+FT                   /id="VAR_085197"
+FT   CONFLICT        168
+FT                   /note="F -> S (in Ref. 3; CAH10399)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        340
+FT                   /note="C -> G (in Ref. 1; AAL67806)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        675
+FT                   /note="I -> V (in Ref. 3; CAD97869)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   963 AA;  109563 MW;  5500471390F85683 CRC64;
+     MAVFPWHSRN RNYKAEFASC RLEAVPLEFG DYHPLKPITV TESKTKKVNR KGSTSSTSSS
+     SSSSVVDPLS SVLDGTDPLS MFAATADPAA LAAAMDSSRR KRDRDDNSVV GSDFEPWTNK
+     RGEILARYTT TEKLSINLFM GSEKGKAGTA TLAMSEKVRT RLEELDDFEE GSQKELLNLT
+     QQDYVNRIEE LNQSLKDAWA SDQKVKALKI VIQCSKLLSD TSVIQFYPSK FVLITDILDT
+     FGKLVYERIF SMCVDSRSVL PDHFSPENAN DTAKETCLNW FFKIASIREL IPRFYVEASI
+     LKCNKFLSKT GISECLPRLT CMIRGIGDPL VSVYARAYLC RVGMEVAPHL KETLNKNFFD
+     FLLTFKQIHG DTVQNQLVVQ GVELPSYLPL YPPAMDWIFQ CISYHAPEAL LTEMMERCKK
+     LGNNALLLNS VMSAFRAEFI ATRSMDFIGM IKECDESGFP KHLLFRSLGL NLALADPPES
+     DRLQILNEAW KVITKLKNPQ DYINCAEVWV EYTCKHFTKR EVNTVLADVI KHMTPDRAFE
+     DSYPQLQLII KKVIAHFHDF SVLFSVEKFL PFLDMFQKES VRVEVCKCIM DAFIKHQQEP
+     TKDPVILNAL LHVCKTMHDS VNALTLEDEK RMLSYLINGF IKMVSFGRDF EQQLSFYVES
+     RSMFCNLEPV LVQLIHSVNR LAMETRKVMK GNHSRKTAAF VRACVAYCFI TIPSLAGIFT
+     RLNLYLHSGQ VALANQCLSQ ADAFFKAAIS LVPEVPKMIN IDGKMRPSES FLLEFLCNFF
+     STLLIVPDHP EHGVLFLVRE LLNVIQDYTW EDNSDEKIRI YTCVLHLLSA MSQETYLYHI
+     DKVDSNDSLY GGDSKFLAEN NKLCETVMAQ ILEHLKTLAK DEALKRQSSL GLSFFNSILA
+     HGDLRNNKLN QLSVNLWHLA QRHGCADTRT MVKTLEYIKK QSKQPDMTHL TELALRLPLQ
+     TRT
+//

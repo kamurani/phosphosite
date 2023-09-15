@@ -1,0 +1,240 @@
+ID   Z354C_HUMAN             Reviewed;         554 AA.
+AC   Q86Y25; Q6P4P9; Q8NFX1;
+DT   20-MAR-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   03-MAY-2023, entry version 163.
+DE   RecName: Full=Zinc finger protein 354C;
+DE   AltName: Full=Kidney, ischemia, and developmentally-regulated protein 3;
+DE            Short=hKID3;
+GN   Name=ZNF354C; Synonyms=KID3;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, SUBCELLULAR LOCATION, TISSUE
+RP   SPECIFICITY, AND DEVELOPMENTAL STAGE.
+RC   TISSUE=Kidney;
+RX   PubMed=15555547; DOI=10.1016/j.bbrc.2004.10.158;
+RA   Gao L., Sun C., Qiu H.-L., Liu H., Shao H.-J., Wang J., Li W.-X.;
+RT   "Cloning and characterization of a novel human zinc finger gene, hKid3,
+RT   from a C2H2-ZNF enriched human embryonic cDNA library.";
+RL   Biochem. Biophys. Res. Commun. 325:1145-1152(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT LYS-250.
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 10-554.
+RA   Gou D.-M., Li W.-X., Gao L., Sun Y.;
+RT   "A novel zinc finger gene, KID3.";
+RL   Submitted (JUN-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-111; LYS-167; LYS-198 AND
+RP   LYS-531, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: May function as a transcription repressor. Binds to 5'-CCACA-
+CC       3' core sequence. Suppresses osteogenic effects of RUNX2. May be
+CC       involved in osteoblastic differentiation (By similarity). Plays a role
+CC       in postnatal myogenesis, may be involved in the regulation of satellite
+CC       cells self-renewal (By similarity). {ECO:0000250|UniProtKB:Q571J5,
+CC       ECO:0000250|UniProtKB:Q9EPU7, ECO:0000269|PubMed:15555547}.
+CC   -!- SUBUNIT: Interacts with RUNX2. Binds consensus element OSE2 (By
+CC       similarity). {ECO:0000250|UniProtKB:Q9EPU7}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:15555547}.
+CC   -!- TISSUE SPECIFICITY: Expressed in kidney and skeletal muscle. Very low
+CC       expression in brain and heart. {ECO:0000269|PubMed:15555547}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed in brain. Very low expression in lung
+CC       and liver. {ECO:0000269|PubMed:15555547}.
+CC   -!- DOMAIN: KRAB domain is not required for nuclear targeting or for DNA
+CC       binding. {ECO:0000250|UniProtKB:Q9EPU7}.
+CC   -!- DOMAIN: Zinc finger region is involved in nuclear targeting and DNA-
+CC       binding. {ECO:0000250|UniProtKB:Q9EPU7}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH63312.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF525463; AAO83897.1; -; mRNA.
+DR   EMBL; BC063312; AAH63312.1; ALT_FRAME; mRNA.
+DR   EMBL; AF395540; AAM69676.1; -; mRNA.
+DR   CCDS; CCDS4443.1; -.
+DR   RefSeq; NP_055409.1; NM_014594.2.
+DR   RefSeq; XP_016864898.1; XM_017009409.1.
+DR   AlphaFoldDB; Q86Y25; -.
+DR   SMR; Q86Y25; -.
+DR   BioGRID; 119048; 28.
+DR   IntAct; Q86Y25; 16.
+DR   STRING; 9606.ENSP00000324064; -.
+DR   GlyGen; Q86Y25; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q86Y25; -.
+DR   PhosphoSitePlus; Q86Y25; -.
+DR   BioMuta; ZNF354C; -.
+DR   DMDM; 74762464; -.
+DR   EPD; Q86Y25; -.
+DR   jPOST; Q86Y25; -.
+DR   MassIVE; Q86Y25; -.
+DR   MaxQB; Q86Y25; -.
+DR   PaxDb; Q86Y25; -.
+DR   PeptideAtlas; Q86Y25; -.
+DR   ProteomicsDB; 70354; -.
+DR   Antibodypedia; 29471; 53 antibodies from 13 providers.
+DR   DNASU; 30832; -.
+DR   Ensembl; ENST00000315475.7; ENSP00000324064.6; ENSG00000177932.7.
+DR   GeneID; 30832; -.
+DR   KEGG; hsa:30832; -.
+DR   MANE-Select; ENST00000315475.7; ENSP00000324064.6; NM_014594.3; NP_055409.1.
+DR   UCSC; uc003mju.4; human.
+DR   AGR; HGNC:16736; -.
+DR   CTD; 30832; -.
+DR   DisGeNET; 30832; -.
+DR   GeneCards; ZNF354C; -.
+DR   HGNC; HGNC:16736; ZNF354C.
+DR   HPA; ENSG00000177932; Low tissue specificity.
+DR   MIM; 619511; gene.
+DR   neXtProt; NX_Q86Y25; -.
+DR   OpenTargets; ENSG00000177932; -.
+DR   PharmGKB; PA38184; -.
+DR   VEuPathDB; HostDB:ENSG00000177932; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000162715; -.
+DR   HOGENOM; CLU_002678_0_9_1; -.
+DR   InParanoid; Q86Y25; -.
+DR   OMA; STFIEHQ; -.
+DR   OrthoDB; 3128539at2759; -.
+DR   PhylomeDB; Q86Y25; -.
+DR   TreeFam; TF350822; -.
+DR   PathwayCommons; Q86Y25; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q86Y25; -.
+DR   BioGRID-ORCS; 30832; 4 hits in 1163 CRISPR screens.
+DR   ChiTaRS; ZNF354C; human.
+DR   GenomeRNAi; 30832; -.
+DR   Pharos; Q86Y25; Tdark.
+DR   PRO; PR:Q86Y25; -.
+DR   Proteomes; UP000005640; Chromosome 5.
+DR   RNAct; Q86Y25; protein.
+DR   Bgee; ENSG00000177932; Expressed in cortical plate and 155 other tissues.
+DR   Genevisible; Q86Y25; HS.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IEA:InterPro.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 11.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24393; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24393:SF88; ZINC FINGER PROTEIN 485; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 10.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 11.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 7.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 11.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 11.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Isopeptide bond; Metal-binding; Nucleus; Reference proteome;
+KW   Repeat; Repressor; Transcription; Transcription regulation;
+KW   Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..554
+FT                   /note="Zinc finger protein 354C"
+FT                   /id="PRO_0000280408"
+FT   DOMAIN          12..83
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         216..238
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         244..266
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         272..294
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         300..322
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         328..350
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         356..378
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         384..406
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         412..434
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         440..462
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         468..490
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         496..518
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   CROSSLNK        111
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        167
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        198
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        531
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         250
+FT                   /note="E -> K (in dbSNP:rs17855823)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_031138"
+FT   VARIANT         546
+FT                   /note="F -> L (in dbSNP:rs1445846)"
+FT                   /id="VAR_031139"
+FT   VARIANT         553
+FT                   /note="E -> K (in dbSNP:rs1445845)"
+FT                   /id="VAR_031140"
+FT   CONFLICT        375
+FT                   /note="Q -> H (in Ref. 3; AAM69676)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        415
+FT                   /note="N -> T (in Ref. 3; AAM69676)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   554 AA;  64847 MW;  3B95DED46CCECFFC CRC64;
+     MAVDLLSAQE PVTFRDVAVF FSQDEWLHLD SAQRALYREV MLENYSSLVS LGIPFSMPKL
+     IHQLQQGEDP CMVEREVPSD TRLGFKTWLE TEALPHRQDI FIEETSQGMV KKESIKDGHW
+     DINFEEAVEF ESEIEEEQEK KPLRQMIDSH EKTISEDGNH TSLELGKSLF TNTALVTQQS
+     VPIERIPNMY YTFGKDFKQN FDLMKCFQIY PGGKPHICNE CGKSFKQNLH LIEHQRIHTG
+     EKPYKCNECE KTFSHRSSLL SHQRIHTGEK PYKCNECEKA FSNSSTLIKH LRVHTGEKPY
+     RCRECGKAFS QCSTLTVHQR IHTGEKLYKC GECEKAFNCR AKLHRHQRIH TGEKPYKCSE
+     CGKGYSQFTS LAEHQRFHTG EQLYTCLECG RTFTRIVTLI EHQRIHTGQK PYQCNECEKA
+     FNQYSSFNEH RKIHTGEKLY TCEECGKAFG CKSNLYRHQR IHTGEKPYQC NQCGKAFSQY
+     SFLTEHERIH TGEKLYKCME CGKAYSYRSN LCRHKKVHTK EKLYKWKEYG KPFICSSSLT
+     QYQRFFKGDK AYEV
+//

@@ -1,0 +1,532 @@
+ID   ZN655_HUMAN             Reviewed;         491 AA.
+AC   Q8N720; A4D291; A6NGD3; B4E3M4; B7Z9Q9; D6W5T4; Q8IV00; Q8TA89; Q96EZ3;
+AC   Q9BQ85;
+DT   01-FEB-2005, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 3.
+DT   28-JUN-2023, entry version 172.
+DE   RecName: Full=Zinc finger protein 655;
+DE   AltName: Full=Vav-interacting Krueppel-like protein;
+GN   Name=ZNF655; Synonyms=VIK;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND INTERACTION WITH VAV1 AND CDK4.
+RX   PubMed=15558030; DOI=10.1038/sj.onc.1208043;
+RA   Houlard M., Romero-Portillo F., Germani A., Depaux A., Regnier-Ricard F.,
+RA   Gisselbrecht S., Varin-Blank N.;
+RT   "Characterization of VIK-1: a new Vav-interacting Kruppel-like protein.";
+RL   Oncogene 24:28-38(2005).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1; 3 AND 4).
+RC   TISSUE=Brain, Small intestine, Trachea, and Uterus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12690205; DOI=10.1126/science.1083423;
+RA   Scherer S.W., Cheung J., MacDonald J.R., Osborne L.R., Nakabayashi K.,
+RA   Herbrick J.-A., Carson A.R., Parker-Katiraee L., Skaug J., Khaja R.,
+RA   Zhang J., Hudek A.K., Li M., Haddad M., Duggan G.E., Fernandez B.A.,
+RA   Kanematsu E., Gentles S., Christopoulos C.C., Choufani S., Kwasnicka D.,
+RA   Zheng X.H., Lai Z., Nusskern D.R., Zhang Q., Gu Z., Lu F., Zeesman S.,
+RA   Nowaczyk M.J., Teshima I., Chitayat D., Shuman C., Weksberg R.,
+RA   Zackai E.H., Grebe T.A., Cox S.R., Kirkpatrick S.J., Rahman N.,
+RA   Friedman J.M., Heng H.H.Q., Pelicci P.G., Lo-Coco F., Belloni E.,
+RA   Shaffer L.G., Pober B., Morton C.C., Gusella J.F., Bruns G.A.P., Korf B.R.,
+RA   Quade B.J., Ligon A.H., Ferguson H., Higgins A.W., Leach N.T.,
+RA   Herrick S.R., Lemyre E., Farra C.G., Kim H.-G., Summers A.M., Gripp K.W.,
+RA   Roberts W., Szatmari P., Winsor E.J.T., Grzeschik K.-H., Teebi A.,
+RA   Minassian B.A., Kere J., Armengol L., Pujana M.A., Estivill X.,
+RA   Wilson M.D., Koop B.F., Tosi S., Moore G.E., Boright A.P., Zlotorynski E.,
+RA   Kerem B., Kroisel P.M., Petek E., Oscier D.G., Mould S.J., Doehner H.,
+RA   Doehner K., Rommens J.M., Vincent J.B., Venter J.C., Li P.W., Mural R.J.,
+RA   Adams M.D., Tsui L.-C.;
+RT   "Human chromosome 7: DNA sequence and biology.";
+RL   Science 300:767-772(2003).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2), AND VARIANT
+RP   ASP-52.
+RC   TISSUE=Brain, Cervix, Pancreas, Placenta, and Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-60 (ISOFORM 2), AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-60 (ISOFORM 2), AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-60 (ISOFORM 2), AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [10]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-77; LYS-190 AND LYS-201, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- SUBUNIT: Interacts with VAV1 and CDK4. {ECO:0000269|PubMed:15558030}.
+CC   -!- INTERACTION:
+CC       Q8N720; Q9UKU0-7: ACSL6; NbExp=3; IntAct=EBI-625509, EBI-12883224;
+CC       Q8N720; X5D778: ANKRD11; NbExp=3; IntAct=EBI-625509, EBI-17183751;
+CC       Q8N720; Q9BXS5: AP1M1; NbExp=3; IntAct=EBI-625509, EBI-541426;
+CC       Q8N720; Q9NWX5: ASB6; NbExp=3; IntAct=EBI-625509, EBI-6425205;
+CC       Q8N720; O95671: ASMTL; NbExp=3; IntAct=EBI-625509, EBI-743231;
+CC       Q8N720; Q8N5M1: ATPAF2; NbExp=3; IntAct=EBI-625509, EBI-1166928;
+CC       Q8N720; Q99728: BARD1; NbExp=3; IntAct=EBI-625509, EBI-473181;
+CC       Q8N720; Q96GS4: BORCS6; NbExp=3; IntAct=EBI-625509, EBI-10193358;
+CC       Q8N720; Q13895: BYSL; NbExp=3; IntAct=EBI-625509, EBI-358049;
+CC       Q8N720; Q6P047: C8orf74; NbExp=3; IntAct=EBI-625509, EBI-8466055;
+CC       Q8N720; Q9Y6W3: CAPN7; NbExp=3; IntAct=EBI-625509, EBI-1765641;
+CC       Q8N720; Q9H257: CARD9; NbExp=3; IntAct=EBI-625509, EBI-751319;
+CC       Q8N720; Q9H257-2: CARD9; NbExp=3; IntAct=EBI-625509, EBI-11530605;
+CC       Q8N720; Q8NA61: CBY2; NbExp=4; IntAct=EBI-625509, EBI-741724;
+CC       Q8N720; Q8IYX3: CCDC116; NbExp=3; IntAct=EBI-625509, EBI-744311;
+CC       Q8N720; H3BU77: CCDC179; NbExp=3; IntAct=EBI-625509, EBI-17766379;
+CC       Q8N720; Q2TAC2-2: CCDC57; NbExp=3; IntAct=EBI-625509, EBI-10961624;
+CC       Q8N720; Q96AQ1: CCDC74A; NbExp=3; IntAct=EBI-625509, EBI-8466689;
+CC       Q8N720; Q8TD31-3: CCHCR1; NbExp=3; IntAct=EBI-625509, EBI-10175300;
+CC       Q8N720; P51946: CCNH; NbExp=3; IntAct=EBI-625509, EBI-741406;
+CC       Q8N720; Q16543: CDC37; NbExp=3; IntAct=EBI-625509, EBI-295634;
+CC       Q8N720; P11802: CDK4; NbExp=6; IntAct=EBI-625509, EBI-295644;
+CC       Q8N720; Q86X02: CDR2L; NbExp=3; IntAct=EBI-625509, EBI-11063830;
+CC       Q8N720; Q8IYX8: CEP57L1; NbExp=3; IntAct=EBI-625509, EBI-1104570;
+CC       Q8N720; Q9UBL6-2: CPNE7; NbExp=3; IntAct=EBI-625509, EBI-12012272;
+CC       Q8N720; Q9BSW2: CRACR2A; NbExp=3; IntAct=EBI-625509, EBI-739773;
+CC       Q8N720; Q2TBE0: CWF19L2; NbExp=3; IntAct=EBI-625509, EBI-5453285;
+CC       Q8N720; Q8NFT6-2: DBF4B; NbExp=3; IntAct=EBI-625509, EBI-12205861;
+CC       Q8N720; Q05D60: DEUP1; NbExp=3; IntAct=EBI-625509, EBI-748597;
+CC       Q8N720; Q92785: DPF2; NbExp=3; IntAct=EBI-625509, EBI-359932;
+CC       Q8N720; Q13115: DUSP4; NbExp=3; IntAct=EBI-625509, EBI-6591081;
+CC       Q8N720; Q9H6Z9: EGLN3; NbExp=3; IntAct=EBI-625509, EBI-1175354;
+CC       Q8N720; Q13541: EIF4EBP1; NbExp=3; IntAct=EBI-625509, EBI-74090;
+CC       Q8N720; Q9Y6C2-2: EMILIN1; NbExp=3; IntAct=EBI-625509, EBI-11748557;
+CC       Q8N720; Q9UI08-2: EVL; NbExp=3; IntAct=EBI-625509, EBI-6448852;
+CC       Q8N720; Q9NQT4: EXOSC5; NbExp=5; IntAct=EBI-625509, EBI-371876;
+CC       Q8N720; O95864-3: FADS2; NbExp=3; IntAct=EBI-625509, EBI-12057609;
+CC       Q8N720; Q7L5A3: FAM214B; NbExp=3; IntAct=EBI-625509, EBI-745689;
+CC       Q8N720; Q8TBF8: FAM81A; NbExp=3; IntAct=EBI-625509, EBI-11993062;
+CC       Q8N720; Q96LP2: FAM81B; NbExp=3; IntAct=EBI-625509, EBI-10290827;
+CC       Q8N720; Q86YD7: FAM90A1; NbExp=3; IntAct=EBI-625509, EBI-6658203;
+CC       Q8N720; O95363: FARS2; NbExp=3; IntAct=EBI-625509, EBI-2513774;
+CC       Q8N720; Q14192: FHL2; NbExp=3; IntAct=EBI-625509, EBI-701903;
+CC       Q8N720; O75344: FKBP6; NbExp=3; IntAct=EBI-625509, EBI-744771;
+CC       Q8N720; P55040: GEM; NbExp=3; IntAct=EBI-625509, EBI-744104;
+CC       Q8N720; P14136: GFAP; NbExp=3; IntAct=EBI-625509, EBI-744302;
+CC       Q8N720; P09211: GSTP1; NbExp=3; IntAct=EBI-625509, EBI-353467;
+CC       Q8N720; Q96NT3-2: GUCD1; NbExp=3; IntAct=EBI-625509, EBI-11978177;
+CC       Q8N720; Q9GZV7: HAPLN2; NbExp=3; IntAct=EBI-625509, EBI-11956675;
+CC       Q8N720; Q96MH2: HEXIM2; NbExp=3; IntAct=EBI-625509, EBI-5460660;
+CC       Q8N720; Q9NSC5: HOMER3; NbExp=3; IntAct=EBI-625509, EBI-748420;
+CC       Q8N720; Q9UJC3: HOOK1; NbExp=3; IntAct=EBI-625509, EBI-746704;
+CC       Q8N720; P09067: HOXB5; NbExp=3; IntAct=EBI-625509, EBI-3893317;
+CC       Q8N720; P37235: HPCAL1; NbExp=3; IntAct=EBI-625509, EBI-749311;
+CC       Q8N720; Q9H2F3: HSD3B7; NbExp=3; IntAct=EBI-625509, EBI-3918847;
+CC       Q8N720; P42858: HTT; NbExp=14; IntAct=EBI-625509, EBI-466029;
+CC       Q8N720; Q13907-2: IDI1; NbExp=3; IntAct=EBI-625509, EBI-13341351;
+CC       Q8N720; Q9NV31: IMP3; NbExp=3; IntAct=EBI-625509, EBI-747481;
+CC       Q8N720; Q9NVR2: INTS10; NbExp=3; IntAct=EBI-625509, EBI-536703;
+CC       Q8N720; Q96PC2: IP6K3; NbExp=3; IntAct=EBI-625509, EBI-10990676;
+CC       Q8N720; P18084: ITGB5; NbExp=3; IntAct=EBI-625509, EBI-1223434;
+CC       Q8N720; O75564-2: JRK; NbExp=3; IntAct=EBI-625509, EBI-17181882;
+CC       Q8N720; Q9BVG8: KIFC3; NbExp=3; IntAct=EBI-625509, EBI-2125614;
+CC       Q8N720; Q9BVG8-5: KIFC3; NbExp=3; IntAct=EBI-625509, EBI-14069005;
+CC       Q8N720; Q6A162: KRT40; NbExp=3; IntAct=EBI-625509, EBI-10171697;
+CC       Q8N720; Q01546: KRT76; NbExp=3; IntAct=EBI-625509, EBI-2952745;
+CC       Q8N720; P78386: KRT85; NbExp=3; IntAct=EBI-625509, EBI-1049371;
+CC       Q8N720; O43790: KRT86; NbExp=3; IntAct=EBI-625509, EBI-9996498;
+CC       Q8N720; P26371: KRTAP5-9; NbExp=3; IntAct=EBI-625509, EBI-3958099;
+CC       Q8N720; Q9BYQ0: KRTAP9-8; NbExp=3; IntAct=EBI-625509, EBI-11958364;
+CC       Q8N720; Q5T5A8: LCE3C; NbExp=3; IntAct=EBI-625509, EBI-10245291;
+CC       Q8N720; Q5TA78: LCE4A; NbExp=3; IntAct=EBI-625509, EBI-10246358;
+CC       Q8N720; Q5TCM9: LCE5A; NbExp=3; IntAct=EBI-625509, EBI-11955689;
+CC       Q8N720; Q8TCE9: LGALS14; NbExp=5; IntAct=EBI-625509, EBI-10274069;
+CC       Q8N720; P25791-3: LMO2; NbExp=3; IntAct=EBI-625509, EBI-11959475;
+CC       Q8N720; Q8TBB1: LNX1; NbExp=5; IntAct=EBI-625509, EBI-739832;
+CC       Q8N720; Q8WV35: LRRC29; NbExp=3; IntAct=EBI-625509, EBI-10276755;
+CC       Q8N720; Q8N5G2: MACO1; NbExp=3; IntAct=EBI-625509, EBI-2683507;
+CC       Q8N720; Q9UI95: MAD2L2; NbExp=3; IntAct=EBI-625509, EBI-77889;
+CC       Q8N720; Q96E03: MAGEA2B; NbExp=3; IntAct=EBI-625509, EBI-10239285;
+CC       Q8N720; O95983-2: MBD3; NbExp=3; IntAct=EBI-625509, EBI-11978579;
+CC       Q8N720; Q13503: MED21; NbExp=3; IntAct=EBI-625509, EBI-394678;
+CC       Q8N720; Q9Y316: MEMO1; NbExp=3; IntAct=EBI-625509, EBI-1104564;
+CC       Q8N720; Q8WXB1: METTL21A; NbExp=3; IntAct=EBI-625509, EBI-8652459;
+CC       Q8N720; Q9NYP9: MIS18A; NbExp=3; IntAct=EBI-625509, EBI-1104552;
+CC       Q8N720; Q8WV92: MITD1; NbExp=3; IntAct=EBI-625509, EBI-2691489;
+CC       Q8N720; Q13368: MPP3; NbExp=3; IntAct=EBI-625509, EBI-716157;
+CC       Q8N720; Q9Y605: MRFAP1; NbExp=3; IntAct=EBI-625509, EBI-995714;
+CC       Q8N720; Q13084: MRPL28; NbExp=3; IntAct=EBI-625509, EBI-723426;
+CC       Q8N720; Q96QG7: MTMR9; NbExp=3; IntAct=EBI-625509, EBI-744593;
+CC       Q8N720; P50539-3: MXI1; NbExp=3; IntAct=EBI-625509, EBI-10211940;
+CC       Q8N720; P41227: NAA10; NbExp=3; IntAct=EBI-625509, EBI-747693;
+CC       Q8N720; O14777: NDC80; NbExp=3; IntAct=EBI-625509, EBI-715849;
+CC       Q8N720; Q7Z6G3-2: NECAB2; NbExp=3; IntAct=EBI-625509, EBI-10172876;
+CC       Q8N720; Q9NPG2: NGB; NbExp=3; IntAct=EBI-625509, EBI-10311409;
+CC       Q8N720; Q6P988: NOTUM; NbExp=3; IntAct=EBI-625509, EBI-16147014;
+CC       Q8N720; O43809: NUDT21; NbExp=3; IntAct=EBI-625509, EBI-355720;
+CC       Q8N720; Q9BRQ3: NUDT22; NbExp=3; IntAct=EBI-625509, EBI-10297093;
+CC       Q8N720; Q9NPJ8-3: NXT2; NbExp=3; IntAct=EBI-625509, EBI-10698339;
+CC       Q8N720; O43482: OIP5; NbExp=3; IntAct=EBI-625509, EBI-536879;
+CC       Q8N720; Q01804: OTUD4; NbExp=3; IntAct=EBI-625509, EBI-1054396;
+CC       Q8N720; Q99572: P2RX7; NbExp=3; IntAct=EBI-625509, EBI-1753251;
+CC       Q8N720; Q96AL5: PBX3; NbExp=3; IntAct=EBI-625509, EBI-741171;
+CC       Q8N720; Q92824-2: PCSK5; NbExp=3; IntAct=EBI-625509, EBI-11956269;
+CC       Q8N720; P16118: PFKFB1; NbExp=3; IntAct=EBI-625509, EBI-709807;
+CC       Q8N720; O15160: POLR1C; NbExp=3; IntAct=EBI-625509, EBI-1055079;
+CC       Q8N720; P0CG20: PRR35; NbExp=3; IntAct=EBI-625509, EBI-11986293;
+CC       Q8N720; Q6NUQ1: RINT1; NbExp=5; IntAct=EBI-625509, EBI-726876;
+CC       Q8N720; P23921: RRM1; NbExp=3; IntAct=EBI-625509, EBI-717006;
+CC       Q8N720; Q06455-2: RUNX1T1; NbExp=3; IntAct=EBI-625509, EBI-11984663;
+CC       Q8N720; Q9H788: SH2D4A; NbExp=3; IntAct=EBI-625509, EBI-747035;
+CC       Q8N720; O43699-3: SIGLEC6; NbExp=3; IntAct=EBI-625509, EBI-12161783;
+CC       Q8N720; Q9UP95: SLC12A4; NbExp=3; IntAct=EBI-625509, EBI-7244836;
+CC       Q8N720; Q96GM5: SMARCD1; NbExp=3; IntAct=EBI-625509, EBI-358489;
+CC       Q8N720; Q9H0W8: SMG9; NbExp=3; IntAct=EBI-625509, EBI-2872322;
+CC       Q8N720; Q5MJ10: SPANXN2; NbExp=3; IntAct=EBI-625509, EBI-12023934;
+CC       Q8N720; Q7Z699: SPRED1; NbExp=3; IntAct=EBI-625509, EBI-5235340;
+CC       Q8N720; O43610: SPRY3; NbExp=3; IntAct=EBI-625509, EBI-12290641;
+CC       Q8N720; A0A286YEY3: SRGAP2B; NbExp=3; IntAct=EBI-625509, EBI-17766455;
+CC       Q8N720; Q5T011-5: SZT2; NbExp=3; IntAct=EBI-625509, EBI-10245139;
+CC       Q8N720; Q8N8B7-2: TCEANC; NbExp=3; IntAct=EBI-625509, EBI-11955057;
+CC       Q8N720; Q8WW24: TEKT4; NbExp=3; IntAct=EBI-625509, EBI-750487;
+CC       Q8N720; O15482: TEX28P2; NbExp=3; IntAct=EBI-625509, EBI-751954;
+CC       Q8N720; Q8TBB0: THAP6; NbExp=3; IntAct=EBI-625509, EBI-3925505;
+CC       Q8N720; P62072: TIMM10; NbExp=3; IntAct=EBI-625509, EBI-1200391;
+CC       Q8N720; Q9UKI8: TLK1; NbExp=3; IntAct=EBI-625509, EBI-740492;
+CC       Q8N720; Q12933: TRAF2; NbExp=3; IntAct=EBI-625509, EBI-355744;
+CC       Q8N720; O00463: TRAF5; NbExp=3; IntAct=EBI-625509, EBI-523498;
+CC       Q8N720; P0DI81-3: TRAPPC2; NbExp=3; IntAct=EBI-625509, EBI-11961968;
+CC       Q8N720; Q8WV44: TRIM41; NbExp=3; IntAct=EBI-625509, EBI-725997;
+CC       Q8N720; Q6ZMU5: TRIM72; NbExp=3; IntAct=EBI-625509, EBI-2341648;
+CC       Q8N720; Q9UJ04: TSPYL4; NbExp=3; IntAct=EBI-625509, EBI-308511;
+CC       Q8N720; O14530: TXNDC9; NbExp=3; IntAct=EBI-625509, EBI-707554;
+CC       Q8N720; Q8N6Y0: USHBP1; NbExp=3; IntAct=EBI-625509, EBI-739895;
+CC       Q8N720; P15498: VAV1; NbExp=5; IntAct=EBI-625509, EBI-625518;
+CC       Q8N720; O14972: VPS26C; NbExp=3; IntAct=EBI-625509, EBI-7207091;
+CC       Q8N720; Q9Y2B5: VPS9D1; NbExp=3; IntAct=EBI-625509, EBI-9031083;
+CC       Q8N720; P23025: XPA; NbExp=3; IntAct=EBI-625509, EBI-295222;
+CC       Q8N720; P62699: YPEL5; NbExp=3; IntAct=EBI-625509, EBI-11721624;
+CC       Q8N720; Q05516: ZBTB16; NbExp=3; IntAct=EBI-625509, EBI-711925;
+CC       Q8N720; Q53FD0-2: ZC2HC1C; NbExp=5; IntAct=EBI-625509, EBI-14104088;
+CC       Q8N720; Q9Y3S2: ZNF330; NbExp=3; IntAct=EBI-625509, EBI-373456;
+CC       Q8N720; Q9H707: ZNF552; NbExp=3; IntAct=EBI-625509, EBI-2555731;
+CC       Q8N720; Q5T619: ZNF648; NbExp=3; IntAct=EBI-625509, EBI-11985915;
+CC       Q8N720; Q3KQV3: ZNF792; NbExp=3; IntAct=EBI-625509, EBI-10240849;
+CC       Q8N720; Q96EG3: ZNF837; NbExp=3; IntAct=EBI-625509, EBI-11962574;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q8N720-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8N720-2; Sequence=VSP_036030, VSP_036031;
+CC       Name=3;
+CC         IsoId=Q8N720-3; Sequence=VSP_041157;
+CC       Name=4;
+CC         IsoId=Q8N720-4; Sequence=VSP_044809, VSP_044810;
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY099353; AAM33786.1; -; mRNA.
+DR   EMBL; AK027114; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; AK304785; BAG65536.1; -; mRNA.
+DR   EMBL; AK314593; BAG37165.1; -; mRNA.
+DR   EMBL; AK316024; BAH14395.1; -; mRNA.
+DR   EMBL; AC005020; AAS02017.1; -; Genomic_DNA.
+DR   EMBL; CH236956; EAL23871.1; -; Genomic_DNA.
+DR   EMBL; CH471091; EAW76650.1; -; Genomic_DNA.
+DR   EMBL; CH236956; EAL23870.1; -; Genomic_DNA.
+DR   EMBL; CH471091; EAW76651.1; -; Genomic_DNA.
+DR   EMBL; BC000823; AAH00823.1; -; mRNA.
+DR   EMBL; BC004288; AAH04288.1; -; mRNA.
+DR   EMBL; BC007378; AAH07378.1; -; mRNA.
+DR   EMBL; BC011816; AAH11816.1; -; mRNA.
+DR   EMBL; BC024770; AAH24770.1; -; mRNA.
+DR   EMBL; BC037407; AAH37407.1; -; mRNA.
+DR   CCDS; CCDS34695.1; -. [Q8N720-4]
+DR   CCDS; CCDS47655.1; -. [Q8N720-3]
+DR   CCDS; CCDS5669.1; -. [Q8N720-1]
+DR   CCDS; CCDS5670.1; -. [Q8N720-2]
+DR   RefSeq; NP_001009958.1; NM_001009958.1. [Q8N720-4]
+DR   RefSeq; NP_001009960.1; NM_001009960.1. [Q8N720-1]
+DR   RefSeq; NP_001077425.1; NM_001083956.1. [Q8N720-3]
+DR   RefSeq; NP_001078835.1; NM_001085366.1. [Q8N720-4]
+DR   RefSeq; NP_001078836.1; NM_001085367.1. [Q8N720-2]
+DR   RefSeq; NP_001078837.1; NM_001085368.1. [Q8N720-3]
+DR   RefSeq; NP_076966.1; NM_024061.3. [Q8N720-2]
+DR   RefSeq; NP_612503.1; NM_138494.2. [Q8N720-1]
+DR   RefSeq; XP_016868092.1; XM_017012603.1.
+DR   RefSeq; XP_016868093.1; XM_017012604.1.
+DR   RefSeq; XP_016868095.1; XM_017012606.1.
+DR   RefSeq; XP_016868096.1; XM_017012607.1.
+DR   AlphaFoldDB; Q8N720; -.
+DR   SMR; Q8N720; -.
+DR   BioGRID; 122495; 179.
+DR   DIP; DIP-34108N; -.
+DR   IntAct; Q8N720; 159.
+DR   MINT; Q8N720; -.
+DR   STRING; 9606.ENSP00000393876; -.
+DR   iPTMnet; Q8N720; -.
+DR   PhosphoSitePlus; Q8N720; -.
+DR   BioMuta; ZNF655; -.
+DR   DMDM; 116242863; -.
+DR   EPD; Q8N720; -.
+DR   jPOST; Q8N720; -.
+DR   MassIVE; Q8N720; -.
+DR   MaxQB; Q8N720; -.
+DR   PeptideAtlas; Q8N720; -.
+DR   ProteomicsDB; 1117; -.
+DR   ProteomicsDB; 72255; -. [Q8N720-1]
+DR   ProteomicsDB; 72256; -. [Q8N720-2]
+DR   ProteomicsDB; 72257; -. [Q8N720-3]
+DR   Antibodypedia; 16203; 93 antibodies from 15 providers.
+DR   DNASU; 79027; -.
+DR   Ensembl; ENST00000252713.9; ENSP00000252713.4; ENSG00000197343.11. [Q8N720-1]
+DR   Ensembl; ENST00000320583.9; ENSP00000322363.5; ENSG00000197343.11. [Q8N720-2]
+DR   Ensembl; ENST00000357864.6; ENSP00000350530.2; ENSG00000197343.11. [Q8N720-4]
+DR   Ensembl; ENST00000394163.2; ENSP00000377718.2; ENSG00000197343.11. [Q8N720-1]
+DR   Ensembl; ENST00000424881.5; ENSP00000393876.1; ENSG00000197343.11. [Q8N720-3]
+DR   Ensembl; ENST00000440391.5; ENSP00000396396.1; ENSG00000197343.11. [Q8N720-4]
+DR   Ensembl; ENST00000493277.5; ENSP00000419135.1; ENSG00000197343.11. [Q8N720-3]
+DR   GeneID; 79027; -.
+DR   KEGG; hsa:79027; -.
+DR   MANE-Select; ENST00000252713.9; ENSP00000252713.4; NM_138494.3; NP_612503.1.
+DR   UCSC; uc003urc.4; human. [Q8N720-1]
+DR   AGR; HGNC:30899; -.
+DR   CTD; 79027; -.
+DR   DisGeNET; 79027; -.
+DR   GeneCards; ZNF655; -.
+DR   HGNC; HGNC:30899; ZNF655.
+DR   HPA; ENSG00000197343; Low tissue specificity.
+DR   MIM; 617891; gene.
+DR   neXtProt; NX_Q8N720; -.
+DR   OpenTargets; ENSG00000197343; -.
+DR   PharmGKB; PA134883537; -.
+DR   VEuPathDB; HostDB:ENSG00000197343; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00760000119441; -.
+DR   HOGENOM; CLU_127743_0_0_1; -.
+DR   InParanoid; Q8N720; -.
+DR   OMA; HQRIHHQ; -.
+DR   OrthoDB; 670620at2759; -.
+DR   PhylomeDB; Q8N720; -.
+DR   TreeFam; TF344137; -.
+DR   PathwayCommons; Q8N720; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q8N720; -.
+DR   BioGRID-ORCS; 79027; 16 hits in 1174 CRISPR screens.
+DR   ChiTaRS; ZNF655; human.
+DR   GeneWiki; ZNF655; -.
+DR   GenomeRNAi; 79027; -.
+DR   Pharos; Q8N720; Tbio.
+DR   PRO; PR:Q8N720; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q8N720; protein.
+DR   Bgee; ENSG00000197343; Expressed in ileal mucosa and 179 other tissues.
+DR   ExpressionAtlas; Q8N720; baseline and differential.
+DR   Genevisible; Q8N720; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:2000134; P:negative regulation of G1/S transition of mitotic cell cycle; IDA:UniProtKB.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 8.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23234:SF6; ZINC FINGER PROTEIN 655; 1.
+DR   PANTHER; PTHR23234; ZNF44 PROTEIN; 1.
+DR   Pfam; PF00096; zf-C2H2; 5.
+DR   SMART; SM00355; ZnF_C2H2; 7.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 6.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 6.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 6.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; DNA-binding; Isopeptide bond; Metal-binding; Nucleus;
+KW   Phosphoprotein; Reference proteome; Repeat; Transcription;
+KW   Transcription regulation; Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..491
+FT                   /note="Zinc finger protein 655"
+FT                   /id="PRO_0000047700"
+FT   ZN_FING         212..234
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         240..262
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         303..325
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         330..353
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         380..402
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         408..430
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          1..52
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        12..39
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CROSSLNK        77
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        190
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        201
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         45
+FT                   /note="G -> GGFPISKPDGISQLEQDLQVFDLETKTREVLRDDCS (in
+FT                   isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_041157"
+FT   VAR_SEQ         46..181
+FT                   /note="DGETREENKLLIPKQKISEEVHSYKVRVGRLKHDITQVPETREVYKSEDRLE
+FT                   RLQEILRKFLYLEREFRQITISKETFTSEKNNECHEPEKSFSLDSTIDADQRVLRIQNT
+FT                   DDNDKYDMSFNQNSASGKHEHLNLT -> APPVPQVPALPREGSPGDQAAALLTARYQE
+FT                   FVTFEDVAVHLTREEWGYLDPVQRDLYREVMLENYGNVVSLGILLRLPTTRIHSVNSCP
+FT                   ALSHTQASAFSGETLAVLTAGISKRWPKYRLPIDIARPCSETPFPRL (in isoform
+FT                   2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_036030"
+FT   VAR_SEQ         46..110
+FT                   /note="DGETREENKLLIPKQKISEEVHSYKVRVGRLKHDITQVPETREVYKSEDRLE
+FT                   RLQEILRKFLYLE -> GILLRLPTTRIHSVNSCPALSHTQASAFSGETLAVLTAGISK
+FT                   RWPKYRLPIDIARPCSETPFPRL (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_044809"
+FT   VAR_SEQ         111..491
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_044810"
+FT   VAR_SEQ         182..491
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_036031"
+FT   VARIANT         52
+FT                   /note="E -> D (in dbSNP:rs17853754)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_028165"
+FT   CONFLICT        178
+FT                   /note="L -> S (in Ref. 2; BAH14395)"
+FT                   /evidence="ECO:0000305"
+FT   MOD_RES         Q8N720-2:60
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:20068231"
+SQ   SEQUENCE   491 AA;  57407 MW;  04FD791D769C3A80 CRC64;
+     MEEIPAQEAA GSPRVQFQSL ETQSECLSPE PQFVQDTDME QGLTGDGETR EENKLLIPKQ
+     KISEEVHSYK VRVGRLKHDI TQVPETREVY KSEDRLERLQ EILRKFLYLE REFRQITISK
+     ETFTSEKNNE CHEPEKSFSL DSTIDADQRV LRIQNTDDND KYDMSFNQNS ASGKHEHLNL
+     TEDFQSSECK ESLMDLSHLN KWESIPNTEK SYKCDVCGKI FHQSSALTRH QRIHTREKPY
+     KCKECEKSFS QSSSLSRHKR IHTREKPYKC EASDKSCEAS DKSCSPSSGI IQHKKIHTRA
+     KSYKCSSCER VFSRSVHLTQ HQKIHKEMPC KCTVCGSDFC HTSYLLEHQR VHHEEKAYEY
+     DEYGLAYIKQ QGIHFREKPY TCSECGKDFR LNSHLIQHQR IHTGEKAHEC NECGKAFSQT
+     SCLIQHHKMH RKEKSYECNE YEGSFSHSSD LILQQEVLTR QKAFDCDVWE KNSSQRAHLV
+     QHQSIHTKEN S
+//

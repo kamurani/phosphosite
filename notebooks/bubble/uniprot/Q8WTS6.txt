@@ -1,0 +1,619 @@
+ID   SETD7_HUMAN             Reviewed;         366 AA.
+AC   Q8WTS6; B5WWL3; Q0VAH3; Q4W5A9; Q9C0E6;
+DT   15-NOV-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2002, sequence version 1.
+DT   28-JUN-2023, entry version 191.
+DE   RecName: Full=Histone-lysine N-methyltransferase SETD7;
+DE            EC=2.1.1.364 {ECO:0000255|PROSITE-ProRule:PRU00910, ECO:0000269|PubMed:12540855};
+DE   AltName: Full=Histone H3-K4 methyltransferase SETD7;
+DE            Short=H3-K4-HMTase SETD7;
+DE   AltName: Full=Lysine N-methyltransferase 7 {ECO:0000303|PubMed:11779497};
+DE   AltName: Full=SET domain-containing protein 7 {ECO:0000303|PubMed:11779497};
+DE   AltName: Full=SET7/9 {ECO:0000303|PubMed:16433545};
+GN   Name=SETD7;
+GN   Synonyms=KIAA1717, KMT7, SET7 {ECO:0000303|PubMed:11779497}, SET9
+GN   {ECO:0000303|PubMed:11850410};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 35-44; 108-115; 144-152;
+RP   234-258 AND 345-358, FUNCTION, SUBCELLULAR LOCATION, DOMAIN, AND
+RP   MUTAGENESIS OF HIS-297.
+RC   TISSUE=Brain;
+RX   PubMed=11779497; DOI=10.1016/s1097-2765(01)00405-1;
+RA   Wang H., Cao R., Xia L., Erdjument-Bromage H., Borchers C., Tempst P.,
+RA   Zhang Y.;
+RT   "Purification and functional characterization of a histone H3-lysine 4-
+RT   specific methyltransferase.";
+RL   Mol. Cell 8:1207-1217(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 36-45; 104-115; 144-152;
+RP   159-169; 201-250 AND 324-358, FUNCTION, SUBCELLULAR LOCATION, AND
+RP   MUTAGENESIS OF HIS-297.
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=11850410; DOI=10.1101/gad.967202;
+RA   Nishioka K., Chuikov S., Sarma K., Erdjument-Bromage H., Allis C.D.,
+RA   Tempst P., Reinberg D.;
+RT   "Set9, a novel histone H3 methyltransferase that facilitates transcription
+RT   by precluding histone tail modifications required for heterochromatin
+RT   formation.";
+RL   Genes Dev. 16:479-489(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=11214970; DOI=10.1093/dnares/7.6.347;
+RA   Nagase T., Kikuno R., Hattori A., Kondo Y., Okumura K., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIX. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:347-355(2000).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=12588998; DOI=10.1128/mcb.23.5.1808-1816.2003;
+RA   Martens J.H., Verlaan M., Kalkhoven E., Zantema A.;
+RT   "Cascade of distinct histone modifications during collagenase gene
+RT   activation.";
+RL   Mol. Cell. Biol. 23:1808-1816(2003).
+RN   [7]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND MUTAGENESIS OF HIS-297.
+RX   PubMed=15099517; DOI=10.1016/s1097-2765(04)00182-0;
+RA   Kouskouti A., Scheer E., Staub A., Tora L., Talianidis I.;
+RT   "Gene-specific modulation of TAF10 function by SET9-mediated methylation.";
+RL   Mol. Cell 14:175-182(2004).
+RN   [8]
+RP   FUNCTION, TISSUE SPECIFICITY, INTERACTION WITH IPF1, AND MUTAGENESIS OF
+RP   HIS-297.
+RX   PubMed=16141209; DOI=10.1074/jbc.m505741200;
+RA   Francis J., Chakrabarti S.K., Garmey J.C., Mirmira R.G.;
+RT   "Pdx-1 links histone H3-Lys-4 methylation to RNA polymerase II elongation
+RT   during activation of insulin transcription.";
+RL   J. Biol. Chem. 280:36244-36253(2005).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=17108971; DOI=10.1038/nature05287;
+RA   Huang J., Perez-Burgos L., Placek B.J., Sengupta R., Richter M.,
+RA   Dorsey J.A., Kubicek S., Opravil S., Jenuwein T., Berger S.L.;
+RT   "Repression of p53 activity by Smyd2-mediated methylation.";
+RL   Nature 444:629-632(2006).
+RN   [10]
+RP   MUTAGENESIS OF GLU-220; GLU-228; TYR-245 AND LYS-294.
+RX   PubMed=16433545; DOI=10.1021/ja056153+;
+RA   Hu P., Zhang Y.;
+RT   "Catalytic mechanism and product specificity of the histone lysine
+RT   methyltransferase SET7/9: an ab initio QM/MM-FE study with multiple initial
+RT   structures.";
+RL   J. Am. Chem. Soc. 128:1272-1278(2006).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=35210392; DOI=10.1038/s41413-022-00194-0;
+RA   Xiao Y., Li J., Liao X., He Y., He T., Yang C., Jiang L., Jeon S.M.,
+RA   Lee J.H., Chen Y., Liu R., Chen Q.;
+RT   "RIOX1-demethylated cGAS regulates ionizing radiation-elicited DNA
+RT   repair.";
+RL   Bone Res. 10:19-19(2022).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 52-344.
+RX   PubMed=12372304; DOI=10.1016/s0092-8674(02)00964-9;
+RA   Wilson J., Jing C., Walker P., Martin S., Howell S., Blackburn G.,
+RA   Gamblin S., Xiao B.;
+RT   "Crystal structure and functional analysis of the histone methyltransferase
+RT   SET7/9.";
+RL   Cell 111:105-115(2002).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+RX   PubMed=12389038; DOI=10.1038/nsb861;
+RA   Jacobs S.A., Harp J.M., Devarakonda S., Kim Y., Rastinejad F.,
+RA   Khorasanizadeh S.;
+RT   "The active site of the SET domain is constructed on a knot.";
+RL   Nat. Struct. Biol. 9:833-838(2002).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 108-366 IN COMPLEX WITH
+RP   S-ADENOSYL-L-METHIONINE AND HISTONE PEPTIDE, FUNCTION, CATALYTIC ACTIVITY,
+RP   AND MUTAGENESIS OF TYR-245.
+RX   PubMed=12540855; DOI=10.1038/nature01378;
+RA   Xiao B., Jing C., Wilson J.R., Walker P.A., Vasisht N., Kelly G.,
+RA   Howell S., Taylor I.A., Blackburn G.M., Gamblin S.J.;
+RT   "Structure and catalytic mechanism of the human histone methyltransferase
+RT   SET7/9.";
+RL   Nature 421:652-656(2003).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 70-366 IN COMPLEX WITH
+RP   S-ADENOSYL-L-METHIONINE.
+RX   PubMed=12514135; DOI=10.1093/emboj/cdg025;
+RA   Kwon T., Chang J.H., Kwak E., Lee C.W., Joachimiak A., Kim Y.C., Lee J.,
+RA   Cho Y.;
+RT   "Mechanism of histone lysine methyl transfer revealed by the structure of
+RT   SET7/9-AdoMet.";
+RL   EMBO J. 22:292-303(2003).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 108-366, FUNCTION, CATALYTIC
+RP   ACTIVITY, AND MUTAGENESIS OF HIS-297.
+RX   PubMed=15525938; DOI=10.1038/nature03117;
+RA   Chuikov S., Kurash J.K., Wilson J.R., Xiao B., Justin N., Ivanov G.S.,
+RA   McKinney K., Tempst P., Prives C., Gamblin S.J., Barlev N.A., Reinberg D.;
+RT   "Regulation of p53 activity through lysine methylation.";
+RL   Nature 432:353-360(2004).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (1.3 ANGSTROMS) OF 110-366, FUNCTION, CATALYTIC
+RP   ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND MUTAGENESIS OF LYS-317.
+RX   PubMed=16415881; DOI=10.1038/nsmb1045;
+RA   Couture J.-F., Collazo E., Hauk G., Trievel R.C.;
+RT   "Structural basis for the methylation site specificity of SET7/9.";
+RL   Nat. Struct. Mol. Biol. 13:140-146(2006).
+CC   -!- FUNCTION: Histone methyltransferase that specifically monomethylates
+CC       'Lys-4' of histone H3 (PubMed:11779497, PubMed:11850410,
+CC       PubMed:12588998, PubMed:12540855, PubMed:16141209). H3 'Lys-4'
+CC       methylation represents a specific tag for epigenetic transcriptional
+CC       activation (PubMed:12588998, PubMed:12540855, PubMed:16141209). Plays a
+CC       central role in the transcriptional activation of genes such as
+CC       collagenase or insulin (PubMed:16141209, PubMed:12588998). Recruited by
+CC       IPF1/PDX-1 to the insulin promoter, leading to activate transcription
+CC       (PubMed:16141209). Has also methyltransferase activity toward non-
+CC       histone proteins such as CGAS, p53/TP53, TAF10, and possibly TAF7 by
+CC       recognizing and binding the [KR]-[STA]-K in substrate proteins
+CC       (PubMed:15099517, PubMed:35210392, PubMed:15525938, PubMed:16415881).
+CC       Monomethylates 'Lys-189' of TAF10, leading to increase the affinity of
+CC       TAF10 for RNA polymerase II (PubMed:15099517, PubMed:16415881).
+CC       Monomethylates 'Lys-372' of p53/TP53, stabilizing p53/TP53 and
+CC       increasing p53/TP53-mediated transcriptional activation
+CC       (PubMed:17108971, PubMed:15525938, PubMed:16415881). Monomethylates
+CC       'Lys-491' of CGAS, promoting interaction between SGF29 and CGAS (By
+CC       similarity). {ECO:0000250|UniProtKB:Q8VHL1,
+CC       ECO:0000269|PubMed:11779497, ECO:0000269|PubMed:11850410,
+CC       ECO:0000269|PubMed:12540855, ECO:0000269|PubMed:12588998,
+CC       ECO:0000269|PubMed:15099517, ECO:0000269|PubMed:15525938,
+CC       ECO:0000269|PubMed:16141209, ECO:0000269|PubMed:16415881,
+CC       ECO:0000269|PubMed:17108971, ECO:0000269|PubMed:35210392}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=L-lysyl(4)-[histone H3] + S-adenosyl-L-methionine = H(+) +
+CC         N(6)-methyl-L-lysyl(4)-[histone H3] + S-adenosyl-L-homocysteine;
+CC         Xref=Rhea:RHEA:60264, Rhea:RHEA-COMP:15543, Rhea:RHEA-COMP:15547,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:29969, ChEBI:CHEBI:57856,
+CC         ChEBI:CHEBI:59789, ChEBI:CHEBI:61929; EC=2.1.1.364;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00910,
+CC         ECO:0000269|PubMed:12540855};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=L-lysyl-[protein] + S-adenosyl-L-methionine = H(+) + N(6)-
+CC         methyl-L-lysyl-[protein] + S-adenosyl-L-homocysteine;
+CC         Xref=Rhea:RHEA:51736, Rhea:RHEA-COMP:9752, Rhea:RHEA-COMP:13053,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:29969, ChEBI:CHEBI:57856,
+CC         ChEBI:CHEBI:59789, ChEBI:CHEBI:61929;
+CC         Evidence={ECO:0000269|PubMed:15099517, ECO:0000269|PubMed:15525938,
+CC         ECO:0000269|PubMed:16415881};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:51737;
+CC         Evidence={ECO:0000269|PubMed:15099517, ECO:0000269|PubMed:15525938,
+CC         ECO:0000269|PubMed:16415881};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=29 uM for histone H3 {ECO:0000269|PubMed:16415881};
+CC         KM=12 uM for TAF10 {ECO:0000269|PubMed:16415881};
+CC         KM=69 uM for p53/TP53 {ECO:0000269|PubMed:16415881};
+CC   -!- SUBUNIT: Interacts with IPF1/PDX-1. {ECO:0000269|PubMed:12514135,
+CC       ECO:0000269|PubMed:12540855, ECO:0000269|PubMed:16141209}.
+CC   -!- INTERACTION:
+CC       Q8WTS6; P26358: DNMT1; NbExp=9; IntAct=EBI-1268586, EBI-719459;
+CC       Q8WTS6; P68431: H3C12; NbExp=3; IntAct=EBI-1268586, EBI-79722;
+CC       Q8WTS6; Q96RI1: NR1H4; NbExp=5; IntAct=EBI-1268586, EBI-1250177;
+CC       Q8WTS6; P06400: RB1; NbExp=4; IntAct=EBI-1268586, EBI-491274;
+CC       Q8WTS6; Q04206: RELA; NbExp=12; IntAct=EBI-1268586, EBI-73886;
+CC       Q8WTS6; Q9UHV2: SERTAD1; NbExp=2; IntAct=EBI-1268586, EBI-748601;
+CC       Q8WTS6; Q96EB6: SIRT1; NbExp=11; IntAct=EBI-1268586, EBI-1802965;
+CC       Q8WTS6; Q12962: TAF10; NbExp=4; IntAct=EBI-1268586, EBI-708376;
+CC       Q8WTS6; P04637: TP53; NbExp=11; IntAct=EBI-1268586, EBI-366083;
+CC       Q8WTS6; Q9WVH4: Foxo3; Xeno; NbExp=5; IntAct=EBI-1268586, EBI-6127038;
+CC       Q8WTS6; P68433: H3c8; Xeno; NbExp=2; IntAct=EBI-1268586, EBI-79743;
+CC       Q8WTS6; Q04207: Rela; Xeno; NbExp=2; IntAct=EBI-1268586, EBI-644400;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305|PubMed:11779497}. Chromosome
+CC       {ECO:0000305|PubMed:11850410}.
+CC   -!- TISSUE SPECIFICITY: Widely expressed. Expressed in pancreatic islets.
+CC       {ECO:0000269|PubMed:16141209}.
+CC   -!- DOMAIN: The SET domain is necessary but not sufficient for histone
+CC       methyltransferase activity. {ECO:0000269|PubMed:11779497}.
+CC   -!- SIMILARITY: Belongs to the class V-like SAM-binding methyltransferase
+CC       superfamily. Histone-lysine methyltransferase family. SET7 subfamily.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00910}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB21808.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF448510; AAL56579.1; -; mRNA.
+DR   EMBL; AF462150; AAL69901.1; -; mRNA.
+DR   EMBL; AB051504; BAB21808.1; ALT_INIT; mRNA.
+DR   EMBL; AC112236; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC114743; AAY40937.1; -; Genomic_DNA.
+DR   EMBL; BC121055; AAI21056.1; -; mRNA.
+DR   EMBL; BC121056; AAI21057.1; -; mRNA.
+DR   CCDS; CCDS3748.1; -.
+DR   RefSeq; NP_001293128.1; NM_001306199.1.
+DR   RefSeq; NP_085151.1; NM_030648.3.
+DR   PDB; 1H3I; X-ray; 2.10 A; A/B=52-344.
+DR   PDB; 1MT6; X-ray; 2.20 A; A=58-337.
+DR   PDB; 1MUF; X-ray; 2.26 A; A=81-337.
+DR   PDB; 1N6A; X-ray; 1.70 A; A=108-366.
+DR   PDB; 1N6C; X-ray; 2.30 A; A=70-366.
+DR   PDB; 1O9S; X-ray; 1.75 A; A/B=108-366.
+DR   PDB; 1XQH; X-ray; 1.75 A; A/E=108-366.
+DR   PDB; 2F69; X-ray; 1.30 A; A=110-366.
+DR   PDB; 3CBM; X-ray; 1.69 A; A=111-366.
+DR   PDB; 3CBO; X-ray; 1.65 A; A=111-366.
+DR   PDB; 3CBP; X-ray; 1.42 A; A=111-366.
+DR   PDB; 3M53; X-ray; 1.85 A; A=110-366.
+DR   PDB; 3M54; X-ray; 1.60 A; A=110-366.
+DR   PDB; 3M55; X-ray; 1.55 A; A=110-366.
+DR   PDB; 3M56; X-ray; 1.65 A; A=110-366.
+DR   PDB; 3M57; X-ray; 1.70 A; A=110-366.
+DR   PDB; 3M58; X-ray; 1.40 A; A=110-366.
+DR   PDB; 3M59; X-ray; 1.70 A; A=110-366.
+DR   PDB; 3M5A; X-ray; 1.75 A; A=110-366.
+DR   PDB; 3OS5; X-ray; 1.69 A; A=111-366.
+DR   PDB; 3VUZ; X-ray; 2.50 A; A=111-366.
+DR   PDB; 3VV0; X-ray; 2.00 A; A=111-366.
+DR   PDB; 4E47; X-ray; 2.00 A; A/B/C/D=109-366.
+DR   PDB; 4J7F; X-ray; 1.59 A; A=110-366.
+DR   PDB; 4J7I; X-ray; 2.56 A; A=110-366.
+DR   PDB; 4J83; X-ray; 1.70 A; A=110-366.
+DR   PDB; 4J8O; X-ray; 1.63 A; A=110-366.
+DR   PDB; 4JDS; X-ray; 1.70 A; A/B/C/D=109-366.
+DR   PDB; 4JLG; X-ray; 1.90 A; A/B=109-366.
+DR   PDB; 5AYF; X-ray; 2.00 A; A=111-366.
+DR   PDB; 5EG2; X-ray; 1.55 A; A=110-366.
+DR   PDB; 5YLT; X-ray; 1.69 A; A=111-366.
+DR   PDBsum; 1H3I; -.
+DR   PDBsum; 1MT6; -.
+DR   PDBsum; 1MUF; -.
+DR   PDBsum; 1N6A; -.
+DR   PDBsum; 1N6C; -.
+DR   PDBsum; 1O9S; -.
+DR   PDBsum; 1XQH; -.
+DR   PDBsum; 2F69; -.
+DR   PDBsum; 3CBM; -.
+DR   PDBsum; 3CBO; -.
+DR   PDBsum; 3CBP; -.
+DR   PDBsum; 3M53; -.
+DR   PDBsum; 3M54; -.
+DR   PDBsum; 3M55; -.
+DR   PDBsum; 3M56; -.
+DR   PDBsum; 3M57; -.
+DR   PDBsum; 3M58; -.
+DR   PDBsum; 3M59; -.
+DR   PDBsum; 3M5A; -.
+DR   PDBsum; 3OS5; -.
+DR   PDBsum; 3VUZ; -.
+DR   PDBsum; 3VV0; -.
+DR   PDBsum; 4E47; -.
+DR   PDBsum; 4J7F; -.
+DR   PDBsum; 4J7I; -.
+DR   PDBsum; 4J83; -.
+DR   PDBsum; 4J8O; -.
+DR   PDBsum; 4JDS; -.
+DR   PDBsum; 4JLG; -.
+DR   PDBsum; 5AYF; -.
+DR   PDBsum; 5EG2; -.
+DR   PDBsum; 5YLT; -.
+DR   AlphaFoldDB; Q8WTS6; -.
+DR   BMRB; Q8WTS6; -.
+DR   SMR; Q8WTS6; -.
+DR   BioGRID; 123332; 77.
+DR   CORUM; Q8WTS6; -.
+DR   DIP; DIP-29045N; -.
+DR   IntAct; Q8WTS6; 39.
+DR   MINT; Q8WTS6; -.
+DR   STRING; 9606.ENSP00000274031; -.
+DR   BindingDB; Q8WTS6; -.
+DR   ChEMBL; CHEMBL5523; -.
+DR   DrugBank; DB01752; S-adenosyl-L-homocysteine.
+DR   DrugCentral; Q8WTS6; -.
+DR   GuidetoPHARMACOLOGY; 2703; -.
+DR   GlyGen; Q8WTS6; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8WTS6; -.
+DR   PhosphoSitePlus; Q8WTS6; -.
+DR   BioMuta; SETD7; -.
+DR   DMDM; 25091217; -.
+DR   EPD; Q8WTS6; -.
+DR   jPOST; Q8WTS6; -.
+DR   MassIVE; Q8WTS6; -.
+DR   MaxQB; Q8WTS6; -.
+DR   PaxDb; Q8WTS6; -.
+DR   PeptideAtlas; Q8WTS6; -.
+DR   ProteomicsDB; 74595; -.
+DR   ABCD; Q8WTS6; 7 sequenced antibodies.
+DR   Antibodypedia; 16193; 588 antibodies from 40 providers.
+DR   DNASU; 80854; -.
+DR   Ensembl; ENST00000274031.8; ENSP00000274031.3; ENSG00000145391.14.
+DR   GeneID; 80854; -.
+DR   KEGG; hsa:80854; -.
+DR   MANE-Select; ENST00000274031.8; ENSP00000274031.3; NM_030648.4; NP_085151.1.
+DR   UCSC; uc003ihw.4; human.
+DR   AGR; HGNC:30412; -.
+DR   CTD; 80854; -.
+DR   DisGeNET; 80854; -.
+DR   GeneCards; SETD7; -.
+DR   HGNC; HGNC:30412; SETD7.
+DR   HPA; ENSG00000145391; Low tissue specificity.
+DR   MIM; 606594; gene.
+DR   neXtProt; NX_Q8WTS6; -.
+DR   OpenTargets; ENSG00000145391; -.
+DR   PharmGKB; PA143485615; -.
+DR   VEuPathDB; HostDB:ENSG00000145391; -.
+DR   eggNOG; KOG1079; Eukaryota.
+DR   GeneTree; ENSGT00390000004827; -.
+DR   HOGENOM; CLU_803117_0_0_1; -.
+DR   InParanoid; Q8WTS6; -.
+DR   OMA; RITHTEV; -.
+DR   OrthoDB; 5304435at2759; -.
+DR   PhylomeDB; Q8WTS6; -.
+DR   TreeFam; TF106392; -.
+DR   BioCyc; MetaCyc:HS07252-MON; -.
+DR   BRENDA; 2.1.1.364; 2681.
+DR   PathwayCommons; Q8WTS6; -.
+DR   Reactome; R-HSA-3214841; PKMTs methylate histone lysines.
+DR   SABIO-RK; Q8WTS6; -.
+DR   SignaLink; Q8WTS6; -.
+DR   BioGRID-ORCS; 80854; 20 hits in 1174 CRISPR screens.
+DR   ChiTaRS; SETD7; human.
+DR   EvolutionaryTrace; Q8WTS6; -.
+DR   GeneWiki; SETD7; -.
+DR   GenomeRNAi; 80854; -.
+DR   Pharos; Q8WTS6; Tchem.
+DR   PRO; PR:Q8WTS6; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; Q8WTS6; protein.
+DR   Bgee; ENSG00000145391; Expressed in tibialis anterior and 193 other tissues.
+DR   ExpressionAtlas; Q8WTS6; baseline and differential.
+DR   Genevisible; Q8WTS6; HS.
+DR   GO; GO:0005694; C:chromosome; IDA:HPA.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0003682; F:chromatin binding; IBA:GO_Central.
+DR   GO; GO:0140938; F:histone H3 methyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0140945; F:histone H3K4 monomethyltransferase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0042054; F:histone methyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0002039; F:p53 binding; IPI:UniProtKB.
+DR   GO; GO:0016279; F:protein-lysine N-methyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0006325; P:chromatin organization; NAS:UniProtKB.
+DR   GO; GO:0006974; P:DNA damage response; IDA:MGI.
+DR   GO; GO:0070828; P:heterochromatin organization; IDA:MGI.
+DR   GO; GO:0034968; P:histone lysine methylation; IEA:InterPro.
+DR   GO; GO:0018027; P:peptidyl-lysine dimethylation; IDA:UniProtKB.
+DR   GO; GO:0018026; P:peptidyl-lysine monomethylation; IDA:UniProtKB.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IEA:InterPro.
+DR   CDD; cd10530; SET_SETD7; 1.
+DR   Gene3D; 2.20.110.10; Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain; 3.
+DR   Gene3D; 2.170.270.10; SET domain; 1.
+DR   IDEAL; IID00128; -.
+DR   InterPro; IPR017155; Hist-Lys_N-MeTrfase_SETD7.
+DR   InterPro; IPR003409; MORN.
+DR   InterPro; IPR001214; SET_dom.
+DR   InterPro; IPR046341; SET_dom_sf.
+DR   InterPro; IPR044436; SETD7_SET.
+DR   PANTHER; PTHR46820; HISTONE-LYSINE N-METHYLTRANSFERASE SETD7; 1.
+DR   PANTHER; PTHR46820:SF1; HISTONE-LYSINE N-METHYLTRANSFERASE SETD7; 1.
+DR   Pfam; PF02493; MORN; 4.
+DR   Pfam; PF00856; SET; 1.
+DR   PIRSF; PIRSF037249; Histone_Lys_mtfrase_SET; 1.
+DR   SMART; SM00317; SET; 1.
+DR   SUPFAM; SSF82185; Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain; 1.
+DR   SUPFAM; SSF82199; SET domain; 1.
+DR   PROSITE; PS51577; SAM_MT43_SET7; 1.
+DR   PROSITE; PS50280; SET; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Chromatin regulator; Chromosome;
+KW   Direct protein sequencing; Methyltransferase; Nucleus; Reference proteome;
+KW   Repeat; S-adenosyl-L-methionine; Transcription; Transcription regulation;
+KW   Transferase.
+FT   CHAIN           1..366
+FT                   /note="Histone-lysine N-methyltransferase SETD7"
+FT                   /id="PRO_0000186054"
+FT   REPEAT          36..58
+FT                   /note="MORN 1"
+FT   REPEAT          59..81
+FT                   /note="MORN 2"
+FT   REPEAT          106..128
+FT                   /note="MORN 3"
+FT   DOMAIN          214..336
+FT                   /note="SET"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00190"
+FT   BINDING         226..228
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000269|PubMed:12514135,
+FT                   ECO:0000269|PubMed:12540855"
+FT   BINDING         296
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000269|PubMed:12514135,
+FT                   ECO:0000269|PubMed:12540855"
+FT   BINDING         297
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000269|PubMed:12514135,
+FT                   ECO:0000269|PubMed:12540855"
+FT   BINDING         356
+FT                   /ligand="S-adenosyl-L-methionine"
+FT                   /ligand_id="ChEBI:CHEBI:59789"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00190,
+FT                   ECO:0000269|PubMed:12514135, ECO:0000269|PubMed:12540855"
+FT   SITE            245
+FT                   /note="Histone H3K4 binding"
+FT                   /evidence="ECO:0000269|PubMed:12540855"
+FT   SITE            256
+FT                   /note="Histone H3K4 binding"
+FT                   /evidence="ECO:0000269|PubMed:12540855"
+FT   SITE            266
+FT                   /note="Histone H3K4 binding"
+FT                   /evidence="ECO:0000269|PubMed:12540855"
+FT   SITE            317
+FT                   /note="Histone H3K4 binding"
+FT                   /evidence="ECO:0000269|PubMed:12540855"
+FT   SITE            335
+FT                   /note="Histone H3K4 binding"
+FT                   /evidence="ECO:0000269|PubMed:12540855"
+FT   MUTAGEN         220
+FT                   /note="E->A: Increases near-attack conformations."
+FT                   /evidence="ECO:0000269|PubMed:16433545"
+FT   MUTAGEN         228
+FT                   /note="E->A: Increases near-attack conformations."
+FT                   /evidence="ECO:0000269|PubMed:16433545"
+FT   MUTAGEN         245
+FT                   /note="Y->A: Significantly reduces the
+FT                   monomethyltransferase activity but increases the
+FT                   dimethyltransferase activity."
+FT                   /evidence="ECO:0000269|PubMed:12540855,
+FT                   ECO:0000269|PubMed:16433545"
+FT   MUTAGEN         294
+FT                   /note="K->A: Significantly reduces the catalytic activity."
+FT                   /evidence="ECO:0000269|PubMed:16433545"
+FT   MUTAGEN         297
+FT                   /note="H->A,G: Abolishes methyltransferase activity."
+FT                   /evidence="ECO:0000269|PubMed:11779497,
+FT                   ECO:0000269|PubMed:11850410, ECO:0000269|PubMed:15099517,
+FT                   ECO:0000269|PubMed:15525938, ECO:0000269|PubMed:16141209"
+FT   MUTAGEN         317
+FT                   /note="K->A: Induces a reduction in methyltransferase
+FT                   activity toward TAF10 but an increased methyltransferase
+FT                   activity for H3 and p53/TP53."
+FT                   /evidence="ECO:0000269|PubMed:16415881"
+FT   STRAND          54..56
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          61..64
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          67..75
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          81..87
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          90..98
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          100..102
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          104..111
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   HELIX           114..116
+FT                   /evidence="ECO:0007829|PDB:3M58"
+FT   STRAND          119..122
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          128..131
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          135..137
+FT                   /evidence="ECO:0007829|PDB:4J83"
+FT   STRAND          141..147
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          151..160
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          163..176
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          179..184
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          186..188
+FT                   /evidence="ECO:0007829|PDB:1MT6"
+FT   TURN            203..206
+FT                   /evidence="ECO:0007829|PDB:3M57"
+FT   HELIX           210..213
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          216..220
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   TURN            224..226
+FT                   /evidence="ECO:0007829|PDB:1MUF"
+FT   STRAND          228..234
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          241..245
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          248..250
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   HELIX           252..256
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   HELIX           260..262
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          266..268
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          270..272
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          274..276
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   TURN            279..282
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   TURN            284..286
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   HELIX           292..294
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          295..300
+FT                   /evidence="ECO:0007829|PDB:1H3I"
+FT   STRAND          302..310
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   TURN            311..313
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          314..323
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          330..333
+FT                   /evidence="ECO:0007829|PDB:2F69"
+FT   STRAND          338..340
+FT                   /evidence="ECO:0007829|PDB:5YLT"
+FT   STRAND          344..346
+FT                   /evidence="ECO:0007829|PDB:3OS5"
+FT   HELIX           351..363
+FT                   /evidence="ECO:0007829|PDB:2F69"
+SQ   SEQUENCE   366 AA;  40721 MW;  73A1217079E3BA13 CRC64;
+     MDSDDEMVEE AVEGHLDDDG LPHGFCTVTY SSTDRFEGNF VHGEKNGRGK FFFFDGSTLE
+     GYYVDDALQG QGVYTYEDGG VLQGTYVDGE LNGPAQEYDT DGRLIFKGQY KDNIRHGVCW
+     IYYPDGGSLV GEVNEDGEMT GEKIAYVYPD ERTALYGKFI DGEMIEGKLA TLMSTEEGRP
+     HFELMPGNSV YHFDKSTSSC ISTNALLPDP YESERVYVAE SLISSAGEGL FSKVAVGPNT
+     VMSFYNGVRI THQEVDSRDW ALNGNTLSLD EETVIDVPEP YNHVSKYCAS LGHKANHSFT
+     PNCIYDMFVH PRFGPIKCIR TLRAVEADEE LTVAYGYDHS PPGKSGPEAP EWYQVELKAF
+     QATQQK
+//

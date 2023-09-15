@@ -1,0 +1,1208 @@
+ID   MICA_HUMAN              Reviewed;         383 AA.
+AC   Q29983; A8KQR0; A9LRW5; A9QVE0; B1VJF1; O60917; O60918; O60919; O60920;
+AC   O60933; O77956; O78150; O78151; O78152; O78153; O97987; O97988; O97989;
+AC   O97990; O97991; O97992; O97993; O97994; O97995; O98234; O98235; O98236;
+AC   O98237; O98238; P79506; P79507; P79508; P79509; P79510; P79511; P79512;
+AC   P79513; P79514; P79515; P79516; P79517; P79518; P79519; P79520; P79521;
+AC   Q5C9P8; Q5XM81; Q70I48; Q70I49; Q7JFH9; Q7JFI0; Q7JFI1; Q7JFI2; Q7YQ98;
+AC   Q861I1; Q95464; Q95HA2; Q95HD6; Q95HN4; Q95HN5; Q95HN6; Q95IB2; Q95IY7;
+AC   Q99692; Q9BCR3; Q9BCR4; Q9BCR5; Q9BCR6; Q9BCR7; Q9BCR8; Q9BCR9; Q9BCS0;
+AC   Q9BCS1; Q9BCS2; Q9BCS3; Q9BCS4; Q9BD20; Q9GIZ1; Q9GIZ2; Q9GIZ3; Q9GIZ4;
+AC   Q9GIZ5; Q9GIZ6; Q9GJ01; Q9GJ02; Q9GJ03; Q9GJ04; Q9GJ05; Q9GJ06; Q9GJ07;
+AC   Q9GJ08; Q9GJ09; Q9MY21; Q9TQ86; Q9TQ87; Q9TQ88; Q9TQ89; Q9TQ92; Q9TQ93;
+AC   Q9TQ94; Q9TQ95; Q9TQ96; Q9TQ97; Q9TQ98; Q9TQ99; Q9TQA0; Q9TQA1; Q9TQA2;
+AC   Q9TQA3; Q9TQA4; Q9TQI9; Q9TQJ0; Q9TQJ1; Q9TQJ9; Q9TQK0; Q9TQK1; Q9TQK2;
+AC   Q9TQK8; Q9TQK9; Q9TQL0; Q9TQL1; Q9TQL2; Q9TQL3; Q9TQL4; Q9UE04; Q9UE05;
+AC   Q9UE06; Q9UE11;
+DT   20-MAY-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   28-JUN-2023, entry version 184.
+DE   RecName: Full=MHC class I polypeptide-related sequence A;
+DE            Short=MIC-A;
+DE   Flags: Precursor;
+GN   Name=MICA {ECO:0000312|EMBL:CAI41907.1};
+GN   Synonyms=PERB11.1 {ECO:0000303|PubMed:8613147};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:AAA21718.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE MICA*001).
+RX   PubMed=8022771; DOI=10.1073/pnas.91.14.6259;
+RA   Bahram S., Bresnahan M., Geraghty D.E., Spies T.;
+RT   "A second lineage of mammalian major histocompatibility complex class I
+RT   genes.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 91:6259-6263(1994).
+RN   [2] {ECO:0000305, ECO:0000312|EMBL:CAA63427.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE MICA*004).
+RX   PubMed=8613147; DOI=10.1007/bf02602661;
+RA   Bahram S., Mizuki N., Inoko H., Spies T.;
+RT   "Nucleotide sequence of the human MHC class I MICA gene.";
+RL   Immunogenetics 44:80-81(1996).
+RN   [3] {ECO:0000312|EMBL:CAI41907.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ALLELES MICA*001 AND
+RP   MICA*004).
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [4] {ECO:0000305, ECO:0000312|EMBL:AAH16929.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ALLELE MICA*018), AND NUCLEOTIDE
+RP   SEQUENCE [LARGE SCALE MRNA] OF 70-248 (ISOFORM 2).
+RC   TISSUE=Bone, and Kidney {ECO:0000312|EMBL:AAH16929.1};
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 23-150 (ALLELES MICA*001; MICA*008 AND
+RP   MICA*010).
+RX   PubMed=7927538; DOI=10.1007/bf01246675;
+RA   Leelayuwat C., Townend D.C., Degli-Esposti M.A., Abraham L.J.,
+RA   Dawkins R.L.;
+RT   "A new polymorphic and multicopy MHC gene family related to nonmammalian
+RT   class I.";
+RL   Immunogenetics 40:339-351(1994).
+RN   [6] {ECO:0000305, ECO:0000312|EMBL:AAB41069.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-297 (ALLELES MICA*001; MICA*002;
+RP   MICA*004; MICA*005; MICA*006; MICA*007; MICA*008; MICA*009; MICA*010;
+RP   MICA*011; MICA*012; MICA*013; MICA*014; MICA*015 AND MICA*016).
+RX   PubMed=8781120; DOI=10.1007/bf02602779;
+RA   Fodil N., Laloux L., Wanner V., Pellet P., Hauptmann G., Mizuki N.,
+RA   Inoko H., Spies T., Theodorou I., Bahram S.;
+RT   "Allelic repertoire of the human MHC class I MICA gene.";
+RL   Immunogenetics 44:351-357(1996).
+RN   [7] {ECO:0000305, ECO:0000312|EMBL:CAA76395.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-297 (ALLELES MICA*007; MICA*008;
+RP   MICA*009; MICA*010; MICA*012; MICA*016; MICA*017; MICA*018; MICA*022;
+RP   MICA*024; MICA*025; MICA*028 AND MICA*029).
+RX   PubMed=10331160; DOI=10.1046/j.1365-2370.1999.00094.x;
+RA   Yao Z., Volgger A., Helmberg W., Keller E., Fan L.A., Chandanayingyong D.,
+RA   Albert E.D.;
+RT   "Definition of new alleles of MIC-A using sequencing-based typing.";
+RL   Eur. J. Immunogenet. 26:225-232(1999).
+RN   [8] {ECO:0000305, ECO:0000312|EMBL:AAD27009.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-297 (ALLELES MICA*009; MICA*017;
+RP   MICA*018 AND MICA*019).
+RX   PubMed=10380703; DOI=10.1007/s002510050536;
+RA   Fodil N., Pellet P., Laloux L., Hauptmann G., Theodorou I., Bahram S.;
+RT   "MICA haplotypic diversity.";
+RL   Immunogenetics 49:557-560(1999).
+RN   [9] {ECO:0000305, ECO:0000312|EMBL:BAA29034.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-297 (ALLELE MICA*019).
+RX   PubMed=10369920; DOI=10.1007/s002510050658;
+RA   Komatsu-Wakui M., Tokunaga K., Ishikawa Y., Kashiwase K., Moriyama S.,
+RA   Tsuchiya N., Ando H., Shiina T., Geraghty D.E., Inoko H., Juji T.;
+RT   "MIC-A polymorphism in Japanese and a MIC-A-MIC-B null haplotype.";
+RL   Immunogenetics 49:620-628(1999).
+RN   [10] {ECO:0000305, ECO:0000312|EMBL:CAD91415.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-297 (ALLELE MICA*051).
+RC   TISSUE=Blood {ECO:0000312|EMBL:CAD91415.1};
+RX   PubMed=15104678; DOI=10.1111/j.0001-2815.2004.00195.x;
+RA   Quiroga I., Sweeney D., Sutton P.M., Chapple S.D., Souto-Grando J.P.,
+RA   Barnardo M.C.N.M., Fuggle S.V.;
+RT   "Identification of a novel MICA allele: MICA*051.";
+RL   Tissue Antigens 63:466-469(2004).
+RN   [11] {ECO:0000305, ECO:0000312|EMBL:AAD01476.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-383 (ALLELES MICA*008; MICA*023 AND
+RP   MICA*028), AND NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELES
+RP   MICA*001; MICA*002; MICA*004; MICA*006; MICA*007; MICA*009; MICA*010;
+RP   MICA*011; MICA*016; MICA*018; MICA*019; MICA*022; MICA*024; MICA*025;
+RP   MICA*026; MICA*027; MICA*031; MICA*032; MICA*033; MICA*034; MICA*035;
+RP   MICA*036; MICA*037; MICA*038; MICA*039 AND MICA*040).
+RX   PubMed=10380704; DOI=10.1007/s002510050537;
+RA   Visser C.J.T., Tilanus M.G.J., Tatari Z., van der Zwan A.-W., Bakker R.,
+RA   Rozemuller E.H., Schaeffer V., Tamouza R., Charron D.;
+RT   "Sequencing-based typing of MICA reveals 33 alleles: a study on linkage
+RT   with classical HLA genes.";
+RL   Immunogenetics 49:561-566(1999).
+RN   [12] {ECO:0000305, ECO:0000312|EMBL:AAK19623.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-383 (ALLELES MICA*001; MICA*002;
+RP   MICA*006; MICA*008; MICA*009; MICA*010; MICA*011; MICA*012; MICA*015;
+RP   MICA*016; MICA*017; MICA*018; MICA*019; MICA*048 AND MICA*049).
+RX   PubMed=11556982; DOI=10.1034/j.1399-0039.2001.057006520.x;
+RA   Obuchi N., Takahashi M., Nouchi T., Satoh M., Arimura T., Ueda K., Akai J.,
+RA   Ota M., Naruse T., Inoko H., Numano F., Kimura A.;
+RT   "Identification of MICA alleles with a long Leu-repeat in the transmembrane
+RT   region and no cytoplasmic tail due to a frameshift-deletion in exon 4.";
+RL   Tissue Antigens 57:520-535(2001).
+RN   [13] {ECO:0000305, ECO:0000312|EMBL:CAC27561.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-371 (ALLELES MICA*008; MICA*017;
+RP   MICA*018; MICA*019; MICA*027; MICA*029; MICA*033; MICA*041; MICA*043;
+RP   MICA*045 AND MICA*046).
+RX   PubMed=11841487; DOI=10.1046/j.0960-7420.2001.00275.x;
+RA   Perez-Rodriguez M., Arguello J.R., Fischer G., Corell A., Cox S.T.,
+RA   Robinson J., Hossain E., McWhinnie A., Travers P.J., Marsh S.G.E.,
+RA   Madrigal J.A.;
+RT   "Further polymorphism of the MICA gene.";
+RL   Eur. J. Immunogenet. 29:35-46(2002).
+RN   [14] {ECO:0000305, ECO:0000312|EMBL:AAV39504.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-371 (ALLELE MICA*008).
+RA   Kaur G., Shiina T., Hashimoto N., Kumar N., Inoko H., Mehra N.K.;
+RT   "MIC-A sequence in AH8.2.";
+RL   Submitted (APR-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [15] {ECO:0000305, ECO:0000312|EMBL:CAB71317.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELE MICA*020).
+RX   PubMed=10746789; DOI=10.1034/j.1399-0039.2000.550209.x;
+RA   Perez-Rodriguez M., Corell A., Fischer G., Arguello R., Cox S.T.,
+RA   McWhinnie A., Marsh S.G.E., Madrigal A.;
+RT   "A new MICA allele with ten alanine residues in the exon 5
+RT   microsatellite.";
+RL   Tissue Antigens 55:162-165(2000).
+RN   [16] {ECO:0000305, ECO:0000312|EMBL:CAC88121.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELE MICA*047).
+RX   PubMed=12074712; DOI=10.1034/j.1399-0039.2002.590306.x;
+RA   Perez-Rodriguez M., Raimondi E., Marsh S.G.E., Madrigal J.A.;
+RT   "Identification of a new MICA allele, MICA*047.";
+RL   Tissue Antigens 59:216-218(2002).
+RN   [17] {ECO:0000305, ECO:0000312|EMBL:CAE45582.2}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELES MICA*007; MICA*018 AND
+RP   MICA*053).
+RX   PubMed=16634869; DOI=10.1111/j.1399-0039.2006.00574.x;
+RA   Quiroga I., Sweeney D., Sutton P.M., Ahmad T., Walton R.,
+RA   Barnardo M.C.N.M., Fuggle S.V.;
+RT   "The identification of three novel MICA alleles by sequence-based typing.";
+RL   Tissue Antigens 67:321-325(2006).
+RN   [18] {ECO:0000305, ECO:0000312|EMBL:AAV39504.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELE MICA*052).
+RA   Mas V., Amezaga N., Arostegui J.I., Masso M., Plaza S., Rius F.,
+RA   Ercilla G., Vives J., Yague J.;
+RT   "Description of a new MICA allele.";
+RL   Submitted (SEP-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [19] {ECO:0000305, ECO:0000312|EMBL:AAV39504.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELE MICA*054).
+RC   TISSUE=Blood {ECO:0000312|EMBL:CAP12057.1};
+RA   Cox S.T.;
+RT   "Description of a novel MICA allele, MICA*010v, discovered by sequencing
+RT   based typing.";
+RL   Submitted (OCT-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [20] {ECO:0000305, ECO:0000312|EMBL:AAV39504.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELE MICA*055).
+RA   Glas J., Maier K., Wetzke M., Henninger M., Euba A., Weiss E.H.,
+RA   Folwaczny M.;
+RT   "MICA*TM A8: a new allele with eight GCT repeats in the exon 5
+RT   microsatellite.";
+RL   Submitted (OCT-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [21] {ECO:0000305, ECO:0000312|EMBL:AAV39504.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-341 (ALLELE MICA*056).
+RA   Cox S.T.;
+RT   "Sequence of new MICA allele, similar to MICA*019.";
+RL   Submitted (FEB-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [22] {ECO:0000305, ECO:0000312|EMBL:AAC28944.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-297 (ALLELES MICA*009; MICA*017;
+RP   MICA*018; MICA*019 AND MICA*030).
+RX   PubMed=10369917; DOI=10.1007/s002510050655;
+RA   Petersdorf E.W., Shuler K.B., Longton G.M., Spies T., Hansen J.A.;
+RT   "Population study of allelic diversity in the human MHC class I-related
+RT   MIC-A gene.";
+RL   Immunogenetics 49:605-612(1999).
+RN   [23] {ECO:0000305, ECO:0000312|EMBL:AAV39504.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-297 (ALLELES MICA*008; MICA*012;
+RP   MICA*041; MICA*042; MICA*043; MICA*044 AND MICA*045).
+RA   Hirose T., Mitsuishi Y., Young C.;
+RT   "New alleles of human non-classical class I MICA gene.";
+RL   Submitted (NOV-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [24] {ECO:0000305, ECO:0000312|EMBL:AAV39504.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 25-283 (ALLELE MICA*019).
+RA   Yan L., Zhu F.;
+RT   "Identification of a novel MICA allele by SBT.";
+RL   Submitted (NOV-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [25] {ECO:0000305, ECO:0000312|EMBL:AAM34484.1}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 299-341 (ALLELE MICA*050).
+RX   PubMed=12542746; DOI=10.1034/j.1399-0039.2002.600608.x;
+RA   Rueda B., Pascual M., Lopez-Nevot M.A., Gonzalez E., Martin J.;
+RT   "A new allele within the transmembrane region of the human MICA gene with
+RT   seven GCT repeats.";
+RL   Tissue Antigens 60:526-528(2002).
+RN   [26] {ECO:0000305}
+RP   SUBUNIT, SUBCELLULAR LOCATION, TISSUE SPECIFICITY, INDUCTION, AND
+RP   GLYCOSYLATION.
+RX   PubMed=8901601; DOI=10.1073/pnas.93.22.12445;
+RA   Groh V., Bahram S., Bauer S., Herman A., Beauchamp M., Spies T.;
+RT   "Cell stress-regulated human major histocompatibility complex class I gene
+RT   expressed in gastrointestinal epithelium.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 93:12445-12450(1996).
+RN   [27] {ECO:0000305}
+RP   SUBUNIT, AND TISSUE SPECIFICITY.
+RX   PubMed=9396860; DOI=10.1007/s002510050339;
+RA   Zwirner N.W., Fernandez-Vina M.A., Stastny P.;
+RT   "MICA, a new polymorphic HLA-related antigen, is expressed mainly by
+RT   keratinocytes, endothelial cells, and monocytes.";
+RL   Immunogenetics 47:139-148(1998).
+RN   [28] {ECO:0000305}
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=9497295; DOI=10.1126/science.279.5357.1737;
+RA   Groh V., Steinle A., Bauer S., Spies T.;
+RT   "Recognition of stress-induced MHC molecules by intestinal epithelial
+RT   gammadelta T cells.";
+RL   Science 279:1737-1740(1998).
+RN   [29] {ECO:0000305}
+RP   INVOLVEMENT IN PSORIATIC ARTHRITIS SUSCEPTIBILITY.
+RX   PubMed=10323458;
+RX   DOI=10.1002/1529-0131(199905)42:5<1010::aid-anr21>3.0.co;2-h;
+RA   Gonzalez S., Martinez-Borra J., Torre-Alonso J.C., Gonzalez-Roces S.,
+RA   Sanchez del Rio J., Rodriguez Perez A., Brautbar C., Lopez-Larrea C.;
+RT   "The MICA-A9 triplet repeat polymorphism in the transmembrane region
+RT   confers additional susceptibility to the development of psoriatic arthritis
+RT   and is independent of the association of Cw*0602 in psoriasis.";
+RL   Arthritis Rheum. 42:1010-1016(1999).
+RN   [30] {ECO:0000305}
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=10363723; DOI=10.1016/s0198-8859(98)00128-1;
+RA   Zwirner N.W., Dole K., Stastny P.;
+RT   "Differential surface expression of MICA by endothelial cells, fibroblasts,
+RT   keratinocytes, and monocytes.";
+RL   Hum. Immunol. 60:323-330(1999).
+RN   [31] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=10359807; DOI=10.1073/pnas.96.12.6879;
+RA   Groh V., Rhinehart R., Secrist H., Bauer S., Grabstein K.H., Spies T.;
+RT   "Broad tumor-associated expression and recognition by tumor-derived gamma
+RT   delta T cells of MICA and MICB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:6879-6884(1999).
+RN   [32] {ECO:0000305}
+RP   FUNCTION, AND INTERACTION WITH KLRK1.
+RX   PubMed=10426993; DOI=10.1126/science.285.5428.727;
+RA   Bauer S., Groh V., Wu J., Steinle A., Phillips J.H., Lanier L.L., Spies T.;
+RT   "Activation of NK cells and T cells by NKG2D, a receptor for stress-
+RT   inducible MICA.";
+RL   Science 285:727-729(1999).
+RN   [33] {ECO:0000305}
+RP   SUBUNIT.
+RX   PubMed=10426994; DOI=10.1126/science.285.5428.730;
+RA   Wu J., Song Y., Bakker A.B.H., Bauer S., Spies T., Lanier L.L.,
+RA   Phillips J.H.;
+RT   "An activating immunoreceptor complex formed by NKG2D and DAP10.";
+RL   Science 285:730-732(1999).
+RN   [34] {ECO:0000305}
+RP   TISSUE SPECIFICITY, AND ASSOCIATION WITH PSORIASIS.
+RX   PubMed=10691930; DOI=10.1046/j.1365-2249.2000.01140.x;
+RA   Tay G.K., Hui J., Gaudieri S., Schmitt-Egenolf M., Martinez O.P.,
+RA   Leelayuwat C., Williamson J.F., Eiermann T.H., Dawkins R.L.;
+RT   "PERB11 (MIC): a polymorphic MHC gene is expressed in skin and single
+RT   nucleotide polymorphisms are associated with psoriasis.";
+RL   Clin. Exp. Immunol. 119:553-558(2000).
+RN   [35] {ECO:0000305}
+RP   IDENTIFICATION AS AN ALLOANTIGEN.
+RX   PubMed=11053635; DOI=10.1016/s0198-8859(00)00162-2;
+RA   Zwirner N.W., Marcos C.Y., Mirbaha F., Zou Y., Stastny P.;
+RT   "Identification of MICA as a new polymorphic alloantigen recognized by
+RT   antibodies in sera of organ transplant recipients.";
+RL   Hum. Immunol. 61:917-924(2000).
+RN   [36]
+RP   FUNCTION AS A LIGAND FOR KLRK1.
+RX   PubMed=11777960; DOI=10.4049/jimmunol.168.2.671;
+RA   Sutherland C.L., Chalupny N.J., Schooley K., VandenBos T., Kubin M.,
+RA   Cosman D.;
+RT   "UL16-binding proteins, novel MHC class I-related proteins, bind to NKG2D
+RT   and activate multiple signaling pathways in primary NK cells.";
+RL   J. Immunol. 168:671-679(2002).
+RN   [37]
+RP   INTERACTION WITH HHV-5 PROTEIN UL142 (MICROBIAL INFECTION).
+RX   PubMed=19793804; DOI=10.1128/jvi.01175-09;
+RA   Ashiru O., Bennett N.J., Boyle L.H., Thomas M., Trowsdale J., Wills M.R.;
+RT   "NKG2D ligand MICA is retained in the cis-Golgi apparatus by human
+RT   cytomegalovirus protein UL142.";
+RL   J. Virol. 83:12345-12354(2009).
+RN   [38] {ECO:0000305}
+RP   VARIANT PRO-29.
+RX   PubMed=10752636; DOI=10.1007/s002510050039;
+RA   Li Z., Groh V., Strong R.K., Spies T.;
+RT   "A single amino acid substitution causes loss of expression of a MICA
+RT   allele.";
+RL   Immunogenetics 51:246-248(2000).
+RN   [39] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=11485740; DOI=10.1016/s1074-7613(01)00168-6;
+RA   Das H., Groh V., Kuijl C., Sugita M., Morita C.T., Spies T., Bukowski J.F.;
+RT   "MICA engagement by human Vgamma2Vdelta2 T cells enhances their antigen-
+RT   dependent effector function.";
+RL   Immunity 15:83-93(2001).
+RN   [40] {ECO:0000305}
+RP   FUNCTION, INTERACTION WITH KLRK1, AND EFFECT OF VARIANT VAL-152 ON BINDING
+RP   TO KLRK1.
+RX   PubMed=11491531; DOI=10.1007/s002510100325;
+RA   Steinle A., Li P., Morris D.L., Groh V., Lanier L.L., Strong R.K.,
+RA   Spies T.;
+RT   "Interactions of human NKG2D with its ligands MICA, MICB, and homologs of
+RT   the mouse RAE-1 protein family.";
+RL   Immunogenetics 53:279-287(2001).
+RN   [41] {ECO:0000305}
+RP   FUNCTION AS A LIGAND FOR KLRK1, AND INDUCTION.
+RX   PubMed=11224526; DOI=10.1038/85321;
+RA   Groh V., Rhinehart R., Randolph-Habecker J., Topp M.S., Riddell S.R.,
+RA   Spies T.;
+RT   "Costimulation of CD8alphabeta T cells by NKG2D via engagement by MIC
+RT   induced on virus-infected cells.";
+RL   Nat. Immunol. 2:255-260(2001).
+RN   [42] {ECO:0000305}
+RP   ALTERNATIVE SPLICING (ISOFORMS 1 AND 2).
+RX   PubMed=12466900; DOI=10.1007/s00251-002-0496-y;
+RA   Zou Y., Stastny P.;
+RT   "Alternatively spliced forms of MICA and MICB lacking exon 3 in a human
+RT   cell line and evidence of presence of similar RNA in human peripheral blood
+RT   mononuclear cells.";
+RL   Immunogenetics 54:671-674(2002).
+RN   [43] {ECO:0000305}
+RP   PROTEOLYTIC CLEAVAGE ON TUMOR CELLS.
+RX   PubMed=12370336; DOI=10.4049/jimmunol.169.8.4098;
+RA   Salih H.R., Rammensee H.-G., Steinle A.;
+RT   "Down-regulation of MICA on human tumors by proteolytic shedding.";
+RL   J. Immunol. 169:4098-4102(2002).
+RN   [44] {ECO:0000305}
+RP   PROTEOLYTIC CLEAVAGE ON TUMOR CELLS.
+RX   PubMed=12384702; DOI=10.1038/nature01112;
+RA   Groh V., Wu J., Yee C., Spies T.;
+RT   "Tumour-derived soluble MIC ligands impair expression of NKG2D and T-cell
+RT   activation.";
+RL   Nature 419:734-738(2002).
+RN   [45] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=11830641; DOI=10.1073/pnas.032668099;
+RA   Tieng V., Le Bouguenec C., du Merle L., Bertheau P., Desreumaux P.,
+RA   Janin A., Charron D., Toubert A.;
+RT   "Binding of Escherichia coli adhesin AfaE to CD55 triggers cell-surface
+RT   expression of the MHC class I-related molecule MICA.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:2977-2982(2002).
+RN   [46] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=12902493; DOI=10.4049/jimmunol.171.4.1909;
+RA   Hue S., Monteiro R.C., Berrih-Aknin S., Caillat-Zucman S.;
+RT   "Potential role of NKG2D/MHC class I-related chain A interaction in
+RT   intrathymic maturation of single-positive CD8 T cells.";
+RL   J. Immunol. 171:1909-1917(2003).
+RN   [47] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=15995699; DOI=10.1038/nature03884;
+RA   Gasser S., Orsulic S., Brown E.J., Raulet D.H.;
+RT   "The DNA damage pathway regulates innate immune system ligands of the NKG2D
+RT   receptor.";
+RL   Nature 436:1186-1190(2005).
+RN   [48] {ECO:0000305}
+RP   INDUCTION.
+RX   PubMed=16750166; DOI=10.1016/j.bbrc.2006.05.092;
+RA   Chalupny N.J., Rein-Weston A., Dosch S., Cosman D.;
+RT   "Down-regulation of the NKG2D ligand MICA by the human cytomegalovirus
+RT   glycoprotein UL142.";
+RL   Biochem. Biophys. Res. Commun. 346:175-181(2006).
+RN   [49] {ECO:0000305}
+RP   INTERACTION WITH PDIA6.
+RX   PubMed=17495932; DOI=10.1038/nature05768;
+RA   Kaiser B.K., Yim D., Chow I.-T., Gonzalez S., Dai Z., Mann H.H.,
+RA   Strong R.K., Groh V., Spies T.;
+RT   "Disulphide-isomerase-enabled shedding of tumour-associated NKG2D
+RT   ligands.";
+RL   Nature 447:482-486(2007).
+RN   [50] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=17565371; DOI=10.1371/journal.pone.0000518;
+RA   Schrambach S., Ardizzone M., Leymarie V., Sibilia J., Bahram S.;
+RT   "In vivo expression pattern of MICA and MICB and its relevance to auto-
+RT   immunity and cancer.";
+RL   PLoS ONE 2:E518-E518(2007).
+RN   [51] {ECO:0000305}
+RP   SUBCELLULAR LOCATION, AND INDUCTION.
+RX   PubMed=18287244; DOI=10.1128/jvi.02251-07;
+RA   McSharry B.P., Burgert H.-G., Owen D.P., Stanton R.J., Prod'homme V.,
+RA   Sester M., Koebernick K., Groh V., Spies T., Cox S.T., Little A.-M.,
+RA   Wang E.C.Y., Tomasec P., Wilkinson G.W.;
+RT   "Adenovirus E3/19K promotes evasion of NK cell recognition by intracellular
+RT   sequestration of the NKG2D ligands MICA and MICB.";
+RL   J. Virol. 82:4585-4594(2008).
+RN   [52] {ECO:0000305}
+RP   INVOLVEMENT IN MULTIPLE MYELOMA.
+RX   PubMed=18202175; DOI=10.1073/pnas.0711293105;
+RA   Jinushi M., Vanneman M., Munshi N.C., Tai Y.-T., Prabhala R.H., Ritz J.,
+RA   Neuberg D., Anderson K.C., Carrasco D.R., Dranoff G.;
+RT   "MHC class I chain-related protein A antibodies and shedding are associated
+RT   with the progression of multiple myeloma.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:1285-1290(2008).
+RN   [53] {ECO:0000305}
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 24-297, AND DISULFIDE BONDS.
+RX   PubMed=10367903; DOI=10.1016/s1074-7613(00)80057-6;
+RA   Li P., Willie S.T., Bauer S., Morris D.L., Spies T., Strong R.K.;
+RT   "Crystal structure of the MHC class I homolog MIC-A, a gammadelta T cell
+RT   ligand.";
+RL   Immunity 10:577-584(1999).
+RN   [54] {ECO:0000305, ECO:0000312|PDB:1HYR}
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 24-297 IN COMPLEX WITH KLRK1.
+RX   PubMed=11323699; DOI=10.1038/87757;
+RA   Li P., Morris D.L., Willcox B.E., Steinle A., Spies T., Strong R.K.;
+RT   "Complex structure of the activating immunoreceptor NKG2D and its MHC class
+RT   I-like ligand MICA.";
+RL   Nat. Immunol. 2:443-451(2001).
+CC   -!- FUNCTION: Seems to have no role in antigen presentation. Acts as a
+CC       stress-induced self-antigen that is recognized by gamma delta T-cells.
+CC       Ligand for the KLRK1/NKG2D receptor. Binding to KLRK1 leads to cell
+CC       lysis. {ECO:0000269|PubMed:10426993, ECO:0000269|PubMed:11224526,
+CC       ECO:0000269|PubMed:11491531, ECO:0000269|PubMed:11777960,
+CC       ECO:0000269|PubMed:9497295}.
+CC   -!- SUBUNIT: Unlike classical MHC class I molecules, does not form a
+CC       heterodimer with beta-2-microglobulin. Binds as a monomer to a
+CC       KLRK1/NKG2D homodimer. KLRK1 forms a complex with HCST/DAP10 in which
+CC       KLRK1 binds MICA while HCST acts as an adapter molecule which enables
+CC       signal transduction. Interacts with PDIA6 on the surface of tumor
+CC       cells, leading to disulfide bond reduction which is required for
+CC       release of MICA from tumor cells. Interacts with human
+CC       cytomegalovirus/HHV-5 protein UL142. {ECO:0000269|PubMed:10426993,
+CC       ECO:0000269|PubMed:10426994, ECO:0000269|PubMed:11323699,
+CC       ECO:0000269|PubMed:11491531, ECO:0000269|PubMed:17495932,
+CC       ECO:0000269|PubMed:8901601, ECO:0000269|PubMed:9396860}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with human
+CC       cytomegalovirus/HHV-5 protein UL142. {ECO:0000269|PubMed:19793804}.
+CC   -!- INTERACTION:
+CC       Q29983; P26718: KLRK1; NbExp=2; IntAct=EBI-1031130, EBI-458344;
+CC       Q29983; P17931: LGALS3; NbExp=2; IntAct=EBI-1031130, EBI-1170392;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:10363723,
+CC       ECO:0000269|PubMed:18287244, ECO:0000269|PubMed:8901601}; Single-pass
+CC       type I membrane protein {ECO:0000269|PubMed:10363723,
+CC       ECO:0000269|PubMed:18287244, ECO:0000269|PubMed:8901601}. Cytoplasm
+CC       {ECO:0000269|PubMed:10363723, ECO:0000269|PubMed:18287244,
+CC       ECO:0000269|PubMed:8901601}. Note=Expressed on the cell surface in
+CC       gastric epithelium, endothelial cells and fibroblasts and in the
+CC       cytoplasm in keratinocytes and monocytes. Infection with human
+CC       adenovirus 5 suppresses cell surface expression due to the adenoviral
+CC       E3-19K protein which causes retention in the endoplasmic reticulum.
+CC       {ECO:0000269|PubMed:10363723, ECO:0000269|PubMed:18287244,
+CC       ECO:0000269|PubMed:8901601}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1 {ECO:0000269|PubMed:12466900}; Synonyms=MICA1
+CC       {ECO:0000269|PubMed:12466900};
+CC         IsoId=Q29983-1; Sequence=Displayed;
+CC       Name=2 {ECO:0000269|PubMed:12466900}; Synonyms=MICA2
+CC       {ECO:0000269|PubMed:12466900};
+CC         IsoId=Q29983-2; Sequence=VSP_055366;
+CC   -!- TISSUE SPECIFICITY: Widely expressed with the exception of the central
+CC       nervous system where it is absent. Expressed predominantly in gastric
+CC       epithelium and also in monocytes, keratinocytes, endothelial cells,
+CC       fibroblasts and in the outer layer of Hassal's corpuscles within the
+CC       medulla of normal thymus. In skin, expressed mainly in the keratin
+CC       layers, basal cells, ducts and follicles. Also expressed in many, but
+CC       not all, epithelial tumors of lung, breast, kidney, ovary, prostate and
+CC       colon. In thyomas, overexpressed in cortical and medullar epithelial
+CC       cells. Tumors expressing MICA display increased levels of gamma delta
+CC       T-cells. {ECO:0000269|PubMed:10359807, ECO:0000269|PubMed:10363723,
+CC       ECO:0000269|PubMed:10691930, ECO:0000269|PubMed:12902493,
+CC       ECO:0000269|PubMed:17565371, ECO:0000269|PubMed:8901601,
+CC       ECO:0000269|PubMed:9396860}.
+CC   -!- INDUCTION: By heat shock, by infection with human cytomegalovirus
+CC       (HCMV), human adenovirus 5, M.tuberculosis and diarrheagenic E.coli,
+CC       and by exposure to DNA damaging conditions such as high doses of
+CC       ionizing radiation, chromatin-modifying treatments and inhibitors of
+CC       DNA replication. The HCMV UL142 protein causes down-regulation of the
+CC       full-length protein but not of the truncated MICA*008 allele.
+CC       {ECO:0000269|PubMed:11224526, ECO:0000269|PubMed:11485740,
+CC       ECO:0000269|PubMed:11830641, ECO:0000269|PubMed:15995699,
+CC       ECO:0000269|PubMed:16750166, ECO:0000269|PubMed:18287244,
+CC       ECO:0000269|PubMed:8901601, ECO:0000269|PubMed:9497295}.
+CC   -!- PTM: N-glycosylated. Glycosylation is not essential for interaction
+CC       with KLRK1/NKG2D but enhances complex formation.
+CC       {ECO:0000269|PubMed:8901601}.
+CC   -!- PTM: Proteolytically cleaved and released from the cell surface of
+CC       tumor cells which impairs KLRK1/NKG2D expression and T-cell activation.
+CC       {ECO:0000269|PubMed:12370336, ECO:0000269|PubMed:12384702}.
+CC   -!- POLYMORPHISM: The following alleles of MICA are known: MICA*001,
+CC       MICA*002, MICA*004, MICA*005, MICA*006, MICA*007, MICA*008, MICA*009,
+CC       MICA*010, MICA*011, MICA*012, MICA*013, MICA*014, MICA*015, MICA*016,
+CC       MICA*017, MICA*018, MICA*019, MICA*020, MICA*022, MICA*023, MICA*024,
+CC       MICA*025, MICA*026, MICA*027, MICA*028, MICA*029, MICA*030, MICA*031,
+CC       MICA*032, MICA*033, MICA*034, MICA*035, MICA*036, MICA*037, MICA*038,
+CC       MICA*039, MICA*040, MICA*041, MICA*042, MICA*043, MICA*044, MICA*045,
+CC       MICA*046, MICA*047, MICA*048, MICA*049, MICA*050, MICA*051, MICA*052,
+CC       MICA*053, MICA*054, MICA*055 and MICA*056. The sequence shown is that
+CC       of MICA*001. {ECO:0000305}.
+CC   -!- DISEASE: Note=Anti-MICA antibodies and ligand shedding are involved in
+CC       the progression of monoclonal gammopathy of undetermined significance
+CC       (MGUS)to multiple myeloma.
+CC   -!- DISEASE: Psoriasis 1 (PSORS1) [MIM:177900]: A common, chronic
+CC       inflammatory disease of the skin with multifactorial etiology. It is
+CC       characterized by red, scaly plaques usually found on the scalp, elbows
+CC       and knees. These lesions are caused by abnormal keratinocyte
+CC       proliferation and infiltration of inflammatory cells into the dermis
+CC       and epidermis. Note=Disease susceptibility is associated with variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Psoriatic arthritis (PSORAS) [MIM:607507]: An inflammatory,
+CC       seronegative arthritis associated with psoriasis. It is a heterogeneous
+CC       disorder ranging from a mild, non-destructive disease to a severe,
+CC       progressive, erosive arthropathy. Five types of psoriatic arthritis
+CC       have been defined: asymmetrical oligoarthritis characterized by primary
+CC       involvement of the small joints of the fingers or toes; asymmetrical
+CC       arthritis which involves the joints of the extremities; symmetrical
+CC       polyarthritis characterized by a rheumatoid like pattern that can
+CC       involve hands, wrists, ankles, and feet; arthritis mutilans, which is a
+CC       rare but deforming and destructive condition; arthritis of the
+CC       sacroiliac joints and spine (psoriatic spondylitis).
+CC       {ECO:0000269|PubMed:10323458}. Note=Disease susceptibility is
+CC       associated with variants affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: Recognized by antibodies in the sera of some organ
+CC       transplant recipients and may be a target molecule in allograft
+CC       rejection. {ECO:0000269|PubMed:11053635}.
+CC   -!- MISCELLANEOUS: [Isoform 2]: Found in about 10% of examined clones.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the MHC class I family. MIC subfamily.
+CC       {ECO:0000255}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L14848; AAA21718.1; -; mRNA.
+DR   EMBL; X92841; CAA63427.1; -; Genomic_DNA.
+DR   EMBL; AL845443; CAI41907.1; -; Genomic_DNA.
+DR   EMBL; CR847852; CAQ11015.1; -; Genomic_DNA.
+DR   EMBL; BC016929; AAH16929.1; -; mRNA.
+DR   EMBL; BG114064; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; L29406; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; L29408; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; L29409; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; L29411; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; U56940; AAB41060.1; -; Genomic_DNA.
+DR   EMBL; U56941; AAB41061.1; -; Genomic_DNA.
+DR   EMBL; U56942; AAB41062.1; -; Genomic_DNA.
+DR   EMBL; U56943; AAB41063.1; -; Genomic_DNA.
+DR   EMBL; U56944; AAB41064.1; -; Genomic_DNA.
+DR   EMBL; U56945; AAB41065.1; -; Genomic_DNA.
+DR   EMBL; U56946; AAB41066.1; -; Genomic_DNA.
+DR   EMBL; U56947; AAB41067.1; -; Genomic_DNA.
+DR   EMBL; U56948; AAB41068.1; -; Genomic_DNA.
+DR   EMBL; U56949; AAB41069.1; -; Genomic_DNA.
+DR   EMBL; U56950; AAB41070.1; -; Genomic_DNA.
+DR   EMBL; U56951; AAB41071.1; -; Genomic_DNA.
+DR   EMBL; U56952; AAB41072.1; -; Genomic_DNA.
+DR   EMBL; U56953; AAB41073.1; -; Genomic_DNA.
+DR   EMBL; U56954; AAB41074.1; -; Genomic_DNA.
+DR   EMBL; U56955; AAB41075.1; -; Genomic_DNA.
+DR   EMBL; Y16801; CAA76393.1; -; Genomic_DNA.
+DR   EMBL; Y16802; CAA76394.1; -; Genomic_DNA.
+DR   EMBL; Y16803; CAA76395.1; -; Genomic_DNA.
+DR   EMBL; Y16804; CAA76396.1; -; Genomic_DNA.
+DR   EMBL; Y16805; CAA76397.1; -; Genomic_DNA.
+DR   EMBL; Y16806; CAA76398.1; -; Genomic_DNA.
+DR   EMBL; Y16807; CAA76399.1; -; Genomic_DNA.
+DR   EMBL; Y16808; CAA76400.1; -; Genomic_DNA.
+DR   EMBL; Y16809; CAA76401.1; -; Genomic_DNA.
+DR   EMBL; Y16810; CAA76402.1; -; Genomic_DNA.
+DR   EMBL; Y16811; CAA76403.1; -; Genomic_DNA.
+DR   EMBL; Y18110; CAA77029.1; -; Genomic_DNA.
+DR   EMBL; Y18111; CAA77030.1; -; Genomic_DNA.
+DR   EMBL; Y18112; CAA77031.1; -; Genomic_DNA.
+DR   EMBL; AF097403; AAD27006.1; -; Genomic_DNA.
+DR   EMBL; AF097404; AAD27007.1; -; Genomic_DNA.
+DR   EMBL; AF097405; AAD27008.1; -; Genomic_DNA.
+DR   EMBL; AF097406; AAD27009.1; -; Genomic_DNA.
+DR   EMBL; AB015600; BAA29034.1; -; Genomic_DNA.
+DR   EMBL; AJ563426; CAD91415.1; -; Genomic_DNA.
+DR   EMBL; AH007168; AAD01474.1; -; Genomic_DNA.
+DR   EMBL; AH007170; AAD01476.1; -; Genomic_DNA.
+DR   EMBL; AH007171; AAD01477.1; -; Genomic_DNA.
+DR   EMBL; AH007173; AAD01479.1; -; Genomic_DNA.
+DR   EMBL; AH007174; AAD01480.1; -; Genomic_DNA.
+DR   EMBL; AH007186; AAD01492.1; -; Genomic_DNA.
+DR   EMBL; AH007175; AAD01481.1; -; Genomic_DNA.
+DR   EMBL; AH007176; AAD01482.1; -; Genomic_DNA.
+DR   EMBL; AH007177; AAD01483.1; -; Genomic_DNA.
+DR   EMBL; AH007178; AAD01484.1; -; Genomic_DNA.
+DR   EMBL; AH007179; AAD01485.1; -; Genomic_DNA.
+DR   EMBL; AH007180; AAD01486.1; -; Genomic_DNA.
+DR   EMBL; AH007182; AAD01488.1; -; Genomic_DNA.
+DR   EMBL; AH007183; AAD01489.1; -; Genomic_DNA.
+DR   EMBL; AH007184; AAD01490.1; -; Genomic_DNA.
+DR   EMBL; AH007185; AAD01491.1; -; Genomic_DNA.
+DR   EMBL; AH008136; AAD52060.1; -; Genomic_DNA.
+DR   EMBL; AH008137; AAD52061.1; -; Genomic_DNA.
+DR   EMBL; AH008138; AAD52062.1; -; Genomic_DNA.
+DR   EMBL; AH008139; AAD52063.1; -; Genomic_DNA.
+DR   EMBL; AH008140; AAD52064.1; -; Genomic_DNA.
+DR   EMBL; AH008141; AAD52065.1; -; Genomic_DNA.
+DR   EMBL; AH008142; AAD52066.1; -; Genomic_DNA.
+DR   EMBL; AH008143; AAD52067.1; -; Genomic_DNA.
+DR   EMBL; AH008144; AAD52068.1; -; Genomic_DNA.
+DR   EMBL; AH008145; AAD52069.1; -; Genomic_DNA.
+DR   EMBL; AH008146; AAD52070.1; -; Genomic_DNA.
+DR   EMBL; AH008147; AAD52071.1; -; Genomic_DNA.
+DR   EMBL; AH008148; AAD52072.1; -; Genomic_DNA.
+DR   EMBL; AH007169; AAD01475.1; -; Genomic_DNA.
+DR   EMBL; AH007172; AAD01478.1; -; Genomic_DNA.
+DR   EMBL; AH007167; AAD01473.1; -; Genomic_DNA.
+DR   EMBL; AH007181; AAD01487.1; -; Genomic_DNA.
+DR   EMBL; AH010819; AAK58536.1; -; Genomic_DNA.
+DR   EMBL; AH011143; AAL13171.1; -; Genomic_DNA.
+DR   EMBL; AH010820; AAK58537.1; -; Genomic_DNA.
+DR   EMBL; AH010821; AAK58538.1; -; Genomic_DNA.
+DR   EMBL; AH010545; AAK19622.1; -; Genomic_DNA.
+DR   EMBL; AH010526; AAK17997.1; -; Genomic_DNA.
+DR   EMBL; AH010568; AAK25770.1; -; Genomic_DNA.
+DR   EMBL; AH010569; AAK25771.1; -; Genomic_DNA.
+DR   EMBL; AH010532; AAK18281.1; -; Genomic_DNA.
+DR   EMBL; AH010546; AAK19623.1; -; Genomic_DNA.
+DR   EMBL; AH010560; AAK20897.1; -; Genomic_DNA.
+DR   EMBL; AH010561; AAK20898.1; -; Genomic_DNA.
+DR   EMBL; AH010587; AAK27364.1; -; Genomic_DNA.
+DR   EMBL; AH010562; AAK20899.1; -; Genomic_DNA.
+DR   EMBL; AH010571; AAK26323.1; -; Genomic_DNA.
+DR   EMBL; AH010572; AAK26324.1; -; Genomic_DNA.
+DR   EMBL; AH010740; AAK51140.1; -; Genomic_DNA.
+DR   EMBL; AJ250499; CAC14280.1; -; Genomic_DNA.
+DR   EMBL; AJ250500; CAC14281.1; -; Genomic_DNA.
+DR   EMBL; AJ250501; CAC14282.1; -; Genomic_DNA.
+DR   EMBL; AJ250502; CAC14283.1; -; Genomic_DNA.
+DR   EMBL; AJ250503; CAC14284.1; -; Genomic_DNA.
+DR   EMBL; AJ250504; CAC14285.1; -; Genomic_DNA.
+DR   EMBL; AJ250505; CAC14286.1; -; Genomic_DNA.
+DR   EMBL; AJ250506; CAC14287.1; -; Genomic_DNA.
+DR   EMBL; AJ250507; CAC14288.1; -; Genomic_DNA.
+DR   EMBL; AJ250802; CAC15380.1; -; Genomic_DNA.
+DR   EMBL; AJ250803; CAC15381.1; -; Genomic_DNA.
+DR   EMBL; AJ250804; CAC15382.1; -; Genomic_DNA.
+DR   EMBL; AJ250805; CAC15383.1; -; Genomic_DNA.
+DR   EMBL; AJ250990; CAC16142.1; -; Genomic_DNA.
+DR   EMBL; AJ250991; CAC16143.1; -; Genomic_DNA.
+DR   EMBL; AJ271789; CAC27561.1; -; Genomic_DNA.
+DR   EMBL; AY603357; AAV39504.1; -; Genomic_DNA.
+DR   EMBL; AJ249394; CAB71317.1; -; Genomic_DNA.
+DR   EMBL; AJ295250; CAC88121.1; -; Genomic_DNA.
+DR   EMBL; AJ295251; CAC88121.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ580805; CAE45581.1; -; Genomic_DNA.
+DR   EMBL; AJ580806; CAE45582.2; -; Genomic_DNA.
+DR   EMBL; AH014149; AAU95382.1; -; Genomic_DNA.
+DR   EMBL; AM899996; CAP12057.1; -; Genomic_DNA.
+DR   EMBL; EU254723; ABX54884.1; -; Genomic_DNA.
+DR   EMBL; AM944063; CAQ16171.1; -; Genomic_DNA.
+DR   EMBL; AH006330; AAC28941.1; -; Genomic_DNA.
+DR   EMBL; AH006331; AAC28942.1; -; Genomic_DNA.
+DR   EMBL; AH006332; AAC28943.1; -; Genomic_DNA.
+DR   EMBL; AH006333; AAC28944.1; -; Genomic_DNA.
+DR   EMBL; AH006334; AAC28945.1; -; Genomic_DNA.
+DR   EMBL; AH007472; AAD19598.1; -; Genomic_DNA.
+DR   EMBL; AH007473; AAD19599.1; -; Genomic_DNA.
+DR   EMBL; AH007474; AAD19600.1; -; Genomic_DNA.
+DR   EMBL; AH007475; AAD19601.1; -; Genomic_DNA.
+DR   EMBL; AH007476; AAD19602.1; -; Genomic_DNA.
+DR   EMBL; AH007477; AAD19603.1; -; Genomic_DNA.
+DR   EMBL; AF106652; AAD19604.1; -; Genomic_DNA.
+DR   EMBL; AF106650; AAD19604.1; JOINED; Genomic_DNA.
+DR   EMBL; AF106651; AAD19604.1; JOINED; Genomic_DNA.
+DR   EMBL; AH007479; AAD19605.1; -; Genomic_DNA.
+DR   EMBL; EU267602; ABX60404.1; -; Genomic_DNA.
+DR   EMBL; AY095537; AAM34484.1; -; Genomic_DNA.
+DR   PIR; A55739; A55739.
+DR   RefSeq; NP_000238.1; NM_000247.2. [Q29983-1]
+DR   PDB; 1B3J; X-ray; 3.00 A; A=24-297.
+DR   PDB; 1HYR; X-ray; 2.70 A; C=24-297.
+DR   PDB; 7FI5; X-ray; 2.39 A; C=24-297.
+DR   PDB; 7FI6; X-ray; 2.90 A; C=24-297.
+DR   PDB; 7FI7; X-ray; 2.78 A; C=24-297.
+DR   PDB; 7FI8; X-ray; 2.80 A; C=24-297.
+DR   PDB; 7FI9; X-ray; 2.16 A; C=24-297.
+DR   PDBsum; 1B3J; -.
+DR   PDBsum; 1HYR; -.
+DR   PDBsum; 7FI5; -.
+DR   PDBsum; 7FI6; -.
+DR   PDBsum; 7FI7; -.
+DR   PDBsum; 7FI8; -.
+DR   PDBsum; 7FI9; -.
+DR   AlphaFoldDB; Q29983; -.
+DR   SMR; Q29983; -.
+DR   BioGRID; 319735; 109.
+DR   CORUM; Q29983; -.
+DR   DIP; DIP-29681N; -.
+DR   IntAct; Q29983; 33.
+DR   MINT; Q29983; -.
+DR   STRING; 9606.ENSP00000413079; -.
+DR   GlyConnect; 1510; 2 N-Linked glycans (2 sites).
+DR   GlyCosmos; Q29983; 6 sites, 2 glycans.
+DR   GlyGen; Q29983; 6 sites, 2 N-linked glycans (2 sites).
+DR   iPTMnet; Q29983; -.
+DR   PhosphoSitePlus; Q29983; -.
+DR   SwissPalm; Q29983; -.
+DR   BioMuta; MICA; -.
+DR   DMDM; 74740024; -.
+DR   EPD; Q29983; -.
+DR   jPOST; Q29983; -.
+DR   MassIVE; Q29983; -.
+DR   MaxQB; Q29983; -.
+DR   PeptideAtlas; Q29983; -.
+DR   ProteomicsDB; 61284; -. [Q29983-1]
+DR   DNASU; 100507436; -.
+DR   Ensembl; ENST00000400325.5; ENSP00000383179.1; ENSG00000183214.12. [Q29983-1]
+DR   Ensembl; ENST00000418465.5; ENSP00000402134.1; ENSG00000235233.9.
+DR   Ensembl; ENST00000547609.2; ENSP00000446963.1; ENSG00000183214.12. [Q29983-1]
+DR   GeneID; 100507436; -.
+DR   KEGG; hsa:100507436; -.
+DR   UCSC; uc011ind.3; human. [Q29983-1]
+DR   AGR; HGNC:7090; -.
+DR   CTD; 100507436; -.
+DR   DisGeNET; 100507436; -.
+DR   GeneCards; MICA; -.
+DR   HGNC; HGNC:7090; MICA.
+DR   MIM; 177900; phenotype.
+DR   MIM; 600169; gene.
+DR   MIM; 607507; phenotype.
+DR   neXtProt; NX_Q29983; -.
+DR   PharmGKB; PA30811; -.
+DR   eggNOG; ENOG502RU00; Eukaryota.
+DR   InParanoid; Q29983; -.
+DR   OrthoDB; 3840485at2759; -.
+DR   PhylomeDB; Q29983; -.
+DR   PathwayCommons; Q29983; -.
+DR   Reactome; R-HSA-198933; Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell.
+DR   SignaLink; Q29983; -.
+DR   BioGRID-ORCS; 100507436; 4 hits in 1115 CRISPR screens.
+DR   ChiTaRS; MICA; human.
+DR   EvolutionaryTrace; Q29983; -.
+DR   GeneWiki; MHC_class_I_polypeptide-related_sequence_A; -.
+DR   GenomeRNAi; 100507436; -.
+DR   Pharos; Q29983; Tbio.
+DR   PRO; PR:Q29983; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q29983; protein.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0009897; C:external side of plasma membrane; IBA:GO_Central.
+DR   GO; GO:0005615; C:extracellular space; IDA:BHF-UCL.
+DR   GO; GO:0005886; C:plasma membrane; IDA:BHF-UCL.
+DR   GO; GO:0046703; F:natural killer cell lectin-like receptor binding; IDA:UniProtKB.
+DR   GO; GO:0042605; F:peptide antigen binding; IBA:GO_Central.
+DR   GO; GO:0005102; F:signaling receptor binding; IBA:GO_Central.
+DR   GO; GO:0002486; P:antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent; IBA:GO_Central.
+DR   GO; GO:0002476; P:antigen processing and presentation of endogenous peptide antigen via MHC class Ib; IBA:GO_Central.
+DR   GO; GO:0042742; P:defense response to bacterium; IDA:UniProtKB.
+DR   GO; GO:0051607; P:defense response to virus; IDA:UniProtKB.
+DR   GO; GO:0006974; P:DNA damage response; IDA:UniProtKB.
+DR   GO; GO:0046629; P:gamma-delta T cell activation; IDA:UniProtKB.
+DR   GO; GO:0006955; P:immune response; IBA:GO_Central.
+DR   GO; GO:0002418; P:immune response to tumor cell; IDA:UniProtKB.
+DR   GO; GO:0031640; P:killing of cells of another organism; IEA:UniProtKB-KW.
+DR   GO; GO:0042267; P:natural killer cell mediated cytotoxicity; IDA:UniProtKB.
+DR   GO; GO:0032815; P:negative regulation of natural killer cell activation; IDA:CACAO.
+DR   GO; GO:0045953; P:negative regulation of natural killer cell mediated cytotoxicity; IMP:CACAO.
+DR   GO; GO:0001916; P:positive regulation of T cell mediated cytotoxicity; IBA:GO_Central.
+DR   GO; GO:0009408; P:response to heat; IDA:UniProtKB.
+DR   GO; GO:0001913; P:T cell mediated cytotoxicity; IDA:UniProtKB.
+DR   CDD; cd21017; IgC1_MHC_Ia_MIC-A_MIC-B; 1.
+DR   DisProt; DP00670; -.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   Gene3D; 3.30.500.10; MHC class I-like antigen recognition-like; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR011161; MHC_I-like_Ag-recog.
+DR   InterPro; IPR037055; MHC_I-like_Ag-recog_sf.
+DR   InterPro; IPR011162; MHC_I/II-like_Ag-recog.
+DR   PANTHER; PTHR16675:SF154; MHC CLASS I POLYPEPTIDE-RELATED SEQUENCE A-RELATED; 1.
+DR   PANTHER; PTHR16675; MHC CLASS I-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00129; MHC_I; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF54452; MHC antigen-recognition domain; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Adaptive immunity; Alternative splicing; Cell membrane;
+KW   Cytolysis; Cytoplasm; Disulfide bond; Glycoprotein; Host-virus interaction;
+KW   Immunity; Immunoglobulin domain; Membrane; Reference proteome; Signal;
+KW   Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..23
+FT   CHAIN           24..383
+FT                   /note="MHC class I polypeptide-related sequence A"
+FT                   /evidence="ECO:0000255"
+FT                   /id="PRO_0000337146"
+FT   TOPO_DOM        24..307
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        308..328
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        329..383
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          207..296
+FT                   /note="Ig-like C1-type"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        31
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        79
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        210
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        220
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        261
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        59..64
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:10367903"
+FT   DISULFID        119..187
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:10367903"
+FT   DISULFID        225..282
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:10367903"
+FT   VAR_SEQ         109..204
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_055366"
+FT   VARIANT         29
+FT                   /note="R -> P (in allele MICA*010, allele MICA*025 and
+FT                   allele MICA*054; abolishes cell surface expression,
+FT                   probably by interfering with protein folding;
+FT                   dbSNP:rs9380254)"
+FT                   /evidence="ECO:0000269|PubMed:10752636"
+FT                   /id="VAR_043625"
+FT   VARIANT         37
+FT                   /note="W -> G (in allele MICA*002, allele MICA*011, allele
+FT                   MICA*013, allele MICA*014, allele MICA*015, allele
+FT                   MICA*017, allele MICA*020, allele MICA*022, allele
+FT                   MICA*023, allele MICA*030, allele MICA*034, allele
+FT                   MICA*035, allele MICA*036, allele MICA*041, allele
+FT                   MICA*044, allele MICA*046, allele MICA*047, allele
+FT                   MICA*052, allele MICA*053 and allele MICA*055;
+FT                   dbSNP:rs1063630)"
+FT                   /id="VAR_043626"
+FT   VARIANT         47
+FT                   /note="T -> A (in allele MICA*002, allele MICA*004, allele
+FT                   MICA*005, allele MICA*006, allele MICA*007, allele
+FT                   MICA*008, allele MICA*009, allele MICA*010, allele
+FT                   MICA*011, allele MICA*013, allele MICA*014, allele
+FT                   MICA*015, allele MICA*016, allele MICA*017, allele
+FT                   MICA*019, allele MICA*020, allele MICA*022, allele
+FT                   MICA*023, allele MICA*024, allele MICA*025, allele
+FT                   MICA*026, allele MICA*027, allele MICA*028, allele
+FT                   MICA*029, allele MICA*030, allele MICA*031, allele
+FT                   MICA*032, allele MICA*033, allele MICA*034, allele
+FT                   MICA*035, allele MICA*036, allele MICA*037, allele
+FT                   MICA*038, allele MICA*039, allele MICA*040, allele
+FT                   MICA*041, allele MICA*042, allele MICA*043, allele
+FT                   MICA*044, allele MICA*045, allele MICA*046, allele
+FT                   MICA*047, allele MICA*048, allele MICA*049, allele
+FT                   MICA*051, allele MICA*052, allele MICA*053, allele
+FT                   MICA*054, allele MICA*055 and allele MICA*056;
+FT                   dbSNP:rs1051785)"
+FT                   /id="VAR_043627"
+FT   VARIANT         49
+FT                   /note="V -> G (in allele MICA*041; dbSNP:rs17200158)"
+FT                   /id="VAR_043628"
+FT   VARIANT         59
+FT                   /note="C -> Y (in allele MICA*004, allele MICA*005, allele
+FT                   MICA*006, allele MICA*008, allele MICA*009, allele
+FT                   MICA*010, allele MICA*016, allele MICA*019, allele
+FT                   MICA*024, allele MICA*025, allele MICA*027, allele
+FT                   MICA*028, allele MICA*031, allele MICA*032, allele
+FT                   MICA*033, allele MICA*042, allele MICA*044, allele
+FT                   MICA*048, allele MICA*049, allele MICA*051, allele MICA*054
+FT                   and allele MICA*056; dbSNP:rs1051786)"
+FT                   /id="VAR_043629"
+FT   VARIANT         114
+FT                   /note="Q -> R (in allele MICA*017; dbSNP:rs41558312)"
+FT                   /id="VAR_043630"
+FT   VARIANT         128
+FT                   /note="R -> K (in allele MICA*036; dbSNP:rs41557113)"
+FT                   /id="VAR_043631"
+FT   VARIANT         137
+FT                   /note="G -> R (in allele MICA*014 and allele MICA*015;
+FT                   dbSNP:rs41556715)"
+FT                   /id="VAR_043632"
+FT   VARIANT         145
+FT                   /note="L -> V (in allele MICA*004, allele MICA*006, allele
+FT                   MICA*009, allele MICA*044 and allele MICA*049;
+FT                   dbSNP:rs1051790)"
+FT                   /id="VAR_043633"
+FT   VARIANT         147
+FT                   /note="T -> S (in allele MICA*033; dbSNP:rs41539919)"
+FT                   /id="VAR_043634"
+FT   VARIANT         148
+FT                   /note="K -> E (in allele MICA*002, allele MICA*004, allele
+FT                   MICA*005, allele MICA*006, allele MICA*007, allele
+FT                   MICA*008, allele MICA*009, allele MICA*010, allele
+FT                   MICA*011, allele MICA*012, allele MICA*013, allele
+FT                   MICA*014, allele MICA*015, allele MICA*016, allele
+FT                   MICA*017, allele MICA*018, allele MICA*019, allele
+FT                   MICA*020, allele MICA*022, allele MICA*023, allele
+FT                   MICA*024, allele MICA*025, allele MICA*026, allele
+FT                   MICA*027, allele MICA*028, allele MICA*029, allele
+FT                   MICA*030, allele MICA*032, allele MICA*033, allele
+FT                   MICA*034, allele MICA*035, allele MICA*036, allele
+FT                   MICA*037, allele MICA*038, allele MICA*039, allele
+FT                   MICA*041, allele MICA*042, allele MICA*043, allele
+FT                   MICA*044, allele MICA*045, allele MICA*046, allele
+FT                   MICA*047, allele MICA*048, allele MICA*049, allele
+FT                   MICA*051, allele MICA*052, allele MICA*053, allele
+FT                   MICA*054, allele MICA*055 and allele MICA*056;
+FT                   dbSNP:rs1051791)"
+FT                   /id="VAR_043635"
+FT   VARIANT         152
+FT                   /note="M -> V (in allele MICA*004, allele MICA*005, allele
+FT                   MICA*006, allele MICA*008, allele MICA*009, allele
+FT                   MICA*010, allele MICA*013, allele MICA*016, allele
+FT                   MICA*019, allele MICA*022, allele MICA*024, allele
+FT                   MICA*027, allele MICA*028, allele MICA*033, allele
+FT                   MICA*044, allele MICA*048, allele MICA*049, allele
+FT                   MICA*053, allele MICA*054 and allele MICA*056; reduces
+FT                   binding affinity for KLRK1; dbSNP:rs1051792)"
+FT                   /id="VAR_043636"
+FT   VARIANT         165
+FT                   /note="V -> I (in allele MICA*029; dbSNP:rs3819269)"
+FT                   /id="VAR_043637"
+FT   VARIANT         174
+FT                   /note="M -> V (in allele MICA*011 and allele MICA*034;
+FT                   dbSNP:rs41560824)"
+FT                   /id="VAR_043638"
+FT   VARIANT         179
+FT                   /note="H -> L (in allele MICA*012, allele MICA*032 and
+FT                   allele MICA*043; dbSNP:rs3819268)"
+FT                   /id="VAR_043639"
+FT   VARIANT         196
+FT                   /note="K -> E (in allele MICA*004, allele MICA*006, allele
+FT                   MICA*008, allele MICA*009, allele MICA*010, allele
+FT                   MICA*013, allele MICA*014, allele MICA*016, allele
+FT                   MICA*019, allele MICA*022, allele MICA*024, allele
+FT                   MICA*027, allele MICA*028, allele MICA*033, allele
+FT                   MICA*036, allele MICA*044, allele MICA*048, allele
+FT                   MICA*049, allele MICA*053, allele MICA*054 and allele
+FT                   MICA*056; dbSNP:rs1051794)"
+FT                   /id="VAR_043640"
+FT   VARIANT         198
+FT                   /note="G -> S (in allele MICA*004, allele MICA*006, allele
+FT                   MICA*009, allele MICA*010, allele MICA*016, allele
+FT                   MICA*019, allele MICA*031, allele MICA*033, allele
+FT                   MICA*036, allele MICA*044, allele MICA*049, allele MICA*054
+FT                   and allele MICA*056; dbSNP:rs1131896)"
+FT                   /id="VAR_043641"
+FT   VARIANT         199
+FT                   /note="V -> I (in allele MICA*006; dbSNP:rs41549718)"
+FT                   /id="VAR_043642"
+FT   VARIANT         204
+FT                   /note="T -> R (in allele MICA*004, allele MICA*014, allele
+FT                   MICA*032 and allele MICA*044; dbSNP:rs1131897)"
+FT                   /id="VAR_043643"
+FT   VARIANT         229
+FT                   /note="G -> S (in allele MICA*004, allele MICA*005, allele
+FT                   MICA*006, allele MICA*008, allele MICA*009, allele
+FT                   MICA*010, allele MICA*016, allele MICA*019, allele
+FT                   MICA*022, allele MICA*024, allele MICA*027, allele
+FT                   MICA*033, allele MICA*034, allele MICA*035, allele
+FT                   MICA*037, allele MICA*038, allele MICA*039, allele
+FT                   MICA*042, allele MICA*044, allele MICA*048, allele
+FT                   MICA*049, allele MICA*053, allele MICA*054 and allele
+FT                   MICA*056; dbSNP:rs1131898)"
+FT                   /id="VAR_043644"
+FT   VARIANT         231
+FT                   /note="Y -> C (in allele MICA*046; dbSNP:rs41546915)"
+FT                   /id="VAR_043645"
+FT   VARIANT         233
+FT                   /note="W -> R (in allele MICA*004, allele MICA*005, allele
+FT                   MICA*006, allele MICA*008, allele MICA*009, allele
+FT                   MICA*010, allele MICA*016, allele MICA*019, allele
+FT                   MICA*022, allele MICA*024, allele MICA*027, allele
+FT                   MICA*033, allele MICA*034, allele MICA*035, allele
+FT                   MICA*037, allele MICA*038, allele MICA*039, allele
+FT                   MICA*042, allele MICA*044, allele MICA*048, allele
+FT                   MICA*049, allele MICA*053, allele MICA*054 and allele
+FT                   MICA*056; dbSNP:rs1051798)"
+FT                   /id="VAR_043646"
+FT   VARIANT         236
+FT                   /note="T -> I (in allele MICA*008, allele MICA*010, allele
+FT                   MICA*016, allele MICA*019, allele MICA*022, allele
+FT                   MICA*027, allele MICA*033, allele MICA*035, allele
+FT                   MICA*037, allele MICA*039, allele MICA*042, allele
+FT                   MICA*048, allele MICA*053, allele MICA*054 and allele
+FT                   MICA*056; dbSNP:rs1140700)"
+FT                   /id="VAR_043647"
+FT   VARIANT         238
+FT                   /note="S -> T (in allele MICA*004, allele MICA*006, allele
+FT                   MICA*008, allele MICA*009, allele MICA*010, allele
+FT                   MICA*016, allele MICA*019, allele MICA*022, allele
+FT                   MICA*024, allele MICA*027, allele MICA*033, allele
+FT                   MICA*034, allele MICA*035, allele MICA*037, allele
+FT                   MICA*038, allele MICA*039, allele MICA*042, allele
+FT                   MICA*044, allele MICA*048, allele MICA*049, allele
+FT                   MICA*053, allele MICA*054 and allele MICA*056;
+FT                   dbSNP:rs1051799)"
+FT                   /id="VAR_043648"
+FT   VARIANT         244
+FT                   /note="V -> L (in allele MICA*016 and allele MICA*039;
+FT                   dbSNP:rs41540613)"
+FT                   /id="VAR_043649"
+FT   VARIANT         253
+FT                   /note="W -> S (in allele MICA*056; dbSNP:rs72558175)"
+FT                   /id="VAR_043869"
+FT   VARIANT         274
+FT                   /note="Q -> R (in allele MICA*005, allele MICA*008, allele
+FT                   MICA*010, allele MICA*013, allele MICA*016, allele
+FT                   MICA*019, allele MICA*022, allele MICA*027, allele
+FT                   MICA*033, allele MICA*035, allele MICA*037, allele
+FT                   MICA*039, allele MICA*042, allele MICA*045, allele
+FT                   MICA*048, allele MICA*053, allele MICA*054 and allele
+FT                   MICA*056; dbSNP:rs1063635)"
+FT                   /id="VAR_043650"
+FT   VARIANT         279
+FT                   /note="R -> S (in allele MICA*043; dbSNP:rs41557614)"
+FT                   /id="VAR_043651"
+FT   VARIANT         291
+FT                   /note="S -> G (in allele MICA*054; dbSNP:rs61759927)"
+FT                   /id="VAR_043652"
+FT   VARIANT         294
+FT                   /note="P -> A (in allele MICA*011, allele MICA*030 and
+FT                   allele MICA*047; dbSNP:rs41553616)"
+FT                   /id="VAR_043653"
+FT   VARIANT         300..383
+FT                   /note="VLVLQSHWQTFHVSAVAAAAIFVIIIFYVRCCKKKTSAAEGPELVSLQVLDQ
+FT                   HPVGTSDHRDATQLGFQPLMSDLGSTGSTEGA -> CWCFRVIGRHSMFLLLLLLLLLL
+FT                   LLFLLLLFSTSVVVRRKHQLQRVQSS (in allele MICA*015 and allele
+FT                   MICA*017)"
+FT                   /id="VAR_043654"
+FT   VARIANT         318..383
+FT                   /note="AAIFVIIIFYVRCCKKKTSAAEGPELVSLQVLDQHPVGTSDHRDATQLGFQP
+FT                   LMSDLGSTGSTEGA -> GCCYFCYYYFLCPLL (in allele MICA*008,
+FT                   allele MICA*023, allele MICA*028 and allele MICA*053)"
+FT                   /id="VAR_043655"
+FT   VARIANT         319
+FT                   /note="A -> AA (in allele MICA*010, allele MICA*016, allele
+FT                   MICA*019, allele MICA*027, allele MICA*033, allele
+FT                   MICA*048, allele MICA*054 and allele MICA*056)"
+FT                   /id="VAR_043656"
+FT   VARIANT         319
+FT                   /note="A -> AAA (in allele MICA*004, allele MICA*006,
+FT                   allele MICA*009, allele MICA*011, allele MICA*026, allele
+FT                   MICA*047 and allele MICA*049)"
+FT                   /id="VAR_043657"
+FT   VARIANT         319
+FT                   /note="A -> AAAA (in allele MICA*050)"
+FT                   /id="VAR_043658"
+FT   VARIANT         319
+FT                   /note="A -> AAAAA (in allele MICA*055)"
+FT                   /id="VAR_043659"
+FT   VARIANT         319
+FT                   /note="A -> AAAAAA (in allele MICA*002, allele MICA*041,
+FT                   allele MICA*046 and allele MICA*052)"
+FT                   /id="VAR_043660"
+FT   VARIANT         319
+FT                   /note="A -> AAAAAAA (in allele MICA*020)"
+FT                   /id="VAR_043661"
+FT   VARIANT         328
+FT                   /note="V -> I (in allele MICA*052; dbSNP:rs72558178)"
+FT                   /id="VAR_043662"
+FT   VARIANT         329
+FT                   /note="R -> C (in allele MICA*002, allele MICA*011, allele
+FT                   MICA*020, allele MICA*041, allele MICA*043, allele
+FT                   MICA*046, allele MICA*047, allele MICA*050 and allele
+FT                   MICA*052; dbSNP:rs41554412)"
+FT                   /id="VAR_043663"
+FT   VARIANT         356
+FT                   /note="T -> M (in allele MICA*049; dbSNP:rs41546114)"
+FT                   /id="VAR_043664"
+FT   VARIANT         373
+FT                   /note="D -> A (in allele MICA*004, allele MICA*006, allele
+FT                   MICA*010, allele MICA*011, allele MICA*016, allele
+FT                   MICA*019, allele MICA*048 and allele MICA*049;
+FT                   dbSNP:rs9266825)"
+FT                   /id="VAR_043665"
+FT   VARIANT         377
+FT                   /note="T -> A (in allele MICA*011; dbSNP:rs41545814)"
+FT                   /id="VAR_043666"
+FT   VARIANT         383
+FT                   /note="A -> T (in allele MICA*018; dbSNP:rs1882)"
+FT                   /id="VAR_043667"
+FT   STRAND          26..37
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          46..51
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          54..60
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          63..65
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          71..75
+FT                   /evidence="ECO:0007829|PDB:1HYR"
+FT   HELIX           79..81
+FT                   /evidence="ECO:0007829|PDB:1HYR"
+FT   HELIX           83..86
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   TURN            87..90
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   HELIX           91..101
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          109..121
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          127..135
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          138..144
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   TURN            145..148
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          149..151
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   HELIX           156..171
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   HELIX           177..197
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   TURN            198..200
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          208..214
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   HELIX           217..219
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          220..233
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          236..241
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   HELIX           248..250
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          251..253
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          260..262
+FT                   /evidence="ECO:0007829|PDB:7FI5"
+FT   STRAND          264..273
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   HELIX           277..279
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          280..286
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+FT   STRAND          289..294
+FT                   /evidence="ECO:0007829|PDB:7FI9"
+SQ   SEQUENCE   383 AA;  42915 MW;  1FE084813DDA13A8 CRC64;
+     MGLGPVFLLL AGIFPFAPPG AAAEPHSLRY NLTVLSWDGS VQSGFLTEVH LDGQPFLRCD
+     RQKCRAKPQG QWAEDVLGNK TWDRETRDLT GNGKDLRMTL AHIKDQKEGL HSLQEIRVCE
+     IHEDNSTRSS QHFYYDGELF LSQNLETKEW TMPQSSRAQT LAMNVRNFLK EDAMKTKTHY
+     HAMHADCLQE LRRYLKSGVV LRRTVPPMVN VTRSEASEGN ITVTCRASGF YPWNITLSWR
+     QDGVSLSHDT QQWGDVLPDG NGTYQTWVAT RICQGEEQRF TCYMEHSGNH STHPVPSGKV
+     LVLQSHWQTF HVSAVAAAAI FVIIIFYVRC CKKKTSAAEG PELVSLQVLD QHPVGTSDHR
+     DATQLGFQPL MSDLGSTGST EGA
+//

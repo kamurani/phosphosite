@@ -1,0 +1,561 @@
+ID   ORC3_HUMAN              Reviewed;         711 AA.
+AC   Q9UBD5; A2A2T5; B4E025; Q13565; Q53GY6; Q5T159; Q6IUY7; Q86TN5; Q9UG44;
+AC   Q9UNT6;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   28-JUN-2023, entry version 182.
+DE   RecName: Full=Origin recognition complex subunit 3;
+DE   AltName: Full=Origin recognition complex subunit Latheo;
+GN   Name=ORC3; Synonyms=LATHEO, ORC3L;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Tugal T., Zou-Yang X.H., Gavin K., Pappin D., Canas B., Kobayashi R.,
+RA   Hunt T., Stillman B.;
+RL   Submitted (MAR-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Dean F.B., O'Donnell M.;
+RT   "cDNA cloning of a homolog for Saccharomyces cerevisiae ORC3 from Homo
+RT   sapiens.";
+RL   Submitted (FEB-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=10402192; DOI=10.1016/s0896-6273(00)80752-7;
+RA   Pinto S., Quintana D.G., Smith P., Mihalek R.M., Hou Z.-H., Boynton S.,
+RA   Jones C.J., Handricks M., Velinzon K., Wohlschlegel J.A., Austin R.J.,
+RA   Lane W.S., Dutta A., Tully T.;
+RT   "Latheo encodes a subunit of the origin recognition complex and disrupts
+RT   neuronal proliferation and adult olfactory memory when mutant.";
+RL   Neuron 23:45-54(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Liver;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3).
+RC   TISSUE=Thymus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS LYS-94; ARG-126; ILE-217;
+RP   VAL-247 AND THR-626.
+RG   NIEHS SNPs program;
+RL   Submitted (MAY-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 1-671 (ISOFORM 2).
+RC   TISSUE=Testis, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 156-542 (ISOFORM 1).
+RC   TISSUE=Brain;
+RA   Mihalek R., Homanics G.E.;
+RL   Submitted (MAR-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [11]
+RP   IDENTIFICATION IN THE ORC COMPLEX, IDENTIFICATION BY MASS SPECTROMETRY, AND
+RP   ASSEMBLY OF THE ORC COMPLEX.
+RX   PubMed=12909626; DOI=10.1074/jbc.m307535200;
+RA   Ohta S., Tatsumi Y., Fujita M., Tsurimoto T., Obuse C.;
+RT   "The ORC1 cycle in human cells: II. Dynamic changes in the human ORC
+RT   complex during the cell cycle.";
+RL   J. Biol. Chem. 278:41535-41540(2003).
+RN   [12]
+RP   RECONSTITUTION OF THE ORC COMPLEX, AND DISASSEMBLY OF THE ORC COMPLEX.
+RX   PubMed=17716973; DOI=10.1074/jbc.m705905200;
+RA   Siddiqui K., Stillman B.;
+RT   "ATP-dependent assembly of the human origin recognition complex.";
+RL   J. Biol. Chem. 282:32370-32383(2007).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-516, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-23, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [16]
+RP   FUNCTION, AND BINDING TO HISTONE H3 AND H4 TRIMETHYLATION MARKS.
+RX   PubMed=22427655; DOI=10.1074/jbc.m111.337980;
+RA   Chan K.M., Zhang Z.;
+RT   "Leucine-rich repeat and WD repeat-containing protein 1 is recruited to
+RT   pericentric heterochromatin by trimethylated lysine 9 of histone H3 and
+RT   maintains heterochromatin silencing.";
+RL   J. Biol. Chem. 287:15024-15033(2012).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-23, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [18]
+RP   FUNCTION, UBIQUITINATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=31160578; DOI=10.1038/s41467-019-10321-x;
+RA   Coulombe P., Nassar J., Peiffer I., Stanojcic S., Sterkers Y.,
+RA   Delamarre A., Bocquet S., Mechali M.;
+RT   "The ORC ubiquitin ligase OBI1 promotes DNA replication origin firing.";
+RL   Nat. Commun. 10:2426-2426(2019).
+CC   -!- FUNCTION: Component of the origin recognition complex (ORC) that binds
+CC       origins of replication. DNA-binding is ATP-dependent. The specific DNA
+CC       sequences that define origins of replication have not been identified
+CC       yet. ORC is required to assemble the pre-replication complex necessary
+CC       to initiate DNA replication. Binds histone H3 and H4 trimethylation
+CC       marks H3K9me3, H3K27me3 and H4K20me3. {ECO:0000269|PubMed:22427655,
+CC       ECO:0000269|PubMed:31160578}.
+CC   -!- SUBUNIT: Component of ORC, a complex composed of at least 6 subunits:
+CC       ORC1, ORC2, ORC3, ORC4, ORC5 and ORC6. ORC is regulated in a cell-cycle
+CC       dependent manner. It is sequentially assembled at the exit from
+CC       anaphase of mitosis and disassembled as cells enter S phase.
+CC       {ECO:0000269|PubMed:12909626}.
+CC   -!- INTERACTION:
+CC       Q9UBD5; Q13415: ORC1; NbExp=16; IntAct=EBI-374916, EBI-374847;
+CC       Q9UBD5; Q13416: ORC2; NbExp=28; IntAct=EBI-374916, EBI-374957;
+CC       Q9UBD5; O43929: ORC4; NbExp=12; IntAct=EBI-374916, EBI-374889;
+CC       Q9UBD5; O43913: ORC5; NbExp=15; IntAct=EBI-374916, EBI-374928;
+CC       Q9UBD5; Q9Y5N6: ORC6; NbExp=4; IntAct=EBI-374916, EBI-374840;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:31160578}. Chromosome
+CC       {ECO:0000269|PubMed:31160578}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q9UBD5-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9UBD5-2; Sequence=VSP_017129;
+CC       Name=3;
+CC         IsoId=Q9UBD5-3; Sequence=VSP_044893;
+CC   -!- PTM: Multi-mono-ubiquitinated by OBI1; ubiquitination is important for
+CC       efficient DNA replication origin site activation. Ubiquitination levels
+CC       are low in mitotic and early G1-phAse cells and are induced in late
+CC       G1-/early S-phase, peaking in S-phase and decrease toward the end of
+CC       the cell cycle. {ECO:0000269|PubMed:31160578}.
+CC   -!- SIMILARITY: Belongs to the ORC3 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/orc3l/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF135044; AAD30282.1; -; mRNA.
+DR   EMBL; AF125507; AAD18057.1; -; mRNA.
+DR   EMBL; AF093535; AAD40220.1; -; mRNA.
+DR   EMBL; AL080116; CAB45715.1; -; mRNA.
+DR   EMBL; AK222795; BAD96515.1; -; mRNA.
+DR   EMBL; AK303195; BAG64287.1; -; mRNA.
+DR   EMBL; AK315911; BAH14282.1; -; mRNA.
+DR   EMBL; AY623113; AAT38109.1; -; Genomic_DNA.
+DR   EMBL; AL451126; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL133211; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC035494; AAH35494.1; -; mRNA.
+DR   EMBL; BC047689; AAH47689.1; ALT_TERM; mRNA.
+DR   EMBL; U50950; AAA96313.1; -; mRNA.
+DR   CCDS; CCDS43486.1; -. [Q9UBD5-1]
+DR   CCDS; CCDS5012.1; -. [Q9UBD5-2]
+DR   CCDS; CCDS56440.1; -. [Q9UBD5-3]
+DR   PIR; T12452; T12452.
+DR   RefSeq; NP_001184188.1; NM_001197259.1. [Q9UBD5-3]
+DR   RefSeq; NP_036513.2; NM_012381.3. [Q9UBD5-1]
+DR   RefSeq; NP_862820.1; NM_181837.2. [Q9UBD5-2]
+DR   PDB; 5UJ8; X-ray; 6.00 A; A/B/C/D=1-711.
+DR   PDB; 5UJM; EM; 18.00 A; C=1-711.
+DR   PDB; 7CTE; EM; 3.80 A; C=1-711.
+DR   PDB; 7CTF; EM; 4.80 A; C=1-711.
+DR   PDB; 7CTG; EM; 5.00 A; C=1-711.
+DR   PDB; 7JPO; EM; 3.20 A; C=1-711.
+DR   PDB; 7JPP; EM; 3.70 A; C=1-711.
+DR   PDB; 7JPQ; EM; 3.50 A; C=1-711.
+DR   PDB; 7JPR; EM; 4.00 A; C=1-711.
+DR   PDB; 7JPS; EM; 4.40 A; C=1-711.
+DR   PDBsum; 5UJ8; -.
+DR   PDBsum; 5UJM; -.
+DR   PDBsum; 7CTE; -.
+DR   PDBsum; 7CTF; -.
+DR   PDBsum; 7CTG; -.
+DR   PDBsum; 7JPO; -.
+DR   PDBsum; 7JPP; -.
+DR   PDBsum; 7JPQ; -.
+DR   PDBsum; 7JPR; -.
+DR   PDBsum; 7JPS; -.
+DR   AlphaFoldDB; Q9UBD5; -.
+DR   SMR; Q9UBD5; -.
+DR   BioGRID; 117130; 90.
+DR   ComplexPortal; CPX-1880; Nuclear origin of replication recognition complex.
+DR   CORUM; Q9UBD5; -.
+DR   DIP; DIP-31735N; -.
+DR   IntAct; Q9UBD5; 48.
+DR   MINT; Q9UBD5; -.
+DR   STRING; 9606.ENSP00000257789; -.
+DR   iPTMnet; Q9UBD5; -.
+DR   PhosphoSitePlus; Q9UBD5; -.
+DR   BioMuta; ORC3; -.
+DR   DMDM; 8928268; -.
+DR   EPD; Q9UBD5; -.
+DR   jPOST; Q9UBD5; -.
+DR   MassIVE; Q9UBD5; -.
+DR   MaxQB; Q9UBD5; -.
+DR   PaxDb; Q9UBD5; -.
+DR   PeptideAtlas; Q9UBD5; -.
+DR   ProteomicsDB; 5643; -.
+DR   ProteomicsDB; 83947; -. [Q9UBD5-1]
+DR   ProteomicsDB; 83948; -. [Q9UBD5-2]
+DR   Antibodypedia; 18665; 261 antibodies from 29 providers.
+DR   DNASU; 23595; -.
+DR   Ensembl; ENST00000257789.4; ENSP00000257789.4; ENSG00000135336.16. [Q9UBD5-2]
+DR   Ensembl; ENST00000392844.8; ENSP00000376586.3; ENSG00000135336.16. [Q9UBD5-1]
+DR   Ensembl; ENST00000546266.5; ENSP00000444695.1; ENSG00000135336.16. [Q9UBD5-3]
+DR   GeneID; 23595; -.
+DR   KEGG; hsa:23595; -.
+DR   MANE-Select; ENST00000392844.8; ENSP00000376586.3; NM_012381.4; NP_036513.2.
+DR   UCSC; uc003pmg.4; human. [Q9UBD5-1]
+DR   AGR; HGNC:8489; -.
+DR   CTD; 23595; -.
+DR   DisGeNET; 23595; -.
+DR   GeneCards; ORC3; -.
+DR   HGNC; HGNC:8489; ORC3.
+DR   HPA; ENSG00000135336; Low tissue specificity.
+DR   MIM; 604972; gene.
+DR   neXtProt; NX_Q9UBD5; -.
+DR   OpenTargets; ENSG00000135336; -.
+DR   PharmGKB; PA32810; -.
+DR   VEuPathDB; HostDB:ENSG00000135336; -.
+DR   eggNOG; KOG2538; Eukaryota.
+DR   GeneTree; ENSGT00390000011376; -.
+DR   HOGENOM; CLU_015257_2_0_1; -.
+DR   InParanoid; Q9UBD5; -.
+DR   OMA; CLMEHYF; -.
+DR   OrthoDB; 3109065at2759; -.
+DR   PhylomeDB; Q9UBD5; -.
+DR   TreeFam; TF101093; -.
+DR   BRENDA; 3.6.4.B8; 2681.
+DR   PathwayCommons; Q9UBD5; -.
+DR   Reactome; R-HSA-113507; E2F-enabled inhibition of pre-replication complex formation.
+DR   Reactome; R-HSA-176187; Activation of ATR in response to replication stress.
+DR   Reactome; R-HSA-68616; Assembly of the ORC complex at the origin of replication.
+DR   Reactome; R-HSA-68689; CDC6 association with the ORC:origin complex.
+DR   Reactome; R-HSA-68867; Assembly of the pre-replicative complex.
+DR   Reactome; R-HSA-68949; Orc1 removal from chromatin.
+DR   Reactome; R-HSA-68962; Activation of the pre-replicative complex.
+DR   SignaLink; Q9UBD5; -.
+DR   SIGNOR; Q9UBD5; -.
+DR   BioGRID-ORCS; 23595; 404 hits in 1165 CRISPR screens.
+DR   ChiTaRS; ORC3; human.
+DR   GeneWiki; ORC3; -.
+DR   GeneWiki; ORC3L; -.
+DR   GenomeRNAi; 23595; -.
+DR   Pharos; Q9UBD5; Tbio.
+DR   PRO; PR:Q9UBD5; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q9UBD5; protein.
+DR   Bgee; ENSG00000135336; Expressed in triceps brachii and 205 other tissues.
+DR   ExpressionAtlas; Q9UBD5; baseline and differential.
+DR   Genevisible; Q9UBD5; HS.
+DR   GO; GO:0000785; C:chromatin; IDA:UniProtKB.
+DR   GO; GO:0000781; C:chromosome, telomeric region; HDA:BHF-UCL.
+DR   GO; GO:0031261; C:DNA replication preinitiation complex; IBA:GO_Central.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005664; C:nuclear origin of replication recognition complex; IDA:UniProtKB.
+DR   GO; GO:0005656; C:nuclear pre-replicative complex; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0000808; C:origin recognition complex; IDA:UniProtKB.
+DR   GO; GO:0003688; F:DNA replication origin binding; IBA:GO_Central.
+DR   GO; GO:0006260; P:DNA replication; TAS:ProtInc.
+DR   GO; GO:0006270; P:DNA replication initiation; IBA:GO_Central.
+DR   GO; GO:0014009; P:glial cell proliferation; IEA:Ensembl.
+DR   GO; GO:0061351; P:neural precursor cell proliferation; IEA:Ensembl.
+DR   GO; GO:0006275; P:regulation of DNA replication; IDA:UniProtKB.
+DR   CDD; cd20704; Orc3; 1.
+DR   InterPro; IPR020795; ORC3.
+DR   InterPro; IPR045663; ORC3_ins.
+DR   InterPro; IPR045667; ORC3_N.
+DR   InterPro; IPR040855; ORC_WH_C.
+DR   PANTHER; PTHR12748; ORIGIN RECOGNITION COMPLEX SUBUNIT 3; 1.
+DR   PANTHER; PTHR12748:SF1; ORIGIN RECOGNITION COMPLEX SUBUNIT 3; 1.
+DR   Pfam; PF19675; ORC3_ins; 1.
+DR   Pfam; PF07034; ORC3_N; 1.
+DR   Pfam; PF18137; ORC_WH_C; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Chromosome; DNA replication;
+KW   DNA-binding; Nucleus; Phosphoprotein; Reference proteome; Ubl conjugation.
+FT   CHAIN           1..711
+FT                   /note="Origin recognition complex subunit 3"
+FT                   /id="PRO_0000127083"
+FT   MOD_RES         23
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         516
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17525332"
+FT   VAR_SEQ         1..143
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_044893"
+FT   VAR_SEQ         505
+FT                   /note="D -> DA (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230166,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_017129"
+FT   VARIANT         94
+FT                   /note="Q -> K (in dbSNP:rs2307365)"
+FT                   /evidence="ECO:0000269|Ref.7"
+FT                   /id="VAR_014516"
+FT   VARIANT         126
+FT                   /note="Q -> R (in dbSNP:rs2307371)"
+FT                   /evidence="ECO:0000269|Ref.7"
+FT                   /id="VAR_014517"
+FT   VARIANT         217
+FT                   /note="V -> I (in dbSNP:rs2307389)"
+FT                   /evidence="ECO:0000269|Ref.7"
+FT                   /id="VAR_014518"
+FT   VARIANT         247
+FT                   /note="I -> V (in dbSNP:rs2307374)"
+FT                   /evidence="ECO:0000269|Ref.7"
+FT                   /id="VAR_014519"
+FT   VARIANT         287
+FT                   /note="T -> M (in dbSNP:rs2307381)"
+FT                   /id="VAR_014520"
+FT   VARIANT         389
+FT                   /note="T -> P (in dbSNP:rs2307372)"
+FT                   /id="VAR_014521"
+FT   VARIANT         588
+FT                   /note="R -> C (in dbSNP:rs2307370)"
+FT                   /id="VAR_014522"
+FT   VARIANT         626
+FT                   /note="A -> T (in dbSNP:rs28381545)"
+FT                   /evidence="ECO:0000269|Ref.7"
+FT                   /id="VAR_020656"
+FT   CONFLICT        56
+FT                   /note="S -> F (in Ref. 5; BAD96515)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        86
+FT                   /note="K -> R (in Ref. 4; CAB45715)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        137
+FT                   /note="Q -> R (in Ref. 4; CAB45715)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        471
+FT                   /note="I -> M (in Ref. 5; BAD96515)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        531
+FT                   /note="K -> R (in Ref. 4; CAB45715)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        539
+FT                   /note="L -> F (in Ref. 3; AAD40220 and 10; AAA96313)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          6..13
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   TURN            26..30
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           39..65
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           67..86
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          100..106
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           111..113
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           114..128
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          133..136
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           138..140
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           144..157
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           181..192
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          215..219
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   TURN            222..224
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           227..238
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   TURN            239..243
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          246..254
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           258..262
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           265..268
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          271..277
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           281..292
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          296..298
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           304..315
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           321..338
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           342..344
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           348..356
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           360..367
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           370..377
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           381..389
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           391..425
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           435..443
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   TURN            447..449
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           452..460
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           465..481
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           488..499
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           548..565
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           570..572
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           576..578
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           584..591
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           595..604
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   TURN            606..609
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   TURN            611..613
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           628..636
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          639..641
+FT                   /evidence="ECO:0007829|PDB:7JPQ"
+FT   HELIX           645..659
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   HELIX           676..689
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   TURN            690..692
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+FT   STRAND          697..700
+FT                   /evidence="ECO:0007829|PDB:7JPO"
+SQ   SEQUENCE   711 AA;  82254 MW;  E713569A11B39B1C CRC64;
+     MATSSMSKGC FVFKPNSKKR KISLPIEDYF NKGKNEPEDS KLRFETYQLI WQQMKSENER
+     LQEELNKNLF DNLIEFLQKS HSGFQKNSRD LGGQIKLREI PTAALVLGVN VTDHDLTFGS
+     LTEALQNNVT PYVVSLQAKD CPDMKHFLQK LISQLMDCCV DIKSKEEESV HVTQRKTHYS
+     MDSLSSWYMT VTQKTDPKML SKKRTTSSQW QSPPVVVILK DMESFATKVL QDFIIISSQH
+     LHEFPLILIF GIATSPIIIH RLLPHAVSSL LCIELFQSLS CKEHLTTVLD KLLLTTQFPF
+     KINEKVLQVL TNIFLYHDFS VQNFIKGLQL SLLEHFYSQP LSVLCCNLPE AKRRINFLSN
+     NQCENIRRLP SFRRYVEKQA SEKQVALLTN ERYLKEETQL LLENLHVYHM NYFLVLRCLH
+     KFTSSLPKYP LGRQIRELYC TCLEKNIWDS EEYASVLQLL RMLAKDELMT ILEKCFKVFK
+     SYCENHLGST AKRIEEFLAQ FQSLDETKEE EDASGSQPKG LQKTDLYHLQ KSLLEMKELR
+     RSKKQTKFEV LRENVVNFID CLVREYLLPP ETQPLHEVVY FSAAHALREH LNAAPRIALH
+     TALNNPYYYL KNEALKSEEG CIPNIAPDIC IAYKLHLECS RLINLVDWSE AFATVVTAAE
+     KMDANSATSE EMNEIIHARF IRAVSELELL GFIKPTKQKT DHVARLTWGG C
+//

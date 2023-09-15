@@ -1,0 +1,184 @@
+ID   ZN771_HUMAN             Reviewed;         317 AA.
+AC   Q7L3S4; Q8TAQ7; Q9NYI6;
+DT   20-MAR-2007, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   28-JUN-2023, entry version 162.
+DE   RecName: Full=Zinc finger protein 771;
+DE   AltName: Full=Mesenchymal stem cell protein DSC43;
+GN   Name=ZNF771;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT ASN-207.
+RC   TISSUE=Brain, and Muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 35-317.
+RA   van den Bos C., Mbalaviele G., Thiede M.;
+RT   "cDNA DSC43 expressed by osteogenic human mesenchymal stem cells.";
+RL   Submitted (MAR-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [4]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-33, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAF65445.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; BC011870; AAH11870.2; -; mRNA.
+DR   EMBL; BC026192; AAH26192.2; -; mRNA.
+DR   EMBL; AF242768; AAF65445.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS45460.1; -.
+DR   RefSeq; NP_001135777.1; NM_001142305.1.
+DR   RefSeq; NP_057727.2; NM_016643.3.
+DR   AlphaFoldDB; Q7L3S4; -.
+DR   SMR; Q7L3S4; -.
+DR   BioGRID; 119480; 256.
+DR   IntAct; Q7L3S4; 17.
+DR   STRING; 9606.ENSP00000323945; -.
+DR   iPTMnet; Q7L3S4; -.
+DR   PhosphoSitePlus; Q7L3S4; -.
+DR   BioMuta; ZNF771; -.
+DR   DMDM; 74759003; -.
+DR   EPD; Q7L3S4; -.
+DR   MassIVE; Q7L3S4; -.
+DR   MaxQB; Q7L3S4; -.
+DR   PaxDb; Q7L3S4; -.
+DR   PeptideAtlas; Q7L3S4; -.
+DR   ProteomicsDB; 68771; -.
+DR   Antibodypedia; 27266; 98 antibodies from 19 providers.
+DR   DNASU; 51333; -.
+DR   Ensembl; ENST00000319296.10; ENSP00000323945.5; ENSG00000179965.12.
+DR   Ensembl; ENST00000434417.1; ENSP00000416197.1; ENSG00000179965.12.
+DR   GeneID; 51333; -.
+DR   KEGG; hsa:51333; -.
+DR   MANE-Select; ENST00000319296.10; ENSP00000323945.5; NM_001142305.2; NP_001135777.1.
+DR   UCSC; uc002dyd.4; human.
+DR   AGR; HGNC:29653; -.
+DR   CTD; 51333; -.
+DR   DisGeNET; 51333; -.
+DR   GeneCards; ZNF771; -.
+DR   HGNC; HGNC:29653; ZNF771.
+DR   HPA; ENSG00000179965; Low tissue specificity.
+DR   neXtProt; NX_Q7L3S4; -.
+DR   PharmGKB; PA162410347; -.
+DR   VEuPathDB; HostDB:ENSG00000179965; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000162367; -.
+DR   HOGENOM; CLU_002678_2_6_1; -.
+DR   InParanoid; Q7L3S4; -.
+DR   OMA; PERTDRC; -.
+DR   OrthoDB; 3828239at2759; -.
+DR   PhylomeDB; Q7L3S4; -.
+DR   TreeFam; TF337055; -.
+DR   PathwayCommons; Q7L3S4; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q7L3S4; -.
+DR   BioGRID-ORCS; 51333; 21 hits in 1177 CRISPR screens.
+DR   ChiTaRS; ZNF771; human.
+DR   GenomeRNAi; 51333; -.
+DR   Pharos; Q7L3S4; Tdark.
+DR   PRO; PR:Q7L3S4; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   RNAct; Q7L3S4; protein.
+DR   Bgee; ENSG00000179965; Expressed in buccal mucosa cell and 101 other tissues.
+DR   ExpressionAtlas; Q7L3S4; baseline and differential.
+DR   Genevisible; Q7L3S4; HS.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 8.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR19818:SF151; ZINC FINGER PROTEIN 76; 1.
+DR   PANTHER; PTHR19818; ZINC FINGER PROTEIN ZIC AND GLI; 1.
+DR   Pfam; PF00096; zf-C2H2; 8.
+DR   SMART; SM00355; ZnF_C2H2; 8.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 5.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 8.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 8.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Isopeptide bond; Metal-binding; Nucleus; Reference proteome;
+KW   Repeat; Transcription; Transcription regulation; Ubl conjugation; Zinc;
+KW   Zinc-finger.
+FT   CHAIN           1..317
+FT                   /note="Zinc finger protein 771"
+FT                   /id="PRO_0000280439"
+FT   ZN_FING         63..85
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         91..113
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         119..141
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         147..169
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         175..197
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         203..225
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         231..253
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         259..281
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          1..63
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1..17
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        18..45
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CROSSLNK        33
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         207
+FT                   /note="D -> N (in dbSNP:rs17852362)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_031150"
+SQ   SEQUENCE   317 AA;  35702 MW;  BF752DE568010B88 CRC64;
+     MPGEQQAEEE EEEEMQEEMV LLVKGEEDEG EEKYEVVKLK IPMDNKEVPG EAPAPSADPA
+     RPHACPDCGR AFARRSTLAK HARTHTGERP FGCTECGRRF SQKSALTKHG RTHTGERPYE
+     CPECDKRFSA ASNLRQHRRR HTGEKPYACA HCGRRFAQSS NYAQHLRVHT GEKPYACPDC
+     GRAFGGSSCL ARHRRTHTGE RPYACADCGT RFAQSSALAK HRRVHTGEKP HRCAVCGRRF
+     GHRSNLAEHA RTHTGERPYP CAECGRRFRL SSHFIRHRRA HMRRRLYICA GCGRDFKLPP
+     GATAATATER CPECEGS
+//

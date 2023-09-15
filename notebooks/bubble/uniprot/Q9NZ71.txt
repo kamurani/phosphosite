@@ -1,0 +1,741 @@
+ID   RTEL1_HUMAN             Reviewed;        1219 AA.
+AC   Q9NZ71; A2A397; A2A398; B4DRM5; B4DYM3; B4E3N6; E1P5J4; E1P5J5; Q5JTV3;
+AC   Q5JTV4; Q9BW37; Q9H402; Q9H4X6; Q9NX25; Q9NZ73; Q9UPR4; Q9Y4R6;
+DT   28-MAR-2003, integrated into UniProtKB/Swiss-Prot.
+DT   05-MAY-2009, sequence version 2.
+DT   28-JUN-2023, entry version 184.
+DE   RecName: Full=Regulator of telomere elongation helicase 1 {ECO:0000255|HAMAP-Rule:MF_03065};
+DE            EC=3.6.4.12 {ECO:0000255|HAMAP-Rule:MF_03065};
+DE   AltName: Full=Novel helicase-like;
+GN   Name=RTEL1 {ECO:0000255|HAMAP-Rule:MF_03065};
+GN   Synonyms=C20orf41, KIAA1088, NHL;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 1 AND 2), AND
+RP   AMPLIFICATION IN GASTRIC TUMORS.
+RX   PubMed=10655513; DOI=10.1073/pnas.97.3.1230;
+RA   Bai C., Connolly B., Metzker M.L., Hilliard C.A., Liu X., Sandig V.,
+RA   Soderman A., Galloway S.M., Liu Q., Austin C.P., Caskey C.T.;
+RT   "Overexpression of M68/DcR3 in human gastrointestinal tract tumors
+RT   independent of gene amplification and its location in a four-gene
+RT   cluster.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:1230-1235(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT HIS-1042.
+RC   TISSUE=Brain;
+RX   PubMed=10470851; DOI=10.1093/dnares/6.3.197;
+RA   Kikuno R., Nagase T., Ishikawa K., Hirosawa M., Miyajima N., Tanaka A.,
+RA   Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIV. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 6:197-205(1999).
+RN   [3]
+RP   SEQUENCE REVISION.
+RX   PubMed=12168954; DOI=10.1093/dnares/9.3.99;
+RA   Nakajima D., Okazaki N., Yamakawa H., Kikuno R., Ohara O., Nagase T.;
+RT   "Construction of expression-ready cDNA clones for KIAA genes: manual
+RT   curation of 330 KIAA cDNA clones.";
+RL   DNA Res. 9:99-106(2002).
+RN   [4]
+RP   SEQUENCE REVISION TO 291-292.
+RA   Ohara O., Nagase T., Kikuno R.;
+RL   Submitted (FEB-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 5; 7; 8 AND 9), AND
+RP   VARIANTS THR-929 AND HIS-1042.
+RC   TISSUE=Colon carcinoma, Teratocarcinoma, Testis, and Uterus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND ALTERNATIVE SPLICING
+RP   (ISOFORMS 2; 5 AND 6).
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J., Buck D., Burrill W.D.,
+RA   Butler A.P., Carder C., Carter N.P., Chapman J.C., Clamp M., Clark G.,
+RA   Clark L.N., Clark S.Y., Clee C.M., Clegg S., Cobley V.E., Collier R.E.,
+RA   Connor R.E., Corby N.R., Coulson A., Coville G.J., Deadman R., Dhami P.D.,
+RA   Dunn M., Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H., Rice C.M.,
+RA   Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S., Skuce C.D.,
+RA   Smith M.L., Soderlund C., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A., Tracey A.,
+RA   Tromans A.C., Vaudin M., Wall M., Wallis J.M., Whitehead S.L.,
+RA   Whittaker P., Willey D.L., Williams L., Williams S.A., Wilming L.,
+RA   Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 708-1219 (ISOFORM 4).
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [9]
+RP   FUNCTION, AND MUTAGENESIS OF LYS-48.
+RX   PubMed=18957201; DOI=10.1016/j.cell.2008.08.016;
+RA   Barber L.J., Youds J.L., Ward J.D., McIlwraith M.J., O'Neil N.J.,
+RA   Petalcorin M.I.R., Martin J.S., Collis S.J., Cantor S.B., Auclair M.,
+RA   Tissenbaum H., West S.C., Rose A.M., Boulton S.J.;
+RT   "RTEL1 maintains genomic stability by suppressing homologous
+RT   recombination.";
+RL   Cell 135:261-271(2008).
+RN   [10]
+RP   INTERACTION WITH MMS19.
+RX   PubMed=22678361; DOI=10.1126/science.1219664;
+RA   Gari K., Leon Ortiz A.M., Borel V., Flynn H., Skehel J.M., Boulton S.J.;
+RT   "MMS19 links cytoplasmic iron-sulfur cluster assembly to DNA metabolism.";
+RL   Science 337:243-245(2012).
+RN   [11]
+RP   FUNCTION, VARIANTS DKCB5 LYS-251; ILE-492; ARG-710; VAL-739; GLU-897;
+RP   TRP-957 AND LEU-964, VARIANT DKCB5 HIS-509 (ISOFORM 5), AND VARIANT DKCB5
+RP   HIS-1264 (ISOFORMS 1 AND 6).
+RX   PubMed=23453664; DOI=10.1016/j.ajhg.2013.02.001;
+RA   Walne A.J., Vulliamy T., Kirwan M., Plagnol V., Dokal I.;
+RT   "Constitutional mutations in RTEL1 cause severe dyskeratosis congenita.";
+RL   Am. J. Hum. Genet. 92:448-453(2013).
+RN   [12]
+RP   SUBCELLULAR LOCATION, AND INTERACTION WITH MMS19.
+RX   PubMed=23585563; DOI=10.1074/jbc.m112.416602;
+RA   Seki M., Takeda Y., Iwai K., Tanaka K.;
+RT   "IOP1 protein is an external component of the human cytosolic iron-sulfur
+RT   cluster assembly (CIA) machinery and functions in the MMS19 protein-
+RT   dependent CIA pathway.";
+RL   J. Biol. Chem. 288:16680-16689(2013).
+RN   [13]
+RP   INTERACTION WITH TERF1, AND VARIANT DKCB5 ILE-492.
+RX   PubMed=23959892; DOI=10.1073/pnas.1300600110;
+RA   Deng Z., Glousker G., Molczan A., Fox A.J., Lamm N., Dheekollu J.,
+RA   Weizman O.E., Schertzer M., Wang Z., Vladimirova O., Schug J., Aker M.,
+RA   Londono-Vallejo A., Kaestner K.H., Lieberman P.M., Tzfati Y.;
+RT   "Inherited mutations in the helicase RTEL1 cause telomere dysfunction and
+RT   Hoyeraal-Hreidarsson syndrome.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:E3408-E3416(2013).
+RN   [14]
+RP   INVOLVEMENT IN PFBMFT3, AND VARIANTS PFBMFT3 LEU-484; LEU-647 AND PRO-1124.
+RX   PubMed=25848748; DOI=10.1038/ng.3278;
+RA   Stuart B.D., Choi J., Zaidi S., Xing C., Holohan B., Chen R., Choi M.,
+RA   Dharwadkar P., Torres F., Girod C.E., Weissler J., Fitzgerald J.,
+RA   Kershaw C., Klesney-Tait J., Mageto Y., Shay J.W., Ji W., Bilguvar K.,
+RA   Mane S., Lifton R.P., Garcia C.K.;
+RT   "Exome sequencing links mutations in PARN and RTEL1 with familial pulmonary
+RT   fibrosis and telomere shortening.";
+RL   Nat. Genet. 47:512-517(2015).
+RN   [15]
+RP   VARIANT DKCB5 ASP-591, VARIANT DKCA4 THR-621, AND VARIANTS SER-124;
+RP   GLN-684; PRO-829; ASP-849; THR-929; HIS-1034; HIS-1042 AND THR-1059.
+RX   PubMed=23329068; DOI=10.1007/s00439-013-1265-8;
+RA   Ballew B.J., Yeager M., Jacobs K., Giri N., Boland J., Burdett L.,
+RA   Alter B.P., Savage S.A.;
+RT   "Germline mutations of regulator of telomere elongation helicase 1, RTEL1,
+RT   in dyskeratosis congenita.";
+RL   Hum. Genet. 132:473-480(2013).
+RN   [16]
+RP   VARIANTS DKCB5 MET-699 AND MET-745, VARIANT DKCB5 ARG-489 (ISOFORM 5), AND
+RP   VARIANT DKCB5 ARG-1244 (ISOFORMS 1 AND 6).
+RX   PubMed=23591994; DOI=10.1093/hmg/ddt178;
+RA   Le Guen T., Jullien L., Touzot F., Schertzer M., Gaillard L.,
+RA   Perderiset M., Carpentier W., Nitschke P., Picard C., Couillault G.,
+RA   Soulier J., Fischer A., Callebaut I., Jabado N., Londono-Vallejo A.,
+RA   de Villartay J.P., Revy P.;
+RT   "Human RTEL1 deficiency causes Hoyeraal-Hreidarsson syndrome with short
+RT   telomeres and genome instability.";
+RL   Hum. Mol. Genet. 22:3239-3249(2013).
+RN   [17]
+RP   VARIANTS DKCB5 HIS-509 (ISOFORM 5) AND HIS-1264 (ISOFORMS 1 AND 6),
+RP   FUNCTION, AND CHARACTERIZATION OF VARIANTS DKCB5 HIS-509 (ISOFORM 5) AND
+RP   HIS-1264 (ISOFORMS 1 AND 6).
+RX   PubMed=24009516; DOI=10.1371/journal.pgen.1003695;
+RA   Ballew B.J., Joseph V., De S., Sarek G., Vannier J.B., Stracker T.,
+RA   Schrader K.A., Small T.N., O'Reilly R., Manschreck C.,
+RA   Harlan Fleischut M.M., Zhang L., Sullivan J., Stratton K., Yeager M.,
+RA   Jacobs K., Giri N., Alter B.P., Boland J., Burdett L., Offit K.,
+RA   Boulton S.J., Savage S.A., Petrini J.H.;
+RT   "A recessive founder mutation in regulator of telomere elongation helicase
+RT   1, RTEL1, underlies severe immunodeficiency and features of Hoyeraal
+RT   Hreidarsson syndrome.";
+RL   PLoS Genet. 9:E1003695-E1003695(2013).
+CC   -!- FUNCTION: ATP-dependent DNA helicase implicated in telomere-length
+CC       regulation, DNA repair and the maintenance of genomic stability. Acts
+CC       as an anti-recombinase to counteract toxic recombination and limit
+CC       crossover during meiosis. Regulates meiotic recombination and crossover
+CC       homeostasis by physically dissociating strand invasion events and
+CC       thereby promotes noncrossover repair by meiotic synthesis dependent
+CC       strand annealing (SDSA) as well as disassembly of D loop recombination
+CC       intermediates. Also disassembles T loops and prevents telomere
+CC       fragility by counteracting telomeric G4-DNA structures, which together
+CC       ensure the dynamics and stability of the telomere. {ECO:0000255|HAMAP-
+CC       Rule:MF_03065, ECO:0000269|PubMed:18957201,
+CC       ECO:0000269|PubMed:23453664, ECO:0000269|PubMed:24009516}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.12;
+CC         Evidence={ECO:0000255|HAMAP-Rule:MF_03065};
+CC   -!- SUBUNIT: Interacts with TERF1. Interacts (via PIP-box) with PCNA; the
+CC       interaction is direct and essential for suppressing telomere fragility.
+CC       Interacts with MMS19; the interaction mediates the association of RTEL1
+CC       with the cytosolic iron-sulfur protein assembly (CIA) complex.
+CC       {ECO:0000255|HAMAP-Rule:MF_03065, ECO:0000269|PubMed:22678361,
+CC       ECO:0000269|PubMed:23585563, ECO:0000269|PubMed:23959892}.
+CC   -!- INTERACTION:
+CC       Q9NZ71; Q96T76: MMS19; NbExp=4; IntAct=EBI-2859587, EBI-1044169;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000255|HAMAP-Rule:MF_03065,
+CC       ECO:0000269|PubMed:23585563}. Note=Colocalizes with PCNA within the
+CC       replication foci in S-phase cells. {ECO:0000255|HAMAP-Rule:MF_03065}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=8;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=2;
+CC         IsoId=Q9NZ71-1; Sequence=Displayed;
+CC       Name=1;
+CC         IsoId=Q9NZ71-2; Sequence=VSP_036940;
+CC       Name=4;
+CC         IsoId=Q9NZ71-4; Sequence=VSP_007076, VSP_007077;
+CC       Name=5;
+CC         IsoId=Q9NZ71-5; Sequence=VSP_017093, VSP_017094;
+CC       Name=6;
+CC         IsoId=Q9NZ71-6; Sequence=VSP_017094;
+CC       Name=7;
+CC         IsoId=Q9NZ71-7; Sequence=VSP_036938;
+CC       Name=8;
+CC         IsoId=Q9NZ71-8; Sequence=VSP_036939;
+CC       Name=9;
+CC         IsoId=Q9NZ71-9; Sequence=VSP_036937;
+CC   -!- DOMAIN: The PIP-box (PCNA interacting peptide) motif mediates the
+CC       interaction with PCNA and localization to replication foci.
+CC       {ECO:0000255|HAMAP-Rule:MF_03065}.
+CC   -!- DISEASE: Dyskeratosis congenita, autosomal recessive, 5 (DKCB5)
+CC       [MIM:615190]: A form of dyskeratosis congenita, a rare multisystem
+CC       disorder caused by defective telomere maintenance. It is characterized
+CC       by progressive bone marrow failure, and the clinical triad of
+CC       reticulated skin hyperpigmentation, nail dystrophy, and mucosal
+CC       leukoplakia. Common but variable features include premature graying,
+CC       aplastic anemia, low platelets, osteoporosis, pulmonary fibrosis, and
+CC       liver fibrosis among others. Early mortality is often associated with
+CC       bone marrow failure, infections, fatal pulmonary complications, or
+CC       malignancy. DKCB5 is characterized by onset of bone marrow failure and
+CC       immunodeficiency in early childhood. Most patients also have growth and
+CC       developmental delay and cerebellar hypoplasia, consistent with a
+CC       clinical diagnosis of Hoyeraal-Hreidarsson syndrome.
+CC       {ECO:0000269|PubMed:23329068, ECO:0000269|PubMed:23453664,
+CC       ECO:0000269|PubMed:23591994, ECO:0000269|PubMed:23959892,
+CC       ECO:0000269|PubMed:24009516}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry. RTEL1 mutations have also
+CC       been found in patients with a dyskeratosis congenita-like phenotype
+CC       consisting of one feature of dyskeratosis congenita and short
+CC       telomeres, in the absence of the typical DKC diagnostic triad
+CC       (PubMed:23329068). {ECO:0000269|PubMed:23329068}.
+CC   -!- DISEASE: Dyskeratosis congenita, autosomal dominant, 4 (DKCA4)
+CC       [MIM:615190]: A rare multisystem disorder caused by defective telomere
+CC       maintenance. It is characterized by progressive bone marrow failure,
+CC       and the clinical triad of reticulated skin hyperpigmentation, nail
+CC       dystrophy, and mucosal leukoplakia. Common but variable features
+CC       include premature graying, aplastic anemia, low platelets,
+CC       osteoporosis, pulmonary fibrosis, and liver fibrosis among others.
+CC       Early mortality is often associated with bone marrow failure,
+CC       infections, fatal pulmonary complications, or malignancy.
+CC       {ECO:0000269|PubMed:23329068}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Pulmonary fibrosis, and/or bone marrow failure, telomere-
+CC       related, 3 (PFBMFT3) [MIM:616373]: An autosomal dominant disease
+CC       associated with shortened telomeres. Pulmonary fibrosis is the most
+CC       common manifestation. Other manifestations include aplastic anemia due
+CC       to bone marrow failure, hepatic fibrosis, and increased cancer risk,
+CC       particularly myelodysplastic syndrome and acute myeloid leukemia.
+CC       Phenotype, age at onset, and severity are determined by telomere
+CC       length. {ECO:0000269|PubMed:25848748}. Note=The disease is caused by
+CC       variants affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: Amplified in gastric tumors.
+CC   -!- MISCELLANEOUS: [Isoform 1]: Variant in position: 1264:R->H (in DKCB5),
+CC       abolishes activity. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the helicase family. RAD3/XPD subfamily.
+CC       {ECO:0000255|HAMAP-Rule:MF_03065}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF217795; AAF33687.1; -; mRNA.
+DR   EMBL; AF217796; AAF35243.1; -; Genomic_DNA.
+DR   EMBL; AB029011; BAA83040.3; -; mRNA.
+DR   EMBL; AK000485; BAA91197.1; -; mRNA.
+DR   EMBL; AK302508; BAG63785.1; -; mRNA.
+DR   EMBL; AK299332; BAG61337.1; -; mRNA.
+DR   EMBL; AK304798; BAG65548.1; -; mRNA.
+DR   EMBL; AL353715; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471077; EAW75238.1; -; Genomic_DNA.
+DR   EMBL; CH471077; EAW75239.1; -; Genomic_DNA.
+DR   EMBL; CH471077; EAW75240.1; -; Genomic_DNA.
+DR   EMBL; CH471077; EAW75241.1; -; Genomic_DNA.
+DR   EMBL; CH471077; EAW75245.1; -; Genomic_DNA.
+DR   EMBL; AL080127; CAB45725.1; -; mRNA.
+DR   CCDS; CCDS13530.3; -. [Q9NZ71-7]
+DR   CCDS; CCDS13531.1; -. [Q9NZ71-1]
+DR   CCDS; CCDS63331.1; -. [Q9NZ71-6]
+DR   CCDS; CCDS74751.1; -. [Q9NZ71-9]
+DR   PIR; T12516; T12516.
+DR   PIR; T45294; T45294.
+DR   RefSeq; NP_001269938.1; NM_001283009.1. [Q9NZ71-6]
+DR   RefSeq; NP_001269939.1; NM_001283010.1. [Q9NZ71-9]
+DR   RefSeq; NP_057518.1; NM_016434.3. [Q9NZ71-1]
+DR   RefSeq; NP_116575.3; NM_032957.4. [Q9NZ71-7]
+DR   AlphaFoldDB; Q9NZ71; -.
+DR   SMR; Q9NZ71; -.
+DR   BioGRID; 119711; 104.
+DR   IntAct; Q9NZ71; 30.
+DR   STRING; 9606.ENSP00000353332; -.
+DR   iPTMnet; Q9NZ71; -.
+DR   PhosphoSitePlus; Q9NZ71; -.
+DR   BioMuta; RTEL1; -.
+DR   DMDM; 229462743; -.
+DR   EPD; Q9NZ71; -.
+DR   jPOST; Q9NZ71; -.
+DR   MassIVE; Q9NZ71; -.
+DR   MaxQB; Q9NZ71; -.
+DR   PaxDb; Q9NZ71; -.
+DR   PeptideAtlas; Q9NZ71; -.
+DR   ProteomicsDB; 83330; -. [Q9NZ71-1]
+DR   ProteomicsDB; 83331; -. [Q9NZ71-2]
+DR   ProteomicsDB; 83332; -. [Q9NZ71-4]
+DR   ProteomicsDB; 83333; -. [Q9NZ71-5]
+DR   ProteomicsDB; 83334; -. [Q9NZ71-6]
+DR   ProteomicsDB; 83335; -. [Q9NZ71-7]
+DR   ProteomicsDB; 83336; -. [Q9NZ71-8]
+DR   ProteomicsDB; 83337; -. [Q9NZ71-9]
+DR   Antibodypedia; 58405; 162 antibodies from 25 providers.
+DR   DNASU; 51750; -.
+DR   Ensembl; ENST00000318100.9; ENSP00000322287.5; ENSG00000258366.12. [Q9NZ71-9]
+DR   Ensembl; ENST00000360203.11; ENSP00000353332.5; ENSG00000258366.12. [Q9NZ71-6]
+DR   Ensembl; ENST00000370018.7; ENSP00000359035.3; ENSG00000258366.12. [Q9NZ71-1]
+DR   Ensembl; ENST00000482936.6; ENSP00000457868.2; ENSG00000258366.12. [Q9NZ71-8]
+DR   Ensembl; ENST00000508582.7; ENSP00000424307.2; ENSG00000258366.12. [Q9NZ71-7]
+DR   GeneID; 51750; -.
+DR   KEGG; hsa:51750; -.
+DR   MANE-Select; ENST00000360203.11; ENSP00000353332.5; NM_001283009.2; NP_001269938.1. [Q9NZ71-6]
+DR   UCSC; uc002yfu.3; human. [Q9NZ71-1]
+DR   AGR; HGNC:15888; -.
+DR   CTD; 51750; -.
+DR   DisGeNET; 51750; -.
+DR   GeneCards; RTEL1; -.
+DR   GeneReviews; RTEL1; -.
+DR   HGNC; HGNC:15888; RTEL1.
+DR   HPA; ENSG00000258366; Low tissue specificity.
+DR   MalaCards; RTEL1; -.
+DR   MIM; 608833; gene.
+DR   MIM; 615190; phenotype.
+DR   MIM; 616373; phenotype.
+DR   neXtProt; NX_Q9NZ71; -.
+DR   OpenTargets; ENSG00000258366; -.
+DR   Orphanet; 1775; Dyskeratosis congenita.
+DR   Orphanet; 3322; Hoyeraal-Hreidarsson syndrome.
+DR   Orphanet; 2032; Idiopathic pulmonary fibrosis.
+DR   PharmGKB; PA134915625; -.
+DR   VEuPathDB; HostDB:ENSG00000258366; -.
+DR   eggNOG; KOG1132; Eukaryota.
+DR   GeneTree; ENSGT00950000182970; -.
+DR   HOGENOM; CLU_006515_4_0_1; -.
+DR   InParanoid; Q9NZ71; -.
+DR   OMA; TERSEDF; -.
+DR   OrthoDB; 124793at2759; -.
+DR   PhylomeDB; Q9NZ71; -.
+DR   PathwayCommons; Q9NZ71; -.
+DR   Reactome; R-HSA-171319; Telomere Extension By Telomerase.
+DR   Reactome; R-HSA-2564830; Cytosolic iron-sulfur cluster assembly.
+DR   Reactome; R-HSA-5693554; Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA).
+DR   SignaLink; Q9NZ71; -.
+DR   BioGRID-ORCS; 51750; 457 hits in 1160 CRISPR screens.
+DR   GenomeRNAi; 51750; -.
+DR   Pharos; Q9NZ71; Tbio.
+DR   PRO; PR:Q9NZ71; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   RNAct; Q9NZ71; protein.
+DR   Bgee; ENSG00000258366; Expressed in sural nerve and 93 other tissues.
+DR   ExpressionAtlas; Q9NZ71; baseline and differential.
+DR   Genevisible; Q9NZ71; HS.
+DR   GO; GO:0000781; C:chromosome, telomeric region; ISS:BHF-UCL.
+DR   GO; GO:0031965; C:nuclear membrane; IDA:HPA.
+DR   GO; GO:0016607; C:nuclear speck; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0051539; F:4 iron, 4 sulfur cluster binding; IEA:UniProtKB-UniRule.
+DR   GO; GO:0005524; F:ATP binding; IMP:UniProtKB.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-UniRule.
+DR   GO; GO:0003678; F:DNA helicase activity; IMP:UniProtKB.
+DR   GO; GO:0070182; F:DNA polymerase binding; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-UniRule.
+DR   GO; GO:0032508; P:DNA duplex unwinding; ISS:BHF-UCL.
+DR   GO; GO:0006281; P:DNA repair; IEA:UniProtKB-UniRule.
+DR   GO; GO:1902990; P:mitotic telomere maintenance via semi-conservative replication; ISS:BHF-UCL.
+DR   GO; GO:0045910; P:negative regulation of DNA recombination; ISS:BHF-UCL.
+DR   GO; GO:1904430; P:negative regulation of t-circle formation; IMP:BHF-UCL.
+DR   GO; GO:1904506; P:negative regulation of telomere maintenance in response to DNA damage; ISS:BHF-UCL.
+DR   GO; GO:1904355; P:positive regulation of telomere capping; IMP:BHF-UCL.
+DR   GO; GO:0032206; P:positive regulation of telomere maintenance; ISS:BHF-UCL.
+DR   GO; GO:1904358; P:positive regulation of telomere maintenance via telomere lengthening; IMP:BHF-UCL.
+DR   GO; GO:1904535; P:positive regulation of telomeric loop disassembly; ISS:BHF-UCL.
+DR   GO; GO:0010569; P:regulation of double-strand break repair via homologous recombination; IMP:UniProtKB.
+DR   GO; GO:0031297; P:replication fork processing; ISS:BHF-UCL.
+DR   GO; GO:0000732; P:strand displacement; ISS:BHF-UCL.
+DR   GO; GO:0000723; P:telomere maintenance; IMP:UniProtKB.
+DR   GO; GO:0043247; P:telomere maintenance in response to DNA damage; ISS:BHF-UCL.
+DR   GO; GO:0090657; P:telomeric loop disassembly; IMP:BHF-UCL.
+DR   CDD; cd17970; DEAHc_FancJ; 1.
+DR   CDD; cd13932; HN_RTEL1; 2.
+DR   CDD; cd18788; SF2_C_XPD; 1.
+DR   Gene3D; 1.20.1160.20; -; 2.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   HAMAP; MF_03065; RTEL1; 1.
+DR   InterPro; IPR006555; ATP-dep_Helicase_C.
+DR   InterPro; IPR010614; DEAD_2.
+DR   InterPro; IPR045028; DinG/Rad3-like.
+DR   InterPro; IPR014013; Helic_SF1/SF2_ATP-bd_DinG/Rad3.
+DR   InterPro; IPR006554; Helicase-like_DEXD_c2.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR013020; Rad3/Chl1-like.
+DR   InterPro; IPR030845; RTEL1.
+DR   PANTHER; PTHR11472; DNA REPAIR DEAD HELICASE RAD3/XP-D SUBFAMILY MEMBER; 1.
+DR   PANTHER; PTHR11472:SF62; REGULATOR OF TELOMERE ELONGATION HELICASE 1; 1.
+DR   Pfam; PF06733; DEAD_2; 1.
+DR   Pfam; PF13307; Helicase_C_2; 1.
+DR   SMART; SM00488; DEXDc2; 1.
+DR   SMART; SM00491; HELICc2; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 2.
+DR   PROSITE; PS51193; HELICASE_ATP_BIND_2; 1.
+DR   TIGRFAMs; TIGR00604; rad3; 1.
+PE   1: Evidence at protein level;
+KW   4Fe-4S; Alternative splicing; ATP-binding; Disease variant; DNA damage;
+KW   DNA repair; DNA-binding; Dyskeratosis congenita; Helicase; Hydrolase; Iron;
+KW   Iron-sulfur; Metal-binding; Nucleotide-binding; Nucleus;
+KW   Reference proteome.
+FT   CHAIN           1..1219
+FT                   /note="Regulator of telomere elongation helicase 1"
+FT                   /id="PRO_0000101985"
+FT   DOMAIN          7..296
+FT                   /note="Helicase ATP-binding"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03065"
+FT   REGION          287..306
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          757..786
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          839..877
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          979..1005
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1017..1054
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1132..1151
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1159..1219
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           151..167
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03065"
+FT   MOTIF           250..253
+FT                   /note="DEAH box"
+FT   MOTIF           871..877
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03065"
+FT   MOTIF           1178..1185
+FT                   /note="PIP-box"
+FT   COMPBIAS        848..862
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1170..1186
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         42..49
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000305"
+FT   BINDING         145
+FT                   /ligand="[4Fe-4S] cluster"
+FT                   /ligand_id="ChEBI:CHEBI:49883"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03065"
+FT   BINDING         163
+FT                   /ligand="[4Fe-4S] cluster"
+FT                   /ligand_id="ChEBI:CHEBI:49883"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03065"
+FT   BINDING         172
+FT                   /ligand="[4Fe-4S] cluster"
+FT                   /ligand_id="ChEBI:CHEBI:49883"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03065"
+FT   BINDING         207
+FT                   /ligand="[4Fe-4S] cluster"
+FT                   /ligand_id="ChEBI:CHEBI:49883"
+FT                   /evidence="ECO:0000255|HAMAP-Rule:MF_03065"
+FT   VAR_SEQ         1..755
+FT                   /note="Missing (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_017093"
+FT   VAR_SEQ         1..223
+FT                   /note="Missing (in isoform 9)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_036937"
+FT   VAR_SEQ         131
+FT                   /note="Y -> YRSRCRATLWVLETAPPRPTVLSPT (in isoform 7)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_036938"
+FT   VAR_SEQ         998..1219
+FT                   /note="GRTAPDPKLTVSTAAAQQLDPQEHLNQGRPHLSPRPPPTGDPGSQPQWGSGV
+FT                   PRAGKQGQHAVSAYLADARRALGSAGCSQLLAALTAYKQDDDLDKVLAVLAALTTAKPE
+FT                   DFPLLHRFSMFVRPHHKQRFSQTCTDLTGRPYPGMEPPGPQEERLAVPPVLTHRAPQPG
+FT                   PSRSEKTGKTQSKISSFLRQRPAGTVGAGGEDAGPSQSSGPPHGPAASEWGL -> ERR
+FT                   RIPS (in isoform 8)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_036939"
+FT   VAR_SEQ         999..1023
+FT                   /note="RTAPDPKLTVSTAAAQQLDPQEHLN -> NFPDALDQLCGSTSLHQEERRRI
+FT                   PS (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_007076"
+FT   VAR_SEQ         1024..1219
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_007077"
+FT   VAR_SEQ         1219
+FT                   /note="L -> EPHGRDIAGQQATGAPGGPLSAGCVCQGCGAEDVVPFQCPACDFQRC
+FT                   QACWQRHLQASRMCPACHTASRKQSVMQVFWPEPHKDHEGAGGARPVAAVPGVGAACPA
+FT                   AGAGCTRSGRNTHLPLAGRRDRGAAGVCPVPPRHLCAAAVPPRQPHDVWPVSTAPLHAV
+FT                   LELPGALPLLQRPLRGA (in isoform 1)"
+FT                   /evidence="ECO:0000303|PubMed:10470851,
+FT                   ECO:0000303|PubMed:10655513"
+FT                   /id="VSP_036940"
+FT   VAR_SEQ         1219
+FT                   /note="L -> EPHGRDIAGQQATGAPGGPLSAGCVCQGCGAEDVVPFQCPACDFQRC
+FT                   QACWQRHLQASRMCPACHTASRKQSVMQVFWPEPQ (in isoform 5 and
+FT                   isoform 6)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_017094"
+FT   VARIANT         124
+FT                   /note="N -> S (in dbSNP:rs3848668)"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_054970"
+FT   VARIANT         251
+FT                   /note="E -> K (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123019)"
+FT                   /evidence="ECO:0000269|PubMed:23453664"
+FT                   /id="VAR_069714"
+FT   VARIANT         484
+FT                   /note="P -> L (in PFBMFT3; dbSNP:rs786205700)"
+FT                   /evidence="ECO:0000269|PubMed:25848748"
+FT                   /id="VAR_073795"
+FT   VARIANT         492
+FT                   /note="M -> I (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs370343781)"
+FT                   /evidence="ECO:0000269|PubMed:23453664,
+FT                   ECO:0000269|PubMed:23959892"
+FT                   /id="VAR_069715"
+FT   VARIANT         591
+FT                   /note="E -> D (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123051)"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069716"
+FT   VARIANT         621
+FT                   /note="A -> T (in DKCA4; dbSNP:rs398123052)"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069717"
+FT   VARIANT         647
+FT                   /note="P -> L (in PFBMFT3; dbSNP:rs1177091623)"
+FT                   /evidence="ECO:0000269|PubMed:25848748"
+FT                   /id="VAR_073796"
+FT   VARIANT         684
+FT                   /note="R -> Q (in dbSNP:rs35640778)"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069718"
+FT   VARIANT         699
+FT                   /note="I -> M (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123048)"
+FT                   /evidence="ECO:0000269|PubMed:23591994"
+FT                   /id="VAR_069719"
+FT   VARIANT         710
+FT                   /note="L -> R (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:23453664"
+FT                   /id="VAR_069720"
+FT   VARIANT         739
+FT                   /note="G -> V (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123016)"
+FT                   /evidence="ECO:0000269|PubMed:23453664"
+FT                   /id="VAR_069721"
+FT   VARIANT         745
+FT                   /note="V -> M (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123049)"
+FT                   /evidence="ECO:0000269|PubMed:23591994"
+FT                   /id="VAR_069722"
+FT   VARIANT         829
+FT                   /note="Q -> P"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069723"
+FT   VARIANT         849
+FT                   /note="G -> D (in dbSNP:rs190887884)"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069724"
+FT   VARIANT         897
+FT                   /note="K -> E (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:23453664"
+FT                   /id="VAR_069725"
+FT   VARIANT         929
+FT                   /note="A -> T (in dbSNP:rs61736615)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069726"
+FT   VARIANT         957
+FT                   /note="R -> W (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123018)"
+FT                   /evidence="ECO:0000269|PubMed:23453664"
+FT                   /id="VAR_069727"
+FT   VARIANT         964
+FT                   /note="F -> L (in DKCB5; severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs1470145133)"
+FT                   /evidence="ECO:0000269|PubMed:23453664"
+FT                   /id="VAR_069728"
+FT   VARIANT         1034
+FT                   /note="P -> H (in dbSNP:rs115610405)"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069729"
+FT   VARIANT         1042
+FT                   /note="Q -> H (in dbSNP:rs3208008)"
+FT                   /evidence="ECO:0000269|PubMed:10470851,
+FT                   ECO:0000269|PubMed:14702039, ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_054971"
+FT   VARIANT         1059
+FT                   /note="A -> T (in dbSNP:rs115303435)"
+FT                   /evidence="ECO:0000269|PubMed:23329068"
+FT                   /id="VAR_069730"
+FT   VARIANT         1124
+FT                   /note="H -> P (in PFBMFT3; dbSNP:rs786205702)"
+FT                   /evidence="ECO:0000269|PubMed:25848748"
+FT                   /id="VAR_073797"
+FT   MUTAGEN         48
+FT                   /note="K->R: Abolishes ATPase activity."
+FT                   /evidence="ECO:0000269|PubMed:18957201"
+FT   CONFLICT        41
+FT                   /note="E -> G (in Ref. 5; BAG63785)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        48
+FT                   /note="K -> R (in Ref. 5; BAG61337)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        845
+FT                   /note="A -> V (in Ref. 5; BAG63785)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        986
+FT                   /note="R -> Q (in Ref. 5; BAG61337)"
+FT                   /evidence="ECO:0000305"
+FT   VARIANT         Q9NZ71-2:1244
+FT                   /note="C -> R (in DKCB5, severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:23591994"
+FT                   /id="VAR_082827"
+FT   CONFLICT        Q9NZ71-2:1352
+FT                   /note="C -> R (in Ref. 2; BAA83040)"
+FT                   /evidence="ECO:0000305"
+FT   VARIANT         Q9NZ71-5:489
+FT                   /note="C -> R (in DKCB5, severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:23591994"
+FT                   /id="VAR_082828"
+FT   VARIANT         Q9NZ71-5:509
+FT                   /note="R -> H (in DKCB5, abolishes activity)"
+FT                   /evidence="ECO:0000269|PubMed:23453664,
+FT                   ECO:0000269|PubMed:24009516"
+FT                   /id="VAR_082829"
+FT   VARIANT         Q9NZ71-6:1244
+FT                   /note="C -> R (in DKCB5, severe form consistent with
+FT                   Hoyeraal-Hreidarsson syndrome; dbSNP:rs587777037)"
+FT                   /evidence="ECO:0000269|PubMed:23591994"
+FT                   /id="VAR_082830"
+FT   VARIANT         Q9NZ71-6:1264
+FT                   /note="R -> H (in DKCB5, abolishes activity;
+FT                   dbSNP:rs201540674)"
+FT                   /evidence="ECO:0000269|PubMed:23453664"
+FT                   /id="VAR_082831"
+SQ   SEQUENCE   1219 AA;  133683 MW;  28DFCFCC48BC0055 CRC64;
+     MPKIVLNGVT VDFPFQPYKC QQEYMTKVLE CLQQKVNGIL ESPTGTGKTL CLLCTTLAWR
+     EHLRDGISAR KIAERAQGEL FPDRALSSWG NAAAAAGDPI ACYTDIPKII YASRTHSQLT
+     QVINELRNTS YRPKVCVLGS REQLCIHPEV KKQESNHLQI HLCRKKVASR SCHFYNNVEE
+     KSLEQELASP ILDIEDLVKS GSKHRVCPYY LSRNLKQQAD IIFMPYNYLL DAKSRRAHNI
+     DLKGTVVIFD EAHNVEKMCE ESASFDLTPH DLASGLDVID QVLEEQTKAA QQGEPHPEFS
+     ADSPSPGLNM ELEDIAKLKM ILLRLEGAID AVELPGDDSG VTKPGSYIFE LFAEAQITFQ
+     TKGCILDSLD QIIQHLAGRA GVFTNTAGLQ KLADIIQIVF SVDPSEGSPG SPAGLGALQS
+     YKVHIHPDAG HRRTAQRSDA WSTTAARKRG KVLSYWCFSP GHSMHELVRQ GVRSLILTSG
+     TLAPVSSFAL EMQIPFPVCL ENPHIIDKHQ IWVGVVPRGP DGAQLSSAFD RRFSEECLSS
+     LGKALGNIAR VVPYGLLIFF PSYPVMEKSL EFWRARDLAR KMEALKPLFV EPRSKGSFSE
+     TISAYYARVA APGSTGATFL AVCRGKASEG LDFSDTNGRG VIVTGLPYPP RMDPRVVLKM
+     QFLDEMKGQG GAGGQFLSGQ EWYRQQASRA VNQAIGRVIR HRQDYGAVFL CDHRFAFADA
+     RAQLPSWVRP HVRVYDNFGH VIRDVAQFFR VAERTMPAPA PRATAPSVRG EDAVSEAKSP
+     GPFFSTRKAK SLDLHVPSLK QRSSGSPAAG DPESSLCVEY EQEPVPARQR PRGLLAALEH
+     SEQRAGSPGE EQAHSCSTLS LLSEKRPAEE PRGGRKKIRL VSHPEEPVAG AQTDRAKLFM
+     VAVKQELSQA NFATFTQALQ DYKGSDDFAA LAACLGPLFA EDPKKHNLLQ GFYQFVRPHH
+     KQQFEEVCIQ LTGRGCGYRP EHSIPRRQRA QPVLDPTGRT APDPKLTVST AAAQQLDPQE
+     HLNQGRPHLS PRPPPTGDPG SQPQWGSGVP RAGKQGQHAV SAYLADARRA LGSAGCSQLL
+     AALTAYKQDD DLDKVLAVLA ALTTAKPEDF PLLHRFSMFV RPHHKQRFSQ TCTDLTGRPY
+     PGMEPPGPQE ERLAVPPVLT HRAPQPGPSR SEKTGKTQSK ISSFLRQRPA GTVGAGGEDA
+     GPSQSSGPPH GPAASEWGL
+//

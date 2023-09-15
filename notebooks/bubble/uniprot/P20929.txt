@@ -1,0 +1,986 @@
+ID   NEBU_HUMAN              Reviewed;        6669 AA.
+AC   P20929; F8WCL5; F8WCP0; Q15346; Q53QQ2; Q53TG8;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   14-MAY-2014, sequence version 5.
+DT   28-JUN-2023, entry version 208.
+DE   RecName: Full=Nebulin;
+GN   Name=NEB;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 4), AND VARIANTS ASN-1027; HIS-1301;
+RP   MET-1491; CYS-3360; THR-4401 AND VAL-6546.
+RX   PubMed=7739042; DOI=10.1016/s0022-2836(95)80052-2;
+RA   Labeit S., Kolmerer B.;
+RT   "The complete primary structure of human nebulin and its correlation to
+RT   muscle structure.";
+RL   J. Mol. Biol. 248:308-315(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 6263-6329.
+RX   PubMed=1682316; DOI=10.1016/s0021-9258(18)54843-2;
+RA   Jin J.P., Wang K.;
+RT   "Cloning, expression, and protein interaction of human nebulin fragments
+RT   composed of varying numbers of sequence modules.";
+RL   J. Biol. Chem. 266:21215-21223(1991).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1811-1939.
+RX   PubMed=3397062; DOI=10.1016/0888-7543(88)90009-2;
+RA   Zeviani M., Darras B.T., Rizzuto R., Salviati G., Betto R., Bonilla E.,
+RA   Miranda A.F., Du J., Samitt C., Dickson G., Walsh F.S., Dimauro S.,
+RA   Francke U., Schon E.A.;
+RT   "Cloning and expression of human nebulin cDNAs and assignment of the gene
+RT   to chromosome 2q31-q32.";
+RL   Genomics 2:249-256(1988).
+RN   [5]
+RP   INTERACTION WITH TTN.
+RX   PubMed=12482578; DOI=10.1016/s0014-5793(02)03655-4;
+RA   Ma K., Wang K.;
+RT   "Interaction of nebulin SH3 domain with titin PEVK and myopalladin:
+RT   implications for the signaling and assembly role of titin and nebulin.";
+RL   FEBS Lett. 532:273-278(2002).
+RN   [6]
+RP   SUBUNIT, AND INTERACTION WITH DES.
+RX   PubMed=23615443; DOI=10.1091/mbc.e12-11-0840;
+RA   Baker L.K., Gillis D.C., Sharma S., Ambrus A., Herrmann H., Conover G.M.;
+RT   "Nebulin binding impedes mutant desmin filament assembly.";
+RL   Mol. Biol. Cell 24:1918-1932(2013).
+RN   [7]
+RP   STRUCTURE BY NMR OF 6610-6669.
+RX   PubMed=9514727; DOI=10.1006/jmbi.1997.1521;
+RA   Politou A.S., Millevoi S., Gautel M., Kolmerer B., Pastore A.;
+RT   "SH3 in muscles: solution structure of the SH3 domain from nebulin.";
+RL   J. Mol. Biol. 276:189-202(1998).
+RN   [8]
+RP   INVOLVEMENT IN NEM2, AND INVOLVEMENT IN AMC6.
+RX   PubMed=10051637; DOI=10.1073/pnas.96.5.2305;
+RA   Pelin K., Hilpelae P., Donner K., Sewry C., Akkari P.A., Wilton S.D.,
+RA   Wattanasirichaigoon D., Bang M.-L., Centner T., Hanefeld F., Odent S.,
+RA   Fardeau M., Urtizberea J.A., Muntoni F., Dubowitz V., Beggs A.H.,
+RA   Laing N.G., Labeit S., de la Chapelle A., Wallgren-Pettersson C.;
+RT   "Mutations in the nebulin gene associated with autosomal recessive nemaline
+RT   myopathy.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:2305-2310(1999).
+RN   [9]
+RP   INVOLVEMENT IN AMC6.
+RX   PubMed=21798101; DOI=10.1186/2044-5040-1-23;
+RA   Lawlor M.W., Ottenheijm C.A., Lehtokari V.L., Cho K., Pelin K.,
+RA   Wallgren-Pettersson C., Granzier H., Beggs A.H.;
+RT   "Novel mutations in NEB cause abnormal nebulin expression and markedly
+RT   impaired muscle force generation in severe nemaline myopathy.";
+RL   Skelet. Muscle 1:23-23(2011).
+RN   [10]
+RP   INTERACTION WITH SVIL.
+RX   PubMed=18639526; DOI=10.1016/j.bbrc.2008.07.036;
+RA   Lee M.-A., Joo Y.M., Lee Y.M., Kim H.S., Kim J.-H., Choi J.-K., Ahn S.-J.,
+RA   Min B.-I., Kim C.-R.;
+RT   "Archvillin anchors in the Z-line of skeletal muscle via the nebulin C-
+RT   terminus.";
+RL   Biochem. Biophys. Res. Commun. 374:320-324(2008).
+RN   [11]
+RP   VARIANT AMC6 974-ARG--ILE-6669 DEL, AND INVOLVEMENT IN AMC6.
+RX   PubMed=26578207; DOI=10.1186/s13023-015-0364-0;
+RA   Todd E.J., Yau K.S., Ong R., Slee J., McGillivray G., Barnett C.P.,
+RA   Haliloglu G., Talim B., Akcoren Z., Kariminejad A., Cairns A., Clarke N.F.,
+RA   Freckmann M.L., Romero N.B., Williams D., Sewry C.A., Colley A., Ryan M.M.,
+RA   Kiraly-Borri C., Sivadorai P., Allcock R.J., Beeson D., Maxwell S.,
+RA   Davis M.R., Laing N.G., Ravenscroft G.;
+RT   "Next generation sequencing in a large cohort of patients presenting with
+RT   neuromuscular disease before or at birth.";
+RL   Orphanet J. Rare Dis. 10:148-148(2015).
+RN   [12]
+RP   VARIANTS AMC6 4561-TYR--ILE-6669 DEL AND 4626-TYR--ILE-6669 DEL, AND
+RP   INVOLVEMENT IN AMC6.
+RX   PubMed=29274205; DOI=10.1002/ajmg.a.38577;
+RA   Ahmed A.A., Skaria P., Safina N.P., Thiffault I., Kats A., Taboada E.,
+RA   Habeebu S., Saunders C.;
+RT   "Arthrogryposis and pterygia as lethal end manifestations of genetically
+RT   defined congenital myopathies.";
+RL   Am. J. Med. Genet. A 176:359-367(2018).
+CC   -!- FUNCTION: This giant muscle protein may be involved in maintaining the
+CC       structural integrity of sarcomeres and the membrane system associated
+CC       with the myofibrils. Binds and stabilize F-actin.
+CC   -!- SUBUNIT: Monomer and homooligomer (PubMed:23615443). Interacts with
+CC       TTN/titin (PubMed:12482578). Interacts with SVIL (PubMed:18639526).
+CC       Interacts (via nebulin repeats 160-164) with DES (PubMed:23615443).
+CC       {ECO:0000269|PubMed:12482578, ECO:0000269|PubMed:18639526,
+CC       ECO:0000269|PubMed:23615443}.
+CC   -!- INTERACTION:
+CC       P20929; O75923: DYSF; NbExp=6; IntAct=EBI-1049657, EBI-2799016;
+CC       P20929; O60662: KLHL41; NbExp=8; IntAct=EBI-1049657, EBI-5353084;
+CC       P20929; Q86TC9: MYPN; NbExp=2; IntAct=EBI-1049657, EBI-2562606;
+CC       P20929; Q07889: SOS1; NbExp=3; IntAct=EBI-1049657, EBI-297487;
+CC       P20929; O95425: SVIL; NbExp=4; IntAct=EBI-1049657, EBI-487145;
+CC       P20929; Q8WZ42: TTN; NbExp=6; IntAct=EBI-1049657, EBI-681210;
+CC       P20929-4; O60662: KLHL41; NbExp=5; IntAct=EBI-9531519, EBI-5353084;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, myofibril, sarcomere. Cytoplasm,
+CC       cytoskeleton.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=P20929-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P20929-2; Sequence=VSP_054445, VSP_054446, VSP_054447,
+CC                                  VSP_054448;
+CC       Name=3;
+CC         IsoId=P20929-3; Sequence=VSP_054445, VSP_054446, VSP_054448;
+CC       Name=4;
+CC         IsoId=P20929-4; Sequence=VSP_054444;
+CC   -!- TISSUE SPECIFICITY: Muscle specific. Located in the thin filament of
+CC       striated muscle.
+CC   -!- DISEASE: Nemaline myopathy 2 (NEM2) [MIM:256030]: A form of nemaline
+CC       myopathy. Nemaline myopathies are muscular disorders characterized by
+CC       muscle weakness of varying severity and onset, and abnormal thread-like
+CC       or rod-shaped structures in muscle fibers on histologic examination.
+CC       {ECO:0000269|PubMed:10051637}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Arthrogryposis multiplex congenita 6 (AMC6) [MIM:619334]: A
+CC       form of arthrogryposis multiplex congenita, a developmental condition
+CC       characterized by multiple joint contractures resulting from reduced or
+CC       absent fetal movements. AMC6 is an autosomal recessive lethal form.
+CC       Death usually occurs in utero or in infancy.
+CC       {ECO:0000269|PubMed:10051637, ECO:0000269|PubMed:21798101,
+CC       ECO:0000269|PubMed:26578207, ECO:0000269|PubMed:29274205}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X83957; CAA58788.1; -; mRNA.
+DR   EMBL; AC009497; AAY14651.1; -; Genomic_DNA.
+DR   EMBL; AC107052; AAY14977.1; -; Genomic_DNA.
+DR   EMBL; AC116650; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; M19669; AAA59917.1; -; mRNA.
+DR   CCDS; CCDS46424.1; -. [P20929-4]
+DR   CCDS; CCDS54407.1; -. [P20929-2]
+DR   CCDS; CCDS54408.1; -. [P20929-3]
+DR   PIR; A29979; A29979.
+DR   PIR; B29979; B29979.
+DR   PIR; S55024; S55024.
+DR   RefSeq; NP_004534.2; NM_004543.4. [P20929-4]
+DR   PDB; 1ARK; NMR; -; A=6610-6669.
+DR   PDB; 1NEB; NMR; -; A=6610-6669.
+DR   PDB; 6Y17; X-ray; 1.56 A; C/D=6610-6669.
+DR   PDBsum; 1ARK; -.
+DR   PDBsum; 1NEB; -.
+DR   PDBsum; 6Y17; -.
+DR   SMR; P20929; -.
+DR   BioGRID; 110783; 55.
+DR   IntAct; P20929; 36.
+DR   MINT; P20929; -.
+DR   CarbonylDB; P20929; -.
+DR   GlyGen; P20929; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; P20929; -.
+DR   PhosphoSitePlus; P20929; -.
+DR   SwissPalm; P20929; -.
+DR   BioMuta; NEB; -.
+DR   DMDM; 313104310; -.
+DR   EPD; P20929; -.
+DR   jPOST; P20929; -.
+DR   MassIVE; P20929; -.
+DR   PeptideAtlas; P20929; -.
+DR   ProteomicsDB; 31194; -.
+DR   ProteomicsDB; 31219; -.
+DR   ProteomicsDB; 53825; -. [P20929-1]
+DR   Antibodypedia; 1171; 140 antibodies from 26 providers.
+DR   DNASU; 4703; -.
+DR   Ensembl; ENST00000397345.8; ENSP00000380505.3; ENSG00000183091.21. [P20929-2]
+DR   Ensembl; ENST00000409198.5; ENSP00000386259.1; ENSG00000183091.21. [P20929-4]
+DR   Ensembl; ENST00000427231.7; ENSP00000416578.2; ENSG00000183091.21. [P20929-3]
+DR   GeneID; 4703; -.
+DR   KEGG; hsa:4703; -.
+DR   MANE-Select; ENST00000397345.8; ENSP00000380505.3; NM_001164508.2; NP_001157980.2. [P20929-2]
+DR   UCSC; uc002txu.3; human. [P20929-1]
+DR   AGR; HGNC:7720; -.
+DR   CTD; 4703; -.
+DR   DisGeNET; 4703; -.
+DR   GeneCards; NEB; -.
+DR   HGNC; HGNC:7720; NEB.
+DR   HPA; ENSG00000183091; Group enriched (skeletal muscle, tongue).
+DR   MalaCards; NEB; -.
+DR   MIM; 161650; gene.
+DR   MIM; 256030; phenotype.
+DR   MIM; 619334; phenotype.
+DR   neXtProt; NX_P20929; -.
+DR   OpenTargets; ENSG00000183091; -.
+DR   Orphanet; 171439; Childhood-onset nemaline myopathy.
+DR   Orphanet; 399103; Distal nebulin myopathy.
+DR   Orphanet; 171433; Intermediate nemaline myopathy.
+DR   Orphanet; 33108; Lethal multiple pterygium syndrome.
+DR   Orphanet; 171430; Severe congenital nemaline myopathy.
+DR   Orphanet; 171436; Typical nemaline myopathy.
+DR   PharmGKB; PA31530; -.
+DR   VEuPathDB; HostDB:ENSG00000183091; -.
+DR   GeneTree; ENSGT00940000154533; -.
+DR   HOGENOM; CLU_000024_0_0_1; -.
+DR   InParanoid; P20929; -.
+DR   OMA; WRYREQY; -.
+DR   OrthoDB; 3816962at2759; -.
+DR   TreeFam; TF319104; -.
+DR   PathwayCommons; P20929; -.
+DR   Reactome; R-HSA-390522; Striated Muscle Contraction.
+DR   SignaLink; P20929; -.
+DR   SIGNOR; P20929; -.
+DR   BioGRID-ORCS; 4703; 13 hits in 1141 CRISPR screens.
+DR   ChiTaRS; NEB; human.
+DR   EvolutionaryTrace; P20929; -.
+DR   GenomeRNAi; 4703; -.
+DR   Pharos; P20929; Tbio.
+DR   PRO; PR:P20929; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; P20929; protein.
+DR   Bgee; ENSG00000183091; Expressed in gluteal muscle and 124 other tissues.
+DR   ExpressionAtlas; P20929; baseline and differential.
+DR   Genevisible; P20929; HS.
+DR   GO; GO:0015629; C:actin cytoskeleton; TAS:ProtInc.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0030018; C:Z disc; IDA:UniProtKB.
+DR   GO; GO:0051015; F:actin filament binding; IBA:GO_Central.
+DR   GO; GO:0008307; F:structural constituent of muscle; TAS:ProtInc.
+DR   GO; GO:0071691; P:cardiac muscle thin filament assembly; IBA:GO_Central.
+DR   GO; GO:0007517; P:muscle organ development; TAS:ProtInc.
+DR   GO; GO:0030832; P:regulation of actin filament length; NAS:UniProtKB.
+DR   GO; GO:0007525; P:somatic muscle development; NAS:UniProtKB.
+DR   CDD; cd11933; SH3_Nebulin_C; 1.
+DR   Gene3D; 2.30.30.40; SH3 Domains; 1.
+DR   InterPro; IPR013998; Nebulin-like.
+DR   InterPro; IPR000900; Nebulin_repeat.
+DR   InterPro; IPR035629; Nebulin_SH3.
+DR   InterPro; IPR036028; SH3-like_dom_sf.
+DR   InterPro; IPR001452; SH3_domain.
+DR   PANTHER; PTHR11039:SF65; -; 1.
+DR   PANTHER; PTHR11039; NEBULIN; 1.
+DR   Pfam; PF00880; Nebulin; 76.
+DR   Pfam; PF14604; SH3_9; 1.
+DR   PRINTS; PR00510; NEBULIN.
+DR   SMART; SM00227; NEBU; 181.
+DR   SMART; SM00326; SH3; 1.
+DR   SUPFAM; SSF50044; SH3-domain; 1.
+DR   PROSITE; PS51216; NEBULIN; 181.
+DR   PROSITE; PS50002; SH3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Actin-binding; Alternative splicing; Cytoplasm; Cytoskeleton;
+KW   Disease variant; Muscle protein; Nemaline myopathy; Reference proteome;
+KW   Repeat; SH3 domain.
+FT   CHAIN           1..6669
+FT                   /note="Nebulin"
+FT                   /id="PRO_0000096775"
+FT   REPEAT          76..107
+FT                   /note="Nebulin 1"
+FT   REPEAT          113..143
+FT                   /note="Nebulin 2"
+FT   REPEAT          148..178
+FT                   /note="Nebulin 3"
+FT   REPEAT          183..213
+FT                   /note="Nebulin 4"
+FT   REPEAT          218..248
+FT                   /note="Nebulin 5"
+FT   REPEAT          253..283
+FT                   /note="Nebulin 6"
+FT   REPEAT          289..318
+FT                   /note="Nebulin 7"
+FT   REPEAT          324..354
+FT                   /note="Nebulin 8"
+FT   REPEAT          363..393
+FT                   /note="Nebulin 9"
+FT   REPEAT          398..428
+FT                   /note="Nebulin 10"
+FT   REPEAT          434..464
+FT                   /note="Nebulin 11"
+FT   REPEAT          502..532
+FT                   /note="Nebulin 12"
+FT   REPEAT          537..567
+FT                   /note="Nebulin 13"
+FT   REPEAT          573..603
+FT                   /note="Nebulin 14"
+FT   REPEAT          611..641
+FT                   /note="Nebulin 15"
+FT   REPEAT          681..711
+FT                   /note="Nebulin 16"
+FT   REPEAT          749..779
+FT                   /note="Nebulin 17"
+FT   REPEAT          784..814
+FT                   /note="Nebulin 18"
+FT   REPEAT          820..850
+FT                   /note="Nebulin 19"
+FT   REPEAT          858..888
+FT                   /note="Nebulin 20"
+FT   REPEAT          893..923
+FT                   /note="Nebulin 21"
+FT   REPEAT          924..954
+FT                   /note="Nebulin 22"
+FT   REPEAT          959..990
+FT                   /note="Nebulin 23"
+FT   REPEAT          993..1023
+FT                   /note="Nebulin 24"
+FT   REPEAT          1028..1058
+FT                   /note="Nebulin 25"
+FT   REPEAT          1064..1094
+FT                   /note="Nebulin 26"
+FT   REPEAT          1102..1132
+FT                   /note="Nebulin 27"
+FT   REPEAT          1137..1167
+FT                   /note="Nebulin 28"
+FT   REPEAT          1168..1198
+FT                   /note="Nebulin 29"
+FT   REPEAT          1204..1234
+FT                   /note="Nebulin 30"
+FT   REPEAT          1237..1267
+FT                   /note="Nebulin 31"
+FT   REPEAT          1272..1302
+FT                   /note="Nebulin 32"
+FT   REPEAT          1308..1338
+FT                   /note="Nebulin 33"
+FT   REPEAT          1346..1376
+FT                   /note="Nebulin 34"
+FT   REPEAT          1381..1411
+FT                   /note="Nebulin 35"
+FT   REPEAT          1412..1442
+FT                   /note="Nebulin 36"
+FT   REPEAT          1448..1478
+FT                   /note="Nebulin 37"
+FT   REPEAT          1481..1511
+FT                   /note="Nebulin 38"
+FT   REPEAT          1516..1546
+FT                   /note="Nebulin 39"
+FT   REPEAT          1552..1582
+FT                   /note="Nebulin 40"
+FT   REPEAT          1590..1620
+FT                   /note="Nebulin 41"
+FT   REPEAT          1625..1655
+FT                   /note="Nebulin 42"
+FT   REPEAT          1656..1686
+FT                   /note="Nebulin 43"
+FT   REPEAT          1692..1722
+FT                   /note="Nebulin 44"
+FT   REPEAT          1725..1755
+FT                   /note="Nebulin 45"
+FT   REPEAT          1760..1790
+FT                   /note="Nebulin 46"
+FT   REPEAT          1796..1826
+FT                   /note="Nebulin 47"
+FT   REPEAT          1834..1864
+FT                   /note="Nebulin 48"
+FT   REPEAT          1869..1899
+FT                   /note="Nebulin 49"
+FT   REPEAT          1900..1930
+FT                   /note="Nebulin 50"
+FT   REPEAT          1936..1966
+FT                   /note="Nebulin 51"
+FT   REPEAT          1969..1999
+FT                   /note="Nebulin 52"
+FT   REPEAT          2004..2034
+FT                   /note="Nebulin 53"
+FT   REPEAT          2040..2070
+FT                   /note="Nebulin 54"
+FT   REPEAT          2078..2108
+FT                   /note="Nebulin 55"
+FT   REPEAT          2113..2143
+FT                   /note="Nebulin 56"
+FT   REPEAT          2144..2174
+FT                   /note="Nebulin 57"
+FT   REPEAT          2180..2210
+FT                   /note="Nebulin 58"
+FT   REPEAT          2213..2243
+FT                   /note="Nebulin 59"
+FT   REPEAT          2248..2278
+FT                   /note="Nebulin 60"
+FT   REPEAT          2284..2314
+FT                   /note="Nebulin 61"
+FT   REPEAT          2322..2352
+FT                   /note="Nebulin 62"
+FT   REPEAT          2357..2387
+FT                   /note="Nebulin 63"
+FT   REPEAT          2388..2418
+FT                   /note="Nebulin 64"
+FT   REPEAT          2423..2453
+FT                   /note="Nebulin 65"
+FT   REPEAT          2456..2486
+FT                   /note="Nebulin 66"
+FT   REPEAT          2491..2521
+FT                   /note="Nebulin 67"
+FT   REPEAT          2527..2557
+FT                   /note="Nebulin 68"
+FT   REPEAT          2565..2595
+FT                   /note="Nebulin 69"
+FT   REPEAT          2600..2630
+FT                   /note="Nebulin 70"
+FT   REPEAT          2631..2661
+FT                   /note="Nebulin 71"
+FT   REPEAT          2666..2696
+FT                   /note="Nebulin 72"
+FT   REPEAT          2699..2729
+FT                   /note="Nebulin 73"
+FT   REPEAT          2734..2764
+FT                   /note="Nebulin 74"
+FT   REPEAT          2770..2800
+FT                   /note="Nebulin 75"
+FT   REPEAT          2808..2838
+FT                   /note="Nebulin 76"
+FT   REPEAT          2843..2873
+FT                   /note="Nebulin 77"
+FT   REPEAT          2874..2904
+FT                   /note="Nebulin 78"
+FT   REPEAT          2909..2939
+FT                   /note="Nebulin 79"
+FT   REPEAT          2942..2972
+FT                   /note="Nebulin 80"
+FT   REPEAT          2977..3007
+FT                   /note="Nebulin 81"
+FT   REPEAT          3013..3043
+FT                   /note="Nebulin 82"
+FT   REPEAT          3051..3081
+FT                   /note="Nebulin 83"
+FT   REPEAT          3086..3116
+FT                   /note="Nebulin 84"
+FT   REPEAT          3117..3147
+FT                   /note="Nebulin 85"
+FT   REPEAT          3152..3182
+FT                   /note="Nebulin 86"
+FT   REPEAT          3185..3215
+FT                   /note="Nebulin 87"
+FT   REPEAT          3220..3250
+FT                   /note="Nebulin 88"
+FT   REPEAT          3256..3286
+FT                   /note="Nebulin 89"
+FT   REPEAT          3294..3324
+FT                   /note="Nebulin 90"
+FT   REPEAT          3329..3359
+FT                   /note="Nebulin 91"
+FT   REPEAT          3360..3390
+FT                   /note="Nebulin 92"
+FT   REPEAT          3395..3425
+FT                   /note="Nebulin 93"
+FT   REPEAT          3428..3458
+FT                   /note="Nebulin 94"
+FT   REPEAT          3463..3493
+FT                   /note="Nebulin 95"
+FT   REPEAT          3499..3529
+FT                   /note="Nebulin 96"
+FT   REPEAT          3537..3567
+FT                   /note="Nebulin 97"
+FT   REPEAT          3572..3602
+FT                   /note="Nebulin 98"
+FT   REPEAT          3603..3633
+FT                   /note="Nebulin 99"
+FT   REPEAT          3638..3668
+FT                   /note="Nebulin 100"
+FT   REPEAT          3671..3701
+FT                   /note="Nebulin 101"
+FT   REPEAT          3706..3736
+FT                   /note="Nebulin 102"
+FT   REPEAT          3742..3772
+FT                   /note="Nebulin 103"
+FT   REPEAT          3780..3810
+FT                   /note="Nebulin 104"
+FT   REPEAT          3815..3845
+FT                   /note="Nebulin 105"
+FT   REPEAT          3846..3876
+FT                   /note="Nebulin 106"
+FT   REPEAT          3914..3944
+FT                   /note="Nebulin 107"
+FT   REPEAT          3949..3979
+FT                   /note="Nebulin 108"
+FT   REPEAT          3984..4014
+FT                   /note="Nebulin 109"
+FT   REPEAT          4021..4052
+FT                   /note="Nebulin 110"
+FT   REPEAT          4057..4087
+FT                   /note="Nebulin 111"
+FT   REPEAT          4088..4118
+FT                   /note="Nebulin 112"
+FT   REPEAT          4123..4153
+FT                   /note="Nebulin 113"
+FT   REPEAT          4156..4186
+FT                   /note="Nebulin 114"
+FT   REPEAT          4191..4220
+FT                   /note="Nebulin 115"
+FT   REPEAT          4226..4256
+FT                   /note="Nebulin 116"
+FT   REPEAT          4264..4294
+FT                   /note="Nebulin 117"
+FT   REPEAT          4299..4329
+FT                   /note="Nebulin 118"
+FT   REPEAT          4330..4360
+FT                   /note="Nebulin 119"
+FT   REPEAT          4365..4395
+FT                   /note="Nebulin 120"
+FT   REPEAT          4400..4430
+FT                   /note="Nebulin 121"
+FT   REPEAT          4435..4465
+FT                   /note="Nebulin 122"
+FT   REPEAT          4471..4501
+FT                   /note="Nebulin 123"
+FT   REPEAT          4544..4574
+FT                   /note="Nebulin 124"
+FT   REPEAT          4575..4605
+FT                   /note="Nebulin 125"
+FT   REPEAT          4610..4640
+FT                   /note="Nebulin 126"
+FT   REPEAT          4645..4675
+FT                   /note="Nebulin 127"
+FT   REPEAT          4680..4710
+FT                   /note="Nebulin 128"
+FT   REPEAT          4716..4746
+FT                   /note="Nebulin 129"
+FT   REPEAT          4754..4784
+FT                   /note="Nebulin 130"
+FT   REPEAT          4789..4819
+FT                   /note="Nebulin 131"
+FT   REPEAT          4820..4850
+FT                   /note="Nebulin 132"
+FT   REPEAT          4855..4885
+FT                   /note="Nebulin 133"
+FT   REPEAT          4890..4920
+FT                   /note="Nebulin 134"
+FT   REPEAT          4926..4956
+FT                   /note="Nebulin 135"
+FT   REPEAT          4961..4991
+FT                   /note="Nebulin 136"
+FT   REPEAT          4997..5027
+FT                   /note="Nebulin 137"
+FT   REPEAT          5032..5062
+FT                   /note="Nebulin 138"
+FT   REPEAT          5067..5097
+FT                   /note="Nebulin 139"
+FT   REPEAT          5137..5167
+FT                   /note="Nebulin 140"
+FT   REPEAT          5172..5202
+FT                   /note="Nebulin 141"
+FT   REPEAT          5207..5237
+FT                   /note="Nebulin 142"
+FT   REPEAT          5242..5272
+FT                   /note="Nebulin 143"
+FT   REPEAT          5277..5307
+FT                   /note="Nebulin 144"
+FT   REPEAT          5312..5342
+FT                   /note="Nebulin 145"
+FT   REPEAT          5347..5377
+FT                   /note="Nebulin 146"
+FT   REPEAT          5382..5412
+FT                   /note="Nebulin 147"
+FT   REPEAT          5417..5447
+FT                   /note="Nebulin 148"
+FT   REPEAT          5452..5482
+FT                   /note="Nebulin 149"
+FT   REPEAT          5488..5518
+FT                   /note="Nebulin 150"
+FT   REPEAT          5523..5553
+FT                   /note="Nebulin 151"
+FT   REPEAT          5558..5588
+FT                   /note="Nebulin 152"
+FT   REPEAT          5593..5623
+FT                   /note="Nebulin 153"
+FT   REPEAT          5628..5658
+FT                   /note="Nebulin 154"
+FT   REPEAT          5665..5695
+FT                   /note="Nebulin 155"
+FT   REPEAT          5702..5732
+FT                   /note="Nebulin 156"
+FT   REPEAT          5736..5766
+FT                   /note="Nebulin 157"
+FT   REPEAT          5771..5801
+FT                   /note="Nebulin 158"
+FT   REPEAT          5808..5838
+FT                   /note="Nebulin 159"
+FT   REPEAT          5843..5873
+FT                   /note="Nebulin 160"
+FT   REPEAT          5878..5908
+FT                   /note="Nebulin 161"
+FT   REPEAT          5911..5943
+FT                   /note="Nebulin 162"
+FT   REPEAT          5950..5980
+FT                   /note="Nebulin 163"
+FT   REPEAT          5987..6017
+FT                   /note="Nebulin 164"
+FT   REPEAT          6025..6055
+FT                   /note="Nebulin 165"
+FT   REPEAT          6060..6090
+FT                   /note="Nebulin 166"
+FT   REPEAT          6095..6125
+FT                   /note="Nebulin 167"
+FT   REPEAT          6130..6160
+FT                   /note="Nebulin 168"
+FT   REPEAT          6161..6191
+FT                   /note="Nebulin 169"
+FT   REPEAT          6192..6222
+FT                   /note="Nebulin 170"
+FT   REPEAT          6223..6253
+FT                   /note="Nebulin 171"
+FT   REPEAT          6255..6284
+FT                   /note="Nebulin 172"
+FT   REPEAT          6285..6315
+FT                   /note="Nebulin 173"
+FT   REPEAT          6316..6346
+FT                   /note="Nebulin 174"
+FT   REPEAT          6347..6377
+FT                   /note="Nebulin 175"
+FT   REPEAT          6378..6408
+FT                   /note="Nebulin 176"
+FT   REPEAT          6414..6444
+FT                   /note="Nebulin 177"
+FT   REPEAT          6449..6479
+FT                   /note="Nebulin 178"
+FT   DOMAIN          6610..6669
+FT                   /note="SH3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00192"
+FT   REGION          34..73
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          6457..6612
+FT                   /note="Interaction with SVIL"
+FT                   /evidence="ECO:0000269|PubMed:18639526"
+FT   REGION          6529..6566
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          6583..6607
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        34..52
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        6529..6549
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         2959..2960
+FT                   /note="IT -> LN (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:7739042"
+FT                   /id="VSP_054444"
+FT   VAR_SEQ         2973
+FT                   /note="D -> DKTQIHIMPDTPEIMLARMNKINYSESLYKLANEEAKKKGYDLRSDA
+FT                   IPIVAAKASRDIISDYKYKDGYCKQLGHHIGARNIEDDPKMMWSMHVAKIQSDREYKKD
+FT                   FEKWKTKFSSPVDMLGVVLAKKCQTLVSDVDYKNYLHEWTCLPDQSDVIHARQAYDLQS
+FT                   DNIYKSDLQWLRGIGWVPIGSMDVVKCKRATEILSDNIYRQPPDKLKFTSVTDSLEQVL
+FT                   AKNNALNMNKRLYTEAWDKD (in isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_054445"
+FT   VAR_SEQ         3854..3859
+FT                   /note="DIIQAK -> DIIQAKKAYDLQSDSVYKADLEWLRGIGWMPEGSVEMNRVKV
+FT                   AQDLVNERLYRTRPEALSFTSIVDTPEVVLAKANSLQISEKLYQEAWNKDKSNITIPSD
+FT                   TPEMLQAHINALQISNKLYQKDWNDAKQKGYDIRADAIEIKHAKASREIASEYKYKEGY
+FT                   RKQLGHHMGFRTLQDDPKSVWAIHAAKIQSDREYKKAYEKSKGIHNTPLDMMSIVQAKK
+FT                   CQVLVSDIDYRNYLHQWTCLPDQNDVIQAKKAYDLQSDNLYKSDLEWLKGIGWLPEGSV
+FT                   EVMRVKNAQNLLNERLYRIKPEALKFTSIVDTPEVIQAKINAVQISEPLYRDAWEKEKA
+FT                   NVNVPADTPLMLQSKINALQISNKRYQQAWEDVKMTGYDLRADAIGIQHAKASRDIASD
+FT                   YLYKTAYEKQKGHYIGCRSAKEDPKLVWAANVLKMQNDRLYKKAYNDHKAKISIPVDMV
+FT                   SISAAKEGQALASDVDYRHYLHHWSCFPDQNDVIQARKAYDLQSDSVYKADLEWLRGIG
+FT                   WMPEGSVEMNRVKVAQDLVNERLYRTRPEALSFTSIVDTPEVVLAKANSLQISEKLYQE
+FT                   AWNKDKSNITIPSDTPEMLQAHINALQISNKLYQKDWNDTKQKGYDIRADAIEIKHAKA
+FT                   SREIASEYKYKEGYRKQLGHHMGFRTLQDDPKSVWAIHAAKIQSDREYKKAYEKSKGIH
+FT                   NTPLDMMSIVQAKKCQVLVSDIDYRNYLHQWTCLPDQNDVIQAKKAYDLQSDNLYKSDL
+FT                   EWLKGIGWLPEGSVEVMRVKNAQNLLNERLYRIKPEALKFTSIVDTPEVIQAKINAVQI
+FT                   SEPLYRNAWEKEKANVNVPADTPLMLQSKINALQISNKRYQQAWEDVKMTGYDLRADAI
+FT                   GIQHAKASRDIASDYLYKTAYEKQKGHYIGCRSAKEDPKLVWAANVLKMQNDRLYKKAY
+FT                   NDHKAKISIPVDMVSISAAKEGQALASDVDYRHYLHHWSCFPDQNDVIQARKAYDLQSD
+FT                   SVYKADLEWLRGIGWMPEGSVEMNRVKVAQDLVNERLYRTRPEALSFTSIVDTPEVVLA
+FT                   KANSLQISEKLYQEAWNKDKSNITIPSDTPEMLQAHINALQISNKLYQKDWNDTKQKGY
+FT                   DIRADAIEIKHAKASREIASEYKYKEGYRKQLGHHMGFRTLQDDPKSVWAIHAAKIQSD
+FT                   REYKKAYEKSKGIHNTPLDMMSIVQAKKCQVLVSDIDYRNYLHQWTCLPDQNDVIQAKK
+FT                   AYDLQSDNLYKSDLEWLKGIGWLPEGSVEVMRVKNAQNLLNERLYRIKPEALKFTSIVD
+FT                   TPEVIQAKINAVQISEPLYRDAWEKEKANVNVPADTPLMLQSKINALQISNKRYQQAWE
+FT                   DVKMTGYDLRADAIGIQHAKASRDIASDYLYKTAYEKQKGHYIGCRSAKEDPKLVWAAN
+FT                   VLKMQNDRLYKKAYNDHKAKISIPVDMVSISAAKEGQALASDVDYRHYLHRWSCFPDQN
+FT                   DVIQAR (in isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_054446"
+FT   VAR_SEQ         5404..5436
+FT                   /note="KKYRADYEQRKDKYHLVVDEPRHLLAKTAGDQI -> RKYKSSAKMFLQHGC
+FT                   NEILRPDMLTALYNSHMW (in isoform 2)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_054447"
+FT   VAR_SEQ         6272..6273
+FT                   /note="NF -> NFSSILYKENLSKGTPLPVTPEMERVKLNQENFSSVLYKENVGKGI
+FT                   PIPITPEMERVKHNQENFSSVLYKENLGTGIPIPITPEMQRVKHNQENLSSVLYKENMG
+FT                   KGTPLPVTPEMERVKHNQENISSVLYKENMGKGTPLPVTPEMERVKHNQENI (in
+FT                   isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_054448"
+FT   VARIANT         146
+FT                   /note="T -> A (in dbSNP:rs4077109)"
+FT                   /id="VAR_047692"
+FT   VARIANT         191
+FT                   /note="E -> Q (in dbSNP:rs35686968)"
+FT                   /id="VAR_047693"
+FT   VARIANT         974..6669
+FT                   /note="Missing (in AMC6)"
+FT                   /evidence="ECO:0000269|PubMed:26578207"
+FT                   /id="VAR_085714"
+FT   VARIANT         1027
+FT                   /note="K -> N (in dbSNP:rs6735208)"
+FT                   /evidence="ECO:0000269|PubMed:7739042"
+FT                   /id="VAR_047694"
+FT   VARIANT         1301
+FT                   /note="Y -> H (in dbSNP:rs6711382)"
+FT                   /evidence="ECO:0000269|PubMed:7739042"
+FT                   /id="VAR_047695"
+FT   VARIANT         1469
+FT                   /note="E -> D (in dbSNP:rs34800215)"
+FT                   /id="VAR_047696"
+FT   VARIANT         1479
+FT                   /note="V -> I (in dbSNP:rs34577613)"
+FT                   /id="VAR_047697"
+FT   VARIANT         1491
+FT                   /note="V -> M (in dbSNP:rs7426114)"
+FT                   /evidence="ECO:0000269|PubMed:7739042"
+FT                   /id="VAR_047698"
+FT   VARIANT         1969
+FT                   /note="Y -> H (in dbSNP:rs34532796)"
+FT                   /id="VAR_047699"
+FT   VARIANT         2613
+FT                   /note="K -> N (in dbSNP:rs13013209)"
+FT                   /id="VAR_047700"
+FT   VARIANT         2773
+FT                   /note="R -> Q (in dbSNP:rs35974308)"
+FT                   /id="VAR_047701"
+FT   VARIANT         2912
+FT                   /note="S -> P (in dbSNP:rs6713162)"
+FT                   /id="VAR_047702"
+FT   VARIANT         2952
+FT                   /note="V -> G (in dbSNP:rs13024542)"
+FT                   /id="VAR_047703"
+FT   VARIANT         3360
+FT                   /note="W -> C (in dbSNP:rs10172023)"
+FT                   /evidence="ECO:0000269|PubMed:7739042"
+FT                   /id="VAR_047704"
+FT   VARIANT         3887
+FT                   /note="S -> T (in dbSNP:rs35227368)"
+FT                   /id="VAR_047705"
+FT   VARIANT         4271
+FT                   /note="P -> L (in dbSNP:rs4327235)"
+FT                   /id="VAR_047706"
+FT   VARIANT         4337
+FT                   /note="N -> S (in dbSNP:rs16830236)"
+FT                   /id="VAR_047707"
+FT   VARIANT         4401
+FT                   /note="R -> T (in dbSNP:rs2288210)"
+FT                   /evidence="ECO:0000269|PubMed:7739042"
+FT                   /id="VAR_047708"
+FT   VARIANT         4561..6669
+FT                   /note="Missing (in AMC6)"
+FT                   /evidence="ECO:0000269|PubMed:29274205"
+FT                   /id="VAR_085715"
+FT   VARIANT         4626..6669
+FT                   /note="Missing (in AMC6)"
+FT                   /evidence="ECO:0000269|PubMed:29274205"
+FT                   /id="VAR_085716"
+FT   VARIANT         5030
+FT                   /note="D -> V (in dbSNP:rs2288200)"
+FT                   /id="VAR_024240"
+FT   VARIANT         5463
+FT                   /note="R -> P (in dbSNP:rs16830171)"
+FT                   /id="VAR_047709"
+FT   VARIANT         5934
+FT                   /note="G -> E (in dbSNP:rs3732309)"
+FT                   /id="VAR_021888"
+FT   VARIANT         6131
+FT                   /note="T -> I (in dbSNP:rs34368668)"
+FT                   /id="VAR_056953"
+FT   VARIANT         6546
+FT                   /note="I -> V (in dbSNP:rs1061305)"
+FT                   /evidence="ECO:0000269|PubMed:7739042"
+FT                   /id="VAR_056954"
+FT   CONFLICT        727
+FT                   /note="E -> D (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        781
+FT                   /note="K -> R (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1290
+FT                   /note="N -> S (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1305
+FT                   /note="A -> R (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1389
+FT                   /note="S -> T (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1549
+FT                   /note="A -> R (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1939
+FT                   /note="P -> L (in Ref. 4; AAA59917)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        2023
+FT                   /note="M -> I (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        2613
+FT                   /note="K -> Y (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        3796
+FT                   /note="G -> E (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        3838
+FT                   /note="D -> Y (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        5038
+FT                   /note="T -> P (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        5132
+FT                   /note="K -> E (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        5432..5433
+FT                   /note="AG -> RS (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        6289
+FT                   /note="A -> P (in Ref. 1; CAA58788)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          6615..6619
+FT                   /evidence="ECO:0007829|PDB:6Y17"
+FT   STRAND          6624..6628
+FT                   /evidence="ECO:0007829|PDB:1ARK"
+FT   STRAND          6636..6652
+FT                   /evidence="ECO:0007829|PDB:6Y17"
+FT   TURN            6653..6655
+FT                   /evidence="ECO:0007829|PDB:6Y17"
+FT   STRAND          6658..6662
+FT                   /evidence="ECO:0007829|PDB:6Y17"
+FT   HELIX           6663..6665
+FT                   /evidence="ECO:0007829|PDB:6Y17"
+FT   STRAND          6666..6668
+FT                   /evidence="ECO:0007829|PDB:6Y17"
+SQ   SEQUENCE   6669 AA;  772914 MW;  AD93D9B6FB3D8161 CRC64;
+     MADDEDYEEV VEYYTEEVVY EEVPGETITK IYETTTTRTS DYEQSETSKP ALAQPALAQP
+     ASAKPVERRK VIRKKVDPSK FMTPYIAHSQ KMQDLFSPNK YKEKFEKTKG QPYASTTDTP
+     ELRRIKKVQD QLSEVKYRMD GDVAKTICHV DEKAKDIEHA KKVSQQVSKV LYKQNWEDTK
+     DKYLLPPDAP ELVQAVKNTA MFSKKLYTED WEADKSLFYP YNDSPELRRV AQAQKALSDV
+     AYKKGLAEQQ AQFTPLADPP DIEFAKKVTN QVSKQKYKED YENKIKGKWS ETPCFEVANA
+     RMNADNISTR KYQEDFENMK DQIYFMQTET PEYKMNKKAG VAASKVKYKE DYEKNKGKAD
+     YNVLPASENP QLRQLKAAGD ALSDKLYKEN YEKTKAKSIN YCETPKFKLD TVLQNFSSDK
+     KYKDSYLKDI LGHYVGSFED PYHSHCMKVT AQNSDKNYKA EYEEDRGKGF FPQTITQEYE
+     AIKKLDQCKD HTYKVHPDKT KFTQVTDSPV LLQAQVNSKQ LSDLNYKAKH ESEKFKCHIP
+     PDTPAFIQHK VNAYNLSDNL YKQDWEKSKA KKFDIKVDAI PLLAAKANTK NTSDVMYKKD
+     YEKNKGKMIG VLSINDDPKM LHSLKVAKNQ SDRLYKENYE KTKAKSMNYC ETPKYQLDTQ
+     LKNFSEARYK DLYVKDVLGH YVGSMEDPYH THCMKVAAQN SDKSYKAEYE EDKGKCYFPQ
+     TITQEYEAIK KLDQCKDHTY KVHPDKTKFT AVTDSPVLLQ AQLNTKQLSD LNYKAKHEGE
+     KFKCHIPADA PQFIQHRVNA YNLSDNVYKQ DWEKSKAKKF DIKVDAIPLL AAKANTKNTS
+     DVMYKKDYEK SKGKMIGALS INDDPKMLHS LKTAKNQSDR EYRKDYEKSK TIYTAPLDML
+     QVTQAKKSQA IASDVDYKHI LHSYSYPPDS INVDLAKKAY ALQSDVEYKA DYNSWMKGCG
+     WVPFGSLEME KAKRASDILN EKKYRQHPDT LKFTSIEDAP ITVQSKINQA QRSDIAYKAK
+     GEEIIHKYNL PPDLPQFIQA KVNAYNISEN MYKADLKDLS KKGYDLRTDA IPIRAAKAAR
+     QAASDVQYKK DYEKAKGKMV GFQSLQDDPK LVHYMNVAKI QSDREYKKDY EKTKSKYNTP
+     HDMFNVVAAK KAQDVVSNVN YKHSLHHYTY LPDAMDLELS KNMMQIQSDN VYKEDYNNWM
+     KGIGWIPIGS LDVEKVKKAG DALNEKKYRQ HPDTLKFTSI VDSPVMVQAK QNTKQVSDIL
+     YKAKGEDVKH KYTMSPDLPQ FLQAKCNAYN ISDVCYKRDW YDLIAKGNNV LGDAIPITAA
+     KASRNIASDY KYKEAYEKSK GKHVGFRSLQ DDPKLVHYMN VAKLQSDREY KKNYENTKTS
+     YHTPGDMVSI TAAKMAQDVA TNVNYKQPLH HYTYLPDAMS LEHTRNVNQI QSDNVYKDEY
+     NSFLKGIGWI PIGSLEVEKV KKAGDALNER KYRQHPDTVK FTSVPDSMGM VLAQHNTKQL
+     SDLNYKVEGE KLKHKYTIDP ELPQFIQAKV NALNMSDAHY KADWKKTIAK GYDLRPDAIP
+     IVAAKSSRNI ASDCKYKEAY EKAKGKQVGF LSLQDDPKLV HYMNVAKIQS DREYKKGYEA
+     SKTKYHTPLD MVSVTAAKKS QEVATNANYR QSYHHYTLLP DALNVEHSRN AMQIQSDNLY
+     KSDFTNWMKG IGWVPIESLE VEKAKKAGEI LSEKKYRQHP EKLKFTYAMD TMEQALNKSN
+     KLNMDKRLYT EKWNKDKTTI HVMPDTPDIL LSRVNQITMS DKLYKAGWEE EKKKGYDLRP
+     DAIAIKAARA SRDIASDYKY KKAYEQAKGK HIGFRSLEDD PKLVHFMQVA KMQSDREYKK
+     GYEKSKTSFH TPVDMLSVVA AKKSQEVATN ANYRNVIHTY NMLPDAMSFE LAKNMMQIQS
+     DNQYKADYAD FMKGIGWLPL GSLEAEKNKK AMEIISEKKY RQHPDTLKYS TLMDSMNMVL
+     AQNNAKIMNE HLYKQAWEAD KTKVHIMPDI PQIILAKANA INMSDKLYKL SLEESKKKGY
+     DLRPDAIPIK AAKASRDIAS DYKYKYNYEK GKGKMVGFRS LEDDPKLVHS MQVAKMQSDR
+     EYKKNYENTK TSYHTPADML SVTAAKDAQA NITNTNYKHL IHKYILLPDA MNIELTRNMN
+     RIQSDNEYKQ DYNEWYKGLG WSPAGSLEVE KAKKATEYAS DQKYRQHPSN FQFKKLTDSM
+     DMVLAKQNAH TMNKHLYTID WNKDKTKIHV MPDTPDILQA KQNQTLYSQK LYKLGWEEAL
+     KKGYDLPVDA ISVQLAKASR DIASDYKYKQ GYRKQLGHHV GFRSLQDDPK LVLSMNVAKM
+     QSEREYKKDF EKWKTKFSSP VDMLGVVLAK KCQELVSDVD YKNYLHQWTC LPDQNDVVQA
+     KKVYELQSEN LYKSDLEWLR GIGWSPLGSL EAEKNKRASE IISEKKYRQP PDRNKFTSIP
+     DAMDIVLAKT NAKNRSDRLY REAWDKDKTQ IHIMPDTPDI VLAKANLINT SDKLYRMGYE
+     ELKRKGYDLP VDAIPIKAAK ASREIASEYK YKEGFRKQLG HHIGARNIED DPKMMWSMHV
+     AKIQSDREYK KDFEKWKTKF SSPVDMLGVV LAKKCQTLVS DVDYKNYLHQ WTCLPDQSDV
+     IHARQAYDLQ SDNLYKSDLQ WLKGIGWMTS GSLEDEKNKR ATQILSDHVY RQHPDQFKFS
+     SLMDSIPMVL AKNNAITMNH RLYTEAWDKD KTTVHIMPDT PEVLLAKQNK VNYSEKLYKL
+     GLEEAKRKGY DMRVDAIPIK AAKASRDIAS EFKYKEGYRK QLGHHIGARA IRDDPKMMWS
+     MHVAKIQSDR EYKKDFEKWK TKFSSPVDML GVVLAKKCQT LVSDVDYKNY LHQWTCLPDQ
+     SDVIHARQAY DLQSDNMYKS DLQWMRGIGW VSIGSLDVEK CKRATEILSD KIYRQPPDRF
+     KFTSVTDSLE QVLAKNNAIT MNKRLYTEAW DKDKTQIHIM PDTPEIMLAR QNKINYSETL
+     YKLANEEAKK KGYDLRSDAI PIVAAKASRD VISDYKYKDG YRKQLGHHIG ARNIEDDPKM
+     MWSMHVAKIQ SDREYKKDFE KWKTKFSSPV DMLGVVLAKK CQTLVSDVDY KNYLHEWTCL
+     PDQNDVIHAR QAYDLQSDNI YKSDLQWLRG IGWVPIGSMD VVKCKRAAEI LSDNIYRQPP
+     DKLKFTSVTD SLEQVLAKNN ALNMNKRLYT EAWDKDKTQV HIMPDTPEIM LARQNKINYS
+     ESLYRQAMEE AKKEGYDLRS DAIPIVAAKA SRDIASDYKY KEAYRKQLGH HIGARAVHDD
+     PKIMWSLHIA KVQSDREYKK DFEKYKTRYS SPVDMLGIVL AKKCQTLVSD VDYKHPLHEW
+     ICLPDQNDII HARKAYDLQS DNLYKSDLEW MKGIGWVPID SLEVVRAKRA GELLSDTIYR
+     QRPETLKFTS ITDTPEQVLA KNNALNMNKR LYTEAWDNDK KTIHVMPDTP EIMLAKLNRI
+     NYSDKLYKLA LEESKKEGYD LRLDAIPIQA AKASRDIASD YKYKEGYRKQ LGHHIGARNI
+     KDDPKMMWSI HVAKIQSDRE YKKEFEKWKT KFSSPVDMLG VVLAKKCQIL VSDIDYKHPL
+     HEWTCLPDQN DVIQARKAYD LQSDAIYKSD LEWLRGIGWV PIGSVEVEKV KRAGEILSDR
+     KYRQPADQLK FTCITDTPEI VLAKNNALTM SKHLYTEAWD ADKTSIHVMP DTPDILLAKS
+     NSANISQKLY TKGWDESKMK DYDLRADAIS IKSAKASRDI ASDYKYKEAY EKQKGHHIGA
+     QSIEDDPKIM CAIHAGKIQS EREYKKEFQK WKTKFSSPVD MLSILLAKKC QTLVTDIDYR
+     NYLHEWTCMP DQNDIIQAKK AYDLQSDALY KADLEWLRGI GWMPQGSPEV LRVKNAQNIF
+     CDSVYRTPVV NLKYTSIVDT PEVVLAKSNA ENISIPKYRE VWDKDKTSIH IMPDTPEINL
+     ARANALNVSN KLYREGWDEM KAGCDVRLDA IPIQAAKASR EIASDYKYKL DHEKQKGHYV
+     GTLTARDDNK IRWALIADKL QNEREYRLDW AKWKAKIQSP VDMLSILHSK NSQALVSDMD
+     YRNYLHQWTC MPDQNDVIQA KKAYELQSDN VYKADLEWLR GIGWMPNDSV SVNHAKHAAD
+     IFSEKKYRTK IETLNFTPVD DRVDYVTAKQ SGEILDDIKY RKDWNATKSK YTLTETPLLH
+     TAQEAARILD QYLYKEGWER QKATGYILPP DAVPFVHAHH CNDVQSELKY KAEHVKQKGH
+     YVGVPTMRDD PKLVWFEHAG QIQNERLYKE DYHKTKAKIN IPADMVSVLA AKQGQTLVSD
+     IDYRNYLHQW MCHPDQNDVI QARKAYDLQS DNVYRADLEW LRGIGWIPLD SVDHVRVTKN
+     QEMMSQIKYK KNALENYPNF RSVVDPPEIV LAKINSVNQS DVKYKETFNK AKGKYTFSPD
+     TPHISHSKDM GKLYSTILYK GAWEGTKAYG YTLDERYIPI VGAKHADLVN SELKYKETYE
+     KQKGHYLAGK VIGEFPGVVH CLDFQKMRSA LNYRKHYEDT KANVHIPNDM MNHVLAKRCQ
+     YILSDLEYRH YFHQWTSLLE EPNVIRVRNA QEILSDNVYK DDLNWLKGIG CYVWDTPQIL
+     HAKKSYDLQS QLQYTAAGKE NLQNYNLVTD TPLYVTAVQS GINASEVKYK ENYHQIKDKY
+     TTVLETVDYD RTRNLKNLYS SNLYKEAWDR VKATSYILPS STLSLTHAKN QKHLASHIKY
+     REEYEKFKAL YTLPRSVDDD PNTARCLRVG KLNIDRLYRS VYEKNKMKIH IVPDMVEMVT
+     AKDSQKKVSE IDYRLRLHEW ICHPDLQVND HVRKVTDQIS DIVYKDDLNW LKGIGCYVWD
+     TPEILHAKHA YDLRDDIKYK AHMLKTRNDY KLVTDTPVYV QAVKSGKQLS DAVYHYDYVH
+     SVRGKVAPTT KTVDLDRALH AYKLQSSNLY KTSLRTLPTG YRLPGDTPHF KHIKDTRYMS
+     SYFKYKEAYE HTKAYGYTLG PKDVPFVHVR RVNNVTSERL YRELYHKLKD KIHTTPDTPE
+     IRQVKKTQEA VSELIYKSDF FKMQGHMISL PYTPQVIHCR YVGDITSDIK YKEDLQVLKG
+     FGCFLYDTPD MVRSRHLRKL WSNYLYTDKA RKMRDKYKVV LDTPEYRKVQ ELKTHLSELV
+     YRAAGKKQKS IFTSVPDTPD LLRAKRGQKL QSQYLYVELA TKERPHHHAG NQTTALKHAK
+     DVKDMVSEKK YKIQYEKMKD KYTPVPDTPI LIRAKRAYWN ASDLRYKETF QKTKGKYHTV
+     KDALDIVYHR KVTDDISKIK YKENYMSQLG IWRSIPDRPE HFHHRAVTDT VSDVKYKEDL
+     TWLKGIGCYA YDTPDFTLAE KNKTLYSKYK YKEVFERTKS DFKYVADSPI NRHFKYATQL
+     MNEKKYRADY EQRKDKYHLV VDEPRHLLAK TAGDQISQIK YRKNYEKSKD KFTSIVDTPE
+     HLRTTKVNKQ ISDILYKLEY NKAKPRGYTT IHDTPMLLHV RKVKDEVSDL KYKEVYQRNK
+     SNCTIEPDAV HIKAAKDAYK VNTNLDYKKQ YEANKAHWKW TPDRPDFLQA AKSSLQQSDF
+     EYKLDREFLK GCKLSVTDDK NTVLALRNTL IESDLKYKEK HVKERGTCHA VPDTPQILLA
+     KTVSNLVSEN KYKDHVKKHL AQGSYTTLPE TRDTVHVKEV TKHVSDTNYK KKFVKEKGKS
+     NYSIMLEPPE VKHAMEVAKK QSDVAYRKDA KENLHYTTVA DRPDIKKATQ AAKQASEVEY
+     RAKHRKEGSH GLSMLGRPDI EMAKKAAKLS SQVKYRENFD KEKGKTPKYN PKDSQLYKVM
+     KDANNLASEV KYKADLKKLH KPVTDMKESL IMNHVLNTSQ LASSYQYKKK YEKSKGHYHT
+     IPDNLEQLHL KEATELQSIV KYKEKYEKER GKPMLDFETP TYITAKESQQ MQSGKEYRKD
+     YEESIKGRNL TGLEVTPALL HVKYATKIAS EKEYRKDLEE SIRGKGLTEM EDTPDMLRAK
+     NATQILNEKE YKRDLELEVK GRGLNAMANE TPDFMRARNA TDIASQIKYK QSAEMEKANF
+     TSVVDTPEII HAQQVKNLSS QKKYKEDAEK SMSYYETVLD TPEIQRVREN QKNFSLLQYQ
+     CDLKNSKGKI TVVQDTPEIL RVKENQKNFS SVLYKEDVSP GTAIGKTPEM MRVKQTQDHI
+     SSVKYKEAIG QGTPIPDLPE VKRVKETQKH ISSVMYKENL GTGIPTTVTP EIERVKRNQE
+     NFSSVLYKEN LGKGIPTPIT PEMERVKRNQ ENFSSVLYKE NMGKGTPLAV TPEMERVKHN
+     QENISSVLYK ENVGKATATP VTPEMQRVKR NQENISSVLY KENLGKATPT PFTPEMERVK
+     RNQENFSSVL YKENMRKATP TPVTPEMERA KRNQENISSV LYSDSFRKQI QGKAAYVLDT
+     PEMRRVRETQ RHISTVKYHE DFEKHKGCFT PVVTDPITER VKKNMQDFSD INYRGIQRKV
+     VEMEQKRNDQ DQETITGLRV WRTNPGSVFD YDPAEDNIQS RSLHMINVQA QRRSREQSRS
+     ASALSISGGE EKSEHSEAPD HHLSTYSDGG VFAVSTAYKH AKTTELPQQR SSSVATQQTT
+     VSSIPSHPST AGKIFRAMYD YMAADADEVS FKDGDAIINV QAIDEGWMYG TVQRTGRTGM
+     LPANYVEAI
+//

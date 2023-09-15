@@ -1,0 +1,437 @@
+ID   MYO1G_HUMAN             Reviewed;        1018 AA.
+AC   B0I1T2; Q8TEI9; Q8TES2; Q96BE2; Q96RI5; Q96RI6;
+DT   10-JUN-2008, integrated into UniProtKB/Swiss-Prot.
+DT   11-JAN-2011, sequence version 2.
+DT   28-JUN-2023, entry version 117.
+DE   RecName: Full=Unconventional myosin-Ig;
+DE   Contains:
+DE     RecName: Full=Minor histocompatibility antigen HA-2 {ECO:0000303|PubMed:11544309};
+DE              Short=mHag HA-2;
+GN   Name=MYO1G; Synonyms=HA2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 193-1018 (ISOFORM 3), AND VARIANT THR-489.
+RC   TISSUE=Spleen;
+RA   Jikuya H., Takano J., Nomura N., Kikuno R., Nagase T., Ohara O.;
+RT   "The nucleotide sequence of a long cDNA clone isolated from human spleen.";
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANTS THR-489
+RP   AND ARG-861.
+RC   TISSUE=Spleen;
+RA   Yamakawa H., Kikuno R.F., Nagase T., Ohara O.;
+RT   "Multiplex amplification and cloning of 5'-ends of cDNA by ligase-free
+RT   recombination: preparation of full-length cDNA clones encoding motor
+RT   proteins.";
+RL   Submitted (JAN-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-665 (ISOFORM 4), IDENTIFICATION AS THE
+RP   MINOR HISTOCOMPATIBILITY ANTIGEN HA-2, VARIANTS HA-2M MET-49 AND THR-489,
+RP   CHARACTERIZATION OF VARIANT HA-2M MET-49, AND TISSUE SPECIFICITY.
+RX   PubMed=11544309; DOI=10.4049/jimmunol.167.6.3223;
+RA   Pierce R.A., Field E.D., Mutis T., Golovina T.N., Von Kap-Herr C.,
+RA   Wilke M., Pool J., Shabanowitz J., Pettenati M.J., Eisenlohr L.C.,
+RA   Hunt D.F., Goulmy E., Engelhard V.H.;
+RT   "The HA-2 minor histocompatibility antigen is derived from a diallelic gene
+RT   encoding a novel human class I myosin protein.";
+RL   J. Immunol. 167:3223-3230(2001).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 41-49 (ISOFORM 1).
+RX   PubMed=7539551; DOI=10.1126/science.7539551;
+RA   den Haan J.M.M., Sherman N.E., Blokland E., Huczko E., Koning F.,
+RA   Drijfhout J.W., Skipper J., Shabanowitz J., Hunt D.F., Engelhard V.H.,
+RA   Goulmy E.;
+RT   "Identification of a graft versus host disease-associated human minor
+RT   histocompatibility antigen.";
+RL   Science 268:1476-1480(1995).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 723-1018 (ISOFORM 1), AND VARIANT
+RP   ARG-861.
+RC   TISSUE=B-cell;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=19968988; DOI=10.1016/j.febslet.2009.11.096;
+RA   Olety B., Walte M., Honnert U., Schillers H., Bahler M.;
+RT   "Myosin 1G (Myo1G) is a haematopoietic specific myosin that localises to
+RT   the plasma membrane and regulates cell elasticity.";
+RL   FEBS Lett. 584:493-499(2010).
+RN   [8]
+RP   SUBCELLULAR LOCATION, TISSUE SPECIFICITY, AND MUTAGENESIS OF LYS-815;
+RP   ARG-826; ARG-876; ARG-880; ARG-885; LYS-898; ARG-903; ARG-906; ARG-909;
+RP   ARG-934; ARG-945; ARG-947 AND ARG-953.
+RX   PubMed=20071333; DOI=10.1074/jbc.m109.086959;
+RA   Patino-Lopez G., Aravind L., Dong X., Kruhlak M.J., Ostap E.M., Shaw S.;
+RT   "Myosin 1G is an abundant class I myosin in lymphocytes whose localization
+RT   at the plasma membrane depends on its ancient divergent pleckstrin homology
+RT   (PH) domain (Myo1PH).";
+RL   J. Biol. Chem. 285:8675-8686(2010).
+RN   [9]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+CC   -!- FUNCTION: Unconventional myosin required during immune response for
+CC       detection of rare antigen-presenting cells by regulating T-cell
+CC       migration. Unconventional myosins are actin-based motor molecules with
+CC       ATPase activity and serve in intracellular movements. Acts as a
+CC       regulator of T-cell migration by generating membrane tension, enforcing
+CC       cell-intrinsic meandering search, thereby enhancing detection of rare
+CC       antigens during lymph-node surveillance, enabling pathogen eradication.
+CC       Also required in B-cells, where it regulates different
+CC       membrane/cytoskeleton-dependent processes. Involved in Fc-gamma
+CC       receptor (Fc-gamma-R) phagocytosis. {ECO:0000250|UniProtKB:Q5SUA5}.
+CC   -!- FUNCTION: [Minor histocompatibility antigen HA-2]: Constitutes the
+CC       minor histocompatibility antigen HA-2. More generally, minor
+CC       histocompatibility antigens (mHags) refer to immunogenic peptide which,
+CC       when complexed with MHC, can generate an immune response after
+CC       recognition by specific T-cells. The peptides are derived from
+CC       polymorphic intracellular proteins, which are cleaved by normal
+CC       pathways of antigen processing. The binding of these peptides to MHC
+CC       class I or class II molecules and their expression on the cell surface
+CC       can stimulate T-cell responses and thereby trigger graft rejection or
+CC       graft-versus-host disease (GVHD) after hematopoietic stem cell
+CC       transplantation from HLA-identical sibling donor. GVHD is a frequent
+CC       complication after bone marrow transplantation (BMT), due to mismatch
+CC       of minor histocompatibility antigen in HLA-matched sibling marrow
+CC       transplants. HA-2 is restricted to MHC class I HLA-A*0201.
+CC       {ECO:0000269|PubMed:11544309, ECO:0000305}.
+CC   -!- SUBUNIT: Interacts with calmodulin; via its IQ motifs. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:19968988,
+CC       ECO:0000269|PubMed:20071333}; Peripheral membrane protein
+CC       {ECO:0000269|PubMed:19968988, ECO:0000269|PubMed:20071333}. Cell
+CC       projection, phagocytic cup {ECO:0000250|UniProtKB:Q5SUA5}.
+CC       Note=Recruited to Fc-gamma receptor (Fc-gamma-R) phagocytic cup. In T-
+CC       cells, transiently accumulates in discrete areas at the plasma membrane
+CC       of migrating cells or when membranes are deformed (By similarity).
+CC       Localization at the membrane is not highly dependent on
+CC       phosphatidylinositol 4,5-bisphosphate levels. Released from the
+CC       membrane in the presence of ATP. May be enriched in peripheral
+CC       processes, such as microvilli or ruffles.
+CC       {ECO:0000250|UniProtKB:Q5SUA5, ECO:0000269|PubMed:20071333}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=B0I1T2-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=B0I1T2-2; Sequence=VSP_034208, VSP_034209;
+CC       Name=3;
+CC         IsoId=B0I1T2-3; Sequence=VSP_034210;
+CC       Name=4;
+CC         IsoId=B0I1T2-4; Sequence=VSP_034211, VSP_034212;
+CC   -!- TISSUE SPECIFICITY: Specifically expressed in hematopoietic cells.
+CC       {ECO:0000269|PubMed:11544309, ECO:0000269|PubMed:20071333}.
+CC   -!- DOMAIN: The myosin tail domain mediates binding to
+CC       phosphatidylinositol-3,4-bisphosphate (PtdIns(3,4)P2),
+CC       phosphatidylinositol-4,5-bisphosphate (PtdIns(4,5)P2) and
+CC       phosphatidylinositol-3,4,5-trisphosphate (PtdIns(3,4,5)P3) and binds to
+CC       membranous compartments. It is required for recruitment to Fc-gamma
+CC       receptor (Fc-gamma-R) phagocytic cups. {ECO:0000250|UniProtKB:Q5SUA5}.
+CC   -!- SIMILARITY: Belongs to the TRAFAC class myosin-kinesin ATPase
+CC       superfamily. Myosin family. {ECO:0000305}.
+CC   -!- CAUTION: Represents an unconventional myosin. This protein should not
+CC       be confused with the conventional myosin-1 (MYH1). {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB84876.1; Type=Erroneous translation; Note=Wrong choice of CDS.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK074050; BAB84876.1; ALT_SEQ; mRNA.
+DR   EMBL; AK074135; BAB84961.1; -; mRNA.
+DR   EMBL; AB290179; BAG06733.1; -; mRNA.
+DR   EMBL; AC004847; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AF380932; AAK58092.1; -; mRNA.
+DR   EMBL; AF380933; AAK58093.1; -; mRNA.
+DR   EMBL; BC015693; AAH15693.2; -; mRNA.
+DR   CCDS; CCDS34629.1; -. [B0I1T2-1]
+DR   RefSeq; NP_149043.2; NM_033054.2. [B0I1T2-1]
+DR   AlphaFoldDB; B0I1T2; -.
+DR   SMR; B0I1T2; -.
+DR   BioGRID; 122031; 12.
+DR   IntAct; B0I1T2; 10.
+DR   MINT; B0I1T2; -.
+DR   STRING; 9606.ENSP00000258787; -.
+DR   GlyCosmos; B0I1T2; 1 site, 1 glycan.
+DR   GlyGen; B0I1T2; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; B0I1T2; -.
+DR   MetOSite; B0I1T2; -.
+DR   PhosphoSitePlus; B0I1T2; -.
+DR   SwissPalm; B0I1T2; -.
+DR   BioMuta; MYO1G; -.
+DR   CPTAC; CPTAC-1620; -.
+DR   EPD; B0I1T2; -.
+DR   jPOST; B0I1T2; -.
+DR   MassIVE; B0I1T2; -.
+DR   MaxQB; B0I1T2; -.
+DR   PaxDb; B0I1T2; -.
+DR   PeptideAtlas; B0I1T2; -.
+DR   ProteomicsDB; 2548; -. [B0I1T2-1]
+DR   ProteomicsDB; 2549; -. [B0I1T2-2]
+DR   ProteomicsDB; 2550; -. [B0I1T2-3]
+DR   ProteomicsDB; 2551; -. [B0I1T2-4]
+DR   Antibodypedia; 13492; 87 antibodies from 15 providers.
+DR   DNASU; 64005; -.
+DR   Ensembl; ENST00000258787.12; ENSP00000258787.7; ENSG00000136286.16. [B0I1T2-1]
+DR   GeneID; 64005; -.
+DR   KEGG; hsa:64005; -.
+DR   MANE-Select; ENST00000258787.12; ENSP00000258787.7; NM_033054.3; NP_149043.2.
+DR   UCSC; uc003tmh.3; human. [B0I1T2-1]
+DR   AGR; HGNC:13880; -.
+DR   CTD; 64005; -.
+DR   DisGeNET; 64005; -.
+DR   GeneCards; MYO1G; -.
+DR   HGNC; HGNC:13880; MYO1G.
+DR   HPA; ENSG00000136286; Tissue enhanced (bone marrow, lymphoid tissue).
+DR   MIM; 600642; gene.
+DR   neXtProt; NX_B0I1T2; -.
+DR   OpenTargets; ENSG00000136286; -.
+DR   VEuPathDB; HostDB:ENSG00000136286; -.
+DR   eggNOG; KOG0160; Eukaryota.
+DR   eggNOG; KOG0164; Eukaryota.
+DR   GeneTree; ENSGT00940000158053; -.
+DR   HOGENOM; CLU_000192_7_7_1; -.
+DR   InParanoid; B0I1T2; -.
+DR   OMA; MRAYKTY; -.
+DR   OrthoDB; 1094820at2759; -.
+DR   PhylomeDB; B0I1T2; -.
+DR   TreeFam; TF312960; -.
+DR   PathwayCommons; B0I1T2; -.
+DR   SignaLink; B0I1T2; -.
+DR   BioGRID-ORCS; 64005; 31 hits in 1149 CRISPR screens.
+DR   ChiTaRS; MYO1G; human.
+DR   GenomeRNAi; 64005; -.
+DR   Pharos; B0I1T2; Tbio.
+DR   PRO; PR:B0I1T2; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; B0I1T2; protein.
+DR   Bgee; ENSG00000136286; Expressed in granulocyte and 156 other tissues.
+DR   ExpressionAtlas; B0I1T2; baseline and differential.
+DR   Genevisible; B0I1T2; HS.
+DR   GO; GO:0015629; C:actin cytoskeleton; IBA:GO_Central.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0030175; C:filopodium; IEA:Ensembl.
+DR   GO; GO:0030027; C:lamellipodium; IEA:Ensembl.
+DR   GO; GO:0031256; C:leading edge membrane; IEA:Ensembl.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0005902; C:microvillus; IEA:Ensembl.
+DR   GO; GO:0016459; C:myosin complex; IEA:UniProtKB-KW.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0001891; C:phagocytic cup; ISS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:MGI.
+DR   GO; GO:0031982; C:vesicle; IBA:GO_Central.
+DR   GO; GO:0051015; F:actin filament binding; IBA:GO_Central.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005516; F:calmodulin binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003774; F:cytoskeletal motor activity; IEA:InterPro.
+DR   GO; GO:0005547; F:phosphatidylinositol-3,4,5-trisphosphate binding; ISS:UniProtKB.
+DR   GO; GO:0043325; F:phosphatidylinositol-3,4-bisphosphate binding; ISS:UniProtKB.
+DR   GO; GO:0005546; F:phosphatidylinositol-4,5-bisphosphate binding; ISS:UniProtKB.
+DR   GO; GO:0007015; P:actin filament organization; IBA:GO_Central.
+DR   GO; GO:0071976; P:cell gliding; IEA:Ensembl.
+DR   GO; GO:0031589; P:cell-substrate adhesion; IEA:Ensembl.
+DR   GO; GO:0006887; P:exocytosis; IEA:Ensembl.
+DR   GO; GO:0038096; P:Fc-gamma receptor signaling pathway involved in phagocytosis; ISS:UniProtKB.
+DR   GO; GO:0120117; P:T cell meandering migration; IEA:Ensembl.
+DR   GO; GO:0002456; P:T cell mediated immunity; ISS:UniProtKB.
+DR   GO; GO:0072678; P:T cell migration; ISS:UniProtKB.
+DR   GO; GO:0030050; P:vesicle transport along actin filament; IBA:GO_Central.
+DR   CDD; cd01378; MYSc_Myo1; 1.
+DR   Gene3D; 1.10.10.820; -; 1.
+DR   Gene3D; 1.20.5.4820; -; 1.
+DR   Gene3D; 1.20.58.530; -; 1.
+DR   Gene3D; 3.40.850.10; Kinesin motor domain; 1.
+DR   Gene3D; 1.20.120.720; Myosin VI head, motor domain, U50 subdomain; 1.
+DR   InterPro; IPR036961; Kinesin_motor_dom_sf.
+DR   InterPro; IPR001609; Myosin_head_motor_dom.
+DR   InterPro; IPR010926; Myosin_TH1.
+DR   InterPro; IPR036072; MYSc_Myo1.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR13140; MYOSIN; 1.
+DR   PANTHER; PTHR13140:SF381; UNCONVENTIONAL MYOSIN-IG; 1.
+DR   Pfam; PF00063; Myosin_head; 1.
+DR   Pfam; PF06017; Myosin_TH1; 1.
+DR   PRINTS; PR00193; MYOSINHEAVY.
+DR   SMART; SM00242; MYSc; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS51456; MYOSIN_MOTOR; 1.
+DR   PROSITE; PS51757; TH1; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Actin-binding; Adaptive immunity; Alternative splicing;
+KW   ATP-binding; Calmodulin-binding; Cell membrane; Cell projection;
+KW   Direct protein sequencing; Immunity; Lipid-binding; Membrane;
+KW   Motor protein; Myosin; Nucleotide-binding; Reference proteome.
+FT   CHAIN           1..1018
+FT                   /note="Unconventional myosin-Ig"
+FT                   /id="PRO_0000340316"
+FT   PEPTIDE         41..49
+FT                   /note="Minor histocompatibility antigen HA-2"
+FT                   /evidence="ECO:0000269|PubMed:7539551"
+FT                   /id="PRO_0000340317"
+FT   DOMAIN          9..707
+FT                   /note="Myosin motor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00782"
+FT   DOMAIN          710..739
+FT                   /note="IQ"
+FT   DOMAIN          824..1017
+FT                   /note="TH1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01093"
+FT   REGION          584..606
+FT                   /note="Actin-binding"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00782"
+FT   BINDING         102..109
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:25944712"
+FT   VAR_SEQ         207..230
+FT                   /note="LLRGSEDKQLHELHLERNPAVYNF -> VSPEGKGRWKNGVGKGRAASWTSL
+FT                   (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_034208"
+FT   VAR_SEQ         231..1018
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_034209"
+FT   VAR_SEQ         526..1018
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_034210"
+FT   VAR_SEQ         652..722
+FT                   /note="KMTCEYTWPNHLLGSDKAAVSALLEQHGLQGDVAFGHSKLFIRSPRTLVTLE
+FT                   QSRARLIPIIVLLLQKAWR -> WHLTPITPWAIVPVWSPRGRSRGSPNSTSQTSIQAG
+FT                   TSTLLASRHQNIWEDMCVSTCMWGHTGGNMGMRAV (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11544309"
+FT                   /id="VSP_034211"
+FT   VAR_SEQ         723..1018
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11544309"
+FT                   /id="VSP_034212"
+FT   VARIANT         49
+FT                   /note="V -> M (in allele HA-2M; the HA-2V allele constitute
+FT                   the HA-2 epitope while HA-2M is not recognized by HA-2
+FT                   cytotoxic T lymphocytes; dbSNP:rs61739531)"
+FT                   /evidence="ECO:0000269|PubMed:11544309"
+FT                   /id="VAR_044013"
+FT   VARIANT         489
+FT                   /note="M -> T (in dbSNP:rs3735485)"
+FT                   /evidence="ECO:0000269|PubMed:11544309, ECO:0000269|Ref.1,
+FT                   ECO:0000269|Ref.2"
+FT                   /id="VAR_044014"
+FT   VARIANT         798
+FT                   /note="R -> Q (in dbSNP:rs2107737)"
+FT                   /id="VAR_050212"
+FT   VARIANT         861
+FT                   /note="Q -> R (in dbSNP:rs7792760)"
+FT                   /evidence="ECO:0000269|PubMed:15489334, ECO:0000269|Ref.2"
+FT                   /id="VAR_044015"
+FT   MUTAGEN         815
+FT                   /note="K->A: Reduced membrane association."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         826
+FT                   /note="R->A: Reduced membrane association."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         876
+FT                   /note="R->A: No effect on membrane localization."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         880
+FT                   /note="R->A: No effect on membrane localization."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         883
+FT                   /note="K->A: No effect on membrane localization; when
+FT                   associated with R-885."
+FT   MUTAGEN         885
+FT                   /note="R->A: No effect on membrane localization; when
+FT                   associated with K-883."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         898
+FT                   /note="K->A: Reduced membrane association."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         903
+FT                   /note="R->A: No effect on membrane localization; when
+FT                   associated with R-906."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         906
+FT                   /note="R->A: No effect on membrane localization; when
+FT                   associated with R-903."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         909
+FT                   /note="R->A: No effect on membrane localization."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         934
+FT                   /note="R->A: No effect on membrane localization."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         945
+FT                   /note="R->A: No effect on membrane localization."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         947
+FT                   /note="R->A: No effect on membrane localization."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   MUTAGEN         953
+FT                   /note="R->A: No effect on membrane localization."
+FT                   /evidence="ECO:0000269|PubMed:20071333"
+FT   CONFLICT        369
+FT                   /note="N -> K (in Ref. 1; BAB84961)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        377
+FT                   /note="P -> L (in Ref. 4; AAK58092/AAK58093)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1018 AA;  116442 MW;  3EB4ACC3D99A86E9 CRC64;
+     MEDEEGPEYG KPDFVLLDQV TMEDFMRNLQ LRFEKGRIYT YIGEVLVSVN PYQELPLYGP
+     EAIARYQGRE LYERPPHLYA VANAAYKAMK HRSRDTCIVI SGESGAGKTE ASKHIMQYIA
+     AVTNPSQRAE VERVKDVLLK STCVLEAFGN ARTNRNHNSS RFGKYMDINF DFKGDPIGGH
+     IHSYLLEKSR VLKQHVGERN FHAFYQLLRG SEDKQLHELH LERNPAVYNF THQGAGLNMT
+     VHSALDSDEQ SHQAVTEAMR VIGFSPEEVE SVHRILAAIL HLGNIEFVET EEGGLQKEGL
+     AVAEEALVDH VAELTATPRD LVLRSLLART VASGGRELIE KGHTAAEASY ARDACAKAVY
+     QRLFEWVVNR INSVMEPRGR DPRRDGKDTV IGVLDIYGFE VFPVNSFEQF CINYCNEKLQ
+     QLFIQLILKQ EQEEYEREGI TWQSVEYFNN ATIVDLVERP HRGILAVLDE ACSSAGTITD
+     RIFLQTLDMH HRHHLHYTSR QLCPTDKTME FGRDFRIKHY AGDVTYSVEG FIDKNRDFLF
+     QDFKRLLYNS TDPTLRAMWP DGQQDITEVT KRPLTAGTLF KNSMVALVEN LASKEPFYVR
+     CIKPNEDKVA GKLDENHCRH QVAYLGLLEN VRVRRAGFAS RQPYSRFLLR YKMTCEYTWP
+     NHLLGSDKAA VSALLEQHGL QGDVAFGHSK LFIRSPRTLV TLEQSRARLI PIIVLLLQKA
+     WRGTLARWRC RRLRAIYTIM RWFRRHKVRA HLAELQRRFQ AARQPPLYGR DLVWPLPPAV
+     LQPFQDTCHA LFCRWRARQL VKNIPPSDMP QIKAKVAAMG ALQGLRQDWG CRRAWARDYL
+     SSATDNPTAS SLFAQRLKTL QDKDGFGAVL FSSHVRKVNR FHKIRNRALL LTDQHLYKLD
+     PDRQYRVMRA VPLEAVTGLS VTSGGDQLVV LHARGQDDLV VCLHRSRPPL DNRVGELVGV
+     LAAHCQGEGR TLEVRVSDCI PLSHRGVRRL ISVEPRPEQP EPDFRCARGS FTLLWPSR
+//

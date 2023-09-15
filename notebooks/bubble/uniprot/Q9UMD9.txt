@@ -1,0 +1,652 @@
+ID   COHA1_HUMAN             Reviewed;        1497 AA.
+AC   Q9UMD9; Q02802; Q5JV36; Q99018; Q9NQK9; Q9UC14;
+DT   02-FEB-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2007, sequence version 3.
+DT   28-JUN-2023, entry version 192.
+DE   RecName: Full=Collagen alpha-1(XVII) chain;
+DE   AltName: Full=180 kDa bullous pemphigoid antigen 2;
+DE   AltName: Full=Bullous pemphigoid antigen 2;
+DE   Contains:
+DE     RecName: Full=120 kDa linear IgA disease antigen;
+DE     AltName: Full=120 kDa linear IgA dermatosis antigen;
+DE     AltName: Full=Linear IgA disease antigen 1;
+DE              Short=LAD-1;
+DE   Contains:
+DE     RecName: Full=97 kDa linear IgA disease antigen;
+DE     AltName: Full=97 kDa linear IgA bullous dermatosis antigen;
+DE              Short=97 kDa LAD antigen;
+DE              Short=97-LAD;
+DE     AltName: Full=Linear IgA bullous disease antigen of 97 kDa;
+DE              Short=LABD97;
+GN   Name=COL17A1; Synonyms=BP180, BPAG2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), SUBCELLULAR LOCATION, AND VARIANT
+RP   SER-428.
+RC   TISSUE=Foreskin;
+RX   PubMed=1324962; DOI=10.1111/1523-1747.ep12616580;
+RA   Giudice G.J., Emery D.J., Diaz L.A.;
+RT   "Cloning and primary structural analysis of the bullous pemphigoid
+RT   autoantigen, BP180.";
+RL   J. Invest. Dermatol. 99:243-250(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 1), AND VARIANTS ILE-231;
+RP   THR-238; SER-428; VAL-703 AND GLY-1370.
+RX   PubMed=9012408;
+RA   Gatalica B., Pulkkinen L., Li K., Kuokkanen K., Ryynaenen M., McGrath J.A.,
+RA   Uitto J.;
+RT   "Cloning of the human type XVII collagen gene (COL17A1), and detection of
+RT   novel mutations in generalized atrophic benign epidermolysis bullosa.";
+RL   Am. J. Hum. Genet. 60:352-365(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-390, AND VARIANT MET-210.
+RC   TISSUE=Pancreas;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 508-856, AND TISSUE SPECIFICITY.
+RX   PubMed=1748679; DOI=10.1016/s0021-9258(18)54393-3;
+RA   Li K.H., Sawamura D., Giudice G.J., Diaz L.A., Mattei M.-G., Chu M.-L.,
+RA   Uitto J.;
+RT   "Genomic organization of collagenous domains and chromosomal assignment of
+RT   human 180-kDa bullous pemphigoid antigen-2, a novel collagen of stratified
+RT   squamous epithelium.";
+RL   J. Biol. Chem. 266:24064-24069(1991).
+RN   [6]
+RP   PROTEIN SEQUENCE OF 524-535.
+RX   PubMed=14675210; DOI=10.1046/j.1523-1747.2003.12607.x;
+RA   Hirako Y., Nishizawa Y., Sitaru C., Opitz A., Marcus K., Meyer H.E.,
+RA   Butt E., Owaribe K., Zillikens D.;
+RT   "The 97-kDa (LABD97) and 120-kDa (LAD-1) fragments of bullous pemphigoid
+RT   antigen 180/type XVII collagen have different N-termini.";
+RL   J. Invest. Dermatol. 121:1554-1556(2003).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 531-546; 554-565; 585-605; 647-666; 680-688; 689-703;
+RP   755-765; 842-860; 880-891; 1016-1028; 1062-1069; 1102-1108; 1134-1142;
+RP   1227-1247 AND 1248-1260.
+RX   PubMed=9506436; DOI=10.1046/j.1523-1747.1998.00129.x;
+RA   Zone J.J., Taylor T.B., Meyer L.J., Petersen M.J.;
+RT   "The 97 kDa linear IgA bullous disease antigen is identical to a portion of
+RT   the extracellular domain of the 180 kDa bullous pemphigoid antigen,
+RT   BPAg2.";
+RL   J. Invest. Dermatol. 110:207-210(1998).
+RN   [8]
+RP   SUBCELLULAR LOCATION, FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=8618013; DOI=10.1111/1523-1747.ep12345782;
+RA   Marinkovich M.P., Taylor T.B., Keene D.R., Burgeson R.E., Zone J.J.;
+RT   "LAD-1, the linear IgA bullous dermatosis autoantigen, is a novel 120-kDa
+RT   anchoring filament protein synthesized by epidermal cells.";
+RL   J. Invest. Dermatol. 106:734-738(1996).
+RN   [9]
+RP   ERRATUM OF PUBMED:8618013.
+RA   Marinkovich M.P., Taylor T.B., Keene D.R., Burgeson R.E., Zone J.J.;
+RL   J. Invest. Dermatol. 106:1343-1343(1996).
+RN   [10]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=8618014; DOI=10.1111/1523-1747.ep12345793;
+RA   Ishiko A., Shimizu H., Masunaga T., Hashimoto T., Dmochowski M.,
+RA   Wojnarowska F., Bhogal B.S., Black M.M., Nishikawa T.;
+RT   "97-kDa linear IgA bullous dermatosis (LAD) antigen localizes to the lamina
+RT   lucida of the epidermal basement membrane.";
+RL   J. Invest. Dermatol. 106:739-743(1996).
+RN   [11]
+RP   SUBCELLULAR LOCATION.
+RA   Limardo M., Arffman A., Aho S., Utto J.;
+RT   "Evidence that the 180-kD bullous pemphigoid antigen is a transmembrane
+RT   collagen, type XVII, in a triple-helical conformation and in type II
+RT   transmembrane topography.";
+RL   J. Invest. Dermatol. 106:860-860(1996).
+RN   [12]
+RP   SUBUNIT, PROTEOLYTIC PROCESSING, GLYCOSYLATION AT ASN-1421, AND DOMAINS.
+RX   PubMed=9748270; DOI=10.1074/jbc.273.40.25937;
+RA   Schaecke H., Schumann H., Hammami-Hauasli N., Raghunath M.,
+RA   Bruckner-Tuderman L.;
+RT   "Two forms of collagen XVII in keratinocytes. A full-length transmembrane
+RT   protein and a soluble ectodomain.";
+RL   J. Biol. Chem. 273:25937-25943(1998).
+RN   [13]
+RP   INTERACTION WITH DSP.
+RX   PubMed=10637308; DOI=10.1091/mbc.11.1.277;
+RA   Hopkinson S.B., Jones J.C.;
+RT   "The N terminus of the transmembrane protein BP180 interacts with the N-
+RT   terminal domain of BP230, thereby mediating keratin cytoskeleton anchorage
+RT   to the cell surface at the site of the hemidesmosome.";
+RL   Mol. Biol. Cell 11:277-286(2000).
+RN   [14]
+RP   SHEDDING.
+RX   PubMed=12356719; DOI=10.1093/emboj/cdf532;
+RA   Franzke C.-W., Tasanen K., Schaecke H., Zhou Z., Tryggvason K., Mauch C.,
+RA   Zigrino P., Sunnarborg S., Lee D.C., Fahrenholz F., Bruckner-Tuderman L.;
+RT   "Transmembrane collagen XVII, an epithelial adhesion protein, is shed from
+RT   the cell surface by ADAMs.";
+RL   EMBO J. 21:5026-5035(2002).
+RN   [15]
+RP   FUNCTION, INTERACTION WITH DSP; DST; ITGB4 AND PLEC, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=12482924; DOI=10.1242/jcs.00241;
+RA   Koster J., Geerts D., Favre B., Borradori L., Sonnenberg A.;
+RT   "Analysis of the interactions between BP180, BP230, plectin and the
+RT   integrin alpha6beta4 important for hemidesmosome assembly.";
+RL   J. Cell Sci. 116:387-399(2003).
+RN   [16]
+RP   PHOSPHORYLATION AT SER-544.
+RX   PubMed=17545155; DOI=10.1074/jbc.m701937200;
+RA   Zimina E.P., Fritsch A., Schermer B., Bakulina A.Y., Bashkurov M.,
+RA   Benzing T., Bruckner-Tuderman L.;
+RT   "Extracellular phosphorylation of collagen XVII by ecto-casein kinase 2
+RT   inhibits ectodomain shedding.";
+RL   J. Biol. Chem. 282:22737-22746(2007).
+RN   [17]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [18]
+RP   TISSUE SPECIFICITY, INVOLVEMENT IN ERED, AND VARIANT ERED ILE-939.
+RX   PubMed=25676728; DOI=10.1002/humu.22764;
+RA   Jonsson F., Bystroem B., Davidson A.E., Backman L.J., Kellgren T.G.,
+RA   Tuft S.J., Koskela T., Ryden P., Sandgren O., Danielson P.,
+RA   Hardcastle A.J., Golovleva I.;
+RT   "Mutations in collagen, type XVII, alpha 1 (COL17A1) cause epithelial
+RT   recurrent erosion dystrophy (ERED).";
+RL   Hum. Mutat. 36:463-473(2015).
+RN   [19]
+RP   VARIANT JEB4 VAL-627.
+RX   PubMed=8669466;
+RA   McGrath J.A., Gatalica B., Li K., Dunnill M.G.S., McMillan J.R.,
+RA   Christiano A.M., Eady R.A.J., Uitto J.;
+RT   "Compound heterozygosity for a dominant glycine substitution and a
+RT   recessive internal duplication mutation in the type XVII collagen gene
+RT   results in junctional epidermolysis bullosa and abnormal dentition.";
+RL   Am. J. Pathol. 148:1787-1796(1996).
+RN   [20]
+RP   VARIANT JEB4 GLN-1303.
+RX   PubMed=9199555; DOI=10.1086/515463;
+RA   Schumann H., Hammami-Hauasli N., Pulkkinen L., Mauviel A., Kuester W.,
+RA   Luethi U., Owaribe K., Uitto J., Bruckner-Tuderman L.;
+RT   "Three novel homozygous point mutations and a new polymorphism in the
+RT   COL17A1 gene: relation to biological and clinical phenotypes of junctional
+RT   epidermolysis bullosa.";
+RL   Am. J. Hum. Genet. 60:1344-1353(1997).
+RN   [21]
+RP   VARIANT JEB4 VAL-627.
+RX   PubMed=10652291; DOI=10.1074/jbc.275.5.3093;
+RA   Tasanen K., Eble J.A., Aumailley M., Schumann H., Baetge J., Tu H.,
+RA   Bruckner P., Bruckner-Tuderman L.;
+RT   "Collagen XVII is destabilized by a glycine substitution mutation in the
+RT   cell adhesion domain Col15.";
+RL   J. Biol. Chem. 275:3093-3099(2000).
+RN   [22]
+RP   VARIANT JEB4 ASP-633.
+RX   PubMed=10951237; DOI=10.1046/j.1523-1747.2000.00049.x;
+RA   Tasanen K., Floeth M., Schumann H., Bruckner-Tuderman L.;
+RT   "Hemizygosity for a glycine substitution in collagen XVII: unfolding and
+RT   degradation of the ectodomain.";
+RL   J. Invest. Dermatol. 115:207-212(2000).
+RN   [23]
+RP   VARIANT JEB4 CYS-265, AND VARIANT ILE-231.
+RX   PubMed=11912005; DOI=10.1016/s0923-1811(01)00163-3;
+RA   Wu Y., Li G., Zhu X.;
+RT   "A novel homozygous point mutation in the COL17A1 gene in a Chinese family
+RT   with generalized atrophic benign epidermolysis bullosa.";
+RL   J. Dermatol. Sci. 28:181-186(2002).
+CC   -!- FUNCTION: May play a role in the integrity of hemidesmosome and the
+CC       attachment of basal keratinocytes to the underlying basement membrane.
+CC   -!- FUNCTION: The 120 kDa linear IgA disease antigen is an anchoring
+CC       filament component involved in dermal-epidermal cohesion. Is the target
+CC       of linear IgA bullous dermatosis autoantibodies.
+CC   -!- SUBUNIT: Homotrimers of alpha 1(XVII)chains. Interacts (via cytoplasmic
+CC       region) with ITGB4 (via cytoplasmic region). Interacts (via cytoplasmic
+CC       region) with DST isoform 3 (via N-terminus). Interacts (via N-terminus)
+CC       with PLEC. Interacts (via cytoplasmic region) with DSP.
+CC       {ECO:0000269|PubMed:10637308, ECO:0000269|PubMed:12482924,
+CC       ECO:0000269|PubMed:9748270}.
+CC   -!- INTERACTION:
+CC       Q9UMD9; Q9H0L4: CSTF2T; NbExp=3; IntAct=EBI-2528742, EBI-747012;
+CC       Q9UMD9; O60568: PLOD3; NbExp=3; IntAct=EBI-2528742, EBI-741582;
+CC       Q9UMD9; Q96T60: PNKP; NbExp=3; IntAct=EBI-2528742, EBI-1045072;
+CC       Q9UMD9; Q9Y3C6: PPIL1; NbExp=3; IntAct=EBI-2528742, EBI-2557649;
+CC       Q9UMD9; Q9UHD9: UBQLN2; NbExp=3; IntAct=EBI-2528742, EBI-947187;
+CC       Q9UMD9; Q9P202: WHRN; NbExp=3; IntAct=EBI-2528742, EBI-310886;
+CC   -!- SUBCELLULAR LOCATION: Cell junction, hemidesmosome. Membrane; Single-
+CC       pass type II membrane protein. Note=Localized along the plasma membrane
+CC       of the hemidesmosome.
+CC   -!- SUBCELLULAR LOCATION: [120 kDa linear IgA disease antigen]: Secreted,
+CC       extracellular space, extracellular matrix, basement membrane.
+CC       Note=Exclusively localized to anchoring filaments. Localized to the
+CC       epidermal side of split skin.
+CC   -!- SUBCELLULAR LOCATION: [97 kDa linear IgA disease antigen]: Secreted,
+CC       extracellular space, extracellular matrix, basement membrane.
+CC       Note=Localized in the lamina lucida beneath the hemidesmosomes.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9UMD9-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9UMD9-2; Sequence=VSP_024940, VSP_024941;
+CC   -!- TISSUE SPECIFICITY: Detected in skin (PubMed:8618013). In the cornea,
+CC       it is detected in the epithelial basement membrane, the epithelial
+CC       cells, and at a lower level in stromal cells (at protein level)
+CC       (PubMed:25676728). Stratified squamous epithelia. Found in
+CC       hemidesmosomes. Expressed in cornea, oral mucosa, esophagus, intestine,
+CC       kidney collecting ducts, ureter, bladder, urethra and thymus but is
+CC       absent in lung, blood vessels, skeletal muscle and nerves.
+CC       {ECO:0000269|PubMed:1748679, ECO:0000269|PubMed:25676728,
+CC       ECO:0000269|PubMed:8618013}.
+CC   -!- PTM: The intracellular/endo domain is disulfide-linked.
+CC   -!- PTM: Prolines at the third position of the tripeptide repeating unit
+CC       (G-X-Y) are hydroxylated in some or all of the chains.
+CC   -!- PTM: The ectodomain is shedded from the surface of keratinocytes
+CC       resulting in a 120-kDa soluble form, also named as 120 kDa linear IgA
+CC       disease antigen. The shedding is mediated by membrane-bound
+CC       metalloproteases. This cleavage is inhibited by phosphorylation at Ser-
+CC       544. {ECO:0000269|PubMed:9748270}.
+CC   -!- DISEASE: Epidermolysis bullosa, junctional 4, intermediate (JEB4)
+CC       [MIM:619787]: A form of epidermolysis bullosa, a genodermatosis
+CC       characterized by recurrent blistering, fragility of the skin and
+CC       mucosal epithelia, and erosions caused by minor mechanical trauma. JEB4
+CC       is an autosomal recessive, intermediate form in which blistering
+CC       lesions occur between the epidermis and the dermis at the lamina lucida
+CC       level of the basement membrane zone. In intermediate forms of
+CC       junctional epidermolysis bullosa, blistering does not lead to the
+CC       formation of chronic granulation tissue and does not affect the
+CC       lifespan of affected individuals. Nail dystrophy and dental enamel
+CC       defects are present. Scarring or non-scarring alopecia and diffuse hair
+CC       loss may occur. JEB4 patients manifest blisters at birth or shortly
+CC       afterward. Blisters may heal with atrophic scarring and variable
+CC       hypo- or hyperpigmentation. Oral mucosa may be involved.
+CC       {ECO:0000269|PubMed:10652291, ECO:0000269|PubMed:10951237,
+CC       ECO:0000269|PubMed:11912005, ECO:0000269|PubMed:8669466,
+CC       ECO:0000269|PubMed:9199555}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Epithelial recurrent erosion dystrophy (ERED) [MIM:122400]: A
+CC       corneal dystrophy characterized by recurrent episodes of epithelial
+CC       erosions from childhood, with occasional impairment of vision. Most
+CC       patients have attacks of redness, photophobia, epiphora, and ocular
+CC       pain. Exposure to sunlight or draught, dust and smoke and lack of sleep
+CC       can precipitate attacks. {ECO:0000269|PubMed:25676728}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- MISCELLANEOUS: Both the 120 kDa linear IgA disease antigen and the 97
+CC       kDa linear IgA disease antigen of COL17A1, represent major antigenic
+CC       targets of autoantibodies in patients with linear IgA disease (LAD).
+CC       LAD is a subepidermal blistering disorder characterized by tissue-bound
+CC       and circulating IgA autoantibodies to the dermal-epidermal junction.
+CC       These IgA autoantibodies preferentially react with 97 and the 120 kDa
+CC       forms, but not with the full-length COL17A1, suggesting that the
+CC       cleavage of the ectodomain generates novel autoantigenic epitopes.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA35605.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAH04478.1; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Potential poly-A sequence.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M91669; AAA35605.1; ALT_INIT; mRNA.
+DR   EMBL; U76604; AAB51499.1; -; Genomic_DNA.
+DR   EMBL; U76565; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76566; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76567; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76568; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76569; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76570; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76571; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76572; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76573; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76574; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76575; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76576; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76577; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76578; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76579; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76580; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76581; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76582; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76583; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76584; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76585; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76586; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76587; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76588; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76589; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76590; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76591; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76592; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76593; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76594; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76595; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76596; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76597; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76598; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76599; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76600; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76601; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76602; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; U76603; AAB51499.1; JOINED; Genomic_DNA.
+DR   EMBL; AL138761; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC004478; AAH04478.1; ALT_SEQ; mRNA.
+DR   EMBL; M63730; AAA51839.1; -; mRNA.
+DR   CCDS; CCDS7554.1; -. [Q9UMD9-1]
+DR   PIR; I56325; A61262.
+DR   RefSeq; NP_000485.3; NM_000494.3. [Q9UMD9-1]
+DR   AlphaFoldDB; Q9UMD9; -.
+DR   BioGRID; 107704; 25.
+DR   ComplexPortal; CPX-1758; Collagen type XVII trimer.
+DR   IntAct; Q9UMD9; 10.
+DR   MINT; Q9UMD9; -.
+DR   STRING; 9606.ENSP00000340937; -.
+DR   Allergome; 8213; Hom s BP180.
+DR   GlyCosmos; Q9UMD9; 1 site, No reported glycans.
+DR   GlyGen; Q9UMD9; 3 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q9UMD9; -.
+DR   PhosphoSitePlus; Q9UMD9; -.
+DR   SwissPalm; Q9UMD9; -.
+DR   BioMuta; COL17A1; -.
+DR   DMDM; 146345399; -.
+DR   EPD; Q9UMD9; -.
+DR   jPOST; Q9UMD9; -.
+DR   MassIVE; Q9UMD9; -.
+DR   MaxQB; Q9UMD9; -.
+DR   PaxDb; Q9UMD9; -.
+DR   PeptideAtlas; Q9UMD9; -.
+DR   ProteomicsDB; 85187; -. [Q9UMD9-1]
+DR   ProteomicsDB; 85188; -. [Q9UMD9-2]
+DR   Antibodypedia; 18201; 273 antibodies from 29 providers.
+DR   DNASU; 1308; -.
+DR   Ensembl; ENST00000369733.8; ENSP00000358748.3; ENSG00000065618.21. [Q9UMD9-2]
+DR   Ensembl; ENST00000648076.2; ENSP00000497653.1; ENSG00000065618.21. [Q9UMD9-1]
+DR   GeneID; 1308; -.
+DR   KEGG; hsa:1308; -.
+DR   MANE-Select; ENST00000648076.2; ENSP00000497653.1; NM_000494.4; NP_000485.3.
+DR   UCSC; uc001kxr.4; human. [Q9UMD9-1]
+DR   AGR; HGNC:2194; -.
+DR   CTD; 1308; -.
+DR   DisGeNET; 1308; -.
+DR   GeneCards; COL17A1; -.
+DR   GeneReviews; COL17A1; -.
+DR   HGNC; HGNC:2194; COL17A1.
+DR   HPA; ENSG00000065618; Tissue enriched (skin).
+DR   MalaCards; COL17A1; -.
+DR   MIM; 113811; gene.
+DR   MIM; 122400; phenotype.
+DR   MIM; 619787; phenotype.
+DR   neXtProt; NX_Q9UMD9; -.
+DR   OpenTargets; ENSG00000065618; -.
+DR   Orphanet; 293381; Epithelial recurrent erosion dystrophy.
+DR   Orphanet; 79402; Intermediate generalized junctional epidermolysis bullosa.
+DR   Orphanet; 79406; Late-onset junctional epidermolysis bullosa.
+DR   Orphanet; 251393; Localized junctional epidermolysis bullosa.
+DR   PharmGKB; PA26710; -.
+DR   VEuPathDB; HostDB:ENSG00000065618; -.
+DR   eggNOG; KOG3544; Eukaryota.
+DR   GeneTree; ENSGT00940000161242; -.
+DR   HOGENOM; CLU_004285_0_0_1; -.
+DR   InParanoid; Q9UMD9; -.
+DR   OMA; ELWLFVR; -.
+DR   OrthoDB; 5362506at2759; -.
+DR   PhylomeDB; Q9UMD9; -.
+DR   TreeFam; TF332289; -.
+DR   PathwayCommons; Q9UMD9; -.
+DR   Reactome; R-HSA-1442490; Collagen degradation.
+DR   Reactome; R-HSA-1650814; Collagen biosynthesis and modifying enzymes.
+DR   Reactome; R-HSA-198933; Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell.
+DR   Reactome; R-HSA-2022090; Assembly of collagen fibrils and other multimeric structures.
+DR   Reactome; R-HSA-446107; Type I hemidesmosome assembly.
+DR   Reactome; R-HSA-8948216; Collagen chain trimerization.
+DR   SignaLink; Q9UMD9; -.
+DR   BioGRID-ORCS; 1308; 25 hits in 1152 CRISPR screens.
+DR   ChiTaRS; COL17A1; human.
+DR   GeneWiki; Collagen,_type_XVII,_alpha_1; -.
+DR   GenomeRNAi; 1308; -.
+DR   Pharos; Q9UMD9; Tbio.
+DR   PRO; PR:Q9UMD9; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; Q9UMD9; protein.
+DR   Bgee; ENSG00000065618; Expressed in skin of abdomen and 112 other tissues.
+DR   ExpressionAtlas; Q9UMD9; baseline and differential.
+DR   Genevisible; Q9UMD9; HS.
+DR   GO; GO:0005604; C:basement membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005911; C:cell-cell junction; TAS:ProtInc.
+DR   GO; GO:0005581; C:collagen trimer; IEA:UniProtKB-KW.
+DR   GO; GO:0062023; C:collagen-containing extracellular matrix; HDA:BHF-UCL.
+DR   GO; GO:0005788; C:endoplasmic reticulum lumen; TAS:Reactome.
+DR   GO; GO:0031012; C:extracellular matrix; IBA:GO_Central.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IBA:GO_Central.
+DR   GO; GO:0030056; C:hemidesmosome; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0005201; F:extracellular matrix structural constituent; IBA:GO_Central.
+DR   GO; GO:0030020; F:extracellular matrix structural constituent conferring tensile strength; HDA:BHF-UCL.
+DR   GO; GO:0007160; P:cell-matrix adhesion; TAS:ProtInc.
+DR   GO; GO:0008544; P:epidermis development; TAS:ProtInc.
+DR   GO; GO:0030198; P:extracellular matrix organization; IBA:GO_Central.
+DR   GO; GO:0031581; P:hemidesmosome assembly; IDA:UniProtKB.
+DR   Gene3D; 1.20.5.320; 6-Phosphogluconate Dehydrogenase, domain 3; 1.
+DR   InterPro; IPR008160; Collagen.
+DR   PANTHER; PTHR24023; COLLAGEN ALPHA; 1.
+DR   PANTHER; PTHR24023:SF891; COLLAGEN ALPHA-1(XVII) CHAIN; 1.
+DR   Pfam; PF01391; Collagen; 3.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Basement membrane; Cell junction; Collagen;
+KW   Direct protein sequencing; Disease variant; Disulfide bond;
+KW   Epidermolysis bullosa; Extracellular matrix; Glycoprotein; Hydroxylation;
+KW   Membrane; Phosphoprotein; Reference proteome; Repeat; Secreted;
+KW   Signal-anchor; Transmembrane; Transmembrane helix.
+FT   CHAIN           1..1497
+FT                   /note="Collagen alpha-1(XVII) chain"
+FT                   /id="PRO_0000059406"
+FT   CHAIN           524..1497
+FT                   /note="120 kDa linear IgA disease antigen"
+FT                   /id="PRO_0000342555"
+FT   CHAIN           531..?
+FT                   /note="97 kDa linear IgA disease antigen"
+FT                   /id="PRO_0000342556"
+FT   TOPO_DOM        1..467
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        468..488
+FT                   /note="Helical; Signal-anchor for type II membrane protein"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        489..1497
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   REGION          1..566
+FT                   /note="Nonhelical region (NC16)"
+FT   REGION          1..154
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          145..230
+FT                   /note="Necessary for interaction with DST and for the
+FT                   recruitment of DST to hemidesmosome"
+FT                   /evidence="ECO:0000269|PubMed:12482924"
+FT   REGION          167..186
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          562..1011
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          567..1482
+FT                   /note="Triple-helical region"
+FT   REGION          1209..1234
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1261..1316
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1434..1497
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1483..1497
+FT                   /note="Nonhelical region (NC1)"
+FT   COMPBIAS        1..16
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        17..99
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        108..135
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        169..186
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        819..842
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        857..894
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        906..921
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        933..949
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1213..1229
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1280..1316
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1454..1468
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1469..1488
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         544
+FT                   /note="Phosphoserine; by CK2"
+FT                   /evidence="ECO:0000269|PubMed:17545155"
+FT   CARBOHYD        1421
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:9748270"
+FT   VAR_SEQ         922..966
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_024940"
+FT   VAR_SEQ         1170..1207
+FT                   /note="GSEFRGIVGPPGPPGPPGIPGNVWSSISVEDLSSYLHT -> A (in
+FT                   isoform 2)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_024941"
+FT   VARIANT         4
+FT                   /note="T -> A (in dbSNP:rs17116471)"
+FT                   /id="VAR_048781"
+FT   VARIANT         210
+FT                   /note="T -> M (in dbSNP:rs805708)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_017593"
+FT   VARIANT         231
+FT                   /note="M -> I (in dbSNP:rs1054113)"
+FT                   /evidence="ECO:0000269|PubMed:11912005,
+FT                   ECO:0000269|PubMed:9012408"
+FT                   /id="VAR_017594"
+FT   VARIANT         238
+FT                   /note="M -> T"
+FT                   /evidence="ECO:0000269|PubMed:9012408"
+FT                   /id="VAR_017595"
+FT   VARIANT         265
+FT                   /note="S -> C (in JEB4)"
+FT                   /evidence="ECO:0000269|PubMed:11912005"
+FT                   /id="VAR_017596"
+FT   VARIANT         428
+FT                   /note="G -> S (in dbSNP:rs805698)"
+FT                   /evidence="ECO:0000269|PubMed:1324962,
+FT                   ECO:0000269|PubMed:9012408"
+FT                   /id="VAR_017597"
+FT   VARIANT         627
+FT                   /note="G -> V (in JEB4)"
+FT                   /evidence="ECO:0000269|PubMed:10652291,
+FT                   ECO:0000269|PubMed:8669466"
+FT                   /id="VAR_017598"
+FT   VARIANT         633
+FT                   /note="G -> D (in JEB4; dbSNP:rs121912773)"
+FT                   /evidence="ECO:0000269|PubMed:10951237"
+FT                   /id="VAR_017599"
+FT   VARIANT         703
+FT                   /note="M -> V (in dbSNP:rs805722)"
+FT                   /evidence="ECO:0000269|PubMed:9012408"
+FT                   /id="VAR_017600"
+FT   VARIANT         939
+FT                   /note="T -> I (in ERED; dbSNP:rs797045142)"
+FT                   /evidence="ECO:0000269|PubMed:25676728"
+FT                   /id="VAR_074627"
+FT   VARIANT         1303
+FT                   /note="R -> Q (in JEB4; dbSNP:rs121912771)"
+FT                   /evidence="ECO:0000269|PubMed:9199555"
+FT                   /id="VAR_017601"
+FT   VARIANT         1370
+FT                   /note="D -> G (in dbSNP:rs17116350)"
+FT                   /evidence="ECO:0000269|PubMed:9012408"
+FT                   /id="VAR_017602"
+FT   CONFLICT        856
+FT                   /note="Q -> P (in Ref. 5; AAA51839)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        905
+FT                   /note="S -> F (in Ref. 1; AAA35605 and 2; AAB51499)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1497 AA;  150419 MW;  E01027005F3AE843 CRC64;
+     MDVTKKNKRD GTEVTERIVT ETVTTRLTSL PPKGGTSNGY AKTASLGGGS RLEKQSLTHG
+     SSGYINSTGS TRGHASTSSY RRAHSPASTL PNSPGSTFER KTHVTRHAYE GSSSGNSSPE
+     YPRKEFASSS TRGRSQTRES EIRVRLQSAS PSTRWTELDD VKRLLKGSRS ASVSPTRNSS
+     NTLPIPKKGT VETKIVTASS QSVSGTYDAT ILDANLPSHV WSSTLPAGSS MGTYHNNMTT
+     QSSSLLNTNA YSAGSVFGVP NNMASCSPTL HPGLSTSSSV FGMQNNLAPS LTTLSHGTTT
+     TSTAYGVKKN MPQSPAAVNT GVSTSAACTT SVQSDDLLHK DCKFLILEKD NTPAKKEMEL
+     LIMTKDSGKV FTASPASIAA TSFSEDTLKK EKQAAYNADS GLKAEANGDL KTVSTKGKTT
+     TADIHSYGSS GGGGSGGGGG VGGAGGGPWG PAPAWCPCGS CCSWWKWLLG LLLTWLLLLG
+     LLFGLIALAE EVRKLKARVD ELERIRRSIL PYGDSMDRIE KDRLQGMAPA AGADLDKIGL
+     HSDSQEELWM FVRKKLMMEQ ENGNLRGSPG PKGDMGSPGP KGDRGFPGTP GIPGPLGHPG
+     PQGPKGQKGS VGDPGMEGPM GQRGREGPMG PRGEAGPPGS GEKGERGAAG EPGPHGPPGV
+     PGSVGPKGSS GSPGPQGPPG PVGLQGLRGE VGLPGVKGDK GPMGPPGPKG DQGEKGPRGL
+     TGEPGMRGLP GAVGEPGAKG AMGPAGPDGH QGPRGEQGLT GMPGIRGPPG PSGDPGKPGL
+     TGPQGPQGLP GTPGRPGIKG EPGAPGKIVT SEGSSMLTVP GPPGPPGAMG PPGPPGAPGP
+     AGPAGLPGHQ EVLNLQGPPG PPGPRGPPGP SIPGPPGPRG PPGEGLPGPP GPPGSFLSNS
+     ETFLSGPPGP PGPPGPKGDQ GPPGPRGHQG EQGLPGFSTS GSSSFGLNLQ GPPGPPGPQG
+     PKGDKGDPGV PGALGIPSGP SEGGSSSTMY VSGPPGPPGP PGPPGSISSS GQEIQQYISE
+     YMQSDSIRSY LSGVQGPPGP PGPPGPVTTI TGETFDYSEL ASHVVSYLRT SGYGVSLFSS
+     SISSEDILAV LQRDDVRQYL RQYLMGPRGP PGPPGASGDG SLLSLDYAEL SSRILSYMSS
+     SGISIGLPGP PGPPGLPGTS YEELLSLLRG SEFRGIVGPP GPPGPPGIPG NVWSSISVED
+     LSSYLHTAGL SFIPGPPGPP GPPGPRGPPG VSGALATYAA ENSDSFRSEL ISYLTSPDVR
+     SFIVGPPGPP GPQGPPGDSR LLSTDASHSR GSSSSSHSSS VRRGSSYSSS MSTGGGGAGS
+     LGAGGAFGEA AGDRGPYGTD IGPGGGYGAA AEGGMYAGNG GLLGADFAGD LDYNELAVRV
+     SESMQRQGLL QGMAYTVQGP PGQPGPQGPP GISKVFSAYS NVTADLMDFF QTYGAIQGPP
+     GQKGEMGTPG PKGDRGPAGP PGHPGPPGPR GHKGEKGDKG DQVYAGRRRR RSIAVKP
+//

@@ -1,0 +1,840 @@
+ID   ZEB1_HUMAN              Reviewed;        1124 AA.
+AC   P37275; B4DJV0; B4DUW9; E9PCM7; F5H4I8; Q12924; Q13800; Q2KJ05; Q5T968;
+AC   Q5VZ84; Q8NB68;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1999, sequence version 2.
+DT   28-JUN-2023, entry version 220.
+DE   RecName: Full=Zinc finger E-box-binding homeobox 1;
+DE   AltName: Full=NIL-2-A zinc finger protein;
+DE   AltName: Full=Negative regulator of IL2;
+DE   AltName: Full=Transcription factor 8;
+DE            Short=TCF-8;
+GN   Name=ZEB1; Synonyms=AREB6, TCF8;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=8138542; DOI=10.1093/oxfordjournals.jbchem.a124267;
+RA   Watanabe Y., Kawakami K., Hirayama Y., Nagano K.;
+RT   "Transcription factors positively and negatively regulating the Na,K-ATPase
+RT   alpha 1 subunit gene.";
+RL   J. Biochem. 114:849-855(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Bachman N.J., Scarpulla R.C.;
+RT   "A human zinc finger homeodomain protein homologous to the chicken delta-
+RT   crystallin enhancer binding protein, delta EF1.";
+RL   Submitted (JUL-1994) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 3 AND 4), AND NUCLEOTIDE
+RP   SEQUENCE [LARGE SCALE MRNA] OF 1-798 (ISOFORM 5).
+RC   TISSUE=Brain, and Thalamus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15164054; DOI=10.1038/nature02462;
+RA   Deloukas P., Earthrowl M.E., Grafham D.V., Rubenfield M., French L.,
+RA   Steward C.A., Sims S.K., Jones M.C., Searle S., Scott C., Howe K.,
+RA   Hunt S.E., Andrews T.D., Gilbert J.G.R., Swarbreck D., Ashurst J.L.,
+RA   Taylor A., Battles J., Bird C.P., Ainscough R., Almeida J.P.,
+RA   Ashwell R.I.S., Ambrose K.D., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Bates K., Beasley H., Bray-Allen S., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Cahill P., Camire D., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clarke G., Clee C.M., Clegg S., Corby N.,
+RA   Coulson A., Dhami P., Dutta I., Dunn M., Faulkner L., Frankish A.,
+RA   Frankland J.A., Garner P., Garnett J., Gribble S., Griffiths C.,
+RA   Grocock R., Gustafson E., Hammond S., Harley J.L., Hart E., Heath P.D.,
+RA   Ho T.P., Hopkins B., Horne J., Howden P.J., Huckle E., Hynds C.,
+RA   Johnson C., Johnson D., Kana A., Kay M., Kimberley A.M., Kershaw J.K.,
+RA   Kokkinaki M., Laird G.K., Lawlor S., Lee H.M., Leongamornlert D.A.,
+RA   Laird G., Lloyd C., Lloyd D.M., Loveland J., Lovell J., McLaren S.,
+RA   McLay K.E., McMurray A., Mashreghi-Mohammadi M., Matthews L., Milne S.,
+RA   Nickerson T., Nguyen M., Overton-Larty E., Palmer S.A., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phillimore B., Porter K., Rice C.M., Rogosin A.,
+RA   Ross M.T., Sarafidou T., Sehra H.K., Shownkeen R., Skuce C.D., Smith M.,
+RA   Standring L., Sycamore N., Tester J., Thorpe A., Torcasso W., Tracey A.,
+RA   Tromans A., Tsolas J., Wall M., Walsh J., Wang H., Weinstock K., West A.P.,
+RA   Willey D.L., Whitehead S.L., Wilming L., Wray P.W., Young L., Chen Y.,
+RA   Lovering R.C., Moschonas N.K., Siebert R., Fechtel K., Bentley D.,
+RA   Durbin R.M., Hubbard T., Doucette-Stamm L., Beck S., Smith D.R., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 10.";
+RL   Nature 429:375-381(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 390-1124.
+RX   PubMed=1840704; DOI=10.1126/science.1840704;
+RA   Williams T.M., Moolten D., Burlein J., Romano J., Bhaerman R., Godillot A.,
+RA   Mellon M., Rauscher F.J. III, Kant J.A.;
+RT   "Identification of a zinc finger protein that inhibits IL-2 gene
+RT   expression.";
+RL   Science 254:1791-1794(1991).
+RN   [8]
+RP   INVOLVEMENT IN PPCD3.
+RX   PubMed=16252232; DOI=10.1086/497348;
+RA   Krafchak C.M., Pawar H., Moroi S.E., Sugar A., Lichter P.R., Mackey D.A.,
+RA   Mian S., Nairus T., Elner V., Schteingart M.T., Downs C.A., Kijek T.G.,
+RA   Johnson J.M., Trager E.H., Rozsa F.W., Mandal M.N.A., Epstein M.P.,
+RA   Vollrath D., Ayyagari R., Boehnke M., Richards J.E.;
+RT   "Mutations in TCF8 cause posterior polymorphous corneal dystrophy and
+RT   ectopic expression of COL4A3 by corneal endothelial cells.";
+RL   Am. J. Hum. Genet. 77:694-708(2005).
+RN   [9]
+RP   SUMOYLATION AT LYS-347 AND LYS-774.
+RX   PubMed=16061479; DOI=10.1074/jbc.m504477200;
+RA   Long J., Zuo D., Park M.;
+RT   "Pc2-mediated sumoylation of Smad-interacting protein 1 attenuates
+RT   transcriptional repression of E-cadherin.";
+RL   J. Biol. Chem. 280:35477-35489(2005).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-322, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=19935649; DOI=10.1038/ncb1998;
+RA   Wellner U., Schubert J., Burk U.C., Schmalhofer O., Zhu F., Sonntag A.,
+RA   Waldvogel B., Vannier C., Darling D., zur Hausen A., Brunton V.G.,
+RA   Morton J., Sansom O., Schuler J., Stemmler M.P., Herzberger C., Hopt U.,
+RA   Keck T., Brabletz S., Brabletz T.;
+RT   "The EMT-activator ZEB1 promotes tumorigenicity by repressing stemness-
+RT   inhibiting microRNAs.";
+RL   Nat. Cell Biol. 11:1487-1495(2009).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-642; SER-679 AND THR-702, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [15]
+RP   FUNCTION.
+RX   PubMed=20175752; DOI=10.1042/bj20091578;
+RA   Papadopoulou V., Postigo A., Sanchez-Tillo E., Porter A.C., Wagner S.D.;
+RT   "ZEB1 and CtBP form a repressive complex at a distal promoter element of
+RT   the BCL6 locus.";
+RL   Biochem. J. 427:541-550(2010).
+RN   [16]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH SMARCA4, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=20418909; DOI=10.1038/onc.2010.102;
+RA   Sanchez-Tillo E., Lazaro A., Torrent R., Cuatrecasas M., Vaquero E.C.,
+RA   Castells A., Engel P., Postigo A.;
+RT   "ZEB1 represses E-cadherin and induces an EMT by recruiting the SWI/SNF
+RT   chromatin-remodeling protein BRG1.";
+RL   Oncogene 29:3490-3500(2010).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-679, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-679 AND THR-702, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [20]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-493; LYS-504 AND LYS-515, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [21]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-493, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25114211; DOI=10.1073/pnas.1413825111;
+RA   Impens F., Radoshevich L., Cossart P., Ribet D.;
+RT   "Mapping of SUMO sites and analysis of SUMOylation changes induced by
+RT   external stimuli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 111:12432-12437(2014).
+RN   [22]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-493; LYS-504 AND LYS-515, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25772364; DOI=10.1016/j.celrep.2015.02.033;
+RA   Hendriks I.A., Treffers L.W., Verlaan-de Vries M., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "SUMO-2 orchestrates chromatin modifiers in response to DNA damage.";
+RL   Cell Rep. 10:1778-1791(2015).
+RN   [23]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-493; LYS-504 AND LYS-515, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to replication
+RT   stress reveals novel small ubiquitin-like modified target proteins and
+RT   acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [24]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-186; LYS-195; LYS-307; LYS-331;
+RP   LYS-335; LYS-347; LYS-439; LYS-493; LYS-504; LYS-515; LYS-548; LYS-553 AND
+RP   LYS-774, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [25]
+RP   STRUCTURE BY NMR OF 583-642.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the homeobox domain from human NIL-2-A zinc finger
+RT   protein, transcription factor 8.";
+RL   Submitted (APR-2007) to the PDB data bank.
+RN   [26]
+RP   VARIANTS FECD6 THR-78; ALA-649; PRO-810; PRO-840 AND THR-905.
+RX   PubMed=20036349; DOI=10.1016/j.ajhg.2009.12.001;
+RA   Riazuddin S.A., Zaghloul N.A., Al-Saif A., Davey L., Diplas B.H.,
+RA   Meadows D.N., Eghrari A.O., Minear M.A., Li Y.J., Klintworth G.K.,
+RA   Afshari N., Gregory S.G., Gottsch J.D., Katsanis N.;
+RT   "Missense mutations in TCF8 cause late-onset Fuchs corneal dystrophy and
+RT   interact with FCD4 on chromosome 9p.";
+RL   Am. J. Hum. Genet. 86:45-53(2010).
+RN   [27]
+RP   INVOLVEMENT IN FECD6 AND PPCD3, VARIANT FECD6 HIS-640, CHARACTERIZATION OF
+RP   VARIANTS FECD6 THR-78 AND HIS-640, AND VARIANT GLU-525.
+RX   PubMed=23599324; DOI=10.1167/iovs.13-11781;
+RA   Lechner J., Dash D.P., Muszynska D., Hosseini M., Segev F., George S.,
+RA   Frazer D.G., Moore J.E., Kaye S.B., Young T., Simpson D.A., Churchill A.J.,
+RA   Heon E., Willoughby C.E.;
+RT   "Mutational spectrum of the ZEB1 gene in corneal dystrophies supports a
+RT   genotype-phenotype correlation.";
+RL   Invest. Ophthalmol. Vis. Sci. 54:3215-3223(2013).
+RN   [28]
+RP   VARIANTS FECD6 THR-78; ALA-649; SER-696; PRO-810; PRO-840 AND GLY-905,
+RP   CHARACTERIZATION OF VARIANTS FECD6 THR-78; ALA-649; SER-696; PRO-810;
+RP   PRO-840 AND GLY-905, AND SUBCELLULAR LOCATION.
+RX   PubMed=25190660; DOI=10.1167/iovs.14-15247;
+RA   Chung D.W., Frausto R.F., Ann L.B., Jang M.S., Aldave A.J.;
+RT   "Functional impact of ZEB1 mutations associated with posterior polymorphous
+RT   and Fuchs' endothelial corneal dystrophies.";
+RL   Invest. Ophthalmol. Vis. Sci. 55:6159-6166(2014).
+CC   -!- FUNCTION: Acts as a transcriptional repressor. Inhibits interleukin-2
+CC       (IL-2) gene expression. Enhances or represses the promoter activity of
+CC       the ATP1A1 gene depending on the quantity of cDNA and on the cell type.
+CC       Represses E-cadherin promoter and induces an epithelial-mesenchymal
+CC       transition (EMT) by recruiting SMARCA4/BRG1. Represses BCL6
+CC       transcription in the presence of the corepressor CTBP1. Positively
+CC       regulates neuronal differentiation. Represses RCOR1 transcription
+CC       activation during neurogenesis. Represses transcription by binding to
+CC       the E box (5'-CANNTG-3'). Promotes tumorigenicity by repressing
+CC       stemness-inhibiting microRNAs. {ECO:0000269|PubMed:19935649,
+CC       ECO:0000269|PubMed:20175752, ECO:0000269|PubMed:20418909}.
+CC   -!- SUBUNIT: Interacts (via N-terminus) with SMARCA4/BRG1.
+CC       {ECO:0000269|PubMed:20418909}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:20418909,
+CC       ECO:0000269|PubMed:25190660}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=1;
+CC         IsoId=P37275-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P37275-2; Sequence=VSP_045184;
+CC       Name=3;
+CC         IsoId=P37275-3; Sequence=VSP_047280;
+CC       Name=4;
+CC         IsoId=P37275-4; Sequence=VSP_047281;
+CC       Name=5;
+CC         IsoId=P37275-5; Sequence=VSP_047279, VSP_045184;
+CC   -!- TISSUE SPECIFICITY: Colocalizes with SMARCA4/BRG1 in E-cadherin-
+CC       negative cells from established lines, and stroma of normal colon as
+CC       well as in de-differentiated epithelial cells at the invasion front of
+CC       colorectal carcinomas (at protein level). Expressed in heart and
+CC       skeletal muscle, but not in liver, spleen, or pancreas.
+CC       {ECO:0000269|PubMed:20418909}.
+CC   -!- DISEASE: Corneal dystrophy, posterior polymorphous, 3 (PPCD3)
+CC       [MIM:609141]: A subtype of posterior corneal dystrophy, a disease
+CC       characterized by alterations of Descemet membrane presenting as
+CC       vesicles, opacities or band-like lesions on slit-lamp examination and
+CC       specular microscopy. Affected patient typically are asymptomatic.
+CC       {ECO:0000269|PubMed:16252232, ECO:0000269|PubMed:23599324}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: Corneal dystrophy, Fuchs endothelial, 6 (FECD6) [MIM:613270]:
+CC       A corneal disease caused by loss of endothelium of the central cornea.
+CC       It is characterized by focal wart-like guttata that arise from Descemet
+CC       membrane and develop in the central cornea, epithelial blisters,
+CC       reduced vision and pain. Descemet membrane is thickened by abnormal
+CC       collagenous deposition. {ECO:0000269|PubMed:20036349,
+CC       ECO:0000269|PubMed:23599324, ECO:0000269|PubMed:25190660}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- SIMILARITY: Belongs to the delta-EF1/ZFH-1 C2H2-type zinc-finger
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAG62481.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D15050; BAA03646.1; -; mRNA.
+DR   EMBL; U12170; AAA20602.1; -; mRNA.
+DR   EMBL; AK091478; BAC03673.1; -; mRNA.
+DR   EMBL; AK296244; BAG58962.1; -; mRNA.
+DR   EMBL; AK300830; BAG62481.1; ALT_FRAME; mRNA.
+DR   EMBL; AL158080; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL161935; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL117340; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL355148; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471072; EAW85989.1; -; Genomic_DNA.
+DR   EMBL; BC112392; AAI12393.1; -; mRNA.
+DR   EMBL; M81699; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS44370.1; -. [P37275-5]
+DR   CCDS; CCDS53505.1; -. [P37275-2]
+DR   CCDS; CCDS53506.1; -. [P37275-4]
+DR   CCDS; CCDS53507.1; -. [P37275-3]
+DR   CCDS; CCDS7169.1; -. [P37275-1]
+DR   PIR; JX0293; JX0293.
+DR   RefSeq; NP_001121600.1; NM_001128128.2. [P37275-5]
+DR   RefSeq; NP_001167564.1; NM_001174093.1. [P37275-4]
+DR   RefSeq; NP_001167565.1; NM_001174094.1.
+DR   RefSeq; NP_001167566.1; NM_001174095.1. [P37275-3]
+DR   RefSeq; NP_001167567.1; NM_001174096.1. [P37275-2]
+DR   RefSeq; NP_110378.3; NM_030751.5. [P37275-1]
+DR   PDB; 2E19; NMR; -; A=586-642.
+DR   PDBsum; 2E19; -.
+DR   AlphaFoldDB; P37275; -.
+DR   SMR; P37275; -.
+DR   BioGRID; 112796; 167.
+DR   CORUM; P37275; -.
+DR   ELM; P37275; -.
+DR   IntAct; P37275; 26.
+DR   MINT; P37275; -.
+DR   STRING; 9606.ENSP00000354487; -.
+DR   GlyGen; P37275; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P37275; -.
+DR   PhosphoSitePlus; P37275; -.
+DR   BioMuta; ZEB1; -.
+DR   DMDM; 6166575; -.
+DR   EPD; P37275; -.
+DR   jPOST; P37275; -.
+DR   MassIVE; P37275; -.
+DR   MaxQB; P37275; -.
+DR   PaxDb; P37275; -.
+DR   PeptideAtlas; P37275; -.
+DR   ProteomicsDB; 19473; -.
+DR   ProteomicsDB; 26586; -.
+DR   ProteomicsDB; 55272; -. [P37275-1]
+DR   ProteomicsDB; 61322; -.
+DR   ProteomicsDB; 65678; -.
+DR   Antibodypedia; 12930; 802 antibodies from 45 providers.
+DR   CPTC; P37275; 3 antibodies.
+DR   DNASU; 6935; -.
+DR   Ensembl; ENST00000320985.14; ENSP00000319248.9; ENSG00000148516.23. [P37275-1]
+DR   Ensembl; ENST00000424869.6; ENSP00000415961.2; ENSG00000148516.23. [P37275-2]
+DR   Ensembl; ENST00000446923.7; ENSP00000391612.2; ENSG00000148516.23. [P37275-5]
+DR   Ensembl; ENST00000542815.7; ENSP00000444891.2; ENSG00000148516.23. [P37275-3]
+DR   Ensembl; ENST00000560721.6; ENSP00000452787.1; ENSG00000148516.23. [P37275-4]
+DR   GeneID; 6935; -.
+DR   KEGG; hsa:6935; -.
+DR   MANE-Select; ENST00000424869.6; ENSP00000415961.2; NM_001174096.2; NP_001167567.1. [P37275-2]
+DR   UCSC; uc001ivs.5; human. [P37275-1]
+DR   AGR; HGNC:11642; -.
+DR   CTD; 6935; -.
+DR   DisGeNET; 6935; -.
+DR   GeneCards; ZEB1; -.
+DR   HGNC; HGNC:11642; ZEB1.
+DR   HPA; ENSG00000148516; Low tissue specificity.
+DR   MalaCards; ZEB1; -.
+DR   MIM; 189909; gene.
+DR   MIM; 609141; phenotype.
+DR   MIM; 613270; phenotype.
+DR   neXtProt; NX_P37275; -.
+DR   OpenTargets; ENSG00000148516; -.
+DR   Orphanet; 98974; Fuchs endothelial corneal dystrophy.
+DR   Orphanet; 98973; Posterior polymorphous corneal dystrophy.
+DR   PharmGKB; PA162409589; -.
+DR   VEuPathDB; HostDB:ENSG00000148516; -.
+DR   eggNOG; KOG3623; Eukaryota.
+DR   GeneTree; ENSGT00950000183208; -.
+DR   HOGENOM; CLU_005890_0_1_1; -.
+DR   InParanoid; P37275; -.
+DR   OMA; ANYINFP; -.
+DR   OrthoDB; 4266655at2759; -.
+DR   PhylomeDB; P37275; -.
+DR   TreeFam; TF331759; -.
+DR   PathwayCommons; P37275; -.
+DR   Reactome; R-HSA-6785807; Interleukin-4 and Interleukin-13 signaling.
+DR   SignaLink; P37275; -.
+DR   SIGNOR; P37275; -.
+DR   BioGRID-ORCS; 6935; 42 hits in 1184 CRISPR screens.
+DR   ChiTaRS; ZEB1; human.
+DR   EvolutionaryTrace; P37275; -.
+DR   GeneWiki; ZEB1; -.
+DR   GenomeRNAi; 6935; -.
+DR   Pharos; P37275; Tbio.
+DR   PRO; PR:P37275; -.
+DR   Proteomes; UP000005640; Chromosome 10.
+DR   RNAct; P37275; protein.
+DR   Bgee; ENSG00000148516; Expressed in calcaneal tendon and 209 other tissues.
+DR   ExpressionAtlas; P37275; baseline and differential.
+DR   Genevisible; P37275; HS.
+DR   GO; GO:0000785; C:chromatin; ISA:NTNU_SB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0003682; F:chromatin binding; IEA:Ensembl.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; TAS:ProtInc.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; ISA:NTNU_SB.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IDA:BHF-UCL.
+DR   GO; GO:0070888; F:E-box binding; ISS:UniProtKB.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0008270; F:zinc ion binding; TAS:ProtInc.
+DR   GO; GO:0048856; P:anatomical structure development; IBA:GO_Central.
+DR   GO; GO:0051216; P:cartilage development; IEA:Ensembl.
+DR   GO; GO:0030154; P:cell differentiation; IEA:UniProtKB-KW.
+DR   GO; GO:0071230; P:cellular response to amino acid stimulus; IEA:Ensembl.
+DR   GO; GO:0071560; P:cellular response to transforming growth factor beta stimulus; IEA:Ensembl.
+DR   GO; GO:0090103; P:cochlea morphogenesis; IEA:Ensembl.
+DR   GO; GO:0048596; P:embryonic camera-type eye morphogenesis; IEA:Ensembl.
+DR   GO; GO:0048704; P:embryonic skeletal system morphogenesis; IEA:Ensembl.
+DR   GO; GO:0030900; P:forebrain development; IEA:Ensembl.
+DR   GO; GO:0043616; P:keratinocyte proliferation; IEA:Ensembl.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0045602; P:negative regulation of endothelial cell differentiation; IMP:BHF-UCL.
+DR   GO; GO:0010839; P:negative regulation of keratinocyte proliferation; IEA:Ensembl.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:BHF-UCL.
+DR   GO; GO:0007389; P:pattern specification process; IEA:Ensembl.
+DR   GO; GO:0045666; P:positive regulation of neuron differentiation; ISS:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IEA:Ensembl.
+DR   GO; GO:0010464; P:regulation of mesenchymal cell proliferation; IEA:Ensembl.
+DR   GO; GO:0051150; P:regulation of smooth muscle cell differentiation; IEA:Ensembl.
+DR   GO; GO:0033081; P:regulation of T cell differentiation in thymus; IEA:Ensembl.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0017015; P:regulation of transforming growth factor beta receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0014823; P:response to activity; IEA:Ensembl.
+DR   GO; GO:0031667; P:response to nutrient levels; IEA:Ensembl.
+DR   GO; GO:0048752; P:semicircular canal morphogenesis; IEA:Ensembl.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 6.
+DR   Gene3D; 1.10.10.60; Homeodomain-like; 1.
+DR   InterPro; IPR008598; Di19_Zn-bd.
+DR   InterPro; IPR009057; Homeobox-like_sf.
+DR   InterPro; IPR001356; Homeobox_dom.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24391; HISTONE H4 TRANSCRIPTION FACTOR-RELATED; 1.
+DR   PANTHER; PTHR24391:SF17; ZINC FINGER E-BOX-BINDING HOMEOBOX 1; 1.
+DR   Pfam; PF00096; zf-C2H2; 4.
+DR   Pfam; PF05605; zf-Di19; 1.
+DR   SMART; SM00389; HOX; 1.
+DR   SMART; SM00355; ZnF_C2H2; 7.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 4.
+DR   SUPFAM; SSF46689; Homeodomain-like; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 5.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 6.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activator; Alternative splicing; Corneal dystrophy;
+KW   Differentiation; Disease variant; DNA-binding; Homeobox; Isopeptide bond;
+KW   Metal-binding; Neurogenesis; Nucleus; Phosphoprotein; Reference proteome;
+KW   Repeat; Repressor; Transcription; Transcription regulation;
+KW   Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..1124
+FT                   /note="Zinc finger E-box-binding homeobox 1"
+FT                   /id="PRO_0000047231"
+FT   ZN_FING         170..193
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         200..222
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         240..262
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         268..292
+FT                   /note="C2H2-type 4; atypical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   DNA_BIND        581..640
+FT                   /note="Homeobox; atypical"
+FT   ZN_FING         904..926
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         932..954
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         960..981
+FT                   /note="C2H2-type 7; atypical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          1..124
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          142..163
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          304..327
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          551..586
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          636..714
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          856..898
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          989..1124
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        31..47
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        77..95
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        570..586
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        656..714
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        860..886
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        989..1004
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1027..1050
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1058..1085
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         31
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q62947"
+FT   MOD_RES         33
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q62947"
+FT   MOD_RES         313
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64318"
+FT   MOD_RES         322
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         642
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         679
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         686
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64318"
+FT   MOD_RES         693
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64318"
+FT   MOD_RES         700
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64318"
+FT   MOD_RES         702
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         704
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q64318"
+FT   CROSSLNK        186
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        195
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        307
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        331
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        335
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        347
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO); alternate"
+FT   CROSSLNK        347
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        439
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        493
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25114211,
+FT                   ECO:0007744|PubMed:25218447, ECO:0007744|PubMed:25755297,
+FT                   ECO:0007744|PubMed:25772364, ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        504
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:25755297, ECO:0007744|PubMed:25772364,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        515
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:25755297, ECO:0007744|PubMed:25772364,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        548
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        553
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        774
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO); alternate"
+FT   CROSSLNK        774
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2); alternate"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         1..19
+FT                   /note="MADGPRCKRRKQANPRRNN -> MK (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_047279"
+FT   VAR_SEQ         20..87
+FT                   /note="VTNYNTVVETNSDSDDEDKLHIVEEESVTDAADCEGVPEDDLPTDQTVLPGR
+FT                   SSEREGNAKNCWEDDR -> G (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_047280"
+FT   VAR_SEQ         87..107
+FT                   /note="RKEGQEILGPEAQADEAGCTV -> I (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_047281"
+FT   VAR_SEQ         87
+FT                   /note="R -> TG (in isoform 2 and isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_045184"
+FT   VARIANT         78
+FT                   /note="N -> T (in FECD6; no effect on protein expression;
+FT                   no effect on nuclear localization; dbSNP:rs80194531)"
+FT                   /evidence="ECO:0000269|PubMed:20036349,
+FT                   ECO:0000269|PubMed:23599324, ECO:0000269|PubMed:25190660"
+FT                   /id="VAR_063759"
+FT   VARIANT         90
+FT                   /note="G -> R (in dbSNP:rs12217419)"
+FT                   /id="VAR_052731"
+FT   VARIANT         525
+FT                   /note="G -> E (found in a patient with FECD6)"
+FT                   /evidence="ECO:0000269|PubMed:23599324"
+FT                   /id="VAR_072897"
+FT   VARIANT         553
+FT                   /note="K -> R (in dbSNP:rs35753967)"
+FT                   /id="VAR_031824"
+FT   VARIANT         640
+FT                   /note="Q -> H (in FECD6; down-regulation of several
+FT                   collagen genes expression; dbSNP:rs779148597)"
+FT                   /evidence="ECO:0000269|PubMed:23599324"
+FT                   /id="VAR_072898"
+FT   VARIANT         649
+FT                   /note="P -> A (in FECD6; no effect on protein expression;
+FT                   no effect on nuclear localization; dbSNP:rs781750314)"
+FT                   /evidence="ECO:0000269|PubMed:20036349,
+FT                   ECO:0000269|PubMed:25190660"
+FT                   /id="VAR_063760"
+FT   VARIANT         696
+FT                   /note="N -> S (in FECD6; no effect on protein expression;
+FT                   no effect on nuclear localization; dbSNP:rs567252241)"
+FT                   /evidence="ECO:0000269|PubMed:25190660"
+FT                   /id="VAR_072899"
+FT   VARIANT         810
+FT                   /note="Q -> P (in FECD6; no effect on protein expression;
+FT                   no effect on nuclear localization; dbSNP:rs199944415)"
+FT                   /evidence="ECO:0000269|PubMed:20036349,
+FT                   ECO:0000269|PubMed:25190660"
+FT                   /id="VAR_063761"
+FT   VARIANT         840
+FT                   /note="Q -> P (in FECD6; no effect on protein expression;
+FT                   no effect on nuclear localization; dbSNP:rs118020901)"
+FT                   /evidence="ECO:0000269|PubMed:20036349,
+FT                   ECO:0000269|PubMed:25190660"
+FT                   /id="VAR_063762"
+FT   VARIANT         905
+FT                   /note="A -> G (in FECD6; no effect on protein expression;
+FT                   no effect on nuclear localization; dbSNP:rs78449005)"
+FT                   /evidence="ECO:0000269|PubMed:25190660"
+FT                   /id="VAR_072900"
+FT   VARIANT         905
+FT                   /note="A -> T (in FECD6)"
+FT                   /evidence="ECO:0000269|PubMed:20036349"
+FT                   /id="VAR_063763"
+FT   CONFLICT        12
+FT                   /note="Q -> R (in Ref. 3; BAC03673)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        81
+FT                   /note="N -> S (in Ref. 3; BAC03673)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        84
+FT                   /note="E -> K (in Ref. 3; BAC03673)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        220
+FT                   /note="T -> A (in Ref. 3; BAG62481)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        390
+FT                   /note="M -> T (in Ref. 3; BAG62481)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        420
+FT                   /note="V -> I (in Ref. 2; AAA20602)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        472
+FT                   /note="K -> R (in Ref. 3; BAG58962)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        609
+FT                   /note="E -> Q (in Ref. 7; M81699)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        654
+FT                   /note="I -> T (in Ref. 2; AAA20602)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        672
+FT                   /note="D -> H (in Ref. 7; M81699)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        681
+FT                   /note="L -> S (in Ref. 7; M81699)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        775
+FT                   /note="K -> T (in Ref. 3; BAG62481)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        793..794
+FT                   /note="IP -> KY (in Ref. 3; BAG58962)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        797
+FT                   /note="A -> N (in Ref. 3; BAG58962)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        818
+FT                   /note="A -> V (in Ref. 3; BAG62481)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        838
+FT                   /note="I -> T (in Ref. 3; BAC03673)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1066
+FT                   /note="E -> G (in Ref. 3; BAC03673)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           590..600
+FT                   /evidence="ECO:0007829|PDB:2E19"
+FT   HELIX           608..618
+FT                   /evidence="ECO:0007829|PDB:2E19"
+FT   HELIX           622..634
+FT                   /evidence="ECO:0007829|PDB:2E19"
+SQ   SEQUENCE   1124 AA;  124074 MW;  0A2714CC37C848D1 CRC64;
+     MADGPRCKRR KQANPRRNNV TNYNTVVETN SDSDDEDKLH IVEEESVTDA ADCEGVPEDD
+     LPTDQTVLPG RSSEREGNAK NCWEDDRKEG QEILGPEAQA DEAGCTVKDD ECESDAENEQ
+     NHDPNVEEFL QQQDTAVIFP EAPEEDQRQG TPEASGHDEN GTPDAFSQLL TCPYCDRGYK
+     RFTSLKEHIK YRHEKNEDNF SCSLCSYTFA YRTQLERHMT SHKSGRDQRH VTQSGCNRKF
+     KCTECGKAFK YKHHLKEHLR IHSGEKPYEC PNCKKRFSHS GSYSSHISSK KCISLIPVNG
+     RPRTGLKTSQ CSSPSLSASP GSPTRPQIRQ KIENKPLQEQ LSVNQIKTEP VDYEFKPIVV
+     ASGINCSTPL QNGVFTGGGP LQATSSPQGM VQAVVLPTVG LVSPISINLS DIQNVLKVAV
+     DGNVIRQVLE NNQANLASKE QETINASPIQ QGGHSVISAI SLPLVDQDGT TKIIINYSLE
+     QPSQLQVVPQ NLKKENPVAT NSCKSEKLPE DLTVKSEKDK SFEGGVNDST CLLCDDCPGD
+     INALPELKHY DLKQPTQPPP LPAAEAEKPE SSVSSATGDG NLSPSQPPLK NLLSLLKAYY
+     ALNAQPSAEE LSKIADSVNL PLDVVKKWFE KMQAGQISVQ SSEPSSPEPG KVNIPAKNND
+     QPQSANANEP QDSTVNLQSP LKMTNSPVLP VGSTTNGSRS STPSPSPLNL SSSRNTQGYL
+     YTAEGAQEEP QVEPLDLSLP KQQGELLERS TITSVYQNSV YSVQEEPLNL SCAKKEPQKD
+     SCVTDSEPVV NVIPPSANPI NIAIPTVTAQ LPTIVAIADQ NSVPCLRALA ANKQTILIPQ
+     VAYTYSTTVS PAVQEPPLKV IQPNGNQDER QDTSSEGVSN VEDQNDSDST PPKKKMRKTE
+     NGMYACDLCD KIFQKSSSLL RHKYEHTGKR PHECGICKKA FKHKHHLIEH MRLHSGEKPY
+     QCDKCGKRFS HSGSYSQHMN HRYSYCKREA EERDSTEQEE AGPEILSNEH VGARASPSQG
+     DSDERESLTR EEDEDSEKEE EEEDKEMEEL QEEKECEKPQ GDEEEEEEEE EVEEEEVEEA
+     ENEGEEAKTE GLMKDDRAES QASSLGQKVG ESSEQVSEEK TNEA
+//

@@ -1,0 +1,438 @@
+ID   NSE3_HUMAN              Reviewed;         304 AA.
+AC   Q96MG7; Q8IW16; Q8TEI6; Q9H214;
+DT   13-APR-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   28-JUN-2023, entry version 163.
+DE   RecName: Full=Non-structural maintenance of chromosomes element 3 homolog;
+DE            Short=Non-SMC element 3 homolog;
+DE   AltName: Full=Hepatocellular carcinoma-associated protein 4;
+DE   AltName: Full=MAGE-G1 antigen;
+DE   AltName: Full=Melanoma-associated antigen G1;
+DE   AltName: Full=Necdin-like protein 2;
+GN   Name=NSMCE3 {ECO:0000312|HGNC:HGNC:7677};
+GN   Synonyms=HCA4, MAGEG1, NDNL2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Dong X.-Y., Chen W.-F.;
+RT   "Identification of genes in the chromosome X that are differentially
+RT   expressed in hepatocellular carcinoma.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, Lung, Spleen, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 85-304.
+RC   TISSUE=Spleen;
+RA   Jikuya H., Takano J., Nomura N., Kikuno R., Nagase T., Ohara O.;
+RT   "The nucleotide sequence of a long cDNA clone isolated from human spleen.";
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 189-288.
+RC   TISSUE=Testis;
+RA   Lucas S., Boon T.;
+RT   "Identification of new genes of the MAGE family.";
+RL   Submitted (OCT-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=11782285; DOI=10.1186/1471-2156-2-22;
+RA   Chibuk T.K., Bischof J.M., Wevrick R.;
+RT   "A necdin/MAGE-like gene in the chromosome 15 autism susceptibility region:
+RT   expression, imprinting, and mapping of the human and mouse orthologues.";
+RL   BMC Genet. 2:22-22(2001).
+RN   [7]
+RP   SUBCELLULAR LOCATION, INTERACTION WITH NSMCE1 AND SMC6, AND IDENTIFICATION
+RP   IN THE SMC5-SMC6 COMPLEX.
+RX   PubMed=18086888; DOI=10.1128/mcb.00767-07;
+RA   Taylor E.M., Copsey A.C., Hudson J.J., Vidot S., Lehmann A.R.;
+RT   "Identification of the proteins, including MAGEG1, that make up the human
+RT   SMC5-6 protein complex.";
+RL   Mol. Cell. Biol. 28:1197-1206(2008).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-57 AND SER-64, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [11]
+RP   INTERACTION WITH EID3 AND NSMCE1, AND MUTAGENESIS OF MET-180; ILE-181;
+RP   LEU-185; PHE-266 AND VAL-270.
+RX   PubMed=21364888; DOI=10.1371/journal.pone.0017270;
+RA   Hudson J.J., Bednarova K., Kozakova L., Liao C., Guerineau M., Colnaghi R.,
+RA   Vidot S., Marek J., Bathula S.R., Lehmann A.R., Palecek J.;
+RT   "Interactions between the Nse3 and Nse4 components of the SMC5-6 complex
+RT   identify evolutionarily conserved interactions between MAGE and EID
+RT   Families.";
+RL   PLoS ONE 6:E17270-E17270(2011).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-57; SER-60 AND SER-64, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-64, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.92 ANGSTROMS) OF 78-294 IN COMPLEX WITH NSMCE1,
+RP   FUNCTION, INTERACTION WITH NSMCE1; NSMCE4A AND PJA1, AND MUTAGENESIS OF
+RP   96-LEU-LEU-97.
+RX   PubMed=20864041; DOI=10.1016/j.molcel.2010.08.029;
+RA   Doyle J.M., Gao J., Wang J., Yang M., Potts P.R.;
+RT   "MAGE-RING protein complexes comprise a family of E3 ubiquitin ligases.";
+RL   Mol. Cell 39:963-974(2010).
+RN   [16]
+RP   VARIANTS LICS LEU-209 AND PHE-264, CHARACTERIZATION OF VARIANTS LICS
+RP   LEU-209 AND PHE-264, INVOLVEMENT IN LICS, FUNCTION, SUBUNIT, AND
+RP   INTERACTION WITH NSMCE1 AND NSMCE4.
+RX   PubMed=27427983; DOI=10.1172/jci82890;
+RA   van der Crabben S.N., Hennus M.P., McGregor G.A., Ritter D.I.,
+RA   Nagamani S.C., Wells O.S., Harakalova M., Chinn I.K., Alt A., Vondrova L.,
+RA   Hochstenbach R., van Montfrans J.M., Terheggen-Lagro S.W., van Lieshout S.,
+RA   van Roosmalen M.J., Renkens I., Duran K., Nijman I.J., Kloosterman W.P.,
+RA   Hennekam E., Orange J.S., van Hasselt P.M., Wheeler D.A., Palecek J.J.,
+RA   Lehmann A.R., Oliver A.W., Pearl L.H., Plon S.E., Murray J.M.,
+RA   van Haaften G.;
+RT   "Destabilized SMC5/6 complex leads to chromosome breakage syndrome with
+RT   severe lung disease.";
+RL   J. Clin. Invest. 126:2881-2892(2016).
+CC   -!- FUNCTION: Component of the SMC5-SMC6 complex, a complex involved in
+CC       repair of DNA double-strand breaks by homologous recombination
+CC       (PubMed:20864041, PubMed:27427983). The complex may promote sister
+CC       chromatid homologous recombination by recruiting the SMC1-SMC3 cohesin
+CC       complex to double-strand breaks. The complex is required for telomere
+CC       maintenance via recombination in ALT (alternative lengthening of
+CC       telomeres) cell lines and mediates sumoylation of shelterin complex
+CC       (telosome) components which is proposed to lead to shelterin complex
+CC       disassembly in ALT-associated PML bodies (APBs). In vitro enhances
+CC       ubiquitin ligase activity of NSMCE1. Proposed to act through
+CC       recruitment and/or stabilization of the Ubl-conjugating enzyme (E2) at
+CC       the E3:substrate complex (PubMed:20864041). May be a growth suppressor
+CC       that facilitates the entry of the cell into cell cycle arrest (By
+CC       similarity). {ECO:0000250|UniProtKB:Q9CPR8,
+CC       ECO:0000269|PubMed:20864041, ECO:0000269|PubMed:27427983}.
+CC   -!- SUBUNIT: Component of the SMC5-SMC6 complex which consists at least of
+CC       SMC5, SMC6, NSMCE2, NSMCE1, NSMCE4A or EID3 and NSMCE3. NSMCE1, NSMCE4A
+CC       or EID3 and NSMCE3 probably form a subcomplex that bridges the head
+CC       domains of the SMC5:SMC6 heterodimer (PubMed:18086888). Interacts with
+CC       PJA1 (PubMed:20864041). Interacts with E2F1 (via C-terminus) (By
+CC       similarity). Interacts with NGFR (via C-terminus) (By similarity).
+CC       Interacts with NSMCE1 (PubMed:18086888, PubMed:21364888,
+CC       PubMed:20864041, PubMed:27427983). Interacts with NSMCE4
+CC       (PubMed:20864041, PubMed:27427983). Interacts with SMC6
+CC       (PubMed:18086888). Interacts with EID3 (PubMed:21364888).
+CC       {ECO:0000250|UniProtKB:Q9CPR8, ECO:0000269|PubMed:18086888,
+CC       ECO:0000269|PubMed:20864041, ECO:0000269|PubMed:21364888,
+CC       ECO:0000269|PubMed:27427983}.
+CC   -!- INTERACTION:
+CC       Q96MG7; Q8N140: EID3; NbExp=8; IntAct=EBI-2557356, EBI-744483;
+CC       Q96MG7; Q8WV22: NSMCE1; NbExp=20; IntAct=EBI-2557356, EBI-2557372;
+CC       Q96MG7; Q9NXX6: NSMCE4A; NbExp=4; IntAct=EBI-2557356, EBI-2557393;
+CC       Q96MG7; Q8NG27: PJA1; NbExp=3; IntAct=EBI-2557356, EBI-714606;
+CC       Q96MG7; Q96SB8: SMC6; NbExp=5; IntAct=EBI-2557356, EBI-605415;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Nucleus
+CC       {ECO:0000269|PubMed:18086888}. Chromosome, telomere
+CC       {ECO:0000305|PubMed:18086888}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:11782285}.
+CC   -!- DISEASE: Lung disease, immunodeficiency, and chromosome breakage
+CC       syndrome (LICS) [MIM:617241]: An autosomal recessive chromosome
+CC       breakage syndrome associated with severe, fatal lung disease in early
+CC       childhood, following viral pneumonia. LICS is characterized by combined
+CC       T and B-cell immunodeficiency. Some patients may have mild dysmorphic
+CC       features. {ECO:0000269|PubMed:27427983}. Note=The disease is caused by
+CC       variants affecting the gene represented in this entry.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB84964.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF490510; AAM08357.1; -; mRNA.
+DR   EMBL; AK056957; BAB71325.1; -; mRNA.
+DR   EMBL; BC041166; AAH41166.2; -; mRNA.
+DR   EMBL; BC053999; AAH53999.1; -; mRNA.
+DR   EMBL; AK074138; BAB84964.1; ALT_FRAME; mRNA.
+DR   EMBL; AF320911; AAG38607.1; -; Genomic_DNA.
+DR   CCDS; CCDS10023.1; -.
+DR   RefSeq; NP_619649.1; NM_138704.3.
+DR   PDB; 5HVQ; X-ray; 2.92 A; D=78-294.
+DR   PDB; 5WY5; X-ray; 2.92 A; B=78-294.
+DR   PDBsum; 5HVQ; -.
+DR   PDBsum; 5WY5; -.
+DR   AlphaFoldDB; Q96MG7; -.
+DR   SMR; Q96MG7; -.
+DR   BioGRID; 121094; 41.
+DR   ComplexPortal; CPX-5992; SMC5-SMC6 SUMO ligase complex, EID3 variant.
+DR   ComplexPortal; CPX-6086; SMC5-SMC6 SUMO ligase complex, NSE4EA variant.
+DR   IntAct; Q96MG7; 13.
+DR   STRING; 9606.ENSP00000330694; -.
+DR   iPTMnet; Q96MG7; -.
+DR   PhosphoSitePlus; Q96MG7; -.
+DR   BioMuta; NSMCE3; -.
+DR   DMDM; 46396494; -.
+DR   EPD; Q96MG7; -.
+DR   jPOST; Q96MG7; -.
+DR   MassIVE; Q96MG7; -.
+DR   MaxQB; Q96MG7; -.
+DR   PaxDb; Q96MG7; -.
+DR   PeptideAtlas; Q96MG7; -.
+DR   ProteomicsDB; 77353; -.
+DR   Antibodypedia; 41882; 60 antibodies from 19 providers.
+DR   DNASU; 56160; -.
+DR   Ensembl; ENST00000332303.6; ENSP00000330694.4; ENSG00000185115.6.
+DR   Ensembl; ENST00000631973.1; ENSP00000487893.1; ENSG00000282130.1.
+DR   GeneID; 56160; -.
+DR   KEGG; hsa:56160; -.
+DR   MANE-Select; ENST00000332303.6; ENSP00000330694.4; NM_138704.4; NP_619649.1.
+DR   UCSC; uc001zco.4; human.
+DR   AGR; HGNC:7677; -.
+DR   CTD; 56160; -.
+DR   DisGeNET; 56160; -.
+DR   GeneCards; NSMCE3; -.
+DR   HGNC; HGNC:7677; NSMCE3.
+DR   HPA; ENSG00000185115; Low tissue specificity.
+DR   MalaCards; NSMCE3; -.
+DR   MIM; 608243; gene.
+DR   MIM; 617241; phenotype.
+DR   neXtProt; NX_Q96MG7; -.
+DR   OpenTargets; ENSG00000185115; -.
+DR   PharmGKB; PA31480; -.
+DR   VEuPathDB; HostDB:ENSG00000185115; -.
+DR   eggNOG; KOG4562; Eukaryota.
+DR   GeneTree; ENSGT00940000163627; -.
+DR   HOGENOM; CLU_039582_2_0_1; -.
+DR   InParanoid; Q96MG7; -.
+DR   OMA; SHQNSGC; -.
+DR   OrthoDB; 3128316at2759; -.
+DR   PhylomeDB; Q96MG7; -.
+DR   TreeFam; TF328505; -.
+DR   PathwayCommons; Q96MG7; -.
+DR   Reactome; R-HSA-3108214; SUMOylation of DNA damage response and repair proteins.
+DR   SignaLink; Q96MG7; -.
+DR   SIGNOR; Q96MG7; -.
+DR   BioGRID-ORCS; 56160; 652 hits in 1160 CRISPR screens.
+DR   EvolutionaryTrace; Q96MG7; -.
+DR   GenomeRNAi; 56160; -.
+DR   Pharos; Q96MG7; Tbio.
+DR   PRO; PR:Q96MG7; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q96MG7; protein.
+DR   Bgee; ENSG00000185115; Expressed in islet of Langerhans and 99 other tissues.
+DR   Genevisible; Q96MG7; HS.
+DR   GO; GO:0000781; C:chromosome, telomeric region; NAS:ComplexPortal.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0030915; C:Smc5-Smc6 complex; IDA:UniProtKB.
+DR   GO; GO:0046983; F:protein dimerization activity; IDA:UniProtKB.
+DR   GO; GO:0072711; P:cellular response to hydroxyurea; IMP:UniProtKB.
+DR   GO; GO:0071478; P:cellular response to radiation; IMP:UniProtKB.
+DR   GO; GO:0034644; P:cellular response to UV; IMP:UniProtKB.
+DR   GO; GO:0006281; P:DNA repair; IMP:UniProtKB.
+DR   GO; GO:0000724; P:double-strand break repair via homologous recombination; NAS:ComplexPortal.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   GO; GO:0031398; P:positive regulation of protein ubiquitination; IDA:UniProtKB.
+DR   GO; GO:0016925; P:protein sumoylation; NAS:ComplexPortal.
+DR   GO; GO:0032204; P:regulation of telomere maintenance; NAS:ComplexPortal.
+DR   Gene3D; 1.10.10.1200; MAGE homology domain, winged helix WH1 motif; 1.
+DR   Gene3D; 1.10.10.1210; MAGE homology domain, winged helix WH2 motif; 1.
+DR   InterPro; IPR037445; MAGE.
+DR   InterPro; IPR041898; MAGE_WH1.
+DR   InterPro; IPR041899; MAGE_WH2.
+DR   InterPro; IPR002190; MHD_dom.
+DR   PANTHER; PTHR11736; MELANOMA-ASSOCIATED ANTIGEN MAGE ANTIGEN; 1.
+DR   PANTHER; PTHR11736:SF36; NON-STRUCTURAL MAINTENANCE OF CHROMOSOMES ELEMENT 3 HOMOLOG; 1.
+DR   Pfam; PF01454; MAGE; 1.
+DR   SMART; SM01373; MAGE; 1.
+DR   PROSITE; PS50838; MAGE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Chromosome; Cytoplasm; Disease variant; DNA damage;
+KW   DNA recombination; DNA repair; Growth regulation; Nucleus; Phosphoprotein;
+KW   Reference proteome; Telomere; Tumor antigen; Ubl conjugation pathway.
+FT   CHAIN           1..304
+FT                   /note="Non-structural maintenance of chromosomes element 3
+FT                   homolog"
+FT                   /id="PRO_0000156733"
+FT   DOMAIN          85..285
+FT                   /note="MAGE"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00127"
+FT   REGION          1..82
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          78..304
+FT                   /note="Interaction with NSMCE1"
+FT   REGION          285..304
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        10..24
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        51..67
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         57
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         60
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         64
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   VARIANT         209
+FT                   /note="P -> L (in LICS; creates novel endoproteolytic
+FT                   cleavage sites compared to wild-type; loss of interaction
+FT                   with NSMCE4; loss of interaction with NSMCE1;
+FT                   dbSNP:rs886037827)"
+FT                   /evidence="ECO:0000269|PubMed:27427983"
+FT                   /id="VAR_078021"
+FT   VARIANT         264
+FT                   /note="L -> F (in LICS; no loss of protein stability; loss
+FT                   of interaction with NSMCE4; decreased interaction with
+FT                   NSMCE1; decreased association with the SMC5-SMC6 complex;
+FT                   decreased DNA repair; dbSNP:rs199905054)"
+FT                   /evidence="ECO:0000269|PubMed:27427983"
+FT                   /id="VAR_078022"
+FT   MUTAGEN         96..97
+FT                   /note="LL->AA: Decreases interaction with NSMCE1, no effect
+FT                   on interaction with NSMCE4A, abolishes in vitro promotion
+FT                   of NSMCE1 ubiquitin ligase activity."
+FT                   /evidence="ECO:0000269|PubMed:20864041"
+FT   MUTAGEN         180
+FT                   /note="M->A: Abolishes interaction with EID3."
+FT                   /evidence="ECO:0000269|PubMed:21364888"
+FT   MUTAGEN         181
+FT                   /note="I->A: Abolishes interaction with EID3."
+FT                   /evidence="ECO:0000269|PubMed:21364888"
+FT   MUTAGEN         185
+FT                   /note="L->A: Abolishes interaction with EID3."
+FT                   /evidence="ECO:0000269|PubMed:21364888"
+FT   MUTAGEN         266
+FT                   /note="F->A: Abolishes interaction with EID3."
+FT                   /evidence="ECO:0000269|PubMed:21364888"
+FT   MUTAGEN         270
+FT                   /note="V->A: Abolishes interaction with EID3."
+FT                   /evidence="ECO:0000269|PubMed:21364888"
+FT   HELIX           82..102
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   HELIX           108..114
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   HELIX           117..122
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   HELIX           123..138
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   STRAND          140..146
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   STRAND          150..156
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   TURN            166..169
+FT                   /evidence="ECO:0007829|PDB:5HVQ"
+FT   HELIX           174..188
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   TURN            189..191
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   HELIX           195..204
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   HELIX           220..230
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   STRAND          232..236
+FT                   /evidence="ECO:0007829|PDB:5HVQ"
+FT   STRAND          247..249
+FT                   /evidence="ECO:0007829|PDB:5HVQ"
+FT   HELIX           252..255
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   HELIX           260..271
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   STRAND          275..277
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+FT   HELIX           278..293
+FT                   /evidence="ECO:0007829|PDB:5WY5"
+SQ   SEQUENCE   304 AA;  34308 MW;  C00E2FB2D2CCED7B CRC64;
+     MLQKPRNRGR SGGQAERDRD WSHSGNPGAS RAGEDARVLR DGFAEEAPST SRGPGGSQGS
+     QGPSPQGARR AQAAPAVGPR SQKQLELKVS ELVQFLLIKD QKKIPIKRAD ILKHVIGDYK
+     DIFPDLFKRA AERLQYVFGY KLVELEPKSN TYILINTLEP VEEDAEMRGD QGTPTTGLLM
+     IVLGLIFMKG NTIKETEAWD FLRRLGVYPT KKHLIFGDPK KLITEDFVRQ RYLEYRRIPH
+     TDPVDYEFQW GPRTNLETSK MKVLKFVAKV HNQDPKDWPA QYCEALADEE NRARPQPSGP
+     APSS
+//

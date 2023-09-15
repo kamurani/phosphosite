@@ -1,0 +1,258 @@
+ID   LR37B_HUMAN             Reviewed;         947 AA.
+AC   Q96QE4; Q17RC9; Q5YKG6;
+DT   18-APR-2006, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 3.
+DT   28-JUN-2023, entry version 149.
+DE   RecName: Full=Leucine-rich repeat-containing protein 37B;
+DE   AltName: Full=C66 SLIT-like testicular protein;
+DE   Flags: Precursor;
+GN   Name=LRRC37B;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=10843809; DOI=10.1006/geno.2000.6179;
+RA   Jenne D.E., Tinschert S., Stegmann E., Reimann H., Nuernberg P., Horn D.,
+RA   Naumann I., Buske A., Thiel G.;
+RT   "A common set of at least 11 functional genes is lost in the majority of
+RT   NF1 patients with gross deletions.";
+RL   Genomics 66:93-97(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Testis;
+RA   Wolkowicz M.J., Shetty J., Herr J.C.;
+RL   Submitted (SEP-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Liver;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000305}; Single-pass type I
+CC       membrane protein {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q96QE4-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q96QE4-2; Sequence=VSP_054513;
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAR28082.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ314647; CAC44536.1; -; mRNA.
+DR   EMBL; AY386261; AAR28082.1; ALT_INIT; mRNA.
+DR   EMBL; AC090616; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC117373; AAI17374.1; -; mRNA.
+DR   EMBL; BC143581; AAI43582.1; -; mRNA.
+DR   CCDS; CCDS32609.1; -. [Q96QE4-1]
+DR   RefSeq; NP_443120.2; NM_052888.2. [Q96QE4-1]
+DR   AlphaFoldDB; Q96QE4; -.
+DR   SMR; Q96QE4; -.
+DR   BioGRID; 125332; 33.
+DR   IntAct; Q96QE4; 1.
+DR   MINT; Q96QE4; -.
+DR   STRING; 9606.ENSP00000340519; -.
+DR   GlyCosmos; Q96QE4; 2 sites, No reported glycans.
+DR   GlyGen; Q96QE4; 2 sites.
+DR   iPTMnet; Q96QE4; -.
+DR   PhosphoSitePlus; Q96QE4; -.
+DR   BioMuta; LRRC37B; -.
+DR   DMDM; 296439308; -.
+DR   jPOST; Q96QE4; -.
+DR   MassIVE; Q96QE4; -.
+DR   PaxDb; Q96QE4; -.
+DR   PeptideAtlas; Q96QE4; -.
+DR   ProteomicsDB; 61147; -.
+DR   ProteomicsDB; 77864; -. [Q96QE4-1]
+DR   Antibodypedia; 2696; 81 antibodies from 14 providers.
+DR   DNASU; 114659; -.
+DR   Ensembl; ENST00000341671.12; ENSP00000340519.7; ENSG00000185158.13. [Q96QE4-1]
+DR   Ensembl; ENST00000584368.5; ENSP00000463081.2; ENSG00000185158.13. [Q96QE4-2]
+DR   GeneID; 114659; -.
+DR   KEGG; hsa:114659; -.
+DR   UCSC; uc060dst.1; human. [Q96QE4-1]
+DR   AGR; HGNC:29070; -.
+DR   CTD; 114659; -.
+DR   DisGeNET; 114659; -.
+DR   GeneCards; LRRC37B; -.
+DR   HGNC; HGNC:29070; LRRC37B.
+DR   HPA; ENSG00000185158; Tissue enhanced (bone).
+DR   MIM; 616558; gene.
+DR   neXtProt; NX_Q96QE4; -.
+DR   OpenTargets; ENSG00000185158; -.
+DR   PharmGKB; PA142671525; -.
+DR   VEuPathDB; HostDB:ENSG00000185158; -.
+DR   eggNOG; ENOG502QVVG; Eukaryota.
+DR   GeneTree; ENSGT00530000063282; -.
+DR   HOGENOM; CLU_015957_0_0_1; -.
+DR   InParanoid; Q96QE4; -.
+DR   OrthoDB; 4609371at2759; -.
+DR   PhylomeDB; Q96QE4; -.
+DR   TreeFam; TF341959; -.
+DR   PathwayCommons; Q96QE4; -.
+DR   SignaLink; Q96QE4; -.
+DR   BioGRID-ORCS; 114659; 256 hits in 1154 CRISPR screens.
+DR   ChiTaRS; LRRC37B; human.
+DR   GenomeRNAi; 114659; -.
+DR   Pharos; Q96QE4; Tdark.
+DR   PRO; PR:Q96QE4; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q96QE4; protein.
+DR   Bgee; ENSG00000185158; Expressed in cerebellar cortex and 97 other tissues.
+DR   ExpressionAtlas; Q96QE4; baseline and differential.
+DR   Genevisible; Q96QE4; HS.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-SubCell.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 1.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   InterPro; IPR015753; LRRC37.
+DR   InterPro; IPR032754; LRRC37_N.
+DR   InterPro; IPR029423; LRRC37AB_C.
+DR   PANTHER; PTHR23045:SF9; LEUCINE-RICH REPEAT-CONTAINING 37A-RELATED; 1.
+DR   PANTHER; PTHR23045; LEUCINE-RICH REPEAT-CONTAINING PROTEIN 37A; 1.
+DR   Pfam; PF13855; LRR_8; 1.
+DR   Pfam; PF15779; LRRC37; 2.
+DR   Pfam; PF14914; LRRC37AB_C; 1.
+DR   SMART; SM00369; LRR_TYP; 4.
+DR   SUPFAM; SSF52058; L domain-like; 1.
+DR   PROSITE; PS51450; LRR; 4.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Coiled coil; Glycoprotein; Leucine-rich repeat;
+KW   Membrane; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..27
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           28..947
+FT                   /note="Leucine-rich repeat-containing protein 37B"
+FT                   /id="PRO_0000232653"
+FT   TOPO_DOM        28..905
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        906..926
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        927..947
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          556..577
+FT                   /note="LRR 1"
+FT   REPEAT          580..601
+FT                   /note="LRR 2"
+FT   REPEAT          604..625
+FT                   /note="LRR 3"
+FT   REPEAT          628..649
+FT                   /note="LRR 4"
+FT   REPEAT          655..676
+FT                   /note="LRR 5"
+FT   REPEAT          679..699
+FT                   /note="LRR 6"
+FT   REGION          42..88
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          226..257
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          294..458
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          484..514
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          867..897
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        42..56
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        294..324
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        353..370
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        402..445
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        358
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        789
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         608..658
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_054513"
+FT   CONFLICT        6..24
+FT                   /note="FWGPWPLLTWQLLSLLVKE -> ITAMAPPYVATIVFTSQG (in Ref.
+FT                   1; CAC44536)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        198
+FT                   /note="E -> G (in Ref. 2; AAR28082)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        336
+FT                   /note="Y -> H (in Ref. 2; AAR28082)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        469
+FT                   /note="K -> E (in Ref. 2; AAR28082)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        604
+FT                   /note="Y -> S (in Ref. 1; CAC44536)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        621
+FT                   /note="Q -> H (in Ref. 1; CAC44536 and 2; AAR28082)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        641
+FT                   /note="K -> E (in Ref. 1; CAC44536)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        702
+FT                   /note="T -> S (in Ref. 2; AAR28082)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        772
+FT                   /note="S -> G (in Ref. 2; AAR28082)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   947 AA;  105567 MW;  2C599D50C8C637AC CRC64;
+     MSWLRFWGPW PLLTWQLLSL LVKEAQPLVW VKDPLQLTSN PLGPPEPWSS RSSHLPWESP
+     HAPAPPAAPG DFDYLGPSAS SQMSALPQEP TENLAPFLKE LDSAGELPLG PEPFLAAHQD
+     LNDKRTPEER LPEVVPLLNR DQNQALVQLP RLKWVQTTDL DRAAGHQADE ILVPLDSKVS
+     RPTKFVVSPK NLKKDLAERW SLPEIVGIPH QLSKPQRQKQ TLPDDYLSMD TLYPGSLPPE
+     LRVNADEPPG PPEQVGLSQF HLEPKSQNPE TLEDIQSSSL QEEAPAQLLQ LPQEVEPSTQ
+     QEAPALPPES SMESLAQTPL NHEVTVQPPG EDQAHYNLPK FTVKPADVEV TMTSEPKNET
+     ESTQAQQEAP IQPPEEAEPS STALRTTDPP PEHPEVTLPP SDKGQAQHSH LTEATVQPLD
+     LELSITTEPT TEVKPSPTTE ETSAQPPDPG LAITPEPTTE IGHSTALEKT RAPHPDQVQT
+     LHRSLTEVTG PPTKLESSQD SLVQSETAPE EQKASTSTNI CELCTCGDET LSCVGLSPKQ
+     RLRQVPVPEP DTYNGIFTTL NFQGNYISYL DGNVWKAYSW TEKLILSENY LTELPKDSFE
+     GLLYLQYLDL SCNKIRYIER QTFESLPFLQ YINLGCNLIT KLSLGTFQAW HGMQFLHNLI
+     LNRNPLTTVE DPYLFELPAL KYLDMGTTHI TLTTLKNILT MTVELEKLIL PSHMACCLCQ
+     FKNSIEAVCK TVKLHCNTAC LTNSIHCPEE ASVGNPEGAF MKMLQARKQH MSTQLTIESE
+     APSDSSGINL SGFGGDQLEI QLTEQLRSLI PNEDVRKFMS HVIRTLKMEC SETHVQGSCA
+     KLMLRTGLLM KLLSEQQEAK ALNVEWDTDQ QKTNYINENM EQNEQKEQKS SELMKEVPGD
+     DYKNKLIFAI SVTVILIILI IIFCLIEVNS HKRASEKYKD NPSISGA
+//

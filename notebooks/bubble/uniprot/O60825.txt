@@ -1,0 +1,664 @@
+ID   F262_HUMAN              Reviewed;         505 AA.
+AC   O60825; O60824; Q5VVQ3; Q5VVQ4; Q9H3P1;
+DT   24-JAN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   24-JAN-2001, sequence version 2.
+DT   28-JUN-2023, entry version 209.
+DE   RecName: Full=6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2 {ECO:0000305};
+DE            Short=6PF-2-K/Fru-2,6-P2ase 2;
+DE            Short=PFK/FBPase 2;
+DE   AltName: Full=6PF-2-K/Fru-2,6-P2ase heart-type isozyme;
+DE   Includes:
+DE     RecName: Full=6-phosphofructo-2-kinase;
+DE              EC=2.7.1.105 {ECO:0000269|PubMed:11069105};
+DE   Includes:
+DE     RecName: Full=Fructose-2,6-bisphosphatase;
+DE              EC=3.1.3.46 {ECO:0000269|PubMed:11069105};
+GN   Name=PFKFB2 {ECO:0000312|HGNC:HGNC:8873};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 1).
+RX   PubMed=9652401; DOI=10.1046/j.1432-1327.1998.2540103.x;
+RA   Heine-Suner D., Diaz-Guillen M.A., Lange A.J., Rodriguez de Cordoba S.;
+RT   "Sequence and structure of the human 6-phosphofructo-2-kinase/fructose-2,6-
+RT   bisphosphatase heart isoform gene (PFKFB2).";
+RL   Eur. J. Biochem. 254:103-110(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RC   TISSUE=Heart;
+RX   PubMed=11374908; DOI=10.1006/geno.2001.6527;
+RA   Soejima H., Kawamoto S., Akai J., Miyoshi O., Arai Y., Morohka T.,
+RA   Matsuo S., Niikawa N., Kimura A., Okubo K., Mukai T.;
+RT   "Isolation of novel heart-specific genes using the BodyMap database.";
+RL   Genomics 74:115-120(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RA   Matsutani A.;
+RT   "Human insulinoma PFK2/F26DPase.";
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Trachea;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   PHOSPHORYLATION AT SER-466, MUTAGENESIS OF SER-466, CATALYTIC ACTIVITY,
+RP   FUNCTION, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=11069105; DOI=10.1016/s0960-9822(00)00742-9;
+RA   Marsin A.S., Bertrand L., Rider M.H., Deprez J., Beauloye C., Vincent M.F.,
+RA   Van den Berghe G., Carling D., Hue L.;
+RT   "Phosphorylation and activation of heart PFK-2 by AMPK has a role in the
+RT   stimulation of glycolysis during ischaemia.";
+RL   Curr. Biol. 10:1247-1255(2000).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-466; THR-468; SER-483 AND
+RP   SER-493, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [10]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-466; SER-483 AND SER-493, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-466, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [14]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-466; THR-475 AND SER-493, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [17]
+RP   INTERACTION WITH PFKFB3, AND PHOSPHORYLATION AT SER-466; THR-468; SER-483;
+RP   SER-486 AND SER-493.
+RX   PubMed=36402789; DOI=10.1038/s41467-022-34907-0;
+RA   McGrail K., Granado-Martinez P., Esteve-Puig R., Garcia-Ortega S., Ding Y.,
+RA   Sanchez-Redondo S., Ferrer B., Hernandez-Losa J., Canals F., Manzano A.,
+RA   Navarro-Sabate A., Bartrons R., Yanes O., Perez-Alea M., Munoz-Couselo E.,
+RA   Garcia-Patos V., Recio J.A.;
+RT   "BRAF activation by metabolic stress promotes glycolysis sensitizing
+RT   NRASQ61-mutated melanomas to targeted therapy.";
+RL   Nat. Commun. 13:7113-7113(2022).
+CC   -!- FUNCTION: Synthesis and degradation of fructose 2,6-bisphosphate.
+CC       {ECO:0000269|PubMed:11069105}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=beta-D-fructose 2,6-bisphosphate + H2O = beta-D-fructose 6-
+CC         phosphate + phosphate; Xref=Rhea:RHEA:17289, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:57634, ChEBI:CHEBI:58579; EC=3.1.3.46;
+CC         Evidence={ECO:0000269|PubMed:11069105};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:17290;
+CC         Evidence={ECO:0000305|PubMed:11069105};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + beta-D-fructose 6-phosphate = ADP + beta-D-fructose 2,6-
+CC         bisphosphate + H(+); Xref=Rhea:RHEA:15653, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:57634, ChEBI:CHEBI:58579,
+CC         ChEBI:CHEBI:456216; EC=2.7.1.105;
+CC         Evidence={ECO:0000269|PubMed:11069105};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:15654;
+CC         Evidence={ECO:0000269|PubMed:11069105};
+CC   -!- ACTIVITY REGULATION: Phosphorylation results in the activation of the
+CC       kinase activity. {ECO:0000269|PubMed:11069105}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=57 uM for beta-D-fructose 6-phosphate
+CC         {ECO:0000269|PubMed:11069105};
+CC         KM=5.1 uM for beta-D-fructose 2,6-bisphosphate
+CC         {ECO:0000269|PubMed:11069105};
+CC         KM=46 uM for beta-D-fructose 6-phosphate (in presence of AMPK)
+CC         {ECO:0000269|PubMed:11069105};
+CC         KM=29 uM for beta-D-fructose 6-phosphate (in presence of PKB)
+CC         {ECO:0000269|PubMed:11069105};
+CC         KM=4.7 uM for beta-D-fructose 2,6-bisphosphate (in presence of AMPK)
+CC         {ECO:0000269|PubMed:11069105};
+CC   -!- SUBUNIT: Homodimer (By similarity). Forms a heterodimer with PFKFB3
+CC       (PubMed:36402789). {ECO:0000250|UniProtKB:Q16875,
+CC       ECO:0000269|PubMed:36402789}.
+CC   -!- INTERACTION:
+CC       O60825; P63104: YWHAZ; NbExp=2; IntAct=EBI-764425, EBI-347088;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=O60825-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O60825-2; Sequence=VSP_004675;
+CC   -!- TISSUE SPECIFICITY: Heart.
+CC   -!- PTM: Phosphorylation by AMPK stimulates activity.
+CC       {ECO:0000269|PubMed:11069105}.
+CC   -!- SIMILARITY: In the C-terminal section; belongs to the phosphoglycerate
+CC       mutase family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ005577; CAA06605.1; -; Genomic_DNA.
+DR   EMBL; AJ005578; CAA06606.1; -; mRNA.
+DR   EMBL; AB044805; BAB19681.1; -; mRNA.
+DR   EMBL; AF470623; AAL99386.1; -; mRNA.
+DR   EMBL; AK292883; BAF85572.1; -; mRNA.
+DR   EMBL; AL445493; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471100; EAW93508.1; -; Genomic_DNA.
+DR   EMBL; BC069350; AAH69350.1; -; mRNA.
+DR   EMBL; BC069385; AAH69385.1; -; mRNA.
+DR   EMBL; BC069583; AAH69583.1; -; mRNA.
+DR   EMBL; BC069586; AAH69586.1; -; mRNA.
+DR   EMBL; BC069600; AAH69600.1; -; mRNA.
+DR   EMBL; BC075075; AAH75075.1; -; mRNA.
+DR   EMBL; BC075076; AAH75076.1; -; mRNA.
+DR   EMBL; BC112103; AAI12104.1; -; mRNA.
+DR   EMBL; BC112105; AAI12106.1; -; mRNA.
+DR   CCDS; CCDS31003.1; -. [O60825-2]
+DR   CCDS; CCDS31004.1; -. [O60825-1]
+DR   RefSeq; NP_001018063.1; NM_001018053.1. [O60825-2]
+DR   RefSeq; NP_006203.2; NM_006212.2. [O60825-1]
+DR   PDB; 5HTK; X-ray; 2.01 A; A/B=1-505.
+DR   PDBsum; 5HTK; -.
+DR   AlphaFoldDB; O60825; -.
+DR   SMR; O60825; -.
+DR   BioGRID; 111229; 57.
+DR   ComplexPortal; CPX-1994; 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 complex.
+DR   IntAct; O60825; 28.
+DR   MINT; O60825; -.
+DR   STRING; 9606.ENSP00000356047; -.
+DR   BindingDB; O60825; -.
+DR   ChEMBL; CHEMBL3421525; -.
+DR   DEPOD; PFKFB2; -.
+DR   GlyGen; O60825; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; O60825; -.
+DR   PhosphoSitePlus; O60825; -.
+DR   BioMuta; PFKFB2; -.
+DR   EPD; O60825; -.
+DR   jPOST; O60825; -.
+DR   MassIVE; O60825; -.
+DR   MaxQB; O60825; -.
+DR   PaxDb; O60825; -.
+DR   PeptideAtlas; O60825; -.
+DR   ProteomicsDB; 49608; -. [O60825-1]
+DR   ProteomicsDB; 49609; -. [O60825-2]
+DR   Antibodypedia; 34592; 493 antibodies from 36 providers.
+DR   DNASU; 5208; -.
+DR   Ensembl; ENST00000367079.3; ENSP00000356046.2; ENSG00000123836.15. [O60825-2]
+DR   Ensembl; ENST00000367080.8; ENSP00000356047.3; ENSG00000123836.15. [O60825-1]
+DR   GeneID; 5208; -.
+DR   KEGG; hsa:5208; -.
+DR   MANE-Select; ENST00000367080.8; ENSP00000356047.3; NM_006212.2; NP_006203.2.
+DR   UCSC; uc001hfg.4; human. [O60825-1]
+DR   AGR; HGNC:8873; -.
+DR   CTD; 5208; -.
+DR   DisGeNET; 5208; -.
+DR   GeneCards; PFKFB2; -.
+DR   HGNC; HGNC:8873; PFKFB2.
+DR   HPA; ENSG00000123836; Tissue enhanced (retina).
+DR   MIM; 171835; gene.
+DR   neXtProt; NX_O60825; -.
+DR   OpenTargets; ENSG00000123836; -.
+DR   PharmGKB; PA33212; -.
+DR   VEuPathDB; HostDB:ENSG00000123836; -.
+DR   eggNOG; KOG0234; Eukaryota.
+DR   GeneTree; ENSGT00950000182835; -.
+DR   HOGENOM; CLU_006383_1_1_1; -.
+DR   InParanoid; O60825; -.
+DR   OMA; IACMNGR; -.
+DR   OrthoDB; 2013830at2759; -.
+DR   PhylomeDB; O60825; -.
+DR   TreeFam; TF313541; -.
+DR   BioCyc; MetaCyc:HS04690-MON; -.
+DR   BRENDA; 2.7.1.105; 2681.
+DR   BRENDA; 3.1.3.46; 2681.
+DR   PathwayCommons; O60825; -.
+DR   Reactome; R-HSA-9634600; Regulation of glycolysis by fructose 2,6-bisphosphate metabolism.
+DR   SABIO-RK; O60825; -.
+DR   SignaLink; O60825; -.
+DR   SIGNOR; O60825; -.
+DR   BioGRID-ORCS; 5208; 11 hits in 1170 CRISPR screens.
+DR   ChiTaRS; PFKFB2; human.
+DR   GeneWiki; PFKFB2; -.
+DR   GenomeRNAi; 5208; -.
+DR   Pharos; O60825; Tchem.
+DR   PRO; PR:O60825; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; O60825; protein.
+DR   Bgee; ENSG00000123836; Expressed in islet of Langerhans and 185 other tissues.
+DR   ExpressionAtlas; O60825; baseline and differential.
+DR   Genevisible; O60825; HS.
+DR   GO; GO:0005829; C:cytosol; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0003873; F:6-phosphofructo-2-kinase activity; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004331; F:fructose-2,6-bisphosphate 2-phosphatase activity; IBA:GO_Central.
+DR   GO; GO:0019901; F:protein kinase binding; IPI:UniProtKB.
+DR   GO; GO:0006003; P:fructose 2,6-bisphosphate metabolic process; IBA:GO_Central.
+DR   GO; GO:0006000; P:fructose metabolic process; TAS:ProtInc.
+DR   GO; GO:0006007; P:glucose catabolic process; IEA:Ensembl.
+DR   GO; GO:0006096; P:glycolytic process; IDA:UniProtKB.
+DR   GO; GO:0006089; P:lactate metabolic process; IEA:Ensembl.
+DR   GO; GO:0033133; P:positive regulation of glucokinase activity; IEA:Ensembl.
+DR   GO; GO:0032024; P:positive regulation of insulin secretion; IEA:Ensembl.
+DR   GO; GO:0009749; P:response to glucose; IEA:Ensembl.
+DR   CDD; cd07067; HP_PGM_like; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 1.
+DR   Gene3D; 3.40.50.1240; Phosphoglycerate mutase-like; 1.
+DR   InterPro; IPR003094; 6Pfruct_kin.
+DR   InterPro; IPR013079; 6Phosfructo_kin.
+DR   InterPro; IPR013078; His_Pase_superF_clade-1.
+DR   InterPro; IPR029033; His_PPase_superfam.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR001345; PG/BPGM_mutase_AS.
+DR   PANTHER; PTHR10606; 6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE; 1.
+DR   PANTHER; PTHR10606:SF48; 6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE 2; 1.
+DR   Pfam; PF01591; 6PF2K; 1.
+DR   Pfam; PF00300; His_Phos_1; 1.
+DR   PIRSF; PIRSF000709; 6PFK_2-Ptase; 1.
+DR   PRINTS; PR00991; 6PFRUCTKNASE.
+DR   SMART; SM00855; PGAM; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   SUPFAM; SSF53254; Phosphoglycerate mutase-like; 1.
+DR   PROSITE; PS00175; PG_MUTASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; ATP-binding; Hydrolase;
+KW   Kinase; Multifunctional enzyme; Nucleotide-binding; Phosphoprotein;
+KW   Reference proteome; Transferase.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0007744|PubMed:19413330,
+FT                   ECO:0007744|PubMed:22814378"
+FT   CHAIN           2..505
+FT                   /note="6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase
+FT                   2"
+FT                   /id="PRO_0000179964"
+FT   REGION          1..20
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2..248
+FT                   /note="6-phosphofructo-2-kinase"
+FT   REGION          249..505
+FT                   /note="Fructose-2,6-bisphosphatase"
+FT   REGION          445..505
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        445..481
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        128
+FT                   /evidence="ECO:0000255"
+FT   ACT_SITE        158
+FT                   /evidence="ECO:0000255"
+FT   ACT_SITE        257
+FT                   /note="Tele-phosphohistidine intermediate"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   ACT_SITE        326
+FT                   /note="Proton donor/acceptor"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         45..53
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         78
+FT                   /ligand="beta-D-fructose 6-phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:57634"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         102
+FT                   /ligand="beta-D-fructose 6-phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:57634"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         130
+FT                   /ligand="beta-D-fructose 6-phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:57634"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         136
+FT                   /ligand="beta-D-fructose 6-phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:57634"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         167..172
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         172
+FT                   /ligand="beta-D-fructose 6-phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:57634"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         193
+FT                   /ligand="beta-D-fructose 6-phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:57634"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         197
+FT                   /ligand="beta-D-fructose 6-phosphate"
+FT                   /ligand_id="ChEBI:CHEBI:57634"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         256
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         263
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         269
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         337
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         348..351
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:P07953"
+FT   BINDING         351
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         355
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         366
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         392..396
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:P07953"
+FT   BINDING         392
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   BINDING         396
+FT                   /ligand="beta-D-fructose 2,6-bisphosphate"
+FT                   /ligand_id="ChEBI:CHEBI:58579"
+FT                   /evidence="ECO:0000250|UniProtKB:P07953"
+FT   BINDING         428
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   SITE            256
+FT                   /note="Transition state stabilizer"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   SITE            263
+FT                   /note="Transition state stabilizer"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   SITE            391
+FT                   /note="Transition state stabilizer"
+FT                   /evidence="ECO:0000250|UniProtKB:Q16875"
+FT   MOD_RES         2
+FT                   /note="N-acetylserine"
+FT                   /evidence="ECO:0007744|PubMed:19413330,
+FT                   ECO:0007744|PubMed:22814378"
+FT   MOD_RES         29
+FT                   /note="Phosphoserine; by PKA"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         466
+FT                   /note="Phosphoserine; by AMPK"
+FT                   /evidence="ECO:0000269|PubMed:11069105,
+FT                   ECO:0000269|PubMed:36402789, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         468
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:36402789,
+FT                   ECO:0007744|PubMed:18669648"
+FT   MOD_RES         475
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         483
+FT                   /note="Phosphoserine; by BRAF"
+FT                   /evidence="ECO:0000269|PubMed:36402789,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:20068231"
+FT   MOD_RES         486
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:36402789"
+FT   MOD_RES         493
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:36402789,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         451..505
+FT                   /note="NNFPKNQTPVRMRRNSFTPLSSSNTIRRPRNYSVGSRPLKPLSPLRAQDMQE
+FT                   GAD -> AAETTLAVRRRPSAASLMLPC (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11374908,
+FT                   ECO:0000303|PubMed:14702039, ECO:0000303|Ref.3"
+FT                   /id="VSP_004675"
+FT   MUTAGEN         466
+FT                   /note="S->E: Constitutively active mutant that cannot be
+FT                   phosphorylated and further activated by AMPK."
+FT                   /evidence="ECO:0000269|PubMed:11069105"
+FT   CONFLICT        28
+FT                   /note="Missing (in Ref. 1; CAA06605)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        303..304
+FT                   /note="QL -> HV (in Ref. 1; CAA06606)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        372
+FT                   /note="R -> L (in Ref. 1; CAA06606)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        396
+FT                   /note="R -> H (in Ref. 1; CAA06606)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        406
+FT                   /note="G -> D (in Ref. 1; CAA06606)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        427
+FT                   /note="A -> T (in Ref. 1; CAA06606)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          39..44
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          47..50
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           51..64
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          69..73
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           74..82
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           88..91
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           96..119
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          123..129
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           134..147
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          150..157
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           161..174
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           186..200
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   TURN            206..212
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          215..219
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   TURN            220..223
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          224..228
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           233..242
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          252..256
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           261..265
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           276..292
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          298..301
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           305..312
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           322..324
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           330..332
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           337..343
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           345..353
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   TURN            355..357
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           366..382
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          384..390
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           392..402
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   TURN            407..409
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   HELIX           410..412
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          419..426
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+FT   STRAND          429..436
+FT                   /evidence="ECO:0007829|PDB:5HTK"
+SQ   SEQUENCE   505 AA;  58477 MW;  5CD6A933A7EBF604 CRC64;
+     MSGASSSEQN NNSYETKTPN LRMSEKKCSW ASYMTNSPTL IVMIGLPARG KTYVSKKLTR
+     YLNWIGVPTK VFNLGVYRRE AVKSYKSYDF FRHDNEEAMK IRKQCALVAL EDVKAYLTEE
+     NGQIAVFDAT NTTRERRDMI LNFAEQNSFK VFFVESVCDD PDVIAANILE VKVSSPDYPE
+     RNRENVMEDF LKRIECYKVT YRPLDPDNYD KDLSFIKVIN VGQRFLVNRV QDYIQSKIVY
+     YLMNIHVQPR TIYLCRHGES EFNLLGKIGG DSGLSVRGKQ FAQALRKFLE EQEITDLKVW
+     TSQLKRTIQT AESLGVPYEQ WKILNEIDAG VCEEMTYAEI EKRYPEEFAL RDQEKYLYRY
+     PGGESYQDLV QRLEPVIMEL ERQGNVLVIS HQAVMRCLLA YFLDKGADEL PYLRCPLHTI
+     FKLTPVAYGC KVETIKLNVE AVNTHRDKPT NNFPKNQTPV RMRRNSFTPL SSSNTIRRPR
+     NYSVGSRPLK PLSPLRAQDM QEGAD
+//

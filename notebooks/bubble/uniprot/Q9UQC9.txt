@@ -1,0 +1,428 @@
+ID   CLCA2_HUMAN             Reviewed;         943 AA.
+AC   Q9UQC9; A8K2T3; Q9Y6N2;
+DT   20-MAY-2008, integrated into UniProtKB/Swiss-Prot.
+DT   20-MAY-2008, sequence version 2.
+DT   28-JUN-2023, entry version 159.
+DE   RecName: Full=Calcium-activated chloride channel regulator 2;
+DE            EC=3.4.-.- {ECO:0000250|UniProtKB:A8K7I4};
+DE   AltName: Full=Calcium-activated chloride channel family member 2;
+DE            Short=hCLCA2;
+DE   AltName: Full=Calcium-activated chloride channel protein 3;
+DE            Short=CaCC-3;
+DE            Short=hCaCC-3;
+DE   Contains:
+DE     RecName: Full=Calcium-activated chloride channel regulator 2, 109 kDa form;
+DE   Contains:
+DE     RecName: Full=Calcium-activated chloride channel regulator 2, 35 kDa form;
+DE   Flags: Precursor;
+GN   Name=CLCA2; Synonyms=CACC3;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], SUBCELLULAR LOCATION, TISSUE SPECIFICITY,
+RP   GLYCOSYLATION, AND MUTAGENESIS OF ASN-150; ASN-292; ASN-522; ASN-637;
+RP   ASN-822 AND ASN-938.
+RC   TISSUE=Lung;
+RX   PubMed=10362588; DOI=10.1152/ajpcell.1999.276.6.c1261;
+RA   Gruber A.D., Schreur K.D., Ji H.-L., Fuller C.M., Pauli B.U.;
+RT   "Molecular cloning and transmembrane structure of hCLCA2 from human lung,
+RT   trachea, and mammary gland.";
+RL   Am. J. Physiol. 276:C1261-C1270(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RX   PubMed=10437792; DOI=10.1016/s0014-5793(99)00891-1;
+RA   Agnel M., Vermat T., Culouscou J.-M.;
+RT   "Identification of three novel members of the calcium-dependent chloride
+RT   channel (CaCC) family predominantly expressed in the digestive tract and
+RT   trachea.";
+RL   FEBS Lett. 455:295-301(1999).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Corneal epithelium;
+RX   PubMed=11262615; DOI=10.1076/ceyr.21.6.918.6983;
+RA   Itoh R., Kawamoto S., Miyamoto Y., Kinoshita S., Okubo K.;
+RT   "Isolation and characterization of a Ca(2+)-activated chloride channel from
+RT   human corneal epithelium.";
+RL   Curr. Eye Res. 21:918-925(2000).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Tongue;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   INDUCTION, TISSUE SPECIFICITY, AND FUNCTION.
+RX   PubMed=10554024;
+RA   Gruber A.D., Pauli B.U.;
+RT   "Tumorigenicity of human breast cancer is associated with loss of the Ca2+-
+RT   activated chloride channel CLCA2.";
+RL   Cancer Res. 59:5488-5491(1999).
+RN   [8]
+RP   INDUCTION, AND FUNCTION.
+RX   PubMed=11445004; DOI=10.1089/10445490152122442;
+RA   Bustin S.A., Li S.-R., Dorudi S.;
+RT   "Expression of the Ca2+-activated chloride channel genes CLCA1 and CLCA2 is
+RT   downregulated in human colorectal cancer.";
+RL   DNA Cell Biol. 20:331-338(2001).
+RN   [9]
+RP   TISSUE SPECIFICITY, AND FUNCTION.
+RX   PubMed=11320086; DOI=10.1074/jbc.m100478200;
+RA   Abdel-Ghany M., Cheng H.-C., Elble R.C., Pauli B.U.;
+RT   "The breast cancer beta 4 integrin and endothelial human CLCA2 mediate lung
+RT   metastasis.";
+RL   J. Biol. Chem. 276:25438-25446(2001).
+RN   [10]
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=14966209; DOI=10.1177/002215540405200313;
+RA   Connon C.J., Yamasaki K., Kawasaki S., Quantock A.J., Koizumi N.,
+RA   Kinoshita S.;
+RT   "Calcium-activated chloride channel-2 in human epithelia.";
+RL   J. Histochem. Cytochem. 52:415-418(2004).
+RN   [11]
+RP   SUBCELLULAR LOCATION, FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=15707651; DOI=10.1016/j.acthis.2004.08.003;
+RA   Connon C.J., Kawasaki S., Yamasaki K., Quantock A.J., Kinoshita S.;
+RT   "The quantification of hCLCA2 and colocalisation with integrin beta4 in
+RT   stratified human epithelia.";
+RL   Acta Histochem. 106:421-425(2005).
+RN   [12]
+RP   TISSUE SPECIFICITY, AND FUNCTION.
+RX   PubMed=16158324; DOI=10.1007/s00441-005-0059-2;
+RA   Connon C.J., Kawasaki S., Liles M., Koizumi N., Yamasaki K., Nakamura T.,
+RA   Quantock A.J., Kinoshita S.;
+RT   "Gene expression and immunolocalisation of a calcium-activated chloride
+RT   channel during the stratification of cultivated and developing corneal
+RT   epithelium.";
+RL   Cell Tissue Res. 323:177-182(2006).
+RN   [13]
+RP   SUBCELLULAR LOCATION, SHEDDING, GLYCOSYLATION, AND TOPOLOGY.
+RX   PubMed=16873362; DOI=10.1074/jbc.m605919200;
+RA   Elble R.C., Walia V., Cheng H.-C., Connon C.J., Mundhenk L., Gruber A.D.,
+RA   Pauli B.U.;
+RT   "The putative chloride channel hCLCA2 has a single C-terminal transmembrane
+RT   segment.";
+RL   J. Biol. Chem. 281:29448-29454(2006).
+RN   [14]
+RP   VARIANT [LARGE SCALE ANALYSIS] GLU-754.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+CC   -!- FUNCTION: Plays a role in modulating chloride current across the plasma
+CC       membrane in a calcium-dependent manner, and cell adhesion. Involved in
+CC       basal cell adhesion and/or stratification of squamous epithelia. May
+CC       act as a tumor suppressor in breast and colorectal cancer. Plays a key
+CC       role for cell adhesion in the beginning stages of lung metastasis via
+CC       the binding to ITGB4. {ECO:0000269|PubMed:10554024,
+CC       ECO:0000269|PubMed:11320086, ECO:0000269|PubMed:11445004,
+CC       ECO:0000269|PubMed:15707651, ECO:0000269|PubMed:16158324}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Single-pass type I membrane
+CC       protein. Basal cell membrane; Single-pass type I membrane protein. Cell
+CC       junction.
+CC   -!- SUBCELLULAR LOCATION: [Calcium-activated chloride channel regulator 2,
+CC       109 kDa form]: Secreted. Note=Remains associated to the 35 kDa form
+CC       until an unidentified event triggers the release.
+CC   -!- TISSUE SPECIFICITY: Expressed in cornea, skin, vagina, esophagus, and
+CC       larynx (at protein level). Expressed in trachea and mammary gland.
+CC       Weakly expressed in testis and kidney. Highly expressed in corneal
+CC       epithelium, colon and trachea. Moderately expressed in brain,
+CC       urogenital organs, bladder, uterus and prostate. Highly expressed in
+CC       tissues containing stratified epithelium including cornea, esophagus,
+CC       larynx, skin and vagina than those tissues which contain only
+CC       epithelial monolayers. Expressed in normal breast epithelium but not in
+CC       breast cancer. Highly expressed during epithelial stratification.
+CC       Expressed in endothelial cells of lung. Expressed selectively in
+CC       endothelia of small pulmonary arteries, arterioles, and subpleural and
+CC       interlobular venules. {ECO:0000269|PubMed:10362588,
+CC       ECO:0000269|PubMed:10437792, ECO:0000269|PubMed:10554024,
+CC       ECO:0000269|PubMed:11262615, ECO:0000269|PubMed:11320086,
+CC       ECO:0000269|PubMed:14966209, ECO:0000269|PubMed:15707651,
+CC       ECO:0000269|PubMed:16158324}.
+CC   -!- INDUCTION: Significantly down-regulated in breast and colorectal
+CC       cancer. {ECO:0000269|PubMed:10554024, ECO:0000269|PubMed:11445004}.
+CC   -!- DOMAIN: The metalloprotease region is responsible for autoproteolytic
+CC       processing. It can also cross-cleave other CLCA substrates.
+CC       {ECO:0000250|UniProtKB:A8K7I4}.
+CC   -!- PTM: The 141 kDa mature form is autoproteolytically cleaved by the
+CC       metalloprotease domain, producing a 109 kDa form and a 35 kDa form. The
+CC       cleavage is necessary for calcium-activated chloride channel (CaCC)
+CC       activation activity. {ECO:0000250|UniProtKB:A8K7I4}.
+CC   -!- PTM: N-glycosylated. {ECO:0000269|PubMed:10362588,
+CC       ECO:0000269|PubMed:16873362}.
+CC   -!- SIMILARITY: Belongs to the CLCR family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF043977; AAD40367.1; -; mRNA.
+DR   EMBL; AF127980; AAD48397.1; -; mRNA.
+DR   EMBL; AB026833; BAA77810.1; -; mRNA.
+DR   EMBL; AK290348; BAF83037.1; -; mRNA.
+DR   EMBL; CH471097; EAW73187.1; -; Genomic_DNA.
+DR   EMBL; BC041096; AAH41096.1; -; mRNA.
+DR   CCDS; CCDS708.1; -.
+DR   RefSeq; NP_006527.1; NM_006536.6.
+DR   AlphaFoldDB; Q9UQC9; -.
+DR   SMR; Q9UQC9; -.
+DR   BioGRID; 114994; 5.
+DR   IntAct; Q9UQC9; 3.
+DR   STRING; 9606.ENSP00000359596; -.
+DR   ChEMBL; CHEMBL2364708; -.
+DR   MEROPS; M87.003; -.
+DR   TCDB; 1.A.13.1.10; the epithelial chloride channel (e-clc) family.
+DR   GlyConnect; 1057; 13 N-Linked glycans (3 sites).
+DR   GlyCosmos; Q9UQC9; 8 sites, 13 glycans.
+DR   GlyGen; Q9UQC9; 10 sites, 12 N-linked glycans (3 sites), 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q9UQC9; -.
+DR   PhosphoSitePlus; Q9UQC9; -.
+DR   BioMuta; CLCA2; -.
+DR   DMDM; 189082520; -.
+DR   EPD; Q9UQC9; -.
+DR   jPOST; Q9UQC9; -.
+DR   MassIVE; Q9UQC9; -.
+DR   PaxDb; Q9UQC9; -.
+DR   PeptideAtlas; Q9UQC9; -.
+DR   ProteomicsDB; 85543; -.
+DR   Antibodypedia; 33584; 95 antibodies from 21 providers.
+DR   DNASU; 9635; -.
+DR   Ensembl; ENST00000370565.5; ENSP00000359596.4; ENSG00000137975.8.
+DR   GeneID; 9635; -.
+DR   KEGG; hsa:9635; -.
+DR   MANE-Select; ENST00000370565.5; ENSP00000359596.4; NM_006536.7; NP_006527.1.
+DR   UCSC; uc001dlr.5; human.
+DR   AGR; HGNC:2016; -.
+DR   CTD; 9635; -.
+DR   DisGeNET; 9635; -.
+DR   GeneCards; CLCA2; -.
+DR   HGNC; HGNC:2016; CLCA2.
+DR   HPA; ENSG00000137975; Tissue enhanced (esophagus, skin, vagina).
+DR   MIM; 604003; gene.
+DR   neXtProt; NX_Q9UQC9; -.
+DR   OpenTargets; ENSG00000137975; -.
+DR   PharmGKB; PA26543; -.
+DR   VEuPathDB; HostDB:ENSG00000137975; -.
+DR   eggNOG; ENOG502RIMV; Eukaryota.
+DR   GeneTree; ENSGT00940000161548; -.
+DR   HOGENOM; CLU_005812_0_1_1; -.
+DR   InParanoid; Q9UQC9; -.
+DR   OMA; TREIFTF; -.
+DR   OrthoDB; 5479609at2759; -.
+DR   PhylomeDB; Q9UQC9; -.
+DR   TreeFam; TF328396; -.
+DR   PathwayCommons; Q9UQC9; -.
+DR   Reactome; R-HSA-2672351; Stimuli-sensing channels.
+DR   SignaLink; Q9UQC9; -.
+DR   BioGRID-ORCS; 9635; 10 hits in 1159 CRISPR screens.
+DR   ChiTaRS; CLCA2; human.
+DR   GeneWiki; CLCA2; -.
+DR   GenomeRNAi; 9635; -.
+DR   Pharos; Q9UQC9; Tbio.
+DR   PRO; PR:Q9UQC9; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q9UQC9; protein.
+DR   Bgee; ENSG00000137975; Expressed in gingival epithelium and 113 other tissues.
+DR   Genevisible; Q9UQC9; HS.
+DR   GO; GO:0070161; C:anchoring junction; IEA:UniProtKB-SubCell.
+DR   GO; GO:0009925; C:basal plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030054; C:cell junction; IDA:HPA.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031965; C:nuclear membrane; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0005254; F:chloride channel activity; TAS:ProtInc.
+DR   GO; GO:0005229; F:intracellular calcium activated chloride channel activity; IBA:GO_Central.
+DR   GO; GO:0015276; F:ligand-gated monoatomic ion channel activity; IEA:Ensembl.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004222; F:metalloendopeptidase activity; TAS:Reactome.
+DR   GO; GO:0007155; P:cell adhesion; IEA:UniProtKB-KW.
+DR   GO; GO:0034220; P:monoatomic ion transmembrane transport; TAS:Reactome.
+DR   GO; GO:0006508; P:proteolysis; IEA:UniProtKB-KW.
+DR   CDD; cd00198; vWFA; 1.
+DR   Gene3D; 3.40.50.410; von Willebrand factor, type A domain; 1.
+DR   InterPro; IPR004727; CLCA_chordata.
+DR   InterPro; IPR013642; CLCA_N.
+DR   InterPro; IPR002035; VWF_A.
+DR   InterPro; IPR036465; vWFA_dom_sf.
+DR   PANTHER; PTHR10579; CALCIUM-ACTIVATED CHLORIDE CHANNEL REGULATOR; 1.
+DR   PANTHER; PTHR10579:SF66; CALCIUM-ACTIVATED CHLORIDE CHANNEL REGULATOR 2; 1.
+DR   Pfam; PF08434; CLCA; 1.
+DR   SMART; SM00327; VWA; 1.
+DR   SUPFAM; SSF53300; vWA-like; 1.
+DR   PROSITE; PS50234; VWFA; 1.
+DR   TIGRFAMs; TIGR00868; hCaCC; 1.
+PE   1: Evidence at protein level;
+KW   Autocatalytic cleavage; Calcium; Cell adhesion; Cell junction;
+KW   Cell membrane; Chloride; Glycoprotein; Hydrolase; Ion transport; Membrane;
+KW   Metal-binding; Metalloprotease; Protease; Reference proteome; Secreted;
+KW   Signal; Transmembrane; Transmembrane helix; Transport; Zinc.
+FT   SIGNAL          1..31
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           32..943
+FT                   /note="Calcium-activated chloride channel regulator 2"
+FT                   /id="PRO_0000333694"
+FT   CHAIN           33..?
+FT                   /note="Calcium-activated chloride channel regulator 2, 109
+FT                   kDa form"
+FT                   /id="PRO_0000333695"
+FT   CHAIN           ?..943
+FT                   /note="Calcium-activated chloride channel regulator 2, 35
+FT                   kDa form"
+FT                   /id="PRO_0000344502"
+FT   TOPO_DOM        32..901
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        902..922
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        923..943
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          311..483
+FT                   /note="VWFA"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   REGION          54..205
+FT                   /note="Metalloprotease domain"
+FT                   /evidence="ECO:0000250|UniProtKB:A8K7I4"
+FT   ACT_SITE        165
+FT                   /evidence="ECO:0000250|UniProtKB:A8K7I4"
+FT   BINDING         164
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250|UniProtKB:A8K7I4"
+FT   BINDING         168
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250|UniProtKB:A8K7I4"
+FT   BINDING         175
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250|UniProtKB:A8K7I4"
+FT   SITE            708..709
+FT                   /note="Cleavage; by autolysis"
+FT                   /evidence="ECO:0000250|UniProtKB:A8K7I4"
+FT   CARBOHYD        74
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        150
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT   CARBOHYD        231
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        522
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT   CARBOHYD        822
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT   VARIANT         80
+FT                   /note="V -> I (in dbSNP:rs11580625)"
+FT                   /id="VAR_054057"
+FT   VARIANT         306
+FT                   /note="Q -> E (in dbSNP:rs17409304)"
+FT                   /id="VAR_043148"
+FT   VARIANT         534
+FT                   /note="G -> D (in dbSNP:rs1413426)"
+FT                   /id="VAR_054058"
+FT   VARIANT         754
+FT                   /note="G -> E (in a breast cancer sample; somatic
+FT                   mutation)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_043149"
+FT   MUTAGEN         150
+FT                   /note="N->Q: Reduction in size by around 2 kDa."
+FT                   /evidence="ECO:0000269|PubMed:10362588"
+FT   MUTAGEN         292
+FT                   /note="N->Q: No change in size."
+FT                   /evidence="ECO:0000269|PubMed:10362588"
+FT   MUTAGEN         522
+FT                   /note="N->Q: Reduction in size by around 2 kDa."
+FT                   /evidence="ECO:0000269|PubMed:10362588"
+FT   MUTAGEN         637
+FT                   /note="N->Q: No change in size."
+FT                   /evidence="ECO:0000269|PubMed:10362588"
+FT   MUTAGEN         822
+FT                   /note="N->Q: Reduction in size by around 2 kDa."
+FT                   /evidence="ECO:0000269|PubMed:10362588"
+FT   MUTAGEN         938
+FT                   /note="N->Q: No change in size."
+FT                   /evidence="ECO:0000269|PubMed:10362588"
+FT   CONFLICT        178
+FT                   /note="N -> I (in Ref. 3; BAA77810)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        830
+FT                   /note="Q -> R (in Ref. 4; BAF83037)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   943 AA;  103941 MW;  0E09A09090D2529B CRC64;
+     MTQRSIAGPI CNLKFVTLLV ALSSELPFLG AGVQLQDNGY NGLLIAINPQ VPENQNLISN
+     IKEMITEASF YLFNATKRRV FFRNIKILIP ATWKANNNSK IKQESYEKAN VIVTDWYGAH
+     GDDPYTLQYR GCGKEGKYIH FTPNFLLNDN LTAGYGSRGR VFVHEWAHLR WGVFDEYNND
+     KPFYINGQNQ IKVTRCSSDI TGIFVCEKGP CPQENCIISK LFKEGCTFIY NSTQNATASI
+     MFMQSLSSVV EFCNASTHNQ EAPNLQNQMC SLRSAWDVIT DSADFHHSFP MNGTELPPPP
+     TFSLVQAGDK VVCLVLDVSS KMAEADRLLQ LQQAAEFYLM QIVEIHTFVG IASFDSKGEI
+     RAQLHQINSN DDRKLLVSYL PTTVSAKTDI SICSGLKKGF EVVEKLNGKA YGSVMILVTS
+     GDDKLLGNCL PTVLSSGSTI HSIALGSSAA PNLEELSRLT GGLKFFVPDI SNSNSMIDAF
+     SRISSGTGDI FQQHIQLEST GENVKPHHQL KNTVTVDNTV GNDTMFLVTW QASGPPEIIL
+     FDPDGRKYYT NNFITNLTFR TASLWIPGTA KPGHWTYTLN NTHHSLQALK VTVTSRASNS
+     AVPPATVEAF VERDSLHFPH PVMIYANVKQ GFYPILNATV TATVEPETGD PVTLRLLDDG
+     AGADVIKNDG IYSRYFFSFA ANGRYSLKVH VNHSPSISTP AHSIPGSHAM YVPGYTANGN
+     IQMNAPRKSV GRNEEERKWG FSRVSSGGSF SVLGVPAGPH PDVFPPCKII DLEAVKVEEE
+     LTLSWTAPGE DFDQGQATSY EIRMSKSLQN IQDDFNNAIL VNTSKRNPQQ AGIREIFTFS
+     PQISTNGPEH QPNGETHESH RIYVAIRAMD RNSLQSAVSN IAQAPLFIPP NSDPVPARDY
+     LILKGVLTAM GLIGIICLII VVTHHTLSRK KRADKKENGT KLL
+//

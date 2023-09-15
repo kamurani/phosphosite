@@ -1,0 +1,1481 @@
+ID   RN213_HUMAN             Reviewed;        5207 AA.
+AC   Q63HN8; C9JCP4; D6RI12; F8WKS1; Q658P6; Q69YK7; Q6MZR1; Q8IWF4; Q8IZX1;
+AC   Q8IZX2; Q8N406; Q8TEU0; Q9H6C9; Q9H6H9; Q9H6P3; Q9H8A9; Q9HCF4; Q9HCL8;
+DT   20-FEB-2007, integrated into UniProtKB/Swiss-Prot.
+DT   21-MAR-2012, sequence version 3.
+DT   28-JUN-2023, entry version 170.
+DE   RecName: Full=E3 ubiquitin-protein ligase RNF213 {ECO:0000305};
+DE            EC=2.3.2.27 {ECO:0000269|PubMed:21799892, ECO:0000269|PubMed:32139119, ECO:0000269|PubMed:33842849};
+DE            EC=3.6.4.- {ECO:0000269|PubMed:21799892, ECO:0000305|PubMed:24658080, ECO:0000305|PubMed:26126547};
+DE   AltName: Full=ALK lymphoma oligomerization partner on chromosome 17 {ECO:0000303|PubMed:12112524};
+DE   AltName: Full=E3 ubiquitin-lipopolysaccharide ligase RNF213 {ECO:0000305};
+DE            EC=2.3.2.- {ECO:0000269|PubMed:34012115};
+DE   AltName: Full=Mysterin {ECO:0000303|PubMed:26126547};
+DE   AltName: Full=RING finger protein 213 {ECO:0000305};
+GN   Name=RNF213 {ECO:0000312|HGNC:HGNC:14539};
+GN   Synonyms=ALO17 {ECO:0000303|PubMed:12112524}, C17orf27
+GN   {ECO:0000312|HGNC:HGNC:14539}, KIAA1554 {ECO:0000303|PubMed:10997877},
+GN   KIAA1618 {ECO:0000303|PubMed:10997877}, MYSTR
+GN   {ECO:0000303|PubMed:26126547};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, CATALYTIC ACTIVITY,
+RP   AUTOUBIQUITINATION, SUBCELLULAR LOCATION, TISSUE SPECIFICITY, VARIANTS
+RP   ASP-3962; GLN-4062; SER-4608; ASN-4863; ASP-4950; VAL-5021; GLU-5160 AND
+RP   GLY-5176, AND VARIANTS MYMY2 ASN-4013 AND LYS-4810.
+RX   PubMed=21799892; DOI=10.1371/journal.pone.0022542;
+RA   Liu W., Morito D., Takashima S., Mineharu Y., Kobayashi H., Hitomi T.,
+RA   Hashikata H., Matsuura N., Yamazaki S., Toyoda A., Kikuta K., Takagi Y.,
+RA   Harada K.H., Fujiyama A., Herzig R., Krischek B., Zou L., Kim J.E.,
+RA   Kitakaze M., Miyamoto S., Nagata K., Hashimoto N., Koizumi A.;
+RT   "Identification of RNF213 as a susceptibility gene for moyamoya disease and
+RT   its possible role in vascular development.";
+RL   PLoS ONE 6:E22542-E22542(2011).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3), AND NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 3021-5207 (ISOFORMS 1/2).
+RC   TISSUE=Endometrium, Lymph node, Melanoma, and Uterus;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 3 AND 4).
+RC   TISSUE=Eye, and Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-163 (ISOFORMS 1 AND 2/3), AND CHROMOSOMAL
+RP   TRANSLOCATION WITH ALK.
+RX   PubMed=12112524; DOI=10.1002/gcc.10033;
+RA   Cools J., Wlodarska I., Somers R., Mentens N., Pedeutour F., Maes B.,
+RA   De Wolf-Peeters C., Pauwels P., Hagemeijer A., Marynen P.;
+RT   "Identification of novel fusion partners of ALK, the anaplastic lymphoma
+RT   kinase, in anaplastic large-cell lymphoma and inflammatory myofibroblastic
+RT   tumor.";
+RL   Genes Chromosomes Cancer 34:354-362(2002).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 136-1509 AND 3888-5207 (ISOFORMS
+RP   1/2).
+RC   TISSUE=Brain;
+RX   PubMed=10997877; DOI=10.1093/dnares/7.4.271;
+RA   Nagase T., Kikuno R., Nakayama M., Hirosawa M., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XVIII. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:273-281(2000).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 3770-5207 (ISOFORMS 1/2).
+RC   TISSUE=Spleen, and Thyroid;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1258, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1258, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1258, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=18318008; DOI=10.1002/pmic.200700884;
+RA   Han G., Ye M., Zhou H., Jiang X., Feng S., Jiang X., Tian R., Wan D.,
+RA   Zou H., Gu J.;
+RT   "Large-scale phosphoproteome analysis of human liver tissue by enrichment
+RT   and fractionation of phosphopeptides with strong anion exchange
+RT   chromatography.";
+RL   Proteomics 8:1346-1361(2008).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1258, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19369195; DOI=10.1074/mcp.m800588-mcp200;
+RA   Oppermann F.S., Gnad F., Olsen J.V., Hornberger R., Greff Z., Keri G.,
+RA   Mann M., Daub H.;
+RT   "Large-scale proteomics analysis of the human kinome.";
+RL   Mol. Cell. Proteomics 8:1751-1764(2009).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1258, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [13]
+RP   INTERACTION WITH M.TUBERCULOSIS RV3655C (MICROBIAL INFECTION), AND
+RP   INDUCTION (MICROBIAL INFECTION).
+RX   PubMed=20454556; DOI=10.1371/journal.pone.0010474;
+RA   Danelishvili L., Yamazaki Y., Selker J., Bermudez L.E.;
+RT   "Secreted Mycobacterium tuberculosis Rv3654c and Rv3655c proteins
+RT   participate in the suppression of macrophage apoptosis.";
+RL   PLoS ONE 5:E10474-E10474(2010).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-217 AND SER-1258, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1258, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-217; SER-1258 AND SER-2273,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-208; SER-217 AND SER-1258,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [19]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-1151, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [20]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND MUTAGENESIS OF LYS-2426; GLU-2488;
+RP   LYS-2775 AND GLU-2845.
+RX   PubMed=24658080; DOI=10.1038/srep04442;
+RA   Morito D., Nishikawa K., Hoseki J., Kitamura A., Kotani Y., Kiso K.,
+RA   Kinjo M., Fujiyoshi Y., Nagata K.;
+RT   "Moyamoya disease-associated protein mysterin/RNF213 is a novel AAA+
+RT   ATPase, which dynamically changes its oligomeric state.";
+RL   Sci. Rep. 4:4442-4442(2014).
+RN   [21]
+RP   INDUCTION.
+RX   PubMed=26070522; DOI=10.1016/j.jstrokecerebrovasdis.2015.01.041;
+RA   Zhao S., Gong Z., Zhang J., Xu X., Liu P., Guan W., Jing L., Peng T.,
+RA   Teng J., Jia Y.;
+RT   "Elevated serum microRNA Let-7c in Moyamoya disease.";
+RL   J. Stroke Cerebrovasc. Dis. 24:1709-1714(2015).
+RN   [22]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=26278786; DOI=10.1038/srep13191;
+RA   Ohkubo K., Sakai Y., Inoue H., Akamine S., Ishizaki Y., Matsushita Y.,
+RA   Sanefuji M., Torisu H., Ihara K., Sardiello M., Hara T.;
+RT   "Moyamoya disease susceptibility gene RNF213 links inflammatory and
+RT   angiogenic signals in endothelial cells.";
+RL   Sci. Rep. 5:13191-13191(2015).
+RN   [23]
+RP   FUNCTION.
+RX   PubMed=26766444; DOI=10.1016/j.devcel.2015.12.015;
+RA   Scholz B., Korn C., Wojtarowicz J., Mogler C., Augustin I., Boutros M.,
+RA   Niehrs C., Augustin H.G.;
+RT   "Endothelial RSPO3 controls vascular stability and pruning through non-
+RT   canonical WNT/Ca(2+)/NFAT signaling.";
+RL   Dev. Cell 36:79-93(2016).
+RN   [24]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND MUTAGENESIS OF LYS-2426; GLU-2488;
+RP   LYS-2775 AND GLU-2845.
+RX   PubMed=30705059; DOI=10.1083/jcb.201712120;
+RA   Sugihara M., Morito D., Ainuki S., Hirano Y., Ogino K., Kitamura A.,
+RA   Hirata H., Nagata K.;
+RT   "The AAA+ ATPase/ubiquitin ligase mysterin stabilizes cytoplasmic lipid
+RT   droplets.";
+RL   J. Cell Biol. 218:949-960(2019).
+RN   [25]
+RP   FUNCTION.
+RX   PubMed=30846318; DOI=10.1016/j.molcel.2019.01.036;
+RA   Piccolis M., Bond L.M., Kampmann M., Pulimeno P., Chitraju C.,
+RA   Jayson C.B.K., Vaites L.P., Boland S., Lai Z.W., Gabriel K.R.,
+RA   Elliott S.D., Paulo J.A., Harper J.W., Weissman J.S., Walther T.C.,
+RA   Farese R.V. Jr.;
+RT   "Probing the global cellular responses to lipotoxicity caused by saturated
+RT   fatty acids.";
+RL   Mol. Cell 74:32-44(2019).
+RN   [26]
+RP   FUNCTION, CATALYTIC ACTIVITY, PATHWAY, INTERACTION WITH UBE2N,
+RP   CHARACTERIZATION OF VARIANTS TYR-3997; ARG-4007; ASN-4014; SER-4017;
+RP   CYS-4019; ARG-4024; ARG-4032 AND LEU-4033, AND VARIANT MYMY2 ASN-4013.
+RX   PubMed=32139119; DOI=10.1016/j.bbrc.2020.02.024;
+RA   Takeda M., Tezuka T., Kim M., Choi J., Oichi Y., Kobayashi H., Harada K.H.,
+RA   Mizushima T., Taketani S., Koizumi A., Youssefian S.;
+RT   "Moyamoya disease patient mutations in the RING domain of RNF213 reduce its
+RT   ubiquitin ligase activity and enhance NFkappaB activation and apoptosis in
+RT   an AAA+ domain-dependent manner.";
+RL   Biochem. Biophys. Res. Commun. 525:668-674(2020).
+RN   [27]
+RP   FUNCTION, CATALYTIC ACTIVITY, PATHWAY, AND INTERACTION WITH UBE2N.
+RX   PubMed=33842849; DOI=10.1096/fba.2019-00092;
+RA   Habu T., Harada K.H.;
+RT   "UBC13 is an RNF213-associated E2 ubiquitin-conjugating enzyme, and Lysine
+RT   63-linked ubiquitination by the RNF213-UBC13 axis is responsible for
+RT   angiogenic activity.";
+RL   FASEB Bioadv. 3:243-258(2021).
+RN   [28]
+RP   FUNCTION, SUBCELLULAR LOCATION, DOMAIN, CHARACTERIZATION OF VARIANTS
+RP   ILE-4638; ASP-4950 AND VAL-5021, CHARACTERIZATION OF VARIANT MYMY2
+RP   LYS-4810, AND MUTAGENESIS OF LYS-2426; GLU-2488; LYS-2775; GLU-2845;
+RP   HIS-4014; TRP-4024 AND HIS-4509.
+RX   PubMed=34012115; DOI=10.1038/s41586-021-03566-4;
+RA   Otten E.G., Werner E., Crespillo-Casado A., Boyle K.B., Dharamdasani V.,
+RA   Pathe C., Santhanam B., Randow F.;
+RT   "Ubiquitylation of lipopolysaccharide by RNF213 during bacterial
+RT   infection.";
+RL   Nature 594:111-116(2021).
+RN   [29]
+RP   VARIANTS GLU-2554; VAL-3891; GLY-3915; MET-4567 AND MET-4765, AND VARIANTS
+RP   MYMY2 THR-4399 AND LYS-4810.
+RX   PubMed=21048783; DOI=10.1038/jhg.2010.132;
+RA   Kamada F., Aoki Y., Narisawa A., Abe Y., Komatsuzaki S., Kikuchi A.,
+RA   Kanno J., Niihori T., Ono M., Ishii N., Owada Y., Fujimura M., Mashimo Y.,
+RA   Suzuki Y., Hata A., Tsuchiya S., Tominaga T., Matsubara Y., Kure S.;
+RT   "A genome-wide association study identifies RNF213 as the first Moyamoya
+RT   disease gene.";
+RL   J. Hum. Genet. 56:34-40(2011).
+RN   [30]
+RP   VARIANT MYMY2 LYS-4810.
+RX   PubMed=22931863; DOI=10.1038/jhg.2012.105;
+RA   Miyatake S., Touho H., Miyake N., Ohba C., Doi H., Saitsu H., Taguri M.,
+RA   Morita S., Matsumoto N.;
+RT   "Sibling cases of moyamoya disease having homozygous and heterozygous
+RT   c.14576G>A variant in RNF213 showed varying clinical course and severity.";
+RL   J. Hum. Genet. 57:804-806(2012).
+RN   [31]
+RP   VARIANT MYMY2 LYS-4810.
+RX   PubMed=22688072; DOI=10.2176/nmc.52.339;
+RA   Shimoda Y., Fujimura M., Inoue T., Shimizu H., Tominaga T.;
+RT   "Temporal profile of de novo development of moyamoya vasculopathy in an
+RT   adult: case report.";
+RL   Neurol. Med. Chir. 52:339-342(2012).
+RN   [32]
+RP   VARIANT MYMY2 LYS-4810.
+RX   PubMed=22377813; DOI=10.1212/wnl.0b013e318249f71f;
+RA   Miyatake S., Miyake N., Touho H., Nishimura-Tadaki A., Kondo Y., Okada I.,
+RA   Tsurusaki Y., Doi H., Sakai H., Saitsu H., Shimojima K., Yamamoto T.,
+RA   Higurashi M., Kawahara N., Kawauchi H., Nagasaka K., Okamoto N., Mori T.,
+RA   Koyano S., Kuroiwa Y., Taguri M., Morita S., Matsubara Y., Kure S.,
+RA   Matsumoto N.;
+RT   "Homozygous c.14576G>A variant of RNF213 predicts early-onset and severe
+RT   form of moyamoya disease.";
+RL   Neurology 78:803-810(2012).
+RN   [33]
+RP   VARIANTS MYMY2 THR-4399 AND LYS-4810, AND VARIANTS ARG-4007; LEU-4367;
+RP   PRO-4586; VAL-4631; ASP-4950; VAL-5021 AND ILE-5136.
+RX   PubMed=23110205; DOI=10.1371/journal.pone.0048179;
+RA   Wu Z., Jiang H., Zhang L., Xu X., Zhang X., Kang Z., Song D., Zhang J.,
+RA   Guan M., Gu Y.;
+RT   "Molecular analysis of RNF213 gene for moyamoya disease in the Chinese Han
+RT   population.";
+RL   PLoS ONE 7:E48179-E48179(2012).
+RN   [34]
+RP   CHARACTERIZATION OF VARIANT MYMY2 LYS-4810.
+RX   PubMed=23994138; DOI=10.1016/j.bbrc.2013.08.067;
+RA   Hitomi T., Habu T., Kobayashi H., Okuda H., Harada K.H., Osafune K.,
+RA   Taura D., Sone M., Asaka I., Ameku T., Watanabe A., Kasahara T., Sudo T.,
+RA   Shiota F., Hashikata H., Takagi Y., Morito D., Miyamoto S., Nakao K.,
+RA   Koizumi A.;
+RT   "The moyamoya disease susceptibility variant RNF213 R4810K (rs112735431)
+RT   induces genomic instability by mitotic abnormality.";
+RL   Biochem. Biophys. Res. Commun. 439:419-426(2013).
+RN   [35]
+RP   VARIANT THR-4185.
+RX   PubMed=25043520; DOI=10.1111/ijs.12306;
+RA   Smith K.R., Leventer R.J., Mackay M.T., Pope K., Gillies G.,
+RA   Delatycki M.B., Amor D.J., Bahlo M., Lockhart P.J.;
+RT   "Identification of a novel RNF213 variant in a family with heterogeneous
+RT   intracerebral vasculopathy.";
+RL   Int. J. Stroke 9:E26-E27(2014).
+RN   [36]
+RP   VARIANTS MYMY2 ASN-4013 AND LYS-4810, AND VARIANTS ALA-529 DEL; GLN-3922;
+RP   TYR-3997; CYS-4019; VAL-4076; LYS-4115 DEL; GLU-4237; THR-4732 AND
+RP   ILE-5163.
+RX   PubMed=25278557; DOI=10.1161/strokeaha.114.006244;
+RG   University of Washington Center for Mendelian Genomics;
+RA   Cecchi A.C., Guo D., Ren Z., Flynn K., Santos-Cortez R.L., Leal S.M.,
+RA   Wang G.T., Regalado E.S., Steinberg G.K., Shendure J., Bamshad M.J.,
+RA   Grotta J.C., Nickerson D.A., Pannu H., Milewicz D.M.;
+RT   "RNF213 rare variants in an ethnically diverse population with Moyamoya
+RT   disease.";
+RL   Stroke 45:3200-3207(2014).
+RN   [37]
+RP   VARIANT PHE-4118, AND INVOLVEMENT IN MYMY2.
+RX   PubMed=26198278; DOI=10.1002/ajmg.a.37230;
+RA   Harel T., Posey J.E., Graham B.H., Walkiewicz M., Yang Y., Lalani S.R.,
+RA   Belmont J.W.;
+RT   "Atypical presentation of moyamoya disease in an infant with a de novo
+RT   RNF213 variant.";
+RL   Am. J. Med. Genet. A 167A:2742-2747(2015).
+RN   [38]
+RP   CHARACTERIZATION OF VARIANT MYMY2 LYS-4810, FUNCTION, CATALYTIC ACTIVITY,
+RP   AND MUTAGENESIS OF GLU-2488.
+RX   PubMed=26126547; DOI=10.1161/jaha.115.002146;
+RA   Kobayashi H., Matsuda Y., Hitomi T., Okuda H., Shioi H., Matsuda T.,
+RA   Imai H., Sone M., Taura D., Harada K.H., Habu T., Takagi Y., Miyamoto S.,
+RA   Koizumi A.;
+RT   "Biochemical and functional characterization of RNF213 (Mysterin) R4810K, a
+RT   susceptibility mutation of Moyamoya disease, in angiogenesis in vitro and
+RT   in vivo.";
+RL   J. Am. Heart Assoc. 4:0-0(2015).
+RN   [39]
+RP   VARIANTS VAL-1622; MET-3933 AND CYS-4131, AND VARIANT MYMY2 LYS-4810.
+RX   PubMed=25956231; DOI=10.1016/j.jns.2015.04.019;
+RA   Lee M.J., Chen Y.F., Fan P.C., Wang K.C., Wang K., Wang J., Kuo M.F.;
+RT   "Mutation genotypes of RNF213 gene from moyamoya patients in Taiwan.";
+RL   J. Neurol. Sci. 353:161-165(2015).
+RN   [40]
+RP   VARIANTS CYS-4019; LYS-4042; ALA-4146 AND LEU-4677, CHARACTERIZATION OF
+RP   VARIANT MYMY2 ASN-4013, AND CHARACTERIZATION OF VARIANTS CYS-4019 AND
+RP   ALA-4146.
+RX   PubMed=27736983; DOI=10.1371/journal.pone.0164759;
+RA   Kobayashi H., Brozman M., Kyselova K., Viszlayova D., Morimoto T.,
+RA   Roubec M., Skoloudik D., Petrovicova A., Juskanic D., Strauss J., Halaj M.,
+RA   Kurray P., Hranai M., Harada K.H., Inoue S., Yoshida Y., Habu T.,
+RA   Herzig R., Youssefian S., Koizumi A.;
+RT   "RNF213 rare variants in Slovakian and Czech moyamoya disease patients.";
+RL   PLoS ONE 11:E0164759-E0164759(2016).
+RN   [41]
+RP   VARIANTS ARG-118; MET-133; ASN-209; LEU-395; VAL-1135; LYS-1705; LEU-1721;
+RP   THR-1844; HIS-3846; THR-3927; MET-3933; ASN-4014; CYS-4019; ARG-4032;
+RP   LEU-4033; LYS-4042; PRO-4051; GLN-4062; VAL-4122; SER-4608 AND SER-4640,
+RP   AND VARIANTS MYMY2 ASN-4013 AND THR-4399.
+RX   PubMed=28635953; DOI=10.1038/ejhg.2017.92;
+RG   FREX consortium;
+RA   Guey S., Kraemer M., Herve D., Ludwig T., Kossorotoff M., Bergametti F.,
+RA   Schwitalla J.C., Choi S., Broseus L., Callebaut I., Genin E.,
+RA   Tournier-Lasserve E.;
+RT   "Rare RNF213 variants in the C-terminal region encompassing the RING-finger
+RT   domain are associated with moyamoya angiopathy in Caucasians.";
+RL   Eur. J. Hum. Genet. 25:995-1003(2017).
+RN   [42]
+RP   VARIANTS LYS-996; PRO-4058 AND GLN-4062, AND INVOLVEMENT IN MYMY2.
+RX   PubMed=29387438; DOI=10.1038/hgv.2017.60;
+RA   Akagawa H., Mukawa M., Nariai T., Nomura S., Aihara Y., Onda H.,
+RA   Yoneyama T., Kudo T., Sumita K., Maehara T., Kawamata T., Kasuya H.;
+RT   "Novel and recurrent RNF213 variants in Japanese pediatric patients with
+RT   moyamoya disease.";
+RL   Hum. Genome Var. 5:17060-17060(2018).
+RN   [43]
+RP   VARIANTS GLU-4185 AND THR-4188, AND INVOLVEMENT IN MYMY2.
+RX   PubMed=31645973; DOI=10.1038/s41439-019-0066-6;
+RA   Gagunashvili A.N., Ocaka L., Kelberman D., Munot P., Bacchelli C.,
+RA   Beales P.L., Ganesan V.;
+RT   "Novel missense variants in the RNF213 gene from a European family with
+RT   Moyamoya disease.";
+RL   Hum. Genome Var. 6:35-35(2019).
+RN   [44]
+RP   VARIANTS SER-4017 AND LEU-4677, AND INVOLVEMENT IN MYMY2.
+RX   PubMed=27787485; DOI=10.23736/s0390-5616.16.03900-x;
+RA   Raso A., Biassoni R., Mascelli S., Nozza P., Ugolotti E., Di Marco E.,
+RA   De Marco P., Merello E., Cama A., Pavanello M., Capra V.;
+RT   "Moyamoya vasculopathy shows a genetic mutational gradient decreasing from
+RT   East to West.";
+RL   J. Neurosurg. Sci. 64:165-172(2020).
+RN   [45]
+RP   VARIANTS 3996-PRO-CYS-3997 DELINS GLY-LEU-GLY; ARG-4114 AND LEU-4120, AND
+RP   INVOLVEMENT IN MYMY2.
+RX   PubMed=33568546; DOI=10.1212/wnl.0000000000011653;
+RA   Pinard A., Fiander M.D.J., Cecchi A.C., Rideout A.L., Azouz M.,
+RA   Fraser S.M., McNeely P.D., Walling S., Novara S.C., Hurst A.C.E., Guo D.,
+RA   Parkash S., Bamshad M.J., Nickerson D.A., Vandersteen A.M., Milewicz D.M.;
+RT   "Association of de novo RNF213 variants with childhood onset Moyamoya
+RT   disease and diffuse occlusive vasculopathy.";
+RL   Neurology 96:e1783-e1791(2021).
+CC   -!- FUNCTION: Atypical E3 ubiquitin ligase that can catalyze ubiquitination
+CC       of both proteins and lipids, and which is involved in various
+CC       processes, such as lipid metabolism, angiogenesis and cell-autonomous
+CC       immunity (PubMed:21799892, PubMed:26126547, PubMed:26278786,
+CC       PubMed:26766444, PubMed:30705059, PubMed:32139119, PubMed:34012115).
+CC       Acts as a key immune sensor by catalyzing ubiquitination of the lipid A
+CC       moiety of bacterial lipopolysaccharide (LPS) via its RZ-type zinc-
+CC       finger: restricts the proliferation of cytosolic bacteria, such as
+CC       Salmonella, by generating the bacterial ubiquitin coat through the
+CC       ubiquitination of LPS (PubMed:34012115). Also acts indirectly by
+CC       mediating the recruitment of the LUBAC complex, which conjugates linear
+CC       polyubiquitin chains (PubMed:34012115). Ubiquitination of LPS triggers
+CC       cell-autonomous immunity, such as antibacterial autophagy, leading to
+CC       degradation of the microbial invader (PubMed:34012115). Involved in
+CC       lipid metabolism by regulating fat storage and lipid droplet formation;
+CC       act by inhibiting the lipolytic process (PubMed:30705059). Also
+CC       regulates lipotoxicity by inhibiting desaturation of fatty acids
+CC       (PubMed:30846318). Also acts as an E3 ubiquitin-protein ligase via its
+CC       RING-type zinc finger: mediates 'Lys-63'-linked ubiquitination of
+CC       target proteins (PubMed:32139119, PubMed:33842849). Involved in the
+CC       non-canonical Wnt signaling pathway in vascular development: acts by
+CC       mediating ubiquitination and degradation of FLNA and NFATC2 downstream
+CC       of RSPO3, leading to inhibit the non-canonical Wnt signaling pathway
+CC       and promoting vessel regression (PubMed:26766444). Also has ATPase
+CC       activity; ATPase activity is required for ubiquitination of LPS
+CC       (PubMed:34012115). {ECO:0000269|PubMed:21799892,
+CC       ECO:0000269|PubMed:26126547, ECO:0000269|PubMed:26278786,
+CC       ECO:0000269|PubMed:26766444, ECO:0000269|PubMed:30705059,
+CC       ECO:0000269|PubMed:30846318, ECO:0000269|PubMed:32139119,
+CC       ECO:0000269|PubMed:33842849, ECO:0000269|PubMed:34012115}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-cysteine +
+CC         [acceptor protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-
+CC         cysteine + N(6)-ubiquitinyl-[acceptor protein]-L-lysine.;
+CC         EC=2.3.2.27; Evidence={ECO:0000269|PubMed:21799892,
+CC         ECO:0000269|PubMed:32139119, ECO:0000269|PubMed:33842849};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216;
+CC         Evidence={ECO:0000269|PubMed:21799892, ECO:0000305|PubMed:24658080,
+CC         ECO:0000305|PubMed:26126547};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:13066;
+CC         Evidence={ECO:0000269|PubMed:21799892, ECO:0000305|PubMed:24658080,
+CC         ECO:0000305|PubMed:26126547};
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC       {ECO:0000269|PubMed:32139119, ECO:0000269|PubMed:33842849,
+CC       ECO:0000305|PubMed:21799892}.
+CC   -!- SUBUNIT: Monomer (By similarity). Interacts with UBE2L3/UBCH7;
+CC       UBE2L3/UBCH7 is the most efficient ubiquitin-conjugating enzyme E2 for
+CC       the ubiquitin ligase activity (By similarity). Interacts with
+CC       UBE2N/UBC13; promoting 'Lys-63'-linked ubiquitination of target
+CC       proteins (PubMed:32139119, PubMed:33842849).
+CC       {ECO:0000250|UniProtKB:E9Q555, ECO:0000269|PubMed:32139119,
+CC       ECO:0000269|PubMed:33842849}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with M.tuberculosis protein
+CC       Rv3655c, which impairs caspase-8 activation and suppresses macrophage
+CC       apoptosis by blocking the extrinsic pathway.
+CC       {ECO:0000269|PubMed:20454556}.
+CC   -!- INTERACTION:
+CC       Q63HN8-6; Q08379: GOLGA2; NbExp=3; IntAct=EBI-10248548, EBI-618309;
+CC       Q63HN8-6; Q6A162: KRT40; NbExp=3; IntAct=EBI-10248548, EBI-10171697;
+CC       Q63HN8-6; Q04864: REL; NbExp=3; IntAct=EBI-10248548, EBI-307352;
+CC       Q63HN8-6; P36406: TRIM23; NbExp=3; IntAct=EBI-10248548, EBI-740098;
+CC       Q63HN8-6; P14373: TRIM27; NbExp=3; IntAct=EBI-10248548, EBI-719493;
+CC       Q63HN8-6; Q15654: TRIP6; NbExp=3; IntAct=EBI-10248548, EBI-742327;
+CC       Q63HN8-6; Q5T124: UBXN11; NbExp=3; IntAct=EBI-10248548, EBI-746004;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytosol {ECO:0000269|PubMed:21799892,
+CC       ECO:0000269|PubMed:30705059, ECO:0000269|PubMed:34012115}. Lipid
+CC       droplet {ECO:0000269|PubMed:30705059}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q63HN8-3; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q63HN8-4; Sequence=VSP_042417;
+CC       Name=3;
+CC         IsoId=Q63HN8-5; Sequence=VSP_042418, VSP_042419;
+CC       Name=4;
+CC         IsoId=Q63HN8-6; Sequence=VSP_042416, VSP_042420;
+CC   -!- TISSUE SPECIFICITY: Widely expressed (at protein level).
+CC       {ECO:0000269|PubMed:21799892}.
+CC   -!- TISSUE SPECIFICITY: [Isoform 1]: Major isoform detected in all tissues
+CC       examined. {ECO:0000269|PubMed:21799892}.
+CC   -!- TISSUE SPECIFICITY: [Isoform 2]: Minor isoform with restricted
+CC       expression. {ECO:0000269|PubMed:21799892}.
+CC   -!- INDUCTION: Down-regulated by let-7c miRNA, which binds to the 3'-UTR
+CC       transcript of RNF213 (PubMed:26070522). Induced by pro-inflammatory
+CC       cytokines (PubMed:26278786). {ECO:0000269|PubMed:26070522,
+CC       ECO:0000269|PubMed:26278786}.
+CC   -!- INDUCTION: (Microbial infection) Up-regulated in macrophages infected
+CC       by M.tuberculosis. {ECO:0000269|PubMed:20454556}.
+CC   -!- DOMAIN: Composed of an N-terminal stalk, a dynein-like core comprised
+CC       of two catalytically active and four inactive ATPase domains, and a C-
+CC       terminal E3 module. The ATPase regions do not generate movement but
+CC       rather act like an intricate molecular 'switch'.
+CC       {ECO:0000250|UniProtKB:E9Q555}.
+CC   -!- DOMAIN: The RING-type zinc finger domain is required for the ubiquitin-
+CC       protein ligase activity. {ECO:0000269|PubMed:21799892}.
+CC   -!- DOMAIN: The RZ-type (RNF213-ZNFX1) zinc-finger is required for the
+CC       ubiquitination of the lipid A moiety of bacterial lipopolysaccharide
+CC       (LPS). {ECO:0000269|PubMed:34012115}.
+CC   -!- PTM: Autoubiquitinated. {ECO:0000269|PubMed:21799892}.
+CC   -!- DISEASE: Moyamoya disease 2 (MYMY2) [MIM:607151]: A progressive
+CC       cerebral angiopathy characterized by bilateral intracranial carotid
+CC       artery stenosis and telangiectatic vessels in the region of the basal
+CC       ganglia. The abnormal vessels resemble a 'puff of smoke' (moyamoya) on
+CC       cerebral angiogram. Affected individuals can develop transient ischemic
+CC       attacks and/or cerebral infarction, and rupture of the collateral
+CC       vessels can cause intracranial hemorrhage. Hemiplegia of sudden onset
+CC       and epileptic seizures constitute the prevailing presentation in
+CC       childhood, while subarachnoid bleeding occurs more frequently in
+CC       adults. {ECO:0000269|PubMed:21048783, ECO:0000269|PubMed:21799892,
+CC       ECO:0000269|PubMed:22377813, ECO:0000269|PubMed:22688072,
+CC       ECO:0000269|PubMed:22931863, ECO:0000269|PubMed:23110205,
+CC       ECO:0000269|PubMed:23994138, ECO:0000269|PubMed:25278557,
+CC       ECO:0000269|PubMed:25956231, ECO:0000269|PubMed:26126547,
+CC       ECO:0000269|PubMed:26198278, ECO:0000269|PubMed:27736983,
+CC       ECO:0000269|PubMed:27787485, ECO:0000269|PubMed:28635953,
+CC       ECO:0000269|PubMed:29387438, ECO:0000269|PubMed:31645973,
+CC       ECO:0000269|PubMed:32139119, ECO:0000269|PubMed:33568546,
+CC       ECO:0000269|PubMed:34012115}. Note=Disease susceptibility is associated
+CC       with variants affecting the gene represented in this entry.
+CC   -!- DISEASE: Note=A chromosomal aberration involving RNF213 is associated
+CC       with anaplastic large-cell lymphoma (ALCL). Translocation
+CC       t(2;17)(p23;q25) with ALK. {ECO:0000269|PubMed:12112524}.
+CC   -!- SIMILARITY: Belongs to the AAA ATPase family. {ECO:0000305}.
+CC   -!- CAUTION: The stoichiometry is unclear: was initially thought to form
+CC       homohexamers (PubMed:24658080, PubMed:26126547). However, the electron
+CC       microscopy structure showed that it is monomeric and is composed of six
+CC       ATPase modules within a single polypeptide chain (By similarity).
+CC       {ECO:0000250|UniProtKB:E9Q555, ECO:0000269|PubMed:24658080,
+CC       ECO:0000269|PubMed:26126547}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH32220.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAB13444.1; Type=Miscellaneous discrepancy; Note=Probable cloning artifact.; Evidence={ECO:0000305};
+CC       Sequence=BAB14708.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAB15212.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAB15280.1; Type=Erroneous termination; Note=Truncated C-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAB15330.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=CAH10615.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=CAH56189.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/480/ALO17";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB537889; BAK53191.1; -; mRNA.
+DR   EMBL; AL832920; CAH10615.1; ALT_FRAME; mRNA.
+DR   EMBL; AL833201; CAH56308.1; -; mRNA.
+DR   EMBL; BX640932; CAE45967.1; -; mRNA.
+DR   EMBL; BX647946; CAH56189.1; ALT_INIT; mRNA.
+DR   EMBL; AC123764; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC124319; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC032220; AAH32220.1; ALT_INIT; mRNA.
+DR   EMBL; BC036891; AAH36891.1; -; mRNA.
+DR   EMBL; BC040341; AAH40341.1; -; mRNA.
+DR   EMBL; AF397204; AAN63520.1; -; mRNA.
+DR   EMBL; AF397205; AAN63521.1; -; mRNA.
+DR   EMBL; AB046774; BAB13380.1; -; mRNA.
+DR   EMBL; AB046838; BAB13444.1; ALT_SEQ; mRNA.
+DR   EMBL; AK023871; BAB14708.1; ALT_INIT; mRNA.
+DR   EMBL; AK025676; BAB15212.1; ALT_INIT; mRNA.
+DR   EMBL; AK025914; BAB15280.1; ALT_SEQ; mRNA.
+DR   EMBL; AK026038; BAB15330.1; ALT_INIT; mRNA.
+DR   EMBL; AK074030; BAB84856.1; -; mRNA.
+DR   CCDS; CCDS11772.1; -. [Q63HN8-5]
+DR   CCDS; CCDS32761.2; -. [Q63HN8-4]
+DR   CCDS; CCDS58606.1; -. [Q63HN8-3]
+DR   RefSeq; NP_001243000.2; NM_001256071.2.
+DR   RefSeq; NP_066005.2; NM_020954.3. [Q63HN8-5]
+DR   SMR; Q63HN8; -.
+DR   BioGRID; 121705; 175.
+DR   IntAct; Q63HN8; 49.
+DR   MINT; Q63HN8; -.
+DR   STRING; 9606.ENSP00000464087; -.
+DR   GlyCosmos; Q63HN8; 5 sites, 2 glycans.
+DR   GlyGen; Q63HN8; 5 sites, 2 O-linked glycans (5 sites).
+DR   iPTMnet; Q63HN8; -.
+DR   MetOSite; Q63HN8; -.
+DR   PhosphoSitePlus; Q63HN8; -.
+DR   SwissPalm; Q63HN8; -.
+DR   BioMuta; RNF213; -.
+DR   DMDM; 380865458; -.
+DR   EPD; Q63HN8; -.
+DR   jPOST; Q63HN8; -.
+DR   MassIVE; Q63HN8; -.
+DR   MaxQB; Q63HN8; -.
+DR   PaxDb; Q63HN8; -.
+DR   PeptideAtlas; Q63HN8; -.
+DR   ProteomicsDB; 65884; -. [Q63HN8-3]
+DR   ProteomicsDB; 65885; -. [Q63HN8-4]
+DR   ProteomicsDB; 65886; -. [Q63HN8-5]
+DR   ProteomicsDB; 65887; -. [Q63HN8-6]
+DR   Antibodypedia; 46314; 205 antibodies from 27 providers.
+DR   DNASU; 57674; -.
+DR   Ensembl; ENST00000319921.4; ENSP00000324392.4; ENSG00000173821.20. [Q63HN8-5]
+DR   GeneID; 57674; -.
+DR   KEGG; hsa:57674; -.
+DR   UCSC; uc002jyf.5; human. [Q63HN8-3]
+DR   AGR; HGNC:14539; -.
+DR   CTD; 57674; -.
+DR   DisGeNET; 57674; -.
+DR   GeneCards; RNF213; -.
+DR   HGNC; HGNC:14539; RNF213.
+DR   HPA; ENSG00000173821; Low tissue specificity.
+DR   MalaCards; RNF213; -.
+DR   MIM; 607151; phenotype.
+DR   MIM; 613768; gene.
+DR   neXtProt; NX_Q63HN8; -.
+DR   OpenTargets; ENSG00000173821; -.
+DR   Orphanet; 2573; Moyamoya disease.
+DR   PharmGKB; PA162401681; -.
+DR   VEuPathDB; HostDB:ENSG00000173821; -.
+DR   eggNOG; ENOG502QQ65; Eukaryota.
+DR   GeneTree; ENSGT00630000089884; -.
+DR   HOGENOM; CLU_011233_0_0_1; -.
+DR   InParanoid; Q63HN8; -.
+DR   OrthoDB; 116673at2759; -.
+DR   TreeFam; TF343131; -.
+DR   PathwayCommons; Q63HN8; -.
+DR   Reactome; R-HSA-9635465; Suppression of apoptosis.
+DR   Reactome; R-HSA-9725370; Signaling by ALK fusions and activated point mutants.
+DR   Reactome; R-HSA-983168; Antigen processing: Ubiquitination & Proteasome degradation.
+DR   SignaLink; Q63HN8; -.
+DR   SIGNOR; Q63HN8; -.
+DR   UniPathway; UPA00143; -.
+DR   BioGRID-ORCS; 57674; 15 hits in 1195 CRISPR screens.
+DR   ChiTaRS; RNF213; human.
+DR   GeneWiki; RNF213; -.
+DR   GenomeRNAi; 57674; -.
+DR   Pharos; Q63HN8; Tbio.
+DR   PRO; PR:Q63HN8; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q63HN8; protein.
+DR   Bgee; ENSG00000173821; Expressed in granulocyte and 174 other tissues.
+DR   ExpressionAtlas; Q63HN8; baseline and differential.
+DR   Genevisible; Q63HN8; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005811; C:lipid droplet; IDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0061630; F:ubiquitin protein ligase activity; IDA:UniProtKB.
+DR   GO; GO:0004842; F:ubiquitin-protein transferase activity; IDA:UniProtKB.
+DR   GO; GO:0001525; P:angiogenesis; IMP:UniProtKB.
+DR   GO; GO:0042742; P:defense response to bacterium; IDA:UniProtKB.
+DR   GO; GO:0002376; P:immune system process; IEA:UniProtKB-KW.
+DR   GO; GO:0140042; P:lipid droplet formation; IDA:UniProtKB.
+DR   GO; GO:0120323; P:lipid ubiquitination; IDA:UniProtKB.
+DR   GO; GO:2000051; P:negative regulation of non-canonical Wnt signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0051865; P:protein autoubiquitination; IDA:UniProtKB.
+DR   GO; GO:0070534; P:protein K63-linked ubiquitination; IDA:UniProtKB.
+DR   GO; GO:0016567; P:protein ubiquitination; IDA:UniProtKB.
+DR   GO; GO:0019216; P:regulation of lipid metabolic process; IDA:UniProtKB.
+DR   GO; GO:0002040; P:sprouting angiogenesis; IMP:UniProtKB.
+DR   GO; GO:0006511; P:ubiquitin-dependent protein catabolic process; IMP:UniProtKB.
+DR   GO; GO:0098792; P:xenophagy; IDA:UniProtKB.
+DR   CDD; cd16561; RING-HC_RNF213; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   Gene3D; 3.30.40.10; Zinc/RING finger domain, C3HC4 (zinc finger); 1.
+DR   InterPro; IPR003593; AAA+_ATPase.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR031248; RNF213.
+DR   InterPro; IPR046439; ZF_RZ_dom.
+DR   InterPro; IPR018957; Znf_C3HC4_RING-type.
+DR   InterPro; IPR001841; Znf_RING.
+DR   InterPro; IPR013083; Znf_RING/FYVE/PHD.
+DR   PANTHER; PTHR22605:SF16; E3 UBIQUITIN-PROTEIN LIGASE RNF213; 1.
+DR   PANTHER; PTHR22605; UNCHARACTERIZED; 1.
+DR   Pfam; PF20173; DUF6539; 1.
+DR   Pfam; PF00097; zf-C3HC4; 1.
+DR   SMART; SM00382; AAA; 2.
+DR   SMART; SM00184; RING; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 2.
+DR   SUPFAM; SSF57850; RING/U-box; 1.
+DR   PROSITE; PS50089; ZF_RING_2; 1.
+DR   PROSITE; PS51981; ZF_RZ; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Angiogenesis; ATP-binding; Chromosomal rearrangement;
+KW   Coiled coil; Cytoplasm; Disease variant; Hydrolase; Immunity;
+KW   Isopeptide bond; Lipid droplet; Lipid metabolism; Metal-binding;
+KW   Multifunctional enzyme; Nucleotide-binding; Phosphoprotein; Proto-oncogene;
+KW   Reference proteome; Transferase; Ubl conjugation; Ubl conjugation pathway;
+KW   Zinc; Zinc-finger.
+FT   CHAIN           1..5207
+FT                   /note="E3 ubiquitin-protein ligase RNF213"
+FT                   /id="PRO_0000415917"
+FT   ZN_FING         3997..4036
+FT                   /note="RING-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00175"
+FT   ZN_FING         4483..4555
+FT                   /note="RZ-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01325,
+FT                   ECO:0000269|PubMed:34012115"
+FT   REGION          1..20
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          27..365
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          343..374
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        32..46
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        118..155
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        211..228
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        251..267
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        296..310
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        311..364
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        4516
+FT                   /note="Nucleophile; for E3 ubiquitin-lipopolysaccharide
+FT                   ligase activity"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01325"
+FT   BINDING         1995..2000
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         2098
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         2155
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         2216
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         2499
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         2574
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         3997
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4000
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4012
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4014
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4017
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4020
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4032
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4035
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:E9Q555"
+FT   BINDING         4505
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01325"
+FT   BINDING         4509
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01325"
+FT   BINDING         4525
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01325"
+FT   BINDING         4528
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01325"
+FT   MOD_RES         208
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         217
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1258
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18318008,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:18691976,
+FT                   ECO:0007744|PubMed:19369195, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         2273
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   CROSSLNK        1151
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447"
+FT   VAR_SEQ         1..4650
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_042416"
+FT   VAR_SEQ         87
+FT                   /note="E -> EGATSEVLVDAAVDLISDEWEAANAIPSKRRKQDAAPLEAASVPSAD
+FT                   CEQ (in isoform 2)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_042417"
+FT   VAR_SEQ         1009..1063
+FT                   /note="SQTSILQGFSYSDLRKFGIVLSAVITKSWPRTADNFNDILKHLLTLADVKHV
+FT                   FRL -> VNNLSSWETDSGSQLCSAMTQLRAMKHPLGLSSSANSEIGKWAPSSLAKGNG
+FT                   AEI (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_042418"
+FT   VAR_SEQ         1064..5207
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_042419"
+FT   VAR_SEQ         4651..4660
+FT                   /note="QEQHQLSSRR -> MTRKSAPTSG (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_042420"
+FT   VARIANT         118
+FT                   /note="C -> R (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085287"
+FT   VARIANT         133
+FT                   /note="L -> M (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085288"
+FT   VARIANT         209
+FT                   /note="I -> N (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085289"
+FT   VARIANT         395
+FT                   /note="P -> L (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085290"
+FT   VARIANT         529
+FT                   /note="Missing (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:25278557"
+FT                   /id="VAR_075635"
+FT   VARIANT         996
+FT                   /note="E -> K (rare variant detected in cases of Moyamoya
+FT                   disease in East Asian populations)"
+FT                   /evidence="ECO:0000269|PubMed:29387438"
+FT                   /id="VAR_085291"
+FT   VARIANT         1135
+FT                   /note="A -> V (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085292"
+FT   VARIANT         1622
+FT                   /note="A -> V (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in East Asian population)"
+FT                   /evidence="ECO:0000269|PubMed:25956231"
+FT                   /id="VAR_075636"
+FT   VARIANT         1705
+FT                   /note="T -> K (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085293"
+FT   VARIANT         1721
+FT                   /note="P -> L (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085294"
+FT   VARIANT         1844
+FT                   /note="A -> T (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085295"
+FT   VARIANT         2554
+FT                   /note="D -> E (in dbSNP:rs138516230)"
+FT                   /evidence="ECO:0000269|PubMed:21048783"
+FT                   /id="VAR_067020"
+FT   VARIANT         3846
+FT                   /note="R -> H (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085296"
+FT   VARIANT         3891
+FT                   /note="M -> V (rare variant detected in a sporadic case of
+FT                   Moyamoya disease)"
+FT                   /evidence="ECO:0000269|PubMed:21048783"
+FT                   /id="VAR_067021"
+FT   VARIANT         3915
+FT                   /note="E -> G (in dbSNP:rs61740658)"
+FT                   /evidence="ECO:0000269|PubMed:21048783"
+FT                   /id="VAR_067022"
+FT   VARIANT         3922
+FT                   /note="R -> Q (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:25278557"
+FT                   /id="VAR_075637"
+FT   VARIANT         3927
+FT                   /note="A -> T (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085297"
+FT   VARIANT         3933
+FT                   /note="V -> M (rare variant detected in patients with
+FT                   Moyamoya disease in East Asian and Caucasian populations)"
+FT                   /evidence="ECO:0000269|PubMed:25956231,
+FT                   ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_075638"
+FT   VARIANT         3962
+FT                   /note="N -> D (variant detected in cases of Moyamoya
+FT                   disease in Caucasian populations)"
+FT                   /evidence="ECO:0000269|PubMed:21799892"
+FT                   /id="VAR_067023"
+FT   VARIANT         3996..3997
+FT                   /note="PC -> GLG (rare variant detected in cases of
+FT                   Moyamoya disease)"
+FT                   /evidence="ECO:0000269|PubMed:33568546"
+FT                   /id="VAR_085298"
+FT   VARIANT         3997
+FT                   /note="C -> Y (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population; abolished E3
+FT                   ubiquitin-protein ligase activity)"
+FT                   /evidence="ECO:0000269|PubMed:25278557,
+FT                   ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_075639"
+FT   VARIANT         4007
+FT                   /note="P -> R (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in East Asian population; abolished E3
+FT                   ubiquitin-protein ligase activity)"
+FT                   /evidence="ECO:0000269|PubMed:23110205,
+FT                   ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_075640"
+FT   VARIANT         4013
+FT                   /note="D -> N (in MYMY2; variant detected in cases of
+FT                   Moyamoya disease in Caucasian and Asian populations;
+FT                   inhibitory effect on angiogenic activity of vascular
+FT                   endothelial cells; does not affect E3 ubiquitin-protein
+FT                   ligase activity)"
+FT                   /evidence="ECO:0000269|PubMed:21799892,
+FT                   ECO:0000269|PubMed:25278557, ECO:0000269|PubMed:27736983,
+FT                   ECO:0000269|PubMed:28635953, ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_067024"
+FT   VARIANT         4014
+FT                   /note="H -> N (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population; abolished E3
+FT                   ubiquitin-protein ligase activity)"
+FT                   /evidence="ECO:0000269|PubMed:28635953,
+FT                   ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_085299"
+FT   VARIANT         4017
+FT                   /note="C -> S (rare variant detected in patients with
+FT                   Moyamoya disease; abolished E3 ubiquitin-protein ligase
+FT                   activity)"
+FT                   /evidence="ECO:0000269|PubMed:27787485,
+FT                   ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_085300"
+FT   VARIANT         4019
+FT                   /note="R -> C (rare variant detected in patients with
+FT                   Moyamoya disease in Caucasian population; strongly
+FT                   decreased E3 ubiquitin-protein ligase activity)"
+FT                   /evidence="ECO:0000269|PubMed:25278557,
+FT                   ECO:0000269|PubMed:27736983, ECO:0000269|PubMed:28635953,
+FT                   ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_075641"
+FT   VARIANT         4024
+FT                   /note="W -> R (variant detected in patients with Moyamoya
+FT                   disease; strongly decreased E3 ubiquitin-protein ligase
+FT                   activity)"
+FT                   /evidence="ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_085301"
+FT   VARIANT         4032
+FT                   /note="C -> R (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population; abolished E3
+FT                   ubiquitin-protein ligase activity)"
+FT                   /evidence="ECO:0000269|PubMed:28635953,
+FT                   ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_085302"
+FT   VARIANT         4033
+FT                   /note="P -> L (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population; abolished E3
+FT                   ubiquitin-protein ligase activity)"
+FT                   /evidence="ECO:0000269|PubMed:28635953,
+FT                   ECO:0000269|PubMed:32139119"
+FT                   /id="VAR_085303"
+FT   VARIANT         4042
+FT                   /note="E -> K (rare variant detected in patients with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:27736983,
+FT                   ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_079573"
+FT   VARIANT         4051
+FT                   /note="H -> P (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085304"
+FT   VARIANT         4058
+FT                   /note="H -> P (rare variant detected in cases of Moyamoya
+FT                   disease in East Asian populations)"
+FT                   /evidence="ECO:0000269|PubMed:29387438"
+FT                   /id="VAR_085305"
+FT   VARIANT         4062
+FT                   /note="R -> Q (variant detected in cases of Moyamoya
+FT                   disease in Caucasian and East Asian populations)"
+FT                   /evidence="ECO:0000269|PubMed:21799892,
+FT                   ECO:0000269|PubMed:28635953, ECO:0000269|PubMed:29387438"
+FT                   /id="VAR_067025"
+FT   VARIANT         4076
+FT                   /note="I -> V (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Asian population)"
+FT                   /evidence="ECO:0000269|PubMed:25278557"
+FT                   /id="VAR_075642"
+FT   VARIANT         4114
+FT                   /note="T -> R (rare variant detected in cases of Moyamoya
+FT                   disease)"
+FT                   /evidence="ECO:0000269|PubMed:33568546"
+FT                   /id="VAR_085306"
+FT   VARIANT         4115
+FT                   /note="Missing (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:25278557"
+FT                   /id="VAR_075643"
+FT   VARIANT         4118
+FT                   /note="S -> F (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:26198278"
+FT                   /id="VAR_075644"
+FT   VARIANT         4120
+FT                   /note="F -> L (rare variant detected in cases of Moyamoya
+FT                   disease)"
+FT                   /evidence="ECO:0000269|PubMed:33568546"
+FT                   /id="VAR_085307"
+FT   VARIANT         4122
+FT                   /note="D -> V (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085308"
+FT   VARIANT         4131
+FT                   /note="R -> C (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in East Asian population)"
+FT                   /evidence="ECO:0000269|PubMed:25956231"
+FT                   /id="VAR_075645"
+FT   VARIANT         4146
+FT                   /note="V -> A (rare variant detected in cases of Moyamoya
+FT                   disease in Slovakian and Czech populations; inhibitory
+FT                   effect on angiogenic activity of vascular endothelial
+FT                   cells)"
+FT                   /evidence="ECO:0000269|PubMed:27736983"
+FT                   /id="VAR_079574"
+FT   VARIANT         4185
+FT                   /note="K -> E (variant detected in cases of Moyamoya
+FT                   disease in a Caucasian family)"
+FT                   /evidence="ECO:0000269|PubMed:31645973"
+FT                   /id="VAR_085309"
+FT   VARIANT         4185
+FT                   /note="K -> T (found in a heterozygous family with
+FT                   heterogeneous intracerebral vasculopathy)"
+FT                   /evidence="ECO:0000269|PubMed:25043520"
+FT                   /id="VAR_075646"
+FT   VARIANT         4188
+FT                   /note="A -> T (variant detected in cases of Moyamoya
+FT                   disease in a Caucasian family)"
+FT                   /evidence="ECO:0000269|PubMed:31645973"
+FT                   /id="VAR_085310"
+FT   VARIANT         4237
+FT                   /note="D -> E (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:25278557"
+FT                   /id="VAR_075647"
+FT   VARIANT         4367
+FT                   /note="Q -> L (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in East Asian population)"
+FT                   /evidence="ECO:0000269|PubMed:23110205"
+FT                   /id="VAR_075648"
+FT   VARIANT         4399
+FT                   /note="A -> T (in MYMY2; dbSNP:rs148731719)"
+FT                   /evidence="ECO:0000269|PubMed:21048783,
+FT                   ECO:0000269|PubMed:23110205, ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_067026"
+FT   VARIANT         4567
+FT                   /note="V -> M (rare variant detected in a sporadic case of
+FT                   Moyamoya disease; dbSNP:rs145282452)"
+FT                   /evidence="ECO:0000269|PubMed:21048783"
+FT                   /id="VAR_067027"
+FT   VARIANT         4586
+FT                   /note="T -> P (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in East Asian population)"
+FT                   /evidence="ECO:0000269|PubMed:23110205"
+FT                   /id="VAR_075649"
+FT   VARIANT         4608
+FT                   /note="P -> S (variant detected in cases of Moyamoya
+FT                   disease in Caucasian populations)"
+FT                   /evidence="ECO:0000269|PubMed:21799892,
+FT                   ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_067028"
+FT   VARIANT         4631
+FT                   /note="L -> V (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in East Asian population)"
+FT                   /evidence="ECO:0000269|PubMed:23110205"
+FT                   /id="VAR_075650"
+FT   VARIANT         4638
+FT                   /note="T -> I (rare variant detected in a case of Moyamoya
+FT                   disease; does not affect ubiquitination of
+FT                   lipopolysaccharide)"
+FT                   /evidence="ECO:0000269|PubMed:34012115"
+FT                   /id="VAR_085311"
+FT   VARIANT         4640
+FT                   /note="G -> S (rare variant detected in a patient with
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:28635953"
+FT                   /id="VAR_085312"
+FT   VARIANT         4677
+FT                   /note="W -> L (rare variant detected in patients with
+FT                   Moyamoya disease)"
+FT                   /evidence="ECO:0000269|PubMed:27736983,
+FT                   ECO:0000269|PubMed:27787485"
+FT                   /id="VAR_079575"
+FT   VARIANT         4732
+FT                   /note="K -> T (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:25278557"
+FT                   /id="VAR_075651"
+FT   VARIANT         4765
+FT                   /note="V -> M (rare variant detected in a sporadic case of
+FT                   Moyamoya disease)"
+FT                   /evidence="ECO:0000269|PubMed:21048783"
+FT                   /id="VAR_067029"
+FT   VARIANT         4810
+FT                   /note="R -> K (in MYMY2; very frequent in individuals
+FT                   affected by Moyamoya disease; strongly increases the risk
+FT                   of Moyamoya disease; induces genomic instability; shows
+FT                   decreased ATPase activity; does not affect ubiquitination
+FT                   of lipopolysaccharide)"
+FT                   /evidence="ECO:0000269|PubMed:21048783,
+FT                   ECO:0000269|PubMed:21799892, ECO:0000269|PubMed:22377813,
+FT                   ECO:0000269|PubMed:22688072, ECO:0000269|PubMed:22931863,
+FT                   ECO:0000269|PubMed:23110205, ECO:0000269|PubMed:23994138,
+FT                   ECO:0000269|PubMed:25278557, ECO:0000269|PubMed:25956231,
+FT                   ECO:0000269|PubMed:26126547, ECO:0000269|PubMed:34012115"
+FT                   /id="VAR_067030"
+FT   VARIANT         4863
+FT                   /note="D -> N (variant detected in cases of Moyamoya
+FT                   disease in East Asian populations)"
+FT                   /evidence="ECO:0000269|PubMed:21799892"
+FT                   /id="VAR_067031"
+FT   VARIANT         4950
+FT                   /note="E -> D (variant detected in cases of Moyamoya
+FT                   disease in East Asian populations and rare variant detected
+FT                   in a sporadic case of Moyamoya disease; does not affect
+FT                   ubiquitination of lipopolysaccharide)"
+FT                   /evidence="ECO:0000269|PubMed:21799892,
+FT                   ECO:0000269|PubMed:23110205, ECO:0000269|PubMed:34012115"
+FT                   /id="VAR_067032"
+FT   VARIANT         5021
+FT                   /note="A -> V (variant detected in cases of Moyamoya
+FT                   disease in East Asian populations and rare variant detected
+FT                   in a sporadic case of Moyamoya disease; does not affect
+FT                   ubiquitination of lipopolysaccharide; dbSNP:rs138130613)"
+FT                   /evidence="ECO:0000269|PubMed:21799892,
+FT                   ECO:0000269|PubMed:23110205, ECO:0000269|PubMed:34012115"
+FT                   /id="VAR_067033"
+FT   VARIANT         5136
+FT                   /note="M -> I (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in East Asian population)"
+FT                   /evidence="ECO:0000269|PubMed:23110205"
+FT                   /id="VAR_075652"
+FT   VARIANT         5160
+FT                   /note="D -> E (variant detected in cases of Moyamoya
+FT                   disease in East Asian populations)"
+FT                   /evidence="ECO:0000269|PubMed:21799892"
+FT                   /id="VAR_067034"
+FT   VARIANT         5163
+FT                   /note="V -> I (rare variant detected in a sporadic case of
+FT                   Moyamoya disease in Caucasian population)"
+FT                   /evidence="ECO:0000269|PubMed:25278557"
+FT                   /id="VAR_075653"
+FT   VARIANT         5176
+FT                   /note="E -> G (variant detected in cases of Moyamoya
+FT                   disease in East Asian populations)"
+FT                   /evidence="ECO:0000269|PubMed:21799892"
+FT                   /id="VAR_067035"
+FT   MUTAGEN         2426
+FT                   /note="K->A: Impaired ATP-binding leading to decreased
+FT                   ATPase activity; abolished ubiquitination of
+FT                   lipopolysaccharide. In mutant A1A2; abolished ATP-binding
+FT                   and localization to lipid droplets; when associated with
+FT                   A-2775."
+FT                   /evidence="ECO:0000269|PubMed:24658080,
+FT                   ECO:0000269|PubMed:30705059, ECO:0000269|PubMed:34012115"
+FT   MUTAGEN         2488
+FT                   /note="E->A: Decreased ATPase activity; abolished
+FT                   ubiquitination of lipopolysaccharide. In mutant B1B2;
+FT                   abolished ATPase activity and localization to lipid
+FT                   droplets; when associated with A-2845."
+FT                   /evidence="ECO:0000269|PubMed:24658080,
+FT                   ECO:0000269|PubMed:30705059, ECO:0000269|PubMed:34012115"
+FT   MUTAGEN         2488
+FT                   /note="E->Q: Loss of ATPase hydrolysis."
+FT                   /evidence="ECO:0000269|PubMed:26126547"
+FT   MUTAGEN         2775
+FT                   /note="K->A: Impaired ATP-binding leading to decreased
+FT                   ATPase activity; abolished ubiquitination of
+FT                   lipopolysaccharide. In mutant A1A2; abolished ATP-binding
+FT                   and localization to lipid droplets; when associated with
+FT                   A-2426."
+FT                   /evidence="ECO:0000269|PubMed:24658080,
+FT                   ECO:0000269|PubMed:30705059, ECO:0000269|PubMed:34012115"
+FT   MUTAGEN         2845
+FT                   /note="E->A: Decreased ATPase activity; abolished
+FT                   ubiquitination of lipopolysaccharide. In mutant B1B2;
+FT                   abolished ATPase activity and localization to lipid
+FT                   droplets; when associated with A-2488."
+FT                   /evidence="ECO:0000269|PubMed:24658080,
+FT                   ECO:0000269|PubMed:30705059, ECO:0000269|PubMed:34012115"
+FT   MUTAGEN         4014
+FT                   /note="H->N: Abolished E3 ubiquitin-protein ligase
+FT                   activity; does not affect ubiquitination of
+FT                   lipopolysaccharide."
+FT                   /evidence="ECO:0000269|PubMed:34012115"
+FT   MUTAGEN         4024
+FT                   /note="W->R: Abolished E3 ubiquitin-protein ligase
+FT                   activity; does not affect ubiquitination of
+FT                   lipopolysaccharide."
+FT                   /evidence="ECO:0000269|PubMed:34012115"
+FT   MUTAGEN         4509
+FT                   /note="H->A: Abolished ability to ubiquitinate
+FT                   lipopolysaccharide."
+FT                   /evidence="ECO:0000269|PubMed:34012115"
+FT   CONFLICT        270
+FT                   /note="M -> T (in Ref. 4; AAH36891/AAH40341)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        321
+FT                   /note="M -> T (in Ref. 4; AAH36891/AAH40341)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        369
+FT                   /note="K -> N (in Ref. 4; AAH36891)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1045
+FT                   /note="N -> D (in Ref. 1; BAK53191 and 6; BAB13444)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1133
+FT                   /note="Q -> K (in Ref. 6; BAB13444)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1195
+FT                   /note="V -> M (in Ref. 6; BAB13444)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1272
+FT                   /note="E -> Q (in Ref. 6; BAB13444)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1331
+FT                   /note="D -> G (in Ref. 6; BAB13444)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        3323
+FT                   /note="R -> G (in Ref. 2; CAH56189)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        4220
+FT                   /note="E -> G (in Ref. 7; BAB15212)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        4571
+FT                   /note="D -> G (in Ref. 7; BAB15280)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        4853
+FT                   /note="K -> R (in Ref. 7; BAB15212)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        4892
+FT                   /note="N -> S (in Ref. 7; BAB15212)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        5139
+FT                   /note="L -> S (in Ref. 7; BAB15280)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        5187
+FT                   /note="L -> P (in Ref. 7; BAB15330)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   5207 AA;  591407 MW;  9BA6847099EE6E08 CRC64;
+     MECPSCQHVS KEETPKFCSQ CGERLPPAAP IADSENNNST MASASEGEME CGQELKEEGG
+     PCLFPGSDSW QENPEEPCSK ASWTVQESKK KKRKKKKKGN KSASSELASL PLSPASPCHL
+     TLLSNPWPQD TALPHSQAQQ SGPTGQPSQP PGTATTPLEG DGLSAPTEVG DSPLQAQALG
+     EAGVATGSEA QSSPQFQDHT EGEDQDASIP SGGRGLSQEG TGPPTSAGEG HSRTEDAAQE
+     LLLPESKGGS SEPGTELQTT EQQAGASASM AVDAVAEPAN AVKGAGKEMK EKTQRMKQPP
+     ATTPPFKTHC QEAETKTKDE MAAAEEKVGK NEQGEPEDLK KPEGKNRSAA AVKNEKEQKN
+     QEADVQEVKA STLSPGGGVT VFFHAIISLH FPFNPDLHKV FIRGGEEFGE SKWDSNICEL
+     HYTRDLGHDR VLVEGIVCIS KKHLDKYIPY KYVIYNGESF EYEFIYKHQQ KKGEYVNRCL
+     FIKSSLLGSG DWHQYYDIVY MKPHGRLQKV MNHITDGPRK DLVKGKQIAA ALMLDSTFSI
+     LQTWDTINLN SFFTQFEQFC FVLQQPMIYE GQAQLWTDLQ YREKEVKRYL WQHLKKHVVP
+     LPDGKSTDFL PVDCPVRSKL KTGLIVLFVV EKIELLLEGS LDWLCHLLTS DASSPDEFHR
+     DLSHILGIPQ SWRLYLVNLC QRCMDTRTYT WLGALPVLHC CMELAPRHKD AWRQPEDTWA
+     ALEGLSFSPF REQMLDTSSL LQFMREKQHL LSIDEPLFRS WFSLLPLSHL VMYMENFIEH
+     LGRFPAHILD CLSGIYYRLP GLEQVLNTQD VQDVQNVQNI LEMLLRLLDT YRDKIPEEAL
+     SPSYLTVCLK LHEAICSSTK LLKFYELPAL SAEIVCRMIR LLSLVDSAGQ RDETGNNSVQ
+     TVFQGTLAAT KRWLREVFTK NMLTSSGASF TYVKEIEVWR RLVEIQFPAE HGWKESLLGD
+     MEWRLTKEEP LSQITAYCNS CWDTKGLEDS VAKTFEKCII EAVSSACQSQ TSILQGFSYS
+     DLRKFGIVLS AVITKSWPRT ADNFNDILKH LLTLADVKHV FRLCGTDEKI LANVTEDAKR
+     LIAVADSVLT KVVGDLLSGT ILVGQLELII KHKNQFLDIW QLREKSLSPQ DEQCAVEEAL
+     DWRREELLLL KKEKRCVDSL LKMCGNVKHL IQVDFGVLAV RHSQDLSSKR LNDTVTVRLS
+     TSSNSQRATH YHLSSQVQEM AGKIDLLRDS HIFQLFWREA AEPLSEPKED QEAAELLSEP
+     EEESERHILE LEEVYDYLYQ PSYRKFIKLH QDLKSGEVTL AEIDVIFKDF VNKYTDLDSE
+     LKIMCTVDHQ DQRDWIKDRV EQIKEYHHLH QAVHAAKVIL QVKESLGLNG DFSVLNTLLN
+     FTDNFDDFRR ETLDQINQEL IQAKKLLQDI SEARCKGLQA LSLRKEFICW VREALGGINE
+     LKVFVDLASI SAGENDIDVD RVACFHDAVQ GYASLLFKLD PSVDFSAFMK HLKKLWKALD
+     KDQYLPRKLC DSARNLEWLK TVNESHGSVE RSSLTLATAI NQRGIYVIQA PKGGQKISPD
+     TVLHLILPES PGSHEESREY SLEEVKELLN KLMLMSGKKD RNNTEVERFS EVFCSVQRLS
+     QAFIDLHSAG NMLFRTWIAM AYCSPKQGVS LQMDFGLDLV TELKEGGDVT ELLAALCRQM
+     EHFLDSWKRF VTQKRMEHFY LNFYTAEQLV YLSTELRKQP PSDAALTMLS FIKSNCTLRD
+     VLRASVGCGS EAARYRMRRV MEELPLMLLS EFSLVDKLRI IMEQSMRCLP AFLPDCLDLE
+     TLGHCLAHLA GMGGSPVERC LPRGLQVGQP NLVVCGHSEV LPAALAVYMQ TPSQPLPTYD
+     EVLLCTPATT FEEVALLLRR CLTLGSLGHK VYSLLFADQL SYEVARQAEE LFHNLCTQQH
+     REDYQLVMVC DGDWEHCYLP SAFSQHKVFV TPQAPLEAIQ AYLAGHYRVP KQTLSAAAVF
+     NDRLCVGIVA SERAGVGKSL YVKRLHDKMK MQLNVKNVPL KTIRLIDPQV DESRVLGALL
+     PFLDAQYQKV PVLFHLDVTS SVQTGIWVFL FKLLILQYLM DINGKMWLRN PCHLYIVEIL
+     ERRTSVPSRS SSALRTRVPQ FSFLDIFPKV TCRPPKEVID MELSALRSDT EPGMDLWEFC
+     SETFQRPYQY LRRFNQNQDL DTFQYQEGSV EGTPEECLQH FLFHCGVINP SWSELRNFAR
+     FLNYQLRDCE ASLFCNPSFI GDTLRGFKKF VVTFMIFMAR DFATPSLHTS DQSPGKHMVT
+     MDGVREEDLA PFSLRKRWES EPHPYVFFND DHTTMTFIGF HLQPNINGSV DAISHLTGKV
+     IKRDVMTRDL YQGLLLQRVP FNVDFDKLPR HKKLERLCLT LGIPQATDPD KTYELTTDNM
+     LKILAIEMRF RCGIPVIIMG ETGCGKTRLI KFLSDLRRGG TNADTIKLVK VHGGTTADMI
+     YSRVREAENV AFANKDQHQL DTILFFDEAN TTEAISCIKE VLCDHMVDGQ PLAEDSGLHI
+     IAACNPYRKH SEEMICRLES AGLGYRVSME ETADRLGSIP LRQLVYRVHA LPPSLIPLVW
+     DFGQLSDVAE KLYIQQIVQR LVESISLDEN GTRVITEVLC ASQGFMRKTE DECSFVSLRD
+     VERCVKVFRW FHEHSAMLLA QLNAFLSKSS VSKNHTERDP VLWSLMLAIG VCYHASLEKK
+     DSYRKAIARF FPKPYDDSRL LLDEITRAQD LFLDGVPLRK TIAKNLALKE NVFMMVVCIE
+     LKIPLFLVGK PGSSKSLAKT IVADAMQGPA AYSDLFRSLK QVHLVSFQCS PHSTPQGIIS
+     TFRQCARFQQ GKDLQQYVSV VVLDEVGLAE DSPKMPLKTL HPLLEDGCIE DDPAPHKKVG
+     FVGISNWALD PAKMNRGIFV SRGSPNETEL IESAKGICSS DILVQDRVQG YFASFAKAYE
+     TVCKRQDKEF FGLRDYYSLI KMVFAAAKAS NRKPSPQDIA QAVLRNFSGK DDIQALDIFL
+     ANLPEAKCSE EVSPMQLIKQ NIFGPSQKVP GGEQEDAESR YLLVLTKNYV ALQILQQTFF
+     EGDQQPEIIF GSGFPKDQEY TQLCRNINRV KICMETGKMV LLLNLQNLYE SLYDALNQYY
+     VHLGGQKYVD LGLGTHRVKC RVHPNFRLIV IEEKDVVYKH FPIPLINRLE KHYLDINTVL
+     EKWQKSIVEE LCAWVEKFIN VKAHHFQKRH KYSPSDVFIG YHSDACASVV LQVIERQGPR
+     ALTEELHQKV SEEAKSILLN CATPDAVVRL SAYSLGGFAA EWLSQEYFHR QRHNSFADFL
+     QAHLHTADLE RHAIFTEITT FSRLLTSHDC EILESEVTGR APKPTLLWLQ QFDTEYSFLK
+     EVRNCLTNTA KCKILIFQTD FEDGIRSAQL IASAKYSVIN EINKIRENED RIFVYFITKL
+     SRVGRGTAYV GFHGGLWQSV HIDDLRRSTL MVSDVTRLQH VTISQLFAPG DLPELGLEHR
+     AEDGHEEAME TEASTSGEVA EVAEEAMETE SSEKVGKETS ELGGSDVSIL DTTRLLRSCV
+     QSAVGMLRDQ NESCTRNMRR VVLLLGLLNE DDACHASFLR VSKMRLSVFL KKQEESQFHP
+     LEWLAREACN QDALQEAGTF RHTLWKRVQG AVTPLLASMI SFIDRDGNLE LLTRPDTPPW
+     ARDLWMFIFS DTMLLNIPLV MNNERHKGEM AYIVVQNHMN LSENASNNVP FSWKIKDYLE
+     ELWVQAQYIT DAEGLPKKFV DIFQQTPLGR FLAQLHGEPQ QELLQCYLKD FILLTMRVST
+     EEELKFLQMA LWSCTRKLKA ASEAPEEEVS LPWVHLAYQR FRSRLQNFSR ILTIYPQVLH
+     SLMEARWNHE LAGCEMTLDA FAAMACTEML TRNTLKPSPQ AWLQLVKNLS MPLELICSDE
+     HMQGSGSLAQ AVIREVRAQW SRIFSTALFV EHVLLGTESR VPELQGLVTE HVFLLDKCLR
+     ENSDVKTHGP FEAVMRTLCE CKETASKTLS RFGIQPCSIC LGDAKDPVCL PCDHVHCLRC
+     LRAWFASEQM ICPYCLTALP DEFSPAVSQA HREAIEKHAR FRQMCNSFFV DLVSTICFKD
+     NAPPEKEVIE SLLSLLFVQK GRLRDAAQRH CEHTKSLSPF NDVVDKTPVI RSVILKLLLK
+     YSFHDVKDYI QEYLTLLKKK AFITEDKTEL YMLFINCLED SILEKTSAYS RNDELNHLEE
+     EGRFLKAYSP ASRGREPANE ASVEYLQEVA RIRLCLDRAA DFLSEPEGGP EMAKEKQCYL
+     QQVKQFCIRV ENDWHRVYLV RKLSSQRGME FVQGLSKPGR PHQWVFPKDV VKQQGLRQDH
+     PGQMDRYLVY GDEYKALRDA VAKAVLECKP LGIKTALKAC KTPQSQQSAY FLLTLFREVA
+     ILYRSHNASL HPTPEQCEAV SKFIGECKIL SPPDISRFAT SLVDNSVPLL RAGPSDSNLD
+     GTVTEMAIHA AAVLLCGQNE LLEPLKNLAF SPATMAHAFL PTMPEDLLAQ ARRWKGLERV
+     HWYTCPNGHP CSVGECGRPM EQSICIDCHA PIGGIDHKPR DGFHLVKDKA DRTQTGHVLG
+     NPQRRDVVTC DRGLPPVVFL LIRLLTHLAL LLGASQSSQA LINIIKPPVR DPKGFLQQHI
+     LKDLEQLAKM LGHSADETIG VVHLVLRRLL QEQHQLSSRR LLNFDTELST KEMRNNWEKE
+     IAAVISPELE HLDKTLPTMN NLISQDKRIS SNPVAKIIYG DPVTFLPHLP RKSVVHCSKI
+     WSCRKRITVE YLQHIVEQKN GKERVPILWH FLQKEAELRL VKFLPEILAL QRDLVKQFQN
+     VQQVEYSSIR GFLSKHSSDG LRQLLHNRIT VFLSTWNKLR RSLETNGEIN LPKDYCSTDL
+     DLDTEFEILL PRRRGLGLCA TALVSYLIRL HNEIVYAVEK LSKENNSYSV DAAEVTELHV
+     ISYEVERDLT PLILSNCQYQ VEEGRETVQE FDLEKIQRQI VSRFLQGKPR LSLKGIPTLV
+     YRHDWNYEHL FMDIKNKMAQ DSLPSSVISA ISGQLQSYSD ACEVLSVVEV TLGFLSTAGG
+     DPNMQLNVYT QDILQMGDQT IHVLKALNRC QLKHTIALWQ FLSAHKSEQL LRLHKEPFGE
+     ISSRYKADLS PENAKLLSTF LNQTGLDAFL LELHEMIILK LKNPQTQTEE RFRPQWSLRD
+     TLVSYMQTKE SEILPEMASQ FPEEILLASC VSVWKTAAVL KWNREMR
+//

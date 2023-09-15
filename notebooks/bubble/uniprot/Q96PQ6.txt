@@ -1,0 +1,267 @@
+ID   ZN317_HUMAN             Reviewed;         595 AA.
+AC   Q96PQ6; Q6DCA9; Q96PM0; Q96PM1; Q96PT2; Q9HCI4;
+DT   27-MAR-2002, integrated into UniProtKB/Swiss-Prot.
+DT   05-MAY-2009, sequence version 2.
+DT   28-JUN-2023, entry version 184.
+DE   RecName: Full=Zinc finger protein 317;
+GN   Name=ZNF317; Synonyms=KIAA1588;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2; 3 AND 4), AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=11688974; DOI=10.1006/bbrc.2001.5855;
+RA   Takashima H., Nishio H., Wakao H., Nishio M., Koizumi K., Oda A., Koike T.,
+RA   Sawada Ki K.;
+RT   "Molecular cloning and characterization of a KRAB-containing zinc finger
+RT   protein, ZNF317, and its isoforms.";
+RL   Biochem. Biophys. Res. Commun. 288:771-779(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=10997877; DOI=10.1093/dnares/7.4.271;
+RA   Nagase T., Kikuno R., Nakayama M., Hirosawa M., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XVIII. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 7:273-281(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: May function as a transcription factor. May play an important
+CC       role in erythroid maturation and lymphoid proliferation.
+CC   -!- INTERACTION:
+CC       Q96PQ6; Q8WTP8: AEN; NbExp=4; IntAct=EBI-1210473, EBI-8637627;
+CC       Q96PQ6; Q8TBE0: BAHD1; NbExp=3; IntAct=EBI-1210473, EBI-742750;
+CC       Q96PQ6; Q96Q77: CIB3; NbExp=5; IntAct=EBI-1210473, EBI-10292696;
+CC       Q96PQ6; P49760: CLK2; NbExp=3; IntAct=EBI-1210473, EBI-750020;
+CC       Q96PQ6; Q6ZUT1: NKAPD1; NbExp=7; IntAct=EBI-1210473, EBI-3920396;
+CC       Q96PQ6; P98175: RBM10; NbExp=3; IntAct=EBI-1210473, EBI-721525;
+CC       Q96PQ6; P0DJD3: RBMY1A1; NbExp=5; IntAct=EBI-1210473, EBI-8638511;
+CC       Q96PQ6; P0DJD3-2: RBMY1A1; NbExp=3; IntAct=EBI-1210473, EBI-11994018;
+CC       Q96PQ6; Q15415: RBMY1J; NbExp=5; IntAct=EBI-1210473, EBI-8642021;
+CC       Q96PQ6; P10074: ZBTB48; NbExp=3; IntAct=EBI-1210473, EBI-744864;
+CC       Q96PQ6; Q9H9D4: ZNF408; NbExp=3; IntAct=EBI-1210473, EBI-347633;
+CC       Q96PQ6; Q96C55: ZNF524; NbExp=3; IntAct=EBI-1210473, EBI-10283126;
+CC       Q96PQ6; Q5T619: ZNF648; NbExp=3; IntAct=EBI-1210473, EBI-11985915;
+CC       Q96PQ6; Q96EG3: ZNF837; NbExp=3; IntAct=EBI-1210473, EBI-11962574;
+CC       Q96PQ6-4; Q6A162: KRT40; NbExp=3; IntAct=EBI-10292528, EBI-10171697;
+CC       Q96PQ6-4; P60411: KRTAP10-9; NbExp=3; IntAct=EBI-10292528, EBI-10172052;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=2; Synonyms=ZNF317-2;
+CC         IsoId=Q96PQ6-1; Sequence=Displayed;
+CC       Name=1; Synonyms=ZNF317-1;
+CC         IsoId=Q96PQ6-2; Sequence=VSP_006916;
+CC       Name=3; Synonyms=ZNF317-3;
+CC         IsoId=Q96PQ6-3; Sequence=VSP_006915, VSP_006916;
+CC       Name=4; Synonyms=ZNF317-4;
+CC         IsoId=Q96PQ6-4; Sequence=VSP_006915;
+CC   -!- TISSUE SPECIFICITY: Isoform 1 and isoform 2 are ubiquitously expressed.
+CC       Isoform 3 and isoform 4 are expressed only in lymphocytes, spleen and
+CC       lung. {ECO:0000269|PubMed:11688974}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB13414.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF275255; AAL29188.1; -; mRNA.
+DR   EMBL; AF148135; AAL29182.1; -; mRNA.
+DR   EMBL; AF307096; AAL29190.1; -; mRNA.
+DR   EMBL; AF307097; AAL29191.1; -; mRNA.
+DR   EMBL; AB046808; BAB13414.1; ALT_INIT; mRNA.
+DR   EMBL; CH471106; EAW84011.1; -; Genomic_DNA.
+DR   EMBL; BC078154; AAH78154.1; -; mRNA.
+DR   CCDS; CCDS12210.1; -. [Q96PQ6-1]
+DR   CCDS; CCDS54213.1; -. [Q96PQ6-2]
+DR   PIR; JC7779; JC7779.
+DR   RefSeq; NP_001177720.1; NM_001190791.1. [Q96PQ6-2]
+DR   RefSeq; NP_065984.3; NM_020933.4. [Q96PQ6-1]
+DR   AlphaFoldDB; Q96PQ6; -.
+DR   SMR; Q96PQ6; -.
+DR   BioGRID; 121719; 67.
+DR   IntAct; Q96PQ6; 25.
+DR   MINT; Q96PQ6; -.
+DR   STRING; 9606.ENSP00000247956; -.
+DR   GlyGen; Q96PQ6; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q96PQ6; -.
+DR   PhosphoSitePlus; Q96PQ6; -.
+DR   BioMuta; ZNF317; -.
+DR   DMDM; 229462794; -.
+DR   EPD; Q96PQ6; -.
+DR   jPOST; Q96PQ6; -.
+DR   MassIVE; Q96PQ6; -.
+DR   MaxQB; Q96PQ6; -.
+DR   PaxDb; Q96PQ6; -.
+DR   PeptideAtlas; Q96PQ6; -.
+DR   ProteomicsDB; 77731; -. [Q96PQ6-1]
+DR   ProteomicsDB; 77732; -. [Q96PQ6-2]
+DR   ProteomicsDB; 77733; -. [Q96PQ6-3]
+DR   ProteomicsDB; 77734; -. [Q96PQ6-4]
+DR   Antibodypedia; 24999; 117 antibodies from 16 providers.
+DR   DNASU; 57693; -.
+DR   Ensembl; ENST00000247956.11; ENSP00000247956.5; ENSG00000130803.15. [Q96PQ6-1]
+DR   Ensembl; ENST00000360385.7; ENSP00000353554.2; ENSG00000130803.15. [Q96PQ6-2]
+DR   GeneID; 57693; -.
+DR   KEGG; hsa:57693; -.
+DR   MANE-Select; ENST00000247956.11; ENSP00000247956.5; NM_020933.5; NP_065984.3.
+DR   UCSC; uc002mku.4; human. [Q96PQ6-1]
+DR   AGR; HGNC:13507; -.
+DR   CTD; 57693; -.
+DR   DisGeNET; 57693; -.
+DR   GeneCards; ZNF317; -.
+DR   HGNC; HGNC:13507; ZNF317.
+DR   HPA; ENSG00000130803; Low tissue specificity.
+DR   MIM; 613864; gene.
+DR   neXtProt; NX_Q96PQ6; -.
+DR   OpenTargets; ENSG00000130803; -.
+DR   PharmGKB; PA37793; -.
+DR   VEuPathDB; HostDB:ENSG00000130803; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000162241; -.
+DR   HOGENOM; CLU_002678_72_0_1; -.
+DR   InParanoid; Q96PQ6; -.
+DR   OMA; AQHVSIY; -.
+DR   OrthoDB; 5247982at2759; -.
+DR   PhylomeDB; Q96PQ6; -.
+DR   TreeFam; TF338497; -.
+DR   PathwayCommons; Q96PQ6; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; Q96PQ6; -.
+DR   BioGRID-ORCS; 57693; 262 hits in 1178 CRISPR screens.
+DR   ChiTaRS; ZNF317; human.
+DR   GenomeRNAi; 57693; -.
+DR   Pharos; Q96PQ6; Tdark.
+DR   PRO; PR:Q96PQ6; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q96PQ6; protein.
+DR   Bgee; ENSG00000130803; Expressed in granulocyte and 171 other tissues.
+DR   ExpressionAtlas; Q96PQ6; baseline and differential.
+DR   Genevisible; Q96PQ6; HS.
+DR   GO; GO:0005634; C:nucleus; HDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IEA:InterPro.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 13.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR23234:SF7; GENE 14408-RELATED; 1.
+DR   PANTHER; PTHR23234; ZNF44 PROTEIN; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF00096; zf-C2H2; 11.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00355; ZnF_C2H2; 13.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 8.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 13.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 13.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; DNA-binding; Metal-binding; Nucleus;
+KW   Reference proteome; Repeat; Transcription; Transcription regulation; Zinc;
+KW   Zinc-finger.
+FT   CHAIN           1..595
+FT                   /note="Zinc finger protein 317"
+FT                   /id="PRO_0000047526"
+FT   DOMAIN          57..128
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         222..244
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         250..272
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         278..300
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         306..328
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         334..356
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         362..384
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         390..412
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         418..440
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         446..468
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         474..496
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         502..524
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         530..552
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         558..580
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          109..128
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        109..125
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VAR_SEQ         1..85
+FT                   /note="Missing (in isoform 3 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:11688974"
+FT                   /id="VSP_006915"
+FT   VAR_SEQ         97..128
+FT                   /note="Missing (in isoform 1 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:10997877,
+FT                   ECO:0000303|PubMed:11688974, ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_006916"
+FT   VARIANT         19
+FT                   /note="Q -> H (in dbSNP:rs3752199)"
+FT                   /id="VAR_019980"
+FT   CONFLICT        409
+FT                   /note="M -> I (in Ref. 1;
+FT                   AAL29182/AAL29188/AAL29190/AAL29191)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   595 AA;  67959 MW;  9AF99586A1882A9D CRC64;
+     MAALSPTFAT STQDSTCLQD SEFPVSSKDH SCPQNLDLFV CSGLEPHTPS VGSQESVTFQ
+     DVAVDFTEKE WPLLDSSQRK LYKDVMLENY SNLTSLGYQV GKPSLISHLE QEEEPRTEER
+     GAHQGACADW ETPSKTKWSL LMEDIFGKET PSGVTMERAG LGEKSTEYAH LFEVFGMDPH
+     LTQPMGRHAG KRPYHRRDYG VAFKGRPHLT QHMSMYDGRK MHECHQCQKA FTTSASLTRH
+     RRIHTGEKPY ECSDCGKAFN DPSALRSHAR THLKEKPFDC SQCGNAFRTL SALKIHMRVH
+     TGERPYKCDQ CGKAYGRSCH LIAHKRTHTG ERPYECHDCG KAFQHPSHLK EHVRNHTGEK
+     PYACTQCGKA FRWKSNFNLH KKNHMVEKTY ECKECGKSFG DLVSRRKHMR IHIVKKPVEC
+     RQCGKTFRNQ SILKTHMNSH TGEKPYGCDL CGKAFSASSN LTAHRKIHTQ ERRYECAACG
+     KVFGDYLSRR RHMSVHLVKK RVECRQCGKA FRNQSTLKTH MRSHTGEKPY ECDHCGKAFS
+     IGSNLNVHRR IHTGEKPYEC LVCGKAFSDH SSLRSHVKTH RGEKLFVSSV WKRLQ
+//

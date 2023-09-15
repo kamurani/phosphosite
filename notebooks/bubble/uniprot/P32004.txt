@@ -1,0 +1,1480 @@
+ID   L1CAM_HUMAN             Reviewed;        1257 AA.
+AC   P32004; A0AV65; A4ZYW4; B2RMU7; G3XAF4; Q8TA87;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 2.
+DT   28-JUN-2023, entry version 236.
+DE   RecName: Full=Neural cell adhesion molecule L1;
+DE            Short=N-CAM-L1;
+DE            Short=NCAM-L1;
+DE   AltName: CD_antigen=CD171;
+DE   Flags: Precursor;
+GN   Name=L1CAM; Synonyms=CAML1, MIC5;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Fetal brain;
+RX   PubMed=1932117; DOI=10.1016/0167-4781(91)90108-x;
+RA   Kobayashi M., Miura M., Asou H., Uyemura K.;
+RT   "Molecular cloning of cell adhesion molecule L1 from human nervous tissue:
+RT   a comparison of the primary sequences of L1 molecules of different
+RT   origin.";
+RL   Biochim. Biophys. Acta 1090:238-240(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Fetal brain;
+RX   PubMed=1769655; DOI=10.1016/0888-7543(91)90150-d;
+RA   Hlavin M.L., Lemmon V.;
+RT   "Molecular structure and functional testing of human L1CAM: an interspecies
+RT   comparison.";
+RL   Genomics 11:416-423(1991).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RX   PubMed=1627459; DOI=10.1007/bf02919404;
+RA   Reid R.A., Hemperly J.J.;
+RT   "Variants of human L1 cell adhesion molecule arise through alternate
+RT   splicing of RNA.";
+RL   J. Mol. Neurosci. 3:127-135(1992).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=9286695; DOI=10.1006/geno.1997.4822;
+RA   Brenner V., Nyakatura G., Rosenthal A., Platzer M.;
+RT   "Genomic organization of two novel genes on human Xq28: compact head to
+RT   head arrangement of IDH gamma and TRAP delta is conserved in rat and
+RT   mouse.";
+RL   Genomics 44:8-14(1997).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND ALTERNATIVE SPLICING.
+RX   PubMed=9479034; DOI=10.1016/s0378-1119(97)00614-8;
+RA   Coutelle O., Nyakatura G., Taudien S., Elgar G., Brenner S., Platzer M.,
+RA   Drescher B., Jouet M., Kenwrick S., Rosenthal A.;
+RT   "The neural cell adhesion molecule L1: genomic organisation and
+RT   differential splicing is conserved between man and the pufferfish Fugu.";
+RL   Gene 208:7-15(1998).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 3).
+RA   Son Y.S.;
+RL   Submitted (MAR-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15772651; DOI=10.1038/nature03440;
+RA   Ross M.T., Grafham D.V., Coffey A.J., Scherer S., McLay K., Muzny D.,
+RA   Platzer M., Howell G.R., Burrows C., Bird C.P., Frankish A., Lovell F.L.,
+RA   Howe K.L., Ashurst J.L., Fulton R.S., Sudbrak R., Wen G., Jones M.C.,
+RA   Hurles M.E., Andrews T.D., Scott C.E., Searle S., Ramser J., Whittaker A.,
+RA   Deadman R., Carter N.P., Hunt S.E., Chen R., Cree A., Gunaratne P.,
+RA   Havlak P., Hodgson A., Metzker M.L., Richards S., Scott G., Steffen D.,
+RA   Sodergren E., Wheeler D.A., Worley K.C., Ainscough R., Ambrose K.D.,
+RA   Ansari-Lari M.A., Aradhya S., Ashwell R.I., Babbage A.K., Bagguley C.L.,
+RA   Ballabio A., Banerjee R., Barker G.E., Barlow K.F., Barrett I.P.,
+RA   Bates K.N., Beare D.M., Beasley H., Beasley O., Beck A., Bethel G.,
+RA   Blechschmidt K., Brady N., Bray-Allen S., Bridgeman A.M., Brown A.J.,
+RA   Brown M.J., Bonnin D., Bruford E.A., Buhay C., Burch P., Burford D.,
+RA   Burgess J., Burrill W., Burton J., Bye J.M., Carder C., Carrel L.,
+RA   Chako J., Chapman J.C., Chavez D., Chen E., Chen G., Chen Y., Chen Z.,
+RA   Chinault C., Ciccodicola A., Clark S.Y., Clarke G., Clee C.M., Clegg S.,
+RA   Clerc-Blankenburg K., Clifford K., Cobley V., Cole C.G., Conquer J.S.,
+RA   Corby N., Connor R.E., David R., Davies J., Davis C., Davis J., Delgado O.,
+RA   Deshazo D., Dhami P., Ding Y., Dinh H., Dodsworth S., Draper H.,
+RA   Dugan-Rocha S., Dunham A., Dunn M., Durbin K.J., Dutta I., Eades T.,
+RA   Ellwood M., Emery-Cohen A., Errington H., Evans K.L., Faulkner L.,
+RA   Francis F., Frankland J., Fraser A.E., Galgoczy P., Gilbert J., Gill R.,
+RA   Gloeckner G., Gregory S.G., Gribble S., Griffiths C., Grocock R., Gu Y.,
+RA   Gwilliam R., Hamilton C., Hart E.A., Hawes A., Heath P.D., Heitmann K.,
+RA   Hennig S., Hernandez J., Hinzmann B., Ho S., Hoffs M., Howden P.J.,
+RA   Huckle E.J., Hume J., Hunt P.J., Hunt A.R., Isherwood J., Jacob L.,
+RA   Johnson D., Jones S., de Jong P.J., Joseph S.S., Keenan S., Kelly S.,
+RA   Kershaw J.K., Khan Z., Kioschis P., Klages S., Knights A.J., Kosiura A.,
+RA   Kovar-Smith C., Laird G.K., Langford C., Lawlor S., Leversha M., Lewis L.,
+RA   Liu W., Lloyd C., Lloyd D.M., Loulseged H., Loveland J.E., Lovell J.D.,
+RA   Lozado R., Lu J., Lyne R., Ma J., Maheshwari M., Matthews L.H.,
+RA   McDowall J., McLaren S., McMurray A., Meidl P., Meitinger T., Milne S.,
+RA   Miner G., Mistry S.L., Morgan M., Morris S., Mueller I., Mullikin J.C.,
+RA   Nguyen N., Nordsiek G., Nyakatura G., O'dell C.N., Okwuonu G., Palmer S.,
+RA   Pandian R., Parker D., Parrish J., Pasternak S., Patel D., Pearce A.V.,
+RA   Pearson D.M., Pelan S.E., Perez L., Porter K.M., Ramsey Y., Reichwald K.,
+RA   Rhodes S., Ridler K.A., Schlessinger D., Schueler M.G., Sehra H.K.,
+RA   Shaw-Smith C., Shen H., Sheridan E.M., Shownkeen R., Skuce C.D.,
+RA   Smith M.L., Sotheran E.C., Steingruber H.E., Steward C.A., Storey R.,
+RA   Swann R.M., Swarbreck D., Tabor P.E., Taudien S., Taylor T., Teague B.,
+RA   Thomas K., Thorpe A., Timms K., Tracey A., Trevanion S., Tromans A.C.,
+RA   d'Urso M., Verduzco D., Villasana D., Waldron L., Wall M., Wang Q.,
+RA   Warren J., Warry G.L., Wei X., West A., Whitehead S.L., Whiteley M.N.,
+RA   Wilkinson J.E., Willey D.L., Williams G., Williams L., Williamson A.,
+RA   Williamson H., Wilming L., Woodmansey R.L., Wray P.W., Yen J., Zhang J.,
+RA   Zhou J., Zoghbi H., Zorilla S., Buck D., Reinhardt R., Poustka A.,
+RA   Rosenthal A., Lehrach H., Meindl A., Minx P.J., Hillier L.W., Willard H.F.,
+RA   Wilson R.K., Waterston R.H., Rice C.M., Vaudin M., Coulson A., Nelson D.L.,
+RA   Weinstock G., Sulston J.E., Durbin R.M., Hubbard T., Gibbs R.A., Beck S.,
+RA   Rogers J., Bentley D.R.;
+RT   "The DNA sequence of the human X chromosome.";
+RL   Nature 434:325-337(2005).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Pancreas;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [10]
+RP   PROTEIN SEQUENCE OF 20-36.
+RX   PubMed=3136168; DOI=10.1016/s0021-9258(18)37877-3;
+RA   Wolff J.M., Frank R., Mujoo K., Spiro R.C., Reisfeld R.A., Rathjen F.G.;
+RT   "A human brain glycoprotein related to the mouse cell adhesion molecule
+RT   L1.";
+RL   J. Biol. Chem. 263:11943-11947(1988).
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 332-371.
+RX   PubMed=2387585; DOI=10.1016/0888-7543(90)90203-7;
+RA   Djabali M., Mattei M.-G., Nguyen C., Roux D., Demengeot J., Denizot F.,
+RA   Moos M., Schachner M., Goridis C., Jordan B.R.;
+RT   "The gene encoding L1, a neural adhesion molecule of the immunoglobulin
+RT   family, is located on the X chromosome in mouse and man.";
+RL   Genomics 7:587-593(1990).
+RN   [12]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 353-1176, AND NUCLEOTIDE SEQUENCE [GENOMIC
+RP   DNA] OF 1082-1176.
+RC   TISSUE=Fetal brain;
+RX   PubMed=1923824; DOI=10.1093/nar/19.19.5395;
+RA   Rosenthal A., Mackinnon R.N., Jones D.S.C.;
+RT   "PCR walking from microdissection clone M54 identifies three exons from the
+RT   human gene for the neural cell adhesion molecule L1 (CAM-L1).";
+RL   Nucleic Acids Res. 19:5395-5401(1991).
+RN   [13]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1030-1257.
+RX   PubMed=1993895; DOI=10.1111/j.1471-4159.1991.tb01994.x;
+RA   Harper J.R., Prince J.T., Healy P.A., Stuart J.K., Nauman S.J.,
+RA   Stallcup W.B.;
+RT   "Isolation and sequence of partial cDNA clones of human L1: homology of
+RT   human and rodent L1 in the cytoplasmic region.";
+RL   J. Neurochem. 56:797-804(1991).
+RN   [14]
+RP   PHOSPHORYLATION AT SER-1181.
+RX   PubMed=8592152; DOI=10.1046/j.1471-4159.1996.66020779.x;
+RA   Wong E.V., Schaefer A.W., Landreth G., Lemmon V.;
+RT   "Casein kinase II phosphorylates the neural cell adhesion molecule L1.";
+RL   J. Neurochem. 66:779-786(1996).
+RN   [15]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-671.
+RC   TISSUE=Plasma;
+RX   PubMed=16335952; DOI=10.1021/pr0502065;
+RA   Liu T., Qian W.-J., Gritsenko M.A., Camp D.G. II, Monroe M.E., Moore R.J.,
+RA   Smith R.D.;
+RT   "Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+RT   hydrazide chemistry, and mass spectrometry.";
+RL   J. Proteome Res. 4:2070-2080(2005).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1163, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1248, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [18]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-671.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [19]
+RP   INVOLVEMENT IN L1 SYNDROME, VARIANTS 26-TYR--GLU-1257 DEL; ASN-37; MET-38;
+RP   66-GLN--GLU-1257 DEL; 109-GLN--GLU-1257 DEL; 133-GLU--GLU-1257 DEL;
+RP   138-TRP--GLU-1257 DEL; ILE-172; GLY-184; 187-MET--VAL-198 DEL; ASP-254;
+RP   ARG-276; PRO-313; 366-TRP--GLU-1257 DEL; LYS-369; 423-GLN--GLU-1257 DEL;
+RP   ARG-480; ASN-516; TYR-516; HIS-525; MET-627; PRO-645; 662-TRP--GLU-1257
+RP   DEL; SER-714; ARG-754; 760-ARG--GLU-1257 DEL; 789-GLN--GLU-1257 DEL;
+RP   811-TYR--GLU-1257 DEL; 891-TYR--GLU-1257 DEL; 901-ARG--GLU-1257 DEL;
+RP   1064-SER--GLU-1257 DEL; ASN-1071 DEL AND GLN-1080, VARIANTS MASA SER-179;
+RP   TYR-202; ARG-335 AND MET-752, AND VARIANTS HYCX SER-179; GLN-184; ARG-335;
+RP   PRO-415 AND MET-752.
+RX   PubMed=19846429; DOI=10.1136/jmg.2009.071688;
+RA   Vos Y.J., de Walle H.E., Bos K.K., Stegeman J.A., Ten Berge A.M.,
+RA   Bruining M., van Maarle M.C., Elting M.W., den Hollander N.S., Hamel B.,
+RA   Fortuna A.M., Sunde L.E., Stolte-Dijkstra I., Schrander-Stumpel C.T.,
+RA   Hofstra R.M.;
+RT   "Genotype-phenotype correlations in L1 syndrome: a guide for genetic
+RT   counselling and mutation analysis.";
+RL   J. Med. Genet. 47:169-175(2010).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1194, PHOSPHORYLATION [LARGE
+RP   SCALE ANALYSIS] AT SER-1177 (ISOFORM 2), PHOSPHORYLATION [LARGE SCALE
+RP   ANALYSIS] AT SER-1172 (ISOFORM 3), AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [21]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [22]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1177 (ISOFORM 2),
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1172 (ISOFORM 3), AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [23]
+RP   INVOLVEMENT IN L1 SYNDROME, VARIANTS CYS-635 AND ILE-768, AND
+RP   GLYCOSYLATION.
+RX   PubMed=22222883; DOI=10.1007/s10048-011-0307-4;
+RA   Marx M., Diestel S., Bozon M., Keglowich L., Drouot N., Bouche E.,
+RA   Frebourg T., Minz M., Saugier-Veber P., Castellani V., Schaefer M.K.;
+RT   "Pathomechanistic characterization of two exonic L1CAM variants located in
+RT   trans in an obligate carrier of X-linked hydrocephalus.";
+RL   Neurogenetics 13:49-59(2012).
+RN   [24]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1243, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [25]
+RP   VARIANT HYCX TYR-264.
+RX   PubMed=8401576; DOI=10.1038/ng0893-331;
+RA   Jouet M., Rosenthal A., Macfarlane J., Kenwrick S., Donnai D.;
+RT   "A missense mutation confirms the L1 defect in X-linked hydrocephalus
+RT   (HSAS).";
+RL   Nat. Genet. 4:331-331(1993).
+RN   [26]
+RP   VARIANT HYCX LEU-1194, AND VARIANT MASA LEU-1194.
+RX   PubMed=7881431; DOI=10.1093/hmg/3.12.2255;
+RA   Fransen E., Schrander-Stumpel C., Vits L., Coucke P., van Camp G.,
+RA   Willems P.J.;
+RT   "X-linked hydrocephalus and MASA syndrome present in one family are due to
+RT   a single missense mutation in exon 28 of the L1CAM gene.";
+RL   Hum. Mol. Genet. 3:2255-2256(1994).
+RN   [27]
+RP   INVOLVEMENT IN MASA, INVOLVEMENT IN HYCX, VARIANTS HYCX GLN-184 AND
+RP   ARG-452, AND VARIANT MASA GLN-210.
+RX   PubMed=7920659; DOI=10.1038/ng0794-402;
+RA   Jouet M., Rosenthal A., Armstrong G., Macfarlane J., Stevenson R.,
+RA   Paterson J., Metzenberg A., Ionasescu V., Temple K., Kenwrick S.;
+RT   "X-linked spastic paraplegia (SPG1), MASA syndrome and X-linked
+RT   hydrocephalus result from mutations in the L1 gene.";
+RL   Nat. Genet. 7:402-407(1994).
+RN   [28]
+RP   VARIANTS MASA GLN-210 AND ASN-598.
+RX   PubMed=7920660; DOI=10.1038/ng0794-408;
+RA   Vits L., van Camp G., Coucke P., Fransen E., de Boulle K., Reyniers E.,
+RA   Korn B., Poustka A., Wilson G., Schrander-Stumpel C., Winter R.M.,
+RA   Schwartz C., Willems P.J.;
+RT   "MASA syndrome is due to mutations in the neural cell adhesion gene
+RT   L1CAM.";
+RL   Nat. Genet. 7:408-413(1994).
+RN   [29]
+RP   VARIANTS MASA LYS-309 AND LEU-941, AND VARIANTS HYCX SER-9; SER-121;
+RP   PHE-768; LEU-941 AND CYS-1070.
+RX   PubMed=7762552;
+RA   Jouet M., Moncla A., Paterson J., McKeown C., Fryer A., Carpenter N.,
+RA   Holmberg E., Wadelius C., Kenwrick S.;
+RT   "New domains of neural cell-adhesion molecule L1 implicated in X-linked
+RT   hydrocephalus and MASA syndrome.";
+RL   Am. J. Hum. Genet. 56:1304-1314(1995).
+RN   [30]
+RP   VARIANTS HYCX GLN-184; TYR-264; ARG-452 AND LEU-1194, AND VARIANTS MASA
+RP   GLN-210; ASN-598 AND LEU-1194.
+RX   PubMed=8556302; DOI=10.1159/000472311;
+RA   Fransen E., Lemmon V., van Camp G., Vits L., Coucke P., Willems P.J.;
+RT   "CRASH syndrome: clinical spectrum of corpus callosum hypoplasia,
+RT   retardation, adducted thumbs, spastic paraparesis and hydrocephalus due to
+RT   mutations in one single gene, L1.";
+RL   Eur. J. Hum. Genet. 3:273-284(1995).
+RN   [31]
+RP   ERRATUM OF PUBMED:8556302.
+RA   Fransen E., Lemmon V., van Camp G., Vits L., Coucke P., Willems P.J.;
+RL   Eur. J. Hum. Genet. 4:126-126(1996).
+RN   [32]
+RP   INVOLVEMENT IN MASA, INVOLVEMENT IN HYCX, VARIANTS HYCX SER-179 AND
+RP   ARG-370, AND VARIANTS MASA SER-179 AND ARG-370.
+RX   PubMed=7562969; DOI=10.1136/jmg.32.7.549;
+RA   Ruiz J.C., Cuppens H., Legius E., Fryns J.-P., Glover T., Marynen P.,
+RA   Cassiman J.-J.;
+RT   "Mutations in L1-CAM in two families with X linked complicated spastic
+RT   paraplegia, MASA syndrome, and HSAS.";
+RL   J. Med. Genet. 32:549-552(1995).
+RN   [33]
+RP   VARIANT HYCX GLU-655.
+RX   PubMed=9118141; DOI=10.1007/bf00261591;
+RA   Izumoto S., Yamasaki M., Arita N., Hiraga S., Ohnishi T., Fujitani K.,
+RA   Sakoda S., Hayakawa T.;
+RT   "A new mutation of the L1CAM gene in an X-linked hydrocephalus family.";
+RL   Childs Nerv. Syst. 12:742-747(1996).
+RN   [34]
+RP   VARIANTS HYCX CYS-194 AND LEU-240.
+RX   PubMed=8929944; DOI=10.1136/jmg.33.2.103;
+RA   Gu S.-M., Orth U., Veske A., Enders H., Kluender K., Schloesser M.,
+RA   Engel W., Schwinger E., Gal A.;
+RT   "Five novel mutations in the L1CAM gene in families with X linked
+RT   hydrocephalus.";
+RL   J. Med. Genet. 33:103-106(1996).
+RN   [35]
+RP   VARIANT MASA PRO-482, VARIANTS HYCX SER-526 DEL; PRO-542 AND THR-741,
+RP   VARIANT HYCX/MASA MET-752, AND VARIANT ILE-768.
+RX   PubMed=9268105;
+RX   DOI=10.1002/(sici)1096-8628(19970822)71:3<336::aid-ajmg15>3.0.co;2-l;
+RA   Gu S.-M., Orth U., Zankl M., Schroeder J., Gal A.;
+RT   "Molecular analysis of the L1CAM gene in patients with X-linked
+RT   hydrocephalus demonstrates eight novel mutations and suggests non-allelic
+RT   heterogeneity of the trait.";
+RL   Am. J. Med. Genet. 71:336-340(1997).
+RN   [36]
+RP   VARIANTS MASA ASP-268 AND ASP-426.
+RX   PubMed=9300653; DOI=10.1093/hmg/6.10.1625;
+RA   Fransen E., Van Camp G., Vits L., Willems P.J.;
+RT   "L1-associated diseases: clinical geneticists divide, molecular geneticists
+RT   unite.";
+RL   Hum. Mol. Genet. 6:1625-1632(1997).
+RN   [37]
+RP   VARIANTS HYCX GLN-184; 439-VAL--THR-443 DEL; CYS-784 AND 936-LEU--LEU-948
+RP   DEL.
+RX   PubMed=9195224;
+RX   DOI=10.1002/(sici)1098-1004(1997)9:6<512::aid-humu3>3.0.co;2-3;
+RA   Macfarlane J.R., Du J.-S., Pepys M.E., Ramsden S., Donnai D., Charlton R.,
+RA   Garrett C., Tolmie J., Yates J.R.W., Berry C., Goudie D., Moncla A.,
+RA   Lunt P., Hodgson S., Jouet M., Kenwrick S.;
+RT   "Nine novel L1 CAM mutations in families with X-linked hydrocephalus.";
+RL   Hum. Mutat. 9:512-518(1997).
+RN   [38]
+RP   VARIANTS MASA ASP-691 AND ARG-698, AND VARIANTS HYCX ARG-698 AND PRO-935.
+RX   PubMed=9521424;
+RX   DOI=10.1002/(sici)1098-1004(1998)11:3<222::aid-humu7>3.0.co;2-j;
+RA   Du Y.-Z., Srivastava A.K., Schwartz C.E.;
+RT   "Multiple exon screening using restriction endonuclease fingerprinting
+RT   (REF): detection of six novel mutations in the L1 cell adhesion molecule
+RT   (L1CAM) gene.";
+RL   Hum. Mutat. 11:222-230(1998).
+RN   [39]
+RP   VARIANT MASA PRO-632.
+RX   PubMed=9452110; DOI=10.1002/humu.1380110189;
+RA   Vits L., Chitayat D., van Camp G., Holden J.J.A., Fransen E., Willems P.J.;
+RT   "Evidence for somatic and germline mosaicism in CRASH syndrome.";
+RL   Hum. Mutat. Suppl. 1:S284-S287(1998).
+RN   [40]
+RP   VARIANTS MASA ARG-335 AND CYS-473, AND VARIANTS HYCX THR-219; ARG-335;
+RP   CYS-386; CYS-473 AND LEU-1224.
+RX   PubMed=9744477;
+RX   DOI=10.1002/(sici)1098-1004(1998)12:4<259::aid-humu7>3.0.co;2-a;
+RA   Saugier-Veber P., Martin C., le Meur N., Lyonnet S., Munnich A., David A.,
+RA   Henocq A., Heron D., Jonveaux P., Odent S., Manouvrier S., Moncla A.,
+RA   Morichon N., Philip N., Satge D., Tosi M., Frebourg T.;
+RT   "Identification of novel L1CAM mutations using fluorescence-assisted
+RT   mismatch analysis.";
+RL   Hum. Mutat. 12:259-266(1998).
+RN   [41]
+RP   VARIANTS MASA CYS-674 AND ASP-691, AND VARIANT HYCX ARG-698.
+RX   PubMed=9832035; DOI=10.1136/jmg.35.11.901;
+RA   Michaelis R.C., Du Y.-Z., Schwartz C.E.;
+RT   "The site of a missense mutation in the extracellular Ig or FN domains of
+RT   L1CAM influences infant mortality and the severity of X linked
+RT   hydrocephalus.";
+RL   J. Med. Genet. 35:901-904(1998).
+RN   [42]
+RP   VARIANTS HYCX TRP-184; CYS-335; ILE-408; ASP-421; TYR-497; THR-691 AND
+RP   PRO-751, VARIANTS ASN-30; TRP-739 AND GLU-1239, AND VARIANT HYCX/MASA
+RP   ARG-370.
+RX   PubMed=10797421;
+RX   DOI=10.1002/(sici)1096-8628(20000501)92:1<40::aid-ajmg7>3.0.co;2-r;
+RA   Finckh U., Schroeder J., Ressler B., Veske A., Gal A.;
+RT   "Spectrum and detection rate of L1CAM mutations in isolated and familial
+RT   cases with clinically suspected L1-disease.";
+RL   Am. J. Med. Genet. 92:40-46(2000).
+RN   [43]
+RP   VARIANT MASA TYR-202.
+RX   PubMed=10805190; DOI=10.1177/088307380001500407;
+RA   Sztriha L., Frossard P., Hofstra R.M., Verlind E., Nork M.;
+RT   "Novel missense mutation in the L1 gene in a child with corpus callosum
+RT   agenesis, retardation, adducted thumbs, spastic paraparesis, and
+RT   hydrocephalus.";
+RL   J. Child Neurol. 15:239-243(2000).
+RN   [44]
+RP   VARIANT HYCX/MASA MET-752, AND POSSIBLE INVOLVEMENT IN HIRSCHSPRUNG
+RP   DISEASE.
+RX   PubMed=11857550; DOI=10.1002/ajmg.10185;
+RA   Parisi M.A., Kapur R.P., Neilson I., Hofstra R.M.W., Holloway L.W.,
+RA   Michaelis R.C., Leppig K.A.;
+RT   "Hydrocephalus and intestinal aganglionosis: is L1CAM a modifier gene in
+RT   Hirschsprung disease?";
+RL   Am. J. Med. Genet. 108:51-56(2002).
+RN   [45]
+RP   VARIANT HYCX PRO-415.
+RX   PubMed=12435569; DOI=10.1016/s0887-8994(02)00440-x;
+RA   Sztriha L., Vos Y.J., Verlind E., Johansen J., Berg B.;
+RT   "X-linked hydrocephalus: a novel missense mutation in the L1CAM gene.";
+RL   Pediatr. Neurol. 27:293-296(2002).
+RN   [46]
+RP   CHARACTERIZATION OF VARIANT HYCX TYR-264, SUBCELLULAR LOCATION, AND
+RP   GLYCOSYLATION.
+RX   PubMed=12514225; DOI=10.1523/jneurosci.23-01-00277.2003;
+RA   Ruenker A.E., Bartsch U., Nave K.A., Schachner M.;
+RT   "The C264Y missense mutation in the extracellular domain of L1 impairs
+RT   protein trafficking in vitro and in vivo.";
+RL   J. Neurosci. 23:277-286(2003).
+RN   [47]
+RP   VARIANT ACCPX LEU-240.
+RX   PubMed=16650080; DOI=10.1111/j.1399-0004.2006.00607.x;
+RA   Basel-Vanagaite L., Straussberg R., Friez M.J., Inbar D., Korenreich L.,
+RA   Shohat M., Schwartz C.E.;
+RT   "Expanding the phenotypic spectrum of L1CAM-associated disease.";
+RL   Clin. Genet. 69:414-419(2006).
+RN   [48]
+RP   VARIANT MASA ASN-770.
+RX   PubMed=16816908; DOI=10.1007/s10072-006-0610-2;
+RA   Simonati A., Boaretto F., Vettori A., Dabrilli P., Criscuolo L.,
+RA   Rizzuto N., Mostacciuolo M.L.;
+RT   "A novel missense mutation in the L1CAM gene in a boy with L1 disease.";
+RL   Neurol. Sci. 27:114-117(2006).
+RN   [49]
+RP   CHARACTERIZATION OF VARIANTS HYCX GLN-184 AND LEU-1036, FUNCTION, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=20621658; DOI=10.1016/j.nbd.2010.05.029;
+RA   Schaefer M.K., Nam Y.C., Moumen A., Keglowich L., Bouche E., Kueffner M.,
+RA   Bock H.H., Rathjen F.G., Raoul C., Frotscher M.;
+RT   "L1 syndrome mutations impair neuronal L1 function at different levels by
+RT   divergent mechanisms.";
+RL   Neurobiol. Dis. 40:222-237(2010).
+RN   [50]
+RP   VARIANT HYCX ARG-698.
+RX   PubMed=22344793; DOI=10.1002/ajmg.a.35244;
+RA   Fernandez R.M., Nunez-Torres R., Garcia-Diaz L., de Agustin J.C.,
+RA   Antinolo G., Borrego S.;
+RT   "Association of X-linked hydrocephalus and Hirschsprung disease: Report of
+RT   a new patient with a mutation in the L1CAM gene.";
+RL   Am. J. Med. Genet. A 158:816-820(2012).
+RN   [51]
+RP   CHARACTERIZATION OF VARIANTS MASA GLN-210 AND LYS-309, CHARACTERIZATION OF
+RP   VARIANTS HYCX THR-219 AND CYS-264, CHARACTERIZATION OF VARIANT HYCX/MASA
+RP   LEU-941, AND SUBCELLULAR LOCATION.
+RX   PubMed=22973895; DOI=10.1111/jnc.12015;
+RA   Tagliavacca L., Colombo F., Racchetti G., Meldolesi J.;
+RT   "L1CAM and its cell-surface mutants: new mechanisms and effects relevant to
+RT   the physiology and pathology of neural cells.";
+RL   J. Neurochem. 124:397-409(2013).
+RN   [52]
+RP   CHARACTERIZATION OF VARIANT VAL-120, CHARACTERIZATION OF VARIANTS MASA
+RP   GLN-210 AND LYS-309, CHARACTERIZATION OF VARIANTS HYCX GLN-184; TYR-264 AND
+RP   CYS-1070, AND MUTAGENESIS OF 1147-LYS--VAL-1153.
+RX   PubMed=24155914; DOI=10.1371/journal.pone.0076974;
+RA   Kudumala S., Freund J., Hortsch M., Godenschwege T.A.;
+RT   "Differential effects of human L1CAM mutations on complementing guidance
+RT   and synaptic defects in Drosophila melanogaster.";
+RL   PLoS ONE 8:E76974-E76974(2013).
+RN   [53]
+RP   VARIANT 789-GLN--GLU-1257 DEL, CHARACTERIZATION OF VARIANTS ASN-37; MET-38
+RP   AND ILE-172, CHARACTERIZATION OF VARIANT MASA TYR-202, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=26891472; DOI=10.1111/cge.12763;
+RA   Christaller W.A., Vos Y., Gebre-Medhin S., Hofstra R.M., Schaefer M.K.;
+RT   "L1 syndrome diagnosis complemented with functional analysis of L1CAM
+RT   variants located to the two N-terminal Ig-like domains.";
+RL   Clin. Genet. 91:115-120(2017).
+CC   -!- FUNCTION: Neural cell adhesion molecule involved in the dynamics of
+CC       cell adhesion and in the generation of transmembrane signals at
+CC       tyrosine kinase receptors. During brain development, critical in
+CC       multiple processes, including neuronal migration, axonal growth and
+CC       fasciculation, and synaptogenesis. In the mature brain, plays a role in
+CC       the dynamics of neuronal structure and function, including synaptic
+CC       plasticity. {ECO:0000269|PubMed:20621658, ECO:0000305}.
+CC   -!- SUBUNIT: Interacts with SHTN1; the interaction occurs in axonal growth
+CC       cones (By similarity). Interacts with isoform 2 of BSG (By similarity).
+CC       {ECO:0000250|UniProtKB:P11627, ECO:0000250|UniProtKB:Q05695}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:12514225,
+CC       ECO:0000269|PubMed:20621658, ECO:0000269|PubMed:22973895,
+CC       ECO:0000269|PubMed:26891472}; Single-pass type I membrane protein
+CC       {ECO:0000250|UniProtKB:Q05695}. Cell projection, growth cone
+CC       {ECO:0000250|UniProtKB:Q05695}. Cell projection, axon
+CC       {ECO:0000269|PubMed:20621658}. Cell projection, dendrite.
+CC       Note=Colocalized with SHTN1 in close apposition with actin filaments in
+CC       filopodia and lamellipodia of axonalne growth cones of hippocampal
+CC       neurons (By similarity). In neurons, detected predominantly in axons
+CC       and cell body, weak localization to dendrites (PubMed:20621658).
+CC       {ECO:0000250|UniProtKB:Q05695, ECO:0000269|PubMed:20621658}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=P32004-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P32004-2; Sequence=VSP_002591;
+CC       Name=3;
+CC         IsoId=P32004-3; Sequence=VSP_046317, VSP_002591;
+CC   -!- DISEASE: Hydrocephalus, congenital, X-linked (HYCX) [MIM:307000]: An X-
+CC       linked recessive form of congenital hydrocephalus, a disease
+CC       characterized by in utero onset of enlarged ventricles due to
+CC       accumulation of ventricular cerebrospinal fluid. HYCX is the most
+CC       common inherited form and occurs in approximately 1/30000 male births.
+CC       The primary diagnostic criteria of intellectual disability and enlarged
+CC       cerebral ventricles are often accompanied by spastic paraparesis and
+CC       adducted thumbs and, occasionally, visual defects or seizures. The most
+CC       severe cases die pre- or perinatally with gross hydrocephalus and
+CC       enlarged head circumference. Stenosis of the aqueduct of Sylvius is
+CC       frequently associated with the disorder. {ECO:0000269|PubMed:10797421,
+CC       ECO:0000269|PubMed:11857550, ECO:0000269|PubMed:12435569,
+CC       ECO:0000269|PubMed:12514225, ECO:0000269|PubMed:19846429,
+CC       ECO:0000269|PubMed:20621658, ECO:0000269|PubMed:22344793,
+CC       ECO:0000269|PubMed:22973895, ECO:0000269|PubMed:24155914,
+CC       ECO:0000269|PubMed:7562969, ECO:0000269|PubMed:7762552,
+CC       ECO:0000269|PubMed:7881431, ECO:0000269|PubMed:7920659,
+CC       ECO:0000269|PubMed:8401576, ECO:0000269|PubMed:8556302,
+CC       ECO:0000269|PubMed:8929944, ECO:0000269|PubMed:9118141,
+CC       ECO:0000269|PubMed:9195224, ECO:0000269|PubMed:9268105,
+CC       ECO:0000269|PubMed:9521424, ECO:0000269|PubMed:9744477,
+CC       ECO:0000269|PubMed:9832035}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry. L1CAM mutations have also
+CC       been found in few patients affected by hydrocephalus with Hirschsprung
+CC       disease, suggesting a role of this gene acting either in a direct or
+CC       indirect way in the pathogenesis of Hirschsprung disease
+CC       (PubMed:22344793). {ECO:0000269|PubMed:22344793}.
+CC   -!- DISEASE: MASA syndrome (MASA) [MIM:303350]: An X-linked recessive
+CC       syndrome with a highly variable clinical spectrum. Main clinical
+CC       features include spasticity and hyperreflexia of lower limbs, shuffling
+CC       gait, intellectual disability, aphasia and adducted thumbs. The
+CC       features of spasticity have been referred to as complicated spastic
+CC       paraplegia type 1 (SPG1). Some patients manifest corpus callosum
+CC       hypoplasia and hydrocephalus. Inter- and intrafamilial variability is
+CC       very wide, such that patients with hydrocephalus, MASA, SPG1, and
+CC       agenesis of corpus callosum can be present within the same family.
+CC       {ECO:0000269|PubMed:10797421, ECO:0000269|PubMed:10805190,
+CC       ECO:0000269|PubMed:11857550, ECO:0000269|PubMed:16816908,
+CC       ECO:0000269|PubMed:19846429, ECO:0000269|PubMed:22344793,
+CC       ECO:0000269|PubMed:22973895, ECO:0000269|PubMed:24155914,
+CC       ECO:0000269|PubMed:26891472, ECO:0000269|PubMed:7562969,
+CC       ECO:0000269|PubMed:7762552, ECO:0000269|PubMed:7881431,
+CC       ECO:0000269|PubMed:7920659, ECO:0000269|PubMed:7920660,
+CC       ECO:0000269|PubMed:8556302, ECO:0000269|PubMed:9268105,
+CC       ECO:0000269|PubMed:9300653, ECO:0000269|PubMed:9452110,
+CC       ECO:0000269|PubMed:9521424, ECO:0000269|PubMed:9744477,
+CC       ECO:0000269|PubMed:9832035}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Note=Defects in L1CAM may contribute to Hirschsprung disease
+CC       by modifying the effects of Hirschsprung disease-associated genes to
+CC       cause intestinal aganglionosis. {ECO:0000269|PubMed:11857550}.
+CC   -!- DISEASE: Agenesis of the corpus callosum, X-linked, partial (ACCPX)
+CC       [MIM:304100]: A syndrome characterized by partial corpus callosum
+CC       agenesis, hypoplasia of inferior vermis and cerebellum, intellectual
+CC       disability, seizures and spasticity. Other features include
+CC       microcephaly, unusual facies, and Hirschsprung disease in some
+CC       patients. {ECO:0000269|PubMed:16650080}. Note=The disease is caused by
+CC       variants affecting the gene represented in this entry.
+CC   -!- DISEASE: Note=Defects in L1CAM are associated with a wide phenotypic
+CC       spectrum which varies from severe hydrocephalus and prenatal death
+CC       (HYCX) to a milder phenotype (MASA). These variations may even occur
+CC       within the same family. Due to the overlap of phenotypes between HYCX
+CC       and MASA, many authors use the general concept of L1 syndrome which
+CC       covers both ends of the spectrum. {ECO:0000269|PubMed:19846429,
+CC       ECO:0000269|PubMed:22222883, ECO:0000269|PubMed:26891472}.
+CC   -!- SIMILARITY: Belongs to the immunoglobulin superfamily.
+CC       L1/neurofascin/NgCAM family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/44110/L1CAM";
+CC   -!- WEB RESOURCE: Name=L1CAM; Note=L1CAM mutation Web Page;
+CC       URL="http://www.l1cammutationdatabase.info/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X59847; CAA42508.1; -; mRNA.
+DR   EMBL; M77640; AAC14352.1; -; mRNA.
+DR   EMBL; M74387; AAA59476.1; -; mRNA.
+DR   EMBL; U52111; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; Z29373; CAA82564.1; -; Genomic_DNA.
+DR   EMBL; EF506611; ABP88252.1; -; mRNA.
+DR   EMBL; U52112; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471172; EAW72787.1; -; Genomic_DNA.
+DR   EMBL; BC025843; AAH25843.1; -; mRNA.
+DR   EMBL; BC126229; AAI26230.1; -; mRNA.
+DR   EMBL; BC136447; AAI36448.1; -; mRNA.
+DR   EMBL; M55271; AAA36353.1; ALT_SEQ; mRNA.
+DR   EMBL; X58775; CAA41576.1; -; Genomic_DNA.
+DR   EMBL; X58776; CAB37831.1; -; mRNA.
+DR   CCDS; CCDS14733.1; -. [P32004-1]
+DR   CCDS; CCDS14734.1; -. [P32004-2]
+DR   CCDS; CCDS48192.1; -. [P32004-3]
+DR   PIR; A41060; A41060.
+DR   RefSeq; NP_000416.1; NM_000425.4. [P32004-1]
+DR   RefSeq; NP_001137435.1; NM_001143963.2. [P32004-3]
+DR   RefSeq; NP_001265045.1; NM_001278116.1. [P32004-1]
+DR   RefSeq; NP_076493.1; NM_024003.3. [P32004-2]
+DR   PDB; 8AFO; X-ray; 1.99 A; A=712-917.
+DR   PDB; 8AFP; X-ray; 3.00 A; A=712-917.
+DR   PDBsum; 8AFO; -.
+DR   PDBsum; 8AFP; -.
+DR   AlphaFoldDB; P32004; -.
+DR   SASBDB; P32004; -.
+DR   SMR; P32004; -.
+DR   BioGRID; 110094; 59.
+DR   CORUM; P32004; -.
+DR   ELM; P32004; -.
+DR   IntAct; P32004; 11.
+DR   MINT; P32004; -.
+DR   STRING; 9606.ENSP00000359077; -.
+DR   DrugBank; DB00898; Ethanol.
+DR   GlyConnect; 1547; 18 N-Linked glycans (4 sites).
+DR   GlyCosmos; P32004; 21 sites, 21 glycans.
+DR   GlyGen; P32004; 22 sites, 20 N-linked glycans (4 sites), 1 O-linked glycan (1 site).
+DR   iPTMnet; P32004; -.
+DR   PhosphoSitePlus; P32004; -.
+DR   SwissPalm; P32004; -.
+DR   BioMuta; L1CAM; -.
+DR   DMDM; 1705571; -.
+DR   EPD; P32004; -.
+DR   jPOST; P32004; -.
+DR   MassIVE; P32004; -.
+DR   MaxQB; P32004; -.
+DR   PaxDb; P32004; -.
+DR   PeptideAtlas; P32004; -.
+DR   ProteomicsDB; 33733; -.
+DR   ProteomicsDB; 54830; -. [P32004-1]
+DR   ProteomicsDB; 54831; -. [P32004-2]
+DR   ABCD; P32004; 16 sequenced antibodies.
+DR   Antibodypedia; 449; 1332 antibodies from 45 providers.
+DR   DNASU; 3897; -.
+DR   Ensembl; ENST00000361699.8; ENSP00000355380.4; ENSG00000198910.14. [P32004-2]
+DR   Ensembl; ENST00000361981.7; ENSP00000354712.3; ENSG00000198910.14. [P32004-3]
+DR   Ensembl; ENST00000370055.5; ENSP00000359072.1; ENSG00000198910.14. [P32004-3]
+DR   Ensembl; ENST00000370060.7; ENSP00000359077.1; ENSG00000198910.14. [P32004-1]
+DR   GeneID; 3897; -.
+DR   KEGG; hsa:3897; -.
+DR   MANE-Select; ENST00000370060.7; ENSP00000359077.1; NM_001278116.2; NP_001265045.1.
+DR   UCSC; uc004fjc.5; human. [P32004-1]
+DR   AGR; HGNC:6470; -.
+DR   CTD; 3897; -.
+DR   DisGeNET; 3897; -.
+DR   GeneCards; L1CAM; -.
+DR   GeneReviews; L1CAM; -.
+DR   HGNC; HGNC:6470; L1CAM.
+DR   HPA; ENSG00000198910; Tissue enhanced (brain, intestine).
+DR   MalaCards; L1CAM; -.
+DR   MIM; 303350; phenotype.
+DR   MIM; 304100; phenotype.
+DR   MIM; 307000; phenotype.
+DR   MIM; 308840; gene.
+DR   neXtProt; NX_P32004; -.
+DR   OpenTargets; ENSG00000198910; -.
+DR   Orphanet; 2182; Hydrocephalus with stenosis of the aqueduct of Sylvius.
+DR   Orphanet; 2466; MASA syndrome.
+DR   Orphanet; 1497; X-linked complicated corpus callosum dysgenesis.
+DR   Orphanet; 306617; X-linked complicated spastic paraplegia type 1.
+DR   PharmGKB; PA30259; -.
+DR   VEuPathDB; HostDB:ENSG00000198910; -.
+DR   eggNOG; KOG3513; Eukaryota.
+DR   GeneTree; ENSGT00940000157506; -.
+DR   HOGENOM; CLU_005756_1_1_1; -.
+DR   InParanoid; P32004; -.
+DR   OMA; GARTIIQ; -.
+DR   OrthoDB; 2912783at2759; -.
+DR   PhylomeDB; P32004; -.
+DR   TreeFam; TF351098; -.
+DR   PathwayCommons; P32004; -.
+DR   Reactome; R-HSA-210991; Basigin interactions.
+DR   Reactome; R-HSA-373760; L1CAM interactions.
+DR   Reactome; R-HSA-437239; Recycling pathway of L1.
+DR   Reactome; R-HSA-445095; Interaction between L1 and Ankyrins.
+DR   Reactome; R-HSA-445144; Signal transduction by L1.
+DR   SignaLink; P32004; -.
+DR   SIGNOR; P32004; -.
+DR   BioGRID-ORCS; 3897; 8 hits in 771 CRISPR screens.
+DR   ChiTaRS; L1CAM; human.
+DR   GeneWiki; L1_(protein); -.
+DR   GenomeRNAi; 3897; -.
+DR   Pharos; P32004; Tbio.
+DR   PRO; PR:P32004; -.
+DR   Proteomes; UP000005640; Chromosome X.
+DR   RNAct; P32004; protein.
+DR   Bgee; ENSG00000198910; Expressed in cortical plate and 160 other tissues.
+DR   ExpressionAtlas; P32004; baseline and differential.
+DR   Genevisible; P32004; HS.
+DR   GO; GO:0030424; C:axon; IDA:UniProtKB.
+DR   GO; GO:0044295; C:axonal growth cone; ISS:UniProtKB.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0062023; C:collagen-containing extracellular matrix; HDA:BHF-UCL.
+DR   GO; GO:0030425; C:dendrite; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005925; C:focal adhesion; HDA:UniProtKB.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0008046; F:axon guidance receptor activity; IBA:GO_Central.
+DR   GO; GO:0019904; F:protein domain specific binding; IDA:CAFA.
+DR   GO; GO:0061564; P:axon development; IDA:UniProtKB.
+DR   GO; GO:0007411; P:axon guidance; IDA:UniProtKB.
+DR   GO; GO:0007155; P:cell adhesion; NAS:ProtInc.
+DR   GO; GO:0016477; P:cell migration; IDA:UniProtKB.
+DR   GO; GO:0007160; P:cell-matrix adhesion; IDA:UniProtKB.
+DR   GO; GO:0006935; P:chemotaxis; TAS:BHF-UCL.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IBA:GO_Central.
+DR   GO; GO:0007399; P:nervous system development; TAS:ProtInc.
+DR   GO; GO:0031175; P:neuron projection development; IDA:UniProtKB.
+DR   GO; GO:0045773; P:positive regulation of axon extension; ISS:UniProtKB.
+DR   GO; GO:0050808; P:synapse organization; IDA:UniProtKB.
+DR   CDD; cd00063; FN3; 4.
+DR   CDD; cd05876; Ig3_L1-CAM; 1.
+DR   CDD; cd05867; Ig4_L1-CAM_like; 1.
+DR   CDD; cd05845; IgI_2_L1-CAM_like; 1.
+DR   DisProt; DP00666; -.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 10.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR036116; FN3_sf.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR013098; Ig_I-set.
+DR   InterPro; IPR003599; Ig_sub.
+DR   InterPro; IPR003598; Ig_sub2.
+DR   InterPro; IPR026966; Neurofascin/L1/NrCAM_C.
+DR   PANTHER; PTHR44170:SF6; PROTEIN SAX-3; 1.
+DR   PANTHER; PTHR44170; PROTEIN SIDEKICK; 1.
+DR   Pfam; PF13882; Bravo_FIGEY; 1.
+DR   Pfam; PF00041; fn3; 4.
+DR   Pfam; PF07679; I-set; 3.
+DR   Pfam; PF13927; Ig_3; 2.
+DR   SMART; SM00060; FN3; 4.
+DR   SMART; SM00409; IG; 6.
+DR   SMART; SM00408; IGc2; 5.
+DR   SUPFAM; SSF49265; Fibronectin type III; 2.
+DR   SUPFAM; SSF48726; Immunoglobulin; 6.
+DR   PROSITE; PS50853; FN3; 5.
+DR   PROSITE; PS50835; IG_LIKE; 6.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell adhesion; Cell membrane;
+KW   Cell projection; Developmental protein; Differentiation;
+KW   Direct protein sequencing; Disease variant; Disulfide bond; Glycoprotein;
+KW   Hereditary spastic paraplegia; Hirschsprung disease; Immunoglobulin domain;
+KW   Intellectual disability; Membrane; Neurodegeneration; Neurogenesis;
+KW   Phosphoprotein; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..19
+FT                   /evidence="ECO:0000269|PubMed:3136168"
+FT   CHAIN           20..1257
+FT                   /note="Neural cell adhesion molecule L1"
+FT                   /id="PRO_0000015022"
+FT   TOPO_DOM        20..1120
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        1121..1143
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1144..1257
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          35..125
+FT                   /note="Ig-like C2-type 1"
+FT   DOMAIN          139..226
+FT                   /note="Ig-like C2-type 2"
+FT   DOMAIN          240..328
+FT                   /note="Ig-like C2-type 3"
+FT   DOMAIN          333..420
+FT                   /note="Ig-like C2-type 4"
+FT   DOMAIN          425..507
+FT                   /note="Ig-like C2-type 5"
+FT   DOMAIN          518..607
+FT                   /note="Ig-like C2-type 6"
+FT   DOMAIN          615..712
+FT                   /note="Fibronectin type-III 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          717..810
+FT                   /note="Fibronectin type-III 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          814..916
+FT                   /note="Fibronectin type-III 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          920..1015
+FT                   /note="Fibronectin type-III 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1016..1115
+FT                   /note="Fibronectin type-III 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   REGION          698..725
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1176..1207
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1226..1257
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           554..556
+FT                   /note="Cell attachment site"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         1163
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983"
+FT   MOD_RES         1178
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P11627"
+FT   MOD_RES         1181
+FT                   /note="Phosphoserine; by CaMK2"
+FT                   /evidence="ECO:0000269|PubMed:8592152"
+FT   MOD_RES         1194
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         1243
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1244
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P11627"
+FT   MOD_RES         1248
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   CARBOHYD        100
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        203
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        247
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        294
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        433
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        479
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        490
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        505
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        588
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        671
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16335952,
+FT                   ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        726
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        777
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        825
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        849
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        876
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        979
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1022
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1030
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1071
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1105
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        57..114
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   DISULFID        158..209
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   DISULFID        264..312
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   DISULFID        354..404
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   DISULFID        448..497
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   DISULFID        539..591
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   VAR_SEQ         26..31
+FT                   /note="YEGHHV -> L (in isoform 3)"
+FT                   /evidence="ECO:0000303|Ref.6"
+FT                   /id="VSP_046317"
+FT   VAR_SEQ         1177..1180
+FT                   /note="Missing (in isoform 2 and isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:1627459, ECO:0000303|Ref.6"
+FT                   /id="VSP_002591"
+FT   VARIANT         9
+FT                   /note="W -> S (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:7762552"
+FT                   /id="VAR_003921"
+FT   VARIANT         26..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078350"
+FT   VARIANT         30
+FT                   /note="H -> N"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030403"
+FT   VARIANT         37
+FT                   /note="I -> N (probable disease-associated variant found in
+FT                   L1 syndrome; loss of localization at the cell surface;
+FT                   retention in the endoplasmic reticulum; loss of homophilic
+FT                   interactions at the cell surface)"
+FT                   /evidence="ECO:0000269|PubMed:19846429,
+FT                   ECO:0000269|PubMed:26891472"
+FT                   /id="VAR_078351"
+FT   VARIANT         38
+FT                   /note="T -> M (no effect on localization at the cell
+FT                   surface; dbSNP:rs201151358)"
+FT                   /evidence="ECO:0000269|PubMed:19846429,
+FT                   ECO:0000269|PubMed:26891472"
+FT                   /id="VAR_078352"
+FT   VARIANT         66..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078353"
+FT   VARIANT         109..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078354"
+FT   VARIANT         120
+FT                   /note="L -> V (no effect on axon guidance activity, nor on
+FT                   synapse formation, when assayed in a heterologous system;
+FT                   dbSNP:rs796052697)"
+FT                   /evidence="ECO:0000269|PubMed:24155914"
+FT                   /id="VAR_078355"
+FT   VARIANT         121
+FT                   /note="G -> S (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:7762552"
+FT                   /id="VAR_003922"
+FT   VARIANT         133..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078356"
+FT   VARIANT         138..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078357"
+FT   VARIANT         172
+FT                   /note="M -> I (probable disease-associated variant found in
+FT                   a patient with L1 syndrome; loss of homophilic interactions
+FT                   at the cell surface; no effect on the localization at the
+FT                   cell surface)"
+FT                   /evidence="ECO:0000269|PubMed:19846429,
+FT                   ECO:0000269|PubMed:26891472"
+FT                   /id="VAR_078358"
+FT   VARIANT         179
+FT                   /note="I -> S (in HYCX and MASA; dbSNP:rs137852523)"
+FT                   /evidence="ECO:0000269|PubMed:19846429,
+FT                   ECO:0000269|PubMed:7562969"
+FT                   /id="VAR_003923"
+FT   VARIANT         184
+FT                   /note="R -> G (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078359"
+FT   VARIANT         184
+FT                   /note="R -> Q (in HYCX; severe; reduced axon arborization;
+FT                   partial loss of localization at the cell surface; retention
+FT                   in the endoplasmic reticulum; in neurons, restricted to
+FT                   cell bodies and proximal segments of processes; loss of
+FT                   axon guidance and of proper synapse formation, when assayed
+FT                   in a heterologous system; dbSNP:rs137852521)"
+FT                   /evidence="ECO:0000269|PubMed:19846429,
+FT                   ECO:0000269|PubMed:20621658, ECO:0000269|PubMed:24155914,
+FT                   ECO:0000269|PubMed:7920659, ECO:0000269|PubMed:8556302,
+FT                   ECO:0000269|PubMed:9195224"
+FT                   /id="VAR_003924"
+FT   VARIANT         184
+FT                   /note="R -> W (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030404"
+FT   VARIANT         187..198
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078360"
+FT   VARIANT         194
+FT                   /note="Y -> C (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:8929944"
+FT                   /id="VAR_003925"
+FT   VARIANT         202
+FT                   /note="D -> Y (in MASA; loss of homophilic interactions at
+FT                   the cell surface; no effect on localization at the cell
+FT                   surface)"
+FT                   /evidence="ECO:0000269|PubMed:10805190,
+FT                   ECO:0000269|PubMed:19846429, ECO:0000269|PubMed:26891472"
+FT                   /id="VAR_030405"
+FT   VARIANT         210
+FT                   /note="H -> Q (in MASA; decrease in cell-matrix adhesion;
+FT                   decreased cell migration; loss of axon guidance and of
+FT                   proper synapse formation, when assayed in a heterologous
+FT                   system; no effect on the localization at the cell surface;
+FT                   no effect on cell proliferation, when transfected in
+FT                   pheochromocytoma PC12 cells; no effect on neurite
+FT                   outgrowth, when assayed in NGF-treated pheochromocytoma
+FT                   PC12 cells; dbSNP:rs28933683)"
+FT                   /evidence="ECO:0000269|PubMed:22973895,
+FT                   ECO:0000269|PubMed:24155914, ECO:0000269|PubMed:7920659,
+FT                   ECO:0000269|PubMed:7920660, ECO:0000269|PubMed:8556302"
+FT                   /id="VAR_003926"
+FT   VARIANT         219
+FT                   /note="I -> T (in HYCX; decrease in cell-matrix adhesion;
+FT                   decreased cell migration; no effect on the localization at
+FT                   the cell surface; no effect on cell proliferation, when
+FT                   transfected in pheochromocytoma PC12 cells; no effect on
+FT                   neurite outgrowth, when assayed in NGF-treated
+FT                   pheochromocytoma PC12 cells)"
+FT                   /evidence="ECO:0000269|PubMed:22973895,
+FT                   ECO:0000269|PubMed:9744477"
+FT                   /id="VAR_003927"
+FT   VARIANT         240
+FT                   /note="P -> L (in HYCX and ACCPX; dbSNP:rs137852526)"
+FT                   /evidence="ECO:0000269|PubMed:16650080,
+FT                   ECO:0000269|PubMed:8929944"
+FT                   /id="VAR_003928"
+FT   VARIANT         254
+FT                   /note="A -> D (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078361"
+FT   VARIANT         264
+FT                   /note="C -> Y (in HYCX; severe; loss of localization to the
+FT                   cell surface; retention in the endoplasmic reticulum; loss
+FT                   of axon guidance, when assayed in a heterologous system;
+FT                   dbSNP:rs137852518)"
+FT                   /evidence="ECO:0000269|PubMed:12514225,
+FT                   ECO:0000269|PubMed:22973895, ECO:0000269|PubMed:24155914,
+FT                   ECO:0000269|PubMed:8401576, ECO:0000269|PubMed:8556302"
+FT                   /id="VAR_003929"
+FT   VARIANT         268
+FT                   /note="G -> D (in MASA)"
+FT                   /evidence="ECO:0000269|PubMed:9300653"
+FT                   /id="VAR_030406"
+FT   VARIANT         276
+FT                   /note="W -> R (probable disease-associated variant found in
+FT                   L1 syndrome; dbSNP:rs1131691900)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078362"
+FT   VARIANT         309
+FT                   /note="E -> K (in MASA; decrease in neurite outgrowth, when
+FT                   assayed in NGF-treated pheochromocytoma PC12 cells;
+FT                   decrease in cell-matrix adhesion; decreased cell migration;
+FT                   no effect on axon guidance, on subcellular location to
+FT                   synaptic terminals, nor on proper synapse formation, when
+FT                   assayed in a heterologous system; no effect on the
+FT                   localization at the cell surface; no effect on cell
+FT                   proliferation, when transfected in pheochromocytoma PC12
+FT                   cells; dbSNP:rs367665974)"
+FT                   /evidence="ECO:0000269|PubMed:22973895,
+FT                   ECO:0000269|PubMed:24155914, ECO:0000269|PubMed:7762552"
+FT                   /id="VAR_003930"
+FT   VARIANT         313
+FT                   /note="L -> P (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078363"
+FT   VARIANT         335
+FT                   /note="W -> C (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030407"
+FT   VARIANT         335
+FT                   /note="W -> R (in HYCX and MASA; also in a patient with
+FT                   hydrocephalus and Hirschsprung disease)"
+FT                   /evidence="ECO:0000269|PubMed:19846429,
+FT                   ECO:0000269|PubMed:9744477"
+FT                   /id="VAR_003931"
+FT   VARIANT         366..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078364"
+FT   VARIANT         369
+FT                   /note="N -> K (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078365"
+FT   VARIANT         370
+FT                   /note="G -> R (in HYCX and MASA; dbSNP:rs137852524)"
+FT                   /evidence="ECO:0000269|PubMed:10797421,
+FT                   ECO:0000269|PubMed:7562969"
+FT                   /id="VAR_003932"
+FT   VARIANT         386
+FT                   /note="R -> C (in HYCX; dbSNP:rs1557092299)"
+FT                   /evidence="ECO:0000269|PubMed:9744477"
+FT                   /id="VAR_003933"
+FT   VARIANT         408
+FT                   /note="N -> I (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030408"
+FT   VARIANT         415
+FT                   /note="A -> P (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:12435569,
+FT                   ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_027512"
+FT   VARIANT         421
+FT                   /note="V -> D (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030409"
+FT   VARIANT         423..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078366"
+FT   VARIANT         426
+FT                   /note="A -> D (in MASA)"
+FT                   /evidence="ECO:0000269|PubMed:9300653"
+FT                   /id="VAR_030410"
+FT   VARIANT         439..443
+FT                   /note="Missing (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:9195224"
+FT                   /id="VAR_003934"
+FT   VARIANT         452
+FT                   /note="G -> R (in HYCX; severe; dbSNP:rs137852520)"
+FT                   /evidence="ECO:0000269|PubMed:7920659,
+FT                   ECO:0000269|PubMed:8556302"
+FT                   /id="VAR_003935"
+FT   VARIANT         473
+FT                   /note="R -> C (in HYCX and MASA; dbSNP:rs886039408)"
+FT                   /evidence="ECO:0000269|PubMed:9744477"
+FT                   /id="VAR_003936"
+FT   VARIANT         480
+FT                   /note="G -> R (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078367"
+FT   VARIANT         482
+FT                   /note="L -> P (in MASA; dbSNP:rs1064794246)"
+FT                   /evidence="ECO:0000269|PubMed:9268105"
+FT                   /id="VAR_030411"
+FT   VARIANT         497
+FT                   /note="C -> Y (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030412"
+FT   VARIANT         516
+FT                   /note="D -> N (found in a patient with L1 syndrome; unknown
+FT                   pathological significance; dbSNP:rs782367931)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078368"
+FT   VARIANT         516
+FT                   /note="D -> Y (found in a patient with L1 syndrome; unknown
+FT                   pathological significance)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078369"
+FT   VARIANT         525
+FT                   /note="R -> H (found in a patient with L1 syndrome; unknown
+FT                   pathological significance; dbSNP:rs782401498)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078370"
+FT   VARIANT         526
+FT                   /note="Missing (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:9268105"
+FT                   /id="VAR_030413"
+FT   VARIANT         542
+FT                   /note="S -> P (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:9268105"
+FT                   /id="VAR_030414"
+FT   VARIANT         598
+FT                   /note="D -> N (in MASA; dbSNP:rs137852519)"
+FT                   /evidence="ECO:0000269|PubMed:7920660,
+FT                   ECO:0000269|PubMed:8556302"
+FT                   /id="VAR_003937"
+FT   VARIANT         627
+FT                   /note="T -> M (in dbSNP:rs398123360)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078371"
+FT   VARIANT         632
+FT                   /note="R -> P (in MASA)"
+FT                   /evidence="ECO:0000269|PubMed:9452110"
+FT                   /id="VAR_003938"
+FT   VARIANT         635
+FT                   /note="W -> C (probable disease-associated variant found in
+FT                   L1 syndrome; loss of localization at the cell surface;
+FT                   retention in the endoplasmic reticulum; loss of transport
+FT                   into axons; loss of neurite outgrowth; loss of cell-cell
+FT                   adhesion)"
+FT                   /evidence="ECO:0000269|PubMed:22222883"
+FT                   /id="VAR_078372"
+FT   VARIANT         645
+FT                   /note="I -> P (probable disease-associated variant found in
+FT                   L1 syndrome; requires 2 nucleotide substitutions)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078373"
+FT   VARIANT         655
+FT                   /note="K -> E (in HYCX; dbSNP:rs1375788131)"
+FT                   /evidence="ECO:0000269|PubMed:9118141"
+FT                   /id="VAR_030415"
+FT   VARIANT         662..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078374"
+FT   VARIANT         674
+FT                   /note="S -> C (in MASA; associated with callosal agenesis)"
+FT                   /evidence="ECO:0000269|PubMed:9832035"
+FT                   /id="VAR_027513"
+FT   VARIANT         691
+FT                   /note="A -> D (in MASA; associated with callosal agenesis)"
+FT                   /evidence="ECO:0000269|PubMed:9521424,
+FT                   ECO:0000269|PubMed:9832035"
+FT                   /id="VAR_003939"
+FT   VARIANT         691
+FT                   /note="A -> T (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030416"
+FT   VARIANT         698
+FT                   /note="G -> R (in HYCX and MASA; associated with callosal
+FT                   agenesis; also found in a patient affected by hydrocephalus
+FT                   with Hirschsprung disease; dbSNP:rs886039409)"
+FT                   /evidence="ECO:0000269|PubMed:22344793,
+FT                   ECO:0000269|PubMed:9521424, ECO:0000269|PubMed:9832035"
+FT                   /id="VAR_003940"
+FT   VARIANT         714
+FT                   /note="P -> S (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078375"
+FT   VARIANT         739
+FT                   /note="R -> W (in dbSNP:rs142424573)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030417"
+FT   VARIANT         741
+FT                   /note="M -> T (in HYCX; dbSNP:rs1557091083)"
+FT                   /evidence="ECO:0000269|PubMed:9268105"
+FT                   /id="VAR_030418"
+FT   VARIANT         751
+FT                   /note="R -> P (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030419"
+FT   VARIANT         752
+FT                   /note="V -> M (in HYCX and MASA; also found in a patient
+FT                   with the diagnosis of L1 syndrome; also in a patient with
+FT                   hydrocephalus and Hirschsprung disease; dbSNP:rs137852525)"
+FT                   /evidence="ECO:0000269|PubMed:11857550,
+FT                   ECO:0000269|PubMed:19846429, ECO:0000269|PubMed:9268105"
+FT                   /id="VAR_014421"
+FT   VARIANT         754
+FT                   /note="W -> R (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078376"
+FT   VARIANT         760..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078377"
+FT   VARIANT         768
+FT                   /note="V -> F (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:7762552"
+FT                   /id="VAR_003941"
+FT   VARIANT         768
+FT                   /note="V -> I (decreased cell-cell adhesion; no effect on
+FT                   subcellular localization; no effect on neurite outgrowth;
+FT                   dbSNP:rs36021462)"
+FT                   /evidence="ECO:0000269|PubMed:22222883,
+FT                   ECO:0000269|PubMed:9268105"
+FT                   /id="VAR_030420"
+FT   VARIANT         770
+FT                   /note="D -> N (in MASA; associated with callosal agenesis;
+FT                   dbSNP:rs148516831)"
+FT                   /evidence="ECO:0000269|PubMed:16816908"
+FT                   /id="VAR_027514"
+FT   VARIANT         784
+FT                   /note="Y -> C (in HYCX; dbSNP:rs797045674)"
+FT                   /evidence="ECO:0000269|PubMed:9195224"
+FT                   /id="VAR_003942"
+FT   VARIANT         789..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429,
+FT                   ECO:0000269|PubMed:26891472"
+FT                   /id="VAR_078378"
+FT   VARIANT         811..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078379"
+FT   VARIANT         891..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078380"
+FT   VARIANT         901..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078381"
+FT   VARIANT         935
+FT                   /note="L -> P (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:9521424"
+FT                   /id="VAR_003943"
+FT   VARIANT         936..948
+FT                   /note="Missing (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:9195224"
+FT                   /id="VAR_003944"
+FT   VARIANT         941
+FT                   /note="P -> L (in HYCX and MASA; decrease in neurite
+FT                   outgrowth, when assayed in NGF-treated pheochromocytoma
+FT                   PC12 cells; decrease in cell-matrix adhesion; decreased
+FT                   cell migration; no effect on the localization at the cell
+FT                   surface; no effect on cell proliferation, when transfected
+FT                   in pheochromocytoma PC12 cells)"
+FT                   /evidence="ECO:0000269|PubMed:22973895,
+FT                   ECO:0000269|PubMed:7762552"
+FT                   /id="VAR_003945"
+FT   VARIANT         958
+FT                   /note="L -> V (in dbSNP:rs35902890)"
+FT                   /id="VAR_059413"
+FT   VARIANT         1036
+FT                   /note="W -> L (in HYCX; partial loss of localization at the
+FT                   cell surface; retention in the endoplasmic reticulum; in
+FT                   neurons, partial loss of localization to axons, but
+FT                   enriched on proximal dendrites)"
+FT                   /evidence="ECO:0000269|PubMed:20621658"
+FT                   /id="VAR_078382"
+FT   VARIANT         1064..1257
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078383"
+FT   VARIANT         1070
+FT                   /note="Y -> C (in HYCX; partial loss of axon guidance and
+FT                   loss of proper synapse formation, when assayed in a
+FT                   heterologous system)"
+FT                   /evidence="ECO:0000269|PubMed:24155914,
+FT                   ECO:0000269|PubMed:7762552"
+FT                   /id="VAR_003946"
+FT   VARIANT         1071
+FT                   /note="Missing (probable disease-associated variant found
+FT                   in L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078384"
+FT   VARIANT         1080
+FT                   /note="L -> Q (probable disease-associated variant found in
+FT                   L1 syndrome)"
+FT                   /evidence="ECO:0000269|PubMed:19846429"
+FT                   /id="VAR_078385"
+FT   VARIANT         1194
+FT                   /note="S -> L (in HYCX and MASA; dbSNP:rs137852522)"
+FT                   /evidence="ECO:0000269|PubMed:7881431,
+FT                   ECO:0000269|PubMed:8556302"
+FT                   /id="VAR_003947"
+FT   VARIANT         1224
+FT                   /note="S -> L (in HYCX)"
+FT                   /evidence="ECO:0000269|PubMed:9744477"
+FT                   /id="VAR_003948"
+FT   VARIANT         1239
+FT                   /note="G -> E"
+FT                   /evidence="ECO:0000269|PubMed:10797421"
+FT                   /id="VAR_030421"
+FT   MUTAGEN         1147..1153
+FT                   /note="KGGKYSV->AGGAASA: Loss of axon guidance, when
+FT                   assayed in a heterologous system, but normal synapse
+FT                   formation."
+FT                   /evidence="ECO:0000269|PubMed:24155914"
+FT   CONFLICT        4
+FT                   /note="A -> V (in Ref. 1; CAA42508)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        216
+FT                   /note="T -> I (in Ref. 1; CAA42508)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        250
+FT                   /note="S -> T (in Ref. 1; CAA42508)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        276..277
+FT                   /note="WL -> SV (in Ref. 1; CAA42508)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        288
+FT                   /note="V -> A (in Ref. 6; ABP88252)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        357
+FT                   /note="Q -> E (in Ref. 1; CAA42508)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        515
+FT                   /note="K -> T (in Ref. 6; ABP88252)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        626
+FT                   /note="L -> V (in Ref. 1; CAA42508)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        660
+FT                   /note="E -> G (in Ref. 6; ABP88252)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        936
+FT                   /note="L -> V (in Ref. 12; CAB37831)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1116..1117
+FT                   /note="GF -> WLC (in Ref. 13; no nucleotide entry)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1164
+FT                   /note="E -> V (in Ref. 6; ABP88252)"
+FT                   /evidence="ECO:0000305"
+FT   MOD_RES         P32004-2:1177
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         P32004-3:1172
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+SQ   SEQUENCE   1257 AA;  140003 MW;  5EDD764DA86C0E63 CRC64;
+     MVVALRYVWP LLLCSPCLLI QIPEEYEGHH VMEPPVITEQ SPRRLVVFPT DDISLKCEAS
+     GKPEVQFRWT RDGVHFKPKE ELGVTVYQSP HSGSFTITGN NSNFAQRFQG IYRCFASNKL
+     GTAMSHEIRL MAEGAPKWPK ETVKPVEVEE GESVVLPCNP PPSAEPLRIY WMNSKILHIK
+     QDERVTMGQN GNLYFANVLT SDNHSDYICH AHFPGTRTII QKEPIDLRVK ATNSMIDRKP
+     RLLFPTNSSS HLVALQGQPL VLECIAEGFP TPTIKWLRPS GPMPADRVTY QNHNKTLQLL
+     KVGEEDDGEY RCLAENSLGS ARHAYYVTVE AAPYWLHKPQ SHLYGPGETA RLDCQVQGRP
+     QPEVTWRING IPVEELAKDQ KYRIQRGALI LSNVQPSDTM VTQCEARNRH GLLLANAYIY
+     VVQLPAKILT ADNQTYMAVQ GSTAYLLCKA FGAPVPSVQW LDEDGTTVLQ DERFFPYANG
+     TLGIRDLQAN DTGRYFCLAA NDQNNVTIMA NLKVKDATQI TQGPRSTIEK KGSRVTFTCQ
+     ASFDPSLQPS ITWRGDGRDL QELGDSDKYF IEDGRLVIHS LDYSDQGNYS CVASTELDVV
+     ESRAQLLVVG SPGPVPRLVL SDLHLLTQSQ VRVSWSPAED HNAPIEKYDI EFEDKEMAPE
+     KWYSLGKVPG NQTSTTLKLS PYVHYTFRVT AINKYGPGEP SPVSETVVTP EAAPEKNPVD
+     VKGEGNETTN MVITWKPLRW MDWNAPQVQY RVQWRPQGTR GPWQEQIVSD PFLVVSNTST
+     FVPYEIKVQA VNSQGKGPEP QVTIGYSGED YPQAIPELEG IEILNSSAVL VKWRPVDLAQ
+     VKGHLRGYNV TYWREGSQRK HSKRHIHKDH VVVPANTTSV ILSGLRPYSS YHLEVQAFNG
+     RGSGPASEFT FSTPEGVPGH PEALHLECQS NTSLLLRWQP PLSHNGVLTG YVLSYHPLDE
+     GGKGQLSFNL RDPELRTHNL TDLSPHLRYR FQLQATTKEG PGEAIVREGG TMALSGISDF
+     GNISATAGEN YSVVSWVPKE GQCNFRFHIL FKALGEEKGG ASLSPQYVSY NQSSYTQWDL
+     QPDTDYEIHL FKERMFRHQM AVKTNGTGRV RLPPAGFATE GWFIGFVSAI ILLLLVLLIL
+     CFIKRSKGGK YSVKDKEDTQ VDSEARPMKD ETFGEYRSLE SDNEEKAFGS SQPSLNGDIK
+     PLGSDDSLAD YGGSVDVQFN EDGSFIGQYS GKKEKEAAGG NDSSGATSPI NPAVALE
+//

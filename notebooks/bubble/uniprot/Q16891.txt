@@ -1,0 +1,548 @@
+ID   MIC60_HUMAN             Reviewed;         758 AA.
+AC   Q16891; B1H0U5; B2R5N6; Q14539; Q15092; Q68D41; Q69HW5; Q6IBL0; Q7Z3X1;
+AC   Q8TAJ5; Q9P0V2;
+DT   28-MAR-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   28-JUN-2023, entry version 198.
+DE   RecName: Full=MICOS complex subunit MIC60;
+DE   AltName: Full=Cell proliferation-inducing gene 4/52 protein;
+DE   AltName: Full=Mitochondrial inner membrane protein;
+DE   AltName: Full=Mitofilin;
+DE   AltName: Full=p87/89;
+DE   Flags: Precursor;
+GN   Name=IMMT; Synonyms=HMP, MIC60, MINOS2; ORFNames=PIG4, PIG52;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=8039717; DOI=10.1016/0378-1119(94)90394-8;
+RA   Icho T., Ikeda T., Matsumoto Y., Hanaoka F., Kaji K., Tsuchida N.;
+RT   "A novel human gene that is preferentially transcribed in heart muscle.";
+RL   Gene 144:301-306(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT SER-124.
+RX   PubMed=9168817; DOI=10.1006/excr.1997.3539;
+RA   Gieffers C., Korioth F., Heimann P., Ungermann C., Frey J.;
+RT   "Mitofilin is a transmembrane protein of the inner mitochondrial membrane
+RT   expressed as two isoforms.";
+RL   Exp. Cell Res. 232:395-399(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4).
+RA   Kim J.W., Kim H.K., Shin S.M.;
+RT   "Identification of a human cell proliferation gene.";
+RL   Submitted (FEB-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 159-758 (ISOFORM 3), AND VARIANT SER-124.
+RC   TISSUE=Colon endothelium, and Fetal liver;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Cervix, and Muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 85-101; 103-119; 123-130; 171-195; 223-229; 258-269;
+RP   287-297; 316-343; 345-366; 386-395; 428-436; 500-525; 548-564; 582-600;
+RP   624-632; 645-652 AND 720-726, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=B-cell lymphoma;
+RA   Bienvenut W.V.;
+RL   Submitted (APR-2005) to UniProtKB.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 144-758 (ISOFORM 1).
+RC   TISSUE=Mammary carcinoma;
+RA   Weidenmueller U., Tur M.K., Tawadros S., Engert A., Barth S.;
+RT   "Detection of membrane-associated proteins using serum of mice immunized
+RT   with membrane fractions of breast carcinoma cells.";
+RL   Submitted (MAY-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   PROTEIN SEQUENCE OF 354-366; 372-385; 517-525; 527-545; 548-564 AND
+RP   601-623, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Brain, Cajal-Retzius cell, and Fetal brain cortex;
+RA   Lubec G., Afjehi-Sadat L., Chen W.-Q., Sun Y.;
+RL   Submitted (DEC-2008) to UniProtKB.
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Lymphoblast;
+RX   PubMed=14654843; DOI=10.1038/nature02166;
+RA   Andersen J.S., Wilkinson C.J., Mayor T., Mortensen P., Nigg E.A., Mann M.;
+RT   "Proteomic characterization of the human centrosome by protein correlation
+RT   profiling.";
+RL   Nature 426:570-574(2003).
+RN   [12]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-211; LYS-222 AND LYS-451, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   INTERACTION WITH CHCHD3 AND OPA1.
+RX   PubMed=21081504; DOI=10.1074/jbc.m110.171975;
+RA   Darshi M., Mendiola V.L., Mackey M.R., Murphy A.N., Koller A.,
+RA   Perkins G.A., Ellisman M.H., Taylor S.S.;
+RT   "ChChd3, an inner mitochondrial membrane protein, is essential for
+RT   maintaining crista integrity and mitochondrial function.";
+RL   J. Biol. Chem. 286:2918-2932(2011).
+RN   [15]
+RP   IDENTIFICATION IN THE MICOS COMPLEX, AND FUNCTION.
+RX   PubMed=22114354; DOI=10.1091/mbc.e11-09-0774;
+RA   Alkhaja A.K., Jans D.C., Nikolov M., Vukotic M., Lytovchenko O.,
+RA   Ludewig F., Schliebs W., Riedel D., Urlaub H., Jakobs S., Deckers M.;
+RT   "MINOS1 is a conserved component of mitofilin complexes and required for
+RT   mitochondrial function and cristae organization.";
+RL   Mol. Biol. Cell 23:247-257(2012).
+RN   [16]
+RP   INTERACTION WITH CHCHD6.
+RX   PubMed=22228767; DOI=10.1074/jbc.m111.277103;
+RA   An J., Shi J., He Q., Lui K., Liu Y., Huang Y., Sheikh M.S.;
+RT   "CHCM1/CHCHD6, a novel mitochondrial protein linked to regulation of
+RT   mitofilin and mitochondrial cristae morphology.";
+RL   J. Biol. Chem. 287:7411-7426(2012).
+RN   [17]
+RP   IDENTIFICATION IN THE MIB COMPLEX.
+RX   PubMed=22252321; DOI=10.1128/mcb.06388-11;
+RA   Ott C., Ross K., Straub S., Thiede B., Gotz M., Goosmann C., Krischke M.,
+RA   Mueller M.J., Krohne G., Rudel T., Kozjak-Pavlovic V.;
+RT   "Sam50 functions in mitochondrial intermembrane space bridging and
+RT   biogenesis of respiratory complexes.";
+RL   Mol. Cell. Biol. 32:1173-1188(2012).
+RN   [18]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-112; SER-113 AND SER-388, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [19]
+RP   NOMENCLATURE.
+RX   PubMed=24687277; DOI=10.1083/jcb.201401006;
+RA   Pfanner N., van der Laan M., Amati P., Capaldi R.A., Caudy A.A.,
+RA   Chacinska A., Darshi M., Deckers M., Hoppins S., Icho T., Jakobs S., Ji J.,
+RA   Kozjak-Pavlovic V., Meisinger C., Odgren P.R., Park S.K., Rehling P.,
+RA   Reichert A.S., Sheikh M.S., Taylor S.S., Tsuchida N., van der Bliek A.M.,
+RA   van der Klei I.J., Weissman J.S., Westermann B., Zha J., Neupert W.,
+RA   Nunnari J.;
+RT   "Uniform nomenclature for the mitochondrial contact site and cristae
+RT   organizing system.";
+RL   J. Cell Biol. 204:1083-1086(2014).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-103 AND SER-390, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [21]
+RP   SUBCELLULAR LOCATION, AND INTERACTION WITH MICOS10; APOO AND APOOL.
+RX   PubMed=25764979; DOI=10.1016/j.bbamcr.2015.03.004;
+RA   Koob S., Barrera M., Anand R., Reichert A.S.;
+RT   "The non-glycosylated isoform of MIC26 is a constituent of the mammalian
+RT   MICOS complex and promotes formation of crista junctions.";
+RL   Biochim. Biophys. Acta 1853:1551-1563(2015).
+RN   [22]
+RP   IDENTIFICATION IN THE MICOS COMPLEX, SUBCELLULAR LOCATION, AND INTERACTION
+RP   WITH MICOS13; MICOS10; CHCHD3; CHCHD6; SAMM50 AND TMEM11.
+RX   PubMed=25997101; DOI=10.7554/elife.06265;
+RA   Guarani V., McNeill E.M., Paulo J.A., Huttlin E.L., Froehlich F.,
+RA   Gygi S.P., Van Vactor D., Harper J.W.;
+RT   "QIL1 is a novel mitochondrial protein required for MICOS complex stability
+RT   and cristae morphology.";
+RL   Elife 4:0-0(2015).
+RN   [23]
+RP   IDENTIFICATION IN THE MICOS AND MIB COMPLEX, FUNCTION, SUBCELLULAR
+RP   LOCATION, AND INTERACTION WITH APOO.
+RX   PubMed=25781180; DOI=10.1371/journal.pone.0120213;
+RA   Ott C., Dorsch E., Fraunholz M., Straub S., Kozjak-Pavlovic V.;
+RT   "Detailed analysis of the human mitochondrial contact site complex indicate
+RT   a hierarchy of subunits.";
+RL   PLoS ONE 10:E0120213-E0120213(2015).
+RN   [24]
+RP   CLEAVAGE OF TRANSIT PEPTIDE [LARGE SCALE ANALYSIS] AFTER TYR-33, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M., Ayoub D.,
+RA   Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [25]
+RP   INTERACTION WITH ARMC1.
+RX   PubMed=31644573; DOI=10.1371/journal.pone.0218303;
+RA   Wagner F., Kunz T.C., Chowdhury S.R., Thiede B., Fraunholz M., Eger D.,
+RA   Kozjak-Pavlovic V.;
+RT   "Armadillo repeat-containing protein 1 is a dual localization protein
+RT   associated with mitochondrial intermembrane space bridging complex.";
+RL   PLoS ONE 14:e0218303-e0218303(2019).
+RN   [26]
+RP   INTERACTION WITH HUMAN CYTOMEGALOVIRUS PROTEIN UL13 (MICROBIAL INFECTION).
+RX   PubMed=34344827; DOI=10.1073/pnas.2101675118;
+RA   Betsinger C.N., Jankowski C.S.R., Hofstadter W.A., Federspiel J.D.,
+RA   Otter C.J., Jean Beltran P.M., Cristea I.M.;
+RT   "The human cytomegalovirus protein pUL13 targets mitochondrial cristae
+RT   architecture to increase cellular respiration during infection.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 118:0-0(2021).
+CC   -!- FUNCTION: Component of the MICOS complex, a large protein complex of
+CC       the mitochondrial inner membrane that plays crucial roles in the
+CC       maintenance of crista junctions, inner membrane architecture, and
+CC       formation of contact sites to the outer membrane. Plays an important
+CC       role in the maintenance of the MICOS complex stability and the
+CC       mitochondrial cristae morphology (PubMed:22114354, PubMed:25781180).
+CC       {ECO:0000269|PubMed:22114354, ECO:0000269|PubMed:25781180}.
+CC   -!- SUBUNIT: Component of the mitochondrial contact site and cristae
+CC       organizing system (MICOS) complex, composed of at least MICOS10/MIC10,
+CC       CHCHD3/MIC19, CHCHD6/MIC25, APOOL/MIC27, IMMT/MIC60, APOO/MIC23/MIC26
+CC       and MICOS13/MIC13 (PubMed:25764979, PubMed:25781180). This complex was
+CC       also known under the names MINOS or MitOS complex. The MICOS complex
+CC       associates with mitochondrial outer membrane proteins SAMM50, MTX1 and
+CC       MTX2 (together described as components of the mitochondrial outer
+CC       membrane sorting assembly machinery (SAM) complex) and DNAJC11,
+CC       mitochondrial inner membrane protein TMEM11 and with HSPA9
+CC       (PubMed:25764979, PubMed:25781180). The MICOS and SAM complexes
+CC       together with DNAJC11 are part of a large protein complex spanning both
+CC       membranes termed the mitochondrial intermembrane space bridging (MIB)
+CC       complex (PubMed:22252321). Interacts with HSPA1A/HSPA1B and OPA1,
+CC       preferentially with the soluble OPA1 form (By similarity). Interacts
+CC       with MICOS13/MIC13, MICOS10/MIC10, CHCHD3/MIC19, CHCHD6/MIC25, SAMM50
+CC       and TMEM11 (PubMed:25997101). Interacts with APOO/MIC23/MIC26 and
+CC       APOOL/MIC27 (PubMed:25764979, PubMed:25781180). Interacts with ARMC1
+CC       (PubMed:31644573). Interacts with ARMC12 (By similarity).
+CC       {ECO:0000250|UniProtKB:Q8CAQ8, ECO:0000269|PubMed:21081504,
+CC       ECO:0000269|PubMed:22114354, ECO:0000269|PubMed:22228767,
+CC       ECO:0000269|PubMed:22252321, ECO:0000269|PubMed:25764979,
+CC       ECO:0000269|PubMed:25781180, ECO:0000269|PubMed:25997101,
+CC       ECO:0000269|PubMed:31644573}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with human cytomegalovirus
+CC       protein UL13; this interaction alters cristae architecture.
+CC       {ECO:0000269|PubMed:34344827}.
+CC   -!- INTERACTION:
+CC       Q16891; P54252: ATXN3; NbExp=4; IntAct=EBI-473801, EBI-946046;
+CC       Q16891; Q8WYQ3: CHCHD10; NbExp=4; IntAct=EBI-473801, EBI-16721660;
+CC       Q16891; Q9NRI5: DISC1; NbExp=3; IntAct=EBI-473801, EBI-529989;
+CC       Q16891; P42858: HTT; NbExp=7; IntAct=EBI-473801, EBI-466029;
+CC       Q16891; O60341: KDM1A; NbExp=2; IntAct=EBI-473801, EBI-710124;
+CC       Q16891; Q5VU43: PDE4DIP; NbExp=2; IntAct=EBI-473801, EBI-1105124;
+CC       Q16891; P08559: PDHA1; NbExp=4; IntAct=EBI-473801, EBI-715747;
+CC       Q16891-1; Q9NRI5-1: DISC1; NbExp=9; IntAct=EBI-11614103, EBI-15881455;
+CC       Q16891-1; Q9GZM8: NDEL1; NbExp=4; IntAct=EBI-11614103, EBI-928842;
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion inner membrane
+CC       {ECO:0000269|PubMed:25764979, ECO:0000269|PubMed:25997101}; Single-pass
+CC       membrane protein {ECO:0000255}. Mitochondrion
+CC       {ECO:0000269|PubMed:25781180}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=Q16891-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q16891-2; Sequence=VSP_013220;
+CC       Name=3;
+CC         IsoId=Q16891-3; Sequence=VSP_013221;
+CC       Name=4;
+CC         IsoId=Q16891-4; Sequence=VSP_047362;
+CC   -!- SIMILARITY: Belongs to the MICOS complex subunit Mic60 family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAH18389.1; Type=Erroneous termination; Note=Extended C-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D21091; BAA04653.1; -; mRNA.
+DR   EMBL; D21092; BAA04654.1; -; mRNA.
+DR   EMBL; D21093; BAA04655.1; -; mRNA.
+DR   EMBL; D21094; BAA04656.1; -; mRNA.
+DR   EMBL; L42572; AAA85336.1; -; mRNA.
+DR   EMBL; CR456793; CAG33074.1; -; mRNA.
+DR   EMBL; AK312251; BAG35183.1; -; mRNA.
+DR   EMBL; AY232292; AAP69987.1; -; mRNA.
+DR   EMBL; AY921637; AAX10024.1; -; mRNA.
+DR   EMBL; BX537369; CAD97612.1; -; mRNA.
+DR   EMBL; CR749590; CAH18389.1; ALT_TERM; mRNA.
+DR   EMBL; BC002412; AAH02412.1; -; mRNA.
+DR   EMBL; BC027458; AAH27458.1; -; mRNA.
+DR   EMBL; AF148646; AAF73126.1; -; mRNA.
+DR   CCDS; CCDS46355.1; -. [Q16891-1]
+DR   CCDS; CCDS46356.1; -. [Q16891-4]
+DR   CCDS; CCDS46357.1; -. [Q16891-2]
+DR   RefSeq; NP_001093639.1; NM_001100169.1. [Q16891-4]
+DR   RefSeq; NP_001093640.1; NM_001100170.1. [Q16891-2]
+DR   RefSeq; NP_006830.2; NM_006839.2. [Q16891-1]
+DR   RefSeq; XP_005264170.1; XM_005264113.1.
+DR   RefSeq; XP_016858683.1; XM_017003194.1.
+DR   AlphaFoldDB; Q16891; -.
+DR   SMR; Q16891; -.
+DR   BioGRID; 116185; 417.
+DR   ComplexPortal; CPX-6141; MICOS mitochondrial contact site and cristae organizing system complex.
+DR   CORUM; Q16891; -.
+DR   DIP; DIP-32517N; -.
+DR   IntAct; Q16891; 193.
+DR   MINT; Q16891; -.
+DR   STRING; 9606.ENSP00000387262; -.
+DR   ChEMBL; CHEMBL4105768; -.
+DR   TCDB; 9.B.216.1.4; the micos complex component, mic60 (mic60) family.
+DR   CarbonylDB; Q16891; -.
+DR   GlyGen; Q16891; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q16891; -.
+DR   MetOSite; Q16891; -.
+DR   PhosphoSitePlus; Q16891; -.
+DR   SwissPalm; Q16891; -.
+DR   BioMuta; IMMT; -.
+DR   DMDM; 29427676; -.
+DR   REPRODUCTION-2DPAGE; IPI00554469; -.
+DR   REPRODUCTION-2DPAGE; Q16891; -.
+DR   EPD; Q16891; -.
+DR   jPOST; Q16891; -.
+DR   MassIVE; Q16891; -.
+DR   MaxQB; Q16891; -.
+DR   PaxDb; Q16891; -.
+DR   PeptideAtlas; Q16891; -.
+DR   ProteomicsDB; 61129; -. [Q16891-1]
+DR   ProteomicsDB; 61130; -. [Q16891-2]
+DR   ProteomicsDB; 61131; -. [Q16891-3]
+DR   ABCD; Q16891; 1 sequenced antibody.
+DR   Antibodypedia; 32043; 391 antibodies from 35 providers.
+DR   DNASU; 10989; -.
+DR   Ensembl; ENST00000410111.8; ENSP00000387262.3; ENSG00000132305.22. [Q16891-1]
+DR   Ensembl; ENST00000442664.6; ENSP00000407788.2; ENSG00000132305.22. [Q16891-4]
+DR   Ensembl; ENST00000449247.6; ENSP00000396899.2; ENSG00000132305.22. [Q16891-2]
+DR   GeneID; 10989; -.
+DR   KEGG; hsa:10989; -.
+DR   MANE-Select; ENST00000410111.8; ENSP00000387262.3; NM_006839.3; NP_006830.2.
+DR   UCSC; uc002sqz.4; human. [Q16891-1]
+DR   AGR; HGNC:6047; -.
+DR   CTD; 10989; -.
+DR   DisGeNET; 10989; -.
+DR   GeneCards; IMMT; -.
+DR   HGNC; HGNC:6047; IMMT.
+DR   HPA; ENSG00000132305; Tissue enhanced (tongue).
+DR   MIM; 600378; gene.
+DR   neXtProt; NX_Q16891; -.
+DR   OpenTargets; ENSG00000132305; -.
+DR   PharmGKB; PA29858; -.
+DR   VEuPathDB; HostDB:ENSG00000132305; -.
+DR   eggNOG; KOG1854; Eukaryota.
+DR   GeneTree; ENSGT00390000002313; -.
+DR   InParanoid; Q16891; -.
+DR   OMA; WIKFREL; -.
+DR   OrthoDB; 2880104at2759; -.
+DR   PhylomeDB; Q16891; -.
+DR   TreeFam; TF312832; -.
+DR   PathwayCommons; Q16891; -.
+DR   Reactome; R-HSA-8949613; Cristae formation.
+DR   SignaLink; Q16891; -.
+DR   SIGNOR; Q16891; -.
+DR   BioGRID-ORCS; 10989; 171 hits in 1161 CRISPR screens.
+DR   ChiTaRS; IMMT; human.
+DR   GeneWiki; IMMT; -.
+DR   GenomeRNAi; 10989; -.
+DR   Pharos; Q16891; Tbio.
+DR   PRO; PR:Q16891; -.
+DR   Proteomes; UP000005640; Chromosome 2.
+DR   RNAct; Q16891; protein.
+DR   Bgee; ENSG00000132305; Expressed in heart left ventricle and 205 other tissues.
+DR   ExpressionAtlas; Q16891; baseline and differential.
+DR   Genevisible; Q16891; HS.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0140275; C:MIB complex; HDA:UniProtKB.
+DR   GO; GO:0061617; C:MICOS complex; IDA:UniProtKB.
+DR   GO; GO:0044284; C:mitochondrial crista junction; NAS:ComplexPortal.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IDA:UniProtKB.
+DR   GO; GO:0005758; C:mitochondrial intermembrane space; IEA:Ensembl.
+DR   GO; GO:0005739; C:mitochondrion; IDA:UniProtKB.
+DR   GO; GO:0001401; C:SAM complex; HDA:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0042407; P:cristae formation; IMP:UniProtKB.
+DR   GO; GO:0007007; P:inner mitochondrial membrane organization; IC:UniProtKB.
+DR   GO; GO:0051560; P:mitochondrial calcium ion homeostasis; IEA:Ensembl.
+DR   GO; GO:0070050; P:neuron cellular homeostasis; IEA:Ensembl.
+DR   InterPro; IPR019133; MIC60.
+DR   PANTHER; PTHR15415:SF7; MICOS COMPLEX SUBUNIT MIC60; 1.
+DR   PANTHER; PTHR15415; MITOFILIN; 1.
+DR   Pfam; PF09731; Mitofilin; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative splicing; Direct protein sequencing;
+KW   Host-virus interaction; Membrane; Mitochondrion;
+KW   Mitochondrion inner membrane; Phosphoprotein; Reference proteome;
+KW   Transit peptide; Transmembrane; Transmembrane helix.
+FT   TRANSIT         1..33
+FT                   /note="Mitochondrion"
+FT                   /evidence="ECO:0000255, ECO:0007744|PubMed:25944712"
+FT   CHAIN           34..758
+FT                   /note="MICOS complex subunit MIC60"
+FT                   /id="PRO_0000084184"
+FT   TOPO_DOM        34..45
+FT                   /note="Mitochondrial matrix"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        46..64
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        65..758
+FT                   /note="Mitochondrial intermembrane"
+FT                   /evidence="ECO:0000255"
+FT   REGION          116..143
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          162..200
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         103
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         112
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         113
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         211
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         222
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MOD_RES         223
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q3KR86"
+FT   MOD_RES         388
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         390
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         451
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   VAR_SEQ         142..152
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_013220"
+FT   VAR_SEQ         187..219
+FT                   /note="EEASSSSIRERPPEEVAARLAQQEKQEQVKIES -> A (in isoform
+FT                   3)"
+FT                   /evidence="ECO:0000303|PubMed:17974005"
+FT                   /id="VSP_013221"
+FT   VAR_SEQ         188
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|Ref.5"
+FT                   /id="VSP_047362"
+FT   VARIANT         124
+FT                   /note="P -> S (in dbSNP:rs1050301)"
+FT                   /evidence="ECO:0000269|PubMed:17974005,
+FT                   ECO:0000269|PubMed:9168817"
+FT                   /id="VAR_021530"
+FT   VARIANT         294
+FT                   /note="A -> V (in dbSNP:rs35233009)"
+FT                   /id="VAR_051068"
+FT   CONFLICT        144..151
+FT                   /note="EAAQIISA -> ARAPASLT (in Ref. 9; AAF73126)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        151
+FT                   /note="A -> S (in Ref. 3; CAG33074)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        154
+FT                   /note="D -> E (in Ref. 4; BAG35183)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        173
+FT                   /note="H -> Y (in Ref. 9; AAF73126)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        312
+FT                   /note="A -> T (in Ref. 9; AAF73126)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        325
+FT                   /note="T -> S (in Ref. 9; AAF73126)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        388..393
+FT                   /note="SVSDLA -> T (in Ref. 9; AAF73126)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        432
+FT                   /note="L -> S (in Ref. 6; CAH18389)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        449
+FT                   /note="V -> A (in Ref. 6; CAH18389)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        731
+FT                   /note="T -> A (in Ref. 6; CAH18389)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        758
+FT                   /note="E -> D (in Ref. 3; CAG33074)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   758 AA;  83678 MW;  357F25DCABB02E50 CRC64;
+     MLRACQLSGV TAAAQSCLCG KFVLRPLRPC RRYSTSGSSG LTTGKIAGAG LLFVGGGIGG
+     TILYAKWDSH FRESVEKTIP YSDKLFEMVL GPAAYNVPLP KKSIQSGPLK ISSVSEVMKE
+     SKQPASQLQK QKGDTPASAT APTEAAQIIS AAGDTLSVPA PAVQPEESLK TDHPEIGEGK
+     PTPALSEEAS SSSIRERPPE EVAARLAQQE KQEQVKIESL AKSLEDALRQ TASVTLQAIA
+     AQNAAVQAVN AHSNILKAAM DNSEIAGEKK SAQWRTVEGA LKERRKAVDE AADALLKAKE
+     ELEKMKSVIE NAKKKEVAGA KPHITAAEGK LHNMIVDLDN VVKKVQAAQS EAKVVSQYHE
+     LVVQARDDFK RELDSITPEV LPGWKGMSVS DLADKLSTDD LNSLIAHAHR RIDQLNRELA
+     EQKATEKQHI TLALEKQKLE EKRAFDSAVA KALEHHRSEI QAEQDRKIEE VRDAMENEMR
+     TQLRRQAAAH TDHLRDVLRV QEQELKSEFE QNLSEKLSEQ ELQFRRLSQE QVDNFTLDIN
+     TAYARLRGIE QAVQSHAVAE EEARKAHQLW LSVEALKYSM KTSSAETPTI PLGSAVEAIK
+     ANCSDNEFTQ ALTAAIPPES LTRGVYSEET LRARFYAVQK LARRVAMIDE TRNSLYQYFL
+     SYLQSLLLFP PQQLKPPPEL CPEDINTFKL LSYASYCIEH GDLELAAKFV NQLKGESRRV
+     AQDWLKEARM TLETKQIVEI LTAYASAVGI GTTQVQPE
+//

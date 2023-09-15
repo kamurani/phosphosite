@@ -1,0 +1,825 @@
+ID   FSCN1_HUMAN             Reviewed;         493 AA.
+AC   Q16658; A6NI89; B2RE97; Q96IC5; Q96IH1; Q9BRF1;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   28-JUN-2023, entry version 222.
+DE   RecName: Full=Fascin;
+DE   AltName: Full=55 kDa actin-bundling protein;
+DE   AltName: Full=Singed-like protein;
+DE   AltName: Full=p55;
+GN   Name=FSCN1; Synonyms=FAN1, HSN, SNL;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Teratocarcinoma;
+RX   PubMed=8068206; DOI=10.1089/dna.1994.13.821;
+RA   Duh F.-M., Latif F., Weng Y., Geil L., Modi W., Stackhouse T.,
+RA   Matsumura F., Duan D.R., Linehan W.M., Lerman M.I., Gnarra J.R.;
+RT   "cDNA cloning and expression of the human homolog of the sea urchin fascin
+RT   and Drosophila singed genes which encodes an actin-bundling protein.";
+RL   DNA Cell Biol. 13:821-827(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=7933116; DOI=10.1128/jvi.68.11.7320-7328.1994;
+RA   Mosialos G., Yamashiro S., Baughman R.W., Matsudaira P., Vara L.,
+RA   Matsumura F., Kieff E., Birkenbach M.;
+RT   "Epstein-Barr virus infection induces expression in B lymphocytes of a
+RT   novel gene encoding an evolutionarily conserved 55-kilodalton actin-
+RT   bundling protein.";
+RL   J. Virol. 68:7320-7328(1994).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Bros M., Ross X.L., Reske-Kunz A.B., Ross R.;
+RT   "Human fascin gene sequence.";
+RL   Submitted (JUL-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, Eye, Lung, and Muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 2-32; 44-63; 69-82; 111-149; 159-185; 202-217; 230-241;
+RP   248-271; 314-341; 409-426 AND 469-493, CLEAVAGE OF INITIATOR METHIONINE,
+RP   ACETYLATION AT THR-2, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Ovarian carcinoma;
+RA   Bienvenut W.V.;
+RL   Submitted (JAN-2010) to UniProtKB.
+RN   [10]
+RP   PROTEIN SEQUENCE OF 119-149; 202-217; 230-241; 314-330 AND 380-389, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Brain, Cajal-Retzius cell, and Fetal brain cortex;
+RA   Lubec G., Afjehi-Sadat L., Chen W.-Q., Sun Y.;
+RL   Submitted (DEC-2008) to UniProtKB.
+RN   [11]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=3525578; DOI=10.1083/jcb.103.2.631;
+RA   Yamashiro-Matsumura S., Matsumura F.;
+RT   "Intracellular localization of the 55-kD actin-bundling protein in cultured
+RT   cells: spatial relationships with actin, alpha-actinin, tropomyosin, and
+RT   fimbrin.";
+RL   J. Cell Biol. 103:631-640(1986).
+RN   [12]
+RP   PHOSPHORYLATION.
+RX   PubMed=8647875; DOI=10.1074/jbc.271.21.12632;
+RA   Yamakita Y., Ono S., Matsumura F., Yamashiro S.;
+RT   "Phosphorylation of human fascin inhibits its actin binding and bundling
+RT   activities.";
+RL   J. Biol. Chem. 271:12632-12638(1996).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=9362073; DOI=10.1091/mbc.8.11.2345;
+RA   Adams J.C.;
+RT   "Characterization of cell-matrix adhesion requirements for the formation of
+RT   fascin microspikes.";
+RL   Mol. Biol. Cell 8:2345-2363(1997).
+RN   [14]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=9571235; DOI=10.1091/mbc.9.5.993;
+RA   Yamashiro S., Yamakita Y., Ono S., Matsumura F.;
+RT   "Fascin, an actin-bundling protein, induces membrane protrusions and
+RT   increases cell motility of epithelial cells.";
+RL   Mol. Biol. Cell 9:993-1006(1998).
+RN   [15]
+RP   PHOSPHORYLATION AT SER-39, AND MUTAGENESIS OF SER-39.
+RX   PubMed=8999969; DOI=10.1074/jbc.272.4.2527;
+RA   Ono S., Yamakita Y., Yamashiro S., Matsudaira P.T., Gnarra J.R.,
+RA   Obinata T., Matsumura F.;
+RT   "Identification of an actin binding region and a protein kinase C
+RT   phosphorylation site on human fascin.";
+RL   J. Biol. Chem. 272:2527-2533(1997).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-38, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [17]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=20137952; DOI=10.1016/j.cub.2009.12.035;
+RA   Li A., Dawson J.C., Forero-Vargas M., Spence H.J., Yu X., Konig I.,
+RA   Anderson K., Machesky L.M.;
+RT   "The actin-bundling protein fascin stabilizes actin in invadopodia and
+RT   potentiates protrusive invasion.";
+RL   Curr. Biol. 20:339-345(2010).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [19]
+RP   FUNCTION, MUTAGENESIS OF 36-SER--SER-39, AND PHOSPHORYLATION.
+RX   PubMed=22155786; DOI=10.1126/scisignal.2002060;
+RA   Deinhardt K., Kim T., Spellman D.S., Mains R.E., Eipper B.A., Neubert T.A.,
+RA   Chao M.V., Hempstead B.L.;
+RT   "Neuronal growth cone retraction relies on proneurotrophin receptor
+RT   signaling through Rac.";
+RL   Sci. Signal. 4:RA82-RA82(2011).
+RN   [20]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [21]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT THR-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.m111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C., Meinnel T.,
+RA   Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [22]
+RP   INTERACTION WITH PLXNB3, AND SUBCELLULAR LOCATION.
+RX   PubMed=21706053; DOI=10.1038/onc.2011.256;
+RA   Li X., Law J.W., Lee A.Y.;
+RT   "Semaphorin 5A and plexin-B3 regulate human glioma cell motility and
+RT   morphology through Rac1 and the actin cytoskeleton.";
+RL   Oncogene 31:595-610(2012).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-127; SER-234 AND THR-239, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [24]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [25]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-399, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [26]
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS), AND DOMAIN.
+RX   PubMed=20434460; DOI=10.1016/j.jmb.2010.04.043;
+RA   Sedeh R.S., Fedorov A.A., Fedorov E.V., Ono S., Matsumura F., Almo S.C.,
+RA   Bathe M.;
+RT   "Structure, evolutionary conservation, and conformational dynamics of Homo
+RT   sapiens fascin-1, an F-actin crosslinking protein.";
+RL   J. Mol. Biol. 400:589-604(2010).
+RN   [27] {ECO:0007744|PDB:3LLP}
+RP   X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS), FUNCTION, DOMAIN, AND MUTAGENESIS
+RP   OF HIS-392; LYS-471 AND ALA-488.
+RX   PubMed=20393565; DOI=10.1038/nature08978;
+RA   Chen L., Yang S., Jakoncic J., Zhang J.J., Huang X.Y.;
+RT   "Migrastatin analogues target fascin to block tumour metastasis.";
+RL   Nature 464:1062-1066(2010).
+RN   [28]
+RP   ERRATUM OF PUBMED:20393565, AND RETRACTION NOTICE OF PUBMED:20393565 OF TWO
+RP   3D-STRUCTURES.
+RX   DOI=10.1038/nature10281;
+RA   Chen L., Yang S., Jakoncic J., Zhang J.J., Huang X.Y.;
+RL   Nature 476:0-0(2011).
+RN   [29] {ECO:0007744|PDB:3P53}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS), FUNCTION, DOMAIN, SUBCELLULAR
+RP   LOCATION, AND MUTAGENESIS OF LYS-22; LYS-43; ARG-100; ARG-109;
+RP   150-LYS-LYS-151; LYS-247; ARG-271; LYS-313; ARG-341; ARG-348; LYS-353;
+RP   LYS-358; ARG-398 AND LYS-464.
+RX   PubMed=21685497; DOI=10.1074/jbc.m111.251439;
+RA   Jansen S., Collins A., Yang C., Rebowski G., Svitkina T., Dominguez R.;
+RT   "Mechanism of actin filament bundling by fascin.";
+RL   J. Biol. Chem. 286:30087-30096(2011).
+RN   [30] {ECO:0007744|PDB:4GOV, ECO:0007744|PDB:4GOY, ECO:0007744|PDB:4GP0, ECO:0007744|PDB:4GP3}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS), FUNCTION, AND MUTAGENESIS OF
+RP   PHE-29; SER-39; 149-ARG--ARG-151; 247-LYS--LYS-250 AND LYS-358.
+RX   PubMed=23184945; DOI=10.1074/jbc.m112.427971;
+RA   Yang S., Huang F.K., Huang J., Chen S., Jakoncic J., Leo-Macias A.,
+RA   Diaz-Avalos R., Chen L., Zhang J.J., Huang X.Y.;
+RT   "Molecular mechanism of fascin function in filopodial formation.";
+RL   J. Biol. Chem. 288:274-284(2013).
+CC   -!- FUNCTION: Actin-binding protein that contains 2 major actin binding
+CC       sites (PubMed:21685497, PubMed:23184945). Organizes filamentous actin
+CC       into parallel bundles (PubMed:20393565, PubMed:21685497,
+CC       PubMed:23184945). Plays a role in the organization of actin filament
+CC       bundles and the formation of microspikes, membrane ruffles, and stress
+CC       fibers (PubMed:22155786). Important for the formation of a diverse set
+CC       of cell protrusions, such as filopodia, and for cell motility and
+CC       migration (PubMed:20393565, PubMed:21685497, PubMed:23184945). Mediates
+CC       reorganization of the actin cytoskeleton and axon growth cone collapse
+CC       in response to NGF (PubMed:22155786). {ECO:0000269|PubMed:20137952,
+CC       ECO:0000269|PubMed:20393565, ECO:0000269|PubMed:21685497,
+CC       ECO:0000269|PubMed:22155786, ECO:0000269|PubMed:23184945,
+CC       ECO:0000269|PubMed:9362073, ECO:0000269|PubMed:9571235}.
+CC   -!- SUBUNIT: Interacts with RUFY3 (via N-terminus); the interaction induces
+CC       neuron axon development (By similarity). Interacts with NGFR (By
+CC       similarity). Associates with CTNNB1 (By similarity). Interacts with
+CC       PLXNB3 (PubMed:21706053). {ECO:0000250|UniProtKB:P85845,
+CC       ECO:0000250|UniProtKB:Q61553, ECO:0000269|PubMed:21706053}.
+CC   -!- INTERACTION:
+CC       Q16658; Q9BXW9: FANCD2; NbExp=6; IntAct=EBI-351076, EBI-359343;
+CC       Q16658; P40692: MLH1; NbExp=7; IntAct=EBI-351076, EBI-744248;
+CC       Q16658; Q9ULL4: PLXNB3; NbExp=2; IntAct=EBI-351076, EBI-311073;
+CC       Q16658; P63104: YWHAZ; NbExp=3; IntAct=EBI-351076, EBI-347088;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cytosol {ECO:0000269|PubMed:21706053,
+CC       ECO:0000269|PubMed:9571235}. Cytoplasm, cell cortex
+CC       {ECO:0000269|PubMed:21685497}. Cytoplasm, cytoskeleton
+CC       {ECO:0000269|PubMed:21685497, ECO:0000269|PubMed:3525578,
+CC       ECO:0000269|PubMed:9571235}. Cytoplasm, cytoskeleton, stress fiber
+CC       {ECO:0000269|PubMed:21706053}. Cell projection, filopodium
+CC       {ECO:0000269|PubMed:20137952, ECO:0000269|PubMed:21685497,
+CC       ECO:0000269|PubMed:3525578}. Cell projection, invadopodium
+CC       {ECO:0000269|PubMed:20137952}. Cell projection, microvillus
+CC       {ECO:0000269|PubMed:9571235}. Cell junction
+CC       {ECO:0000269|PubMed:9571235}. Note=Colocalized with RUFY3 and F-actin
+CC       at filipodia of the axonal growth cone. Colocalized with DBN1 and F-
+CC       actin at the transitional domain of the axonal growth cone (By
+CC       similarity). {ECO:0000250|UniProtKB:Q61553,
+CC       ECO:0000269|PubMed:21706053}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous.
+CC   -!- DOMAIN: Composed of four fascin beta-trefoil domains.
+CC       {ECO:0000269|PubMed:20393565, ECO:0000269|PubMed:20434460,
+CC       ECO:0000269|PubMed:21685497, ECO:0000269|PubMed:23184945}.
+CC   -!- PTM: Phosphorylation at Ser-39 inhibits actin-binding (PubMed:8647875,
+CC       PubMed:8999969). Phosphorylation is required for the reorganization of
+CC       the actin cytoskeleton in response to NGF (PubMed:22155786).
+CC       {ECO:0000269|PubMed:22155786, ECO:0000269|PubMed:8647875,
+CC       ECO:0000269|PubMed:8999969}.
+CC   -!- SIMILARITY: Belongs to the fascin family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH07539.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/44342/FSCN1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U03057; AAA86442.1; -; mRNA.
+DR   EMBL; U09873; AAA62201.1; -; mRNA.
+DR   EMBL; AY044229; AAL01526.1; -; Genomic_DNA.
+DR   EMBL; AK316607; BAG38194.1; -; mRNA.
+DR   EMBL; BT006636; AAP35282.1; -; mRNA.
+DR   EMBL; AC006483; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471144; EAW87346.1; -; Genomic_DNA.
+DR   EMBL; BC000521; AAH00521.1; -; mRNA.
+DR   EMBL; BC006304; AAH06304.1; -; mRNA.
+DR   EMBL; BC007539; AAH07539.1; ALT_INIT; mRNA.
+DR   EMBL; BC007643; AAH07643.1; -; mRNA.
+DR   EMBL; BC007948; AAH07948.1; -; mRNA.
+DR   EMBL; BC007988; AAH07988.1; -; mRNA.
+DR   CCDS; CCDS5342.1; -.
+DR   PIR; I38621; I38621.
+DR   RefSeq; NP_003079.1; NM_003088.3.
+DR   PDB; 1DFC; X-ray; 2.90 A; A/B=1-493.
+DR   PDB; 3LLP; X-ray; 1.80 A; A/B=1-493.
+DR   PDB; 3P53; X-ray; 2.00 A; A/B=1-493.
+DR   PDB; 4GOV; X-ray; 2.20 A; A/B=1-493.
+DR   PDB; 4GOY; X-ray; 2.30 A; A/B=1-493.
+DR   PDB; 4GP0; X-ray; 2.50 A; A/B=1-493.
+DR   PDB; 4GP3; X-ray; 2.25 A; A/B=1-493.
+DR   PDB; 6B0T; X-ray; 2.80 A; A/B/C/D/E/F=7-493.
+DR   PDB; 6I0Z; X-ray; 1.77 A; A/B=1-493.
+DR   PDB; 6I10; X-ray; 2.10 A; A=1-493.
+DR   PDB; 6I11; X-ray; 1.67 A; A=1-493.
+DR   PDB; 6I12; X-ray; 1.65 A; A=1-493.
+DR   PDB; 6I13; X-ray; 1.79 A; A=1-493.
+DR   PDB; 6I14; X-ray; 1.73 A; A=1-493.
+DR   PDB; 6I15; X-ray; 1.91 A; A=1-493.
+DR   PDB; 6I16; X-ray; 2.00 A; A=1-493.
+DR   PDB; 6I17; X-ray; 1.56 A; A=1-493.
+DR   PDB; 6I18; X-ray; 1.49 A; A=1-493.
+DR   PDBsum; 1DFC; -.
+DR   PDBsum; 3LLP; -.
+DR   PDBsum; 3P53; -.
+DR   PDBsum; 4GOV; -.
+DR   PDBsum; 4GOY; -.
+DR   PDBsum; 4GP0; -.
+DR   PDBsum; 4GP3; -.
+DR   PDBsum; 6B0T; -.
+DR   PDBsum; 6I0Z; -.
+DR   PDBsum; 6I10; -.
+DR   PDBsum; 6I11; -.
+DR   PDBsum; 6I12; -.
+DR   PDBsum; 6I13; -.
+DR   PDBsum; 6I14; -.
+DR   PDBsum; 6I15; -.
+DR   PDBsum; 6I16; -.
+DR   PDBsum; 6I17; -.
+DR   PDBsum; 6I18; -.
+DR   AlphaFoldDB; Q16658; -.
+DR   SMR; Q16658; -.
+DR   BioGRID; 112508; 281.
+DR   DIP; DIP-33171N; -.
+DR   IntAct; Q16658; 55.
+DR   MINT; Q16658; -.
+DR   STRING; 9606.ENSP00000371798; -.
+DR   BindingDB; Q16658; -.
+DR   ChEMBL; CHEMBL4523304; -.
+DR   GlyGen; Q16658; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q16658; -.
+DR   MetOSite; Q16658; -.
+DR   PhosphoSitePlus; Q16658; -.
+DR   SwissPalm; Q16658; -.
+DR   BioMuta; FSCN1; -.
+DR   DMDM; 2498357; -.
+DR   REPRODUCTION-2DPAGE; IPI00163187; -.
+DR   REPRODUCTION-2DPAGE; Q16658; -.
+DR   UCD-2DPAGE; Q16658; -.
+DR   CPTAC; CPTAC-1403; -.
+DR   CPTAC; CPTAC-1404; -.
+DR   CPTAC; CPTAC-1405; -.
+DR   CPTAC; CPTAC-1406; -.
+DR   CPTAC; CPTAC-373; -.
+DR   CPTAC; CPTAC-709; -.
+DR   EPD; Q16658; -.
+DR   jPOST; Q16658; -.
+DR   MassIVE; Q16658; -.
+DR   MaxQB; Q16658; -.
+DR   PaxDb; Q16658; -.
+DR   PeptideAtlas; Q16658; -.
+DR   ProteomicsDB; 61017; -.
+DR   ABCD; Q16658; 1 sequenced antibody.
+DR   Antibodypedia; 1483; 971 antibodies from 45 providers.
+DR   CPTC; Q16658; 4 antibodies.
+DR   DNASU; 6624; -.
+DR   Ensembl; ENST00000382361.8; ENSP00000371798.3; ENSG00000075618.18.
+DR   GeneID; 6624; -.
+DR   KEGG; hsa:6624; -.
+DR   MANE-Select; ENST00000382361.8; ENSP00000371798.3; NM_003088.4; NP_003079.1.
+DR   UCSC; uc003sou.4; human.
+DR   AGR; HGNC:11148; -.
+DR   CTD; 6624; -.
+DR   DisGeNET; 6624; -.
+DR   GeneCards; FSCN1; -.
+DR   HGNC; HGNC:11148; FSCN1.
+DR   HPA; ENSG00000075618; Low tissue specificity.
+DR   MIM; 602689; gene.
+DR   neXtProt; NX_Q16658; -.
+DR   OpenTargets; ENSG00000075618; -.
+DR   PharmGKB; PA128394534; -.
+DR   VEuPathDB; HostDB:ENSG00000075618; -.
+DR   eggNOG; ENOG502QPRX; Eukaryota.
+DR   GeneTree; ENSGT00950000183157; -.
+DR   HOGENOM; CLU_030960_2_0_1; -.
+DR   InParanoid; Q16658; -.
+DR   OMA; YNKLAIR; -.
+DR   OrthoDB; 5484756at2759; -.
+DR   PhylomeDB; Q16658; -.
+DR   TreeFam; TF323992; -.
+DR   PathwayCommons; Q16658; -.
+DR   Reactome; R-HSA-6785807; Interleukin-4 and Interleukin-13 signaling.
+DR   SignaLink; Q16658; -.
+DR   SIGNOR; Q16658; -.
+DR   BioGRID-ORCS; 6624; 8 hits in 1158 CRISPR screens.
+DR   ChiTaRS; FSCN1; human.
+DR   EvolutionaryTrace; Q16658; -.
+DR   GeneWiki; FSCN1; -.
+DR   GenomeRNAi; 6624; -.
+DR   Pharos; Q16658; Tchem.
+DR   PRO; PR:Q16658; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q16658; protein.
+DR   Bgee; ENSG00000075618; Expressed in stromal cell of endometrium and 185 other tissues.
+DR   ExpressionAtlas; Q16658; baseline and differential.
+DR   Genevisible; Q16658; HS.
+DR   GO; GO:0015629; C:actin cytoskeleton; IDA:UniProtKB.
+DR   GO; GO:0005938; C:cell cortex; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031253; C:cell projection membrane; IDA:UniProtKB.
+DR   GO; GO:0005911; C:cell-cell junction; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005856; C:cytoskeleton; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0030175; C:filopodium; IDA:UniProtKB.
+DR   GO; GO:0030426; C:growth cone; ISS:UniProtKB.
+DR   GO; GO:0030027; C:lamellipodium; ISS:UniProtKB.
+DR   GO; GO:0044393; C:microspike; IDA:UniProtKB.
+DR   GO; GO:0005902; C:microvillus; IDA:UniProtKB.
+DR   GO; GO:0002102; C:podosome; IDA:UniProtKB.
+DR   GO; GO:0001726; C:ruffle; IDA:UniProtKB.
+DR   GO; GO:0001725; C:stress fiber; IDA:UniProtKB.
+DR   GO; GO:0003779; F:actin binding; IDA:UniProtKB.
+DR   GO; GO:0051015; F:actin filament binding; IDA:UniProtKB.
+DR   GO; GO:0045296; F:cadherin binding; HDA:BHF-UCL.
+DR   GO; GO:0030674; F:protein-macromolecule adaptor activity; IEA:InterPro.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0030036; P:actin cytoskeleton organization; IDA:UniProtKB.
+DR   GO; GO:0051017; P:actin filament bundle assembly; IDA:UniProtKB.
+DR   GO; GO:0016477; P:cell migration; IMP:UniProtKB.
+DR   GO; GO:0048870; P:cell motility; IDA:UniProtKB.
+DR   GO; GO:0007043; P:cell-cell junction assembly; IDA:UniProtKB.
+DR   GO; GO:0035089; P:establishment of apical/basal cell polarity; IDA:UniProtKB.
+DR   GO; GO:0007163; P:establishment or maintenance of cell polarity; IBA:GO_Central.
+DR   GO; GO:0030035; P:microspike assembly; IDA:UniProtKB.
+DR   GO; GO:0030046; P:parallel actin filament bundle assembly; IDA:UniProtKB.
+DR   GO; GO:0090091; P:positive regulation of extracellular matrix disassembly; IDA:UniProtKB.
+DR   GO; GO:0051491; P:positive regulation of filopodium assembly; IDA:UniProtKB.
+DR   GO; GO:0010592; P:positive regulation of lamellipodium assembly; IDA:UniProtKB.
+DR   GO; GO:0071803; P:positive regulation of podosome assembly; IDA:UniProtKB.
+DR   GO; GO:0032956; P:regulation of actin cytoskeleton organization; IDA:UniProtKB.
+DR   GO; GO:0032534; P:regulation of microvillus assembly; IDA:UniProtKB.
+DR   CDD; cd00257; Fascin; 4.
+DR   Gene3D; 2.80.10.50; -; 4.
+DR   InterPro; IPR008999; Actin-crosslinking.
+DR   InterPro; IPR010431; Fascin.
+DR   InterPro; IPR022768; Fascin-domain.
+DR   InterPro; IPR024703; Fascin_metazoans.
+DR   PANTHER; PTHR10551; FASCIN; 1.
+DR   PANTHER; PTHR10551:SF23; FASCIN; 1.
+DR   Pfam; PF06268; Fascin; 4.
+DR   PIRSF; PIRSF005682; Fascin; 1.
+DR   SUPFAM; SSF50405; Actin-crosslinking proteins; 4.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Actin-binding; Cell junction; Cell projection;
+KW   Cytoplasm; Cytoskeleton; Direct protein sequencing; Isopeptide bond;
+KW   Phosphoprotein; Reference proteome; Ubl conjugation.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|Ref.9, ECO:0007744|PubMed:22223895"
+FT   CHAIN           2..493
+FT                   /note="Fascin"
+FT                   /id="PRO_0000219379"
+FT   MOD_RES         2
+FT                   /note="N-acetylthreonine"
+FT                   /evidence="ECO:0000269|Ref.9, ECO:0007744|PubMed:22223895"
+FT   MOD_RES         38
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         39
+FT                   /note="Phosphoserine; by PKC"
+FT                   /evidence="ECO:0000269|PubMed:8999969,
+FT                   ECO:0000305|PubMed:22155786"
+FT   MOD_RES         74
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q61553"
+FT   MOD_RES         127
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         234
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         239
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         403
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:P85845"
+FT   CROSSLNK        399
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447"
+FT   MUTAGEN         22
+FT                   /note="K->E: Decreased actin-binding and loss of
+FT                   actin-bundling activity; when associated with E-43 and
+FT                   E-398. Decreased actin-binding and loss of actin-bundling
+FT                   activity; when associated with E-43; E-100 and E-109."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         29
+FT                   /note="F->A: Strongly decreases actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:23184945"
+FT   MUTAGEN         36..39
+FT                   /note="SASS->AAAA: Abolishes axon growth cone collapse in
+FT                   response to NGF."
+FT                   /evidence="ECO:0000269|PubMed:22155786"
+FT   MUTAGEN         39
+FT                   /note="S->A: Loss of phosphorylation."
+FT                   /evidence="ECO:0000269|PubMed:8999969"
+FT   MUTAGEN         39
+FT                   /note="S->D: Phosphomimetic mutant that strongly decreases
+FT                   actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:23184945"
+FT   MUTAGEN         43
+FT                   /note="K->E: Decreased actin-binding and loss of
+FT                   actin-bundling activity; when associated with E-22 and
+FT                   E-398. Decreased actin-binding and loss of actin-bundling
+FT                   activity; when associated with E-22; E-100 and E-109."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         49
+FT                   /note="E->A: Strongly decreases actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:23184945"
+FT   MUTAGEN         100
+FT                   /note="R->E: Mildly decreased actin-binding and
+FT                   actin-bundling activity; when associated with E-109 and
+FT                   E-247. Decreased actin-binding and loss of actin-bundling
+FT                   activity; when associated with E-22; E-43 and E-109."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         109
+FT                   /note="R->E: Mildly decreased actin-binding and
+FT                   actin-bundling activity; when associated with E-100 and
+FT                   E-247. Decreased actin-binding and loss of actin-bundling
+FT                   activity; when associated with E-22; E-43 and E-100."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         149..151
+FT                   /note="RKR->AAA: Strongly decreases actin-bundling
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:23184945"
+FT   MUTAGEN         150..151
+FT                   /note="KR->EE: No significant effect on actin-binding and
+FT                   actin-bundling activity; when associated with E-313."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         247..250
+FT                   /note="KVGK->AVGA: Decreases actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:23184945"
+FT   MUTAGEN         247
+FT                   /note="K->E: Mildly decreased actin-binding and
+FT                   actin-bundling activity; when associated with E-100 and
+FT                   E-109."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         271
+FT                   /note="R->E: Decreased actin-binding and actin-bundling
+FT                   activity; when associated with E-353 and E-358."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         313
+FT                   /note="K->E: No significant effect on actin-binding and
+FT                   actin-bundling activity; when associated with 150-E-E-151."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         341
+FT                   /note="R->E: No significant effect on actin-binding and
+FT                   actin-bundling activity; when associated with E-348 and
+FT                   Q-464."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         348
+FT                   /note="R->E: No significant effect on actin-binding and
+FT                   actin-bundling activity; when associated with E-341 and
+FT                   Q-464."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         353
+FT                   /note="K->E: Decreased actin-binding and actin-bundling
+FT                   activity; when associated with E-271 and E-358."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         358
+FT                   /note="K->A: Strongly decreases actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:23184945"
+FT   MUTAGEN         358
+FT                   /note="K->E: Decreased actin-binding and actin-bundling
+FT                   activity; when associated with E-271 and E-353."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         392
+FT                   /note="H->A: Decreased actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:20393565"
+FT   MUTAGEN         398
+FT                   /note="R->E: Decreased actin-binding and loss of
+FT                   actin-bundling activity; when associated with E-22 and
+FT                   E-43."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         464
+FT                   /note="K->Q: No significant effect on actin-binding and
+FT                   actin-bundling activity; when associated with E-341 and
+FT                   E-348."
+FT                   /evidence="ECO:0000269|PubMed:21685497"
+FT   MUTAGEN         471
+FT                   /note="K->A: Decreased actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:20393565"
+FT   MUTAGEN         488
+FT                   /note="A->W: Decreased actin-bundling activity."
+FT                   /evidence="ECO:0000269|PubMed:20393565"
+FT   CONFLICT        440
+FT                   /note="A -> V (in Ref. 8; AAH06304)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          14..17
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          23..26
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          28..31
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          33..39
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           42..44
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          46..49
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           53..55
+FT                   /evidence="ECO:0007829|PDB:3P53"
+FT   STRAND          60..64
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          65..67
+FT                   /evidence="ECO:0007829|PDB:6B0T"
+FT   STRAND          69..72
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          78..84
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           87..89
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          91..95
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          97..99
+FT                   /evidence="ECO:0007829|PDB:1DFC"
+FT   STRAND          101..105
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   TURN            106..108
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          111..113
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          120..125
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           128..130
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          132..138
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          140..146
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   TURN            147..150
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          151..155
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          158..160
+FT                   /evidence="ECO:0007829|PDB:6I13"
+FT   STRAND          162..169
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           173..175
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          177..181
+FT                   /evidence="ECO:0007829|PDB:3LLP"
+FT   STRAND          183..189
+FT                   /evidence="ECO:0007829|PDB:3LLP"
+FT   STRAND          202..205
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           208..210
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          212..217
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          220..224
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          230..234
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   TURN            235..238
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          239..242
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           250..252
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          254..258
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          261..266
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   TURN            268..270
+FT                   /evidence="ECO:0007829|PDB:6I10"
+FT   STRAND          272..275
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          278..280
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          282..286
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           290..292
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          294..298
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   TURN            300..302
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          305..308
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   TURN            310..312
+FT                   /evidence="ECO:0007829|PDB:1DFC"
+FT   STRAND          314..317
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          321..329
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           332..334
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          336..341
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          344..348
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          354..357
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          361..369
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           372..374
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          376..380
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          384..386
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          393..397
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   TURN            399..401
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          403..410
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          414..419
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          422..426
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          432..435
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          439..447
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          451..457
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          460..465
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          468..472
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          476..484
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   HELIX           487..489
+FT                   /evidence="ECO:0007829|PDB:6I18"
+FT   STRAND          490..492
+FT                   /evidence="ECO:0007829|PDB:4GOV"
+SQ   SEQUENCE   493 AA;  54530 MW;  C1453714BED6109A CRC64;
+     MTANGTAEAV QIQFGLINCG NKYLTAEAFG FKVNASASSL KKKQIWTLEQ PPDEAGSAAV
+     CLRSHLGRYL AADKDGNVTC EREVPGPDCR FLIVAHDDGR WSLQSEAHRR YFGGTEDRLS
+     CFAQTVSPAE KWSVHIAMHP QVNIYSVTRK RYAHLSARPA DEIAVDRDVP WGVDSLITLA
+     FQDQRYSVQT ADHRFLRHDG RLVARPEPAT GYTLEFRSGK VAFRDCEGRY LAPSGPSGTL
+     KAGKATKVGK DELFALEQSC AQVVLQAANE RNVSTRQGMD LSANQDEETD QETFQLEIDR
+     DTKKCAFRTH TGKYWTLTAT GGVQSTASSK NASCYFDIEW RDRRITLRAS NGKFVTSKKN
+     GQLAASVETA GDSELFLMKL INRPIIVFRG EHGFIGCRKV TGTLDANRSS YDVFQLEFND
+     GAYNIKDSTG KYWTVGSDSA VTSSGDTPVD FFFEFCDYNK VAIKVGGRYL KGDHAGVLKA
+     SAETVDPASL WEY
+//

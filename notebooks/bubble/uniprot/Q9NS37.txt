@@ -1,0 +1,304 @@
+ID   ZHANG_HUMAN             Reviewed;         354 AA.
+AC   Q9NS37; B2R8Q9; Q0P5U9; Q52LT3;
+DT   12-APR-2005, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUL-2009, sequence version 2.
+DT   28-JUN-2023, entry version 169.
+DE   RecName: Full=CREB/ATF bZIP transcription factor;
+DE   AltName: Full=Host cell factor-binding transcription factor Zhangfei;
+DE            Short=HCF-binding transcription factor Zhangfei;
+GN   Name=CREBZF; Synonyms=ZF;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:AAD28325.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, INTERACTION WITH HCFC1, TISSUE
+RP   SPECIFICITY, MOTIF, AND MUTAGENESIS OF ASP-303; HIS-304 AND TYR-306.
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=10871379; DOI=10.1093/nar/28.12.2446;
+RA   Lu R., Misra V.;
+RT   "Zhangfei: a second cellular protein interacts with herpes simplex virus
+RT   accessory factor HCF in a manner similar to Luman and VP16.";
+RL   Nucleic Acids Res. 28:2446-2454(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, and Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 18-354.
+RC   TISSUE=Hippocampus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 74-354.
+RC   TISSUE=Bone marrow;
+RA   Zhang J.W., Zhang X., Ma Y.N.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6] {ECO:0000305}
+RP   FUNCTION AS A SUPPRESSOR OF CREB3 TRANSCRIPTIONAL ACTIVITY, INTERACTION
+RP   WITH CREB3 AND HCFC1, SUBCELLULAR LOCATION, AND MUTAGENESIS OF TYR-306.
+RX   PubMed=15705566; DOI=10.1074/jbc.m500728200;
+RA   Misra V., Rapin N., Akhova O., Bainbridge M., Korchinski P.;
+RT   "Zhangfei is a potent and specific inhibitor of the host cell factor-
+RT   binding transcription factor Luman.";
+RL   J. Biol. Chem. 280:15257-15266(2005).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-50, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+CC   -!- FUNCTION: Strongly activates transcription when bound to HCFC1.
+CC       Suppresses the expression of HSV proteins in cells infected with the
+CC       virus in a HCFC1-dependent manner. Also suppresses the HCFC1-dependent
+CC       transcriptional activation by CREB3 and reduces the amount of CREB3 in
+CC       the cell. Able to down-regulate expression of some cellular genes in
+CC       CREBZF-expressing cells. {ECO:0000269|PubMed:10871379,
+CC       ECO:0000269|PubMed:15705566}.
+CC   -!- SUBUNIT: Interacts with HCFC1; the interaction inhibits CREB3
+CC       transcriptional activity (PubMed:10871379, PubMed:15705566). Interacts
+CC       with CREB3; the interaction occurs only in combination with HCFC1
+CC       (PubMed:15705566). {ECO:0000269|PubMed:10871379,
+CC       ECO:0000269|PubMed:15705566}.
+CC   -!- INTERACTION:
+CC       Q9NS37; P14621: ACYP2; NbExp=3; IntAct=EBI-632965, EBI-10198377;
+CC       Q9NS37; P18848: ATF4; NbExp=7; IntAct=EBI-632965, EBI-492498;
+CC       Q9NS37; O43889: CREB3; NbExp=3; IntAct=EBI-632965, EBI-625002;
+CC       Q9NS37; Q9NS37: CREBZF; NbExp=5; IntAct=EBI-632965, EBI-632965;
+CC       Q9NS37; Q8WYA6: CTNNBL1; NbExp=3; IntAct=EBI-632965, EBI-748128;
+CC       Q9NS37; P51610: HCFC1; NbExp=8; IntAct=EBI-632965, EBI-396176;
+CC       Q9NS37; P51610-4: HCFC1; NbExp=3; IntAct=EBI-632965, EBI-18150048;
+CC       Q9NS37; Q14494: NFE2L1; NbExp=3; IntAct=EBI-632965, EBI-2804436;
+CC       Q9NS37; Q16236: NFE2L2; NbExp=5; IntAct=EBI-632965, EBI-2007911;
+CC       Q9NS37; Q15311: RALBP1; NbExp=4; IntAct=EBI-632965, EBI-749285;
+CC       Q9NS37; Q96EB6: SIRT1; NbExp=3; IntAct=EBI-632965, EBI-1802965;
+CC       Q9NS37; O00268: TAF4; NbExp=2; IntAct=EBI-632965, EBI-1034261;
+CC       Q9NS37; Q5W5X9: TTC23; NbExp=3; IntAct=EBI-632965, EBI-6447954;
+CC       Q9NS37; Q5W5X9-3: TTC23; NbExp=3; IntAct=EBI-632965, EBI-9090990;
+CC       Q9NS37; P17861: XBP1; NbExp=4; IntAct=EBI-632965, EBI-6942961;
+CC       Q9NS37; P62509: Esrrg; Xeno; NbExp=3; IntAct=EBI-632965, EBI-5274019;
+CC       Q9NS37; P0C746: HBZ; Xeno; NbExp=3; IntAct=EBI-632965, EBI-10890294;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:15705566}.
+CC       Note=Colocalizes in promyelocytic leukemia protein nuclear bodies (PML-
+CC       NB) with CREB3 and HCFC1.
+CC   -!- TISSUE SPECIFICITY: In adults, expressed most abundantly in heart,
+CC       liver and skeletal muscle, moderately abundant in kidney and pancreas,
+CC       and barely detectable in lung. In fetal tissues, expressed most
+CC       abundantly in kidney and very low amounts in heart, lung and liver.
+CC       {ECO:0000269|PubMed:10871379}.
+CC   -!- MISCELLANEOUS: Named 'Zhangfei' after a legendary Chinese warrior who
+CC       was contemporary with Luman in around 220 AD.
+CC   -!- SIMILARITY: Belongs to the bZIP family. ATF subfamily. {ECO:0000255}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAD28325.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAD28325.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=AAZ42189.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAG36256.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAG36256.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF039942; AAD28325.1; ALT_SEQ; mRNA.
+DR   EMBL; AP000642; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC060807; AAH60807.1; -; mRNA.
+DR   EMBL; BC093796; AAH93796.2; -; mRNA.
+DR   EMBL; BC093798; AAH93798.2; -; mRNA.
+DR   EMBL; AK313471; BAG36256.1; ALT_SEQ; mRNA.
+DR   EMBL; DQ128105; AAZ42189.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS41697.1; -.
+DR   RefSeq; NP_001034707.1; NM_001039618.2.
+DR   RefSeq; XP_011543497.1; XM_011545195.2.
+DR   RefSeq; XP_016873577.1; XM_017018088.1.
+DR   RefSeq; XP_016873578.1; XM_017018089.1.
+DR   RefSeq; XP_016873579.1; XM_017018090.1.
+DR   RefSeq; XP_016873580.1; XM_017018091.1.
+DR   RefSeq; XP_016873581.1; XM_017018092.1.
+DR   AlphaFoldDB; Q9NS37; -.
+DR   SMR; Q9NS37; -.
+DR   BioGRID; 121817; 25.
+DR   ComplexPortal; CPX-6542; bZIP transcription factor complex, ATF4-CREBZF.
+DR   ComplexPortal; CPX-6601; bZIP transcription factor complex, ATF6B-CREBZF.
+DR   DIP; DIP-33934N; -.
+DR   ELM; Q9NS37; -.
+DR   IntAct; Q9NS37; 22.
+DR   MINT; Q9NS37; -.
+DR   STRING; 9606.ENSP00000433459; -.
+DR   iPTMnet; Q9NS37; -.
+DR   PhosphoSitePlus; Q9NS37; -.
+DR   BioMuta; CREBZF; -.
+DR   DMDM; 251757415; -.
+DR   EPD; Q9NS37; -.
+DR   jPOST; Q9NS37; -.
+DR   MassIVE; Q9NS37; -.
+DR   MaxQB; Q9NS37; -.
+DR   PaxDb; Q9NS37; -.
+DR   PeptideAtlas; Q9NS37; -.
+DR   ProteomicsDB; 82476; -.
+DR   Antibodypedia; 31388; 230 antibodies from 27 providers.
+DR   DNASU; 58487; -.
+DR   Ensembl; ENST00000490820.2; ENSP00000434281.1; ENSG00000137504.15.
+DR   Ensembl; ENST00000527447.2; ENSP00000433459.1; ENSG00000137504.15.
+DR   GeneID; 58487; -.
+DR   KEGG; hsa:58487; -.
+DR   MANE-Select; ENST00000527447.2; ENSP00000433459.1; NM_001039618.4; NP_001034707.1.
+DR   UCSC; uc001pas.3; human.
+DR   AGR; HGNC:24905; -.
+DR   CTD; 58487; -.
+DR   DisGeNET; 58487; -.
+DR   GeneCards; CREBZF; -.
+DR   HGNC; HGNC:24905; CREBZF.
+DR   HPA; ENSG00000137504; Low tissue specificity.
+DR   MIM; 606444; gene.
+DR   neXtProt; NX_Q9NS37; -.
+DR   OpenTargets; ENSG00000137504; -.
+DR   PharmGKB; PA162382821; -.
+DR   VEuPathDB; HostDB:ENSG00000137504; -.
+DR   eggNOG; ENOG502S3I0; Eukaryota.
+DR   GeneTree; ENSGT00390000016589; -.
+DR   InParanoid; Q9NS37; -.
+DR   OMA; HDYALPS; -.
+DR   OrthoDB; 5363490at2759; -.
+DR   PhylomeDB; Q9NS37; -.
+DR   TreeFam; TF336153; -.
+DR   PathwayCommons; Q9NS37; -.
+DR   SignaLink; Q9NS37; -.
+DR   BioGRID-ORCS; 58487; 19 hits in 1161 CRISPR screens.
+DR   ChiTaRS; CREBZF; human.
+DR   GenomeRNAi; 58487; -.
+DR   Pharos; Q9NS37; Tbio.
+DR   PRO; PR:Q9NS37; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q9NS37; protein.
+DR   Bgee; ENSG00000137504; Expressed in sural nerve and 196 other tissues.
+DR   ExpressionAtlas; Q9NS37; baseline and differential.
+DR   Genevisible; Q9NS37; HS.
+DR   GO; GO:0000785; C:chromatin; ISA:NTNU_SB.
+DR   GO; GO:0005739; C:mitochondrion; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0090575; C:RNA polymerase II transcription regulator complex; IPI:ComplexPortal.
+DR   GO; GO:0003677; F:DNA binding; NAS:UniProtKB.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; ISA:NTNU_SB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0036500; P:ATF6-mediated unfolded protein response; NAS:ComplexPortal.
+DR   GO; GO:0140467; P:integrated stress response signaling; NAS:ComplexPortal.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; IMP:UniProtKB.
+DR   GO; GO:0045814; P:negative regulation of gene expression, epigenetic; IEP:UniProtKB.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:ComplexPortal.
+DR   GO; GO:0051090; P:regulation of DNA-binding transcription factor activity; IDA:UniProtKB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IDA:GO_Central.
+DR   GO; GO:0009615; P:response to virus; IDA:UniProtKB.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   InterPro; IPR004827; bZIP.
+DR   InterPro; IPR046347; bZIP_sf.
+DR   PANTHER; PTHR14312; CREB/ATF BZIP TRANSCRIPTION FACTOR; 1.
+DR   PANTHER; PTHR14312:SF1; CREB/ATF BZIP TRANSCRIPTION FACTOR; 1.
+DR   Pfam; PF00170; bZIP_1; 1.
+DR   SUPFAM; SSF57959; Leucine zipper domain; 1.
+PE   1: Evidence at protein level;
+KW   Nucleus; Phosphoprotein; Reference proteome; Transcription;
+KW   Transcription regulation.
+FT   CHAIN           1..354
+FT                   /note="CREB/ATF bZIP transcription factor"
+FT                   /id="PRO_0000076645"
+FT   DOMAIN          204..267
+FT                   /note="bZIP"
+FT   REGION          1..95
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          113..156
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          171..214
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          219..226
+FT                   /note="Basic motif"
+FT                   /evidence="ECO:0000250"
+FT   REGION          232..267
+FT                   /note="Leucine-zipper"
+FT                   /evidence="ECO:0000250"
+FT   MOTIF           303..306
+FT                   /note="HCFC1-binding motif (HBM)"
+FT                   /evidence="ECO:0000269|PubMed:10871379"
+FT   COMPBIAS        8..29
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         50
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MUTAGEN         303
+FT                   /note="D->A: Significantly reduced binding to HCFC1."
+FT                   /evidence="ECO:0000269|PubMed:10871379"
+FT   MUTAGEN         304
+FT                   /note="H->A: Significantly reduced binding to HCFC1."
+FT                   /evidence="ECO:0000269|PubMed:10871379"
+FT   MUTAGEN         306
+FT                   /note="Y->A: Does not interact with HCFC1 and is
+FT                   inefficient at inhibiting CREB3 transcriptional activity.
+FT                   Does not colocalize with CREB3 in promyelocytic leukemia
+FT                   protein nuclear bodies (PML-NB)."
+FT                   /evidence="ECO:0000269|PubMed:10871379,
+FT                   ECO:0000269|PubMed:15705566"
+FT   CONFLICT        16
+FT                   /note="S -> F (in Ref. 3; AAH60807)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   354 AA;  37134 MW;  BE3AC77203216155 CRC64;
+     MRHSLTKLLA ASGSNSPTRS ESPEPAATCS LPSDLTRAAA GEEETAAAGS PGRKQQFGDE
+     GELEAGRGSR GGVAVRAPSP EEMEEEAIAS LPGEETEDMD FLSGLELADL LDPRQPDWHL
+     DPGLSSPGPL SSSGGGSDSG GLWRGDDDDE AAAAEMQRFS DLLQRLLNGI GGCSSSSDSG
+     SAEKRRRKSP GGGGGGGSGN DNNQAATKSP RKAAAAAARL NRLKKKEYVM GLESRVRGLA
+     AENQELRAEN RELGKRVQAL QEESRYLRAV LANETGLARL LSRLSGVGLR LTTSLFRDSP
+     AGDHDYALPV GKQKQDLLEE DDSAGGVCLH VDKDKVSVEF CSACARKASS SLKM
+//

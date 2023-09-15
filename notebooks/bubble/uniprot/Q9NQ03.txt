@@ -1,0 +1,167 @@
+ID   SCRT2_HUMAN             Reviewed;         307 AA.
+AC   Q9NQ03;
+DT   13-APR-2004, integrated into UniProtKB/Swiss-Prot.
+DT   13-APR-2004, sequence version 3.
+DT   28-JUN-2023, entry version 169.
+DE   RecName: Full=Transcriptional repressor scratch 2;
+DE   AltName: Full=Scratch homolog 2 zinc finger protein;
+GN   Name=SCRT2; ORFNames=FP7030;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Wan D.F., Qin W.X., Zhou X.M., Zhang P.P., Jiang H.Q., Gu J.R.;
+RT   "Novel human cDNA clones with function of promoting mice NIH/3T3 cells'
+RT   growth.";
+RL   Submitted (JUL-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M., Beasley O.P.,
+RA   Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J., Buck D., Burrill W.D.,
+RA   Butler A.P., Carder C., Carter N.P., Chapman J.C., Clamp M., Clark G.,
+RA   Clark L.N., Clark S.Y., Clee C.M., Clegg S., Cobley V.E., Collier R.E.,
+RA   Connor R.E., Corby N.R., Coulson A., Coville G.J., Deadman R., Dhami P.D.,
+RA   Dunn M., Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H., Rice C.M.,
+RA   Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S., Skuce C.D.,
+RA   Smith M.L., Soderlund C., Steward C.A., Sulston J.E., Swann R.M.,
+RA   Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A., Tracey A.,
+RA   Tromans A.C., Vaudin M., Wall M., Wallis J.M., Whitehead S.L.,
+RA   Whittaker P., Willey D.L., Williams L., Williams S.A., Wilming L.,
+RA   Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S., Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+CC   -!- FUNCTION: May be involved in transcriptional regulation.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the snail C2H2-type zinc-finger protein family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY129025; AAM98768.1; -; mRNA.
+DR   EMBL; AL121758; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   CCDS; CCDS13006.1; -.
+DR   RefSeq; NP_149120.1; NM_033129.3.
+DR   AlphaFoldDB; Q9NQ03; -.
+DR   SMR; Q9NQ03; -.
+DR   BioGRID; 124568; 22.
+DR   STRING; 9606.ENSP00000246104; -.
+DR   GlyGen; Q9NQ03; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9NQ03; -.
+DR   PhosphoSitePlus; Q9NQ03; -.
+DR   BioMuta; SCRT2; -.
+DR   DMDM; 46397045; -.
+DR   MassIVE; Q9NQ03; -.
+DR   PaxDb; Q9NQ03; -.
+DR   PeptideAtlas; Q9NQ03; -.
+DR   ProteomicsDB; 82051; -.
+DR   Antibodypedia; 23001; 49 antibodies from 12 providers.
+DR   DNASU; 85508; -.
+DR   Ensembl; ENST00000246104.7; ENSP00000246104.5; ENSG00000215397.4.
+DR   GeneID; 85508; -.
+DR   KEGG; hsa:85508; -.
+DR   MANE-Select; ENST00000246104.7; ENSP00000246104.5; NM_033129.4; NP_149120.1.
+DR   UCSC; uc002wec.3; human.
+DR   AGR; HGNC:15952; -.
+DR   CTD; 85508; -.
+DR   GeneCards; SCRT2; -.
+DR   HGNC; HGNC:15952; SCRT2.
+DR   HPA; ENSG00000215397; Group enriched (brain, retina).
+DR   neXtProt; NX_Q9NQ03; -.
+DR   OpenTargets; ENSG00000215397; -.
+DR   PharmGKB; PA35016; -.
+DR   VEuPathDB; HostDB:ENSG00000215397; -.
+DR   eggNOG; KOG2462; Eukaryota.
+DR   GeneTree; ENSGT00940000154491; -.
+DR   HOGENOM; CLU_002678_42_3_1; -.
+DR   InParanoid; Q9NQ03; -.
+DR   OMA; HINNTYS; -.
+DR   OrthoDB; 658032at2759; -.
+DR   PhylomeDB; Q9NQ03; -.
+DR   TreeFam; TF315515; -.
+DR   PathwayCommons; Q9NQ03; -.
+DR   SignaLink; Q9NQ03; -.
+DR   BioGRID-ORCS; 85508; 7 hits in 1165 CRISPR screens.
+DR   GenomeRNAi; 85508; -.
+DR   Pharos; Q9NQ03; Tdark.
+DR   PRO; PR:Q9NQ03; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   RNAct; Q9NQ03; protein.
+DR   Bgee; ENSG00000215397; Expressed in ganglionic eminence and 22 other tissues.
+DR   GO; GO:0000785; C:chromatin; ISS:BHF-UCL.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; ISS:BHF-UCL.
+DR   GO; GO:0070888; F:E-box binding; ISS:BHF-UCL.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0000977; F:RNA polymerase II transcription regulatory region sequence-specific DNA binding; ISS:BHF-UCL.
+DR   GO; GO:1990837; F:sequence-specific double-stranded DNA binding; IDA:ARUK-UCL.
+DR   GO; GO:1902042; P:negative regulation of extrinsic apoptotic signaling pathway via death domain receptors; ISS:BHF-UCL.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; ISS:BHF-UCL.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IBA:GO_Central.
+DR   GO; GO:2001222; P:regulation of neuron migration; IEA:Ensembl.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 4.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24388:SF48; TRANSCRIPTIONAL REPRESSOR SCRATCH 2; 1.
+DR   PANTHER; PTHR24388; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF00096; zf-C2H2; 3.
+DR   Pfam; PF13912; zf-C2H2_6; 1.
+DR   SMART; SM00355; ZnF_C2H2; 5.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 3.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 4.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 5.
+PE   2: Evidence at transcript level;
+KW   DNA-binding; Metal-binding; Nucleus; Reference proteome; Repeat;
+KW   Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   CHAIN           1..307
+FT                   /note="Transcriptional repressor scratch 2"
+FT                   /id="PRO_0000047038"
+FT   ZN_FING         155..177
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         186..208
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         212..234
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         240..262
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         268..291
+FT                   /note="C2H2-type 5; atypical"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          1..20
+FT                   /note="SNAG domain"
+FT                   /evidence="ECO:0000250"
+FT   REGION          34..90
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          116..148
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+SQ   SEQUENCE   307 AA;  32584 MW;  E9328725903F9C17 CRC64;
+     MPRSFLVKKI KGDGFQCSGV PAPTYHPLET AYVLPGARGP PGDNGYAPHR LPPSSYDADQ
+     KPGLELAPAE PAYPPAAPEE YSDPESPQSS LSARYFRGEA AVTDSYSMDA FFISDGRSRR
+     RRGGGGGDAG GSGDAGGAGG RAGRAGAQAG GGHRHACAEC GKTYATSSNL SRHKQTHRSL
+     DSQLARKCPT CGKAYVSMPA LAMHLLTHNL RHKCGVCGKA FSRPWLLQGH MRSHTGEKPF
+     GCAHCGKAFA DRSNLRAHMQ THSAFKHYRC RQCDKSFALK SYLHKHCEAA CAKAAEPPPP
+     TPAGPAS
+//

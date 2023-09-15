@@ -1,0 +1,505 @@
+ID   AGRB2_HUMAN             Reviewed;        1585 AA.
+AC   O60241; B9EGK9; Q5T6K0; Q8NGW8; Q96GZ9;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   05-MAY-2009, sequence version 2.
+DT   28-JUN-2023, entry version 201.
+DE   RecName: Full=Adhesion G protein-coupled receptor B2 {ECO:0000303|PubMed:25713288};
+DE   AltName: Full=Brain-specific angiogenesis inhibitor 2;
+DE   Flags: Precursor;
+GN   Name=ADGRB2 {ECO:0000312|HGNC:HGNC:944}; Synonyms=BAI2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RC   TISSUE=Fetal brain;
+RX   PubMed=9533023; DOI=10.1159/000134693;
+RA   Shiratsuchi T., Nishimori H., Ichise H., Nakamura Y., Tokino T.;
+RT   "Cloning and characterization of BAI2 and BAI3, novel genes homologous to
+RT   brain-specific angiogenesis inhibitor 1 (BAI1).";
+RL   Cytogenet. Cell Genet. 79:103-108(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Suwa M., Sato T., Okouchi I., Arita M., Futami K., Matsumoto S.,
+RA   Tsutsumi S., Aburatani H., Asai K., Akiyama Y.;
+RT   "Genome-wide discovery and analysis of human seven transmembrane helix
+RT   receptor genes.";
+RL   Submitted (JUL-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4), AND NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 1293-1585 (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   CLEAVAGE BY FURIN, PROTEOLYTIC PROCESSING, MUTAGENESIS OF TRP-889; CYS-908
+RP   AND SER-912, SUBUNIT, PROTEIN SEQUENCE OF 296-306, GLYCOSYLATION, FUNCTION,
+RP   AND ACTIVITY REGULATION.
+RX   PubMed=20367554; DOI=10.3109/10799891003671139;
+RA   Okajima D., Kudo G., Yokota H.;
+RT   "Brain-specific angiogenesis inhibitor 2 (BAI2) may be activated by
+RT   proteolytic processing.";
+RL   J. Recept. Signal Transduct. 30:143-153(2010).
+RN   [6]
+RP   INTERACTION WITH TAX1BP3.
+RX   PubMed=21787750; DOI=10.1016/j.bbrc.2011.07.029;
+RA   Zencir S., Ovee M., Dobson M.J., Banerjee M., Topcu Z., Mohanty S.;
+RT   "Identification of brain-specific angiogenesis inhibitor 2 as an
+RT   interaction partner of glutaminase interacting protein.";
+RL   Biochem. Biophys. Res. Commun. 411:792-797(2011).
+RN   [7]
+RP   SUBCELLULAR LOCATION, TISSUE SPECIFICITY, AND GLYCOSYLATION AT SER-266.
+RX   PubMed=25326458; DOI=10.1074/mcp.m114.043703;
+RA   Noborn F., Gomez Toledo A., Sihlbom C., Lengqvist J., Fries E., Kjellen L.,
+RA   Nilsson J., Larson G.;
+RT   "Identification of chondroitin sulfate linkage region glycopeptides reveals
+RT   prohormones as a novel class of proteoglycans.";
+RL   Mol. Cell. Proteomics 14:41-49(2015).
+RN   [8]
+RP   NOMENCLATURE.
+RX   PubMed=25713288; DOI=10.1124/pr.114.009647;
+RA   Hamann J., Aust G., Arac D., Engel F.B., Formstone C., Fredriksson R.,
+RA   Hall R.A., Harty B.L., Kirchhoff C., Knapp B., Krishnan A., Liebscher I.,
+RA   Lin H.H., Martinelli D.C., Monk K.R., Peeters M.C., Piao X., Promel S.,
+RA   Schoneberg T., Schwartz T.W., Singer K., Stacey M., Ushkaryov Y.A.,
+RA   Vallon M., Wolfrum U., Wright M.W., Xu L., Langenhan T., Schioth H.B.;
+RT   "International union of basic and clinical pharmacology. XCIV. Adhesion G
+RT   protein-coupled receptors.";
+RL   Pharmacol. Rev. 67:338-367(2015).
+RN   [9]
+RP   SUBCELLULAR LOCATION, VARIANT TRP-1465, CHARACTERIZATION OF VARIANT
+RP   TRP-1465, INTERACTION WITH SH3GL2 AND GNAZ, AND FUNCTION.
+RX   PubMed=28891236; DOI=10.1002/humu.23336;
+RA   Purcell R.H., Toro C., Gahl W.A., Hall R.A.;
+RT   "A disease-associated mutation in the adhesion GPCR BAI2 (ADGRB2) increases
+RT   receptor signaling activity.";
+RL   Hum. Mutat. 38:1751-1760(2017).
+CC   -!- FUNCTION: Orphan G-protein coupled receptor involved in cell adhesion
+CC       and probably in cell-cell interactions. Activates NFAT-signaling
+CC       pathway, a transcription factor, via the G-protein GNAZ
+CC       (PubMed:20367554, PubMed:28891236). Involved in angiogenesis inhibition
+CC       (By similarity). {ECO:0000250|UniProtKB:Q8CGM1,
+CC       ECO:0000269|PubMed:20367554, ECO:0000269|PubMed:28891236}.
+CC   -!- ACTIVITY REGULATION: Receptor activity is regulated by proteolytic
+CC       processing. The long N-terminal has a an inhibitory effect on the
+CC       constitutive signaling activity. Removal of the N-terminal region
+CC       induces an increase of the receptor activity.
+CC       {ECO:0000269|PubMed:20367554, ECO:0000269|PubMed:28891236}.
+CC   -!- SUBUNIT: Heterodimer of 2 chains generated by proteolytic processing;
+CC       the large extracellular N-terminal fragment and the membrane-bound C-
+CC       terminal fragment predominantly remain associated and non-covalently
+CC       linked. Interacts with GABPB2 (By similarity). Interacts (via carboxy-
+CC       terminus) with TAX1BP3 (PubMed:21787750). Interacts with GNAZ
+CC       (PubMed:28891236). Interacts with SH3GL2 (PubMed:28891236).
+CC       {ECO:0000250|UniProtKB:Q8CGM1, ECO:0000269|PubMed:21787750,
+CC       ECO:0000269|PubMed:28891236}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:28891236};
+CC       Multi-pass membrane protein {ECO:0000255}. Secreted
+CC       {ECO:0000269|PubMed:25326458}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1;
+CC         IsoId=O60241-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=O60241-2; Sequence=VSP_037047;
+CC       Name=3;
+CC         IsoId=O60241-3; Sequence=VSP_037045;
+CC       Name=4;
+CC         IsoId=O60241-4; Sequence=VSP_037046, VSP_037047;
+CC   -!- TISSUE SPECIFICITY: Detected in cerebrospinal fluid (at protein level)
+CC       (PubMed:25326458). Strongly expressed in brain. Also detected in heart,
+CC       thymus, skeletal muscle, and different cell lines.
+CC       {ECO:0000269|PubMed:25326458}.
+CC   -!- PTM: Autoproteolytically processed at the GPS domain; this cleavage
+CC       modulates receptor activity. Additionally, furin is involved in the
+CC       cleavage at another site, in the middle of the extracellular domain,
+CC       generating a soluble fragment. {ECO:0000269|PubMed:20367554}.
+CC   -!- PTM: Glycosylated. {ECO:0000269|PubMed:20367554}.
+CC   -!- SIMILARITY: Belongs to the G-protein coupled receptor 2 family.
+CC       Adhesion G-protein coupled receptor (ADGR) subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA25362.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB005298; BAA25362.1; ALT_INIT; mRNA.
+DR   EMBL; AB065648; BAC05874.1; -; Genomic_DNA.
+DR   EMBL; AC114488; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL354919; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC009035; AAH09035.1; -; mRNA.
+DR   EMBL; BC136533; AAI36534.1; -; mRNA.
+DR   CCDS; CCDS346.2; -. [O60241-1]
+DR   CCDS; CCDS72746.1; -. [O60241-4]
+DR   CCDS; CCDS72747.1; -. [O60241-2]
+DR   PIR; T00027; T00027.
+DR   RefSeq; NP_001281264.1; NM_001294335.1. [O60241-2]
+DR   RefSeq; NP_001281265.1; NM_001294336.1. [O60241-4]
+DR   RefSeq; XP_011540150.1; XM_011541848.2.
+DR   RefSeq; XP_011540151.1; XM_011541849.2.
+DR   RefSeq; XP_016857388.1; XM_017001899.1. [O60241-1]
+DR   RefSeq; XP_016857389.1; XM_017001900.1. [O60241-2]
+DR   RefSeq; XP_016857394.1; XM_017001905.1. [O60241-4]
+DR   AlphaFoldDB; O60241; -.
+DR   SMR; O60241; -.
+DR   BioGRID; 107052; 9.
+DR   IntAct; O60241; 9.
+DR   MINT; O60241; -.
+DR   STRING; 9606.ENSP00000362759; -.
+DR   MEROPS; P02.029; -.
+DR   TCDB; 9.A.14.6.6; the g-protein-coupled receptor (gpcr) family.
+DR   CarbonylDB; O60241; -.
+DR   GlyCosmos; O60241; 8 sites, No reported glycans.
+DR   GlyGen; O60241; 8 sites.
+DR   iPTMnet; O60241; -.
+DR   PhosphoSitePlus; O60241; -.
+DR   BioMuta; ADGRB2; -.
+DR   jPOST; O60241; -.
+DR   MassIVE; O60241; -.
+DR   PaxDb; O60241; -.
+DR   PeptideAtlas; O60241; -.
+DR   ProteomicsDB; 49271; -. [O60241-1]
+DR   ProteomicsDB; 49272; -. [O60241-2]
+DR   ProteomicsDB; 49273; -. [O60241-3]
+DR   ProteomicsDB; 49274; -. [O60241-4]
+DR   Antibodypedia; 16794; 324 antibodies from 33 providers.
+DR   DNASU; 576; -.
+DR   Ensembl; ENST00000373655.6; ENSP00000362759.2; ENSG00000121753.13. [O60241-2]
+DR   Ensembl; ENST00000373658.8; ENSP00000362762.3; ENSG00000121753.13. [O60241-1]
+DR   Ensembl; ENST00000527361.5; ENSP00000435397.1; ENSG00000121753.13. [O60241-4]
+DR   GeneID; 576; -.
+DR   KEGG; hsa:576; -.
+DR   MANE-Select; ENST00000373658.8; ENSP00000362762.3; NM_001364857.2; NP_001351786.1.
+DR   UCSC; uc001btn.4; human. [O60241-1]
+DR   AGR; HGNC:944; -.
+DR   CTD; 576; -.
+DR   DisGeNET; 576; -.
+DR   GeneCards; ADGRB2; -.
+DR   HGNC; HGNC:944; ADGRB2.
+DR   HPA; ENSG00000121753; Tissue enriched (brain).
+DR   MIM; 602683; gene.
+DR   neXtProt; NX_O60241; -.
+DR   OpenTargets; ENSG00000121753; -.
+DR   PharmGKB; PA25248; -.
+DR   VEuPathDB; HostDB:ENSG00000121753; -.
+DR   eggNOG; ENOG502QRKJ; Eukaryota.
+DR   GeneTree; ENSGT00940000160103; -.
+DR   InParanoid; O60241; -.
+DR   OMA; NILMPMA; -.
+DR   OrthoDB; 4181250at2759; -.
+DR   PhylomeDB; O60241; -.
+DR   TreeFam; TF331634; -.
+DR   PathwayCommons; O60241; -.
+DR   SignaLink; O60241; -.
+DR   BioGRID-ORCS; 576; 24 hits in 772 CRISPR screens.
+DR   ChiTaRS; ADGRB2; human.
+DR   GeneWiki; Brain-specific_angiogenesis_inhibitor_2; -.
+DR   GenomeRNAi; 576; -.
+DR   Pharos; O60241; Tbio.
+DR   PRO; PR:O60241; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; O60241; protein.
+DR   Bgee; ENSG00000121753; Expressed in right frontal lobe and 130 other tissues.
+DR   ExpressionAtlas; O60241; baseline and differential.
+DR   Genevisible; O60241; HS.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016020; C:membrane; TAS:GDB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0004930; F:G protein-coupled receptor activity; IMP:UniProtKB.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0033173; P:calcineurin-NFAT signaling cascade; IMP:UniProtKB.
+DR   GO; GO:0007166; P:cell surface receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0016525; P:negative regulation of angiogenesis; IEA:InterPro.
+DR   GO; GO:0007422; P:peripheral nervous system development; IBA:GO_Central.
+DR   CDD; cd15988; 7tmB2_BAI2; 1.
+DR   Gene3D; 1.25.40.610; -; 1.
+DR   Gene3D; 2.60.220.50; -; 1.
+DR   Gene3D; 4.10.1240.10; GPCR, family 2, extracellular hormone receptor domain; 1.
+DR   Gene3D; 1.20.1070.10; Rhodopsin 7-helix transmembrane proteins; 1.
+DR   Gene3D; 2.20.100.10; Thrombospondin type-1 (TSP1) repeat; 4.
+DR   InterPro; IPR043838; AGRB_N.
+DR   InterPro; IPR032471; GAIN_dom_N.
+DR   InterPro; IPR046338; GAIN_dom_sf.
+DR   InterPro; IPR017981; GPCR_2-like_TM.
+DR   InterPro; IPR008077; GPCR_2_brain_angio_inhib.
+DR   InterPro; IPR036445; GPCR_2_extracell_dom_sf.
+DR   InterPro; IPR001879; GPCR_2_extracellular_dom.
+DR   InterPro; IPR000832; GPCR_2_secretin-like.
+DR   InterPro; IPR000203; GPS.
+DR   InterPro; IPR000884; TSP1_rpt.
+DR   InterPro; IPR036383; TSP1_rpt_sf.
+DR   PANTHER; PTHR10239:SF22; ADHESION G PROTEIN-COUPLED RECEPTOR B2; 1.
+DR   PANTHER; PTHR10239; ISTHMIN-2; 1.
+DR   Pfam; PF00002; 7tm_2; 1.
+DR   Pfam; PF19188; AGRB_N; 1.
+DR   Pfam; PF16489; GAIN; 1.
+DR   Pfam; PF01825; GPS; 1.
+DR   Pfam; PF00090; TSP_1; 4.
+DR   PRINTS; PR01694; BAIPRECURSOR.
+DR   PRINTS; PR00249; GPCRSECRETIN.
+DR   SMART; SM00303; GPS; 1.
+DR   SMART; SM00008; HormR; 1.
+DR   SMART; SM00209; TSP1; 4.
+DR   SUPFAM; SSF81321; Family A G protein-coupled receptor-like; 1.
+DR   SUPFAM; SSF82895; TSP-1 type 1 repeat; 4.
+DR   PROSITE; PS50227; G_PROTEIN_RECEP_F2_3; 1.
+DR   PROSITE; PS50261; G_PROTEIN_RECEP_F2_4; 1.
+DR   PROSITE; PS50221; GPS; 1.
+DR   PROSITE; PS50092; TSP1; 4.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Direct protein sequencing;
+KW   Disease variant; Disulfide bond; G-protein coupled receptor; Glycoprotein;
+KW   Membrane; Phosphoprotein; Proteoglycan; Receptor; Reference proteome;
+KW   Repeat; Secreted; Signal; Transducer; Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..32
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           33..1585
+FT                   /note="Adhesion G protein-coupled receptor B2"
+FT                   /id="PRO_0000012864"
+FT   TOPO_DOM        33..936
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        937..957
+FT                   /note="Helical; Name=1"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        958..965
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        966..986
+FT                   /note="Helical; Name=2"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        987..994
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        995..1015
+FT                   /note="Helical; Name=3"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1016..1036
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        1037..1057
+FT                   /note="Helical; Name=4"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1058..1078
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        1079..1099
+FT                   /note="Helical; Name=5"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1100..1121
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        1122..1142
+FT                   /note="Helical; Name=6"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1143..1153
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        1154..1174
+FT                   /note="Helical; Name=7"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1175..1585
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   DOMAIN          309..362
+FT                   /note="TSP type-1 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          364..417
+FT                   /note="TSP type-1 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          419..472
+FT                   /note="TSP type-1 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          475..528
+FT                   /note="TSP type-1 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DOMAIN          871..923
+FT                   /note="GPS"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00098"
+FT   REGION          229..271
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          767..806
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1359..1385
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1423..1454
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1498..1585
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        229..244
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   SITE            296..297
+FT                   /note="Cleavage; by furin"
+FT                   /evidence="ECO:0000269|PubMed:20367554"
+FT   MOD_RES         1351
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8CGM1"
+FT   CARBOHYD        106
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        191
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        192
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        266
+FT                   /note="O-linked (Xyl...) (chondroitin sulfate) serine"
+FT                   /evidence="ECO:0000269|PubMed:25326458"
+FT   CARBOHYD        356
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        437
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        560
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        645
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        867
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        321..355
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        325..361
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        336..345
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        376..411
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        380..416
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        391..401
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        431..466
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        435..471
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        446..456
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        487..522
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        491..527
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        502..512
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        534..569
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        557..587
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        874..906
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   DISULFID        894..908
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00210"
+FT   VAR_SEQ         1..12
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_037045"
+FT   VAR_SEQ         1119..1151
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_037046"
+FT   VAR_SEQ         1473
+FT                   /note="Missing (in isoform 2 and isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334,
+FT                   ECO:0000303|PubMed:9533023"
+FT                   /id="VSP_037047"
+FT   VARIANT         1465
+FT                   /note="R -> W (probable disease-associated variant found in
+FT                   a patient with progressive spastic paraparesis and other
+FT                   neurological symptoms; enhances receptor surface
+FT                   expression; increases the constitutive signaling activity;
+FT                   does not affect interaction with GNAZ; promotes enhanced
+FT                   interaction with GNAI1; decreases interaction with SH3GL2;
+FT                   dbSNP:rs778361520)"
+FT                   /evidence="ECO:0000269|PubMed:28891236"
+FT                   /id="VAR_079840"
+FT   MUTAGEN         889
+FT                   /note="W->S: Inhibits autoproteolytic cleavage."
+FT                   /evidence="ECO:0000269|PubMed:20367554"
+FT   MUTAGEN         908
+FT                   /note="C->W: Inhibits autoproteolytic cleavage."
+FT                   /evidence="ECO:0000269|PubMed:20367554"
+FT   MUTAGEN         912
+FT                   /note="S->P: Inhibits autoproteolytic cleavage."
+FT                   /evidence="ECO:0000269|PubMed:20367554"
+FT   CONFLICT        325
+FT                   /note="C -> R (in Ref. 4; AAI36534)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1585 AA;  172656 MW;  56D253AE0AB1552D CRC64;
+     MENTGWMGKG HRMTPACPLL LSVILSLRLA TAFDPAPSAC SALASGVLYG AFSLQDLFPT
+     IASGCSWTLE NPDPTKYSLY LRFNRQEQVC AHFAPRLLPL DHYLVNFTCL RPSPEEAVAQ
+     AESEVGRPEE EEAEAAAGLE LCSGSGPFTF LHFDKNFVQL CLSAEPSEAP RLLAPAALAF
+     RFVEVLLINN NNSSQFTCGV LCRWSEECGR AAGRACGFAQ PGCSCPGEAG AGSTTTTSPG
+     PPAAHTLSNA LVPGGPAPPA EADLHSGSSN DLFTTEMRYG EEPEEEPKVK TQWPRSADEP
+     GLYMAQTGDP AAEEWSPWSV CSLTCGQGLQ VRTRSCVSSP YGTLCSGPLR ETRPCNNSAT
+     CPVHGVWEEW GSWSLCSRSC GRGSRSRMRT CVPPQHGGKA CEGPELQTKL CSMAACPVEG
+     QWLEWGPWGP CSTSCANGTQ QRSRKCSVAG PAWATCTGAL TDTRECSNLE CPATDSKWGP
+     WNAWSLCSKT CDTGWQRRFR MCQATGTQGY PCEGTGEEVK PCSEKRCPAF HEMCRDEYVM
+     LMTWKKAAAG EIIYNKCPPN ASGSASRRCL LSAQGVAYWG LPSFARCISH EYRYLYLSLR
+     EHLAKGQRML AGEGMSQVVR SLQELLARRT YYSGDLLFSV DILRNVTDTF KRATYVPSAD
+     DVQRFFQVVS FMVDAENKEK WDDAQQVSPG SVHLLRVVED FIHLVGDALK AFQSSLIVTD
+     NLVISIQREP VSAVSSDITF PMRGRRGMKD WVRHSEDRLF LPKEVLSLSS PGKPATSGAA
+     GSPGRGRGPG TVPPGPGHSH QRLLPADPDE SSYFVIGAVL YRTLGLILPP PRPPLAVTSR
+     VMTVTVRPPT QPPAEPLITV ELSYIINGTT DPHCASWDYS RADASSGDWD TENCQTLETQ
+     AAHTRCQCQH LSTFAVLAQP PKDLTLELAG SPSVPLVIGC AVSCMALLTL LAIYAAFWRF
+     IKSERSIILL NFCLSILASN ILILVGQSRV LSKGVCTMTA AFLHFFFLSS FCWVLTEAWQ
+     SYLAVIGRMR TRLVRKRFLC LGWGLPALVV AVSVGFTRTK GYGTSSYCWL SLEGGLLYAF
+     VGPAAVIVLV NMLIGIIVFN KLMARDGISD KSKKQRAGSE RCPWASLLLP CSACGAVPSP
+     LLSSASARNA MASLWSSCVV LPLLALTWMS AVLAMTDRRS VLFQALFAVF NSAQGFVITA
+     VHCFLRREVQ DVVKCQMGVC RADESEDSPD SCKNGQLQIL SDFEKDVDLA CQTVLFKEVN
+     TCNPSTITGT LSRLSLDEDE EPKSCLVGPE GSLSFSPLPG NILVPMAASP GLGEPPPPQE
+     ANPVYMCGEG GLRQLDLTWL RPTEPGSEGD YMVLPRRTLS LQPGGGGGGG EDAPRARPEG
+     TPRRAAKTVA HTEGYPSFLS VDHSGLGLGP AYGSLQNPYG MTFQPPPPTP SARQVPEPGE
+     RSRTMPRTVP GSTMKMGSLE RKKLRYSDLD FEKVMHTRKR HSELYHELNQ KFHTFDRYRS
+     QSTAKREKRW SVSSGGAAER SVCTDKPSPG ERPSLSQHRR HQSWSTFKSM TLGSLPPKPR
+     ERLTLHRAAA WEPTEPPDGD FQTEV
+//

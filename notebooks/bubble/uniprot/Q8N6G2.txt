@@ -1,0 +1,127 @@
+ID   TEX26_HUMAN             Reviewed;         289 AA.
+AC   Q8N6G2;
+DT   12-DEC-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   28-JUN-2023, entry version 117.
+DE   RecName: Full=Testis-expressed protein 26;
+GN   Name=TEX26; Synonyms=C13orf26;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057823; DOI=10.1038/nature02379;
+RA   Dunham A., Matthews L.H., Burton J., Ashurst J.L., Howe K.L.,
+RA   Ashcroft K.J., Beare D.M., Burford D.C., Hunt S.E., Griffiths-Jones S.,
+RA   Jones M.C., Keenan S.J., Oliver K., Scott C.E., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Andrews D.T., Ashwell R.I.S., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Bannerjee R., Barlow K.F., Bates K., Beasley H., Bird C.P.,
+RA   Bray-Allen S., Brown A.J., Brown J.Y., Burrill W., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M.E., Clark S.Y., Clarke G., Clee C.M., Clegg S.C.,
+RA   Cobley V., Collins J.E., Corby N., Coville G.J., Deloukas P., Dhami P.,
+RA   Dunham I., Dunn M., Earthrowl M.E., Ellington A.G., Faulkner L.,
+RA   Frankish A.G., Frankland J., French L., Garner P., Garnett J.,
+RA   Gilbert J.G.R., Gilson C.J., Ghori J., Grafham D.V., Gribble S.M.,
+RA   Griffiths C., Hall R.E., Hammond S., Harley J.L., Hart E.A., Heath P.D.,
+RA   Howden P.J., Huckle E.J., Hunt P.J., Hunt A.R., Johnson C., Johnson D.,
+RA   Kay M., Kimberley A.M., King A., Laird G.K., Langford C.J., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Lloyd C., Loveland J.E., Lovell J.,
+RA   Martin S., Mashreghi-Mohammadi M., McLaren S.J., McMurray A., Milne S.,
+RA   Moore M.J.F., Nickerson T., Palmer S.A., Pearce A.V., Peck A.I., Pelan S.,
+RA   Phillimore B., Porter K.M., Rice C.M., Searle S., Sehra H.K., Shownkeen R.,
+RA   Skuce C.D., Smith M., Steward C.A., Sycamore N., Tester J., Thomas D.W.,
+RA   Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M., West A.P.,
+RA   Whitehead S.L., Willey D.L., Wilming L., Wray P.W., Wright M.W., Young L.,
+RA   Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Beck S., Bentley D.R.,
+RA   Rogers J., Ross M.T.;
+RT   "The DNA sequence and analysis of human chromosome 13.";
+RL   Nature 428:522-528(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AL353680; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC030277; AAH30277.1; -; mRNA.
+DR   CCDS; CCDS9339.1; -.
+DR   RefSeq; NP_689538.1; NM_152325.1.
+DR   AlphaFoldDB; Q8N6G2; -.
+DR   SMR; Q8N6G2; -.
+DR   BioGRID; 125758; 2.
+DR   STRING; 9606.ENSP00000369840; -.
+DR   iPTMnet; Q8N6G2; -.
+DR   PhosphoSitePlus; Q8N6G2; -.
+DR   BioMuta; TEX26; -.
+DR   DMDM; 74751054; -.
+DR   MassIVE; Q8N6G2; -.
+DR   PaxDb; Q8N6G2; -.
+DR   PeptideAtlas; Q8N6G2; -.
+DR   ProteomicsDB; 72167; -.
+DR   Antibodypedia; 49069; 6 antibodies from 4 providers.
+DR   DNASU; 122046; -.
+DR   Ensembl; ENST00000380473.8; ENSP00000369840.3; ENSG00000175664.10.
+DR   GeneID; 122046; -.
+DR   KEGG; hsa:122046; -.
+DR   MANE-Select; ENST00000380473.8; ENSP00000369840.3; NM_152325.3; NP_689538.1.
+DR   UCSC; uc001uti.4; human.
+DR   AGR; HGNC:28622; -.
+DR   CTD; 122046; -.
+DR   DisGeNET; 122046; -.
+DR   GeneCards; TEX26; -.
+DR   HGNC; HGNC:28622; TEX26.
+DR   HPA; ENSG00000175664; Tissue enriched (testis).
+DR   neXtProt; NX_Q8N6G2; -.
+DR   OpenTargets; ENSG00000175664; -.
+DR   PharmGKB; PA144596482; -.
+DR   VEuPathDB; HostDB:ENSG00000175664; -.
+DR   eggNOG; ENOG502RY1J; Eukaryota.
+DR   GeneTree; ENSGT00390000009484; -.
+DR   HOGENOM; CLU_065377_1_0_1; -.
+DR   InParanoid; Q8N6G2; -.
+DR   OMA; WWDPYET; -.
+DR   OrthoDB; 2908790at2759; -.
+DR   PhylomeDB; Q8N6G2; -.
+DR   TreeFam; TF329443; -.
+DR   PathwayCommons; Q8N6G2; -.
+DR   SignaLink; Q8N6G2; -.
+DR   BioGRID-ORCS; 122046; 15 hits in 1139 CRISPR screens.
+DR   ChiTaRS; TEX26; human.
+DR   GenomeRNAi; 122046; -.
+DR   Pharos; Q8N6G2; Tdark.
+DR   PRO; PR:Q8N6G2; -.
+DR   Proteomes; UP000005640; Chromosome 13.
+DR   RNAct; Q8N6G2; protein.
+DR   Bgee; ENSG00000175664; Expressed in sperm and 98 other tissues.
+DR   ExpressionAtlas; Q8N6G2; baseline and differential.
+DR   Genevisible; Q8N6G2; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   InterPro; IPR043460; MEDAG/TEX26.
+DR   PANTHER; PTHR33769:SF1; TESTIS-EXPRESSED PROTEIN 26; 1.
+DR   PANTHER; PTHR33769; TESTIS-EXPRESSED PROTEIN 26 ISOFORM X3; 1.
+PE   2: Evidence at transcript level;
+KW   Reference proteome.
+FT   CHAIN           1..289
+FT                   /note="Testis-expressed protein 26"
+FT                   /id="PRO_0000263723"
+FT   REGION          1..26
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   VARIANT         231
+FT                   /note="K -> N (in dbSNP:rs9533168)"
+FT                   /id="VAR_029615"
+SQ   SEQUENCE   289 AA;  33595 MW;  294036CFF17B11F6 CRC64;
+     MEQPGPRAPD PSLCHHNLQP TDDPNWDSYA TTMRTAFTPK TGAVPALIRQ NGIRRLGYTY
+     SLSDPILNQT QYSDEYTWKS HSKEDLIKTE TSRGIKSHKS HLNEDIFLWT LPHCQQTGTL
+     KNCLPWKIPA SMKEVNKALS NQFISLTKRD FVDRSKAQKI KKSSHLSLEW KKLLPQPPDT
+     EFRRNYQIPA KIPELQDFSF KYGCYSSLPV ASQGLVPSVL HSYLRNQEHT KKQTTYQSDY
+     DKTYPDFLML LNSFTSSQVK EYLQSLSYKD RQIIDRFIRT HCDTNKKKK
+//

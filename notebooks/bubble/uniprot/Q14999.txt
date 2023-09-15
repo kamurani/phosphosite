@@ -1,0 +1,828 @@
+ID   CUL7_HUMAN              Reviewed;        1698 AA.
+AC   Q14999; B4DYZ0; F5H0L1; Q5T654;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   23-OCT-2007, sequence version 2.
+DT   28-JUN-2023, entry version 209.
+DE   RecName: Full=Cullin-7;
+DE            Short=CUL-7;
+GN   Name=CUL7; Synonyms=KIAA0076;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ARG-813.
+RC   TISSUE=Bone marrow;
+RX   PubMed=7584044; DOI=10.1093/dnares/1.5.223;
+RA   Nomura N., Nagase T., Miyajima N., Sazuka T., Tanaka A., Sato S., Seki N.,
+RA   Kawarabayasi Y., Ishikawa K., Tabata S.;
+RT   "Prediction of the coding sequences of unidentified human genes. II. The
+RT   coding sequences of 40 new genes (KIAA0041-KIAA0080) deduced by analysis of
+RT   cDNA clones from human cell line KG-1.";
+RL   DNA Res. 1:223-229(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANT ARG-813.
+RC   TISSUE=Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ARG-813.
+RC   TISSUE=Eye;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   IDENTIFICATION IN A COMPLEX WITH SKP1; FBXW8 AND RBX1.
+RX   PubMed=12481031; DOI=10.1073/pnas.252646399;
+RA   Dias D.C., Dolios G., Wang R., Pan Z.Q.;
+RT   "CUL7: a DOC domain-containing cullin selectively binds Skp1.Fbx29 to form
+RT   an SCF-like complex.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:16601-16606(2002).
+RN   [6]
+RP   INTERACTION WITH RBX1, AND IDENTIFICATION IN A COMPLEX WITH SKP1; FBXW8;
+RP   RBX1 AND GLMN.
+RX   PubMed=12904573; DOI=10.1073/pnas.1733908100;
+RA   Arai T., Kasper J.S., Skaar J.R., Ali S.H., Takahashi C., DeCaprio J.A.;
+RT   "Targeted disruption of p185/Cul7 gene results in abnormal vascular
+RT   morphogenesis.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:9855-9860(2003).
+RN   [7]
+RP   INTERACTION WITH SV40 LARGE ANTIGEN (MICROBIAL INFECTION).
+RX   PubMed=16140746; DOI=10.1128/jvi.79.18.11685-11692.2005;
+RA   Kasper J.S., Kuwabara H., Arai T., Ali S.H., DeCaprio J.A.;
+RT   "Simian virus 40 large T antigen's association with the CUL7 SCF complex
+RT   contributes to cellular transformation.";
+RL   J. Virol. 79:11685-11692(2005).
+RN   [8]
+RP   INTERACTION WITH CUL9.
+RX   PubMed=15964813; DOI=10.1128/mcb.25.13.5579-5589.2005;
+RA   Skaar J.R., Arai T., DeCaprio J.A.;
+RT   "Dimerization of CUL7 and PARC is not required for all CUL7 functions and
+RT   mouse development.";
+RL   Mol. Cell. Biol. 25:5579-5589(2005).
+RN   [9]
+RP   FUNCTION, INTERACTION WITH RBX1 AND TP53, AND SUBCELLULAR LOCATION.
+RX   PubMed=16547496; DOI=10.1038/sj.onc.1209490;
+RA   Andrews P., He Y.J., Xiong Y.;
+RT   "Cytoplasmic localized ubiquitin ligase cullin 7 binds to p53 and promotes
+RT   cell growth by antagonizing p53 function.";
+RL   Oncogene 25:4534-4548(2006).
+RN   [10]
+RP   FUNCTION, INTERACTION WITH CUL9; SKP1; FBXW8; RBX1 AND TP53, AND LACK OF
+RP   NEDDYLATION.
+RX   PubMed=17332328; DOI=10.1158/0008-5472.can-06-3241;
+RA   Skaar J.R., Florens L., Tsutsumi T., Arai T., Tron A., Swanson S.K.,
+RA   Washburn M.P., DeCaprio J.A.;
+RT   "PARC and CUL7 form atypical cullin RING ligase complexes.";
+RL   Cancer Res. 67:2006-2014(2007).
+RN   [11]
+RP   INVOLVEMENT IN 3M1.
+RX   PubMed=17675530; DOI=10.1136/jmg.2007.051979;
+RA   Maksimova N., Hara K., Miyashia A., Nikolaeva I., Shiga A., Nogovicina A.,
+RA   Sukhomyasova A., Argunov V., Shvedova A., Ikeuchi T., Nishizawa M.,
+RA   Kuwano R., Onodera O.;
+RT   "Clinical, molecular and histopathological features of short stature
+RT   syndrome with novel CUL7 mutation in Yakuts: new population isolate in
+RT   Asia.";
+RL   J. Med. Genet. 44:772-778(2007).
+RN   [12]
+RP   FUNCTION.
+RX   PubMed=18498745; DOI=10.1016/j.molcel.2008.03.009;
+RA   Xu X., Sarikas A., Dias-Santagata D.C., Dolios G., Lafontant P.J.,
+RA   Tsai S.C., Zhu W., Nakajima H., Nakajima H.O., Field L.J., Wang R.,
+RA   Pan Z.Q.;
+RT   "The CUL7 E3 ubiquitin ligase targets insulin receptor substrate 1 for
+RT   ubiquitin-dependent degradation.";
+RL   Mol. Cell 30:403-414(2008).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-339, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [15]
+RP   INTERACTION WITH OBSL1.
+RX   PubMed=21737058; DOI=10.1016/j.ajhg.2011.05.028;
+RA   Hanson D., Murray P.G., O'Sullivan J., Urquhart J., Daly S., Bhaskar S.S.,
+RA   Biesecker L.G., Skae M., Smith C., Cole T., Kirk J., Chandler K.,
+RA   Kingston H., Donnai D., Clayton P.E., Black G.C.;
+RT   "Exome sequencing identifies CCDC8 mutations in 3-M syndrome, Suggesting
+RT   that CCDC8 Contributes in a Pathway with CUL7 and OBSL1 to Control Human
+RT   Growth.";
+RL   Am. J. Hum. Genet. 89:148-153(2011).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [17]
+RP   FUNCTION, INTERACTION WITH FBXW8 AND OBSL1, AND SUBCELLULAR LOCATION.
+RX   PubMed=21572988; DOI=10.1371/journal.pbio.1001060;
+RA   Litterman N., Ikeuchi Y., Gallardo G., O'Connell B.C., Sowa M.E.,
+RA   Gygi S.P., Harper J.W., Bonni A.;
+RT   "An OBSL1-Cul7Fbxw8 ubiquitin ligase signaling mechanism regulates Golgi
+RT   morphology and dendrite patterning.";
+RL   PLoS Biol. 9:E1001060-E1001060(2011).
+RN   [18]
+RP   FUNCTION, AND DEVELOPMENTAL STAGE.
+RX   PubMed=20139075; DOI=10.1074/jbc.m109.004200;
+RA   Fu J., Lv X., Lin H., Wu L., Wang R., Zhou Z., Zhang B., Wang Y.L.,
+RA   Tsang B.K., Zhu C., Wang H.;
+RT   "Ubiquitin ligase cullin 7 induces epithelial-mesenchymal transition in
+RT   human choriocarcinoma cells.";
+RL   J. Biol. Chem. 285:10870-10879(2010).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [20]
+RP   FUNCTION, AND INTERACTION WITH FBXW8.
+RX   PubMed=24362026; DOI=10.1074/jbc.m113.520106;
+RA   Wang H., Chen Y., Lin P., Li L., Zhou G., Liu G., Logsdon C., Jin J.,
+RA   Abbruzzese J.L., Tan T.H., Wang H.;
+RT   "The CUL7/F-box and WD repeat domain containing 8 (CUL7/Fbxw8) ubiquitin
+RT   ligase promotes degradation of hematopoietic progenitor kinase 1.";
+RL   J. Biol. Chem. 289:4009-4017(2014).
+RN   [21]
+RP   FUNCTION, IDENTIFICATION IN THE 3M COMPLEX, AND SUBCELLULAR LOCATION.
+RX   PubMed=24793695; DOI=10.1016/j.molcel.2014.03.047;
+RA   Yan J., Yan F., Li Z., Sinnott B., Cappell K.M., Yu Y., Mo J., Duncan J.A.,
+RA   Chen X., Cormier-Daire V., Whitehurst A.W., Xiong Y.;
+RT   "The 3M complex maintains microtubule and genome integrity.";
+RL   Mol. Cell 54:791-804(2014).
+RN   [22]
+RP   FUNCTION, AND INTERACTION WITH CUL9.
+RX   PubMed=24793696; DOI=10.1016/j.molcel.2014.03.046;
+RA   Li Z., Pei X.H., Yan J., Yan F., Cappell K.M., Whitehurst A.W., Xiong Y.;
+RT   "CUL9 mediates the functions of the 3M complex and ubiquitylates survivin
+RT   to maintain genome integrity.";
+RL   Mol. Cell 54:805-819(2014).
+RN   [23]
+RP   INTERACTION WITH HDAC4 AND HDAC5.
+RX   PubMed=25752541; DOI=10.1016/j.str.2015.02.001;
+RA   Nie J., Xu C., Jin J., Aka J.A., Tempel W., Nguyen V., You L., Weist R.,
+RA   Min J., Pawson T., Yang X.J.;
+RT   "Ankyrin repeats of ANKRA2 recognize a PxLPxL motif on the 3M syndrome
+RT   protein CCDC8.";
+RL   Structure 23:700-712(2015).
+RN   [24]
+RP   STRUCTURE BY NMR OF 360-460, AND INTERACTION WITH TP53.
+RX   PubMed=17298945; DOI=10.1074/jbc.m611297200;
+RA   Kaustov L., Lukin J., Lemak A., Duan S., Ho M., Doherty R., Penn L.Z.,
+RA   Arrowsmith C.H.;
+RT   "The conserved CPH domains of Cul7 and PARC are protein-protein interaction
+RT   modules that bind the tetramerization domain of p53.";
+RL   J. Biol. Chem. 282:11300-11307(2007).
+RN   [25]
+RP   VARIANTS 3M1 ARG-1014; GLY-1246 AND PRO-1464, AND TISSUE SPECIFICITY.
+RX   PubMed=16142236; DOI=10.1038/ng1628;
+RA   Huber C., Dias-Santagata D., Glaser A., O'Sullivan J., Brauner R., Wu K.,
+RA   Xu X., Pearce K., Wang R., Giovannucci Uzielli M.L., Dagoneau N.,
+RA   Chemaitilly W., Superti-Furga A., Dos Santos H., Megarbane A., Morin G.,
+RA   Gillessen-Kaesbach G., Hennekam R.C.M., Van der Burgt I., Black G.C.M.,
+RA   Clayton P.E., Read A., Le Merrer M., Scambler P.J., Munnich A., Pan Z.-Q.,
+RA   Winter R., Cormier-Daire V.;
+RT   "Identification of mutations in CUL7 in 3-M syndrome.";
+RL   Nat. Genet. 37:1119-1124(2005).
+RN   [26]
+RP   VARIANT 3M1 PRO-1588.
+RX   PubMed=23018678; DOI=10.1530/jme-12-0034;
+RA   Hanson D., Murray P.G., Coulson T., Sud A., Omokanye A., Stratta E.,
+RA   Sakhinia F., Bonshek C., Wilson L.C., Wakeling E., Temtamy S.A., Aglan M.,
+RA   Rosser E.M., Mansour S., Carcavilla A., Nampoothiri S., Khan W.I.,
+RA   Banerjee I., Chandler K.E., Black G.C., Clayton P.E.;
+RT   "Mutations in CUL7, OBSL1 and CCDC8 in 3-M syndrome lead to disordered
+RT   growth factor signalling.";
+RL   J. Mol. Endocrinol. 49:267-275(2012).
+CC   -!- FUNCTION: Core component of the 3M and Cul7-RING(FBXW8) complexes,
+CC       which mediates the ubiquitination of target proteins. Core component of
+CC       the 3M complex, a complex required to regulate microtubule dynamics and
+CC       genome integrity. It is unclear how the 3M complex regulates
+CC       microtubules, it could act by controlling the level of a microtubule
+CC       stabilizer (PubMed:24793695). Interaction with CUL9 is required to
+CC       inhibit CUL9 activity and ubiquitination of BIRC5 (PubMed:24793696).
+CC       Core component of a Cul7-RING ubiquitin-protein ligase with FBXW8,
+CC       which mediates ubiquitination and consequent degradation of target
+CC       proteins such as GORASP1, IRS1 and MAP4K1/HPK1 (PubMed:21572988,
+CC       PubMed:24362026). Ubiquitination of GORASP1 regulates Golgi
+CC       morphogenesis and dendrite patterning in brain (PubMed:21572988).
+CC       Mediates ubiquitination and degradation of IRS1 in a mTOR-dependent
+CC       manner: the Cul7-RING(FBXW8) complex recognizes and binds IRS1
+CC       previously phosphorylated by S6 kinase (RPS6KB1 or RPS6KB2)
+CC       (PubMed:18498745). The Cul7-RING(FBXW8) complex also mediates
+CC       ubiquitination of MAP4K1/HPK1: recognizes and binds autophosphorylated
+CC       MAP4K1/HPK1, leading to its degradation, thereby affecting cell
+CC       proliferation and differentiation (PubMed:24362026). Acts as a
+CC       regulator in trophoblast cell epithelial-mesenchymal transition and
+CC       placental development (PubMed:20139075). Does not promote
+CC       polyubiquitination and proteasomal degradation of p53/TP53
+CC       (PubMed:16547496, PubMed:17332328). While the Cul7-RING(FBXW8) and the
+CC       3M complexes are associated and involved in common processes, CUL7 and
+CC       the Cul7-RING(FBXW8) complex may be have additional functions.
+CC       {ECO:0000269|PubMed:16547496, ECO:0000269|PubMed:17332328,
+CC       ECO:0000269|PubMed:18498745, ECO:0000269|PubMed:20139075,
+CC       ECO:0000269|PubMed:21572988, ECO:0000269|PubMed:24362026,
+CC       ECO:0000269|PubMed:24793695, ECO:0000269|PubMed:24793696}.
+CC   -!- PATHWAY: Protein modification; protein ubiquitination.
+CC   -!- SUBUNIT: Component of the 3M complex, composed of core components CUL7,
+CC       CCDC8 and OBSL1. Part of a Cul7-RING complex consisting of CUL7, RBX1,
+CC       SKP1 and FBXW8. Interacts with a complex of SKP1 and FBXW8, but not
+CC       with SKP1 alone. Interacts with CUL9; leading to inhibit CUL9 activity.
+CC       Interacts with FBXW8; interaction is mutually exclusive of binding to
+CC       CUL9 or p53/TP53. Interacts with p53/TP53; the interaction
+CC       preferentially involves tetrameric and dimeric p53/TP53. The CUL7-CUL9
+CC       heterodimer seems to interact specifically with p53/TP53. Interacts
+CC       with CUL1; the interactions seems to be mediated by FBXW8. Interacts
+CC       with OBSL1. Interacts (as part of the 3M complex) with HDAC4 and HDAC5;
+CC       it is negatively regulated by ANKRA2. {ECO:0000269|PubMed:12481031,
+CC       ECO:0000269|PubMed:12904573, ECO:0000269|PubMed:15964813,
+CC       ECO:0000269|PubMed:16547496, ECO:0000269|PubMed:17298945,
+CC       ECO:0000269|PubMed:17332328, ECO:0000269|PubMed:21572988,
+CC       ECO:0000269|PubMed:21737058, ECO:0000269|PubMed:24362026,
+CC       ECO:0000269|PubMed:24793695, ECO:0000269|PubMed:24793696,
+CC       ECO:0000269|PubMed:25752541}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with SV40 Large T antigen;
+CC       this interaction seems to inhibit CUL7. {ECO:0000269|PubMed:16140746}.
+CC   -!- INTERACTION:
+CC       Q14999; O75147-2: OBSL1; NbExp=4; IntAct=EBI-308606, EBI-15927144;
+CC       Q14999; P04637: TP53; NbExp=8; IntAct=EBI-308606, EBI-366083;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Cytoplasm, cytoskeleton, microtubule
+CC       organizing center, centrosome. Cytoplasm, perinuclear region. Golgi
+CC       apparatus. Note=Colocalizes with FBXW8 at the Golgi apparatus in
+CC       neurons; localization to Golgi is mediated by OBSL1. During mitosis,
+CC       localizes to the mitotic apparatus (PubMed:24793695). CCDC8 is required
+CC       for centrosomal location (PubMed:24793695).
+CC       {ECO:0000269|PubMed:24793695}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q14999-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q14999-2; Sequence=VSP_046105, VSP_046106;
+CC   -!- TISSUE SPECIFICITY: Highly expressed in fetal kidney and adult skeletal
+CC       muscle. Also abundant in fetal brain, as well as in adult pancreas,
+CC       kidney, placenta and heart. Detected in trophoblasts, lymphoblasts,
+CC       osteoblasts, chondrocytes and skin fibroblasts.
+CC       {ECO:0000269|PubMed:16142236}.
+CC   -!- DEVELOPMENTAL STAGE: Highly expressed in invasive placental villi
+CC       during first trimester. {ECO:0000269|PubMed:20139075}.
+CC   -!- PTM: According to a report, may not be neddylated despite the conserved
+CC       consensus site for neddylation at Lys-1576.
+CC       {ECO:0000269|PubMed:17332328}.
+CC   -!- DISEASE: 3M syndrome 1 (3M1) [MIM:273750]: An autosomal recessive
+CC       disorder characterized by severe pre- and postnatal growth retardation,
+CC       facial dysmorphism, large head circumference, and normal intelligence
+CC       and endocrine function. Skeletal changes include long slender tubular
+CC       bones and tall vertebral bodies. {ECO:0000269|PubMed:16142236,
+CC       ECO:0000269|PubMed:17675530, ECO:0000269|PubMed:23018678}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- SIMILARITY: Belongs to the cullin family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00330}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAA07551.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; D38548; BAA07551.2; ALT_INIT; mRNA.
+DR   EMBL; AK302668; BAG63902.1; -; mRNA.
+DR   EMBL; AL355385; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL136304; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC033647; AAH33647.1; -; mRNA.
+DR   CCDS; CCDS4881.1; -. [Q14999-1]
+DR   RefSeq; NP_001161842.1; NM_001168370.1.
+DR   RefSeq; NP_055595.2; NM_014780.4. [Q14999-1]
+DR   PDB; 2JNG; NMR; -; A=360-460.
+DR   PDB; 7Z8B; EM; 2.80 A; C=1-1698.
+DR   PDBsum; 2JNG; -.
+DR   PDBsum; 7Z8B; -.
+DR   AlphaFoldDB; Q14999; -.
+DR   BMRB; Q14999; -.
+DR   SMR; Q14999; -.
+DR   BioGRID; 115159; 851.
+DR   ComplexPortal; CPX-2838; 3M complex.
+DR   CORUM; Q14999; -.
+DR   DIP; DIP-31618N; -.
+DR   DIP; DIP-60187N; -.
+DR   IntAct; Q14999; 40.
+DR   MINT; Q14999; -.
+DR   STRING; 9606.ENSP00000438788; -.
+DR   GlyGen; Q14999; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q14999; -.
+DR   PhosphoSitePlus; Q14999; -.
+DR   BioMuta; CUL7; -.
+DR   DMDM; 160370003; -.
+DR   EPD; Q14999; -.
+DR   jPOST; Q14999; -.
+DR   MassIVE; Q14999; -.
+DR   MaxQB; Q14999; -.
+DR   PaxDb; Q14999; -.
+DR   PeptideAtlas; Q14999; -.
+DR   ProteomicsDB; 25372; -.
+DR   ProteomicsDB; 60290; -. [Q14999-1]
+DR   Antibodypedia; 4223; 218 antibodies from 37 providers.
+DR   DNASU; 9820; -.
+DR   Ensembl; ENST00000265348.9; ENSP00000265348.4; ENSG00000044090.13. [Q14999-1]
+DR   Ensembl; ENST00000690231.1; ENSP00000508461.1; ENSG00000044090.13. [Q14999-1]
+DR   GeneID; 9820; -.
+DR   KEGG; hsa:9820; -.
+DR   MANE-Select; ENST00000265348.9; ENSP00000265348.4; NM_014780.5; NP_055595.2.
+DR   UCSC; uc003otq.4; human. [Q14999-1]
+DR   AGR; HGNC:21024; -.
+DR   CTD; 9820; -.
+DR   DisGeNET; 9820; -.
+DR   GeneCards; CUL7; -.
+DR   GeneReviews; CUL7; -.
+DR   HGNC; HGNC:21024; CUL7.
+DR   HPA; ENSG00000044090; Low tissue specificity.
+DR   MalaCards; CUL7; -.
+DR   MIM; 273750; phenotype.
+DR   MIM; 609577; gene.
+DR   neXtProt; NX_Q14999; -.
+DR   OpenTargets; ENSG00000044090; -.
+DR   Orphanet; 2616; 3M syndrome.
+DR   PharmGKB; PA134897835; -.
+DR   VEuPathDB; HostDB:ENSG00000044090; -.
+DR   eggNOG; ENOG502RDJD; Eukaryota.
+DR   GeneTree; ENSGT00940000153954; -.
+DR   HOGENOM; CLU_001067_1_0_1; -.
+DR   InParanoid; Q14999; -.
+DR   OMA; RCWPVAS; -.
+DR   OrthoDB; 4161627at2759; -.
+DR   PhylomeDB; Q14999; -.
+DR   TreeFam; TF101154; -.
+DR   PathwayCommons; Q14999; -.
+DR   Reactome; R-HSA-381038; XBP1(S) activates chaperone genes.
+DR   Reactome; R-HSA-8951664; Neddylation.
+DR   Reactome; R-HSA-983168; Antigen processing: Ubiquitination & Proteasome degradation.
+DR   SignaLink; Q14999; -.
+DR   SIGNOR; Q14999; -.
+DR   UniPathway; UPA00143; -.
+DR   BioGRID-ORCS; 9820; 83 hits in 1211 CRISPR screens.
+DR   ChiTaRS; CUL7; human.
+DR   EvolutionaryTrace; Q14999; -.
+DR   GeneWiki; CUL7; -.
+DR   GenomeRNAi; 9820; -.
+DR   Pharos; Q14999; Tbio.
+DR   PRO; PR:Q14999; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; Q14999; protein.
+DR   Bgee; ENSG00000044090; Expressed in stromal cell of endometrium and 193 other tissues.
+DR   ExpressionAtlas; Q14999; baseline and differential.
+DR   Genevisible; Q14999; HS.
+DR   GO; GO:1990393; C:3M complex; IDA:UniProtKB.
+DR   GO; GO:0005680; C:anaphase-promoting complex; NAS:UniProtKB.
+DR   GO; GO:0005813; C:centrosome; IDA:UniProtKB.
+DR   GO; GO:0031467; C:Cul7-RING ubiquitin ligase complex; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:UniProtKB.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0031625; F:ubiquitin protein ligase binding; IEA:InterPro.
+DR   GO; GO:0001837; P:epithelial to mesenchymal transition; IDA:UniProtKB.
+DR   GO; GO:0007030; P:Golgi organization; ISS:UniProtKB.
+DR   GO; GO:0000226; P:microtubule cytoskeleton organization; IMP:UniProtKB.
+DR   GO; GO:0000281; P:mitotic cytokinesis; IMP:UniProtKB.
+DR   GO; GO:0001890; P:placenta development; IDA:UniProtKB.
+DR   GO; GO:0050775; P:positive regulation of dendrite morphogenesis; IGI:UniProtKB.
+DR   GO; GO:0016567; P:protein ubiquitination; IDA:UniProtKB.
+DR   GO; GO:0006508; P:proteolysis; NAS:UniProtKB.
+DR   GO; GO:0007088; P:regulation of mitotic nuclear division; IMP:UniProtKB.
+DR   GO; GO:0006511; P:ubiquitin-dependent protein catabolic process; IEA:InterPro.
+DR   GO; GO:0001570; P:vasculogenesis; ISS:UniProtKB.
+DR   CDD; cd08665; APC10-CUL7; 1.
+DR   Gene3D; 2.30.30.30; -; 1.
+DR   Gene3D; 1.20.1310.10; Cullin Repeats; 1.
+DR   Gene3D; 2.60.120.260; Galactose-binding domain-like; 1.
+DR   Gene3D; 1.10.10.10; Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain; 1.
+DR   InterPro; IPR004939; APC_su10/DOC_dom.
+DR   InterPro; IPR016024; ARM-type_fold.
+DR   InterPro; IPR021097; CPH_domain.
+DR   InterPro; IPR045093; Cullin.
+DR   InterPro; IPR016158; Cullin_homology.
+DR   InterPro; IPR036317; Cullin_homology_sf.
+DR   InterPro; IPR001373; Cullin_N.
+DR   InterPro; IPR019559; Cullin_neddylation_domain.
+DR   InterPro; IPR008979; Galactose-bd-like_sf.
+DR   InterPro; IPR014722; Rib_L2_dom2.
+DR   InterPro; IPR036388; WH-like_DNA-bd_sf.
+DR   PANTHER; PTHR22771; CULLIN AND GALACTOSE-BINDING DOMAIN-CONTAINING; 1.
+DR   PANTHER; PTHR22771:SF3; CULLIN-7; 1.
+DR   Pfam; PF03256; ANAPC10; 1.
+DR   Pfam; PF11515; Cul7; 1.
+DR   Pfam; PF00888; Cullin; 1.
+DR   SMART; SM01337; APC10; 1.
+DR   SMART; SM00884; Cullin_Nedd8; 1.
+DR   SUPFAM; SSF48371; ARM repeat; 1.
+DR   SUPFAM; SSF75632; Cullin homology domain; 1.
+DR   SUPFAM; SSF49785; Galactose-binding domain-like; 1.
+DR   SUPFAM; SSF63748; Tudor/PWWP/MBT; 1.
+DR   PROSITE; PS50069; CULLIN_2; 1.
+DR   PROSITE; PS51284; DOC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cytoplasm; Cytoskeleton;
+KW   Disease variant; Dwarfism; Golgi apparatus; Host-virus interaction;
+KW   Isopeptide bond; Phosphoprotein; Reference proteome; Ubl conjugation;
+KW   Ubl conjugation pathway.
+FT   CHAIN           1..1698
+FT                   /note="Cullin-7"
+FT                   /id="PRO_0000119802"
+FT   DOMAIN          814..993
+FT                   /note="DOC"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00614"
+FT   REGION          315..357
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          360..460
+FT                   /note="Interaction with TP53"
+FT   REGION          601..623
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1345..1370
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1345..1362
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         339
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   CROSSLNK        1576
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in NEDD8)"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         1
+FT                   /note="M -> MSRGFWLAEPLAGTGPHPAPVAADSRGCSSVPRRHAPSRLSVSTPSR
+FT                   GPGARM (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_046105"
+FT   VAR_SEQ         194
+FT                   /note="G -> GEGQCGEEGKAGEGLGRLRDSQDTVAGASDLIR (in isoform
+FT                   2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_046106"
+FT   VARIANT         616
+FT                   /note="S -> G (in dbSNP:rs7774330)"
+FT                   /id="VAR_048841"
+FT   VARIANT         813
+FT                   /note="Q -> R (in dbSNP:rs9381231)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:7584044"
+FT                   /id="VAR_026121"
+FT   VARIANT         852
+FT                   /note="R -> Q (in dbSNP:rs34574340)"
+FT                   /id="VAR_048842"
+FT   VARIANT         1014
+FT                   /note="L -> R (in 3M1; unknown pathological significance;
+FT                   dbSNP:rs61752334)"
+FT                   /evidence="ECO:0000269|PubMed:16142236"
+FT                   /id="VAR_026122"
+FT   VARIANT         1246
+FT                   /note="Q -> G (in 3M1; requires 2 nucleotide
+FT                   substitutions)"
+FT                   /evidence="ECO:0000269|PubMed:16142236"
+FT                   /id="VAR_026123"
+FT   VARIANT         1246
+FT                   /note="Q -> H (in dbSNP:rs36071170)"
+FT                   /id="VAR_048843"
+FT   VARIANT         1464
+FT                   /note="H -> P (in 3M1; impairs the ability to interact with
+FT                   RBX1, thus hampers the assembly of polyubiquitin chains;
+FT                   dbSNP:rs121918229)"
+FT                   /evidence="ECO:0000269|PubMed:16142236"
+FT                   /id="VAR_026124"
+FT   VARIANT         1588
+FT                   /note="L -> P (in 3M1; dbSNP:rs759300846)"
+FT                   /evidence="ECO:0000269|PubMed:23018678"
+FT                   /id="VAR_071120"
+FT   STRAND          12..15
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          18..30
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          34..45
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          63..69
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           71..77
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           79..81
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            82..84
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           116..119
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           142..148
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          150..152
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           153..157
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            158..161
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           162..170
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           176..186
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           198..204
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            207..211
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           216..228
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           247..268
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           288..310
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           360..362
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   STRAND          363..366
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   HELIX           367..376
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   STRAND          382..385
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   STRAND          397..403
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   STRAND          407..414
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   TURN            415..418
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   STRAND          419..424
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   HELIX           425..427
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   STRAND          428..430
+FT                   /evidence="ECO:0007829|PDB:2JNG"
+FT   HELIX           467..469
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           491..501
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           506..519
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           526..529
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           537..546
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           553..561
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            563..567
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           620..625
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           633..640
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           652..661
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           664..671
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            680..682
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           683..693
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          696..698
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           699..701
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           704..706
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           711..714
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           723..738
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           741..749
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           751..759
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            760..762
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          766..768
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           769..810
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           820..828
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          841..848
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           850..856
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          857..859
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          874..880
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          887..892
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          897..912
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            913..915
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          918..924
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          930..935
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          943..952
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           953..955
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          963..967
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           977..1002
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1004..1009
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1010..1028
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1029..1031
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1032..1055
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1059..1061
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1064..1074
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1087..1100
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1128..1131
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1139..1161
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1162..1164
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1168..1187
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1191..1205
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1210..1229
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1239..1252
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1253..1255
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1258..1260
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1261..1276
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1284..1292
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1293..1295
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1300..1324
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1388..1394
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1419..1432
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1448..1458
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1464..1466
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1467..1477
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1484..1491
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1498..1502
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1504..1506
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1507..1509
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1524..1526
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1529..1531
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1555..1576
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   TURN            1577..1581
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1585..1597
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1600..1602
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1604..1609
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   HELIX           1618..1631
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1633..1636
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1638..1640
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+FT   STRAND          1643..1646
+FT                   /evidence="ECO:0007829|PDB:7Z8B"
+SQ   SEQUENCE   1698 AA;  191161 MW;  EC9EED17E98FC9A1 CRC64;
+     MVGELRYREF RVPLGPGLHA YPDELIRQRV GHDGHPEYQI RWLILRRGDE GDGGSGQVDC
+     KAEHILLWMS KDEIYANCHK MLGEDGQVIG PSQESAGEVG ALDKSVLEEM ETDVKSLIQR
+     ALRQLEECVG TIPPAPLLHT VHVLSAYASI EPLTGVFKDP RVLDLLMHML SSPDYQIRWS
+     AGRMIQALSS HDAGTRTQIL LSLSQQEAIE KHLDFDSRCA LLALFAQATL SEHPMSFEGI
+     QLPQVPGRVL FSLVKRYLHV TSLLDQLNDS AAEPGAQNTS APEELSGERG QLELEFSMAM
+     GTLISELVQA MRWDQASDRP RSSARSPGSI FQPQLADVSP GLPAAQAQPS FRRSRRFRPR
+     SEFASGNTYA LYVRDTLQPG MRVRMLDDYE EISAGDEGEF RQSNNGVPPV QVFWESTGRT
+     YWVHWHMLEI LGFEEDIEDM VEADEYQGAV ASRVLGRALP AWRWRPMTEL YAVPYVLPED
+     EDTEECEHLT LAEWWELLFF IKKLDGPDHQ EVLQILQENL DGEILDDEIL AELAVPIELA
+     QDLLLTLPQR LNDSALRDLI NCHVYKKYGP EALAGNQAYP SLLEAQEDVL LLDAQAQAKD
+     SEDAAKVEAK EPPSQSPNTP LQRLVEGYGP AGKILLDLEQ ALSSEGTQEN KVKPLLLQLQ
+     RQPQPFLALM QSLDTPETNR TLHLTVLRIL KQLVDFPEAL LLPWHEAVDA CMACLRSPNT
+     DREVLQELIF FLHRLTSVSR DYAVVLNQLG ARDAISKALE KHLGKLELAQ ELRDMVFKCE
+     KHAHLYRKLI TNILGGCIQM VLGQIEDHRR THQPINIPFF DVFLRYLCQG SSVEVKEDKC
+     WEKVEVSSNP HRASKLTDHN PKTYWESNGS AGSHYITLHM RRGILIRQLT LLVASEDSSY
+     MPARVVVCGG DSTSSLHTEL NSVNVMPSAS RVILLENLTR FWPIIQIRIK RCQQGGIDTR
+     IRGLEILGPK PTFWPVFREQ LCRHTRLFYM VRAQAWSQDM AEDRRSLLHL SSRLNGALRQ
+     EQNFADRFLP DDEAAQALGK TCWEALVSPV VQNITSPDED GISPLGWLLD QYLECQEAVF
+     NPQSRGPAFF SRVRRLTHLL VHVEPCEAPP PVVATPRPKG RNRSHDWSSL ATRGLPSSIM
+     RNLTRCWRAV VEKQVNNFLT SSWRDDDFVP RYCEHFNILQ NSSSELFGPR AAFLLALQNG
+     CAGALLKLPF LKAAHVSEQF ARHIDQQIQG SRIGGAQEME RLAQLQQCLQ AVLIFSGLEI
+     ATTFEHYYQH YMADRLLGVV SSWLEGAVLE QIGPCFPNRL PQQMLQSLST SKELQRQFHV
+     YQLQQLDQEL LKLEDTEKKI QVGLGASGKE HKSEKEEEAG AAAVVDVAEG EEEEEENEDL
+     YYEGAMPEVS VLVLSRHSWP VASICHTLNP RTCLPSYLRG TLNRYSNFYN KSQSHPALER
+     GSQRRLQWTW LGWAELQFGN QTLHVSTVQM WLLLYLNDLK AVSVESLLAF SGLSADMLNQ
+     AIGPLTSSRG PLDLHEQKDI PGGVLKIRDG SKEPRSRWDI VRLIPPQTYL QAEGEDGQNL
+     EKRRNLLNCL IVRILKAHGD EGLHIDQLVC LVLEAWQKGP CPPRGLVSSL GKGSACSSTD
+     VLSCILHLLG KGTLRRHDDR PQVLSYAVPV TVMEPHTESL NPGSSGPNPP LTFHTLQIRS
+     RGVPYASCTA TQSFSTFR
+//

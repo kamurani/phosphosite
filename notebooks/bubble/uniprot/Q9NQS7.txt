@@ -1,0 +1,838 @@
+ID   INCE_HUMAN              Reviewed;         918 AA.
+AC   Q9NQS7; A8MQD2; Q5Y192;
+DT   23-APR-2003, integrated into UniProtKB/Swiss-Prot.
+DT   04-NOV-2008, sequence version 3.
+DT   28-JUN-2023, entry version 189.
+DE   RecName: Full=Inner centromere protein;
+GN   Name=INCENP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), SUBCELLULAR LOCATION, AND VARIANT
+RP   ASP-644.
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=11453556; DOI=10.1007/s004120100130;
+RA   Adams R.R., Eckley D.M., Vagnarelli P., Wheatley S.P., Gerloff D.L.,
+RA   Mackay A.M., Svingen P.A., Kaufmann S.H., Earnshaw W.C.;
+RT   "Human INCENP colocalizes with the Aurora-B/AIRK2 kinase on chromosomes and
+RT   is overexpressed in tumour cells.";
+RL   Chromosoma 110:65-74(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, INTERACTION WITH AURKB
+RP   AND AURKC, SUBCELLULAR LOCATION, PHOSPHORYLATION AT THR-195, AND VARIANT
+RP   ASP-644.
+RC   TISSUE=Testis;
+RX   PubMed=15316025; DOI=10.1074/jbc.m403029200;
+RA   Li X., Sakashita G., Matsuzaki H., Sugimoto K., Kimura K., Hanaoka F.,
+RA   Taniguchi H., Furukawa K., Urano T.;
+RT   "Direct association with inner centromere protein (INCENP) activates the
+RT   novel chromosomal passenger protein, Aurora-C.";
+RL   J. Biol. Chem. 279:47201-47211(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16554811; DOI=10.1038/nature04632;
+RA   Taylor T.D., Noguchi H., Totoki Y., Toyoda A., Kuroki Y., Dewar K.,
+RA   Lloyd C., Itoh T., Takeda T., Kim D.-W., She X., Barlow K.F., Bloom T.,
+RA   Bruford E., Chang J.L., Cuomo C.A., Eichler E., FitzGerald M.G.,
+RA   Jaffe D.B., LaButti K., Nicol R., Park H.-S., Seaman C., Sougnez C.,
+RA   Yang X., Zimmer A.R., Zody M.C., Birren B.W., Nusbaum C., Fujiyama A.,
+RA   Hattori M., Rogers J., Lander E.S., Sakaki Y.;
+RT   "Human chromosome 11 DNA sequence and analysis including novel gene
+RT   identification.";
+RL   Nature 440:497-500(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ASP-644.
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   INTERACTION WITH CBX3.
+RX   PubMed=9864353; DOI=10.1083/jcb.143.7.1763;
+RA   Ainsztein A.M., Kandels-Lewis S.E., Mackay A.M., Earnshaw W.C.;
+RT   "INCENP centromere and spindle targeting: identification of essential
+RT   conserved motifs and involvement of heterochromatin protein HP1.";
+RL   J. Cell Biol. 143:1763-1774(1998).
+RN   [7]
+RP   INTERACTION WITH TUBULIN BETA CHAIN.
+RX   PubMed=11139336; DOI=10.1006/excr.2000.5088;
+RA   Wheatley S.P., Kandels-Lewis S.E., Adams R.R., Ainsztein A.M.,
+RA   Earnshaw W.C.;
+RT   "INCENP binds directly to tubulin and requires dynamic microtubules to
+RT   target to the cleavage furrow.";
+RL   Exp. Cell Res. 262:122-127(2001).
+RN   [8]
+RP   IDENTIFICATION IN THE CPC COMPLEX, FUNCTION OF THE CPC COMPLEX, INDUCTION,
+RP   SUBCELLULAR LOCATION, AND PHOSPHORYLATION AT THR-892; SER-893 AND SER-894.
+RX   PubMed=12925766; DOI=10.1091/mbc.e02-11-0769;
+RA   Honda R., Korner R., Nigg E.A.;
+RT   "Exploring the functional interactions between Aurora B, INCENP, and
+RT   survivin in mitosis.";
+RL   Mol. Biol. Cell 14:3325-3341(2003).
+RN   [9]
+RP   INTERACTION WITH BIRC5.
+RX   PubMed=14610074; DOI=10.1074/jbc.m311299200;
+RA   Wheatley S.P., Henzing A.J., Dodson H., Khaled W., Earnshaw W.C.;
+RT   "Aurora-B phosphorylation in vitro identifies a residue of survivin that is
+RT   essential for its localization and binding to inner centromere protein
+RT   (INCENP) in vivo.";
+RL   J. Biol. Chem. 279:5655-5660(2004).
+RN   [10]
+RP   INTERACTION WITH CDCA8.
+RX   PubMed=15249581; DOI=10.1083/jcb.200404001;
+RA   Gassmann R., Carvalho A., Henzing A.J., Ruchaud S., Hudson D.F., Honda R.,
+RA   Nigg E.A., Gerloff D.L., Earnshaw W.C.;
+RT   "Borealin: a novel chromosomal passenger required for stability of the
+RT   bipolar mitotic spindle.";
+RL   J. Cell Biol. 166:179-191(2004).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-263 AND SER-275, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [12]
+RP   INTERACTION WITH EVI5.
+RX   PubMed=16764853; DOI=10.1016/j.yexcr.2006.03.032;
+RA   Faitar S.L., Sossey-Alaoui K., Ranalli T.A., Cowell J.K.;
+RT   "EVI5 protein associates with the INCENP-aurora B kinase-survivin
+RT   chromosomal passenger complex and is involved in the completion of
+RT   cytokinesis.";
+RL   Exp. Cell Res. 312:2325-2335(2006).
+RN   [13]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=16760428; DOI=10.1091/mbc.e06-03-0240;
+RA   Qi W., Tang Z., Yu H.;
+RT   "Phosphorylation- and polo-box-dependent binding of Plk1 to Bub1 is
+RT   required for the kinetochore localization of Plk1.";
+RL   Mol. Biol. Cell 17:3705-3716(2006).
+RN   [14]
+RP   INTERACTION WITH BIRC5 AND CDCA8.
+RX   PubMed=16571674; DOI=10.1091/mbc.e05-12-1133;
+RA   Klein U.R., Nigg E.A., Gruneberg U.;
+RT   "Centromere targeting of the chromosomal passenger complex requires a
+RT   ternary subcomplex of borealin, survivin, and the N-terminal domain of
+RT   INCENP.";
+RL   Mol. Biol. Cell 17:2547-2558(2006).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D., Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient
+RT   phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-239; SER-263; SER-269;
+RP   SER-275; SER-306; SER-400; THR-406; SER-476 AND SER-899, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-119; SER-148; THR-239;
+RP   THR-292; SER-296; SER-306; SER-312; SER-314; SER-446; SER-510; SER-514;
+RP   SER-828; SER-831; THR-832; SER-894; SER-899 AND SER-914, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [18]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-263; SER-828 AND SER-899, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19369195; DOI=10.1074/mcp.m800588-mcp200;
+RA   Oppermann F.S., Gnad F., Olsen J.V., Hornberger R., Greff Z., Keri G.,
+RA   Mann M., Daub H.;
+RT   "Large-scale proteomics analysis of the human kinome.";
+RL   Mol. Cell. Proteomics 8:1751-1764(2009).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-197; THR-199; THR-213;
+RP   SER-214; THR-239; SER-306; SER-314; SER-828; SER-831; THR-832 AND SER-899,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [21]
+RP   INTERACTION WITH CBX5; POGZ AND AURKB, AND MUTAGENESIS OF VAL-169 AND
+RP   ILE-171.
+RX   PubMed=20562864; DOI=10.1038/ncb2075;
+RA   Nozawa R.S., Nagao K., Masuda H.T., Iwasaki O., Hirota T., Nozaki N.,
+RA   Kimura H., Obuse C.;
+RT   "Human POGZ modulates dissociation of HP1alpha from mitotic chromosome arms
+RT   through Aurora B activation.";
+RL   Nat. Cell Biol. 12:719-727(2010).
+RN   [22]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-119; SER-143; THR-239;
+RP   SER-263; SER-275; THR-292; SER-312; SER-314; SER-330 AND SER-899, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [23]
+RP   INTERACTION WITH JTB.
+RX   PubMed=21225229; DOI=10.3892/ijo.2011.900;
+RA   Platica M., Ionescu A., Ivan E., Holland J.F., Mandeli J., Platica O.;
+RT   "PAR, a protein involved in the cell cycle, is functionally related to
+RT   chromosomal passenger proteins.";
+RL   Int. J. Oncol. 38:777-785(2011).
+RN   [24]
+RP   FUNCTION, INTERACTION WITH CBX1; CBX3 AND CBX5, AND MUTAGENESIS OF PRO-167;
+RP   VAL-169 AND ILE-171.
+RX   PubMed=21346195; DOI=10.1091/mbc.e11-01-0009;
+RA   Kang J., Chaudhary J., Dong H., Kim S., Brautigam C.A., Yu H.;
+RT   "Mitotic centromeric targeting of HP1 and its binding to Sgo1 are
+RT   dispensable for sister-chromatid cohesion in human cells.";
+RL   Mol. Biol. Cell 22:1181-1190(2011).
+RN   [25]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-263; SER-306; SER-314 AND
+RP   SER-828, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [26]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-72; SER-119; SER-263;
+RP   SER-275; THR-292; SER-306; SER-446; SER-894; SER-899 AND SER-914, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [27]
+RP   INTERACTION WITH AURKC, FUNCTION, AND PHOSPHORYLATION AT THR-892; SER-893
+RP   AND SER-894.
+RX   PubMed=27332895; DOI=10.1371/journal.pone.0157305;
+RA   Sasai K., Katayama H., Hawke D.H., Sen S.;
+RT   "Aurora-C interactions with survivin and INCENP reveal shared and distinct
+RT   features compared with Aurora-B chromosome passenger protein complex.";
+RL   PLoS ONE 11:E0157305-E0157305(2016).
+RN   [28]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 3-46, INTERACTION WITH CDCA8 AND
+RP   BIRC5, AND MUTAGENESIS OF PHE-22; LEU-34; GLU-35; GLU-36; GLU-39 AND
+RP   GLU-40.
+RX   PubMed=17956729; DOI=10.1016/j.cell.2007.07.045;
+RA   Jeyaprakash A.A., Klein U.R., Lindner D., Ebert J., Nigg E.A., Conti E.;
+RT   "Structure of a Survivin-Borealin-INCENP core complex reveals how
+RT   chromosomal passengers travel together.";
+RL   Cell 131:271-285(2007).
+RN   [29]
+RP   X-RAY CRYSTALLOGRAPHY (2.75 ANGSTROMS) OF 835-903 IN COMPLEX WITH AURKB.
+RX   PubMed=22920039; DOI=10.1021/jm3008954;
+RA   Elkins J.M., Santaguida S., Musacchio A., Knapp S.;
+RT   "Crystal structure of human aurora B in complex with INCENP and VX-680.";
+RL   J. Med. Chem. 55:7841-7848(2012).
+CC   -!- FUNCTION: Component of the chromosomal passenger complex (CPC), a
+CC       complex that acts as a key regulator of mitosis. The CPC complex has
+CC       essential functions at the centromere in ensuring correct chromosome
+CC       alignment and segregation and is required for chromatin-induced
+CC       microtubule stabilization and spindle assembly. Acts as a scaffold
+CC       regulating CPC localization and activity. The C-terminus associates
+CC       with AURKB or AURKC, the N-terminus associated with BIRC5/survivin and
+CC       CDCA8/borealin tethers the CPC to the inner centromere, and the
+CC       microtubule binding activity within the central SAH domain directs
+CC       AURKB/C toward substrates near microtubules (PubMed:15316025,
+CC       PubMed:12925766, PubMed:27332895). The flexibility of the SAH domain is
+CC       proposed to allow AURKB/C to follow substrates on dynamic microtubules
+CC       while ensuring CPC docking to static chromatin (By similarity).
+CC       Activates AURKB and AURKC (PubMed:27332895). Required for localization
+CC       of CBX5 to mitotic centromeres (PubMed:21346195). Controls the
+CC       kinetochore localization of BUB1 (PubMed:16760428).
+CC       {ECO:0000250|UniProtKB:P53352, ECO:0000269|PubMed:12925766,
+CC       ECO:0000269|PubMed:15316025, ECO:0000269|PubMed:16760428,
+CC       ECO:0000269|PubMed:21346195, ECO:0000269|PubMed:27332895}.
+CC   -!- SUBUNIT: Component of the chromosomal passenger complex (CPC) composed
+CC       of at least BIRC5/survivin, CDCA8/borealin, INCENP, AURKB or AURKC; in
+CC       the complex binds directly to AURKB or AURKC via the IN box, and forms
+CC       a triple-helix bundle-based subcomplex with BIRC5 and CDCA8 via its N-
+CC       terminus (PubMed:17956729, PubMed:27332895). The reported
+CC       homodimerization is questioned as the SAH domain is shown to be
+CC       monomeric (By similarity). Interacts with H2AZ1 (By similarity).
+CC       Interacts with CBX1 and CBX3. Interacts with tubulin beta chain.
+CC       Interacts with EVI5. Interacts with CBX5; POGZ and INCENP compete for
+CC       interaction with CBX5; regulates INCENP (and probably CPC) localization
+CC       to centromeres in interphase and not required for proper mitotic
+CC       progression or sister chromatid cohesion. Interacts with POGZ.
+CC       Interacts with JTB. {ECO:0000250|UniProtKB:P53352,
+CC       ECO:0000250|UniProtKB:Q9WU62, ECO:0000269|PubMed:11139336,
+CC       ECO:0000269|PubMed:12925766, ECO:0000269|PubMed:14610074,
+CC       ECO:0000269|PubMed:15249581, ECO:0000269|PubMed:15316025,
+CC       ECO:0000269|PubMed:16764853, ECO:0000269|PubMed:17956729,
+CC       ECO:0000269|PubMed:20562864, ECO:0000269|PubMed:21225229,
+CC       ECO:0000269|PubMed:21346195, ECO:0000269|PubMed:22920039,
+CC       ECO:0000269|PubMed:27332895, ECO:0000269|PubMed:9864353}.
+CC   -!- INTERACTION:
+CC       Q9NQS7; O14965: AURKA; NbExp=2; IntAct=EBI-307907, EBI-448680;
+CC       Q9NQS7; Q96GD4: AURKB; NbExp=19; IntAct=EBI-307907, EBI-624291;
+CC       Q9NQS7; Q9UQB9: AURKC; NbExp=17; IntAct=EBI-307907, EBI-3926851;
+CC       Q9NQS7; O15392: BIRC5; NbExp=10; IntAct=EBI-307907, EBI-518823;
+CC       Q9NQS7; P45973: CBX5; NbExp=11; IntAct=EBI-307907, EBI-78219;
+CC       Q9NQS7; Q53HL2: CDCA8; NbExp=5; IntAct=EBI-307907, EBI-979174;
+CC       Q9NQS7-1; O14965: AURKA; NbExp=2; IntAct=EBI-15767972, EBI-448680;
+CC       Q9NQS7-1; Q96GD4: AURKB; NbExp=2; IntAct=EBI-15767972, EBI-624291;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11453556}.
+CC       Chromosome, centromere {ECO:0000269|PubMed:11453556,
+CC       ECO:0000269|PubMed:12925766, ECO:0000269|PubMed:15316025,
+CC       ECO:0000269|PubMed:16760428}. Cytoplasm, cytoskeleton, spindle
+CC       {ECO:0000269|PubMed:11453556, ECO:0000269|PubMed:15316025}. Midbody
+CC       {ECO:0000269|PubMed:15316025}. Chromosome, centromere, kinetochore
+CC       {ECO:0000269|PubMed:14610074}. Note=Colocalized at synaptonemal complex
+CC       central element from zygotene up to late pachytene when it begins to
+CC       relocalize to heterochromatic chromocenters. Colocalizes with AURKB at
+CC       a connecting strand traversing the centromere region and joining sister
+CC       kinetochores, in metaphase II centromeres. This strand disappears at
+CC       the metaphase II/anaphase II transition and relocalizes to the spindle
+CC       midzone (By similarity). Colocalizes with AURKB at mitotic chromosomes
+CC       (PubMed:11453556). Localizes to inner kinetochore (PubMed:16760428).
+CC       Localizes on chromosome arms and inner centromeres from prophase
+CC       through metaphase and then transferring to the spindle midzone and
+CC       midbody from anaphase through cytokinesis (PubMed:15316025). Cocalizes
+CC       to the equatorial cell cortex at anaphase (PubMed:11453556).
+CC       {ECO:0000250|UniProtKB:Q9WU62, ECO:0000269|PubMed:11453556,
+CC       ECO:0000269|PubMed:15316025, ECO:0000269|PubMed:16760428}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9NQS7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9NQS7-2; Sequence=VSP_035651;
+CC   -!- DOMAIN: The IN box mediates interaction with AURKB and AURKC.
+CC       {ECO:0000250|UniProtKB:O13024, ECO:0000269|PubMed:27332895}.
+CC   -!- DOMAIN: The SAH (single alpha-helix) region is characterized by a high
+CC       content of charged residues which are predicted to stabilize the alpha-
+CC       helical structure by ionic bonds. It can refold after extension
+CC       suggesting an in vivo force-dependent function. The isolated SAH domain
+CC       is monomeric. {ECO:0000250|UniProtKB:P53352}.
+CC   -!- PTM: Phosphorylation by AURKB or AURKC at its C-terminal part is
+CC       important for AURKB or AURKC activation by INCENP.
+CC       {ECO:0000269|PubMed:12925766, ECO:0000269|PubMed:15316025,
+CC       ECO:0000269|PubMed:27332895}.
+CC   -!- SIMILARITY: Belongs to the INCENP family. {ECO:0000305}.
+CC   -!- CAUTION: PubMed:11139336 experiments have been carried out partly in
+CC       chicken and partly in human. {ECO:0000305}.
+CC   -!- CAUTION: Originally predicted to contain a coiled coil domain but shown
+CC       to contain a stable SAH domain instead. {ECO:0000250|UniProtKB:P53352}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF282265; AAF87584.1; -; mRNA.
+DR   EMBL; AY714053; AAU04398.1; -; mRNA.
+DR   EMBL; AP002793; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471076; EAW74004.1; -; Genomic_DNA.
+DR   EMBL; BC098576; AAH98576.1; -; mRNA.
+DR   CCDS; CCDS31582.1; -. [Q9NQS7-2]
+DR   CCDS; CCDS44624.1; -. [Q9NQS7-1]
+DR   RefSeq; NP_001035784.1; NM_001040694.1. [Q9NQS7-1]
+DR   RefSeq; NP_064623.2; NM_020238.2. [Q9NQS7-2]
+DR   PDB; 2QFA; X-ray; 1.40 A; C=1-47.
+DR   PDB; 4AF3; X-ray; 2.75 A; D=835-903.
+DR   PDB; 5IEH; X-ray; 1.50 A; C=47-55.
+DR   PDB; 5IEK; X-ray; 1.80 A; C=47-55.
+DR   PDB; 6GR8; X-ray; 1.75 A; B=835-903.
+DR   PDB; 6GR9; X-ray; 2.25 A; B=835-903.
+DR   PDB; 6YIE; X-ray; 3.49 A; C/F=1-58.
+DR   PDB; 6YIF; X-ray; 1.81 A; C=7-57.
+DR   PDB; 6YIH; X-ray; 2.55 A; C=5-80.
+DR   PDBsum; 2QFA; -.
+DR   PDBsum; 4AF3; -.
+DR   PDBsum; 5IEH; -.
+DR   PDBsum; 5IEK; -.
+DR   PDBsum; 6GR8; -.
+DR   PDBsum; 6GR9; -.
+DR   PDBsum; 6YIE; -.
+DR   PDBsum; 6YIF; -.
+DR   PDBsum; 6YIH; -.
+DR   AlphaFoldDB; Q9NQS7; -.
+DR   SMR; Q9NQS7; -.
+DR   BioGRID; 109831; 73.
+DR   ComplexPortal; CPX-116; Chromosomal passenger complex.
+DR   CORUM; Q9NQS7; -.
+DR   DIP; DIP-31304N; -.
+DR   IntAct; Q9NQS7; 30.
+DR   MINT; Q9NQS7; -.
+DR   STRING; 9606.ENSP00000378295; -.
+DR   BindingDB; Q9NQS7; -.
+DR   ChEMBL; CHEMBL3430907; -.
+DR   ChEMBL; CHEMBL4106141; -.
+DR   DrugBank; DB07340; Reversine.
+DR   GlyGen; Q9NQS7; 3 sites, 1 O-linked glycan (3 sites).
+DR   iPTMnet; Q9NQS7; -.
+DR   PhosphoSitePlus; Q9NQS7; -.
+DR   SwissPalm; Q9NQS7; -.
+DR   BioMuta; INCENP; -.
+DR   DMDM; 212276501; -.
+DR   EPD; Q9NQS7; -.
+DR   jPOST; Q9NQS7; -.
+DR   MassIVE; Q9NQS7; -.
+DR   MaxQB; Q9NQS7; -.
+DR   PaxDb; Q9NQS7; -.
+DR   PeptideAtlas; Q9NQS7; -.
+DR   ProteomicsDB; 82181; -. [Q9NQS7-1]
+DR   ProteomicsDB; 82182; -. [Q9NQS7-2]
+DR   Antibodypedia; 4598; 199 antibodies from 30 providers.
+DR   DNASU; 3619; -.
+DR   Ensembl; ENST00000278849.4; ENSP00000278849.4; ENSG00000149503.13. [Q9NQS7-2]
+DR   Ensembl; ENST00000394818.8; ENSP00000378295.3; ENSG00000149503.13. [Q9NQS7-1]
+DR   GeneID; 3619; -.
+DR   KEGG; hsa:3619; -.
+DR   MANE-Select; ENST00000394818.8; ENSP00000378295.3; NM_001040694.2; NP_001035784.1.
+DR   UCSC; uc001nsw.2; human. [Q9NQS7-1]
+DR   AGR; HGNC:6058; -.
+DR   CTD; 3619; -.
+DR   DisGeNET; 3619; -.
+DR   GeneCards; INCENP; -.
+DR   HGNC; HGNC:6058; INCENP.
+DR   HPA; ENSG00000149503; Tissue enhanced (bone).
+DR   MIM; 604411; gene.
+DR   neXtProt; NX_Q9NQS7; -.
+DR   OpenTargets; ENSG00000149503; -.
+DR   PharmGKB; PA29868; -.
+DR   VEuPathDB; HostDB:ENSG00000149503; -.
+DR   eggNOG; KOG4456; Eukaryota.
+DR   GeneTree; ENSGT00730000111073; -.
+DR   HOGENOM; CLU_015997_0_0_1; -.
+DR   InParanoid; Q9NQS7; -.
+DR   OMA; SNDYGMD; -.
+DR   OrthoDB; 3094173at2759; -.
+DR   PhylomeDB; Q9NQS7; -.
+DR   TreeFam; TF101172; -.
+DR   PathwayCommons; Q9NQS7; -.
+DR   Reactome; R-HSA-141444; Amplification of signal from unattached kinetochores via a MAD2 inhibitory signal.
+DR   Reactome; R-HSA-2467813; Separation of Sister Chromatids.
+DR   Reactome; R-HSA-2500257; Resolution of Sister Chromatid Cohesion.
+DR   Reactome; R-HSA-4615885; SUMOylation of DNA replication proteins.
+DR   Reactome; R-HSA-5663220; RHO GTPases Activate Formins.
+DR   Reactome; R-HSA-68877; Mitotic Prometaphase.
+DR   Reactome; R-HSA-9648025; EML4 and NUDC in mitotic spindle formation.
+DR   SignaLink; Q9NQS7; -.
+DR   SIGNOR; Q9NQS7; -.
+DR   BioGRID-ORCS; 3619; 784 hits in 1165 CRISPR screens.
+DR   ChiTaRS; INCENP; human.
+DR   EvolutionaryTrace; Q9NQS7; -.
+DR   GeneWiki; INCENP; -.
+DR   GenomeRNAi; 3619; -.
+DR   Pharos; Q9NQS7; Tbio.
+DR   PRO; PR:Q9NQS7; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q9NQS7; protein.
+DR   Bgee; ENSG00000149503; Expressed in ventricular zone and 119 other tissues.
+DR   ExpressionAtlas; Q9NQS7; baseline and differential.
+DR   Genevisible; Q9NQS7; HS.
+DR   GO; GO:0000801; C:central element; IEA:Ensembl.
+DR   GO; GO:0010369; C:chromocenter; IEA:Ensembl.
+DR   GO; GO:0032133; C:chromosome passenger complex; IPI:ComplexPortal.
+DR   GO; GO:0000775; C:chromosome, centromeric region; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0000776; C:kinetochore; IDA:UniProtKB.
+DR   GO; GO:0000800; C:lateral element; IEA:Ensembl.
+DR   GO; GO:1990385; C:meiotic spindle midzone; IBA:GO_Central.
+DR   GO; GO:0005874; C:microtubule; IEA:UniProtKB-KW.
+DR   GO; GO:0015630; C:microtubule cytoskeleton; IDA:ComplexPortal.
+DR   GO; GO:0030496; C:midbody; IDA:HPA.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0005721; C:pericentric heterochromatin; IDA:UniProtKB.
+DR   GO; GO:0032991; C:protein-containing complex; IDA:UniProtKB.
+DR   GO; GO:0005819; C:spindle; IDA:UniProtKB.
+DR   GO; GO:0140677; F:molecular function activator activity; IPI:DisProt.
+DR   GO; GO:0007059; P:chromosome segregation; IMP:UniProtKB.
+DR   GO; GO:0051257; P:meiotic spindle midzone assembly; IBA:GO_Central.
+DR   GO; GO:0051310; P:metaphase plate congression; IBA:GO_Central.
+DR   GO; GO:0000278; P:mitotic cell cycle; NAS:ComplexPortal.
+DR   GO; GO:0000281; P:mitotic cytokinesis; IMP:UniProtKB.
+DR   GO; GO:0051256; P:mitotic spindle midzone assembly; NAS:ComplexPortal.
+DR   GO; GO:0007052; P:mitotic spindle organization; NAS:ComplexPortal.
+DR   GO; GO:1902425; P:positive regulation of attachment of mitotic spindle microtubules to kinetochore; NAS:ComplexPortal.
+DR   GO; GO:0090267; P:positive regulation of mitotic cell cycle spindle assembly checkpoint; NAS:ComplexPortal.
+DR   GO; GO:1903490; P:positive regulation of mitotic cytokinesis; NAS:ComplexPortal.
+DR   GO; GO:1901970; P:positive regulation of mitotic sister chromatid separation; NAS:ComplexPortal.
+DR   GO; GO:0001934; P:positive regulation of protein phosphorylation; NAS:ComplexPortal.
+DR   GO; GO:0006468; P:protein phosphorylation; NAS:ComplexPortal.
+DR   DisProt; DP02390; -.
+DR   Gene3D; 1.20.5.3600; -; 1.
+DR   Gene3D; 6.10.250.2990; -; 1.
+DR   IDEAL; IID00224; -.
+DR   InterPro; IPR022006; INCENP_N.
+DR   InterPro; IPR005635; Inner_centromere_prot_ARK-bd.
+DR   PANTHER; PTHR13142; INNER CENTROMERE PROTEIN; 1.
+DR   PANTHER; PTHR13142:SF1; INNER CENTROMERE PROTEIN; 1.
+DR   Pfam; PF03941; INCENP_ARK-bind; 1.
+DR   Pfam; PF12178; INCENP_N; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell cycle; Cell division; Centromere;
+KW   Chromosome; Chromosome partition; Cytoplasm; Cytoskeleton; Kinetochore;
+KW   Microtubule; Mitosis; Nucleus; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..918
+FT                   /note="Inner centromere protein"
+FT                   /id="PRO_0000084201"
+FT   REGION          48..105
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          124..248
+FT                   /note="Interaction with CBX5"
+FT                   /evidence="ECO:0000269|PubMed:21346195"
+FT   REGION          138..159
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          190..253
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          285..316
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          371..489
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          531..765
+FT                   /note="SAH"
+FT                   /evidence="ECO:0000250|UniProtKB:P53352"
+FT   REGION          607..640
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          660..740
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          754..787
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          822..897
+FT                   /note="Interaction with AURKC"
+FT                   /evidence="ECO:0000269|PubMed:27332895"
+FT   REGION          826..900
+FT                   /note="IN box"
+FT                   /evidence="ECO:0000305"
+FT   REGION          826..845
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           167..171
+FT                   /note="PXVXL/I motif"
+FT                   /evidence="ECO:0000305|PubMed:21346195"
+FT   COMPBIAS        70..84
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        141..159
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        190..216
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        289..316
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        393..433
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        435..461
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        754..784
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         72
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         119
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         143
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         148
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         150
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9WU62"
+FT   MOD_RES         195
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:15316025"
+FT   MOD_RES         197
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         199
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         213
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         214
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332"
+FT   MOD_RES         219
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9WU62"
+FT   MOD_RES         239
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         263
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19369195,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         269
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976"
+FT   MOD_RES         275
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         292
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         296
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         306
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         312
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:20068231"
+FT   MOD_RES         314
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         330
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         400
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976"
+FT   MOD_RES         406
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18691976"
+FT   MOD_RES         446
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         476
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976"
+FT   MOD_RES         478
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9WU62"
+FT   MOD_RES         480
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9WU62"
+FT   MOD_RES         510
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         514
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         828
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19369195, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         831
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332"
+FT   MOD_RES         832
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332"
+FT   MOD_RES         892
+FT                   /note="Phosphothreonine; by AURKB and AURKC"
+FT                   /evidence="ECO:0000269|PubMed:12925766,
+FT                   ECO:0000269|PubMed:27332895"
+FT   MOD_RES         893
+FT                   /note="Phosphoserine; by AURKB and AURKC"
+FT                   /evidence="ECO:0000269|PubMed:12925766,
+FT                   ECO:0000269|PubMed:27332895"
+FT   MOD_RES         894
+FT                   /note="Phosphoserine; by AURKB and AURKC"
+FT                   /evidence="ECO:0000269|PubMed:12925766,
+FT                   ECO:0000269|PubMed:27332895, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         899
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19369195,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         914
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         532..535
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11453556"
+FT                   /id="VSP_035651"
+FT   VARIANT         2
+FT                   /note="G -> V (in dbSNP:rs1792947)"
+FT                   /id="VAR_047127"
+FT   VARIANT         100
+FT                   /note="R -> H (in dbSNP:rs12281503)"
+FT                   /id="VAR_047128"
+FT   VARIANT         137
+FT                   /note="A -> V (in dbSNP:rs34441559)"
+FT                   /id="VAR_047129"
+FT   VARIANT         506
+FT                   /note="M -> T (in dbSNP:rs2277283)"
+FT                   /id="VAR_047130"
+FT   VARIANT         644
+FT                   /note="E -> D (in dbSNP:rs7129085)"
+FT                   /evidence="ECO:0000269|PubMed:11453556,
+FT                   ECO:0000269|PubMed:15316025, ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_047131"
+FT   MUTAGEN         22
+FT                   /note="F->R: Loss of binding to CDCA8 and BIRC5; when
+FT                   associated with R-34."
+FT                   /evidence="ECO:0000269|PubMed:17956729"
+FT   MUTAGEN         34
+FT                   /note="L->R: Loss of binding to CDCA8 and BIRC5; when
+FT                   associated with R-22."
+FT                   /evidence="ECO:0000269|PubMed:17956729"
+FT   MUTAGEN         35
+FT                   /note="E->R: Loss of localization to the central spindle
+FT                   and midbody in anaphase or cytokinesis; when associated
+FT                   with R-36; R-39 and R-40."
+FT                   /evidence="ECO:0000269|PubMed:17956729"
+FT   MUTAGEN         36
+FT                   /note="E->R: Loss of localization to the central spindle
+FT                   and midbody in anaphase or cytokinesis; when associated
+FT                   with R-35; R-39 and R-40."
+FT                   /evidence="ECO:0000269|PubMed:17956729"
+FT   MUTAGEN         39
+FT                   /note="E->R: Loss of localization to the central spindle
+FT                   and midbody in anaphase or cytokinesis; when associated
+FT                   with R-35; R-36 and R-40."
+FT                   /evidence="ECO:0000269|PubMed:17956729"
+FT   MUTAGEN         40
+FT                   /note="E->R: Loss of localization to the central spindle
+FT                   and midbody in anaphase or cytokinesis; when associated
+FT                   with R-35; R-36 and R-39."
+FT                   /evidence="ECO:0000269|PubMed:17956729"
+FT   MUTAGEN         167
+FT                   /note="P->A: Decreases interaction with CBX5, abolishes
+FT                   localization to centromeres in interphase; when associated
+FT                   with A-169 and A-171."
+FT                   /evidence="ECO:0000269|PubMed:21346195"
+FT   MUTAGEN         169
+FT                   /note="V->A: Decreases interaction with CBX5, abolishes
+FT                   localization to centromeres in interphase; when associated
+FT                   with A-167 and A-171."
+FT                   /evidence="ECO:0000269|PubMed:21346195"
+FT   MUTAGEN         169
+FT                   /note="V->E: Abolishes interaction with CBX5."
+FT                   /evidence="ECO:0000269|PubMed:20562864"
+FT   MUTAGEN         171
+FT                   /note="I->A: Decreases interaction with CBX5, abolishes
+FT                   localization to centromeres in interphase; when associated
+FT                   with A-167 and A-169."
+FT                   /evidence="ECO:0000269|PubMed:21346195"
+FT   MUTAGEN         171
+FT                   /note="I->E: Abolishes interaction with CBX5 and AURKB."
+FT                   /evidence="ECO:0000269|PubMed:20562864"
+FT   CONFLICT        715
+FT                   /note="Q -> QERREQ (in Ref. 1; AAF87584)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        804..806
+FT                   /note="YQM -> SPI (in Ref. 1; AAF87584)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        812
+FT                   /note="R -> K (in Ref. 1; AAF87584)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        816
+FT                   /note="K -> Q (in Ref. 1; AAF87584)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        820
+FT                   /note="D -> H (in Ref. 1; AAF87584)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        861
+FT                   /note="H -> Q (in Ref. 1; AAF87584)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           8..10
+FT                   /evidence="ECO:0007829|PDB:2QFA"
+FT   HELIX           11..28
+FT                   /evidence="ECO:0007829|PDB:2QFA"
+FT   HELIX           30..45
+FT                   /evidence="ECO:0007829|PDB:2QFA"
+FT   HELIX           844..846
+FT                   /evidence="ECO:0007829|PDB:6GR8"
+FT   HELIX           848..860
+FT                   /evidence="ECO:0007829|PDB:6GR8"
+FT   HELIX           865..869
+FT                   /evidence="ECO:0007829|PDB:6GR8"
+FT   HELIX           877..881
+FT                   /evidence="ECO:0007829|PDB:6GR8"
+FT   HELIX           886..889
+FT                   /evidence="ECO:0007829|PDB:6GR8"
+FT   HELIX           893..895
+FT                   /evidence="ECO:0007829|PDB:6GR8"
+SQ   SEQUENCE   918 AA;  105429 MW;  644D081DCC9035E8 CRC64;
+     MGTTAPGPIH LLELCDQKLM EFLCNMDNKD LVWLEEIQEE AERMFTREFS KEPELMPKTP
+     SQKNRRKKRR ISYVQDENRD PIRRRLSRRK SRSSQLSSRR LRSKDSVEKL ATVVGENGSV
+     LRRVTRAAAA AAAATMALAA PSSPTPESPT MLTKKPEDNH TQCQLVPVVE IGISERQNAE
+     QHVTQLMSTE PLPRTLSPTP ASATAPTSQG IPTSDEESTP KKSKARILES ITVSSLMATP
+     QDPKGQGVGT GRSASKLRIA QVSPGPRDSP AFPDSPWRER VLAPILPDNF STPTGSRTDS
+     QSVRHSPIAP SSPSPQVLAQ KYSLVAKQES VVRRASRRLA KKTAEEPAAS GRIICHSYLE
+     RLLNVEVPQK VGSEQKEPPE EAEPVAAAEP EVPENNGNNS WPHNDTEIAN STPNPKPAAS
+     SPETPSAGQQ EAKTDQADGP REPPQSARRK RSYKQAVSEL DEEQHLEDEE LQPPRSKTPS
+     SPCPASKVVR PLRTFLHTVQ RNQMLMTPTS APRSVMKSFI KRNTPLRMDP KCSFVEKERQ
+     RLENLRRKEE AEQLRRQKVE EDKRRRLEEV KLKREERLRK VLQARERVEQ MKEEKKKQIE
+     QKFAQIDEKT EKAKEERLAE EKAKKKAAAK KMEEVEARRK QEEEARRLRW LQQEEEERRH
+     QELLQKKKEE EQERLRKAAE AKRLAEQREQ ERREQERREQ ERREQERREQ ERREQERQLA
+     EQERRREQER LQAERELQER EKALRLQKEQ LQRELEEKKK KEEQQRLAER QLQEEQEKKA
+     KEAAGASKAL NVTVDVQSPA CTSYQMTPQG HRAPPKINPD NYGMDLNSDD STDDEAHPRK
+     PIPTWARGTP LSQAIIHQYY HPPNLLELFG TILPLDLEDI FKKSKPRYHK RTSSAVWNSP
+     PLQGARVPSS LAYSLKKH
+//

@@ -1,0 +1,234 @@
+ID   TDR12_HUMAN             Reviewed;        1177 AA.
+AC   Q587J7;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   04-DEC-2007, sequence version 2.
+DT   28-JUN-2023, entry version 127.
+DE   RecName: Full=Putative ATP-dependent RNA helicase TDRD12;
+DE            EC=3.6.4.13;
+DE   AltName: Full=ES cell-associated transcript 8 protein;
+DE   AltName: Full=Tudor domain-containing protein 12;
+GN   Name=TDRD12; Synonyms=ECAT8;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 7-1177 (ISOFORM 2).
+RX   PubMed=12787504; DOI=10.1016/s0092-8674(03)00393-3;
+RA   Mitsui K., Tokuzawa Y., Itoh H., Segawa K., Murakami M., Takahashi K.,
+RA   Maruyama M., Maeda M., Yamanaka S.;
+RT   "The homeoprotein Nanog is required for maintenance of pluripotency in
+RT   mouse epiblast and ES cells.";
+RL   Cell 113:631-642(2003).
+CC   -!- FUNCTION: Probable ATP-binding RNA helicase required during
+CC       spermatogenesis to repress transposable elements and preventing their
+CC       mobilization, which is essential for the germline integrity. Acts via
+CC       the piRNA metabolic process, which mediates the repression of
+CC       transposable elements during meiosis by forming complexes composed of
+CC       piRNAs and Piwi proteins and governs the methylation and subsequent
+CC       repression of transposons. Involved in the secondary piRNAs metabolic
+CC       process. Acts via the PET complex, a multiprotein complex required
+CC       during the secondary piRNAs metabolic process for the PIWIL2 slicing-
+CC       triggered loading of PIWIL4 piRNAs. {ECO:0000250|UniProtKB:Q9CWU0}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.13;
+CC   -!- SUBUNIT: Component of a mRNP complex containing PIWIL2, TDRD1 and
+CC       piRNAs. Component of the PET complex, at least composed of EXD1,
+CC       PIWIL2, TDRD12 and piRNAs. {ECO:0000250|UniProtKB:Q9CWU0}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q587J7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q587J7-2; Sequence=VSP_029675, VSP_029676;
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAD95490.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC008736; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC008805; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC049000; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; AB211063; BAD95490.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS46038.1; -. [Q587J7-2]
+DR   RefSeq; NP_001104292.1; NM_001110822.1. [Q587J7-2]
+DR   AlphaFoldDB; Q587J7; -.
+DR   SMR; Q587J7; -.
+DR   BioGRID; 124857; 1.
+DR   IntAct; Q587J7; 3.
+DR   MINT; Q587J7; -.
+DR   STRING; 9606.ENSP00000390621; -.
+DR   CarbonylDB; Q587J7; -.
+DR   iPTMnet; Q587J7; -.
+DR   PhosphoSitePlus; Q587J7; -.
+DR   BioMuta; TDRD12; -.
+DR   DMDM; 162416281; -.
+DR   EPD; Q587J7; -.
+DR   MassIVE; Q587J7; -.
+DR   PaxDb; Q587J7; -.
+DR   PeptideAtlas; Q587J7; -.
+DR   ProteomicsDB; 62600; -. [Q587J7-1]
+DR   ProteomicsDB; 62601; -. [Q587J7-2]
+DR   Antibodypedia; 47944; 46 antibodies from 12 providers.
+DR   DNASU; 91646; -.
+DR   Ensembl; ENST00000421545.2; ENSP00000390621.2; ENSG00000173809.18. [Q587J7-2]
+DR   Ensembl; ENST00000444215.6; ENSP00000416248.2; ENSG00000173809.18. [Q587J7-1]
+DR   GeneID; 91646; -.
+DR   KEGG; hsa:91646; -.
+DR   UCSC; uc002ntq.3; human. [Q587J7-1]
+DR   AGR; HGNC:25044; -.
+DR   CTD; 91646; -.
+DR   DisGeNET; 91646; -.
+DR   GeneCards; TDRD12; -.
+DR   HGNC; HGNC:25044; TDRD12.
+DR   HPA; ENSG00000173809; Group enriched (epididymis, testis).
+DR   neXtProt; NX_Q587J7; -.
+DR   OpenTargets; ENSG00000173809; -.
+DR   PharmGKB; PA162405542; -.
+DR   VEuPathDB; HostDB:ENSG00000173809; -.
+DR   eggNOG; KOG0331; Eukaryota.
+DR   GeneTree; ENSGT00420000029847; -.
+DR   HOGENOM; CLU_008124_0_0_1; -.
+DR   InParanoid; Q587J7; -.
+DR   OrthoDB; 5351296at2759; -.
+DR   PhylomeDB; Q587J7; -.
+DR   TreeFam; TF332354; -.
+DR   PathwayCommons; Q587J7; -.
+DR   Reactome; R-HSA-5601884; PIWI-interacting RNA (piRNA) biogenesis.
+DR   SignaLink; Q587J7; -.
+DR   BioGRID-ORCS; 91646; 8 hits in 1139 CRISPR screens.
+DR   ChiTaRS; TDRD12; human.
+DR   GenomeRNAi; 91646; -.
+DR   Pharos; Q587J7; Tdark.
+DR   PRO; PR:Q587J7; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q587J7; protein.
+DR   Bgee; ENSG00000173809; Expressed in right testis and 123 other tissues.
+DR   ExpressionAtlas; Q587J7; baseline and differential.
+DR   GO; GO:1990923; C:PET complex; ISS:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   GO; GO:0003724; F:RNA helicase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0043046; P:DNA methylation involved in gamete generation; ISS:UniProtKB.
+DR   GO; GO:0009566; P:fertilization; ISS:UniProtKB.
+DR   GO; GO:0042078; P:germ-line stem cell division; IBA:GO_Central.
+DR   GO; GO:0007140; P:male meiotic nuclear division; ISS:UniProtKB.
+DR   GO; GO:0034587; P:piRNA processing; ISS:UniProtKB.
+DR   GO; GO:0010526; P:retrotransposon silencing; IBA:GO_Central.
+DR   GO; GO:0031047; P:RNA-mediated gene silencing; ISS:UniProtKB.
+DR   GO; GO:0007283; P:spermatogenesis; ISS:UniProtKB.
+DR   CDD; cd20434; Tudor_TDRD12_rpt1; 1.
+DR   CDD; cd20435; Tudor_TDRD12_rpt2; 1.
+DR   Gene3D; 2.30.30.140; -; 2.
+DR   Gene3D; 2.40.50.90; -; 2.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR035437; SNase_OB-fold_sf.
+DR   InterPro; IPR002999; Tudor.
+DR   InterPro; IPR047390; Tudor_TDRD12_rpt1.
+DR   PANTHER; PTHR22655:SF2; ATP-DEPENDENT RNA HELICASE TDRD12-RELATED; 1.
+DR   PANTHER; PTHR22655; UNCHARACTERIZED; 1.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF00567; TUDOR; 2.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 2.
+DR   SUPFAM; SSF63748; Tudor/PWWP/MBT; 2.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; ATP-binding; Developmental protein; Differentiation;
+KW   Helicase; Hydrolase; Meiosis; Nucleotide-binding; Reference proteome;
+KW   Repeat; RNA-mediated gene silencing; Spermatogenesis.
+FT   CHAIN           1..1177
+FT                   /note="Putative ATP-dependent RNA helicase TDRD12"
+FT                   /id="PRO_0000311968"
+FT   DOMAIN          56..118
+FT                   /note="Tudor 1"
+FT   DOMAIN          447..635
+FT                   /note="Helicase ATP-binding"
+FT   DOMAIN          900..999
+FT                   /note="Tudor 2"
+FT   REGION          1098..1177
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           574..577
+FT                   /note="DEAH box"
+FT   COMPBIAS        1102..1124
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         460..467
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         395
+FT                   /note="L -> T (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:12787504"
+FT                   /id="VSP_029675"
+FT   VAR_SEQ         396..1177
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:12787504"
+FT                   /id="VSP_029676"
+FT   CONFLICT        8
+FT                   /note="K -> Q (in Ref. 3; BAD95490)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        107
+FT                   /note="N -> S (in Ref. 3; BAD95490)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        413
+FT                   /note="K -> E (in Ref. 2; BC049000)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1177 AA;  132578 MW;  35C6C813A228132F CRC64;
+     MLQLLVLKIE DPGCFWVIIK GCSPFLDHDV DYQKLNSAMN DFYNSTCQDI EIKPLTLEEG
+     QVCVVYCEEL KCWCRAIVKS ITSSADQYLA ECFLVDFAKN IPVKSKNIRV VVESFMQLPY
+     RAKKFSLYCT KPVTLHIDFC RDSTDIVPAK KWDNAAIQYF QNLLKATTQV EARLCAVEED
+     TFEVYLYVTI KDEKVCVNDD LVAKNYACYM SPTKNKNLDY LEKPRLNIKS APSFNKLNPA
+     LTLWPMFLQG KDVQGMEDSH GVNFPAQSLQ HTWCKGIVGD LRPTATAQDK AVKCNMDSLR
+     DSPKDKSEKK HHCISLKDTN KRVESSVYWP AKRGITIYAD PDVPEASALS QKSNEKPLRL
+     TEKKEYDEKN SCVKLLQFLN PDPLRADGIS DLQQLQKLKG LQPPVVVLRN KIKPCLTIDS
+     SPLSADLKKA LQRNKFPGPS HTESYSWPPI ARGCDVVVIS HCESNPLLYL LPVLTVLQTG
+     ACYKSLPSRN GPLAVIVCPG WKKAQFIFEL LGEYSMSSRP LHPVLLTIGL HKEEAKNTKL
+     PRGCDVIVTT PYSLLRLLAC QSLLFLRLCH LILDEVEVLF LEANEQMFAI LDNFKKNIEV
+     EERESAPHQI VAVGVHWNKH IEHLIKEFMN DPYIVITAME EAALYGNVQQ VVHLCLECEK
+     TSSLLQALDF IPSQAQKTLI FTCSVAETEI VCKVVESSSI FCLKMHKEMI FNLQNVLEQW
+     KKKLSSGSQI ILALTDDCVP LLAITDATCV IHFSFPASPK VFGGRLYCMS DHFHAEQGSP
+     AEQGDKKAKS VLLLTEKDAS HAVGVLRYLE RADAKVPAEL YEFTAGVLEA KEDKKAGRPL
+     CPYLKAFGFC KDKRICPDRH RINPETDLPR KLSSQALPSF GYIKIIPFYI LNATNYFGRI
+     VDKHMDLYAT LNAEMNEYFK DSNKTTVEKV EKFGLYGLAE KTLFHRVQVL EVNQKEDAWA
+     LDDILVEFID EGRTGLVTRD QLLHLPEHFH TLPPQAVEFI VCRVKPADNE IEWNPKVTRY
+     IHHKIVGKLH DAKVILALGN TVWIDPMVHI TNLSSLKTSV IDYNVRAEIL SMGMGIDNPE
+     HIEQLKKLRE DAKIPACEES LSQTPPRVTG TSPAQDQDHP SEEQGGQGTP PAEDAACLQS
+     PQPEDTGAEG GAESKTSSEN QKPGGYLVFK RWLSSNR
+//

@@ -1,0 +1,787 @@
+ID   GBP1_HUMAN              Reviewed;         592 AA.
+AC   P32455; D3DT26; Q5T8M1;
+DT   01-OCT-1993, integrated into UniProtKB/Swiss-Prot.
+DT   02-NOV-2010, sequence version 2.
+DT   28-JUN-2023, entry version 197.
+DE   RecName: Full=Guanylate-binding protein 1 {ECO:0000305};
+DE            EC=3.6.1.- {ECO:0000269|PubMed:16511497};
+DE            EC=3.6.5.- {ECO:0000269|PubMed:10676968, ECO:0000269|PubMed:16511497};
+DE   AltName: Full=GTP-binding protein 1 {ECO:0000303|PubMed:8830800};
+DE            Short=GBP-1 {ECO:0000303|PubMed:8830800};
+DE            Short=HuGBP-1 {ECO:0000303|PubMed:8830800};
+DE            Short=hGBP1 {ECO:0000303|PubMed:7512561};
+DE   AltName: Full=Guanine nucleotide-binding protein 1;
+DE   AltName: Full=Interferon-induced guanylate-binding protein 1 {ECO:0000303|PubMed:1715024};
+DE   Flags: Precursor;
+GN   Name=GBP1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANTS SER-349 AND GLY-409.
+RX   PubMed=1715024; DOI=10.1128/mcb.11.9.4717-4725.1991;
+RA   Cheng Y.-S.E., Patterson C.E., Staeheli P.;
+RT   "Interferon-induced guanylate-binding proteins lack an N(T)KXD consensus
+RT   motif and bind GMP in addition to GDP and GTP.";
+RL   Mol. Cell. Biol. 11:4717-4725(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANTS SER-349 AND GLY-409.
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANTS SER-349 AND GLY-409.
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=7512561; DOI=10.1016/s0021-9258(19)78125-3;
+RA   Schwemmle M., Staeheli P.;
+RT   "The interferon-induced 67-kDa guanylate-binding protein (hGBP1) is a
+RT   GTPase that converts GTP to GMP.";
+RL   J. Biol. Chem. 269:11299-11305(1994).
+RN   [8]
+RP   ISOPRENYLATION AT CYS-589, AND METHYLATION AT CYS-589.
+RX   PubMed=8830800; DOI=10.1002/jlb.60.3.423;
+RA   Nantais D.E., Schwemmle M., Stickney J.T., Vestal D.J., Buss J.E.;
+RT   "Prenylation of an interferon-gamma-induced GTP-binding protein: the human
+RT   guanylate binding protein, huGBP1.";
+RL   J. Leukoc. Biol. 60:423-431(1996).
+RN   [9]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15937107; DOI=10.1073/pnas.0503227102;
+RA   Modiano N., Lu Y.E., Cresswell P.;
+RT   "Golgi targeting of human guanylate-binding protein-1 requires nucleotide
+RT   binding, isoprenylation, and an IFN-gamma-inducible cofactor.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:8680-8685(2005).
+RN   [10]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=16936281; DOI=10.2353/ajpath.2006.060244;
+RA   Naschberger E., Lubeseder-Martellato C., Meyer N., Gessner R., Kremmer E.,
+RA   Gessner A., Sturzl M.;
+RT   "Human guanylate binding protein-1 is a secreted GTPase present in
+RT   increased concentrations in the cerebrospinal fluid of patients with
+RT   bacterial meningitis.";
+RL   Am. J. Pathol. 169:1088-1099(2006).
+RN   [11]
+RP   SUBCELLULAR LOCATION, AND INDUCTION.
+RX   PubMed=17266443; DOI=10.1089/jir.2007.0086;
+RA   Tripal P., Bauer M., Naschberger E., Mortinger T., Hohenadl C., Cornali E.,
+RA   Thurau M., Sturzl M.;
+RT   "Unique features of different members of the human guanylate-binding
+RT   protein family.";
+RL   J. Interferon Cytokine Res. 27:44-52(2007).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [13]
+RP   SUBCELLULAR LOCATION, DIMERIZATION, ISOPRENYLATION, AND MUTAGENESIS OF
+RP   LYS-51; 227-ARG-LYS-228 AND 589-CYS--SER-592.
+RX   PubMed=21151871; DOI=10.1371/journal.pone.0014246;
+RA   Britzen-Laurent N., Bauer M., Berton V., Fischer N., Syguda A.,
+RA   Reipschlager S., Naschberger E., Herrmann C., Sturzl M.;
+RT   "Intracellular trafficking of guanylate-binding proteins is regulated by
+RT   heterodimerization in a hierarchical manner.";
+RL   PLoS ONE 5:E14246-E14246(2010).
+RN   [14]
+RP   FUNCTION.
+RX   PubMed=22106366; DOI=10.1096/fj.11-189886;
+RA   Nordmann A., Wixler L., Boergeling Y., Wixler V., Ludwig S.;
+RT   "A new splice variant of the human guanylate-binding protein 3 mediates
+RT   anti-influenza activity through inhibition of viral transcription and
+RT   replication.";
+RL   FASEB J. 26:1290-1300(2012).
+RN   [15]
+RP   FUNCTION, CATALYTIC ACTIVITY, ISOPRENYLATION, AND MUTAGENESIS OF ARG-48 AND
+RP   LYS-76.
+RX   PubMed=28645896; DOI=10.1073/pnas.1620959114;
+RA   Shydlovskyi S., Zienert A.Y., Ince S., Dovengerds C., Hohendahl A.,
+RA   Dargazanli J.M., Blum A., Guenther S.D., Kladt N., Stuerzl M.,
+RA   Schauss A.C., Kutsch M., Roux A., Praefcke G.J.K., Herrmann C.;
+RT   "Nucleotide-dependent farnesyl switch orchestrates polymerization and
+RT   membrane binding of human guanylate-binding protein 1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 114:E5559-E5568(2017).
+RN   [16]
+RP   UBIQUITINATION (MICROBIAL INFECTION).
+RX   PubMed=29024643; DOI=10.1016/j.chom.2017.09.007;
+RA   Wandel M.P., Pathe C., Werner E.I., Ellison C.J., Boyle K.B.,
+RA   von der Malsburg A., Rohde J., Randow F.;
+RT   "GBPs inhibit motility of Shigella flexneri but are targeted for
+RT   degradation by the bacterial ubiquitin ligase IpaH9.8.";
+RL   Cell Host Microbe 22:507-518(2017).
+RN   [17]
+RP   SUBCELLULAR LOCATION, AND MUTAGENESIS OF 584-ARG--ARG-586.
+RX   PubMed=29233899; DOI=10.1128/mbio.01979-17;
+RA   Piro A.S., Hernandez D., Luoma S., Feeley E.M., Finethy R., Yirga A.,
+RA   Frickel E.M., Lesser C.F., Coers J.;
+RT   "Detection of cytosolic Shigella flexneri via a C-terminal triple-arginine
+RT   motif of GBP1 inhibits actin-based motility.";
+RL   MBio 8:0-0(2017).
+RN   [18]
+RP   UBIQUITINATION AT LYS-207; LYS-209; LYS-210; LYS-382; LYS-562; LYS-567;
+RP   LYS-573 AND LYS-587 (MICROBIAL INFECTION), FUNCTION, ISOPRENYLATION AT
+RP   CYS-589, AND MUTAGENESIS OF ARG-48; ASP-184; LYS-207; LYS-209; LYS-210;
+RP   LYS-382; LYS-562; LYS-567; LYS-573; LYS-587 AND CYS-589.
+RX   PubMed=29144452; DOI=10.1038/nature24467;
+RA   Li P., Jiang W., Yu Q., Liu W., Zhou P., Li J., Xu J., Xu B., Wang F.,
+RA   Shao F.;
+RT   "Ubiquitination and degradation of GBPs by a Shigella effector to suppress
+RT   host defence.";
+RL   Nature 551:378-383(2017).
+RN   [19]
+RP   FUNCTION, SUBCELLULAR LOCATION, ISOPRENYLATION AT CYS-589, AND MUTAGENESIS
+RP   OF LYS-51; 227-ARG-LYS-228 AND CYS-589.
+RX   PubMed=31268602; DOI=10.15252/embj.2018100926;
+RA   Fisch D., Bando H., Clough B., Hornung V., Yamamoto M., Shenoy A.R.,
+RA   Frickel E.M.;
+RT   "Human GBP1 is a microbe-specific gatekeeper of macrophage apoptosis and
+RT   pyroptosis.";
+RL   EMBO J. 38:e100926-e100926(2019).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS), AND GTP-BINDING.
+RX   PubMed=10676968; DOI=10.1038/35000617;
+RA   Prakash B., Praefcke G.J.K., Renault L., Wittinghofer A., Herrmann C.;
+RT   "Structure of human guanylate-binding protein 1 representing a unique class
+RT   of GTP-binding proteins.";
+RL   Nature 403:567-571(2000).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) IN COMPLEX WITH GTP ANALOG, AND
+RP   GTP-BINDING.
+RX   PubMed=10970849; DOI=10.1093/emboj/19.17.4555;
+RA   Prakash B., Renault L., Praefcke G.J., Herrmann C., Wittinghofer A.;
+RT   "Triphosphate structure of guanylate-binding protein 1 and implications for
+RT   nucleotide binding and GTPase mechanism.";
+RL   EMBO J. 19:4555-4564(2000).
+RN   [22] {ECO:0007744|PDB:2B8W, ECO:0007744|PDB:2B92, ECO:0007744|PDB:2BC9, ECO:0007744|PDB:2D4H}
+RP   X-RAY CRYSTALLOGRAPHY (2.22 ANGSTROMS) OF 1-317 IN COMPLEX WITH GDP AND
+RP   GMP, FUNCTION, CATALYTIC ACTIVITY, AND SUBUNIT.
+RX   PubMed=16511497; DOI=10.1038/nature04510;
+RA   Ghosh A., Praefcke G.J., Renault L., Wittinghofer A., Herrmann C.;
+RT   "How guanylate-binding proteins achieve assembly-stimulated processive
+RT   cleavage of GTP to GMP.";
+RL   Nature 440:101-104(2006).
+RN   [23] {ECO:0007744|PDB:6K1Z, ECO:0007744|PDB:6K2D}
+RP   X-RAY CRYSTALLOGRAPHY (2.31 ANGSTROMS) IN COMPLEX WITH S.FLEXNERI IPAH9.8,
+RP   AND UBIQUITINATION (MICROBIAL INFECTION).
+RX   PubMed=31216343; DOI=10.1371/journal.ppat.1007876;
+RA   Ji C., Du S., Li P., Zhu Q., Yang X., Long C., Yu J., Shao F., Xiao J.;
+RT   "Structural mechanism for guanylate-binding proteins (GBPs) targeting by
+RT   the Shigella E3 ligase IpaH9.8.";
+RL   PLoS Pathog. 15:e1007876-e1007876(2019).
+RN   [24] {ECO:0007744|PDB:6LOJ}
+RP   X-RAY CRYSTALLOGRAPHY (3.72 ANGSTROMS) IN COMPLEX WITH S.FLEXNERI IPAH9.8,
+RP   AND UBIQUITINATION (MICROBIAL INFECTION).
+RX   PubMed=33303953; DOI=10.1038/s42003-020-01492-1;
+RA   Ye Y., Xiong Y., Huang H.;
+RT   "Substrate-binding destabilizes the hydrophobic cluster to relieve the
+RT   autoinhibition of bacterial ubiquitin ligase IpaH9.8.";
+RL   Commun. Biol. 3:752-752(2020).
+CC   -!- FUNCTION: Interferon (IFN)-inducible GTPase that plays important roles
+CC       in innate immunity against a diverse range of bacterial, viral and
+CC       protozoan pathogens (PubMed:22106366, PubMed:29144452, PubMed:16511497,
+CC       PubMed:31268602). Hydrolyzes GTP to GMP in two consecutive cleavage
+CC       reactions: GTP is first hydrolyzed to GDP and then to GMP in a
+CC       processive manner (PubMed:7512561, PubMed:16511497). Following
+CC       infection, recruited to the pathogen-containing vacuoles or vacuole-
+CC       escaped bacteria and promotes both autophagy and inflammasome assembly
+CC       (PubMed:29144452, PubMed:31268602). Promotes host defense against
+CC       bacterial infections by regulating bacteriolytic peptide generation via
+CC       its interaction with ubiquitin-binding protein SQSTM1, which delivers
+CC       monoubiquitinated proteins to autolysosomes for the generation of
+CC       bacteriolytic peptides (By similarity). Also acts as a positive
+CC       regulator of inflammasome assembly by promoting the release of
+CC       inflammasome ligands from bacteria (PubMed:31268602). Acts by promoting
+CC       lysis of pathogen-containing vacuoles, releasing pathogens into the
+CC       cytosol (By similarity). Following pathogen release in the cytosol,
+CC       promotes recruitment of proteins that mediate bacterial cytolysis: this
+CC       liberates ligands that are detected by inflammasomes, such as
+CC       lipopolysaccharide (LPS) that activates the non-canonical CASP4/CASP11
+CC       inflammasome or double-stranded DNA (dsDNA) that activates the AIM2
+CC       inflammasome (PubMed:31268602). Confers protection to several
+CC       pathogens, including the bacterial pathogens L.monocytogenes and
+CC       M.bovis BCG as well as the protozoan pathogen T.gondii
+CC       (PubMed:31268602). Exhibits antiviral activity against influenza virus
+CC       (PubMed:22106366). {ECO:0000250|UniProtKB:Q01514,
+CC       ECO:0000269|PubMed:16511497, ECO:0000269|PubMed:22106366,
+CC       ECO:0000269|PubMed:29144452, ECO:0000269|PubMed:31268602,
+CC       ECO:0000269|PubMed:7512561}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=GTP + H2O = GDP + H(+) + phosphate; Xref=Rhea:RHEA:19669,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:37565,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:58189;
+CC         Evidence={ECO:0000269|PubMed:10676968, ECO:0000269|PubMed:16511497,
+CC         ECO:0000269|PubMed:28645896};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:19670;
+CC         Evidence={ECO:0000269|PubMed:10676968, ECO:0000269|PubMed:16511497,
+CC         ECO:0000269|PubMed:28645896};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=GDP + H2O = GMP + H(+) + phosphate; Xref=Rhea:RHEA:22156,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:43474,
+CC         ChEBI:CHEBI:58115, ChEBI:CHEBI:58189;
+CC         Evidence={ECO:0000269|PubMed:16511497, ECO:0000269|PubMed:28645896};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:22157;
+CC         Evidence={ECO:0000269|PubMed:16511497, ECO:0000269|PubMed:28645896};
+CC   -!- SUBUNIT: Homodimer; homodimerization occurs upon GTP-binding and is
+CC       required for the second hydrolysis step from GDP to GMP
+CC       (PubMed:10970849, PubMed:16511497). Undergoes conformational changes
+CC       and oligomerization upon GTP-binding and hydrolysis (PubMed:28645896).
+CC       Heterodimer with other family members, including GBP2, GBP3, GBP4 and
+CC       GBP5 (PubMed:10970849, PubMed:16511497). Dimerization regulates
+CC       subcellular location to membranous structures (PubMed:21151871).
+CC       Interacts with SQSTM1 (By similarity). {ECO:0000250|UniProtKB:Q01514,
+CC       ECO:0000269|PubMed:10970849, ECO:0000269|PubMed:16511497,
+CC       ECO:0000269|PubMed:21151871, ECO:0000269|PubMed:28645896}.
+CC   -!- INTERACTION:
+CC       P32455; P32455: GBP1; NbExp=15; IntAct=EBI-2869161, EBI-2869161;
+CC       P32455; P32456: GBP2; NbExp=9; IntAct=EBI-2869161, EBI-714388;
+CC       P32455; Q9H0R5: GBP3; NbExp=3; IntAct=EBI-2869161, EBI-2798916;
+CC       P32455; Q96PP9: GBP4; NbExp=2; IntAct=EBI-2869161, EBI-20840650;
+CC       P32455; Q96PP8: GBP5; NbExp=9; IntAct=EBI-2869161, EBI-749932;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasmic vesicle membrane
+CC       {ECO:0000269|PubMed:29144452, ECO:0000269|PubMed:29233899,
+CC       ECO:0000269|PubMed:31268602}; Lipid-anchor
+CC       {ECO:0000269|PubMed:21151871}; Cytoplasmic side
+CC       {ECO:0000269|PubMed:21151871}. Golgi apparatus membrane
+CC       {ECO:0000269|PubMed:15937107}; Lipid-anchor
+CC       {ECO:0000269|PubMed:21151871}; Cytoplasmic side
+CC       {ECO:0000269|PubMed:21151871}. Cell membrane
+CC       {ECO:0000269|PubMed:21151871}; Lipid-anchor
+CC       {ECO:0000269|PubMed:21151871}; Cytoplasmic side
+CC       {ECO:0000269|PubMed:21151871}. Cytoplasm {ECO:0000269|PubMed:21151871}.
+CC       Secreted {ECO:0000269|PubMed:16936281}. Note=Localizes to pathogen-
+CC       containing vacuoles or to the cell surface of bacteria that escaped
+CC       vacuoles (PubMed:29144452, PubMed:31268602). Secreted from endothelial
+CC       cells in the cerebrospinal fluid, upon bacterial challenge and
+CC       independently of IFNG induction (PubMed:16936281). Golgi membrane
+CC       localization requires isoprenylation and the presence of another IFNG-
+CC       induced factor (PubMed:15937107). {ECO:0000269|PubMed:15937107,
+CC       ECO:0000269|PubMed:16936281, ECO:0000269|PubMed:29144452,
+CC       ECO:0000269|PubMed:31268602}.
+CC   -!- INDUCTION: By IFNG during macrophage activation, and by TNF and IL1B.
+CC       {ECO:0000269|PubMed:17266443}.
+CC   -!- PTM: Isoprenylation is required for proper subcellular location.
+CC       {ECO:0000269|PubMed:21151871, ECO:0000269|PubMed:28645896,
+CC       ECO:0000269|PubMed:31268602}.
+CC   -!- PTM: (Microbial infection) Ubiquitinated by S.flexneri IpaH9.8, leading
+CC       to its degradation by the proteasome, thereby preventing its ability to
+CC       promote host defense against bacterial infection.
+CC       {ECO:0000269|PubMed:29024643, ECO:0000269|PubMed:29144452,
+CC       ECO:0000269|PubMed:31216343, ECO:0000269|PubMed:33303953}.
+CC   -!- SIMILARITY: Belongs to the TRAFAC class dynamin-like GTPase
+CC       superfamily. GB1/RHD3 GTPase family. GB1 subfamily.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01052}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/50147/GBP1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M55542; AAA35871.1; -; mRNA.
+DR   EMBL; BT006847; AAP35493.1; -; mRNA.
+DR   EMBL; AK291783; BAF84472.1; -; mRNA.
+DR   EMBL; AL160008; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471097; EAW73148.1; -; Genomic_DNA.
+DR   EMBL; CH471097; EAW73150.1; -; Genomic_DNA.
+DR   EMBL; BC002666; AAH02666.1; -; mRNA.
+DR   CCDS; CCDS718.1; -.
+DR   PIR; A41268; A41268.
+DR   RefSeq; NP_002044.2; NM_002053.2.
+DR   PDB; 1DG3; X-ray; 1.80 A; A=1-592.
+DR   PDB; 1F5N; X-ray; 1.70 A; A=1-592.
+DR   PDB; 2B8W; X-ray; 2.22 A; A/B=1-317.
+DR   PDB; 2B92; X-ray; 3.20 A; A/B=1-317.
+DR   PDB; 2BC9; X-ray; 2.80 A; A=1-317.
+DR   PDB; 2D4H; X-ray; 2.90 A; A/B=1-317.
+DR   PDB; 6K1Z; X-ray; 2.31 A; A=1-592.
+DR   PDB; 6K2D; X-ray; 3.60 A; A=1-479.
+DR   PDB; 6LOJ; X-ray; 3.72 A; B=1-592.
+DR   PDBsum; 1DG3; -.
+DR   PDBsum; 1F5N; -.
+DR   PDBsum; 2B8W; -.
+DR   PDBsum; 2B92; -.
+DR   PDBsum; 2BC9; -.
+DR   PDBsum; 2D4H; -.
+DR   PDBsum; 6K1Z; -.
+DR   PDBsum; 6K2D; -.
+DR   PDBsum; 6LOJ; -.
+DR   AlphaFoldDB; P32455; -.
+DR   SASBDB; P32455; -.
+DR   SMR; P32455; -.
+DR   BioGRID; 108903; 40.
+DR   DIP; DIP-60423N; -.
+DR   IntAct; P32455; 13.
+DR   MINT; P32455; -.
+DR   STRING; 9606.ENSP00000359504; -.
+DR   iPTMnet; P32455; -.
+DR   MetOSite; P32455; -.
+DR   PhosphoSitePlus; P32455; -.
+DR   SwissPalm; P32455; -.
+DR   BioMuta; GBP1; -.
+DR   DMDM; 311033383; -.
+DR   EPD; P32455; -.
+DR   jPOST; P32455; -.
+DR   MassIVE; P32455; -.
+DR   MaxQB; P32455; -.
+DR   PaxDb; P32455; -.
+DR   PeptideAtlas; P32455; -.
+DR   ProteomicsDB; 54877; -.
+DR   Antibodypedia; 4224; 346 antibodies from 34 providers.
+DR   DNASU; 2633; -.
+DR   Ensembl; ENST00000370473.5; ENSP00000359504.4; ENSG00000117228.11.
+DR   GeneID; 2633; -.
+DR   KEGG; hsa:2633; -.
+DR   MANE-Select; ENST00000370473.5; ENSP00000359504.4; NM_002053.3; NP_002044.2.
+DR   UCSC; uc001dmx.3; human.
+DR   AGR; HGNC:4182; -.
+DR   CTD; 2633; -.
+DR   DisGeNET; 2633; -.
+DR   GeneCards; GBP1; -.
+DR   HGNC; HGNC:4182; GBP1.
+DR   HPA; ENSG00000117228; Tissue enhanced (liver).
+DR   MIM; 600411; gene.
+DR   neXtProt; NX_P32455; -.
+DR   OpenTargets; ENSG00000117228; -.
+DR   PharmGKB; PA28596; -.
+DR   VEuPathDB; HostDB:ENSG00000117228; -.
+DR   eggNOG; KOG2037; Eukaryota.
+DR   GeneTree; ENSGT00940000156840; -.
+DR   HOGENOM; CLU_018608_2_2_1; -.
+DR   InParanoid; P32455; -.
+DR   OMA; CDMDDQE; -.
+DR   OrthoDB; 5309032at2759; -.
+DR   PhylomeDB; P32455; -.
+DR   TreeFam; TF331602; -.
+DR   PathwayCommons; P32455; -.
+DR   Reactome; R-HSA-877300; Interferon gamma signaling.
+DR   SignaLink; P32455; -.
+DR   BioGRID-ORCS; 2633; 22 hits in 1144 CRISPR screens.
+DR   ChiTaRS; GBP1; human.
+DR   EvolutionaryTrace; P32455; -.
+DR   GeneWiki; GBP1; -.
+DR   GenomeRNAi; 2633; -.
+DR   Pharos; P32455; Tbio.
+DR   PRO; PR:P32455; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; P32455; protein.
+DR   Bgee; ENSG00000117228; Expressed in pericardium and 194 other tissues.
+DR   Genevisible; P32455; HS.
+DR   GO; GO:0015629; C:actin cytoskeleton; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0031410; C:cytoplasmic vesicle; IDA:UniProt.
+DR   GO; GO:0030659; C:cytoplasmic vesicle membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:UniProtKB.
+DR   GO; GO:0000139; C:Golgi membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0106139; C:symbiont cell surface; IDA:UniProtKB.
+DR   GO; GO:0012506; C:vesicle membrane; IDA:UniProtKB.
+DR   GO; GO:0003779; F:actin binding; IDA:UniProtKB.
+DR   GO; GO:0019955; F:cytokine binding; IPI:UniProtKB.
+DR   GO; GO:0019899; F:enzyme binding; IPI:UniProtKB.
+DR   GO; GO:0003925; F:G protein activity; IDA:UniProtKB.
+DR   GO; GO:0019003; F:GDP binding; IDA:CAFA.
+DR   GO; GO:0004382; F:GDP phosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IDA:UniProtKB.
+DR   GO; GO:0003924; F:GTPase activity; IDA:UniProtKB.
+DR   GO; GO:0051879; F:Hsp90 protein binding; IPI:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0030507; F:spectrin binding; IPI:UniProtKB.
+DR   GO; GO:0071347; P:cellular response to interleukin-1; IEP:UniProtKB.
+DR   GO; GO:0071356; P:cellular response to tumor necrosis factor; IEP:UniProtKB.
+DR   GO; GO:0071346; P:cellular response to type II interferon; IDA:UniProtKB.
+DR   GO; GO:0051715; P:cytolysis in another organism; IDA:UniProtKB.
+DR   GO; GO:0042742; P:defense response to bacterium; ISS:UniProtKB.
+DR   GO; GO:0042832; P:defense response to protozoan; IDA:UniProtKB.
+DR   GO; GO:0051607; P:defense response to virus; IEA:UniProtKB-KW.
+DR   GO; GO:0045087; P:innate immune response; IDA:UniProtKB.
+DR   GO; GO:0070373; P:negative regulation of ERK1 and ERK2 cascade; IMP:UniProtKB.
+DR   GO; GO:0032703; P:negative regulation of interleukin-2 production; IMP:UniProtKB.
+DR   GO; GO:1903077; P:negative regulation of protein localization to plasma membrane; IMP:UniProtKB.
+DR   GO; GO:1900025; P:negative regulation of substrate adhesion-dependent cell spreading; IMP:UniProtKB.
+DR   GO; GO:0050860; P:negative regulation of T cell receptor signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0160075; P:non-canonical inflammasome complex assembly; IDA:UniProt.
+DR   GO; GO:0140639; P:positive regulation of pyroptosis; IDA:UniProtKB.
+DR   GO; GO:0072665; P:protein localization to vacuole; IDA:UniProtKB.
+DR   GO; GO:0050848; P:regulation of calcium-mediated signaling; IMP:UniProtKB.
+DR   GO; GO:1903076; P:regulation of protein localization to plasma membrane; IGI:UniProtKB.
+DR   CDD; cd01851; GBP; 1.
+DR   CDD; cd16269; GBP_C; 1.
+DR   Gene3D; 1.20.1000.10; Guanylate-binding protein, C-terminal domain; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 1.
+DR   InterPro; IPR030386; G_GB1_RHD3_dom.
+DR   InterPro; IPR037684; GBP_C.
+DR   InterPro; IPR003191; Guanylate-bd/ATL_C.
+DR   InterPro; IPR036543; Guanylate-bd_C_sf.
+DR   InterPro; IPR015894; Guanylate-bd_N.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10751; GUANYLATE BINDING PROTEIN; 1.
+DR   PANTHER; PTHR10751:SF113; GUANYLATE-BINDING PROTEIN 1; 1.
+DR   Pfam; PF02263; GBP; 1.
+DR   Pfam; PF02841; GBP_C; 1.
+DR   SUPFAM; SSF48340; Interferon-induced guanylate-binding protein 1 (GBP1), C-terminal domain; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS51715; G_GB1_RHD3; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Antiviral defense; Cell membrane; Cytoplasm;
+KW   Cytoplasmic vesicle; Golgi apparatus; GTP-binding; Hydrolase; Immunity;
+KW   Innate immunity; Isopeptide bond; Lipoprotein; Membrane; Methylation;
+KW   Nucleotide-binding; Prenylation; Reference proteome; Secreted;
+KW   Ubl conjugation.
+FT   CHAIN           1..589
+FT                   /note="Guanylate-binding protein 1"
+FT                   /id="PRO_0000190963"
+FT   PROPEP          590..592
+FT                   /note="Removed in mature form"
+FT                   /evidence="ECO:0000305|PubMed:8830800"
+FT                   /id="PRO_0000396777"
+FT   DOMAIN          35..278
+FT                   /note="GB1/RHD3-type G"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01052"
+FT   REGION          1..311
+FT                   /note="GTPase domain (Globular)"
+FT                   /evidence="ECO:0000305|PubMed:10676968"
+FT   BINDING         45..52
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000269|PubMed:10676968,
+FT                   ECO:0000269|PubMed:10970849, ECO:0000269|PubMed:16511497,
+FT                   ECO:0007744|PDB:1F5N, ECO:0007744|PDB:2B8W,
+FT                   ECO:0007744|PDB:2B92, ECO:0007744|PDB:2D4H"
+FT   BINDING         67..69
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000269|PubMed:10676968,
+FT                   ECO:0000269|PubMed:10970849, ECO:0000269|PubMed:16511497,
+FT                   ECO:0007744|PDB:1F5N, ECO:0007744|PDB:2B8W,
+FT                   ECO:0007744|PDB:2B92, ECO:0007744|PDB:2D4H"
+FT   BINDING         97..101
+FT                   /ligand="GTP"
+FT                   /ligand_id="ChEBI:CHEBI:37565"
+FT                   /evidence="ECO:0000269|PubMed:10676968,
+FT                   ECO:0000269|PubMed:10970849, ECO:0007744|PDB:1F5N"
+FT   MOD_RES         589
+FT                   /note="Cysteine methyl ester"
+FT                   /evidence="ECO:0000305|PubMed:8830800"
+FT   LIPID           589
+FT                   /note="S-farnesyl cysteine"
+FT                   /evidence="ECO:0000269|PubMed:29144452,
+FT                   ECO:0000269|PubMed:31268602, ECO:0000269|PubMed:8830800"
+FT   CROSSLNK        207
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   CROSSLNK        209
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   CROSSLNK        210
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   CROSSLNK        382
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   CROSSLNK        562
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   CROSSLNK        567
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   CROSSLNK        573
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   CROSSLNK        587
+FT                   /note="(Microbial infection) Glycyl lysine isopeptide (Lys-
+FT                   Gly) (interchain with G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   VARIANT         78
+FT                   /note="I -> V (in dbSNP:rs1048401)"
+FT                   /id="VAR_033950"
+FT   VARIANT         166
+FT                   /note="E -> D (in dbSNP:rs17130717)"
+FT                   /id="VAR_033951"
+FT   VARIANT         349
+FT                   /note="T -> S (in dbSNP:rs1048425)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:1715024, ECO:0000269|Ref.2"
+FT                   /id="VAR_014849"
+FT   VARIANT         409
+FT                   /note="A -> G (in dbSNP:rs1048443)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:1715024, ECO:0000269|Ref.2"
+FT                   /id="VAR_046550"
+FT   MUTAGEN         48
+FT                   /note="R->A: Abolished GTPase activity."
+FT                   /evidence="ECO:0000269|PubMed:28645896,
+FT                   ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         51
+FT                   /note="K->A: Loss of GTPase activity. Constitutively
+FT                   monomeric. Expressed throughout the cytoplasm, loss of
+FT                   vesicular accumulation. Impaired ability to promote
+FT                   pyroptosis in response to T.gondii infection."
+FT                   /evidence="ECO:0000269|PubMed:31268602,
+FT                   ECO:0000305|PubMed:21151871"
+FT   MUTAGEN         76
+FT                   /note="K->A: Abolished GDPase activity."
+FT                   /evidence="ECO:0000269|PubMed:28645896"
+FT   MUTAGEN         184
+FT                   /note="D->N: Strongly decreased nucleotide-binding."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         207
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-209, R-210, R-382,
+FT                   R-562, R-567, R-573 and R-587."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         209
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-207, R-210, R-382,
+FT                   R-562, R-567, R-573 and R-587."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         210
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-207, R-209, R-382,
+FT                   R-562, R-567, R-573 and R-587."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         227..228
+FT                   /note="RK->EE: Constitutively dimeric. Localizes at
+FT                   vesicle-like structures at the plasma membrane."
+FT                   /evidence="ECO:0000269|PubMed:21151871,
+FT                   ECO:0000269|PubMed:31268602"
+FT   MUTAGEN         382
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-207, R-209, R-210,
+FT                   R-562, R-567, R-573 and R-587."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         562
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-207, R-209, R-210,
+FT                   R-382, R-567, R-573 and R-587."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         567
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-207, R-209, R-210,
+FT                   R-382, R-562, R-573 and R-587."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         573
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-207, R-209, R-210,
+FT                   R-382, R-562, R-567 and R-587."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         584..586
+FT                   /note="RRR->AAA: Abolished localization to
+FT                   pathogen-containing vacuoles."
+FT                   /evidence="ECO:0000269|PubMed:29233899"
+FT   MUTAGEN         584..586
+FT                   /note="Missing: Abolished localization to
+FT                   pathogen-containing vacuoles."
+FT                   /evidence="ECO:0000269|PubMed:29233899"
+FT   MUTAGEN         587
+FT                   /note="K->R: In 8KR mutant; abolished ubiquitination by S.
+FT                   flexneri IpaH9.8 when associated with R-207, R-209, R-210,
+FT                   R-382, R-562, R-567 and R-573."
+FT                   /evidence="ECO:0000269|PubMed:29144452"
+FT   MUTAGEN         589..592
+FT                   /note="Missing: Loss of association with membranes."
+FT                   /evidence="ECO:0000269|PubMed:21151871"
+FT   MUTAGEN         589
+FT                   /note="C->S: Abolished farnesylation and recruitment to the
+FT                   pathogen-containing vacuoles or vacuole-escaped bacteria.
+FT                   Impaired ability to promote pyroptosis in response to
+FT                   T.gondii infection."
+FT                   /evidence="ECO:0000269|PubMed:29144452,
+FT                   ECO:0000269|PubMed:31268602"
+FT   STRAND          11..17
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          20..23
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           25..32
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          36..46
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           47..49
+FT                   /evidence="ECO:0007829|PDB:1DG3"
+FT   HELIX           51..58
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          62..65
+FT                   /evidence="ECO:0007829|PDB:2B8W"
+FT   STRAND          70..72
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          77..84
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          86..88
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          92..98
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   TURN            101..103
+FT                   /evidence="ECO:0007829|PDB:1DG3"
+FT   HELIX           104..106
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           112..122
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          124..132
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           136..140
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           143..146
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           148..151
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          156..158
+FT                   /evidence="ECO:0007829|PDB:2D4H"
+FT   HELIX           167..170
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           171..174
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          177..183
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          192..194
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           198..205
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           214..229
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          233..237
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           244..252
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           255..257
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           260..276
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   TURN            283..285
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           290..306
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           312..342
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           350..371
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           376..378
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           379..423
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   TURN            424..427
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           432..449
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           457..467
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           469..478
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   STRAND          480..482
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           484..563
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+FT   HELIX           566..582
+FT                   /evidence="ECO:0007829|PDB:1F5N"
+SQ   SEQUENCE   592 AA;  67931 MW;  3A06741218360732 CRC64;
+     MASEIHMTGP MCLIENTNGR LMANPEALKI LSAITQPMVV VAIVGLYRTG KSYLMNKLAG
+     KKKGFSLGST VQSHTKGIWM WCVPHPKKPG HILVLLDTEG LGDVEKGDNQ NDSWIFALAV
+     LLSSTFVYNS IGTINQQAMD QLYYVTELTH RIRSKSSPDE NENEVEDSAD FVSFFPDFVW
+     TLRDFSLDLE ADGQPLTPDE YLTYSLKLKK GTSQKDETFN LPRLCIRKFF PKKKCFVFDR
+     PVHRRKLAQL EKLQDEELDP EFVQQVADFC SYIFSNSKTK TLSGGIQVNG PRLESLVLTY
+     VNAISSGDLP CMENAVLALA QIENSAAVQK AIAHYEQQMG QKVQLPTETL QELLDLHRDS
+     EREAIEVFIR SSFKDVDHLF QKELAAQLEK KRDDFCKQNQ EASSDRCSAL LQVIFSPLEE
+     EVKAGIYSKP GGYRLFVQKL QDLKKKYYEE PRKGIQAEEI LQTYLKSKES MTDAILQTDQ
+     TLTEKEKEIE VERVKAESAQ ASAKMLQEMQ RKNEQMMEQK ERSYQEHLKQ LTEKMENDRV
+     QLLKEQERTL ALKLQEQEQL LKEGFQKESR IMKNEIQDLQ TKMRRRKACT IS
+//

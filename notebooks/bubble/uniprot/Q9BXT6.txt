@@ -1,0 +1,440 @@
+ID   M10L1_HUMAN             Reviewed;        1211 AA.
+AC   Q9BXT6; A7E211; A8MXC6; B7WPP1; B7Z7R1; F5H403; Q5TGD5; Q8NBD4; Q9NXW3;
+AC   Q9UFB3; Q9UGX9;
+DT   02-AUG-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2001, sequence version 1.
+DT   28-JUN-2023, entry version 169.
+DE   RecName: Full=RNA helicase Mov10l1 {ECO:0000305};
+DE            EC=3.6.4.13 {ECO:0000250|UniProtKB:Q99MV5};
+DE   AltName: Full=Moloney leukemia virus 10-like protein 1 {ECO:0000312|HGNC:HGNC:7201};
+DE            Short=MOV10-like protein 1 {ECO:0000312|HGNC:HGNC:7201};
+GN   Name=MOV10L1 {ECO:0000312|HGNC:HGNC:7201};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE (ISOFORM 1), AND TISSUE SPECIFICITY.
+RC   TISSUE=Testis;
+RX   PubMed=11279525; DOI=10.1038/86927;
+RA   Wang P.J., McCarrey J.R., Yang F., Page D.C.;
+RT   "An abundance of X-linked genes expressed in spermatogonia.";
+RL   Nat. Genet. 27:422-426(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 2; 3 AND 5), AND VARIANT
+RP   ARG-820.
+RC   TISSUE=Adipose tissue, Cerebellum, and Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RX   PubMed=15461802; DOI=10.1186/gb-2004-5-10-r84;
+RA   Collins J.E., Wright C.L., Edwards C.A., Davis M.P., Grinham J.A.,
+RA   Cole C.G., Goward M.E., Aguado B., Mallya M., Mokrab Y., Huckle E.J.,
+RA   Beare D.M., Dunham I.;
+RT   "A genome annotation-driven approach to cloning the human ORFeome.";
+RL   Genome Biol. 5:R84.1-R84.11(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10591208; DOI=10.1038/990031;
+RA   Dunham I., Hunt A.R., Collins J.E., Bruskiewich R., Beare D.M., Clamp M.,
+RA   Smink L.J., Ainscough R., Almeida J.P., Babbage A.K., Bagguley C.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beasley O.P., Bird C.P., Blakey S.E.,
+RA   Bridgeman A.M., Buck D., Burgess J., Burrill W.D., Burton J., Carder C.,
+RA   Carter N.P., Chen Y., Clark G., Clegg S.M., Cobley V.E., Cole C.G.,
+RA   Collier R.E., Connor R., Conroy D., Corby N.R., Coville G.J., Cox A.V.,
+RA   Davis J., Dawson E., Dhami P.D., Dockree C., Dodsworth S.J., Durbin R.M.,
+RA   Ellington A.G., Evans K.L., Fey J.M., Fleming K., French L., Garner A.A.,
+RA   Gilbert J.G.R., Goward M.E., Grafham D.V., Griffiths M.N.D., Hall C.,
+RA   Hall R.E., Hall-Tamlyn G., Heathcott R.W., Ho S., Holmes S., Hunt S.E.,
+RA   Jones M.C., Kershaw J., Kimberley A.M., King A., Laird G.K., Langford C.F.,
+RA   Leversha M.A., Lloyd C., Lloyd D.M., Martyn I.D., Mashreghi-Mohammadi M.,
+RA   Matthews L.H., Mccann O.T., Mcclay J., Mclaren S., McMurray A.A.,
+RA   Milne S.A., Mortimore B.J., Odell C.N., Pavitt R., Pearce A.V., Pearson D.,
+RA   Phillimore B.J.C.T., Phillips S.H., Plumb R.W., Ramsay H., Ramsey Y.,
+RA   Rogers L., Ross M.T., Scott C.E., Sehra H.K., Skuce C.D., Smalley S.,
+RA   Smith M.L., Soderlund C., Spragon L., Steward C.A., Sulston J.E.,
+RA   Swann R.M., Vaudin M., Wall M., Wallis J.M., Whiteley M.N., Willey D.L.,
+RA   Williams L., Williams S.A., Williamson H., Wilmer T.E., Wilming L.,
+RA   Wright C.L., Hubbard T., Bentley D.R., Beck S., Rogers J., Shimizu N.,
+RA   Minoshima S., Kawasaki K., Sasaki T., Asakawa S., Kudoh J., Shintani A.,
+RA   Shibuya K., Yoshizaki Y., Aoki N., Mitsuyama S., Roe B.A., Chen F., Chu L.,
+RA   Crabtree J., Deschamps S., Do A., Do T., Dorman A., Fang F., Fu Y., Hu P.,
+RA   Hua A., Kenton S., Lai H., Lao H.I., Lewis J., Lewis S., Lin S.-P., Loh P.,
+RA   Malaj E., Nguyen T., Pan H., Phan S., Qi S., Qian Y., Ray L., Ren Q.,
+RA   Shaull S., Sloan D., Song L., Wang Q., Wang Y., Wang Z., White J.,
+RA   Willingham D., Wu H., Yao Z., Zhan M., Zhang G., Chissoe S., Murray J.,
+RA   Miller N., Minx P., Fulton R., Johnson D., Bemis G., Bentley D.,
+RA   Bradshaw H., Bourne S., Cordes M., Du Z., Fulton L., Goela D., Graves T.,
+RA   Hawkins J., Hinds K., Kemp K., Latreille P., Layman D., Ozersky P.,
+RA   Rohlfing T., Scheet P., Walker C., Wamsley A., Wohldmann P., Pepin K.,
+RA   Nelson J., Korf I., Bedell J.A., Hillier L.W., Mardis E., Waterston R.,
+RA   Wilson R., Emanuel B.S., Shaikh T., Kurahashi H., Saitta S., Budarf M.L.,
+RA   McDermid H.E., Johnson A., Wong A.C.C., Morrow B.E., Edelmann L., Kim U.J.,
+RA   Shizuya H., Simon M.I., Dumanski J.P., Peyrard M., Kedra D., Seroussi E.,
+RA   Fransson I., Tapia I., Bruder C.E., O'Brien K.P., Wilkinson P.,
+RA   Bodenteich A., Hartman K., Hu X., Khan A.S., Lane L., Tilahun Y.,
+RA   Wright H.;
+RT   "The DNA sequence of human chromosome 22.";
+RL   Nature 402:489-495(1999).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4), AND VARIANT LEU-454.
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 534-1211, AND VARIANTS LEU-454;
+RP   ARG-820 AND GLU-1179.
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [7]
+RP   VARIANTS SPGF73 ILE-816 AND ARG-848, AND INVOLVEMENT IN SPGF73.
+RX   PubMed=35476666; DOI=10.1056/nejmc2116008;
+RA   Li L., Tan Y.Q., Lu L.Y.;
+RT   "Defective piRNA Processing and Azoospermia.";
+RL   N. Engl. J. Med. 386:1675-1676(2022).
+CC   -!- FUNCTION: ATP-dependent RNA helicase required during spermatogenesis to
+CC       repress transposable elements and prevent their mobilization, which is
+CC       essential for germline integrity. Acts via the piRNA metabolic process,
+CC       which mediates the repression of transposable elements during meiosis
+CC       by forming complexes composed of piRNAs and Piwi proteins and governs
+CC       the methylation and subsequent repression of transposons. Involved in
+CC       the primary piRNA metabolic process. Specifically binds to piRNA
+CC       precursors and promotes the generation of intermediate piRNA processing
+CC       fragments that are subsequently loaded to Piwi proteins. Acts via its
+CC       ATP-dependent RNA helicase activity: displays 5'-3' RNA unwinding
+CC       activity and probably mediates unwinding and funneling of single-
+CC       stranded piRNA precursor transcripts to the endonuclease that catalyzes
+CC       the first cleavage step of piRNA processing to generate piRNA
+CC       intermediate fragments that are subsequently loaded to Piwi proteins.
+CC       {ECO:0000250|UniProtKB:Q99MV5}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.13;
+CC         Evidence={ECO:0000250|UniProtKB:Q99MV5};
+CC   -!- SUBUNIT: Interacts with PIWIL1. Interacts with PIWIL2. Interacts with
+CC       PIWIL4. Interacts with HSPA2. Interacts with PLD6.
+CC       {ECO:0000250|UniProtKB:Q99MV5}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q99MV5}.
+CC       Note=Component of the meiotic nuage, also named P granule, a germ-cell-
+CC       specific organelle required to repress transposon activity during
+CC       meiosis. {ECO:0000250|UniProtKB:Q99MV5}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=1;
+CC         IsoId=Q9BXT6-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BXT6-2; Sequence=VSP_003390, VSP_003391;
+CC       Name=3;
+CC         IsoId=Q9BXT6-3; Sequence=VSP_010945, VSP_010946, VSP_010947,
+CC                                  VSP_010948;
+CC       Name=4;
+CC         IsoId=Q9BXT6-4; Sequence=VSP_045413;
+CC       Name=5;
+CC         IsoId=Q9BXT6-5; Sequence=VSP_046082, VSP_046083;
+CC   -!- TISSUE SPECIFICITY: [Isoform 1]: Specifically expressed in testis.
+CC       {ECO:0000269|PubMed:11279525}.
+CC   -!- DISEASE: Spermatogenic failure 73 (SPGF73) [MIM:619878]: An autosomal
+CC       recessive male infertility disorder characterized by non-obstructive
+CC       azoospermia due to meiotic arrest. {ECO:0000269|PubMed:35476666}.
+CC       Note=The disease is caused by variants affecting the gene represented
+CC       in this entry.
+CC   -!- SIMILARITY: Belongs to the DNA2/NAM7 helicase family. SDE3 subfamily.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF285604; AAK31983.1; -; mRNA.
+DR   EMBL; AK000033; BAA90895.1; -; mRNA.
+DR   EMBL; AK090740; BAC03511.1; -; mRNA.
+DR   EMBL; AK302401; BAH13697.1; -; mRNA.
+DR   EMBL; CR456466; CAG30352.1; -; mRNA.
+DR   EMBL; AL022328; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL034546; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC150137; AAI50138.1; -; mRNA.
+DR   EMBL; BC152539; AAI52540.1; -; mRNA.
+DR   EMBL; AL133068; CAB61391.1; -; mRNA.
+DR   CCDS; CCDS14084.1; -. [Q9BXT6-1]
+DR   CCDS; CCDS54541.1; -. [Q9BXT6-4]
+DR   CCDS; CCDS54542.1; -. [Q9BXT6-5]
+DR   CCDS; CCDS54543.1; -. [Q9BXT6-2]
+DR   PIR; T42668; T42668.
+DR   RefSeq; NP_001157576.1; NM_001164104.1. [Q9BXT6-4]
+DR   RefSeq; NP_001157577.1; NM_001164105.1. [Q9BXT6-5]
+DR   RefSeq; NP_001157578.1; NM_001164106.1. [Q9BXT6-2]
+DR   RefSeq; NP_061868.1; NM_018995.2. [Q9BXT6-1]
+DR   AlphaFoldDB; Q9BXT6; -.
+DR   BioGRID; 119963; 5.
+DR   IntAct; Q9BXT6; 1.
+DR   STRING; 9606.ENSP00000262794; -.
+DR   GlyCosmos; Q9BXT6; 1 site, 2 glycans.
+DR   GlyGen; Q9BXT6; 1 site, 2 O-linked glycans (1 site).
+DR   iPTMnet; Q9BXT6; -.
+DR   PhosphoSitePlus; Q9BXT6; -.
+DR   BioMuta; MOV10L1; -.
+DR   DMDM; 22095856; -.
+DR   EPD; Q9BXT6; -.
+DR   jPOST; Q9BXT6; -.
+DR   MassIVE; Q9BXT6; -.
+DR   PaxDb; Q9BXT6; -.
+DR   PeptideAtlas; Q9BXT6; -.
+DR   ProteomicsDB; 2313; -.
+DR   ProteomicsDB; 26428; -.
+DR   ProteomicsDB; 79508; -. [Q9BXT6-1]
+DR   ProteomicsDB; 79509; -. [Q9BXT6-2]
+DR   ProteomicsDB; 79510; -. [Q9BXT6-3]
+DR   Antibodypedia; 14100; 112 antibodies from 20 providers.
+DR   DNASU; 54456; -.
+DR   Ensembl; ENST00000262794.10; ENSP00000262794.5; ENSG00000073146.16. [Q9BXT6-1]
+DR   Ensembl; ENST00000354853.2; ENSP00000346917.2; ENSG00000073146.16. [Q9BXT6-3]
+DR   Ensembl; ENST00000395852.5; ENSP00000379193.1; ENSG00000073146.16. [Q9BXT6-2]
+DR   Ensembl; ENST00000395858.7; ENSP00000379199.3; ENSG00000073146.16. [Q9BXT6-4]
+DR   Ensembl; ENST00000540615.5; ENSP00000438542.1; ENSG00000073146.16. [Q9BXT6-5]
+DR   Ensembl; ENST00000545383.5; ENSP00000438978.1; ENSG00000073146.16. [Q9BXT6-1]
+DR   GeneID; 54456; -.
+DR   KEGG; hsa:54456; -.
+DR   MANE-Select; ENST00000262794.10; ENSP00000262794.5; NM_018995.3; NP_061868.1.
+DR   UCSC; uc003bjj.4; human. [Q9BXT6-1]
+DR   AGR; HGNC:7201; -.
+DR   CTD; 54456; -.
+DR   DisGeNET; 54456; -.
+DR   GeneCards; MOV10L1; -.
+DR   HGNC; HGNC:7201; MOV10L1.
+DR   HPA; ENSG00000073146; Tissue enriched (testis).
+DR   MalaCards; MOV10L1; -.
+DR   MIM; 605794; gene.
+DR   MIM; 619878; phenotype.
+DR   neXtProt; NX_Q9BXT6; -.
+DR   OpenTargets; ENSG00000073146; -.
+DR   PharmGKB; PA30909; -.
+DR   VEuPathDB; HostDB:ENSG00000073146; -.
+DR   eggNOG; KOG1804; Eukaryota.
+DR   GeneTree; ENSGT00940000160150; -.
+DR   HOGENOM; CLU_001666_3_1_1; -.
+DR   InParanoid; Q9BXT6; -.
+DR   OMA; YCATVDI; -.
+DR   OrthoDB; 170190at2759; -.
+DR   PhylomeDB; Q9BXT6; -.
+DR   TreeFam; TF323999; -.
+DR   PathwayCommons; Q9BXT6; -.
+DR   Reactome; R-HSA-5601884; PIWI-interacting RNA (piRNA) biogenesis.
+DR   SignaLink; Q9BXT6; -.
+DR   BioGRID-ORCS; 54456; 10 hits in 1145 CRISPR screens.
+DR   ChiTaRS; MOV10L1; human.
+DR   GenomeRNAi; 54456; -.
+DR   Pharos; Q9BXT6; Tbio.
+DR   PRO; PR:Q9BXT6; -.
+DR   Proteomes; UP000005640; Chromosome 22.
+DR   RNAct; Q9BXT6; protein.
+DR   Bgee; ENSG00000073146; Expressed in right testis and 94 other tissues.
+DR   ExpressionAtlas; Q9BXT6; baseline and differential.
+DR   Genevisible; Q9BXT6; HS.
+DR   GO; GO:0005829; C:cytosol; IBA:GO_Central.
+DR   GO; GO:0043186; C:P granule; ISS:UniProtKB.
+DR   GO; GO:0071546; C:pi-body; ISS:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; TAS:UniProtKB.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0000287; F:magnesium ion binding; TAS:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; IBA:GO_Central.
+DR   GO; GO:0003724; F:RNA helicase activity; ISS:UniProtKB.
+DR   GO; GO:0043046; P:DNA methylation involved in gamete generation; ISS:UniProtKB.
+DR   GO; GO:0007281; P:germ cell development; IEP:UniProtKB.
+DR   GO; GO:0007141; P:male meiosis I; ISS:UniProtKB.
+DR   GO; GO:0035194; P:ncRNA-mediated post-transcriptional gene silencing; IBA:GO_Central.
+DR   GO; GO:0034587; P:piRNA processing; ISS:UniProtKB.
+DR   GO; GO:0007283; P:spermatogenesis; IEP:UniProtKB.
+DR   CDD; cd18078; DEXXQc_Mov10L1; 1.
+DR   CDD; cd18808; SF1_C_Upf1; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   InterPro; IPR041679; DNA2/NAM7-like_C.
+DR   InterPro; IPR041677; DNA2/NAM7_AAA_11.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR047187; SF1_C_Upf1.
+DR   PANTHER; PTHR45418; CANCER/TESTIS ANTIGEN 55; 1.
+DR   PANTHER; PTHR45418:SF1; CANCER/TESTIS ANTIGEN 55; 1.
+DR   Pfam; PF13086; AAA_11; 2.
+DR   Pfam; PF13087; AAA_12; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; ATP-binding; Cytoplasm; Developmental protein;
+KW   Disease variant; Helicase; Hydrolase; Nucleotide-binding;
+KW   Reference proteome.
+FT   CHAIN           1..1211
+FT                   /note="RNA helicase Mov10l1"
+FT                   /id="PRO_0000080706"
+FT   REGION          340..385
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          674..710
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1192..1211
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           886..889
+FT                   /note="DEAG box"
+FT   COMPBIAS        340..373
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        674..692
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        693..710
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         770..777
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         1..902
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_010945"
+FT   VAR_SEQ         1..873
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_003390"
+FT   VAR_SEQ         1..32
+FT                   /note="MLSLAAKLVAFFWRTADTPREEAGQLEPELAE -> MSFLPVRSVIGG (in
+FT                   isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_046082"
+FT   VAR_SEQ         874..875
+FT                   /note="GV -> MF (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_003391"
+FT   VAR_SEQ         910..964
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_010946"
+FT   VAR_SEQ         1074..1082
+FT                   /note="EKIRILLRN -> RPAQARLVL (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_010947"
+FT   VAR_SEQ         1083..1211
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_010948"
+FT   VAR_SEQ         1109..1154
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_045413"
+FT   VAR_SEQ         1155..1211
+FT                   /note="DPCFGALLEYSITNGVYMGCDLPPALQSLQNCGEGVADPSYPVVPESTGPEK
+FT                   HQEPS -> LWRGGGRPLLPSGARIHRTREASGAQLICSG (in isoform 5)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_046083"
+FT   VARIANT         18
+FT                   /note="T -> S (in dbSNP:rs12628964)"
+FT                   /id="VAR_059457"
+FT   VARIANT         57
+FT                   /note="M -> L (in dbSNP:rs9617066)"
+FT                   /id="VAR_034100"
+FT   VARIANT         182
+FT                   /note="R -> C (in dbSNP:rs3810971)"
+FT                   /id="VAR_020148"
+FT   VARIANT         454
+FT                   /note="I -> L (in dbSNP:rs760749)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:17974005"
+FT                   /id="VAR_013694"
+FT   VARIANT         650
+FT                   /note="V -> I (in dbSNP:rs2340601)"
+FT                   /id="VAR_013695"
+FT   VARIANT         683
+FT                   /note="S -> G (in dbSNP:rs3736689)"
+FT                   /id="VAR_034101"
+FT   VARIANT         816
+FT                   /note="S -> I (in SPGF73)"
+FT                   /evidence="ECO:0000269|PubMed:35476666"
+FT                   /id="VAR_087327"
+FT   VARIANT         820
+FT                   /note="Q -> R (in dbSNP:rs2272837)"
+FT                   /evidence="ECO:0000269|PubMed:14702039,
+FT                   ECO:0000269|PubMed:17974005"
+FT                   /id="VAR_013696"
+FT   VARIANT         848
+FT                   /note="G -> R (in SPGF73; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:35476666"
+FT                   /id="VAR_087328"
+FT   VARIANT         1179
+FT                   /note="A -> E (in dbSNP:rs2272843)"
+FT                   /evidence="ECO:0000269|PubMed:17974005"
+FT                   /id="VAR_013697"
+FT   CONFLICT        321
+FT                   /note="Q -> H (in Ref. 2; BAH13697)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1016
+FT                   /note="L -> P (in Ref. 2; BAH13697)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1063
+FT                   /note="I -> V (in Ref. 2; BAA90895)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1096
+FT                   /note="F -> L (in Ref. 2; BAA90895)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1211 AA;  135293 MW;  410716BDCC85F8B1 CRC64;
+     MLSLAAKLVA FFWRTADTPR EEAGQLEPEL AEGDTKLKTV RGVVTRYCSD YGMIDDMIYF
+     SSDAVTSRVL LNVGQEVIAV VEENKVSNGL KAIRVEAVSD KWEDDSRNHG SPSDCGPRVL
+     IGCVTSLVEG AGCISQTTYF SLESVCEGFE PCKGDWVEAE YRIRPGTWSS EATSVKPLRY
+     KRVDKVCISS LCGRNGVLEE SIFFTLDSLK LPDGYTPRRG DVVNAVVVES SQSCYVWRAL
+     CMTLVKRRDA APVHEATHFY GTILLKNKGD IEVTQVTHFG TLKEGRSKTM VIWIENKGDI
+     PQNLVSCKLA GWDKSKQFRF QMLDKDQMCP VVSFVSVPEK ENSSDENINS LNSHTKNKTS
+     QMSESSLVNN RGISPGDCTC KGENGEKDNI LSRKQMTEPE PGGLVPPGGK TFIVVICDGK
+     NPGRCKELLL LCFSDFLIGR YLEVNVISGE ESLIAAREPF SWKKLKSSQA LTSAKTTVVV
+     TAQKRNSRRQ LPSFLPQYPI PDRLRKCVEQ KIDILTFQPL LAELLNMSNY KEKFSTLLWL
+     EEIYAEMELK EYNMSGIILR RNGDLLVLEV PGLAEGRPSL YAGDKLILKT QEYNGHAIEY
+     ISYVTEIHEE DVTLKINPEF EQAYNFEPMD VEFTYNRTTS RRCHFALEHV IHLGVKVLFP
+     EEIILQSPQV TGNWNHAQDT KSSGQSTSKK NRKTMTDQAE HGTEERRVGD KDLPVLAPFT
+     AEMSDWVDEI QTPKARKMEF FNPVLNENQK LAVKRILSGD CRPLPYILFG PPGTGKTVTI
+     IEAVLQVHFA LPDSRILVCA PSNSAADLVC LRLHESKVLQ PATMVRVNAT CRFEEIVIDA
+     VKPYCRDGED IWKASRFRII ITTCSSSGLF YQIGVRVGHF THVFVDEAGQ ASEPECLIPL
+     GLMSDISGQI VLAGDPMQLG PVIKSRLAMA YGLNVSFLER LMSRPAYQRD ENAFGACGAH
+     NPLLVTKLVK NYRSHEALLM LPSRLFYHRE LEVCADPTVV TSLLGWEKLP KKGFPLIFHG
+     VRGSEAREGK SPSWFNPAEA VQVLRYCCLL AHSISSQVSA SDIGVITPYR KQVEKIRILL
+     RNVDLMDIKV GSVEEFQGQE YLVIIISTVR SNEDRFEDDR YFLGFLSNSK RFNVAITRPK
+     ALLIVLGNPH VLVRDPCFGA LLEYSITNGV YMGCDLPPAL QSLQNCGEGV ADPSYPVVPE
+     STGPEKHQEP S
+//

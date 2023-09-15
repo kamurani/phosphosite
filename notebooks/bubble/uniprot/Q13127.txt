@@ -1,0 +1,918 @@
+ID   REST_HUMAN              Reviewed;        1097 AA.
+AC   Q13127; A2RUE0; B9EGJ0; Q12956; Q12957; Q13134; Q59ER1; Q8IWI3;
+DT   12-DEC-2006, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 3.
+DT   28-JUN-2023, entry version 198.
+DE   RecName: Full=RE1-silencing transcription factor;
+DE   AltName: Full=Neural-restrictive silencer factor;
+DE   AltName: Full=X2 box repressor;
+GN   Name=REST; Synonyms=NRSF, XBR;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND FUNCTION.
+RX   PubMed=7697725; DOI=10.1016/0092-8674(95)90298-8;
+RA   Chong J.A., Tapia-Ramirez J., Kim S., Toledo-Aral J.J., Zheng Y.,
+RA   Boutros M.C., Altshuller Y.M., Frohman M.A., Kraner S.D., Mandel G.;
+RT   "REST: a mammalian silencer protein that restricts sodium channel gene
+RT   expression to neurons.";
+RL   Cell 80:949-957(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), NUCLEOTIDE SEQUENCE [MRNA] OF 1-599
+RP   (ISOFORM 1), AND FUNCTION.
+RX   PubMed=7871435; DOI=10.1126/science.7871435;
+RA   Schoenherr C.J., Anderson D.J.;
+RT   "The neuron-restrictive silencer factor (NRSF): a coordinate repressor of
+RT   multiple neuron-specific genes.";
+RL   Science 267:1360-1363(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, TISSUE SPECIFICITY, AND
+RP   VARIANT LEU-797.
+RX   PubMed=8568247;
+RA   Scholl T., Stevens M.B., Mahanta S., Strominger J.L.;
+RT   "A zinc finger protein that represses transcription of the human MHC class
+RT   II gene, DPA.";
+RL   J. Immunol. 156:1448-1457(1996).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RA   Totoki Y., Toyoda A., Takeda T., Sakaki Y., Tanaka A., Yokoyama S.,
+RA   Ohara O., Nagase T., Kikuno R.F.;
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT ILE-626.
+RC   TISSUE=Testis, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   ALTERNATIVE SPLICING (ISOFORMS 3 AND 4).
+RX   PubMed=10521596; DOI=10.1016/s0169-328x(99)00196-5;
+RA   Palm K., Metsis M., Timmusk T.;
+RT   "Neuron-specific splicing of zinc finger transcription factor REST/NRSF/XBR
+RT   is frequent in neuroblastomas and conserved in human, mouse and rat.";
+RL   Brain Res. Mol. Brain Res. 72:30-39(1999).
+RN   [9]
+RP   FUNCTION, AND INTERACTION WITH RCOR1.
+RX   PubMed=10449787; DOI=10.1073/pnas.96.17.9873;
+RA   Andres M.E., Burger C., Peral-Rubio M.J., Battaglioli E., Anderson M.E.,
+RA   Grimes J., Dallman J., Ballas N., Mandel G.;
+RT   "CoREST: a functional corepressor required for regulation of neural-
+RT   specific gene expression.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:9873-9878(1999).
+RN   [10]
+RP   FUNCTION, AND INTERACTION WITH RCOR1 AND SIN3A.
+RX   PubMed=10734093; DOI=10.1074/jbc.275.13.9461;
+RA   Grimes J.A., Nielsen S.J., Battaglioli E., Miska E.A., Speh J.C.,
+RA   Berry D.L., Atouf F., Holdener B.C., Mandel G., Kouzarides T.;
+RT   "The co-repressor mSin3A is a functional component of the REST-CoREST
+RT   repressor complex.";
+RL   J. Biol. Chem. 275:9461-9467(2000).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=11779185; DOI=10.1006/bbrc.2001.6194;
+RA   Tabuchi A., Yamada T., Sasagawa S., Naruse Y., Mori N., Tsuda M.;
+RT   "REST4-mediated modulation of REST/NRSF-silencing function during BDNF gene
+RT   promoter activation.";
+RL   Biochem. Biophys. Res. Commun. 290:415-420(2002).
+RN   [12]
+RP   FUNCTION, AND SUBCELLULAR LOCATION (ISOFORM 3).
+RX   PubMed=11741002; DOI=10.1016/s0197-0186(01)00091-2;
+RA   Magin A., Lietz M., Cibelli G., Thiel G.;
+RT   "RE-1 silencing transcription factor-4 (REST4) is neither a transcriptional
+RT   repressor nor a de-repressor.";
+RL   Neurochem. Int. 40:195-202(2002).
+RN   [13]
+RP   FUNCTION.
+RX   PubMed=12399542; DOI=10.1126/science.1076469;
+RA   Lunyak V.V., Burgess R., Prefontaine G.G., Nelson C., Sze S.-H.,
+RA   Chenoweth J., Schwartz P., Pevzner P.A., Glass C., Mandel G.,
+RA   Rosenfeld M.G.;
+RT   "Corepressor-dependent silencing of chromosomal regions encoding neuronal
+RT   genes.";
+RL   Science 298:1747-1752(2002).
+RN   [14]
+RP   ERRATUM OF PUBMED:12399542.
+RA   Lunyak V.V., Burgess R., Prefontaine G.G., Nelson C., Sze S.-H.,
+RA   Chenoweth J., Schwartz P., Pevzner P.A., Glass C., Mandel G.,
+RA   Rosenfeld M.G.;
+RL   Science 299:1663-1663(2003).
+RN   [15]
+RP   INTERACTION WITH PRICKLE1.
+RC   TISSUE=Brain;
+RX   PubMed=14645515; DOI=10.1128/mcb.23.24.9025-9031.2003;
+RA   Shimojo M., Hersh L.B.;
+RT   "REST/NRSF-interacting LIM domain protein, a putative nuclear translocation
+RT   receptor.";
+RL   Mol. Cell. Biol. 23:9025-9031(2003).
+RN   [16]
+RP   INTERACTION WITH PRICKLE1, SUBCELLULAR LOCATION (ISOFORMS 1; 2; 3 AND 4),
+RP   AND MUTAGENESIS OF 512-LYS--LYS-522.
+RX   PubMed=16442230; DOI=10.1016/j.neulet.2005.12.080;
+RA   Shimojo M.;
+RT   "Characterization of the nuclear targeting signal of REST/NRSF.";
+RL   Neurosci. Lett. 398:161-166(2006).
+RN   [17]
+RP   FUNCTION, INTERACTION WITH CDYL; EHMT1 AND EHMT2, AND IDENTIFICATION IN A
+RP   COMPLEX WITH CDYL; SETB1; EHMT1; EHMT2 AND WIZ.
+RX   PubMed=19061646; DOI=10.1016/j.molcel.2008.10.025;
+RA   Mulligan P., Westbrook T.F., Ottinger M., Pavlova N., Chang B., Macia E.,
+RA   Shi Y.J., Barretina J., Liu J., Howley P.M., Elledge S.J., Shi Y.;
+RT   "CDYL bridges REST and histone methyltransferases for gene repression and
+RT   suppression of cellular transformation.";
+RL   Mol. Cell 32:718-726(2008).
+RN   [18]
+RP   INTERACTION WITH FBXW11 AND BTRC, DEVELOPMENTAL STAGE, PHOSPHORYLATION,
+RP   UBIQUITINATION BY BTRC, AND MUTAGENESIS OF 1009-GLU--SER-1013.
+RX   PubMed=18354482; DOI=10.1038/nature06641;
+RA   Guardavaccaro D., Frescas D., Dorrello N.V., Peschiaroli A., Multani A.S.,
+RA   Cardozo T., Lasorella A., Iavarone A., Chang S., Hernando E., Pagano M.;
+RT   "Control of chromosome stability by the beta-TrCP-REST-Mad2 axis.";
+RL   Nature 452:365-369(2008).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-864, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [21]
+RP   INTERACTION WITH ZFP90.
+RX   PubMed=21284946; DOI=10.1016/j.yjmcc.2011.01.017;
+RA   Hata L., Murakami M., Kuwahara K., Nakagawa Y., Kinoshita H., Usami S.,
+RA   Yasuno S., Fujiwara M., Kuwabara Y., Minami T., Yamada Y., Yamada C.,
+RA   Nakao K., Ueshima K., Nishikimi T., Nakao K.;
+RT   "Zinc-finger protein 90 negatively regulates neuron-restrictive silencer
+RT   factor-mediated transcriptional repression of fetal cardiac genes.";
+RL   J. Mol. Cell. Cardiol. 50:972-981(2011).
+RN   [22]
+RP   FUNCTION, INTERACTION WITH USP7, SUBCELLULAR LOCATION, TISSUE SPECIFICITY,
+RP   INDUCTION, UBIQUITINATION BY BTRC, DEUBIQUITINATION BY USP7, AND
+RP   MUTAGENESIS OF SER-313 AND SER-1042.
+RX   PubMed=21258371; DOI=10.1038/ncb2153;
+RA   Huang Z., Wu Q., Guryanova O.A., Cheng L., Shou W., Rich J.N., Bao S.;
+RT   "Deubiquitylase HAUSP stabilizes REST and promotes maintenance of neural
+RT   progenitor cells.";
+RL   Nat. Cell Biol. 13:142-152(2011).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-864, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [24]
+RP   FUNCTION, SUBCELLULAR LOCATION, TISSUE SPECIFICITY, DEVELOPMENTAL STAGE,
+RP   AND INDUCTION BY WNT SIGNALING; AGING AND OXIDATIVE STRESS.
+RX   PubMed=24670762; DOI=10.1038/nature13163;
+RA   Lu T., Aron L., Zullo J., Pan Y., Kim H., Chen Y., Yang T.H., Kim H.M.,
+RA   Drake D., Liu X.S., Bennett D.A., Colaiacovo M.P., Yankner B.A.;
+RT   "REST and stress resistance in ageing and Alzheimer's disease.";
+RL   Nature 507:448-454(2014).
+RN   [25]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=26053433; DOI=10.1038/srep11207;
+RA   Lee N.S., Evgrafov O.V., Souaiaia T., Bonyad A., Herstein J., Lee J.Y.,
+RA   Kim J., Ning Y., Sixto M., Weitz A.C., Lenz H.J., Wang K., Knowles J.A.,
+RA   Press M.F., Salvaterra P.M., Shung K.K., Chow R.H.;
+RT   "Non-coding RNAs derived from an alternatively spliced REST transcript
+RT   (REST-003) regulate breast cancer invasiveness.";
+RL   Sci. Rep. 5:11207-11207(2015).
+RN   [26]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=27531581; DOI=10.1038/srep31355;
+RA   Cavadas M.A., Mesnieres M., Crifo B., Manresa M.C., Selfridge A.C.,
+RA   Keogh C.E., Fabian Z., Scholz C.C., Nolan K.A., Rocha L.M., Tambuwala M.M.,
+RA   Brown S., Wdowicz A., Corbett D., Murphy K.J., Godson C., Cummins E.P.,
+RA   Taylor C.T., Cheong A.;
+RT   "REST is a hypoxia-responsive transcriptional repressor.";
+RL   Sci. Rep. 6:31355-31355(2016).
+RN   [27]
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=30684677; DOI=10.1016/j.neulet.2019.01.042;
+RA   Kawamura M., Sato S., Matsumoto G., Fukuda T., Shiba-Fukushima K., Noda S.,
+RA   Takanashi M., Mori N., Hattori N.;
+RT   "Loss of nuclear REST/NRSF in aged-dopaminergic neurons in Parkinson's
+RT   disease patients.";
+RL   Neurosci. Lett. 699:59-63(2019).
+RN   [28]
+RP   STRUCTURE BY NMR OF 43-57 IN COMPLEX WITH SIN3B, AND INTERACTION WITH
+RP   SIN3B.
+RX   PubMed=16288918; DOI=10.1016/j.jmb.2005.10.008;
+RA   Nomura M., Uda-Tochio H., Murai K., Mori N., Nishimura Y.;
+RT   "The neural repressor NRSF/REST binds the PAH1 domain of the Sin3
+RT   corepressor by using its distinct short hydrophobic helix.";
+RL   J. Mol. Biol. 354:903-915(2005).
+RN   [29]
+RP   INVOLVEMENT IN WT6, VARIANTS WT6 PRO-160; TYR-290; ARG-322 AND GLN-412,
+RP   CHARACTERIZATION OF VARIANT PRO-160; TYR-290 AND ARG-322, FUNCTION, AND
+RP   MUTAGENESIS OF GLU-91; MET-420; SER-593; ALA-642 AND HIS-918.
+RX   PubMed=26551668; DOI=10.1038/ng.3440;
+RA   Mahamdallie S.S., Hanks S., Karlin K.L., Zachariou A., Perdeaux E.R.,
+RA   Ruark E., Shaw C.A., Renwick A., Ramsay E., Yost S., Elliott A., Birch J.,
+RA   Capra M., Gray J., Hale J., Kingston J., Levitt G., McLean T., Sheridan E.,
+RA   Renwick A., Seal S., Stiller C., Sebire N., Westbrook T.F., Rahman N.;
+RT   "Mutations in the transcriptional repressor REST predispose to Wilms
+RT   tumor.";
+RL   Nat. Genet. 47:1471-1474(2015).
+RN   [30]
+RP   INVOLVEMENT IN GINGF5, AND VARIANT GINGF5 437-LEU--GLU-1097 DEL.
+RX   PubMed=28686854; DOI=10.1016/j.ajhg.2017.06.006;
+RG   Baylor-Hopkins Center for Mendelian Genomics;
+RA   Bayram Y., White J.J., Elcioglu N., Cho M.T., Zadeh N., Gedikbasi A.,
+RA   Palanduz S., Ozturk S., Cefle K., Kasapcopur O., Coban Akdemir Z.,
+RA   Pehlivan D., Begtrup A., Carvalho C.M.B., Paine I.S., Mentes A.,
+RA   Bektas-Kayhan K., Karaca E., Jhangiani S.N., Muzny D.M., Gibbs R.A.,
+RA   Lupski J.R.;
+RT   "REST final-exon-truncating mutations cause hereditary gingival
+RT   fibromatosis.";
+RL   Am. J. Hum. Genet. 101:149-156(2017).
+RN   [31]
+RP   INVOLVEMENT IN DFNA27, AND ALTERNATIVE SPLICING (ISOFORM 3).
+RX   PubMed=29961578; DOI=10.1016/j.cell.2018.06.004;
+RA   Nakano Y., Kelly M.C., Rehman A.U., Boger E.T., Morell R.J., Kelley M.W.,
+RA   Friedman T.B., Banfi B.;
+RT   "Defects in the Alternative Splicing-Dependent Regulation of REST Cause
+RT   Deafness.";
+RL   Cell 174:536-548.E21(2018).
+CC   -!- FUNCTION: Transcriptional repressor which binds neuron-restrictive
+CC       silencer element (NRSE) and represses neuronal gene transcription in
+CC       non-neuronal cells (PubMed:12399542, PubMed:26551668, PubMed:7697725,
+CC       PubMed:7871435, PubMed:8568247, PubMed:11741002, PubMed:11779185).
+CC       Restricts the expression of neuronal genes by associating with two
+CC       distinct corepressors, SIN3A and RCOR1, which in turn recruit histone
+CC       deacetylase to the promoters of REST-regulated genes (PubMed:10449787,
+CC       PubMed:10734093). Mediates repression by recruiting the BHC complex at
+CC       RE1/NRSE sites which acts by deacetylating and demethylating specific
+CC       sites on histones, thereby acting as a chromatin modifier (By
+CC       similarity). Transcriptional repression by REST-CDYL via the
+CC       recruitment of histone methyltransferase EHMT2 may be important in
+CC       transformation suppression (PubMed:19061646). Represses the expression
+CC       of SRRM4 in non-neural cells to prevent the activation of neural-
+CC       specific splicing events and to prevent production of REST isoform 3
+CC       (By similarity). Repressor activity may be inhibited by forming
+CC       heterodimers with isoform 3, thereby preventing binding to NRSE or
+CC       binding to corepressors and leading to derepression of target genes
+CC       (PubMed:11779185). Also maintains repression of neuronal genes in
+CC       neural stem cells, and allows transcription and differentiation into
+CC       neurons by dissociation from RE1/NRSE sites of target genes (By
+CC       similarity). Thereby is involved in maintaining the quiescent state of
+CC       adult neural stem cells and preventing premature differentiation into
+CC       mature neurons (PubMed:21258371). Plays a role in the developmental
+CC       switch in synaptic NMDA receptor composition during postnatal
+CC       development, by repressing GRIN2B expression and thereby altering NMDA
+CC       receptor properties from containing primarily GRIN2B to primarily
+CC       GRIN2A subunits (By similarity). Acts as a regulator of osteoblast
+CC       differentiation (By similarity). Key repressor of gene expression in
+CC       hypoxia; represses genes in hypoxia by direct binding to an RE1/NRSE
+CC       site on their promoter regions (PubMed:27531581). May also function in
+CC       stress resistance in the brain during aging; possibly by regulating
+CC       expression of genes involved in cell death and in the stress response
+CC       (PubMed:24670762). Repressor of gene expression in the hippocampus
+CC       after ischemia by directly binding to RE1/NRSE sites and recruiting
+CC       SIN3A and RCOR1 to promoters of target genes, thereby promoting changes
+CC       in chromatin modifications and ischemia-induced cell death (By
+CC       similarity). After ischemia, might play a role in repression of miR-132
+CC       expression in hippocampal neurons, thereby leading to neuronal cell
+CC       death (By similarity). Negatively regulates the expression of SRRM3 in
+CC       breast cancer cell lines (PubMed:26053433).
+CC       {ECO:0000250|UniProtKB:O54963, ECO:0000250|UniProtKB:Q8VIG1,
+CC       ECO:0000269|PubMed:10449787, ECO:0000269|PubMed:10734093,
+CC       ECO:0000269|PubMed:11741002, ECO:0000269|PubMed:11779185,
+CC       ECO:0000269|PubMed:12399542, ECO:0000269|PubMed:19061646,
+CC       ECO:0000269|PubMed:21258371, ECO:0000269|PubMed:24670762,
+CC       ECO:0000269|PubMed:26053433, ECO:0000269|PubMed:26551668,
+CC       ECO:0000269|PubMed:27531581, ECO:0000269|PubMed:7697725,
+CC       ECO:0000269|PubMed:7871435, ECO:0000269|PubMed:8568247}.
+CC   -!- FUNCTION: [Isoform 3]: Binds to the 3' region of the neuron-restrictive
+CC       silencer element (NRSE), with lower affinity than full-length REST
+CC       isoform 1 (By similarity). Exhibits weaker repressor activity compared
+CC       to isoform 1 (PubMed:11779185). May negatively regulate the repressor
+CC       activity of isoform 1 by binding to isoform 1, thereby preventing its
+CC       binding to NRSE and leading to derepression of target genes
+CC       (PubMed:11779185). However, in another study, does not appear to be
+CC       implicated in repressor activity of a NRSE motif-containing reporter
+CC       construct nor in inhibitory activity on the isoform 1 transcriptional
+CC       repressor activity (PubMed:11741002). Post-transcriptional inactivation
+CC       of REST by SRRM4-dependent alternative splicing into isoform 3 is
+CC       required in mechanosensory hair cells in the inner ear for derepression
+CC       of neuronal genes and hearing (By similarity).
+CC       {ECO:0000250|UniProtKB:Q8VIG1, ECO:0000269|PubMed:11741002,
+CC       ECO:0000269|PubMed:11779185}.
+CC   -!- SUBUNIT: Isoform 1 and isoform 3 form heterodimers (By similarity).
+CC       Isoform 3: Forms homodimers and homooligomers; binds to the neuron-
+CC       restrictive silencer element (NRSE) as monomer (By similarity).
+CC       Interacts with SIN3A, SIN3B and RCOR1 (PubMed:10449787,
+CC       PubMed:10734093, PubMed:16288918). Interacts with CDYL
+CC       (PubMed:19061646). Interacts with EHMT1 and EHMT2 only in the presence
+CC       of CDYL (PubMed:19061646). Part of a complex containing at least CDYL,
+CC       REST, WIZ, SETB1, EHMT1 and EHMT2 (PubMed:19061646). Interacts (via
+CC       zinc-finger DNA-binding domain) with ZFP90 (via N- and C-termini); the
+CC       interaction inhibits REST repressor activity (PubMed:21284946).
+CC       Interacts (via C2H2-type zinc finger 5) with PRICKLE1 (PubMed:14645515,
+CC       PubMed:16442230). Interacts with FBXW11 and BTRC (PubMed:18354482).
+CC       Interacts with USP7 (PubMed:21258371). {ECO:0000250|UniProtKB:Q8VIG1,
+CC       ECO:0000269|PubMed:10449787, ECO:0000269|PubMed:10734093,
+CC       ECO:0000269|PubMed:14645515, ECO:0000269|PubMed:16288918,
+CC       ECO:0000269|PubMed:16442230, ECO:0000269|PubMed:18354482,
+CC       ECO:0000269|PubMed:19061646, ECO:0000269|PubMed:21258371,
+CC       ECO:0000269|PubMed:21284946}.
+CC   -!- INTERACTION:
+CC       Q13127; Q9Y297: BTRC; NbExp=10; IntAct=EBI-926706, EBI-307461;
+CC       Q13127; Q9UKB1: FBXW11; NbExp=3; IntAct=EBI-926706, EBI-355189;
+CC       Q13127; P07900: HSP90AA1; NbExp=4; IntAct=EBI-926706, EBI-296047;
+CC       Q13127; P41229: KDM5C; NbExp=3; IntAct=EBI-926706, EBI-1246541;
+CC       Q13127; P51532: SMARCA4; NbExp=2; IntAct=EBI-926706, EBI-302489;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:16442230,
+CC       ECO:0000269|PubMed:21258371, ECO:0000269|PubMed:24670762,
+CC       ECO:0000269|PubMed:27531581, ECO:0000269|PubMed:30684677}. Cytoplasm
+CC       {ECO:0000269|PubMed:24670762, ECO:0000269|PubMed:27531581,
+CC       ECO:0000269|PubMed:30684677}. Note=Colocalizes with ZFP90 in the
+CC       nucleus (By similarity). In response to hypoxia, there is a more
+CC       pronounced increase in levels in the nucleus as compared to the
+CC       cytoplasm (PubMed:27531581). In aging neurons, increased levels in the
+CC       nucleus as compared to the cytoplasm (PubMed:24670762,
+CC       PubMed:30684677). {ECO:0000250|UniProtKB:Q8VIG1,
+CC       ECO:0000269|PubMed:24670762, ECO:0000269|PubMed:27531581,
+CC       ECO:0000269|PubMed:30684677}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 2]: Cytoplasm
+CC       {ECO:0000269|PubMed:16442230}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 3]: Nucleus
+CC       {ECO:0000269|PubMed:11741002, ECO:0000269|PubMed:16442230}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 4]: Cytoplasm
+CC       {ECO:0000269|PubMed:16442230}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC         Comment=Additional isoforms seem to exist.;
+CC       Name=1; Synonyms=REST1 {ECO:0000303|PubMed:16442230};
+CC         IsoId=Q13127-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q13127-2; Sequence=VSP_022064, VSP_022065;
+CC       Name=3; Synonyms=N4, REST4 {ECO:0000303|PubMed:11779185};
+CC         IsoId=Q13127-3; Sequence=VSP_022066, VSP_022068;
+CC       Name=4;
+CC         IsoId=Q13127-4; Sequence=VSP_022067;
+CC   -!- TISSUE SPECIFICITY: Expressed in neurons of the prefrontal cortex, in
+CC       hippocampal pyramidal neurons, dentate gyrus granule neurons and
+CC       cerebellar Purkinje and granule neurons (at protein level)
+CC       (PubMed:24670762). Expressed in dopaminergic neurons of the substantia
+CC       nigra (at protein level) (PubMed:30684677). Expressed in neural
+CC       progenitor cells (at protein level) (PubMed:21258371). In patients
+CC       suffering from Alzheimer disease, frontotemporal dementia or dementia
+CC       with Lewy bodies, decreased nuclear levels have been observed in
+CC       neurons of the prefrontal cortex and the hippocampus, but not in
+CC       neurons of the dentate gyrus and cerebellum (at protein level)
+CC       (PubMed:24670762). In patients with Parkinson disease or dementia with
+CC       Lewy bodies, decreased nuclear levels have been observed in
+CC       dopaminergic neurons and in cortical neurons and localization to Lewy
+CC       bodies and pale bodies was detected (at protein level)
+CC       (PubMed:30684677). Expressed at higher levels in weakly invasive breast
+CC       cancer cell lines and at lower levels in highly invasive breast cancer
+CC       lines (at protein level) (PubMed:26053433). Ubiquitous
+CC       (PubMed:8568247). Expressed at higher levels in the tissues of the
+CC       lymphocytic compartment, including spleen, thymus, peripheral blood
+CC       lymphocytes and ovary (PubMed:8568247). {ECO:0000269|PubMed:21258371,
+CC       ECO:0000269|PubMed:24670762, ECO:0000269|PubMed:26053433,
+CC       ECO:0000269|PubMed:30684677, ECO:0000269|PubMed:8568247}.
+CC   -!- DEVELOPMENTAL STAGE: Expression is cell cycle-dependent with decreased
+CC       levels in G2 phase; mediated by proteasomal degradation (at protein
+CC       level) (PubMed:18354482). In aged individuals, increased expression in
+CC       hippocampal CA1, CA3 and CA4 pyramidal neurons and in dentate granule
+CC       cell neurons, but not in the cerebellum (PubMed:24670762).
+CC       {ECO:0000269|PubMed:18354482, ECO:0000269|PubMed:24670762}.
+CC   -!- INDUCTION: Up-regulated by Wnt signaling (PubMed:24670762). Up-
+CC       regulated in the brain of aging individuals but not in Alzheimer
+CC       disease patients (PubMed:24670762). Up-regulated by oxidative stress
+CC       (PubMed:24670762). Down-regulated during neural progenitor cell
+CC       differentiation (PubMed:21258371). {ECO:0000269|PubMed:21258371,
+CC       ECO:0000269|PubMed:24670762}.
+CC   -!- DOMAIN: The C2H2-type zinc finger 5 is required for nuclear
+CC       localization. {ECO:0000269|PubMed:16442230}.
+CC   -!- PTM: O-glycosylated. {ECO:0000250|UniProtKB:Q8VIG1}.
+CC   -!- PTM: Phosphorylated; phosphorylation is required for ubiquitination.
+CC       {ECO:0000269|PubMed:18354482}.
+CC   -!- PTM: Ubiquitinated; ubiquitination is mediated by BTRC and leads to
+CC       proteasomal degradation in G2 phase (PubMed:18354482, PubMed:21258371).
+CC       Ubiquitination increases during neuronal differentiation
+CC       (PubMed:21258371). Deubiquitinated by USP7; leading to its
+CC       stabilization and promoting the maintenance of neural progenitor cells
+CC       (PubMed:21258371). {ECO:0000269|PubMed:18354482,
+CC       ECO:0000269|PubMed:21258371}.
+CC   -!- DISEASE: Wilms tumor 6 (WT6) [MIM:616806]: A pediatric malignancy of
+CC       kidney, and the most common childhood abdominal malignancy. It is
+CC       caused by the uncontrolled multiplication of renal stem, stromal, and
+CC       epithelial cells. {ECO:0000269|PubMed:26551668}. Note=Disease
+CC       susceptibility is associated with variants affecting the gene
+CC       represented in this entry.
+CC   -!- DISEASE: Fibromatosis, gingival, 5 (GINGF5) [MIM:617626]: An autosomal
+CC       dominant form of hereditary gingival fibromatosis, a rare condition
+CC       characterized by a slow, progressive overgrowth of the gingiva. The
+CC       excess gingival tissue can cover part of or the entire crown, and can
+CC       result in diastemas, teeth displacement, or retention of primary or
+CC       impacted teeth. {ECO:0000269|PubMed:28686854}. Note=The disease is
+CC       caused by variants affecting the gene represented in this entry.
+CC   -!- DISEASE: Note=An intronic variant that affects alternative splicing of
+CC       REST into isoform 3 and inactivation of REST repressor activity is
+CC       associated with progressive hearing loss and deafness.
+CC       {ECO:0000269|PubMed:29961578}.
+CC   -!- DISEASE: Deafness, autosomal dominant, 27 (DFNA27) [MIM:612431]: A form
+CC       of non-syndromic deafness characterized by postlingual, progressive,
+CC       moderate to profound sensorineural hearing loss.
+CC       {ECO:0000269|PubMed:29961578}. Note=The disease may be caused by
+CC       variants affecting the gene represented in this entry. An intronic
+CC       variant that affects alternative splicing of REST and inactivation of
+CC       REST repressor activity fully segregates with deafness in a 3-
+CC       generation family. {ECO:0000269|PubMed:29961578}.
+CC   -!- MISCELLANEOUS: [Isoform 3]: Produced by SRRM4-dependent alternative
+CC       splicing in neurons and inner ear hair cells (By similarity). Lacks the
+CC       four C-terminal zinc fingers and the RCOR1 corepressor interaction site
+CC       found in full length REST isoform 1, which are required for full DNA-
+CC       binding and repressive activity (PubMed:11741002).
+CC       {ECO:0000250|UniProtKB:Q8VIG1, ECO:0000269|PubMed:11741002}.
+CC   -!- CAUTION: [Isoform 3]: Controversial data exists concerning the
+CC       repressor activity of isoform 3. A study showed that isoform 3 exhibits
+CC       weak repressor activity of a NRSE motif-containing reporter construct
+CC       (PubMed:11779185). Another report, however, does not observe any
+CC       isoform 3 transcriptional repressor activity of a NRSE motif-containing
+CC       reporter construct (PubMed:11741002). Controversial data also exists
+CC       regarding the function of isoform 3 on the negative regulation of
+CC       isoform 1. It was shown that isoform 3 negatively regulates the
+CC       repressor activity of isoform 1 by binding to isoform 1, thereby
+CC       preventing its binding to NRSE and leading to derepression of target
+CC       genes (PubMed:11779185). Another study, however, did not observe any
+CC       inhibitory activity of isoform 3 on the isoform 1 transcriptional
+CC       repressor activity (PubMed:11741002). {ECO:0000269|PubMed:11741002,
+CC       ECO:0000269|PubMed:11779185}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA98503.1; Type=Frameshift; Evidence={ECO:0000305};
+CC       Sequence=AAC50114.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAC50115.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=AAH38985.1; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Potential poly-A sequence.; Evidence={ECO:0000305};
+CC       Sequence=BAD92987.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/44266/REST";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U22314; AAB17211.1; -; mRNA.
+DR   EMBL; U13877; AAC50114.1; ALT_INIT; mRNA.
+DR   EMBL; U13879; AAC50115.1; ALT_INIT; mRNA.
+DR   EMBL; U22680; AAA98503.1; ALT_FRAME; mRNA.
+DR   EMBL; AB209750; BAD92987.1; ALT_INIT; mRNA.
+DR   EMBL; AC069307; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471057; EAX05517.1; -; Genomic_DNA.
+DR   EMBL; BC038985; AAH38985.1; ALT_SEQ; mRNA.
+DR   EMBL; BC132859; AAI32860.1; -; mRNA.
+DR   EMBL; BC136491; AAI36492.1; -; mRNA.
+DR   CCDS; CCDS3509.1; -. [Q13127-1]
+DR   PIR; A56138; A56138.
+DR   PIR; I38754; I38754.
+DR   PIR; I38755; I38755.
+DR   RefSeq; NP_001180437.1; NM_001193508.1. [Q13127-1]
+DR   RefSeq; NP_005603.3; NM_005612.4. [Q13127-1]
+DR   RefSeq; XP_011532703.1; XM_011534401.2.
+DR   PDB; 2CZY; NMR; -; B=43-57.
+DR   PDB; 6DU2; X-ray; 2.50 A; C/D=858-869.
+DR   PDB; 6DU3; X-ray; 2.58 A; C/D=858-869.
+DR   PDBsum; 2CZY; -.
+DR   PDBsum; 6DU2; -.
+DR   PDBsum; 6DU3; -.
+DR   AlphaFoldDB; Q13127; -.
+DR   BMRB; Q13127; -.
+DR   SMR; Q13127; -.
+DR   BioGRID; 111910; 262.
+DR   CORUM; Q13127; -.
+DR   DIP; DIP-35264N; -.
+DR   IntAct; Q13127; 18.
+DR   MINT; Q13127; -.
+DR   STRING; 9606.ENSP00000311816; -.
+DR   GlyGen; Q13127; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q13127; -.
+DR   PhosphoSitePlus; Q13127; -.
+DR   BioMuta; REST; -.
+DR   DMDM; 296452989; -.
+DR   EPD; Q13127; -.
+DR   jPOST; Q13127; -.
+DR   MassIVE; Q13127; -.
+DR   MaxQB; Q13127; -.
+DR   PaxDb; Q13127; -.
+DR   PeptideAtlas; Q13127; -.
+DR   ProteomicsDB; 59175; -. [Q13127-1]
+DR   ProteomicsDB; 59176; -. [Q13127-2]
+DR   ProteomicsDB; 59177; -. [Q13127-3]
+DR   ProteomicsDB; 59178; -. [Q13127-4]
+DR   Antibodypedia; 1755; 330 antibodies from 36 providers.
+DR   DNASU; 5978; -.
+DR   Ensembl; ENST00000309042.12; ENSP00000311816.7; ENSG00000084093.19. [Q13127-1]
+DR   Ensembl; ENST00000675105.1; ENSP00000502313.1; ENSG00000084093.19. [Q13127-1]
+DR   GeneID; 5978; -.
+DR   KEGG; hsa:5978; -.
+DR   MANE-Select; ENST00000309042.12; ENSP00000311816.7; NM_005612.5; NP_005603.3.
+DR   UCSC; uc003hch.4; human. [Q13127-1]
+DR   AGR; HGNC:9966; -.
+DR   CTD; 5978; -.
+DR   DisGeNET; 5978; -.
+DR   GeneCards; REST; -.
+DR   HGNC; HGNC:9966; REST.
+DR   HPA; ENSG00000084093; Low tissue specificity.
+DR   MalaCards; REST; -.
+DR   MIM; 600571; gene.
+DR   MIM; 612431; phenotype.
+DR   MIM; 616806; phenotype.
+DR   MIM; 617626; phenotype.
+DR   neXtProt; NX_Q13127; -.
+DR   OpenTargets; ENSG00000084093; -.
+DR   Orphanet; 2024; Hereditary gingival fibromatosis.
+DR   Orphanet; 654; Nephroblastoma.
+DR   PharmGKB; PA34334; -.
+DR   VEuPathDB; HostDB:ENSG00000084093; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000155341; -.
+DR   HOGENOM; CLU_009801_2_0_1; -.
+DR   InParanoid; Q13127; -.
+DR   OMA; NDCDPNK; -.
+DR   OrthoDB; 4169790at2759; -.
+DR   PhylomeDB; Q13127; -.
+DR   TreeFam; TF332861; -.
+DR   PathwayCommons; Q13127; -.
+DR   Reactome; R-HSA-3214815; HDACs deacetylate histones.
+DR   Reactome; R-HSA-8943724; Regulation of PTEN gene transcription.
+DR   Reactome; R-HSA-9031628; NGF-stimulated transcription.
+DR   Reactome; R-HSA-9679191; Potential therapeutics for SARS.
+DR   Reactome; R-HSA-9768777; Regulation of NPAS4 gene transcription.
+DR   SignaLink; Q13127; -.
+DR   SIGNOR; Q13127; -.
+DR   BioGRID-ORCS; 5978; 49 hits in 1187 CRISPR screens.
+DR   ChiTaRS; REST; human.
+DR   EvolutionaryTrace; Q13127; -.
+DR   GeneWiki; RE1-silencing_transcription_factor; -.
+DR   GenomeRNAi; 5978; -.
+DR   Pharos; Q13127; Tbio.
+DR   PRO; PR:Q13127; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; Q13127; protein.
+DR   Bgee; ENSG00000084093; Expressed in mucosa of paranasal sinus and 207 other tissues.
+DR   ExpressionAtlas; Q13127; baseline and differential.
+DR   Genevisible; Q13127; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0017053; C:transcription repressor complex; IDA:UniProtKB.
+DR   GO; GO:0003682; F:chromatin binding; ISS:UniProtKB.
+DR   GO; GO:0003700; F:DNA-binding transcription factor activity; IDA:UniProtKB.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IDA:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; ISS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IDA:UniProtKB.
+DR   GO; GO:0000979; F:RNA polymerase II core promoter sequence-specific DNA binding; IEA:Ensembl.
+DR   GO; GO:0061629; F:RNA polymerase II-specific DNA-binding transcription factor binding; IPI:UniProtKB.
+DR   GO; GO:0000976; F:transcription cis-regulatory region binding; IDA:UniProtKB.
+DR   GO; GO:0060088; P:auditory receptor cell stereocilium organization; ISS:UniProtKB.
+DR   GO; GO:0060379; P:cardiac muscle cell myoblast differentiation; ISS:UniProtKB.
+DR   GO; GO:0071257; P:cellular response to electrical stimulus; IMP:UniProtKB.
+DR   GO; GO:0071385; P:cellular response to glucocorticoid stimulus; IDA:UniProtKB.
+DR   GO; GO:0071466; P:cellular response to xenobiotic stimulus; IMP:UniProtKB.
+DR   GO; GO:0006338; P:chromatin remodeling; ISS:UniProtKB.
+DR   GO; GO:0050910; P:detection of mechanical stimulus involved in sensory perception of sound; ISS:UniProtKB.
+DR   GO; GO:0002244; P:hematopoietic progenitor cell differentiation; IEA:Ensembl.
+DR   GO; GO:0099563; P:modification of synaptic structure; ISS:UniProtKB.
+DR   GO; GO:0043922; P:negative regulation by host of viral transcription; IDA:UniProtKB.
+DR   GO; GO:0032348; P:negative regulation of aldosterone biosynthetic process; IMP:UniProtKB.
+DR   GO; GO:2000798; P:negative regulation of amniotic stem cell differentiation; IMP:UniProtKB.
+DR   GO; GO:0045955; P:negative regulation of calcium ion-dependent exocytosis; ISS:UniProtKB.
+DR   GO; GO:0008285; P:negative regulation of cell population proliferation; IMP:UniProtKB.
+DR   GO; GO:2000065; P:negative regulation of cortisol biosynthetic process; IMP:UniProtKB.
+DR   GO; GO:2000706; P:negative regulation of dense core granule biogenesis; ISS:UniProtKB.
+DR   GO; GO:0045892; P:negative regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0010629; P:negative regulation of gene expression; IMP:UniProtKB.
+DR   GO; GO:0046676; P:negative regulation of insulin secretion; IMP:UniProtKB.
+DR   GO; GO:2000740; P:negative regulation of mesenchymal stem cell differentiation; IMP:UniProtKB.
+DR   GO; GO:1902894; P:negative regulation of miRNA transcription; IMP:BHF-UCL.
+DR   GO; GO:0050768; P:negative regulation of neurogenesis; ISS:UniProtKB.
+DR   GO; GO:0045665; P:negative regulation of neuron differentiation; IDA:UniProtKB.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:UniProtKB.
+DR   GO; GO:2000678; P:negative regulation of transcription regulatory region DNA binding; ISS:UniProtKB.
+DR   GO; GO:0050877; P:nervous system process; IMP:UniProtKB.
+DR   GO; GO:0050885; P:neuromuscular process controlling balance; ISS:UniProtKB.
+DR   GO; GO:0097150; P:neuronal stem cell population maintenance; ISS:UniProtKB.
+DR   GO; GO:0043065; P:positive regulation of apoptotic process; IMP:UniProtKB.
+DR   GO; GO:0043280; P:positive regulation of cysteine-type endopeptidase activity involved in apoptotic process; IMP:UniProtKB.
+DR   GO; GO:0045893; P:positive regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0010628; P:positive regulation of gene expression; ISS:UniProtKB.
+DR   GO; GO:0045666; P:positive regulation of neuron differentiation; ISS:UniProtKB.
+DR   GO; GO:0043068; P:positive regulation of programmed cell death; ISS:UniProtKB.
+DR   GO; GO:1902459; P:positive regulation of stem cell population maintenance; IDA:UniProtKB.
+DR   GO; GO:0000381; P:regulation of alternative mRNA splicing, via spliceosome; ISS:UniProtKB.
+DR   GO; GO:0006355; P:regulation of DNA-templated transcription; IDA:UniProtKB.
+DR   GO; GO:0045667; P:regulation of osteoblast differentiation; ISS:UniProtKB.
+DR   GO; GO:0001666; P:response to hypoxia; IDA:UniProtKB.
+DR   GO; GO:0002931; P:response to ischemia; ISS:UniProtKB.
+DR   GO; GO:0035019; P:somatic stem cell population maintenance; ISS:UniProtKB.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 5.
+DR   IDEAL; IID00169; -.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24403:SF102; RE1-SILENCING TRANSCRIPTION FACTOR; 1.
+DR   PANTHER; PTHR24403; ZINC FINGER PROTEIN; 1.
+DR   Pfam; PF13909; zf-H2C2_5; 1.
+DR   SMART; SM00355; ZnF_C2H2; 9.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 3.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 1.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 6.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cytoplasm; Deafness; Disease variant;
+KW   Metal-binding; Non-syndromic deafness; Nucleus; Phosphoprotein;
+KW   Reference proteome; Repeat; Repressor; Transcription;
+KW   Transcription regulation; Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..1097
+FT                   /note="RE1-silencing transcription factor"
+FT                   /id="PRO_0000269547"
+FT   ZN_FING         159..181
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         216..238
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         248..270
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         276..298
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         304..326
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         332..355
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         361..383
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         389..412
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         1060..1082
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          32..122
+FT                   /note="Interaction with SIN3A"
+FT                   /evidence="ECO:0000269|PubMed:10734093"
+FT   REGION          43..57
+FT                   /note="Interaction with SIN3B"
+FT                   /evidence="ECO:0000269|PubMed:16288918"
+FT   REGION          83..103
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          127..159
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          145..418
+FT                   /note="Interaction with ZFP90"
+FT                   /evidence="ECO:0000269|PubMed:21284946"
+FT   REGION          201..212
+FT                   /note="Required for binding to the neuron-restrictive
+FT                   silencer element"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8VIG1"
+FT   REGION          452..642
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          774..837
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          853..938
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          961..1049
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1009..1087
+FT                   /note="Interaction with RCOR1"
+FT                   /evidence="ECO:0000269|PubMed:10449787"
+FT   COMPBIAS        143..159
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        452..478
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        479..493
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        494..574
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        575..591
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        806..836
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        910..938
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1005..1021
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         864
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         971
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:O54963"
+FT   VAR_SEQ         301..313
+FT                   /note="ERPYKCELCPYSS -> KRSFLVHKFSSLF (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:7871435"
+FT                   /id="VSP_022064"
+FT   VAR_SEQ         304..326
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_022067"
+FT   VAR_SEQ         314..1097
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:7871435"
+FT                   /id="VSP_022065"
+FT   VAR_SEQ         329
+FT                   /note="E -> W (in isoform 3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_022066"
+FT   VAR_SEQ         330..1097
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_022068"
+FT   VARIANT         160
+FT                   /note="R -> P (in WT6; inhibits transcriptional repression
+FT                   activity)"
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT                   /id="VAR_076333"
+FT   VARIANT         290
+FT                   /note="N -> Y (in WT6; inhibits transcriptional repression
+FT                   activity)"
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT                   /id="VAR_076334"
+FT   VARIANT         322
+FT                   /note="H -> R (in WT6; inhibits transcriptional repression
+FT                   activity; dbSNP:rs869025312)"
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT                   /id="VAR_076335"
+FT   VARIANT         412
+FT                   /note="H -> Q (in WT6)"
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT                   /id="VAR_076336"
+FT   VARIANT         437..1097
+FT                   /note="Missing (in GINGF5)"
+FT                   /evidence="ECO:0000269|PubMed:28686854"
+FT                   /id="VAR_079529"
+FT   VARIANT         626
+FT                   /note="V -> I (in dbSNP:rs2228991)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_029795"
+FT   VARIANT         692
+FT                   /note="E -> D (in dbSNP:rs2227902)"
+FT                   /id="VAR_029796"
+FT   VARIANT         762
+FT                   /note="K -> Q (in dbSNP:rs2227903)"
+FT                   /id="VAR_029797"
+FT   VARIANT         797
+FT                   /note="P -> L (in dbSNP:rs3796529)"
+FT                   /evidence="ECO:0000269|PubMed:8568247"
+FT                   /id="VAR_029798"
+FT   MUTAGEN         91
+FT                   /note="E->G: Does not change transcriptional repression
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT   MUTAGEN         313
+FT                   /note="S->A: Lack of deubiquitination by USP7."
+FT                   /evidence="ECO:0000269|PubMed:21258371"
+FT   MUTAGEN         420
+FT                   /note="M->T: Inhibits transcriptional repression activity."
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT   MUTAGEN         512..522
+FT                   /note="KFSKTKKSKRK->AFSKTADSMDA: No effect on nuclear
+FT                   localization."
+FT                   /evidence="ECO:0000269|PubMed:16442230"
+FT   MUTAGEN         512..522
+FT                   /note="KFSKTKKSKRK->GS: Reduced nuclear localization."
+FT                   /evidence="ECO:0000269|PubMed:16442230"
+FT   MUTAGEN         512..522
+FT                   /note="Missing: No effect on nuclear localization."
+FT                   /evidence="ECO:0000269|PubMed:16442230"
+FT   MUTAGEN         593
+FT                   /note="S->N: Does not change transcriptional repression
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT   MUTAGEN         642
+FT                   /note="A->T: Does not change transcriptional repression
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT   MUTAGEN         918
+FT                   /note="H->Y: Does not change transcriptional repression
+FT                   activity."
+FT                   /evidence="ECO:0000269|PubMed:26551668"
+FT   MUTAGEN         1009..1013
+FT                   /note="EGIHS->AGIHA: Loss of interaction with BTRC. Reduced
+FT                   ubiquitination. Decreased proteasomal degradation in G2.
+FT                   Decreased average time from nuclear envelope breakdown to
+FT                   anaphase onset. Increased number of lagging chromosomes and
+FT                   chromosome bridges in anaphase and prematurely separated
+FT                   sister chromatids. Reduced MAD2 levels."
+FT                   /evidence="ECO:0000269|PubMed:18354482"
+FT   MUTAGEN         1009
+FT                   /note="E->A: Loss of interaction with BTRC."
+FT                   /evidence="ECO:0000269|PubMed:18354482"
+FT   MUTAGEN         1013
+FT                   /note="S->A: Loss of interaction with BTRC."
+FT                   /evidence="ECO:0000269|PubMed:18354482"
+FT   MUTAGEN         1042
+FT                   /note="S->A: No impact on deubiquitination by USP7."
+FT                   /evidence="ECO:0000269|PubMed:21258371"
+FT   CONFLICT        295
+FT                   /note="V -> L (in Ref. 2; AAC50114)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        596..599
+FT                   /note="PQKE -> SRNS (in Ref. 2; AAC50115)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        630
+FT                   /note="P -> L (in Ref. 1; AAB17211)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           44..55
+FT                   /evidence="ECO:0007829|PDB:2CZY"
+SQ   SEQUENCE   1097 AA;  121872 MW;  EBC652EED19CA161 CRC64;
+     MATQVMGQSS GGGGLFTSSG NIGMALPNDM YDLHDLSKAE LAAPQLIMLA NVALTGEVNG
+     SCCDYLVGEE RQMAELMPVG DNNFSDSEEG EGLEESADIK GEPHGLENME LRSLELSVVE
+     PQPVFEASGA PDIYSSNKDL PPETPGAEDK GKSSKTKPFR CKPCQYEAES EEQFVHHIRV
+     HSAKKFFVEE SAEKQAKARE SGSSTAEEGD FSKGPIRCDR CGYNTNRYDH YTAHLKHHTR
+     AGDNERVYKC IICTYTTVSE YHWRKHLRNH FPRKVYTCGK CNYFSDRKNN YVQHVRTHTG
+     ERPYKCELCP YSSSQKTHLT RHMRTHSGEK PFKCDQCSYV ASNQHEVTRH ARQVHNGPKP
+     LNCPHCDYKT ADRSNFKKHV ELHVNPRQFN CPVCDYAASK KCNLQYHFKS KHPTCPNKTM
+     DVSKVKLKKT KKREADLPDN ITNEKTEIEQ TKIKGDVAGK KNEKSVKAEK RDVSKEKKPS
+     NNVSVIQVTT RTRKSVTEVK EMDVHTGSNS EKFSKTKKSK RKLEVDSHSL HGPVNDEESS
+     TKKKKKVESK SKNNSQEVPK GDSKVEENKK QNTCMKKSTK KKTLKNKSSK KSSKPPQKEP
+     VEKGSAQMDP PQMGPAPTEA VQKGPVQVEP PPPMEHAQME GAQIRPAPDE PVQMEVVQEG
+     PAQKELLPPV EPAQMVGAQI VLAHMELPPP METAQTEVAQ MGPAPMEPAQ MEVAQVESAP
+     MQVVQKEPVQ MELSPPMEVV QKEPVQIELS PPMEVVQKEP VKIELSPPIE VVQKEPVQME
+     LSPPMGVVQK EPAQREPPPP REPPLHMEPI SKKPPLRKDK KEKSNMQSER ARKEQVLIEV
+     GLVPVKDSWL LKESVSTEDL SPPSPPLPKE NLREEASGDQ KLLNTGEGNK EAPLQKVGAE
+     EADESLPGLA ANINESTHIS SSGQNLNTPE GETLNGKHQT DSIVCEMKMD TDQNTRENLT
+     GINSTVEEPV SPMLPPSAVE EREAVSKTAL ASPPATMAAN ESQEIDEDEG IHSHEGSDLS
+     DNMSEGSDDS GLHGARPVPQ ESSRKNAKEA LAVKAAKGDF VCIFCDRSFR KGKDYSKHLN
+     RHLVNVYYLE EAAQGQE
+//

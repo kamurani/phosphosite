@@ -1,0 +1,742 @@
+ID   SMRCD_HUMAN             Reviewed;        1026 AA.
+AC   Q9H4L7; B7Z799; Q05D56; Q96SX1; Q9H017; Q9H860; Q9NPU9; Q9ULU7;
+DT   28-MAR-2003, integrated into UniProtKB/Swiss-Prot.
+DT   05-OCT-2010, sequence version 2.
+DT   28-JUN-2023, entry version 194.
+DE   RecName: Full=SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1;
+DE            EC=3.6.4.12;
+DE   AltName: Full=ATP-dependent helicase 1;
+DE            Short=hHEL1;
+GN   Name=SMARCAD1; Synonyms=KIAA1122;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, AND VARIANT
+RP   ALA-301.
+RC   TISSUE=Fetal brain;
+RX   PubMed=11031099; DOI=10.1006/geno.2000.6281;
+RA   Adra C.N., Donato J.-L., Badovinac R., Syed F., Kheraj R., Cai H.,
+RA   Moran C., Kolker M.T., Turner H., Weremowicz S., Shirakawa T., Morton C.C.,
+RA   Schnipper L.E., Drews R.;
+RT   "SMARCAD1, a novel human helicase family-defining member associated with
+RT   genetic instability: cloning, expression, and mapping to 4q22-q23, a band
+RT   rich in breakpoints and deletion mutants involved in several human
+RT   diseases.";
+RL   Genomics 69:162-173(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Brain;
+RX   PubMed=10574461; DOI=10.1093/dnares/6.5.329;
+RA   Hirosawa M., Nagase T., Ishikawa K., Kikuno R., Nomura N., Ohara O.;
+RT   "Characterization of cDNA clones selected by the GeneMark analysis from
+RT   size-fractionated cDNA libraries from human brain.";
+RL   DNA Res. 6:329-336(1999).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3), NUCLEOTIDE SEQUENCE
+RP   [LARGE SCALE MRNA] OF 1-702 (ISOFORMS 1/2), AND NUCLEOTIDE SEQUENCE [LARGE
+RP   SCALE MRNA] OF 649-1026 (ISOFORM 2).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15815621; DOI=10.1038/nature03466;
+RA   Hillier L.W., Graves T.A., Fulton R.S., Fulton L.A., Pepin K.H., Minx P.,
+RA   Wagner-McPherson C., Layman D., Wylie K., Sekhon M., Becker M.C.,
+RA   Fewell G.A., Delehaunty K.D., Miner T.L., Nash W.E., Kremitzki C., Oddy L.,
+RA   Du H., Sun H., Bradshaw-Cordum H., Ali J., Carter J., Cordes M., Harris A.,
+RA   Isak A., van Brunt A., Nguyen C., Du F., Courtney L., Kalicki J.,
+RA   Ozersky P., Abbott S., Armstrong J., Belter E.A., Caruso L., Cedroni M.,
+RA   Cotton M., Davidson T., Desai A., Elliott G., Erb T., Fronick C., Gaige T.,
+RA   Haakenson W., Haglund K., Holmes A., Harkins R., Kim K., Kruchowski S.S.,
+RA   Strong C.M., Grewal N., Goyea E., Hou S., Levy A., Martinka S., Mead K.,
+RA   McLellan M.D., Meyer R., Randall-Maher J., Tomlinson C.,
+RA   Dauphin-Kohlberg S., Kozlowicz-Reilly A., Shah N., Swearengen-Shahid S.,
+RA   Snider J., Strong J.T., Thompson J., Yoakum M., Leonard S., Pearman C.,
+RA   Trani L., Radionenko M., Waligorski J.E., Wang C., Rock S.M.,
+RA   Tin-Wollam A.-M., Maupin R., Latreille P., Wendl M.C., Yang S.-P., Pohl C.,
+RA   Wallis J.W., Spieth J., Bieri T.A., Berkowicz N., Nelson J.O., Osborne J.,
+RA   Ding L., Meyer R., Sabo A., Shotland Y., Sinha P., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Jones T.A., She X.,
+RA   Ciccarelli F.D., Izaurralde E., Taylor J., Schmutz J., Myers R.M.,
+RA   Cox D.R., Huang X., McPherson J.D., Mardis E.R., Clifton S.W., Warren W.C.,
+RA   Chinwalla A.T., Eddy S.R., Marra M.A., Ovcharenko I., Furey T.S.,
+RA   Miller W., Eichler E.E., Bork P., Suyama M., Torrents D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "Generation and annotation of the DNA sequences of human chromosomes 2 and
+RT   4.";
+RL   Nature 434:724-731(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2), AND VARIANTS ASN-247;
+RP   ALA-301; GLN-351 AND ALA-972.
+RC   TISSUE=Kidney, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 433-1026 (ISOFORM 1).
+RC   TISSUE=Melanoma, and Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-124; SER-127; SER-239 AND
+RP   SER-242, VARIANT [LARGE SCALE ANALYSIS] ASN-247, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-124; SER-127; SER-132 AND
+RP   SER-302, VARIANT [LARGE SCALE ANALYSIS] ALA-301, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [9]
+RP   DNA-BINDING, AND INTERACTION WITH MSH2 AND TRIM28.
+RX   PubMed=18675275; DOI=10.1016/j.jmb.2008.07.031;
+RA   Okazaki N., Ikeda S., Ohara R., Shimada K., Yanagawa T., Nagase T.,
+RA   Ohara O., Koga H.;
+RT   "The novel protein complex with SMARCAD1/KIAA1122 binds to the vicinity of
+RT   TSS.";
+RL   J. Mol. Biol. 382:257-265(2008).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-79; SER-124; SER-127;
+RP   SER-132; SER-211 AND SER-214, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-54; SER-124; SER-127; SER-132
+RP   AND SER-146, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-124 AND SER-127, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [13]
+RP   INVOLVEMENT IN ADERM, TISSUE SPECIFICITY, AND ALTERNATIVE SPLICING (ISOFORM
+RP   3).
+RX   PubMed=21820097; DOI=10.1016/j.ajhg.2011.07.004;
+RA   Nousbeck J., Burger B., Fuchs-Telem D., Pavlovsky M., Fenig S., Sarig O.,
+RA   Itin P., Sprecher E.;
+RT   "A mutation in a skin-specific isoform of SMARCAD1 causes autosomal-
+RT   dominant adermatoglyphia.";
+RL   Am. J. Hum. Genet. 89:302-307(2011).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [15]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH PCNA; TRIM28; HDAC1;
+RP   HDAC2; EHMT2; PARP1 AND CBX3, AND MUTAGENESIS OF LYS-528.
+RX   PubMed=21549307; DOI=10.1016/j.molcel.2011.02.036;
+RA   Rowbotham S.P., Barki L., Neves-Costa A., Santos F., Dean W., Hawkes N.,
+RA   Choudhary P., Will W.R., Webster J., Oxley D., Green C.M., Varga-Weisz P.,
+RA   Mermoud J.E.;
+RT   "Maintenance of silent chromatin through replication requires SWI/SNF-like
+RT   chromatin remodeler SMARCAD1.";
+RL   Mol. Cell 42:285-296(2011).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-54; SER-57; SER-124; SER-127;
+RP   SER-146; SER-152; SER-239 AND SER-242, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [17]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.m111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C., Meinnel T.,
+RA   Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [18]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=22960744; DOI=10.1038/nature11353;
+RA   Costelloe T., Louge R., Tomimatsu N., Mukherjee B., Martini E.,
+RA   Khadaroo B., Dubois K., Wiegant W.W., Thierry A., Burma S., van Attikum H.,
+RA   Llorente B.;
+RT   "The yeast Fun30 and human SMARCAD1 chromatin remodellers promote DNA end
+RT   resection.";
+RL   Nature 489:581-584(2012).
+RN   [19]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-71; SER-79; SER-146; SER-152;
+RP   SER-211; SER-239 AND SER-302, VARIANT [LARGE SCALE ANALYSIS] ALA-301, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [21]
+RP   INVOLVEMENT IN BSNS.
+RX   PubMed=24664640; DOI=10.1002/ajmg.a.36438;
+RA   Marks K.C., Banks W.R. III, Cunningham D., Witman P.M., Herman G.E.;
+RT   "Analysis of two candidate genes for Basan syndrome.";
+RL   Am. J. Med. Genet. A 164A:1188-1191(2014).
+RN   [22]
+RP   INVOLVEMENT IN ADERM.
+RX   PubMed=24909267; DOI=10.1111/bjd.13176;
+RA   Nousbeck J., Sarig O., Magal L., Warshauer E., Burger B., Itin P.,
+RA   Sprecher E.;
+RT   "Mutations in SMARCAD1 cause autosomal dominant adermatoglyphia and perturb
+RT   the expression of epidermal differentiation-associated genes.";
+RL   Br. J. Dermatol. 171:1521-1524(2014).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT TYR-217, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [24]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-77, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [25]
+RP   INVOLVEMENT IN BSNS.
+RX   PubMed=26932190; DOI=10.1038/ejhg.2016.15;
+RA   Li M., Wang J., Li Z., Zhang J., Ni C., Cheng R., Yao Z.;
+RT   "Genome-wide linkage analysis and whole-genome sequencing identify a
+RT   recurrent SMARCAD1 variant in a unique Chinese family with Basan
+RT   syndrome.";
+RL   Eur. J. Hum. Genet. 24:1367-1370(2016).
+RN   [26]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-77; LYS-84; LYS-335; LYS-471;
+RP   LYS-724 AND LYS-996, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [27]
+RP   INVOLVEMENT IN HRZ, AND TISSUE SPECIFICITY.
+RX   PubMed=29409814; DOI=10.1016/j.jid.2018.01.015;
+RA   Guenther C., Lee-Kirsch M.A., Eckhard J., Matanovic A., Kerscher T.,
+RA   Rueschendorf F., Klein B., Berndt N., Zimmermann N., Flachmeier C.,
+RA   Thuss T., Lucas N., Marenholz I., Esparza-Gordillo J., Huebner N.,
+RA   Traupe H., Delaporte E., Lee Y.A.;
+RT   "SMARCAD1 Haploinsufficiency Underlies Huriez Syndrome and Associated Skin
+RT   Cancer Susceptibility.";
+RL   J. Invest. Dermatol. 138:1428-1431(2018).
+RN   [28]
+RP   VARIANT [LARGE SCALE ANALYSIS] ALA-301, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+CC   -!- FUNCTION: DNA helicase that possesses intrinsic ATP-dependent
+CC       nucleosome-remodeling activity and is both required for DNA repair and
+CC       heterochromatin organization. Promotes DNA end resection of double-
+CC       strand breaks (DSBs) following DNA damage: probably acts by weakening
+CC       histone DNA interactions in nucleosomes flanking DSBs. Required for the
+CC       restoration of heterochromatin organization after replication. Acts at
+CC       replication sites to facilitate the maintenance of heterochromatin by
+CC       directing H3 and H4 histones deacetylation, H3 'Lys-9' trimethylation
+CC       (H3K9me3) and restoration of silencing. {ECO:0000269|PubMed:21549307,
+CC       ECO:0000269|PubMed:22960744}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.12;
+CC   -!- SUBUNIT: Binds to DNA preferentially in the vicinity of transcriptional
+CC       start sites. Interacts with MSH2 and TRIM28. Part of a complex composed
+CC       of TRIM28, HDAC1, HDAC2 and EHMT2. Interacts with PCNA.
+CC       {ECO:0000269|PubMed:18675275, ECO:0000269|PubMed:21549307}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Chromosome. Note=Colocalizes with PCNA
+CC       at replication forks during S phase. Recruited to double-strand breaks
+CC       (DSBs) sites of DNA damage.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1; Synonyms=Long;
+CC         IsoId=Q9H4L7-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9H4L7-2; Sequence=VSP_007104;
+CC       Name=3; Synonyms=Short;
+CC         IsoId=Q9H4L7-3; Sequence=VSP_043110;
+CC   -!- TISSUE SPECIFICITY: Isoform 1 is expressed ubiquitously. Isoform 3 is
+CC       expressed mainly in skin and esophagus. Expressed in fibroblasts and
+CC       keratinocytes (at protein level) (PubMed:29409814).
+CC       {ECO:0000269|PubMed:11031099, ECO:0000269|PubMed:21820097,
+CC       ECO:0000269|PubMed:29409814}.
+CC   -!- DISEASE: Adermatoglyphia (ADERM) [MIM:136000]: An autosomal dominant
+CC       condition characterized by the lack of epidermal ridges on the palms
+CC       and soles, which results in the absence of fingerprints, and is
+CC       associated with a reduced number of sweat gland openings and reduced
+CC       sweating of palms and soles. {ECO:0000269|PubMed:21820097,
+CC       ECO:0000269|PubMed:24909267}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry. Splice site mutations
+CC       causing aberrant splicing of skin-specific isoform 3 are likely to
+CC       exert a loss-of-function effect and are involved in ADERM.
+CC       {ECO:0000269|PubMed:21820097, ECO:0000269|PubMed:24909267}.
+CC   -!- DISEASE: Basan syndrome (BSNS) [MIM:129200]: An autosomal dominant form
+CC       of adermatoglyphia associated with congenital facial milia, acral
+CC       blistering, digital contractures, and nail abnormalities.
+CC       Adermatoglyphia is defined by the lack of epidermal ridges on the palms
+CC       and soles, which results in the absence of fingerprints.
+CC       {ECO:0000269|PubMed:24664640, ECO:0000269|PubMed:26932190}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry. Splice site mutations causing aberrant splicing of skin-specific
+CC       isoform 3 are likely to exert a loss-of-function effect and are
+CC       involved in BSNS. {ECO:0000269|PubMed:24664640,
+CC       ECO:0000269|PubMed:26932190}.
+CC   -!- DISEASE: Huriez syndrome (HRZ) [MIM:181600]: An autosomal dominant
+CC       syndrome characterized by atrophic fibrosis of the skin of the limbs,
+CC       nail hypoplasia, and palmoplantar keratoderma. Malignant degeneration
+CC       of affected skin resulting in aggressive squamous cell carcinoma and
+CC       early metastasis formation is a distinctive feature of the syndrome.
+CC       {ECO:0000269|PubMed:29409814}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: [Isoform 3]: Skin-specific. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the SNF2/RAD54 helicase family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH17953.1; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Potential poly-A sequence.; Evidence={ECO:0000305};
+CC       Sequence=BAA86436.2; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC       Sequence=BAB14759.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Protein Spotlight; Note=The ends of our fingers
+CC       - Issue 136 of March 2012;
+CC       URL="https://web.expasy.org/spotlight/back_issues/136";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY008271; AAG16639.1; -; mRNA.
+DR   EMBL; AB032948; BAA86436.2; ALT_INIT; mRNA.
+DR   EMBL; AK023990; BAB14759.1; ALT_INIT; mRNA.
+DR   EMBL; AK027490; BAB55150.1; -; mRNA.
+DR   EMBL; AK301668; BAH13535.1; -; mRNA.
+DR   EMBL; AC096746; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC017953; AAH17953.1; ALT_SEQ; mRNA.
+DR   EMBL; BC045534; AAH45534.1; -; mRNA.
+DR   EMBL; AL359929; CAB95769.1; -; mRNA.
+DR   EMBL; AL512768; CAC21685.1; -; mRNA.
+DR   CCDS; CCDS3639.1; -. [Q9H4L7-1]
+DR   CCDS; CCDS47101.1; -. [Q9H4L7-2]
+DR   CCDS; CCDS58914.1; -. [Q9H4L7-3]
+DR   RefSeq; NP_001121901.1; NM_001128429.2. [Q9H4L7-2]
+DR   RefSeq; NP_001121902.1; NM_001128430.1. [Q9H4L7-2]
+DR   RefSeq; NP_001241878.1; NM_001254949.1. [Q9H4L7-3]
+DR   RefSeq; NP_064544.2; NM_020159.4. [Q9H4L7-1]
+DR   RefSeq; XP_016863952.1; XM_017008463.1.
+DR   PDB; 6H3A; X-ray; 5.50 A; B/D=95-347.
+DR   PDB; 6QU1; X-ray; 3.70 A; D=151-198.
+DR   PDBsum; 6H3A; -.
+DR   PDBsum; 6QU1; -.
+DR   AlphaFoldDB; Q9H4L7; -.
+DR   SMR; Q9H4L7; -.
+DR   BioGRID; 121244; 186.
+DR   IntAct; Q9H4L7; 21.
+DR   MINT; Q9H4L7; -.
+DR   STRING; 9606.ENSP00000351947; -.
+DR   GlyGen; Q9H4L7; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9H4L7; -.
+DR   MetOSite; Q9H4L7; -.
+DR   PhosphoSitePlus; Q9H4L7; -.
+DR   BioMuta; SMARCAD1; -.
+DR   DMDM; 306526240; -.
+DR   EPD; Q9H4L7; -.
+DR   jPOST; Q9H4L7; -.
+DR   MassIVE; Q9H4L7; -.
+DR   MaxQB; Q9H4L7; -.
+DR   PaxDb; Q9H4L7; -.
+DR   PeptideAtlas; Q9H4L7; -.
+DR   ProteomicsDB; 80860; -. [Q9H4L7-1]
+DR   ProteomicsDB; 80861; -. [Q9H4L7-2]
+DR   ProteomicsDB; 80862; -. [Q9H4L7-3]
+DR   Antibodypedia; 14709; 153 antibodies from 26 providers.
+DR   DNASU; 56916; -.
+DR   Ensembl; ENST00000354268.9; ENSP00000346217.4; ENSG00000163104.18. [Q9H4L7-1]
+DR   Ensembl; ENST00000359052.8; ENSP00000351947.4; ENSG00000163104.18. [Q9H4L7-2]
+DR   Ensembl; ENST00000457823.6; ENSP00000415576.2; ENSG00000163104.18. [Q9H4L7-2]
+DR   Ensembl; ENST00000509418.1; ENSP00000423286.1; ENSG00000163104.18. [Q9H4L7-3]
+DR   GeneID; 56916; -.
+DR   KEGG; hsa:56916; -.
+DR   MANE-Select; ENST00000354268.9; ENSP00000346217.4; NM_020159.5; NP_064544.2.
+DR   UCSC; uc003htb.5; human. [Q9H4L7-1]
+DR   AGR; HGNC:18398; -.
+DR   CTD; 56916; -.
+DR   DisGeNET; 56916; -.
+DR   GeneCards; SMARCAD1; -.
+DR   HGNC; HGNC:18398; SMARCAD1.
+DR   HPA; ENSG00000163104; Low tissue specificity.
+DR   MalaCards; SMARCAD1; -.
+DR   MIM; 129200; phenotype.
+DR   MIM; 136000; phenotype.
+DR   MIM; 181600; phenotype.
+DR   MIM; 612761; gene.
+DR   neXtProt; NX_Q9H4L7; -.
+DR   OpenTargets; ENSG00000163104; -.
+DR   Orphanet; 1658; Absence of fingerprints-congenital milia syndrome.
+DR   Orphanet; 384; Huriez syndrome.
+DR   Orphanet; 289465; Isolated congenital adermatoglyphia.
+DR   PharmGKB; PA134954731; -.
+DR   VEuPathDB; HostDB:ENSG00000163104; -.
+DR   eggNOG; KOG0389; Eukaryota.
+DR   GeneTree; ENSGT00910000144252; -.
+DR   HOGENOM; CLU_000315_16_3_1; -.
+DR   InParanoid; Q9H4L7; -.
+DR   OMA; MEMRRMA; -.
+DR   OrthoDB; 5482994at2759; -.
+DR   PhylomeDB; Q9H4L7; -.
+DR   TreeFam; TF105768; -.
+DR   PathwayCommons; Q9H4L7; -.
+DR   SignaLink; Q9H4L7; -.
+DR   SIGNOR; Q9H4L7; -.
+DR   BioGRID-ORCS; 56916; 13 hits in 1169 CRISPR screens.
+DR   ChiTaRS; SMARCAD1; human.
+DR   GeneWiki; SMARCAD1; -.
+DR   GenomeRNAi; 56916; -.
+DR   Pharos; Q9H4L7; Tbio.
+DR   PRO; PR:Q9H4L7; -.
+DR   Proteomes; UP000005640; Chromosome 4.
+DR   RNAct; Q9H4L7; protein.
+DR   Bgee; ENSG00000163104; Expressed in adrenal tissue and 173 other tissues.
+DR   ExpressionAtlas; Q9H4L7; baseline and differential.
+DR   Genevisible; Q9H4L7; HS.
+DR   GO; GO:0000792; C:heterochromatin; ISS:UniProtKB.
+DR   GO; GO:0043596; C:nuclear replication fork; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0035861; C:site of double-strand break; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0008094; F:ATP-dependent activity, acting on DNA; IBA:GO_Central.
+DR   GO; GO:0140658; F:ATP-dependent chromatin remodeler activity; IMP:GO_Central.
+DR   GO; GO:0003682; F:chromatin binding; IBA:GO_Central.
+DR   GO; GO:0003677; F:DNA binding; IDA:UniProtKB.
+DR   GO; GO:0004386; F:helicase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0043130; F:ubiquitin binding; IEA:InterPro.
+DR   GO; GO:0006338; P:chromatin remodeling; IMP:GO_Central.
+DR   GO; GO:0051304; P:chromosome separation; IMP:UniProtKB.
+DR   GO; GO:0000729; P:DNA double-strand break processing; IMP:UniProtKB.
+DR   GO; GO:0000018; P:regulation of DNA recombination; IEP:UniProtKB.
+DR   CDD; cd17998; DEXHc_SMARCAD1; 1.
+DR   CDD; cd18793; SF2_C_SNF; 1.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 1.
+DR   Gene3D; 3.40.50.10810; Tandem AAA-ATPase domain; 1.
+DR   InterPro; IPR003892; CUE.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR038718; SNF2-like_sf.
+DR   InterPro; IPR000330; SNF2_N.
+DR   PANTHER; PTHR10799; SNF2/RAD54 HELICASE FAMILY; 1.
+DR   PANTHER; PTHR10799:SF964; SWI/SNF-RELATED MATRIX-ASSOCIATED ACTIN-DEPENDENT REGULATOR OF CHROMATIN SUBFAMILY A CONTAINING DEAD/H BOX 1; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   Pfam; PF00176; SNF2-rel_dom; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 2.
+DR   PROSITE; PS51140; CUE; 2.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; ATP-binding;
+KW   Chromatin regulator; Chromosome; DNA damage; DNA repair; DNA-binding;
+KW   Ectodermal dysplasia; Helicase; Hydrolase; Isopeptide bond;
+KW   Nucleotide-binding; Nucleus; Palmoplantar keratoderma; Phosphoprotein;
+KW   Reference proteome; Repeat; Ubl conjugation.
+FT   CHAIN           1..1026
+FT                   /note="SWI/SNF-related matrix-associated actin-dependent
+FT                   regulator of chromatin subfamily A containing DEAD/H box 1"
+FT                   /id="PRO_0000074356"
+FT   DOMAIN          157..199
+FT                   /note="CUE 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00468"
+FT   DOMAIN          251..294
+FT                   /note="CUE 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00468"
+FT   DOMAIN          509..677
+FT                   /note="Helicase ATP-binding"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   DOMAIN          858..1010
+FT                   /note="Helicase C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00542"
+FT   REGION          1..82
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          203..251
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          302..328
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          354..373
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           628..631
+FT                   /note="DEGH box"
+FT   MOTIF           721..738
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   MOTIF           1005..1008
+FT                   /note="DEGD box"
+FT   COMPBIAS        44..72
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        223..241
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         521..529
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   BINDING         897..904
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:22223895,
+FT                   ECO:0007744|PubMed:22814378"
+FT   MOD_RES         54
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         57
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         71
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         79
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         124
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:17525332, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         127
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:17525332, ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         132
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17525332,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332"
+FT   MOD_RES         146
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         152
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         211
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         214
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         217
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         239
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         242
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         302
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17525332,
+FT                   ECO:0007744|PubMed:23186163"
+FT   CROSSLNK        77
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        84
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        335
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        471
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        724
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        996
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         1..430
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_043110"
+FT   VAR_SEQ         765
+FT                   /note="L -> LVT (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:10574461,
+FT                   ECO:0000303|PubMed:14702039, ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_007104"
+FT   VARIANT         66
+FT                   /note="S -> F (in dbSNP:rs11723410)"
+FT                   /id="VAR_028037"
+FT   VARIANT         135
+FT                   /note="L -> F (in dbSNP:rs2664891)"
+FT                   /id="VAR_028038"
+FT   VARIANT         140
+FT                   /note="R -> C (in dbSNP:rs2632398)"
+FT                   /id="VAR_028039"
+FT   VARIANT         245
+FT                   /note="S -> Y (in dbSNP:rs3103117)"
+FT                   /id="VAR_028040"
+FT   VARIANT         247
+FT                   /note="S -> N (in dbSNP:rs11722476)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0007744|PubMed:17081983"
+FT                   /id="VAR_028041"
+FT   VARIANT         301
+FT                   /note="V -> A (in dbSNP:rs7439869)"
+FT                   /evidence="ECO:0000269|PubMed:11031099,
+FT                   ECO:0000269|PubMed:15489334, ECO:0007744|PubMed:17525332,
+FT                   ECO:0007744|PubMed:19413330, ECO:0007744|PubMed:23186163"
+FT                   /id="VAR_028042"
+FT   VARIANT         351
+FT                   /note="P -> Q (in dbSNP:rs17854344)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_028043"
+FT   VARIANT         972
+FT                   /note="V -> A (in dbSNP:rs17857297)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_028044"
+FT   MUTAGEN         528
+FT                   /note="K->R: No effect on subcellular localization and on
+FT                   histone deacetylation."
+FT                   /evidence="ECO:0000269|PubMed:21549307"
+FT   CONFLICT        215
+FT                   /note="E -> D (in Ref. 5; AAH17953)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        937
+FT                   /note="N -> D (in Ref. 3; BAB14759)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1026 AA;  117402 MW;  0A5DB5653F478413 CRC64;
+     MNLFNLDRFR FEKRNKIEEA PEATPQPSQP GPSSPISLSA EEENAEGEVS RANTPDSDIT
+     EKTEDSSVPE TPDNERKASI SYFKNQRGIQ YIDLSSDSED VVSPNCSNTV QEKTFNKDTV
+     IIVSEPSEDE ESQGLPTMAR RNDDISELED LSELEDLKDA KLQTLKELFP QRSDNDLLKL
+     IESTSTMDGA IAAALLMFGD AGGGPRKRKL SSSSEPYEED EFNDDQSIKK TRLDHGEESN
+     ESAESSSNWE KQESIVLKLQ KEFPNFDKQE LREVLKEHEW MYTEALESLK VFAEDQDMQY
+     VSQSEVPNGK EVSSRSQNYP KNATKTKLKQ KFSMKAQNGF NKKRKKNVFN PKRVVEDSEY
+     DSGSDVGSSL DEDYSSGEEV MEDGYKGKIL HFLQDASIGE LTLIPQCSQK KAQKITELRP
+     FNSWEALFTK MSKTNGLSED LIWHCKTLIQ ERDVVIRLMN KCEDISNKLT KQVTMLTGNG
+     GGWNIEQPSI LNQSLSLKPY QKVGLNWLAL VHKHGLNGIL ADEMGLGKTI QAIAFLAYLY
+     QEGNNGPHLI VVPASTIDNW LREVNLWCPT LKVLCYYGSQ EERKQIRFNI HSRYEDYNVI
+     VTTYNCAISS SDDRSLFRRL KLNYAIFDEG HMLKNMGSIR YQHLMTINAN NRLLLTGTPV
+     QNNLLELMSL LNFVMPHMFS SSTSEIRRMF SSKTKSADEQ SIYEKERIAH AKQIIKPFIL
+     RRVKEEVLKQ LPPKKDRIEL CAMSEKQEQL YLGLFNRLKK SINNLEKNTE MCNVMMQLRK
+     MANHPLLHRQ YYTAEKLKEM SQLMLKEPTH CEANPDLIFE DMEVMTDFEL HVLCKQYRHI
+     NNFQLDMDLI LDSGKFRVLG CILSELKQKG DRVVLFSQFT MMLDILEVLL KHHQHRYLRL
+     DGKTQISERI HLIDEFNTDM DIFVFLLSTK AGGLGINLTS ANVVILHDID CNPYNDKQAE
+     DRCHRVGQTK EVLVIKLISQ GTIEESMLKI NQQKLKLEQD MTTVDEGDEG SMPADIATLL
+     KTSMGL
+//

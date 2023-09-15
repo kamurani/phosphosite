@@ -1,0 +1,163 @@
+ID   GOR_HUMAN               Reviewed;         675 AA.
+AC   Q8IX06; A6NK34; O95107;
+DT   28-NOV-2003, integrated into UniProtKB/Swiss-Prot.
+DT   22-JUL-2008, sequence version 2.
+DT   03-MAY-2023, entry version 135.
+DE   RecName: Full=Putative exonuclease GOR;
+DE            EC=3.1.-.-;
+DE   AltName: Full=Antigen GOR homolog;
+DE   AltName: Full=RNA exonuclease 1 homolog-like 1;
+GN   Name=REXO1L1P; Synonyms=GOR, REXO1L1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16421571; DOI=10.1038/nature04406;
+RA   Nusbaum C., Mikkelsen T.S., Zody M.C., Asakawa S., Taudien S., Garber M.,
+RA   Kodira C.D., Schueler M.G., Shimizu A., Whittaker C.A., Chang J.L.,
+RA   Cuomo C.A., Dewar K., FitzGerald M.G., Yang X., Allen N.R., Anderson S.,
+RA   Asakawa T., Blechschmidt K., Bloom T., Borowsky M.L., Butler J., Cook A.,
+RA   Corum B., DeArellano K., DeCaprio D., Dooley K.T., Dorris L. III,
+RA   Engels R., Gloeckner G., Hafez N., Hagopian D.S., Hall J.L., Ishikawa S.K.,
+RA   Jaffe D.B., Kamat A., Kudoh J., Lehmann R., Lokitsang T., Macdonald P.,
+RA   Major J.E., Matthews C.D., Mauceli E., Menzel U., Mihalev A.H.,
+RA   Minoshima S., Murayama Y., Naylor J.W., Nicol R., Nguyen C., O'Leary S.B.,
+RA   O'Neill K., Parker S.C.J., Polley A., Raymond C.K., Reichwald K.,
+RA   Rodriguez J., Sasaki T., Schilhabel M., Siddiqui R., Smith C.L.,
+RA   Sneddon T.P., Talamas J.A., Tenzin P., Topham K., Venkataraman V., Wen G.,
+RA   Yamazaki S., Young S.K., Zeng Q., Zimmer A.R., Rosenthal A., Birren B.W.,
+RA   Platzer M., Shimizu N., Lander E.S.;
+RT   "DNA sequence and analysis of human chromosome 8.";
+RL   Nature 439:331-335(2006).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 154-675.
+RC   TISSUE=Liver;
+RA   Gomez-Gonzalez O., Rodriguez R.E., Gonzalez-Sarmiento R.;
+RT   "A mariner transposon is located near the human GOR gene.";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   PRELIMINARY NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 490-658.
+RA   DeBella L.R., Schertzer M., Wood S.;
+RT   "Identification of a novel human gene (GOR) localized to 8q13-8q22.";
+RL   Submitted (SEP-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   IDENTIFICATION, AND SUBCELLULAR LOCATION.
+RX   PubMed=11472404; DOI=10.1046/j.1365-2249.2001.01508.x;
+RA   Koike R., Iizuka T., Watanabe T., Miyasaka N.;
+RT   "The GOR gene product cannot cross-react with hepatitis C virus in
+RT   humans.";
+RL   Clin. Exp. Immunol. 124:429-434(2001).
+CC   -!- INTERACTION:
+CC       Q8IX06; Q04864: REL; NbExp=3; IntAct=EBI-10262361, EBI-307352;
+CC       Q8IX06; P15884: TCF4; NbExp=3; IntAct=EBI-10262361, EBI-533224;
+CC       Q8IX06; Q8IYF3: TEX11; NbExp=3; IntAct=EBI-10262361, EBI-742397;
+CC       Q8IX06; Q9BUZ4: TRAF4; NbExp=3; IntAct=EBI-10262361, EBI-3650647;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:11472404}. Nucleus
+CC       {ECO:0000305|PubMed:11472404}.
+CC   -!- SIMILARITY: Belongs to the REXO1/REXO3 family. {ECO:0000305}.
+CC   -!- CAUTION: Could be the product of a pseudogene. N-terminally truncated
+CC       compared to the protein-coding REXO1 gene. Originally thought to encode
+CC       human GOR47-1, an antigenic epitope identified from the serum of virus
+CC       infected chimpanzee (see AC P48778), which was apparently also
+CC       expressed in human and used in ELISA tests to detect hepatitis C virus
+CC       infection in patients. It turns out that the peptide identified in
+CC       chimpanzee cannot be produced by human REXO1L1/GOR gene, due to a
+CC       premature stop codon in the gene (PubMed:11472404) and therefore the
+CC       basis of the tests remains unclear. However, the same authors provide
+CC       evidence of the expression of a different N-terminal peptide from the
+CC       human REXO1L1/GOR gene, the GOR1-125 antigen (PubMed:11472404).
+CC       {ECO:0000305|PubMed:11472404}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAN77012.1; Type=Miscellaneous discrepancy; Note=Contaminating sequence. Sequence of unknown origin in the N-terminal part.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AC093331; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AF495523; AAN77012.1; ALT_SEQ; mRNA.
+DR   EMBL; AF023669; AAC98149.1; -; Genomic_DNA.
+DR   AlphaFoldDB; Q8IX06; -.
+DR   SMR; Q8IX06; -.
+DR   IntAct; Q8IX06; 5.
+DR   GlyGen; Q8IX06; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8IX06; -.
+DR   PhosphoSitePlus; Q8IX06; -.
+DR   BioMuta; HGNC:24660; -.
+DR   DMDM; 205831276; -.
+DR   MassIVE; Q8IX06; -.
+DR   MaxQB; Q8IX06; -.
+DR   PaxDb; Q8IX06; -.
+DR   PeptideAtlas; Q8IX06; -.
+DR   DNASU; 254958; -.
+DR   AGR; HGNC:24660; -.
+DR   GeneCards; REXO1L1P; -.
+DR   HGNC; HGNC:24660; REXO1L1P.
+DR   neXtProt; NX_Q8IX06; -.
+DR   InParanoid; Q8IX06; -.
+DR   PhylomeDB; Q8IX06; -.
+DR   TreeFam; TF331871; -.
+DR   PathwayCommons; Q8IX06; -.
+DR   SignaLink; Q8IX06; -.
+DR   Pharos; Q8IX06; Tdark.
+DR   PRO; PR:Q8IX06; -.
+DR   Proteomes; UP000005640; Unplaced.
+DR   RNAct; Q8IX06; protein.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0004527; F:exonuclease activity; IBA:GO_Central.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   CDD; cd06145; REX1_like; 1.
+DR   Gene3D; 3.30.420.10; Ribonuclease H-like superfamily/Ribonuclease H; 1.
+DR   InterPro; IPR031736; EloA-BP1.
+DR   InterPro; IPR013520; Exonuclease_RNaseT/DNA_pol3.
+DR   InterPro; IPR034922; REX1-like_exo.
+DR   InterPro; IPR047021; REXO1/3/4-like.
+DR   InterPro; IPR012337; RNaseH-like_sf.
+DR   InterPro; IPR036397; RNaseH_sf.
+DR   PANTHER; PTHR12801:SF22; EXONUCLEASE GOR-RELATED; 1.
+DR   PANTHER; PTHR12801; RNA EXONUCLEASE REXO1 / RECO3 FAMILY MEMBER-RELATED; 1.
+DR   Pfam; PF15870; EloA-BP1; 2.
+DR   SMART; SM00479; EXOIII; 1.
+DR   SUPFAM; SSF53098; Ribonuclease H-like; 1.
+PE   5: Uncertain;
+KW   Cytoplasm; Exonuclease; Hydrolase; Nuclease; Nucleus; Reference proteome.
+FT   CHAIN           1..675
+FT                   /note="Putative exonuclease GOR"
+FT                   /id="PRO_0000120938"
+FT   REGION          66..90
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          225..263
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          358..483
+FT                   /note="GOR1-125 epitope"
+FT   CONFLICT        272
+FT                   /note="A -> P (in Ref. 2; AAN77012)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        635
+FT                   /note="D -> N (in Ref. 2; AAN77012)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        644
+FT                   /note="S -> N (in Ref. 2; AAN77012)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        667
+FT                   /note="A -> V (in Ref. 2; AAN77012)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   675 AA;  73855 MW;  8397A52718FF6FCB CRC64;
+     MLRATAPCWF PPGYPEAKKV AEEAALEASR HLGGEQSQAG APEGSKMLRA TAPCWFRPGY
+     PEAKKVAKEA APEASRHLGA EQSPAGAPEG SKMLRATAPC WFPPGYPEAK KVAEEAALEA
+     PEFPLPSHQP AQSFGLWVPQ MHKQASAFVD IQAEPQNRGP AVPPAWPKMV TESCYFPAQR
+     GSACRLPAAP RLTERPSGVR ISAPRKRKTI AHSSSPCLVT GYTDAKRTRV ASSSQRSRGS
+     KVGRQPGKTR NRSGMACKTT ATTSSKRIVR RASLPSLSLK KPIILRSSGC QVPTVLRRGY
+     LQLFTEECLK FCASKQEAEE KALNEEKVAY DCSPNKNRYL NVVLNTLKRL KGLTPSSMPG
+     LSRAALYSRL QEFLLTQDQL KENGYPFPHP ERPGGAVLFT GQGKGPGDSS CRVCCRCGTE
+     YLVSSSGRCV RDQLCYYHWG RVRSSQVAGG RVSQYTCCAA APGSVGCQVA KQHVRDGRKE
+     SLDGFVETFK KELSRDAYPG IYALDCEMCY TTHGLELTRV TVVDADMRVV YDTFVKPDNE
+     IVDYNTRFSG VTEADVAKTS ITLPQVQAIL LSFFSAQTIL IGHSLESDLL ALKLIHSTVV
+     DTAVLFPHYL GFPYKRSLRN LAADYLAQII QDSQDGHNSS EDASACLQLV MWKVRQRAQI
+     QPRHRSASPA ALACP
+//

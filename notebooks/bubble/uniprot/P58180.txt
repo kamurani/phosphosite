@@ -1,0 +1,212 @@
+ID   OR4D2_HUMAN             Reviewed;         307 AA.
+AC   P58180; Q6IFN8; Q96R75;
+DT   20-JUN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   20-JUN-2001, sequence version 1.
+DT   28-JUN-2023, entry version 163.
+DE   RecName: Full=Olfactory receptor 4D2;
+DE   AltName: Full=B-lymphocyte membrane protein BC2009;
+DE   AltName: Full=Olfactory receptor OR17-24;
+GN   Name=OR4D2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Lu X.-W., Cui L.-X., Li Y.-H.;
+RT   "Activated B lymphocyte gene.";
+RL   Submitted (SEP-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Suwa M., Sato T., Okouchi I., Arita M., Futami K., Matsumoto S.,
+RA   Tsutsumi S., Aburatani H., Asai K., Akiyama Y.;
+RT   "Genome-wide discovery and analysis of human seven transmembrane helix
+RT   receptor genes.";
+RL   Submitted (JUL-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 68-280.
+RX   PubMed=12213199; DOI=10.1006/geno.2002.6830;
+RA   Fuchs T., Malecova B., Linhart C., Sharan R., Khen M., Herwig R.,
+RA   Shmulevich D., Elkon R., Steinfath M., O'Brien J.K., Radelof U.,
+RA   Lehrach H., Lancet D., Shamir R.;
+RT   "DEFOG: a practical scheme for deciphering families of genes.";
+RL   Genomics 80:295-302(2002).
+RN   [5]
+RP   IDENTIFICATION.
+RX   PubMed=14983052; DOI=10.1073/pnas.0307882100;
+RA   Malnic B., Godfrey P.A., Buck L.B.;
+RT   "The human olfactory receptor gene family.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:2584-2589(2004).
+RN   [6]
+RP   ERRATUM OF PUBMED:14983052.
+RA   Malnic B., Godfrey P.A., Buck L.B.;
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:7205-7205(2004).
+CC   -!- FUNCTION: Odorant receptor. {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Multi-pass membrane protein.
+CC   -!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00521}.
+CC   -!- WEB RESOURCE: Name=Human Olfactory Receptor Data Exploratorium (HORDE);
+CC       URL="http://genome.weizmann.ac.il/horde/card/index/symbol:OR4D2";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF303373; AAL26785.1; -; mRNA.
+DR   EMBL; AB065912; BAC06127.1; -; Genomic_DNA.
+DR   EMBL; AC005962; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AF399568; AAK95053.1; -; Genomic_DNA.
+DR   EMBL; BK004224; DAA04622.1; -; Genomic_DNA.
+DR   CCDS; CCDS32688.1; -.
+DR   RefSeq; NP_001004707.1; NM_001004707.3.
+DR   AlphaFoldDB; P58180; -.
+DR   SMR; P58180; -.
+DR   BioGRID; 125872; 23.
+DR   STRING; 9606.ENSP00000441354; -.
+DR   GlyCosmos; P58180; 1 site, No reported glycans.
+DR   GlyGen; P58180; 1 site.
+DR   iPTMnet; P58180; -.
+DR   PhosphoSitePlus; P58180; -.
+DR   BioMuta; OR4D2; -.
+DR   DMDM; 14423786; -.
+DR   jPOST; P58180; -.
+DR   PaxDb; P58180; -.
+DR   Antibodypedia; 65981; 74 antibodies from 19 providers.
+DR   DNASU; 124538; -.
+DR   Ensembl; ENST00000545221.2; ENSP00000441354.1; ENSG00000255713.2.
+DR   Ensembl; ENST00000641866.1; ENSP00000493137.1; ENSG00000255713.2.
+DR   GeneID; 124538; -.
+DR   KEGG; hsa:124538; -.
+DR   MANE-Select; ENST00000545221.2; ENSP00000441354.1; NM_001004707.4; NP_001004707.1.
+DR   UCSC; uc010wnp.2; human.
+DR   AGR; HGNC:8294; -.
+DR   CTD; 124538; -.
+DR   GeneCards; OR4D2; -.
+DR   HGNC; HGNC:8294; OR4D2.
+DR   HPA; ENSG00000255713; Not detected.
+DR   neXtProt; NX_P58180; -.
+DR   OpenTargets; ENSG00000255713; -.
+DR   PharmGKB; PA32270; -.
+DR   VEuPathDB; HostDB:ENSG00000255713; -.
+DR   eggNOG; ENOG502SIBY; Eukaryota.
+DR   GeneTree; ENSGT00940000154503; -.
+DR   HOGENOM; CLU_012526_8_1_1; -.
+DR   InParanoid; P58180; -.
+DR   OMA; IYQLALM; -.
+DR   OrthoDB; 4634745at2759; -.
+DR   PhylomeDB; P58180; -.
+DR   TreeFam; TF338273; -.
+DR   PathwayCommons; P58180; -.
+DR   Reactome; R-HSA-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-HSA-9752946; Expression and translocation of olfactory receptors.
+DR   BioGRID-ORCS; 124538; 7 hits in 739 CRISPR screens.
+DR   GeneWiki; OR4D2; -.
+DR   GenomeRNAi; 124538; -.
+DR   Pharos; P58180; Tdark.
+DR   PRO; PR:P58180; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; P58180; protein.
+DR   ExpressionAtlas; P58180; baseline and differential.
+DR   Genevisible; P58180; HS.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0004930; F:G protein-coupled receptor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004984; F:olfactory receptor activity; IEA:InterPro.
+DR   CDD; cd15936; 7tmA_OR4D-like; 1.
+DR   Gene3D; 1.20.1070.10; Rhodopsin 7-helix transmembrane proteins; 1.
+DR   InterPro; IPR000276; GPCR_Rhodpsn.
+DR   InterPro; IPR017452; GPCR_Rhodpsn_7TM.
+DR   InterPro; IPR000725; Olfact_rcpt.
+DR   PANTHER; PTHR48002; OLFACTORY RECEPTOR; 1.
+DR   PANTHER; PTHR48002:SF132; OLFACTORY RECEPTOR 4D2; 1.
+DR   Pfam; PF13853; 7tm_4; 1.
+DR   PRINTS; PR00237; GPCRRHODOPSN.
+DR   PRINTS; PR00245; OLFACTORYR.
+DR   SUPFAM; SSF81321; Family A G protein-coupled receptor-like; 1.
+DR   PROSITE; PS50262; G_PROTEIN_RECEP_F1_2; 1.
+PE   2: Evidence at transcript level;
+KW   Cell membrane; Disulfide bond; G-protein coupled receptor; Glycoprotein;
+KW   Membrane; Olfaction; Receptor; Reference proteome; Sensory transduction;
+KW   Transducer; Transmembrane; Transmembrane helix.
+FT   CHAIN           1..307
+FT                   /note="Olfactory receptor 4D2"
+FT                   /id="PRO_0000150538"
+FT   TOPO_DOM        1..25
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        26..49
+FT                   /note="Helical; Name=1"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        50..57
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        58..79
+FT                   /note="Helical; Name=2"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        80..100
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        101..120
+FT                   /note="Helical; Name=3"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        121..139
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        140..158
+FT                   /note="Helical; Name=4"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        159..195
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        196..219
+FT                   /note="Helical; Name=5"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        220..235
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        236..258
+FT                   /note="Helical; Name=6"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        259..269
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        270..289
+FT                   /note="Helical; Name=7"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        290..307
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        5
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        97..189
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00521"
+FT   VARIANT         29
+FT                   /note="L -> I (in dbSNP:rs60994383)"
+FT                   /id="VAR_062035"
+SQ   SEQUENCE   307 AA;  34958 MW;  5C8C68269034EBD3 CRC64;
+     METGNLTWVS DFVFLGLSQT RELQRFLFLM FLFVYITTVM GNILIIITVT SDSQLHTPMY
+     FLLRNLAVLD LCFSSVTAPK MLVDLLSEKK TISYQGCMGQ IFFFHFLGGA MVFFLSVMAF
+     DRLIAISRPL RYVTVMNTQL WVGLVVATWV GGFVHSIVQL ALMLPLPFCG PNILDNFYCD
+     VPQVLRLACT DTSLLEFLKI SNSGLLDVVW FFLLLMSYLF ILVMLRSHPG EARRKAASTC
+     TTHIIVVSMI FVPSIYLYAR PFTPFPMDKL VSIGHTVMTP MLNPMIYTLR NQDMQAAVRR
+     LGRHRLV
+//

@@ -1,0 +1,330 @@
+ID   ZN445_HUMAN             Reviewed;        1031 AA.
+AC   P59923; Q3MJD1;
+DT   10-OCT-2003, integrated into UniProtKB/Swiss-Prot.
+DT   10-OCT-2003, sequence version 1.
+DT   28-JUN-2023, entry version 160.
+DE   RecName: Full=Zinc finger protein 445 {ECO:0000305};
+DE            Short=ZFP445 {ECO:0000303|PubMed:30602440};
+DE   AltName: Full=Zinc finger protein 168;
+DE   AltName: Full=Zinc finger protein with KRAB and SCAN domains 15;
+GN   Name=ZNF445 {ECO:0000312|HGNC:HGNC:21018};
+GN   Synonyms=ZFP445 {ECO:0000303|PubMed:30602440}, ZKSCAN15, ZNF168;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Shan Y.X., Luo K.T., Guo Z.K., Tang W.W., Ye G.M., Yu L., Huang C.Q.;
+RT   "Cloning and characterization of a novel zinc finger protein.";
+RL   Submitted (MAR-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-938, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25218447; DOI=10.1038/nsmb.2890;
+RA   Hendriks I.A., D'Souza R.C., Yang B., Verlaan-de Vries M., Mann M.,
+RA   Vertegaal A.C.;
+RT   "Uncovering global SUMOylation signaling networks in a site-specific
+RT   manner.";
+RL   Nat. Struct. Mol. Biol. 21:927-936(2014).
+RN   [4]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-28, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25114211; DOI=10.1073/pnas.1413825111;
+RA   Impens F., Radoshevich L., Cossart P., Ribet D.;
+RT   "Mapping of SUMO sites and analysis of SUMOylation changes induced by
+RT   external stimuli.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 111:12432-12437(2014).
+RN   [5]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-938, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25755297; DOI=10.1074/mcp.o114.044792;
+RA   Xiao Z., Chang J.G., Hendriks I.A., Sigurdsson J.O., Olsen J.V.,
+RA   Vertegaal A.C.;
+RT   "System-wide analysis of SUMOylation dynamics in response to replication
+RT   stress reveals novel small ubiquitin-like modified target proteins and
+RT   acceptor lysines relevant for genome stability.";
+RL   Mol. Cell. Proteomics 14:1419-1434(2015).
+RN   [6]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-317; LYS-374; LYS-375; LYS-399;
+RP   LYS-567; LYS-654; LYS-736; LYS-758; LYS-938; LYS-956 AND LYS-975, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [7]
+RP   FUNCTION, DEVELOPMENTAL STAGE, AND SUBCELLULAR LOCATION.
+RX   PubMed=30602440; DOI=10.1101/gad.320069.118;
+RA   Takahashi N., Coluccio A., Thorball C.W., Planet E., Shi H., Offner S.,
+RA   Turelli P., Imbeault M., Ferguson-Smith A.C., Trono D.;
+RT   "ZNF445 is a primary regulator of genomic imprinting.";
+RL   Genes Dev. 33:49-54(2019).
+CC   -!- FUNCTION: Transcription regulator required to maintain maternal and
+CC       paternal gene imprinting, a process by which gene expression is
+CC       restricted in a parent of origin-specific manner by epigenetic
+CC       modification of genomic DNA and chromatin, including DNA methylation.
+CC       Acts by controlling DNA methylation during the earliest multicellular
+CC       stages of development at multiple imprinting control regions (ICRs)
+CC       (PubMed:30602440). Acts together with ZFP57, but seems to be the major
+CC       factor in human early embryonic imprinting maintenance. In contrast, in
+CC       mice, ZFP57 plays the predominant role in imprinting maintenance
+CC       (PubMed:30602440). {ECO:0000269|PubMed:30602440}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:30602440}. Note=Binds
+CC       various differentially methylated regions (DMR).
+CC       {ECO:0000269|PubMed:30602440}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed in the oocyte, expression is maintained
+CC       at least until blastocyst stage. {ECO:0000269|PubMed:30602440}.
+CC   -!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY262260; AAP36990.1; -; mRNA.
+DR   EMBL; AY295873; AAP50258.1; -; mRNA.
+DR   EMBL; BC101486; AAI01487.1; -; mRNA.
+DR   CCDS; CCDS2713.1; -.
+DR   RefSeq; NP_852466.1; NM_181489.5.
+DR   RefSeq; XP_005265159.1; XM_005265102.2.
+DR   RefSeq; XP_011531976.1; XM_011533674.2.
+DR   AlphaFoldDB; P59923; -.
+DR   SMR; P59923; -.
+DR   BioGRID; 131672; 58.
+DR   IntAct; P59923; 21.
+DR   MINT; P59923; -.
+DR   STRING; 9606.ENSP00000413073; -.
+DR   GlyGen; P59923; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P59923; -.
+DR   PhosphoSitePlus; P59923; -.
+DR   BioMuta; ZNF445; -.
+DR   DMDM; 45593854; -.
+DR   EPD; P59923; -.
+DR   jPOST; P59923; -.
+DR   MassIVE; P59923; -.
+DR   MaxQB; P59923; -.
+DR   PaxDb; P59923; -.
+DR   PeptideAtlas; P59923; -.
+DR   ProteomicsDB; 57172; -.
+DR   Antibodypedia; 29430; 59 antibodies from 13 providers.
+DR   DNASU; 353274; -.
+DR   Ensembl; ENST00000396077.8; ENSP00000379387.2; ENSG00000185219.18.
+DR   Ensembl; ENST00000425708.6; ENSP00000413073.2; ENSG00000185219.18.
+DR   Ensembl; ENST00000634579.1; ENSP00000489139.1; ENSG00000283034.2.
+DR   Ensembl; ENST00000635479.2; ENSP00000489368.1; ENSG00000283034.2.
+DR   GeneID; 353274; -.
+DR   KEGG; hsa:353274; -.
+DR   MANE-Select; ENST00000396077.8; ENSP00000379387.2; NM_181489.6; NP_852466.1.
+DR   UCSC; uc003cnf.3; human.
+DR   AGR; HGNC:21018; -.
+DR   CTD; 353274; -.
+DR   GeneCards; ZNF445; -.
+DR   HGNC; HGNC:21018; ZNF445.
+DR   HPA; ENSG00000185219; Low tissue specificity.
+DR   MIM; 619508; gene.
+DR   neXtProt; NX_P59923; -.
+DR   OpenTargets; ENSG00000185219; -.
+DR   PharmGKB; PA134904986; -.
+DR   VEuPathDB; HostDB:ENSG00000185219; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00900000141186; -.
+DR   HOGENOM; CLU_002678_23_0_1; -.
+DR   InParanoid; P59923; -.
+DR   OMA; VCDFLAG; -.
+DR   OrthoDB; 5256517at2759; -.
+DR   PhylomeDB; P59923; -.
+DR   TreeFam; TF350827; -.
+DR   PathwayCommons; P59923; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; P59923; -.
+DR   BioGRID-ORCS; 353274; 27 hits in 1193 CRISPR screens.
+DR   ChiTaRS; ZNF445; human.
+DR   GenomeRNAi; 353274; -.
+DR   Pharos; P59923; Tdark.
+DR   PRO; PR:P59923; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   RNAct; P59923; protein.
+DR   Bgee; ENSG00000185219; Expressed in cortical plate and 110 other tissues.
+DR   ExpressionAtlas; P59923; baseline and differential.
+DR   Genevisible; P59923; HS.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0003682; F:chromatin binding; IEA:Ensembl.
+DR   GO; GO:0001228; F:DNA-binding transcription activator activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0010385; F:double-stranded methylated DNA binding; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IBA:GO_Central.
+DR   GO; GO:0044027; P:negative regulation of gene expression via CpG island methylation; IMP:UniProtKB.
+DR   GO; GO:2000653; P:regulation of genetic imprinting; IMP:UniProtKB.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   CDD; cd07936; SCAN; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 14.
+DR   Gene3D; 1.10.4020.10; DNA breaking-rejoining enzymes; 1.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR003309; SCAN_dom.
+DR   InterPro; IPR038269; SCAN_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24379; KRAB AND ZINC FINGER DOMAIN-CONTAINING; 1.
+DR   PANTHER; PTHR24379:SF80; SIMILAR TO ZINC FINGER PROTEIN 84 (HPF2); 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF02023; SCAN; 1.
+DR   Pfam; PF00096; zf-C2H2; 11.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00431; SCAN; 1.
+DR   SMART; SM00355; ZnF_C2H2; 14.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 9.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   SUPFAM; SSF47353; Retrovirus capsid dimerization domain-like; 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS50804; SCAN_BOX; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 14.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 14.
+PE   1: Evidence at protein level;
+KW   DNA-binding; Isopeptide bond; Metal-binding; Nucleus; Reference proteome;
+KW   Repeat; Transcription; Transcription regulation; Ubl conjugation; Zinc;
+KW   Zinc-finger.
+FT   CHAIN           1..1031
+FT                   /note="Zinc finger protein 445"
+FT                   /id="PRO_0000047594"
+FT   DOMAIN          55..137
+FT                   /note="SCAN box"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00187"
+FT   DOMAIN          234..304
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         485..507
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         513..535
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         541..563
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         597..619
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         625..647
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         681..703
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         709..731
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         762..784
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         790..812
+FT                   /note="C2H2-type 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         840..862
+FT                   /note="C2H2-type 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         868..890
+FT                   /note="C2H2-type 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         896..918
+FT                   /note="C2H2-type 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         978..1000
+FT                   /note="C2H2-type 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         1006..1028
+FT                   /note="C2H2-type 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          1..43
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          911..939
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        21..36
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CROSSLNK        28
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO1)"
+FT                   /evidence="ECO:0007744|PubMed:25114211"
+FT   CROSSLNK        317
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        374
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        375
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        399
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        567
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        654
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        736
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        758
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        938
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:25218447,
+FT                   ECO:0007744|PubMed:25755297, ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        956
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        975
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VARIANT         428
+FT                   /note="Y -> C (in dbSNP:rs11710965)"
+FT                   /id="VAR_052832"
+SQ   SEQUENCE   1031 AA;  118963 MW;  39C288802894006E CRC64;
+     MPPGRWHAAY PAQAQSSRER GRLQTVKKEE EDESYTPVQA ARPQTLNRPG QELFRQLFRQ
+     LRYHESSGPL ETLSRLRELC RWWLRPDVLS KAQILELLVL EQFLSILPGE LRVWVQLHNP
+     ESGEEAVALL EELQRDLDGT SWRDPGPAQS PDVHWMGTGA LRSAQIWSLA SPLRSSSALG
+     DHLEPPYEIE ARDFLAGQSD TPAAQMPALF PREGCPGDQV TPTRSLTAQL QETMTFKDVE
+     VTFSQDEWGW LDSAQRNLYR DVMLENYRNM ASLVGPFTKP ALISWLEARE PWGLNMQAAQ
+     PKGNPVAAPT GDDLQSKTNK FILNQEPLEE AETLAVSSGC PATSVSEGIG LRESFQQKSR
+     QKDQCENPIQ VRVKKEETNF SHRTGKDSEV SGSNSLDLKH VTYLRVSGRK ESLKHGCGKH
+     FRMSSHHYDY KKYGKGLRHM IGGFSLHQRI HSGLKGNKKD VCGKDFSLSS HHQRGQSLHT
+     VGVSFKCSDC GRTFSHSSHL AYHQRLHTQE KAFKCRVCGK AFRWSSNCAR HEKIHTGVKP
+     YKCDLCEKAF RRLSAYRLHR ETHAKKKFLE LNQYRAALTY SSGFDHHLGD QSGEKLFDCS
+     QCRKSFHCKS YVLEHQRIHT QEKPYKCTKC RKTFRWRSNF TRHMRLHEEE KFYKQDECRE
+     GFRQSPDCSQ PQGAPAVEKT FLCQQCGKTF TRKKTLVDHQ RIHTGEKPYQ CSDCGKDFAY
+     RSAFIVHKKK HAMKRKPEGG PSFSQDTVFQ VPQSSHSKEE PYKCSQCGKA FRNHSFLLIH
+     QRVHTGEKPY KCRECGKAFR WSSNLYRHQR IHSLQKQYDC HESEKTPNVE PKILTGEKRF
+     WCQECGKTFT RKRTLLDHKG IHSGEKRYKC NLCGKSYDRN YRLVNHQRIH STERPFKCQW
+     CGKEFIGRHT LSSHQRKHTR AAQAERSPPA RSSSQDTKLR LQKLKPSEEM PLEDCKEACS
+     QSSRLTGLQD ISIGKKCHKC SICGKTFNKS SQLISHKRFH TRERPFKCSK CGKTFRWSSN
+     LARHMKNHIR D
+//

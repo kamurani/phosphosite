@@ -1,0 +1,770 @@
+ID   MYO9B_HUMAN             Reviewed;        2157 AA.
+AC   Q13459; O75314; Q9NUJ2; Q9UHN0;
+DT   20-JUN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   08-MAR-2011, sequence version 3.
+DT   28-JUN-2023, entry version 217.
+DE   RecName: Full=Unconventional myosin-IXb;
+DE   AltName: Full=Unconventional myosin-9b;
+GN   Name=MYO9B; Synonyms=MYR5;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LONG/SHORT), SUBCELLULAR LOCATION, AND
+RP   TISSUE SPECIFICITY.
+RC   TISSUE=Liver, and Small intestine;
+RX   PubMed=8907710; DOI=10.1242/jcs.109.3.653;
+RA   Wirth J.A., Jensen K.A., Post P.L., Bement W.M., Mooseker M.S.;
+RT   "Human myosin-IXb, an unconventional myosin with a chimerin-like rho/rac
+RT   GTPase-activating protein domain in its tail.";
+RL   J. Cell Sci. 109:653-661(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [3]
+RP   PARTIAL NUCLEOTIDE SEQUENCE [MRNA], AND ALTERNATIVE SPLICING.
+RX   PubMed=10580159; DOI=10.1016/s0378-1119(99)00459-x;
+RA   Grewal P.K., Jones A.-M., Maconochie M., Lemmers R.J.F., Frants R.R.,
+RA   Hewitt J.E.;
+RT   "Cloning of the murine unconventional myosin gene Myo9b and identification
+RT   of alternative splicing.";
+RL   Gene 240:389-398(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1940-2157 (ISOFORM LONG), FUNCTION,
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=9490638; DOI=10.1242/jcs.111.7.941;
+RA   Post P.L., Bokoch G.M., Mooseker M.S.;
+RT   "Human myosin-IXb is a mechanochemically active motor and a GAP for rho.";
+RL   J. Cell Sci. 111:941-950(1998).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1828-2022 (ISOFORM SHORT).
+RC   TISSUE=Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   ASSOCIATION WITH CELIAC DISEASE 4.
+RX   PubMed=16282976; DOI=10.1038/ng1680;
+RA   Monsuur A.J., de Bakker P.I., Alizadeh B.Z., Zhernakova A., Bevova M.R.,
+RA   Strengman E., Franke L., van't Slot R., van Belzen M.J., Lavrijsen I.C.,
+RA   Diosdado B., Daly M.J., Mulder C.J., Mearin M.L., Meijer J.W., Meijer G.A.,
+RA   van Oort E., Wapenaar M.C., Koeleman B.P., Wijmenga C.;
+RT   "Myosin IXB variant increases the risk of celiac disease and points toward
+RT   a primary intestinal barrier defect.";
+RL   Nat. Genet. 37:1341-1344(2005).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=16964243; DOI=10.1038/nbt1240;
+RA   Beausoleil S.A., Villen J., Gerber S.A., Rush J., Gygi S.P.;
+RT   "A probability-based approach for high-throughput protein phosphorylation
+RT   analysis and site localization.";
+RL   Nat. Biotechnol. 24:1285-1292(2006).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1290, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=T-cell;
+RX   PubMed=19367720; DOI=10.1021/pr800500r;
+RA   Carrascal M., Ovelleiro D., Casas V., Gay M., Abian J.;
+RT   "Phosphorylation analysis of primary human T lymphocytes using sequential
+RT   IMAC and titanium oxide enrichment.";
+RL   J. Proteome Res. 7:5167-5176(2008).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1267; THR-1271 AND SER-1290,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Platelet;
+RX   PubMed=18088087; DOI=10.1021/pr0704130;
+RA   Zahedi R.P., Lewandrowski U., Wiesner J., Wortelkamp S., Moebius J.,
+RA   Schuetz C., Walter U., Gambaryan S., Sickmann A.;
+RT   "Phosphoproteome of resting human platelets.";
+RL   J. Proteome Res. 7:526-534(2008).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1290 AND SER-1405, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18691976; DOI=10.1016/j.molcel.2008.07.007;
+RA   Daub H., Olsen J.V., Bairlein M., Gnad F., Oppermann F.S., Korner R.,
+RA   Greff Z., Keri G., Stemmann O., Mann M.;
+RT   "Kinase-selective enrichment enables quantitative phosphoproteomics of the
+RT   kinome across the cell cycle.";
+RL   Mol. Cell 31:438-448(2008).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-716; SER-1290; SER-1354 AND
+RP   SER-1992, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1290 AND SER-1992, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19369195; DOI=10.1074/mcp.m800588-mcp200;
+RA   Oppermann F.S., Gnad F., Olsen J.V., Hornberger R., Greff Z., Keri G.,
+RA   Mann M., Daub H.;
+RT   "Large-scale proteomics analysis of the human kinome.";
+RL   Mol. Cell. Proteomics 8:1751-1764(2009).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1267; THR-1271 AND SER-1992,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1290; SER-1323 AND THR-1346,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1267; THR-1271; SER-1290;
+RP   SER-1354 AND SER-1992, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [18]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [19]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-717; SER-1114; SER-1115;
+RP   SER-1122; SER-1242; SER-1261; SER-1267; THR-1271; SER-1290; SER-1331;
+RP   THR-1346; SER-1354; SER-1405; SER-1926; SER-1972; SER-1992 AND SER-2050,
+RP   AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [20]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1261; SER-1267; THR-1271;
+RP   SER-1290; THR-1346 AND SER-1356, AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [21] {ECO:0007744|PDB:5C5S}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 1691-1916, FUNCTION, INTERACTION
+RP   WITH ROBO1 AND RHOA, AND MUTAGENESIS OF ALA-1739; ASN-1741 AND ARG-1742.
+RX   PubMed=26529257; DOI=10.1172/jci81673;
+RA   Kong R., Yi F., Wen P., Liu J., Chen X., Ren J., Li X., Shang Y., Nie Y.,
+RA   Wu K., Fan D., Zhu L., Feng W., Wu J.Y.;
+RT   "Myo9b is a key player in SLIT/ROBO-mediated lung tumor suppression.";
+RL   J. Clin. Invest. 125:4407-4420(2015).
+CC   -!- FUNCTION: Myosins are actin-based motor molecules with ATPase activity.
+CC       Unconventional myosins serve in intracellular movements. Binds actin
+CC       with high affinity both in the absence and presence of ATP and its
+CC       mechanochemical activity is inhibited by calcium ions (PubMed:9490638).
+CC       Also acts as a GTPase activator for RHOA (PubMed:9490638,
+CC       PubMed:26529257). Plays a role in the regulation of cell migration via
+CC       its role as RHOA GTPase activator. This is regulated by its interaction
+CC       with the SLIT2 receptor ROBO1; interaction with ROBO1 impairs
+CC       interaction with RHOA and subsequent activation of RHOA GTPase
+CC       activity, and thereby leads to increased levels of active, GTP-bound
+CC       RHOA (PubMed:26529257). {ECO:0000269|PubMed:26529257,
+CC       ECO:0000269|PubMed:9490638}.
+CC   -!- SUBUNIT: Interacts (via IQ domains) with CALM (PubMed:9490638).
+CC       Interacts with RHOA (PubMed:26529257). Interacts (via Rho-GAP domain)
+CC       with ROBO1; this inhibits the interaction with RHOA and the stimulation
+CC       of RHOA GTPase activity, and thereby increases the levels of active
+CC       RHOA (PubMed:26529257). {ECO:0000269|PubMed:9490638}.
+CC   -!- INTERACTION:
+CC       Q13459-2; Q9Y6D6: ARFGEF1; NbExp=2; IntAct=EBI-6251250, EBI-1044254;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, cell cortex
+CC       {ECO:0000269|PubMed:8907710}. Cytoplasm, perinuclear region
+CC       {ECO:0000269|PubMed:8907710}. Cytoplasm, cytoskeleton
+CC       {ECO:0000269|PubMed:8907710, ECO:0000269|PubMed:9490638}. Note=In
+CC       undifferentiated cells colocalizes with F-actin in the cell periphery
+CC       while in differentiated cells its localization is cytoplasmic with the
+CC       highest levels in the perinuclear region. {ECO:0000269|PubMed:8907710}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=Long;
+CC         IsoId=Q13459-1; Sequence=Displayed;
+CC       Name=Short;
+CC         IsoId=Q13459-2; Sequence=VSP_003361, VSP_003362;
+CC   -!- TISSUE SPECIFICITY: Detected in peripheral blood leukocytes (at protein
+CC       level) (PubMed:9490638). Expressed predominantly in peripheral blood
+CC       leukocytes and at lower levels, in thymus, spleen, testis, prostate,
+CC       ovary, brain, small intestine and lung. {ECO:0000269|PubMed:8907710,
+CC       ECO:0000269|PubMed:9490638}.
+CC   -!- DISEASE: Celiac disease 4 (CELIAC4) [MIM:609753]: A multifactorial,
+CC       chronic disorder of the small intestine caused by intolerance to
+CC       gluten. It is characterized by immune-mediated enteropathy associated
+CC       with failed intestinal absorption, and malnutrition. In predisposed
+CC       individuals, the ingestion of gluten-containing food such as wheat and
+CC       rye induces a flat jejunal mucosa with infiltration of lymphocytes.
+CC       Note=Disease susceptibility is associated with variants affecting the
+CC       gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the TRAFAC class myosin-kinesin ATPase
+CC       superfamily. Myosin family. {ECO:0000305}.
+CC   -!- CAUTION: Represents an unconventional myosin. This protein should not
+CC       be confused with the conventional myosin-9 (MYH9). {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAC50402.1; Type=Miscellaneous discrepancy; Note=The C-terminal sequence from position 1917 onwards appears to be not correctly spliced.; Evidence={ECO:0000305};
+CC       Sequence=BAA92132.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=MYO9B entry;
+CC       URL="https://en.wikipedia.org/wiki/MYO9B";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U42391; AAC50402.1; ALT_SEQ; mRNA.
+DR   EMBL; AC020913; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC020908; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AF143684; AAF00119.1; -; mRNA.
+DR   EMBL; AF020267; AAC26597.1; -; mRNA.
+DR   EMBL; AK002201; BAA92132.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS46010.1; -. [Q13459-2]
+DR   CCDS; CCDS92551.1; -. [Q13459-1]
+DR   RefSeq; NP_004136.2; NM_004145.3. [Q13459-1]
+DR   PDB; 5C5S; X-ray; 2.20 A; A/B/C/D=1691-1916.
+DR   PDB; 5HPY; X-ray; 2.40 A; A/D=1691-1916.
+DR   PDBsum; 5C5S; -.
+DR   PDBsum; 5HPY; -.
+DR   AlphaFoldDB; Q13459; -.
+DR   SMR; Q13459; -.
+DR   BioGRID; 110734; 139.
+DR   ELM; Q13459; -.
+DR   IntAct; Q13459; 34.
+DR   MINT; Q13459; -.
+DR   STRING; 9606.ENSP00000471457; -.
+DR   GlyGen; Q13459; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q13459; -.
+DR   MetOSite; Q13459; -.
+DR   PhosphoSitePlus; Q13459; -.
+DR   BioMuta; MYO9B; -.
+DR   DMDM; 325511388; -.
+DR   CPTAC; CPTAC-981; -.
+DR   CPTAC; CPTAC-982; -.
+DR   EPD; Q13459; -.
+DR   jPOST; Q13459; -.
+DR   MassIVE; Q13459; -.
+DR   MaxQB; Q13459; -.
+DR   PaxDb; Q13459; -.
+DR   PeptideAtlas; Q13459; -.
+DR   ProteomicsDB; 59458; -. [Q13459-1]
+DR   ProteomicsDB; 59459; -. [Q13459-2]
+DR   Antibodypedia; 7715; 148 antibodies from 32 providers.
+DR   DNASU; 4650; -.
+DR   Ensembl; ENST00000397274.6; ENSP00000380444.2; ENSG00000099331.14. [Q13459-2]
+DR   Ensembl; ENST00000595618.5; ENSP00000471457.1; ENSG00000099331.14. [Q13459-2]
+DR   Ensembl; ENST00000682292.1; ENSP00000507803.1; ENSG00000099331.14. [Q13459-1]
+DR   GeneID; 4650; -.
+DR   KEGG; hsa:4650; -.
+DR   MANE-Select; ENST00000682292.1; ENSP00000507803.1; NM_004145.4; NP_004136.2.
+DR   UCSC; uc002nfi.3; human. [Q13459-1]
+DR   AGR; HGNC:7609; -.
+DR   CTD; 4650; -.
+DR   DisGeNET; 4650; -.
+DR   GeneCards; MYO9B; -.
+DR   HGNC; HGNC:7609; MYO9B.
+DR   HPA; ENSG00000099331; Low tissue specificity.
+DR   MalaCards; MYO9B; -.
+DR   MIM; 602129; gene.
+DR   MIM; 609753; phenotype.
+DR   neXtProt; NX_Q13459; -.
+DR   OpenTargets; ENSG00000099331; -.
+DR   VEuPathDB; HostDB:ENSG00000099331; -.
+DR   eggNOG; KOG1453; Eukaryota.
+DR   eggNOG; KOG4229; Eukaryota.
+DR   GeneTree; ENSGT00940000156845; -.
+DR   HOGENOM; CLU_000192_2_2_1; -.
+DR   InParanoid; Q13459; -.
+DR   OrthoDB; 1094820at2759; -.
+DR   PhylomeDB; Q13459; -.
+DR   TreeFam; TF319651; -.
+DR   PathwayCommons; Q13459; -.
+DR   Reactome; R-HSA-2029482; Regulation of actin dynamics for phagocytic cup formation.
+DR   Reactome; R-HSA-8980692; RHOA GTPase cycle.
+DR   Reactome; R-HSA-8985586; SLIT2:ROBO1 increases RHOA activity.
+DR   Reactome; R-HSA-9013026; RHOB GTPase cycle.
+DR   Reactome; R-HSA-9013106; RHOC GTPase cycle.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   Reactome; R-HSA-9035034; RHOF GTPase cycle.
+DR   Reactome; R-HSA-9664422; FCGR3A-mediated phagocytosis.
+DR   SignaLink; Q13459; -.
+DR   SIGNOR; Q13459; -.
+DR   BioGRID-ORCS; 4650; 48 hits in 1172 CRISPR screens.
+DR   ChiTaRS; MYO9B; human.
+DR   GeneWiki; MYO9B; -.
+DR   GenomeRNAi; 4650; -.
+DR   Pharos; Q13459; Tbio.
+DR   PRO; PR:Q13459; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q13459; protein.
+DR   Bgee; ENSG00000099331; Expressed in granulocyte and 171 other tissues.
+DR   ExpressionAtlas; Q13459; baseline and differential.
+DR   Genevisible; Q13459; HS.
+DR   GO; GO:0015629; C:actin cytoskeleton; TAS:ProtInc.
+DR   GO; GO:0005884; C:actin filament; IDA:UniProtKB.
+DR   GO; GO:0005938; C:cell cortex; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0030027; C:lamellipodium; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0016459; C:myosin complex; IEA:UniProtKB-KW.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0001726; C:ruffle; IBA:GO_Central.
+DR   GO; GO:0003779; F:actin binding; IDA:UniProtKB.
+DR   GO; GO:0051015; F:actin filament binding; IBA:GO_Central.
+DR   GO; GO:0043531; F:ADP binding; IDA:UniProtKB.
+DR   GO; GO:0005524; F:ATP binding; IDA:UniProtKB.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IBA:GO_Central.
+DR   GO; GO:0043008; F:ATP-dependent protein binding; IEA:Ensembl.
+DR   GO; GO:0005516; F:calmodulin binding; IDA:UniProtKB.
+DR   GO; GO:0005096; F:GTPase activator activity; IDA:UniProtKB.
+DR   GO; GO:0000146; F:microfilament motor activity; IDA:UniProtKB.
+DR   GO; GO:0048495; F:Roundabout binding; IPI:UniProtKB.
+DR   GO; GO:0031267; F:small GTPase binding; IPI:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:Ensembl.
+DR   GO; GO:0030048; P:actin filament-based movement; IDA:UniProtKB.
+DR   GO; GO:0072673; P:lamellipodium morphogenesis; IBA:GO_Central.
+DR   GO; GO:0035023; P:regulation of Rho protein signal transduction; IMP:UniProtKB.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IC:UniProtKB.
+DR   GO; GO:0035385; P:Roundabout signaling pathway; IDA:UniProtKB.
+DR   CDD; cd20884; C1_Myosin-IXb; 1.
+DR   CDD; cd01385; MYSc_Myo9; 1.
+DR   CDD; cd17217; RA_Myosin-IXb; 1.
+DR   CDD; cd04407; RhoGAP_myosin_IXB; 1.
+DR   Gene3D; 1.10.10.820; -; 1.
+DR   Gene3D; 1.20.5.190; -; 2.
+DR   Gene3D; 1.20.58.530; -; 2.
+DR   Gene3D; 3.30.60.20; -; 1.
+DR   Gene3D; 6.20.240.20; -; 1.
+DR   Gene3D; 3.40.850.10; Kinesin motor domain; 2.
+DR   Gene3D; 1.20.120.720; Myosin VI head, motor domain, U50 subdomain; 1.
+DR   Gene3D; 1.10.555.10; Rho GTPase activation protein; 1.
+DR   InterPro; IPR046349; C1-like_sf.
+DR   InterPro; IPR000048; IQ_motif_EF-hand-BS.
+DR   InterPro; IPR036961; Kinesin_motor_dom_sf.
+DR   InterPro; IPR046987; Myo9.
+DR   InterPro; IPR001609; Myosin_head_motor_dom.
+DR   InterPro; IPR036023; MYSc_Myo9.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR002219; PE/DAG-bd.
+DR   InterPro; IPR000159; RA_dom.
+DR   InterPro; IPR046989; RA_Myosin-IXb.
+DR   InterPro; IPR008936; Rho_GTPase_activation_prot.
+DR   InterPro; IPR000198; RhoGAP_dom.
+DR   InterPro; IPR028557; RhoGAP_myosin_IXB.
+DR   InterPro; IPR029071; Ubiquitin-like_domsf.
+DR   PANTHER; PTHR46184:SF2; UNCONVENTIONAL MYOSIN-IXB; 1.
+DR   PANTHER; PTHR46184; UNCONVENTIONAL MYOSIN-IXB-LIKE PROTEIN; 1.
+DR   Pfam; PF00612; IQ; 4.
+DR   Pfam; PF00063; Myosin_head; 2.
+DR   Pfam; PF00788; RA; 1.
+DR   Pfam; PF00620; RhoGAP; 1.
+DR   PRINTS; PR00193; MYOSINHEAVY.
+DR   SMART; SM00109; C1; 1.
+DR   SMART; SM00015; IQ; 4.
+DR   SMART; SM00242; MYSc; 1.
+DR   SMART; SM00314; RA; 1.
+DR   SMART; SM00324; RhoGAP; 1.
+DR   SUPFAM; SSF57889; Cysteine-rich domain; 1.
+DR   SUPFAM; SSF48350; GTPase activation domain, GAP; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 2.
+DR   SUPFAM; SSF54236; Ubiquitin-like; 1.
+DR   PROSITE; PS50096; IQ; 3.
+DR   PROSITE; PS51456; MYOSIN_MOTOR; 1.
+DR   PROSITE; PS50200; RA; 1.
+DR   PROSITE; PS50238; RHOGAP; 1.
+DR   PROSITE; PS00479; ZF_DAG_PE_1; 1.
+DR   PROSITE; PS50081; ZF_DAG_PE_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Actin-binding; Alternative splicing;
+KW   ATP-binding; Calmodulin-binding; Coiled coil; Cytoplasm; Cytoskeleton;
+KW   GTPase activation; Metal-binding; Motor protein; Myosin;
+KW   Nucleotide-binding; Phosphoprotein; Reference proteome; Repeat; Zinc;
+KW   Zinc-finger.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   CHAIN           2..2157
+FT                   /note="Unconventional myosin-IXb"
+FT                   /id="PRO_0000123469"
+FT   DOMAIN          15..114
+FT                   /note="Ras-associating"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00166"
+FT   DOMAIN          146..953
+FT                   /note="Myosin motor"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00782"
+FT   DOMAIN          957..977
+FT                   /note="IQ 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00116"
+FT   DOMAIN          979..1000
+FT                   /note="IQ 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00116"
+FT   DOMAIN          1001..1023
+FT                   /note="IQ 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00116"
+FT   DOMAIN          1024..1053
+FT                   /note="IQ 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00116"
+FT   DOMAIN          1703..1888
+FT                   /note="Rho-GAP"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00172"
+FT   ZN_FING         1632..1681
+FT                   /note="Phorbol-ester/DAG-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00226"
+FT   REGION          709..734
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          844..855
+FT                   /note="Actin-binding"
+FT                   /evidence="ECO:0000305"
+FT   REGION          940..1044
+FT                   /note="Neck or regulatory domain"
+FT                   /evidence="ECO:0000305"
+FT   REGION          1045..2157
+FT                   /note="Tail"
+FT                   /evidence="ECO:0000305"
+FT   REGION          1046..1298
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1320..1410
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1455..1484
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1739..1744
+FT                   /note="Interaction with RHOA"
+FT                   /evidence="ECO:0000269|PubMed:26529257"
+FT   REGION          1980..2157
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          1046..1071
+FT                   /evidence="ECO:0000255"
+FT   COILED          1880..1901
+FT                   /evidence="ECO:0000255"
+FT   COILED          1959..1989
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        1048..1066
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1138..1179
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1187..1205
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1207..1224
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1347..1364
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1464..1484
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1980..1997
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        2022..2043
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         239..246
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         2
+FT                   /note="N-acetylserine"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   MOD_RES         716
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         717
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1045
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q63358"
+FT   MOD_RES         1114
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1115
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1122
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1242
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1253
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q63358"
+FT   MOD_RES         1261
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1267
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18088087,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1271
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18088087,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1290
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18088087,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:18691976,
+FT                   ECO:0007744|PubMed:19367720, ECO:0007744|PubMed:19369195,
+FT                   ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1323
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         1331
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1346
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1354
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1356
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         1405
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18691976,
+FT                   ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1926
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1972
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1992
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648,
+FT                   ECO:0007744|PubMed:19369195, ECO:0007744|PubMed:19690332,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1999
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q63358"
+FT   MOD_RES         2005
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9QY06"
+FT   MOD_RES         2050
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         2141
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9QY06"
+FT   VAR_SEQ         2021..2022
+FT                   /note="PP -> QY (in isoform Short)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_003361"
+FT   VAR_SEQ         2023..2157
+FT                   /note="Missing (in isoform Short)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_003362"
+FT   MUTAGEN         1739
+FT                   /note="A->E,N: Decreases interaction with RHOA. Strongly
+FT                   decreases stimulation of RHOAGTPase activity."
+FT                   /evidence="ECO:0000269|PubMed:26529257"
+FT   MUTAGEN         1741
+FT                   /note="N->E: Decreases interaction with RHOA. Decreases
+FT                   stimulation of RHOAGTPase activity."
+FT                   /evidence="ECO:0000269|PubMed:26529257"
+FT   MUTAGEN         1742
+FT                   /note="R->E: Strongly decreases interaction with RHOA.
+FT                   Strongly decreases stimulation of RHOAGTPase activity."
+FT                   /evidence="ECO:0000269|PubMed:26529257"
+FT   CONFLICT        237..238
+FT                   /note="IS -> YP (in Ref. 1; AAC50402)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        276
+FT                   /note="G -> C (in Ref. 1; AAC50402)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1011
+FT                   /note="S -> A (in Ref. 1; AAC50402)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1693
+FT                   /note="V -> A (in Ref. 1; AAC50402)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1946
+FT                   /note="L -> P (in Ref. 4; BAA92132)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        2039..2044
+FT                   /note="TVAAPP -> PWPPLH (in Ref. 3; AAC26597)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        2048
+FT                   /note="P -> L (in Ref. 3; AAC26597)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        2066
+FT                   /note="P -> S (in Ref. 3; AAC26597)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        2156..2157
+FT                   /note="NG -> MAESHS (in Ref. 3; AAC26597)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          1697..1700
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1702..1705
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1714..1726
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   TURN            1727..1729
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   TURN            1731..1735
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1740..1752
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1759..1761
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1764..1776
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   STRAND          1778..1780
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1788..1795
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   STRAND          1797..1799
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1800..1811
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1816..1834
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1836..1839
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1843..1854
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+FT   HELIX           1866..1895
+FT                   /evidence="ECO:0007829|PDB:5C5S"
+SQ   SEQUENCE   2157 AA;  243401 MW;  A3E72CAB759CD5FD CRC64;
+     MSVKEAGSSG RREQAAYHLH IYPQLSTTES QASCRVTATK DSTTSDVIKD AIASLRLDGT
+     KCYVLVEVKE SGGEEWVLDA NDSPVHRVLL WPRRAQDEHP QEDGYYFLLQ ERNADGTIKY
+     VHMQLVAQAT ATRRLVERGL LPRQQADFDD LCNLPELTEG NLLKNLKHRF LQQKIYTYAG
+     SILVAINPFK FLPIYNPKYV KMYENQQLGK LEPHVFALAD VAYYTMLRKR VNQCIVISGE
+     SGSGKTQSTN FLIHCLTALS QKGYASGVER TILGAGPVLE AFGNAKTAHN NNSSRFGKFI
+     QVSYLESGIV RGAVVEKYLL EKSRLVSQEK DERNYHVFYY LLLGVSEEER QEFQLKQPED
+     YFYLNQHNLK IEDGEDLKHD FERLKQAMEM VGFLPATKKQ IFAVLSAILY LGNVTYKKRA
+     TGREEGLEVG PPEVLDTLSQ LLKVKREILV EVLTKRKTVT VNDKLILPYS LSEAITARDS
+     MAKSLYSALF DWIVLRINHA LLNKKDVEEA VSCLSIGVLD IFGFEDFERN SFEQFCINYA
+     NEQLQYYFNQ HIFKLEQEEY QGEGITWHNI GYTDNVGCIH LISKKPTGLF YLLDEESNFP
+     HATSQTLLAK FKQQHEDNKY FLGTPVMEPA FIIQHFAGKV KYQIKDFREK NMDYMRPDIV
+     ALLRGSDSSY VRELIGMDPV AVFRWAVLRA AIRAMAVLRE AGRLRAERAE KAAGMSSPGA
+     QSHPEELPRG ASTPSEKLYR DLHNQMIKSI KGLPWQGEDP RSLLQSLSRL QKPRAFILKS
+     KGIKQKQIIP KNLLDSKSLK LIISMTLHDR TTKSLLHLHK KKKPPSISAQ FQTSLNKLLE
+     ALGKAEPFFI RCIRSNAEKK ELCFDDELVL QQLRYTGMLE TVRIRRSGYS AKYTFQDFTE
+     QFQVLLPKDA QPCREVISTL LEKMKIDKRN YQIGKTKVFL KETERQALQE TLHREVVRKI
+     LLLQSWFRMV LERRHFLQMK RAAVTIQACW RSYRVRRALE RTQAAVYLQA SWRGYWQRKL
+     YRHQKQSIIR LQSLCRGHLQ RKSFSQMISE KQKAEEKERE ALEAARAGAE EGGQGQAAGG
+     QQVAEQGPEP AEDGGHLASE PEVQPSDRSP LEHSSPEKEA PSPEKTLPPQ KTVAAESHEK
+     VPSSREKRES RRQRGLEHVK FQNKHIQSCK EESALREPSR RVTQEQGVSL LEDKKESRED
+     ETLLVVETEA ENTSQKQPTE QPQAMAVGKV SEETEKTLPS GSPRPGQLER PTSLALDSRV
+     SPPAPGSAPE TPEDKSKPCG SPRVQEKPDS PGGSTQIQRY LDAERLASAV ELWRGKKLVA
+     AASPSAMLSQ SLDLSDRHRA TGAALTPTEE RRTSFSTSDV SKLLPSLAKA QPAAETTDGE
+     RSAKKPAVQK KKPGDASSLP DAGLSPGSQV DSKSTFKRLF LHKTKDKKYS LEGAEELENA
+     VSGHVVLEAT TMKKGLEAPS GQQHRHAAGE KRTKEPGGKG KKNRNVKIGK ITVSEKWRES
+     VFRQITNANE LKYLDEFLLN KINDLRSQKT PIESLFIEAT EKFRSNIKTM YSVPNGKIHV
+     GYKDLMENYQ IVVSNLATER GQKDTNLVLN LFQSLLDEFT RGYTKNDFEP VKQSKAQKKK
+     RKQERAVQEH NGHVFASYQV SIPQSCEQCL SYIWLMDKAL LCSVCKMTCH KKCVHKIQSH
+     CSYTYGRKGE PGVEPGHFGV CVDSLTSDKA SVPIVLEKLL EHVEMHGLYT EGLYRKSGAA
+     NRTRELRQAL QTDPAAVKLE NFPIHAITGV LKQWLRELPE PLMTFAQYGD FLRAVELPEK
+     QEQLAAIYAV LEHLPEANHN SLERLIFHLV KVALLEDVNR MSPGALAIIF APCLLRCPDN
+     SDPLTSMKDV LKITTCVEML IKEQMRKYKV KMEEISQLEA AESIAFRRLS LLRQNAPWPL
+     KLGFSSPYEG VLNKSPKTRD IQEEELEVLL EEEAAGGDED REKEILIERI QSIKEEKEDI
+     TYRLPELDPR GSDEENLDSE TSASTESLLE ERAGRGASEG PPAPALPCPG APTPSPLPTV
+     AAPPRRRPSS FVTVRVKTPR RTPIMPTANI KLPPGLPSHL PRWAPGAREA AAPVRRREPP
+     ARRPDQIHSV YITPGADLPV QGALEPLEED GQPPGAKRRY SDPPTYCLPP ASGQTNG
+//

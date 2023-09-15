@@ -1,0 +1,704 @@
+ID   TUT4_HUMAN              Reviewed;        1644 AA.
+AC   Q5TAX3; A2RRP0; B7Z8J5; D3DQ35; Q12764; Q5TAX2; Q5TAX4; Q86XZ3;
+DT   10-MAY-2005, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 3.
+DT   28-JUN-2023, entry version 157.
+DE   RecName: Full=Terminal uridylyltransferase 4 {ECO:0000305};
+DE            Short=TUTase 4;
+DE            EC=2.7.7.52 {ECO:0000269|PubMed:19703396, ECO:0000269|PubMed:31036859};
+DE   AltName: Full=Zinc finger CCHC domain-containing protein 11;
+GN   Name=TUT4 {ECO:0000312|HGNC:HGNC:28981};
+GN   Synonyms=KIAA0191, ZCCHC11 {ECO:0000312|HGNC:HGNC:28981};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Thymus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 129-1644.
+RC   TISSUE=Bone marrow;
+RX   PubMed=8724849; DOI=10.1093/dnares/3.1.17;
+RA   Nagase T., Seki N., Ishikawa K., Tanaka A., Nomura N.;
+RT   "Prediction of the coding sequences of unidentified human genes. V. The
+RT   coding sequences of 40 new genes (KIAA0161-KIAA0200) deduced by analysis of
+RT   cDNA clones from human cell line KG-1.";
+RL   DNA Res. 3:17-24(1996).
+RN   [6]
+RP   FUNCTION, INTERACTION WITH T2BP, AND SUBCELLULAR LOCATION.
+RX   PubMed=16643855; DOI=10.1016/j.bbrc.2006.04.006;
+RA   Minoda Y., Saeki K., Aki D., Takaki H., Sanada T., Koga K., Kobayashi T.,
+RA   Takaesu G., Yoshimura A.;
+RT   "A novel Zinc finger protein, ZCCHC11, interacts with TIFA and modulates
+RT   TLR signaling.";
+RL   Biochem. Biophys. Res. Commun. 344:1023-1030(2006).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [8]
+RP   ABSENCE OF FUNCTION IN HISTONE MRNA DEGRADATION ACTIVITY.
+RX   PubMed=18172165; DOI=10.1101/gad.1622708;
+RA   Mullen T.E., Marzluff W.F.;
+RT   "Degradation of histone mRNA requires oligouridylation followed by
+RT   decapping and simultaneous degradation of the mRNA both 5' to 3' and 3' to
+RT   5'.";
+RL   Genes Dev. 22:50-65(2008).
+RN   [9]
+RP   FUNCTION, CATALYTIC ACTIVITY, SUBCELLULAR LOCATION, INTERACTION WITH
+RP   LIN28A, AND MUTAGENESIS OF ASP-1011.
+RX   PubMed=19703396; DOI=10.1016/j.cell.2009.08.002;
+RA   Heo I., Joo C., Kim Y.-K., Ha M., Yoon M.-J., Cho J., Yeom K.-H., Han J.,
+RA   Kim V.N.;
+RT   "TUT4 in concert with Lin28 suppresses MicroRNA biogenesis through pre-
+RT   microRNA uridylation.";
+RL   Cell 138:696-708(2009).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [11]
+RP   INTERACTION WITH LIN28A.
+RX   PubMed=22118463; DOI=10.1016/j.cell.2011.10.039;
+RA   Piskounova E., Polytarchou C., Thornton J.E., LaPierre R.J.,
+RA   Pothoulakis C., Hagan J.P., Iliopoulos D., Gregory R.I.;
+RT   "Lin28A and Lin28B inhibit let-7 microRNA biogenesis by distinct
+RT   mechanisms.";
+RL   Cell 147:1066-1079(2011).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-104 AND SER-156, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [13]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND MUTAGENESIS OF ASP-1011.
+RX   PubMed=25480299; DOI=10.1016/j.cell.2014.10.055;
+RA   Lim J., Ha M., Chang H., Kwon S.C., Simanshu D.K., Patel D.J., Kim V.N.;
+RT   "Uridylation by TUT4 and TUT7 marks mRNA for degradation.";
+RL   Cell 159:1365-1376(2014).
+RN   [14]
+RP   FUNCTION.
+RX   PubMed=25979828; DOI=10.15252/embj.201590931;
+RA   Kim B., Ha M., Loeff L., Chang H., Simanshu D.K., Li S., Fareh M.,
+RA   Patel D.J., Joo C., Kim V.N.;
+RT   "TUT7 controls the fate of precursor microRNAs by using three different
+RT   uridylation mechanisms.";
+RL   EMBO J. 34:1801-1815(2015).
+RN   [15]
+RP   FUNCTION, SUBCELLULAR LOCATION, INTERACTION WITH MOV10, AND MUTAGENESIS OF
+RP   ASP-1011.
+RX   PubMed=30122351; DOI=10.1016/j.cell.2018.07.022;
+RA   Warkocki Z., Krawczyk P.S., Adamska D., Bijata K., Garcia-Perez J.L.,
+RA   Dziembowski A.;
+RT   "Uridylation by TUT4/7 Restricts Retrotransposition of Human LINE-1s.";
+RL   Cell 0:0-0(2018).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 253-723 IN COMPLEX WITH ZINC
+RP   IONS, FUNCTION, CATALYTIC ACTIVITY, INTERACTION WITH LIN28A AND PRE-LET-7
+RP   RNA, AND MUTAGENESIS OF 253-SER--LEU-333; CYS-306; CYS-309; LYS-321;
+RP   LYS-324; 326-LYS-ARG-327; 329-LYS-LYS-330; HIS-450; LYS-452 AND
+RP   669-ARG-ARG-670.
+RX   PubMed=31036859; DOI=10.1038/s41467-019-09966-5;
+RA   Yamashita S., Nagaike T., Tomita K.;
+RT   "Crystal structure of the Lin28-interacting module of human terminal
+RT   uridylyltransferase that regulates let-7 expression.";
+RL   Nat. Commun. 10:1960-1960(2019).
+CC   -!- FUNCTION: Uridylyltransferase that mediates the terminal uridylation of
+CC       mRNAs with short (less than 25 nucleotides) poly(A) tails, hence
+CC       facilitating global mRNA decay (PubMed:25480299, PubMed:31036859).
+CC       Essential for both oocyte maturation and fertility. Through 3' terminal
+CC       uridylation of mRNA, sculpts, with TUT7, the maternal transcriptome by
+CC       eliminating transcripts during oocyte growth (By similarity). Involved
+CC       in microRNA (miRNA)-induced gene silencing through uridylation of
+CC       deadenylated miRNA targets. Also functions as an integral regulator of
+CC       microRNA biogenesis using 3 different uridylation mechanisms
+CC       (PubMed:25979828). Acts as a suppressor of miRNA biogenesis by
+CC       mediating the terminal uridylation of some miRNA precursors, including
+CC       that of let-7 (pre-let-7), miR107, miR-143 and miR-200c. Uridylated
+CC       miRNAs are not processed by Dicer and undergo degradation. Degradation
+CC       of pre-let-7 contributes to the maintenance of embryonic stem (ES) cell
+CC       pluripotency (By similarity). Also catalyzes the 3' uridylation of miR-
+CC       26A, a miRNA that targets IL6 transcript. This abrogates the silencing
+CC       of IL6 transcript, hence promoting cytokine expression
+CC       (PubMed:19703396). In the absence of LIN28A, TUT7 and TUT4
+CC       monouridylate group II pre-miRNAs, which includes most of pre-let7
+CC       members, that shapes an optimal 3' end overhang for efficient
+CC       processing (PubMed:25979828). Adds oligo-U tails to truncated pre-
+CC       miRNAS with a 5' overhang which may promote rapid degradation of non-
+CC       functional pre-miRNA species (PubMed:25979828). May also suppress Toll-
+CC       like receptor-induced NF-kappa-B activation via binding to T2BP
+CC       (PubMed:16643855). Does not play a role in replication-dependent
+CC       histone mRNA degradation (PubMed:18172165). Due to functional
+CC       redundancy between TUT4 and TUT7, the identification of the specific
+CC       role of each of these proteins is difficult (PubMed:25979828,
+CC       PubMed:25480299, PubMed:16643855, PubMed:19703396, PubMed:18172165) (By
+CC       similarity). TUT4 and TUT7 restrict retrotransposition of long
+CC       interspersed element-1 (LINE-1) in cooperation with MOV10 counteracting
+CC       the RNA chaperonne activity of L1RE1. TUT7 uridylates LINE-1 mRNAs in
+CC       the cytoplasm which inhibits initiation of reverse transcription once
+CC       in the nucleus, whereas uridylation by TUT4 destabilizes mRNAs in
+CC       cytoplasmic ribonucleoprotein granules (PubMed:30122351).
+CC       {ECO:0000250|UniProtKB:B2RX14, ECO:0000269|PubMed:16643855,
+CC       ECO:0000269|PubMed:18172165, ECO:0000269|PubMed:19703396,
+CC       ECO:0000269|PubMed:25480299, ECO:0000269|PubMed:25979828,
+CC       ECO:0000269|PubMed:30122351, ECO:0000269|PubMed:31036859}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=RNA(n) + UTP = diphosphate + RNA(n)-3'-uridine ribonucleotide;
+CC         Xref=Rhea:RHEA:14785, Rhea:RHEA-COMP:14527, Rhea:RHEA-COMP:17348,
+CC         ChEBI:CHEBI:33019, ChEBI:CHEBI:46398, ChEBI:CHEBI:140395,
+CC         ChEBI:CHEBI:173116; EC=2.7.7.52;
+CC         Evidence={ECO:0000269|PubMed:19703396, ECO:0000269|PubMed:31036859};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC   -!- SUBUNIT: Interacts with LIN28A in the presence of pre-let-7 RNA
+CC       (PubMed:19703396, PubMed:22118463, PubMed:31036859). Interacts with
+CC       T2BP (PubMed:16643855). Interacts with MOV10; the interaction is RNA-
+CC       dependent (PubMed:30122351). {ECO:0000269|PubMed:16643855,
+CC       ECO:0000269|PubMed:19703396, ECO:0000269|PubMed:22118463,
+CC       ECO:0000269|PubMed:30122351, ECO:0000269|PubMed:31036859}.
+CC   -!- INTERACTION:
+CC       Q5TAX3-1; Q96CG3: TIFA; NbExp=2; IntAct=EBI-1606425, EBI-740711;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:16643855}. Cytoplasm
+CC       {ECO:0000269|PubMed:16643855, ECO:0000269|PubMed:19703396,
+CC       ECO:0000269|PubMed:25480299}. Cytoplasm, Cytoplasmic ribonucleoprotein
+CC       granule {ECO:0000269|PubMed:30122351}. Note=Mainly cytoplasmic
+CC       (PubMed:19703396, PubMed:25480299). Translocates into the cytoplasm
+CC       following treatment of the cell with LPS (PubMed:16643855). Co-enriched
+CC       in cytoplasmic foci with MOV10 (PubMed:30122351).
+CC       {ECO:0000269|PubMed:30122351}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q5TAX3-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q5TAX3-2; Sequence=VSP_038135, VSP_038136;
+CC   -!- DOMAIN: Utilizes two multidomain functional modules during the switch
+CC       from monouridylation to oligouridylation. The catalytic module
+CC       (containing the 3 CCHC-type Zinc finger domains) is essential for both
+CC       activities while the Lin28-interacting module (LIM) at the N-termail
+CC       part is indispensable for oligouridylation.
+CC       {ECO:0000250|UniProtKB:B2RX14}.
+CC   -!- SIMILARITY: Belongs to the DNA polymerase type-B-like family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK303532; BAH13981.1; -; mRNA.
+DR   EMBL; AL138849; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471059; EAX06778.1; -; Genomic_DNA.
+DR   EMBL; CH471059; EAX06780.1; -; Genomic_DNA.
+DR   EMBL; BC131734; AAI31735.1; -; mRNA.
+DR   EMBL; D83776; BAA12105.1; -; mRNA.
+DR   CCDS; CCDS30716.1; -. [Q5TAX3-1]
+DR   RefSeq; NP_001009881.1; NM_001009881.2.
+DR   RefSeq; NP_056084.1; NM_015269.2. [Q5TAX3-1]
+DR   PDB; 6IW6; X-ray; 2.40 A; A/B=253-723.
+DR   PDBsum; 6IW6; -.
+DR   AlphaFoldDB; Q5TAX3; -.
+DR   SMR; Q5TAX3; -.
+DR   BioGRID; 116909; 81.
+DR   IntAct; Q5TAX3; 16.
+DR   MINT; Q5TAX3; -.
+DR   STRING; 9606.ENSP00000257177; -.
+DR   GlyGen; Q5TAX3; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q5TAX3; -.
+DR   PhosphoSitePlus; Q5TAX3; -.
+DR   BioMuta; ZCCHC11; -.
+DR   DMDM; 116242850; -.
+DR   EPD; Q5TAX3; -.
+DR   jPOST; Q5TAX3; -.
+DR   MassIVE; Q5TAX3; -.
+DR   MaxQB; Q5TAX3; -.
+DR   PaxDb; Q5TAX3; -.
+DR   PeptideAtlas; Q5TAX3; -.
+DR   ProteomicsDB; 64876; -. [Q5TAX3-1]
+DR   ProteomicsDB; 64877; -. [Q5TAX3-2]
+DR   Antibodypedia; 19117; 235 antibodies from 32 providers.
+DR   DNASU; 23318; -.
+DR   Ensembl; ENST00000371544.7; ENSP00000360599.3; ENSG00000134744.14. [Q5TAX3-1]
+DR   GeneID; 23318; -.
+DR   KEGG; hsa:23318; -.
+DR   UCSC; uc001ctx.3; human. [Q5TAX3-1]
+DR   AGR; HGNC:28981; -.
+DR   CTD; 23318; -.
+DR   DisGeNET; 23318; -.
+DR   GeneCards; TUT4; -.
+DR   HGNC; HGNC:28981; TUT4.
+DR   HPA; ENSG00000134744; Low tissue specificity.
+DR   MIM; 613692; gene.
+DR   neXtProt; NX_Q5TAX3; -.
+DR   OpenTargets; ENSG00000134744; -.
+DR   PharmGKB; PA134918178; -.
+DR   VEuPathDB; HostDB:ENSG00000134744; -.
+DR   eggNOG; KOG2277; Eukaryota.
+DR   GeneTree; ENSGT00940000156988; -.
+DR   InParanoid; Q5TAX3; -.
+DR   OrthoDB; 170176at2759; -.
+DR   PhylomeDB; Q5TAX3; -.
+DR   TreeFam; TF315661; -.
+DR   BRENDA; 2.7.7.52; 2681.
+DR   PathwayCommons; Q5TAX3; -.
+DR   Reactome; R-HSA-429947; Deadenylation of mRNA.
+DR   SignaLink; Q5TAX3; -.
+DR   SIGNOR; Q5TAX3; -.
+DR   BioGRID-ORCS; 23318; 17 hits in 1161 CRISPR screens.
+DR   ChiTaRS; ZCCHC11; human.
+DR   GenomeRNAi; 23318; -.
+DR   Pharos; Q5TAX3; Tbio.
+DR   PRO; PR:Q5TAX3; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; Q5TAX3; protein.
+DR   Bgee; ENSG00000134744; Expressed in right hemisphere of cerebellum and 189 other tissues.
+DR   ExpressionAtlas; Q5TAX3; baseline and differential.
+DR   Genevisible; Q5TAX3; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0036464; C:cytoplasmic ribonucleoprotein granule; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; HDA:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0035198; F:miRNA binding; ISS:UniProtKB.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0050265; F:RNA uridylyltransferase activity; IDA:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0010587; P:miRNA catabolic process; IMP:UniProtKB.
+DR   GO; GO:0010586; P:miRNA metabolic process; IDA:UniProtKB.
+DR   GO; GO:0000289; P:nuclear-transcribed mRNA poly(A) tail shortening; TAS:Reactome.
+DR   GO; GO:0001556; P:oocyte maturation; ISS:UniProtKB.
+DR   GO; GO:1990074; P:polyuridylation-dependent mRNA catabolic process; ISS:UniProtKB.
+DR   GO; GO:0031054; P:pre-miRNA processing; IDA:UniProtKB.
+DR   GO; GO:0141008; P:retrotransposon silencing by mRNA destabilization; IDA:UniProtKB.
+DR   GO; GO:0071076; P:RNA 3' uridylation; ISS:UniProtKB.
+DR   GO; GO:0031123; P:RNA 3'-end processing; IDA:UniProtKB.
+DR   GO; GO:0019827; P:stem cell population maintenance; IMP:UniProtKB.
+DR   CDD; cd05402; NT_PAP_TUTase; 2.
+DR   Gene3D; 1.10.1410.10; -; 2.
+DR   Gene3D; 3.30.460.10; Beta Polymerase, domain 2; 2.
+DR   Gene3D; 4.10.60.10; Zinc finger, CCHC-type; 1.
+DR   InterPro; IPR043519; NT_sf.
+DR   InterPro; IPR002058; PAP_assoc.
+DR   InterPro; IPR002934; Polymerase_NTP_transf_dom.
+DR   InterPro; IPR045100; TUTase_dom.
+DR   InterPro; IPR001878; Znf_CCHC.
+DR   InterPro; IPR036875; Znf_CCHC_sf.
+DR   PANTHER; PTHR12271; POLY A POLYMERASE CID PAP -RELATED; 1.
+DR   PANTHER; PTHR12271:SF49; TERMINAL URIDYLYLTRANSFERASE 4; 1.
+DR   Pfam; PF01909; NTP_transf_2; 1.
+DR   Pfam; PF03828; PAP_assoc; 2.
+DR   Pfam; PF19088; TUTase; 1.
+DR   Pfam; PF00098; zf-CCHC; 2.
+DR   SMART; SM00343; ZnF_C2HC; 3.
+DR   SUPFAM; SSF81301; Nucleotidyltransferase; 2.
+DR   SUPFAM; SSF81631; PAP/OAS1 substrate-binding domain; 2.
+DR   SUPFAM; SSF57756; Retrovirus zinc finger-like domains; 2.
+DR   PROSITE; PS50158; ZF_CCHC; 3.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cytoplasm; Magnesium; Manganese;
+KW   Metal-binding; Methylation; Nucleotidyltransferase; Nucleus;
+KW   Phosphoprotein; Reference proteome; Repeat; RNA-mediated gene silencing;
+KW   Transferase; Zinc; Zinc-finger.
+FT   CHAIN           1..1644
+FT                   /note="Terminal uridylyltransferase 4"
+FT                   /id="PRO_0000150970"
+FT   DOMAIN          628..678
+FT                   /note="PAP-associated 1"
+FT   DOMAIN          1184..1237
+FT                   /note="PAP-associated 2"
+FT   ZN_FING         304..334
+FT                   /note="Matrin-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00130"
+FT   ZN_FING         913..930
+FT                   /note="CCHC-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00047"
+FT   ZN_FING         1293..1310
+FT                   /note="CCHC-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00047"
+FT   ZN_FING         1357..1374
+FT                   /note="CCHC-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00047"
+FT   REGION          31..63
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          96..168
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          205..257
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          253..333
+FT                   /note="Required for interaction with LIN28A and pre-let-7
+FT                   RNA"
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   REGION          579..617
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          794..816
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          901..1634
+FT                   /note="Sufficient for monouridylation activity"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5VYS8"
+FT   REGION          1321..1348
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1401..1482
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        108..152
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        206..229
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        234..253
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        583..617
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         306
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   BINDING         309
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   BINDING         322
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   BINDING         328
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   BINDING         998..1001
+FT                   /ligand="UTP"
+FT                   /ligand_id="ChEBI:CHEBI:46398"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5VYS8"
+FT   BINDING         1008..1011
+FT                   /ligand="UTP"
+FT                   /ligand_id="ChEBI:CHEBI:46398"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5VYS8"
+FT   BINDING         1009
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1011
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_note="catalytic"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1081
+FT                   /ligand="UTP"
+FT                   /ligand_id="ChEBI:CHEBI:46398"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5VYS8"
+FT   BINDING         1103
+FT                   /ligand="UTP"
+FT                   /ligand_id="ChEBI:CHEBI:46398"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5VYS8"
+FT   BINDING         1121..1125
+FT                   /ligand="UTP"
+FT                   /ligand_id="ChEBI:CHEBI:46398"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5VYS8"
+FT   BINDING         1237
+FT                   /ligand="UTP"
+FT                   /ligand_id="ChEBI:CHEBI:46398"
+FT                   /evidence="ECO:0000250|UniProtKB:Q5VYS8"
+FT   MOD_RES         104
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         134
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:B2RX14"
+FT   MOD_RES         156
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         1624
+FT                   /note="Omega-N-methylarginine"
+FT                   /evidence="ECO:0000250|UniProtKB:B2RX14"
+FT   VAR_SEQ         685..719
+FT                   /note="RSLNSQLVYEYVVERFRAAYRYFACPQTKGGNKST -> LQPGRQEWKLCLK
+FT                   KKKKNSVKYTFIYEIQVSLFVI (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_038135"
+FT   VAR_SEQ         720..1644
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_038136"
+FT   VARIANT         796
+FT                   /note="D -> Y (in dbSNP:rs12127732)"
+FT                   /id="VAR_028402"
+FT   MUTAGEN         253..333
+FT                   /note="Missing: Loss of interaction with LIN28A and
+FT                   pre-let-7 RNA."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         306
+FT                   /note="C->A: Loss of LIN28A and pre-let-7 RNA binding and
+FT                   loss of pre-let-7 RNA uridylylation; when associated with
+FT                   A-309."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         309
+FT                   /note="C->A: Loss of LIN28A and pre-let-7 RNA binding and
+FT                   loss of pre-let-7 RNA uridylylation; when associated with
+FT                   A-306."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         321
+FT                   /note="K->A: Strongly decreased LIN28A and pre-let-7 RNA
+FT                   binding and pre-let-7 RNA uridylylation; when associated
+FT                   with A-324."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         324
+FT                   /note="K->A: Strongly decreased LIN28A and pre-let-7 RNA
+FT                   binding and pre-let-7 RNA uridylylation; when associated
+FT                   with A-321."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         326..327
+FT                   /note="KR->AA: Strongly decreased LIN28A and pre-let-7 RNA
+FT                   binding and pre-let-7 RNA uridylylation."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         329..330
+FT                   /note="KK->AA: Decreased LIN28A and pre-let-7 RNA binding
+FT                   and pre-let-7 RNA uridylylation."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         450
+FT                   /note="H->A: Decreased LIN28A and pre-let-7 RNA binding and
+FT                   pre-let-7 RNA uridylylation; when associated with A-452."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         452
+FT                   /note="K->A: Decreased LIN28A and pre-let-7 RNA binding and
+FT                   pre-let-7 RNA uridylylation; when associated with A-450."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         669..670
+FT                   /note="RR->AA: Decreased LIN28A and pre-let-7 RNA binding
+FT                   and pre-let-7 RNA uridylylation."
+FT                   /evidence="ECO:0000269|PubMed:31036859"
+FT   MUTAGEN         1011
+FT                   /note="D->A: Loss of nucleotidyltransferase activity and
+FT                   stabilization of pre-let-7 miRNAs. Abolishes inhibition of
+FT                   LIRE1 retrotransposition."
+FT                   /evidence="ECO:0000269|PubMed:19703396,
+FT                   ECO:0000269|PubMed:25480299, ECO:0000269|PubMed:30122351"
+FT   CONFLICT        1313
+FT                   /note="S -> SS (in Ref. 4; AAI31735)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           255..260
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            266..268
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           271..285
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            286..288
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          289..291
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          304..306
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            307..310
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          311..313
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           316..323
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           326..342
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           349..366
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           370..388
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          395..399
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           401..404
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          413..418
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          421..423
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           425..438
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          442..448
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          450..453
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          455..460
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            461..463
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          466..472
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           474..489
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           493..502
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            503..505
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           506..509
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           517..532
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          533..535
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          541..543
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           554..556
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          558..563
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            564..566
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          567..571
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          613..619
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           629..641
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            646..648
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          649..651
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   TURN            661..665
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          673..675
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   STRAND          678..682
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           683..687
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+FT   HELIX           690..707
+FT                   /evidence="ECO:0007829|PDB:6IW6"
+SQ   SEQUENCE   1644 AA;  185166 MW;  B7C88D7DCF0F3356 CRC64;
+     MEESKTLKSE NHEPKKNVIC EESKAVQVIG NQTLKARNDK SVKEIENSSP NRNSSKKNKQ
+     NDICIEKTEV KSCKVNAANL PGPKDLGLVL RDQSHCKAKK FPNSPVKAEK ATISQAKSEK
+     ATSLQAKAEK SPKSPNSVKA EKASSYQMKS EKVPSSPAEA EKGPSLLLKD MRQKTELQQI
+     GKKIPSSFTS VDKVNIEAVG GEKCALQNSP RSQKQQTCTD NTGDSDDSAS GIEDVSDDLS
+     KMKNDESNKE NSSEMDYLEN ATVIDESALT PEQRLGLKQA EERLERDHIF RLEKRSPEYT
+     NCRYLCKLCL IHIENIQGAH KHIKEKRHKK NILEKQEESE LRSLPPPSPA HLAALSVAVI
+     ELAKEHGITD DDLRVRQEIV EEMSKVITTF LPECSLRLYG SSLTRFALKS SDVNIDIKFP
+     PKMNHPDLLI KVLGILKKNV LYVDVESDFH AKVPVVVCRD RKSGLLCRVS AGNDMACLTT
+     DLLTALGKIE PVFIPLVLAF RYWAKLCYID SQTDGGIPSY CFALMVMFFL QQRKPPLLPC
+     LLGSWIEGFD PKRMDDFQLK GIVEEKFVKW ECNSSSATEK NSIAEENKAK ADQPKDDTKK
+     TETDNQSNAM KEKHGKSPLA LETPNRVSLG QLWLELLKFY TLDFALEEYV ICVRIQDILT
+     RENKNWPKRR IAIEDPFSVK RNVARSLNSQ LVYEYVVERF RAAYRYFACP QTKGGNKSTV
+     DFKKREKGKI SNKKPVKSNN MATNGCILLG ETTEKINAER EQPVQCDEMD CTSQRCIIDN
+     NNLLVNELDF ADHGQDSSSL STSKSSEIEP KLDKKQDDLA PSETCLKKEL SQCNCIDLSK
+     SPDPDKSTGT DCRSNLETES SHQSVCTDTS ATSCNCKATE DASDLNDDDN LPTQELYYVF
+     DKFILTSGKP PTIVCSICKK DGHSKNDCPE DFRKIDLKPL PPMTNRFREI LDLVCKRCFD
+     ELSPPCSEQH NREQILIGLE KFIQKEYDEK ARLCLFGSSK NGFGFRDSDL DICMTLEGHE
+     NAEKLNCKEI IENLAKILKR HPGLRNILPI TTAKVPIVKF EHRRSGLEGD ISLYNTLAQH
+     NTRMLATYAA IDPRVQYLGY TMKVFAKRCD IGDASRGSLS SYAYILMVLY FLQQRKPPVI
+     PVLQEIFDGK QIPQRMVDGW NAFFFDKTEE LKKRLPSLGK NTESLGELWL GLLRFYTEEF
+     DFKEYVISIR QKKLLTTFEK QWTSKCIAIE DPFDLNHNLG AGVSRKMTNF IMKAFINGRK
+     LFGTPFYPLI GREAEYFFDS RVLTDGELAP NDRCCRVCGK IGHYMKDCPK RKSLLFRLKK
+     KDSEEEKEGN EEEKDSRDVL DPRDLHDTRD FRDPRDLRCF ICGDAGHVRR ECPEVKLARQ
+     RNSSVAAAQL VRNLVNAQQV AGSAQQQGDQ SIRTRQSSEC SESPSYSPQP QPFPQNSSQS
+     AAITQPSSQP GSQPKLGPPQ QGAQPPHQVQ MPLYNFPQSP PAQYSPMHNM GLLPMHPLQI
+     PAPSWPIHGP VIHSAPGSAP SNIGLNDPSI IFAQPAARPV AIPNTSHDGH WPRTVAPNSL
+     VNSGAVGNSE PGFRGLTPPI PWEHAPRPHF PLVPASWPYG LHQNFMHQGN ARFQPNKPFY
+     TQDRCATRRC RERCPHPPRG NVSE
+//

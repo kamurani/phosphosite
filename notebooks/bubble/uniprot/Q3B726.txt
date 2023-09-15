@@ -1,0 +1,355 @@
+ID   RPA43_HUMAN             Reviewed;         338 AA.
+AC   Q3B726; A0PJ45; B7Z724;
+DT   29-MAY-2007, integrated into UniProtKB/Swiss-Prot.
+DT   22-NOV-2005, sequence version 1.
+DT   28-JUN-2023, entry version 136.
+DE   RecName: Full=DNA-directed RNA polymerase I subunit RPA43;
+DE   AltName: Full=DNA-directed RNA polymerase I subunit F {ECO:0000312|HGNC:HGNC:18027};
+DE   AltName: Full=Twist neighbor protein {ECO:0000305|PubMed:12438708};
+GN   Name=POLR1F {ECO:0000312|HGNC:HGNC:18027};
+GN   Synonyms=TWISTNB {ECO:0000303|PubMed:12438708};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Synovium;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12690205; DOI=10.1126/science.1083423;
+RA   Scherer S.W., Cheung J., MacDonald J.R., Osborne L.R., Nakabayashi K.,
+RA   Herbrick J.-A., Carson A.R., Parker-Katiraee L., Skaug J., Khaja R.,
+RA   Zhang J., Hudek A.K., Li M., Haddad M., Duggan G.E., Fernandez B.A.,
+RA   Kanematsu E., Gentles S., Christopoulos C.C., Choufani S., Kwasnicka D.,
+RA   Zheng X.H., Lai Z., Nusskern D.R., Zhang Q., Gu Z., Lu F., Zeesman S.,
+RA   Nowaczyk M.J., Teshima I., Chitayat D., Shuman C., Weksberg R.,
+RA   Zackai E.H., Grebe T.A., Cox S.R., Kirkpatrick S.J., Rahman N.,
+RA   Friedman J.M., Heng H.H.Q., Pelicci P.G., Lo-Coco F., Belloni E.,
+RA   Shaffer L.G., Pober B., Morton C.C., Gusella J.F., Bruns G.A.P., Korf B.R.,
+RA   Quade B.J., Ligon A.H., Ferguson H., Higgins A.W., Leach N.T.,
+RA   Herrick S.R., Lemyre E., Farra C.G., Kim H.-G., Summers A.M., Gripp K.W.,
+RA   Roberts W., Szatmari P., Winsor E.J.T., Grzeschik K.-H., Teebi A.,
+RA   Minassian B.A., Kere J., Armengol L., Pujana M.A., Estivill X.,
+RA   Wilson M.D., Koop B.F., Tosi S., Moore G.E., Boright A.P., Zlotorynski E.,
+RA   Kerem B., Kroisel P.M., Petek E., Oscier D.G., Mould S.J., Doehner H.,
+RA   Doehner K., Rommens J.M., Vincent J.B., Venter J.C., Li P.W., Mural R.J.,
+RA   Adams M.D., Tsui L.-C.;
+RT   "Human chromosome 7: DNA sequence and biology.";
+RL   Science 300:767-772(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Urinary bladder;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   IDENTIFICATION, AND TISSUE SPECIFICITY.
+RX   PubMed=12438708; DOI=10.1159/000066618;
+RA   Kosan C., Kunz J.;
+RT   "Identification and characterisation of the gene TWIST NEIGHBOR (TWISTNB)
+RT   located in the microdeletion syndrome 7p21 region.";
+RL   Cytogenet. Genome Res. 97:167-170(2002).
+RN   [6]
+RP   INTERACTION WITH RRN3.
+RX   PubMed=12393749; DOI=10.1093/embo-reports/kvf212;
+RA   Yuan X., Zhao J., Zentgraf H., Hoffmann-Rohrer U., Grummt I.;
+RT   "Multiple interactions between RNA polymerase I, TIF-IA and TAF(I) subunits
+RT   regulate preinitiation complex assembly at the ribosomal gene promoter.";
+RL   EMBO Rep. 3:1082-1087(2002).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-316 AND SER-328, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18220336; DOI=10.1021/pr0705441;
+RA   Cantin G.T., Yi W., Lu B., Park S.K., Xu T., Lee J.-D., Yates J.R. III;
+RT   "Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient
+RT   phosphoproteomic analysis.";
+RL   J. Proteome Res. 7:1346-1351(2008).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-316 AND SER-328, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-316, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-316, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-242; SER-304; SER-316;
+RP   THR-322 AND SER-328, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+CC   -!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription of
+CC       DNA into RNA using the four ribonucleoside triphosphates as substrates.
+CC       Component of RNA polymerase I which synthesizes ribosomal RNA
+CC       precursors. Through its association with RRN3/TIF-IA may be involved in
+CC       recruitment of Pol I to rDNA promoters.
+CC   -!- SUBUNIT: Component of the RNA polymerase I (Pol I) complex consisting
+CC       of at least 13 subunits (By similarity). Interacts with RRN3/TIF-IA.
+CC       {ECO:0000250, ECO:0000269|PubMed:12393749}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus, nucleolus {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Widely expressed. Expressed in all fetal and adult
+CC       tissues tested, with highest expression in fetal lung, liver, and
+CC       kidney, and low expression in all adult tissues.
+CC       {ECO:0000269|PubMed:12438708}.
+CC   -!- SIMILARITY: Belongs to the eukaryotic RPA43 RNA polymerase subunit
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH14574.1; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AK301329; BAH13460.1; -; mRNA.
+DR   EMBL; CH236948; EAL24277.1; -; Genomic_DNA.
+DR   EMBL; CH471073; EAW93714.1; -; Genomic_DNA.
+DR   EMBL; BC014574; AAH14574.1; ALT_FRAME; mRNA.
+DR   EMBL; BC130298; AAI30299.1; -; mRNA.
+DR   EMBL; BC130300; AAI30301.1; -; mRNA.
+DR   EMBL; BK000492; DAA05732.1; -; Genomic_DNA.
+DR   CCDS; CCDS34606.1; -.
+DR   RefSeq; NP_001002926.1; NM_001002926.1.
+DR   PDB; 7OB9; EM; 2.70 A; G=1-338.
+DR   PDB; 7OBA; EM; 3.10 A; G=1-338.
+DR   PDB; 7OBB; EM; 3.30 A; G=1-338.
+DR   PDB; 7VBA; EM; 2.89 A; G=1-338.
+DR   PDB; 7VBB; EM; 2.81 A; G=1-338.
+DR   PDB; 7VBC; EM; 3.01 A; G=1-338.
+DR   PDBsum; 7OB9; -.
+DR   PDBsum; 7OBA; -.
+DR   PDBsum; 7OBB; -.
+DR   PDBsum; 7VBA; -.
+DR   PDBsum; 7VBB; -.
+DR   PDBsum; 7VBC; -.
+DR   AlphaFoldDB; Q3B726; -.
+DR   SMR; Q3B726; -.
+DR   BioGRID; 128759; 55.
+DR   IntAct; Q3B726; 15.
+DR   STRING; 9606.ENSP00000222567; -.
+DR   GlyGen; Q3B726; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q3B726; -.
+DR   PhosphoSitePlus; Q3B726; -.
+DR   SwissPalm; Q3B726; -.
+DR   BioMuta; TWISTNB; -.
+DR   DMDM; 121942339; -.
+DR   EPD; Q3B726; -.
+DR   jPOST; Q3B726; -.
+DR   MassIVE; Q3B726; -.
+DR   MaxQB; Q3B726; -.
+DR   PaxDb; Q3B726; -.
+DR   PeptideAtlas; Q3B726; -.
+DR   ProteomicsDB; 61646; -.
+DR   Antibodypedia; 11907; 100 antibodies from 21 providers.
+DR   DNASU; 221830; -.
+DR   Ensembl; ENST00000222567.6; ENSP00000222567.5; ENSG00000105849.6.
+DR   GeneID; 221830; -.
+DR   KEGG; hsa:221830; -.
+DR   MANE-Select; ENST00000222567.6; ENSP00000222567.5; NM_001002926.2; NP_001002926.1.
+DR   UCSC; uc003sup.2; human.
+DR   AGR; HGNC:18027; -.
+DR   CTD; 221830; -.
+DR   DisGeNET; 221830; -.
+DR   GeneCards; POLR1F; -.
+DR   HGNC; HGNC:18027; POLR1F.
+DR   HPA; ENSG00000105849; Low tissue specificity.
+DR   MIM; 608312; gene.
+DR   neXtProt; NX_Q3B726; -.
+DR   OpenTargets; ENSG00000105849; -.
+DR   VEuPathDB; HostDB:ENSG00000105849; -.
+DR   eggNOG; KOG4134; Eukaryota.
+DR   GeneTree; ENSGT00390000005553; -.
+DR   HOGENOM; CLU_048289_0_0_1; -.
+DR   InParanoid; Q3B726; -.
+DR   OMA; QWLTMEI; -.
+DR   OrthoDB; 3151756at2759; -.
+DR   PhylomeDB; Q3B726; -.
+DR   TreeFam; TF325602; -.
+DR   PathwayCommons; Q3B726; -.
+DR   Reactome; R-HSA-427413; NoRC negatively regulates rRNA expression.
+DR   Reactome; R-HSA-5250924; B-WICH complex positively regulates rRNA expression.
+DR   Reactome; R-HSA-73762; RNA Polymerase I Transcription Initiation.
+DR   Reactome; R-HSA-73772; RNA Polymerase I Promoter Escape.
+DR   Reactome; R-HSA-73863; RNA Polymerase I Transcription Termination.
+DR   SignaLink; Q3B726; -.
+DR   SIGNOR; Q3B726; -.
+DR   BioGRID-ORCS; 221830; 802 hits in 1160 CRISPR screens.
+DR   ChiTaRS; TWISTNB; human.
+DR   GenomeRNAi; 221830; -.
+DR   Pharos; Q3B726; Tdark.
+DR   PRO; PR:Q3B726; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; Q3B726; protein.
+DR   Bgee; ENSG00000105849; Expressed in decidua and 176 other tissues.
+DR   Genevisible; Q3B726; HS.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0005736; C:RNA polymerase I complex; IBA:GO_Central.
+DR   GO; GO:1990830; P:cellular response to leukemia inhibitory factor; IEA:Ensembl.
+DR   GO; GO:0006352; P:DNA-templated transcription initiation; IEA:InterPro.
+DR   GO; GO:0006360; P:transcription by RNA polymerase I; IEA:GOC.
+DR   CDD; cd04328; RNAP_I_Rpa43_N; 1.
+DR   Gene3D; 2.40.50.1060; -; 1.
+DR   Gene3D; 3.30.1490.120; RNA polymerase Rpb7-like, N-terminal domain; 1.
+DR   InterPro; IPR036898; RNA_pol_Rpb7-like_N_sf.
+DR   InterPro; IPR041901; RNAP_I_Rpa43_N.
+DR   InterPro; IPR041178; RPA43_OB.
+DR   InterPro; IPR045113; Rpb7-like.
+DR   PANTHER; PTHR12709:SF5; DNA-DIRECTED RNA POLYMERASE I SUBUNIT RPA43; 1.
+DR   PANTHER; PTHR12709; DNA-DIRECTED RNA POLYMERASE II, III; 1.
+DR   Pfam; PF17875; RPA43_OB; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; DNA-directed RNA polymerase; Nucleus; Phosphoprotein;
+KW   Reference proteome; Transcription.
+FT   CHAIN           1..338
+FT                   /note="DNA-directed RNA polymerase I subunit RPA43"
+FT                   /id="PRO_0000288632"
+FT   REGION          209..338
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        209..224
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        232..253
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         242
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         304
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         316
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163"
+FT   MOD_RES         322
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   MOD_RES         328
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17081983,
+FT                   ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163"
+FT   HELIX           35..40
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          44..46
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          50..59
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   HELIX           61..63
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          64..66
+FT                   /evidence="ECO:0007829|PDB:7OBA"
+FT   HELIX           67..78
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          79..81
+FT                   /evidence="ECO:0007829|PDB:7OBA"
+FT   TURN            84..87
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          88..105
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          112..123
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          130..138
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          143..147
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   TURN            148..150
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          151..155
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          166..168
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          174..180
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          182..185
+FT                   /evidence="ECO:0007829|PDB:7OBA"
+FT   STRAND          188..190
+FT                   /evidence="ECO:0007829|PDB:7OB9"
+FT   STRAND          193..195
+FT                   /evidence="ECO:0007829|PDB:7OBA"
+SQ   SEQUENCE   338 AA;  37432 MW;  6DA3829E74E5D25C CRC64;
+     MAAGCSEAPR PAAASDGSLV GQAGVLPCLE LPTYAAACAL VNSRYSCLVA GPHQRHIALS
+     PRYLNRKRTG IREQLDAELL RYSESLLGVP IAYDNIKVVG ELGDIYDDQG HIHLNIEADF
+     VIFCPEPGQK LMGIVNKVSS SHIGCLVHGC FNASIPKPEQ LSAEQWQTME INMGDELEFE
+     VFRLDSDAAG VFCIRGKLNI TSLQFKRSEV SEEVTENGTE EAAKKPKKKK KKKDPETYEV
+     DSGTTKLADD ADDTPMEESA LQNTNNANGI WEEEPKKKKK KKKHQEVQDQ DPVFQGSDSS
+     GYQSDHKKKK KKRKHSEEAE FTPPLKCSPK RKGKSNFL
+//

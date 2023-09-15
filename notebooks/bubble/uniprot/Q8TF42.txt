@@ -1,0 +1,434 @@
+ID   UBS3B_HUMAN             Reviewed;         649 AA.
+AC   Q8TF42; Q53GT5; Q53GT8; Q8NBV7; Q96IG9; Q96NZ2;
+DT   11-JUL-2006, integrated into UniProtKB/Swiss-Prot.
+DT   11-JUL-2006, sequence version 2.
+DT   28-JUN-2023, entry version 160.
+DE   RecName: Full=Ubiquitin-associated and SH3 domain-containing protein B;
+DE            EC=3.1.3.48;
+DE   AltName: Full=Cbl-interacting protein p70;
+DE   AltName: Full=Suppressor of T-cell receptor signaling 1;
+DE            Short=STS-1;
+DE   AltName: Full=T-cell ubiquitin ligand 2;
+DE            Short=TULA-2;
+DE   AltName: Full=Tyrosine-protein phosphatase STS1/TULA2;
+GN   Name=UBASH3B; Synonyms=KIAA1959, STS1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=11853319; DOI=10.1093/dnares/8.6.319;
+RA   Nagase T., Kikuno R., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XXII. The
+RT   complete sequences of 50 new cDNA clones which code for large proteins.";
+RL   DNA Res. 8:319-327(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=16303743; DOI=10.1093/dnares/12.2.117;
+RA   Otsuki T., Ota T., Nishikawa T., Hayashi K., Suzuki Y., Yamamoto J.,
+RA   Wakamatsu A., Kimura K., Sakamoto K., Hatano N., Kawai Y., Ishii S.,
+RA   Saito K., Kojima S., Sugiyama T., Ono T., Okano K., Yoshikawa Y.,
+RA   Aotsuka S., Sasaki N., Hattori A., Okumura K., Nagai K., Sugano S.,
+RA   Isogai T.;
+RT   "Signal sequence and keyword trap in silico for selection of full-length
+RT   human cDNAs encoding secretion or membrane proteins from oligo-capped cDNA
+RT   libraries.";
+RL   DNA Res. 12:117-126(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT THR-68.
+RC   TISSUE=Liver;
+RA   Suzuki Y., Sugano S., Totoki Y., Toyoda A., Takeda T., Sakaki Y.,
+RA   Tanaka A., Yokoyama S.;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Kidney;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 89-112; 188-199; 230-237 AND 417-428, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Platelet;
+RA   Bienvenut W.V., Claeys D.;
+RL   Submitted (NOV-2005) to UniProtKB.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 116-649.
+RA   Engel M., Seifert M., Maschlanka M., Welter C.;
+RT   "A novel SH3 containing protein is phosphorylated by the nm23-H1 protein
+RT   kinase activity in vitro and shows reduced mRNA expression in human
+RT   tumors.";
+RL   Submitted (SEP-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Lymphoblast;
+RX   PubMed=14654843; DOI=10.1038/nature02166;
+RA   Andersen J.S., Wilkinson C.J., Mayor T., Mortensen P., Nigg E.A., Mann M.;
+RT   "Proteomic characterization of the human centrosome by protein correlation
+RT   profiling.";
+RL   Nature 426:570-574(2003).
+RN   [8]
+RP   FUNCTION, INTERACTION WITH CBL AND UBIQUITIN, AND IDENTIFICATION IN A
+RP   COMPLEX WITH EGFR.
+RX   PubMed=15159412; DOI=10.1074/jbc.m403759200;
+RA   Kowanetz K., Crosetto N., Haglund K., Schmidt M.H., Heldin C.-H., Dikic I.;
+RT   "Suppressors of T-cell receptor signaling Sts-1 and Sts-2 bind to Cbl and
+RT   inhibit endocytosis of receptor tyrosine kinases.";
+RL   J. Biol. Chem. 279:32786-32795(2004).
+RN   [9]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=17880946; DOI=10.1016/j.febslet.2007.08.077;
+RA   Raguz J., Wagner S., Dikic I., Hoeller D.;
+RT   "Suppressor of T-cell receptor signalling 1 and 2 differentially regulate
+RT   endocytosis and signalling of receptor tyrosine kinases.";
+RL   FEBS Lett. 581:4767-4772(2007).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-20 AND THR-23, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [11]
+RP   INTERACTION WITH ZAP70.
+RX   PubMed=26903241; DOI=10.1084/jem.20151426;
+RA   Hu H., Wang H., Xiao Y., Jin J., Chang J.H., Zou Q., Xie X., Cheng X.,
+RA   Sun S.C.;
+RT   "Otud7b facilitates T cell activation and inflammatory responses by
+RT   regulating Zap70 ubiquitination.";
+RL   J. Exp. Med. 213:399-414(2016).
+RN   [12]
+RP   STRUCTURE BY NMR OF 26-76.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of RSGI RUH-031, a UBA domain from human cDNA.";
+RL   Submitted (NOV-2005) to the PDB data bank.
+RN   [13]
+RP   STRUCTURE BY NMR OF 248-328.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of SH3 domain in suppressor of T-cell receptor
+RT   signaling 1.";
+RL   Submitted (JUN-2007) to the PDB data bank.
+CC   -!- FUNCTION: Interferes with CBL-mediated down-regulation and degradation
+CC       of receptor-type tyrosine kinases. Promotes accumulation of activated
+CC       target receptors, such as T-cell receptors and EGFR, on the cell
+CC       surface. Exhibits tyrosine phosphatase activity toward several
+CC       substrates including EGFR, FAK, SYK, and ZAP70. Down-regulates proteins
+CC       that are dually modified by both protein tyrosine phosphorylation and
+CC       ubiquitination. {ECO:0000269|PubMed:15159412,
+CC       ECO:0000269|PubMed:17880946}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + O-phospho-L-tyrosyl-[protein] = L-tyrosyl-[protein] +
+CC         phosphate; Xref=Rhea:RHEA:10684, Rhea:RHEA-COMP:10136, Rhea:RHEA-
+CC         COMP:10137, ChEBI:CHEBI:15377, ChEBI:CHEBI:43474, ChEBI:CHEBI:46858,
+CC         ChEBI:CHEBI:82620; EC=3.1.3.48;
+CC         Evidence={ECO:0000269|PubMed:17880946};
+CC   -!- SUBUNIT: Homodimer. Interacts with JAK2 (in vitro) (By similarity).
+CC       Interacts with CBL (PubMed:15159412). Part of a complex containing CBL
+CC       and activated EGFR (PubMed:15159412). Interacts with ubiquitin and with
+CC       mono-ubiquitinated proteins (PubMed:15159412). Interacts with ZAP70
+CC       (ubiquitinated form) (PubMed:26903241). {ECO:0000250|UniProtKB:Q8BGG7,
+CC       ECO:0000269|PubMed:15159412, ECO:0000269|PubMed:26903241}.
+CC   -!- INTERACTION:
+CC       Q8TF42; Q96PG8: BBC3; NbExp=3; IntAct=EBI-1380492, EBI-17289784;
+CC       Q8TF42; Q13191: CBLB; NbExp=6; IntAct=EBI-1380492, EBI-744027;
+CC       Q8TF42; Q96LY2-2: CCDC74B; NbExp=3; IntAct=EBI-1380492, EBI-17967022;
+CC       Q8TF42; Q15038: DAZAP2; NbExp=6; IntAct=EBI-1380492, EBI-724310;
+CC       Q8TF42; Q9NRI5-2: DISC1; NbExp=3; IntAct=EBI-1380492, EBI-11988027;
+CC       Q8TF42; Q9P1A6-3: DLGAP2; NbExp=3; IntAct=EBI-1380492, EBI-12019838;
+CC       Q8TF42; Q9NQL9: DMRT3; NbExp=3; IntAct=EBI-1380492, EBI-9679045;
+CC       Q8TF42; Q14183: DOC2A; NbExp=5; IntAct=EBI-1380492, EBI-20861623;
+CC       Q8TF42; Q8N9I9: DTX3; NbExp=3; IntAct=EBI-1380492, EBI-2340258;
+CC       Q8TF42; O43281-2: EFS; NbExp=3; IntAct=EBI-1380492, EBI-11525448;
+CC       Q8TF42; Q92567: FAM168A; NbExp=4; IntAct=EBI-1380492, EBI-7957930;
+CC       Q8TF42; P14652: HOXB2; NbExp=3; IntAct=EBI-1380492, EBI-5329558;
+CC       Q8TF42; Q0VD86: INCA1; NbExp=3; IntAct=EBI-1380492, EBI-6509505;
+CC       Q8TF42; Q92993: KAT5; NbExp=3; IntAct=EBI-1380492, EBI-399080;
+CC       Q8TF42; O60341: KDM1A; NbExp=3; IntAct=EBI-1380492, EBI-710124;
+CC       Q8TF42; Q5T749: KPRP; NbExp=5; IntAct=EBI-1380492, EBI-10981970;
+CC       Q8TF42; P25791-3: LMO2; NbExp=3; IntAct=EBI-1380492, EBI-11959475;
+CC       Q8TF42; Q9BRK4: LZTS2; NbExp=3; IntAct=EBI-1380492, EBI-741037;
+CC       Q8TF42; O75928-2: PIAS2; NbExp=3; IntAct=EBI-1380492, EBI-348567;
+CC       Q8TF42; P0CG20: PRR35; NbExp=3; IntAct=EBI-1380492, EBI-11986293;
+CC       Q8TF42; P20618: PSMB1; NbExp=3; IntAct=EBI-1380492, EBI-372273;
+CC       Q8TF42; Q16825: PTPN21; NbExp=3; IntAct=EBI-1380492, EBI-2860264;
+CC       Q8TF42; Q96PM5: RCHY1; NbExp=6; IntAct=EBI-1380492, EBI-947779;
+CC       Q8TF42; Q04864-2: REL; NbExp=3; IntAct=EBI-1380492, EBI-10829018;
+CC       Q8TF42; Q9NWF9: RNF216; NbExp=3; IntAct=EBI-1380492, EBI-723313;
+CC       Q8TF42; Q6ZT89: SLC25A48; NbExp=3; IntAct=EBI-1380492, EBI-10255185;
+CC       Q8TF42; O43597: SPRY2; NbExp=3; IntAct=EBI-1380492, EBI-742487;
+CC       Q8TF42; P43405: SYK; NbExp=2; IntAct=EBI-1380492, EBI-78302;
+CC       Q8TF42; P15884-3: TCF4; NbExp=3; IntAct=EBI-1380492, EBI-13636688;
+CC       Q8TF42; Q96N21: TEPSIN; NbExp=3; IntAct=EBI-1380492, EBI-11139477;
+CC       Q8TF42; O95271: TNKS; NbExp=3; IntAct=EBI-1380492, EBI-1105254;
+CC       Q8TF42; Q05BL1: TP53BP2; NbExp=3; IntAct=EBI-1380492, EBI-11952721;
+CC       Q8TF42; Q8TF42: UBASH3B; NbExp=4; IntAct=EBI-1380492, EBI-1380492;
+CC       Q8TF42; Q9H9H4: VPS37B; NbExp=6; IntAct=EBI-1380492, EBI-4400866;
+CC       Q8TF42; O00401: WASL; NbExp=3; IntAct=EBI-1380492, EBI-957615;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Nucleus {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAL16953.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=BAB85545.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB075839; BAB85545.1; ALT_INIT; mRNA.
+DR   EMBL; AK075203; BAC11468.1; -; mRNA.
+DR   EMBL; AK222843; BAD96563.1; -; mRNA.
+DR   EMBL; AK222846; BAD96566.1; -; mRNA.
+DR   EMBL; BC007541; AAH07541.2; -; mRNA.
+DR   EMBL; AF425252; AAL16953.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS31694.1; -.
+DR   RefSeq; NP_116262.2; NM_032873.4.
+DR   PDB; 2CPW; NMR; -; A=26-76.
+DR   PDB; 2E5K; NMR; -; A=248-328.
+DR   PDB; 5VR6; X-ray; 1.87 A; A/B=384-649.
+DR   PDB; 5W5G; X-ray; 2.48 A; A/B/C=383-644.
+DR   PDBsum; 2CPW; -.
+DR   PDBsum; 2E5K; -.
+DR   PDBsum; 5VR6; -.
+DR   PDBsum; 5W5G; -.
+DR   AlphaFoldDB; Q8TF42; -.
+DR   BMRB; Q8TF42; -.
+DR   SMR; Q8TF42; -.
+DR   BioGRID; 124390; 148.
+DR   IntAct; Q8TF42; 66.
+DR   MINT; Q8TF42; -.
+DR   STRING; 9606.ENSP00000284273; -.
+DR   DEPOD; UBASH3B; -.
+DR   GlyCosmos; Q8TF42; 1 site, 1 glycan.
+DR   GlyGen; Q8TF42; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8TF42; -.
+DR   PhosphoSitePlus; Q8TF42; -.
+DR   BioMuta; UBASH3B; -.
+DR   DMDM; 110287974; -.
+DR   EPD; Q8TF42; -.
+DR   jPOST; Q8TF42; -.
+DR   MassIVE; Q8TF42; -.
+DR   MaxQB; Q8TF42; -.
+DR   PaxDb; Q8TF42; -.
+DR   PeptideAtlas; Q8TF42; -.
+DR   ProteomicsDB; 74552; -.
+DR   Antibodypedia; 32801; 152 antibodies from 26 providers.
+DR   DNASU; 84959; -.
+DR   Ensembl; ENST00000284273.6; ENSP00000284273.5; ENSG00000154127.10.
+DR   GeneID; 84959; -.
+DR   KEGG; hsa:84959; -.
+DR   MANE-Select; ENST00000284273.6; ENSP00000284273.5; NM_032873.5; NP_116262.2.
+DR   UCSC; uc001pyi.5; human.
+DR   AGR; HGNC:29884; -.
+DR   CTD; 84959; -.
+DR   DisGeNET; 84959; -.
+DR   GeneCards; UBASH3B; -.
+DR   HGNC; HGNC:29884; UBASH3B.
+DR   HPA; ENSG00000154127; Tissue enhanced (brain, lymphoid tissue, placenta).
+DR   MIM; 609201; gene.
+DR   neXtProt; NX_Q8TF42; -.
+DR   OpenTargets; ENSG00000154127; -.
+DR   PharmGKB; PA162407840; -.
+DR   VEuPathDB; HostDB:ENSG00000154127; -.
+DR   eggNOG; KOG3734; Eukaryota.
+DR   GeneTree; ENSGT00940000156097; -.
+DR   HOGENOM; CLU_016516_1_0_1; -.
+DR   InParanoid; Q8TF42; -.
+DR   OMA; QPAPHAM; -.
+DR   OrthoDB; 5484137at2759; -.
+DR   PhylomeDB; Q8TF42; -.
+DR   TreeFam; TF313334; -.
+DR   PathwayCommons; Q8TF42; -.
+DR   SignaLink; Q8TF42; -.
+DR   SIGNOR; Q8TF42; -.
+DR   BioGRID-ORCS; 84959; 22 hits in 1172 CRISPR screens.
+DR   ChiTaRS; UBASH3B; human.
+DR   EvolutionaryTrace; Q8TF42; -.
+DR   GeneWiki; STS-1_(gene); -.
+DR   GenomeRNAi; 84959; -.
+DR   Pharos; Q8TF42; Tbio.
+DR   PRO; PR:Q8TF42; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; Q8TF42; protein.
+DR   Bgee; ENSG00000154127; Expressed in pons and 148 other tissues.
+DR   Genevisible; Q8TF42; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0051219; F:phosphoprotein binding; IEA:Ensembl.
+DR   GO; GO:0004725; F:protein tyrosine phosphatase activity; IBA:GO_Central.
+DR   GO; GO:0031625; F:ubiquitin protein ligase binding; IEA:Ensembl.
+DR   GO; GO:0038063; P:collagen-activated tyrosine kinase receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0045779; P:negative regulation of bone resorption; IBA:GO_Central.
+DR   GO; GO:0045671; P:negative regulation of osteoclast differentiation; IEA:Ensembl.
+DR   GO; GO:0090331; P:negative regulation of platelet aggregation; IEA:Ensembl.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; IBA:GO_Central.
+DR   GO; GO:0009968; P:negative regulation of signal transduction; IBA:GO_Central.
+DR   GO; GO:0035335; P:peptidyl-tyrosine dephosphorylation; IBA:GO_Central.
+DR   GO; GO:0070527; P:platelet aggregation; IBA:GO_Central.
+DR   GO; GO:0045670; P:regulation of osteoclast differentiation; IBA:GO_Central.
+DR   GO; GO:0043393; P:regulation of protein binding; IEA:Ensembl.
+DR   GO; GO:0051279; P:regulation of release of sequestered calcium ion into cytosol; IBA:GO_Central.
+DR   CDD; cd07067; HP_PGM_like; 1.
+DR   CDD; cd11936; SH3_UBASH3B; 1.
+DR   CDD; cd14301; UBA_UBS3B; 1.
+DR   Gene3D; 3.90.1140.10; Cyclic phosphodiesterase; 1.
+DR   Gene3D; 1.10.8.10; DNA helicase RuvA subunit, C-terminal domain; 1.
+DR   Gene3D; 3.40.50.1240; Phosphoglycerate mutase-like; 1.
+DR   Gene3D; 2.30.30.40; SH3 Domains; 1.
+DR   InterPro; IPR013078; His_Pase_superF_clade-1.
+DR   InterPro; IPR029033; His_PPase_superfam.
+DR   InterPro; IPR036028; SH3-like_dom_sf.
+DR   InterPro; IPR001452; SH3_domain.
+DR   InterPro; IPR015940; UBA.
+DR   InterPro; IPR009060; UBA-like_sf.
+DR   InterPro; IPR035632; UBASH3B_SH3.
+DR   PANTHER; PTHR16469; UBIQUITIN-ASSOCIATED AND SH3 DOMAIN-CONTAINING BA-RELATED; 1.
+DR   PANTHER; PTHR16469:SF29; UBIQUITIN-ASSOCIATED AND SH3 DOMAIN-CONTAINING PROTEIN B; 1.
+DR   Pfam; PF00300; His_Phos_1; 1.
+DR   Pfam; PF14604; SH3_9; 1.
+DR   Pfam; PF00627; UBA; 1.
+DR   SMART; SM00326; SH3; 1.
+DR   SMART; SM00165; UBA; 1.
+DR   SUPFAM; SSF53254; Phosphoglycerate mutase-like; 1.
+DR   SUPFAM; SSF50044; SH3-domain; 1.
+DR   SUPFAM; SSF46934; UBA-like; 1.
+DR   PROSITE; PS50002; SH3; 1.
+DR   PROSITE; PS50030; UBA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytoplasm; Direct protein sequencing; Hydrolase; Nucleus;
+KW   Phosphoprotein; Protein phosphatase; Reference proteome; SH3 domain.
+FT   CHAIN           1..649
+FT                   /note="Ubiquitin-associated and SH3 domain-containing
+FT                   protein B"
+FT                   /id="PRO_0000245508"
+FT   DOMAIN          27..76
+FT                   /note="UBA"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00212"
+FT   DOMAIN          254..319
+FT                   /note="SH3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00192"
+FT   REGION          380..649
+FT                   /note="Protein tyrosine phosphatase"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        390
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        391
+FT                   /note="Tele-phosphohistidine intermediate"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        576
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         20
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   MOD_RES         23
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   VARIANT         68
+FT                   /note="A -> T (in dbSNP:rs12790613)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_052676"
+FT   VARIANT         569
+FT                   /note="N -> S (in dbSNP:rs35343548)"
+FT                   /id="VAR_061923"
+FT   CONFLICT        465
+FT                   /note="H -> R (in Ref. 3; BAD96563/BAD96566)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          34..36
+FT                   /evidence="ECO:0007829|PDB:2CPW"
+FT   HELIX           40..47
+FT                   /evidence="ECO:0007829|PDB:2CPW"
+FT   HELIX           51..60
+FT                   /evidence="ECO:0007829|PDB:2CPW"
+FT   TURN            61..63
+FT                   /evidence="ECO:0007829|PDB:2CPW"
+FT   HELIX           66..74
+FT                   /evidence="ECO:0007829|PDB:2CPW"
+FT   STRAND          252..254
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   STRAND          257..261
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   STRAND          268..272
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   STRAND          280..283
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   HELIX           285..287
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   TURN            291..294
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   STRAND          295..303
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   STRAND          306..310
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   HELIX           311..313
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   STRAND          314..316
+FT                   /evidence="ECO:0007829|PDB:2E5K"
+FT   STRAND          385..390
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           395..399
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           403..407
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           432..437
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           443..458
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   STRAND          465..468
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           472..485
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   TURN            488..490
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   STRAND          493..495
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           497..499
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           503..505
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   STRAND          508..510
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           517..522
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           537..539
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           546..564
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   STRAND          565..567
+FT                   /evidence="ECO:0007829|PDB:5W5G"
+FT   STRAND          569..575
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           579..582
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   TURN            583..585
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           586..588
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           595..602
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   STRAND          610..615
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   TURN            617..619
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   STRAND          622..625
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+FT   HELIX           642..645
+FT                   /evidence="ECO:0007829|PDB:5VR6"
+SQ   SEQUENCE   649 AA;  72696 MW;  70ED9F50EA20BF43 CRC64;
+     MAQYGHPSPL GMAAREELYS KVTPRRNRQQ RPGTIKHGSA LDVLLSMGFP RARAQKALAS
+     TGGRSVQAAC DWLFSHVGDP FLDDPLPREY VLYLRPTGPL AQKLSDFWQQ SKQICGKNKA
+     HNIFPHITLC QFFMCEDSKV DALGEALQTT VSRWKCKFSA PLPLELYTSS NFIGLFVKED
+     SAEVLKKFAA DFAAEAASKT EVHVEPHKKQ LHVTLAYHFQ ASHLPTLEKL AQNIDVKLGC
+     DWVATIFSRD IRFANHETLQ VIYPYTPQND DELELVPGDF IFMSPMEQTS TSEGWIYGTS
+     LTTGCSGLLP ENYITKADEC STWIFHGSYS ILNTSSSNSL TFGDGVLERR PYEDQGLGET
+     TPLTIICQPM QPLRVNSQPG PQKRCLFVCR HGERMDVVFG KYWLSQCFDA KGRYIRTNLN
+     MPHSLPQRSG GFRDYEKDAP ITVFGCMQAR LVGEALLESN TIIDHVYCSP SLRCVQTAHN
+     ILKGLQQENH LKIRVEPGLF EWTKWVAGST LPAWIPPSEL AAANLSVDTT YRPHIPISKL
+     VVSESYDTYI SRSFQVTKEI ISECKSKGNN ILIVAHASSL EACTCQLQGL SPQNSKDFVQ
+     MVRKIPYLGF CSCEELGETG IWQLTDPPIL PLTHGPTGGF NWRETLLQE
+//

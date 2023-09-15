@@ -1,0 +1,580 @@
+ID   DDX23_HUMAN             Reviewed;         820 AA.
+AC   Q9BUQ8; B2R600; B4DH15; O43188;
+DT   07-JUN-2005, integrated into UniProtKB/Swiss-Prot.
+DT   23-OCT-2007, sequence version 3.
+DT   28-JUN-2023, entry version 196.
+DE   RecName: Full=Probable ATP-dependent RNA helicase DDX23 {ECO:0000305};
+DE            EC=3.6.4.13 {ECO:0000305};
+DE   AltName: Full=100 kDa U5 snRNP-specific protein;
+DE   AltName: Full=DEAD box protein 23;
+DE   AltName: Full=PRP28 homolog;
+DE   AltName: Full=U5-100kD;
+GN   Name=DDX23 {ECO:0000312|HGNC:HGNC:17347};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), PROTEIN SEQUENCE OF 272-290;
+RP   409-419 AND 433-441, SUBCELLULAR LOCATION, PHOSPHORYLATION, AND
+RP   IDENTIFICATION IN U5 AND U5/4/6 SNRNP COMPLEXES.
+RX   PubMed=9409622;
+RA   Teigelkamp S., Mundt C., Achsel T., Will C.L., Luehrmann R.;
+RT   "The human U5 snRNP-specific 100-kD protein is an RS domain-containing,
+RT   putative RNA helicase with significant homology to the yeast splicing
+RT   factor Prp28p.";
+RL   RNA 3:1313-1326(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Amygdala, and Brain;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16541075; DOI=10.1038/nature04569;
+RA   Scherer S.E., Muzny D.M., Buhay C.J., Chen R., Cree A., Ding Y.,
+RA   Dugan-Rocha S., Gill R., Gunaratne P., Harris R.A., Hawes A.C.,
+RA   Hernandez J., Hodgson A.V., Hume J., Jackson A., Khan Z.M., Kovar-Smith C.,
+RA   Lewis L.R., Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R.,
+RA   Montgomery K.T., Morgan M.B., Nazareth L.V., Scott G., Sodergren E.,
+RA   Song X.-Z., Steffen D., Lovering R.C., Wheeler D.A., Worley K.C., Yuan Y.,
+RA   Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M., Brown M.J., Chen G.,
+RA   Chen Z., Clerc-Blankenburg K.P., Davis C., Delgado O., Dinh H.H.,
+RA   Draper H., Gonzalez-Garay M.L., Havlak P., Jackson L.R., Jacob L.S.,
+RA   Kelly S.H., Li L., Li Z., Liu J., Liu W., Lu J., Maheshwari M.,
+RA   Nguyen B.-V., Okwuonu G.O., Pasternak S., Perez L.M., Plopper F.J.H.,
+RA   Santibanez J., Shen H., Tabor P.E., Verduzco D., Waldron L., Wang Q.,
+RA   Williams G.A., Zhang J., Zhou J., Allen C.C., Amin A.G., Anyalebechi V.,
+RA   Bailey M., Barbaria J.A., Bimage K.E., Bryant N.P., Burch P.E.,
+RA   Burkett C.E., Burrell K.L., Calderon E., Cardenas V., Carter K., Casias K.,
+RA   Cavazos I., Cavazos S.R., Ceasar H., Chacko J., Chan S.N., Chavez D.,
+RA   Christopoulos C., Chu J., Cockrell R., Cox C.D., Dang M., Dathorne S.R.,
+RA   David R., Davis C.M., Davy-Carroll L., Deshazo D.R., Donlin J.E.,
+RA   D'Souza L., Eaves K.A., Egan A., Emery-Cohen A.J., Escotto M., Flagg N.,
+RA   Forbes L.D., Gabisi A.M., Garza M., Hamilton C., Henderson N.,
+RA   Hernandez O., Hines S., Hogues M.E., Huang M., Idlebird D.G., Johnson R.,
+RA   Jolivet A., Jones S., Kagan R., King L.M., Leal B., Lebow H., Lee S.,
+RA   LeVan J.M., Lewis L.C., London P., Lorensuhewa L.M., Loulseged H.,
+RA   Lovett D.A., Lucier A., Lucier R.L., Ma J., Madu R.C., Mapua P.,
+RA   Martindale A.D., Martinez E., Massey E., Mawhiney S., Meador M.G.,
+RA   Mendez S., Mercado C., Mercado I.C., Merritt C.E., Miner Z.L., Minja E.,
+RA   Mitchell T., Mohabbat F., Mohabbat K., Montgomery B., Moore N., Morris S.,
+RA   Munidasa M., Ngo R.N., Nguyen N.B., Nickerson E., Nwaokelemeh O.O.,
+RA   Nwokenkwo S., Obregon M., Oguh M., Oragunye N., Oviedo R.J., Parish B.J.,
+RA   Parker D.N., Parrish J., Parks K.L., Paul H.A., Payton B.A., Perez A.,
+RA   Perrin W., Pickens A., Primus E.L., Pu L.-L., Puazo M., Quiles M.M.,
+RA   Quiroz J.B., Rabata D., Reeves K., Ruiz S.J., Shao H., Sisson I.,
+RA   Sonaike T., Sorelle R.P., Sutton A.E., Svatek A.F., Svetz L.A.,
+RA   Tamerisa K.S., Taylor T.R., Teague B., Thomas N., Thorn R.D., Trejos Z.Y.,
+RA   Trevino B.K., Ukegbu O.N., Urban J.B., Vasquez L.I., Vera V.A.,
+RA   Villasana D.M., Wang L., Ward-Moore S., Warren J.T., Wei X., White F.,
+RA   Williamson A.L., Wleczyk R., Wooden H.S., Wooden S.H., Yen J., Yoon L.,
+RA   Yoon V., Zorrilla S.E., Nelson D., Kucherlapati R., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The finished DNA sequence of human chromosome 12.";
+RL   Nature 440:346-351(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND IDENTIFICATION IN THE SPLICEOSOMAL
+RP   C COMPLEX.
+RX   PubMed=11991638; DOI=10.1017/s1355838202021088;
+RA   Jurica M.S., Licklider L.J., Gygi S.P., Grigorieff N., Moore M.J.;
+RT   "Purification and characterization of native spliceosomes suitable for
+RT   three-dimensional structural analysis.";
+RL   RNA 8:426-439(2002).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=17081983; DOI=10.1016/j.cell.2006.09.026;
+RA   Olsen J.V., Blagoev B., Gnad F., Macek B., Kumar C., Mortensen P., Mann M.;
+RT   "Global, in vivo, and site-specific phosphorylation dynamics in signaling
+RT   networks.";
+RL   Cell 127:635-648(2006).
+RN   [8]
+RP   SUBUNIT.
+RX   PubMed=16723661; DOI=10.1261/rna.55406;
+RA   Liu S., Rauhut R., Vornlocher H.-P., Luehrmann R.;
+RT   "The network of protein-protein interactions within the human U4/U6.U5 tri-
+RT   snRNP.";
+RL   RNA 12:1418-1430(2006).
+RN   [9]
+RP   FUNCTION, AND PHOSPHORYLATION BY SRPK2.
+RX   PubMed=18425142; DOI=10.1038/nsmb.1415;
+RA   Mathew R., Hartmuth K., Moehlmann S., Urlaub H., Ficner R., Luehrmann R.;
+RT   "Phosphorylation of human PRP28 by SRPK2 is required for integration of the
+RT   U4/U6-U5 tri-snRNP into the spliceosome.";
+RL   Nat. Struct. Mol. Biol. 15:435-443(2008).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, INTERACTION WITH ERBB4, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=20858735; DOI=10.1158/1541-7786.mcr-10-0042;
+RA   Gilmore-Hebert M., Ramabhadran R., Stern D.F.;
+RT   "Interactions of ErbB4 and Kap1 connect the growth factor and DNA damage
+RT   response pathways.";
+RL   Mol. Cancer Res. 8:1388-1398(2010).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-14 AND SER-16, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S., Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full phosphorylation
+RT   site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-14; SER-107 AND SER-109, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [15]
+RP   INTERACTION WITH ERCC6.
+RX   PubMed=26030138; DOI=10.1371/journal.pone.0128558;
+RA   Nicolai S., Filippi S., Caputo M., Cipak L., Gregan J., Ammerer G.,
+RA   Frontini M., Willems D., Prantera G., Balajee A.S., Proietti-De-Santis L.;
+RT   "Identification of Novel Proteins Co-Purifying with Cockayne Syndrome Group
+RT   B (CSB) Reveals Potential Roles for CSB in RNA Metabolism and Chromatin
+RT   Dynamics.";
+RL   PLoS ONE 10:E0128558-E0128558(2015).
+RN   [16]
+RP   FUNCTION, SUBCELLULAR LOCATION, DOMAIN, AND PHOSPHORYLATION.
+RX   PubMed=28076779; DOI=10.1016/j.celrep.2016.12.050;
+RA   Sridhara S.C., Carvalho S., Grosso A.R., Gallego-Paez L.M.,
+RA   Carmo-Fonseca M., de Almeida S.F.;
+RT   "Transcription Dynamics Prevent RNA-Mediated Genomic Instability through
+RT   SRPK2-Dependent DDX23 Phosphorylation.";
+RL   Cell Rep. 18:334-343(2017).
+RN   [17]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-686 AND LYS-811, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: Involved in pre-mRNA splicing and its phosphorylated form (by
+CC       SRPK2) is required for spliceosomal B complex formation
+CC       (PubMed:18425142). Independently of its spliceosome formation function,
+CC       required for the suppression of incorrect R-loops formed during
+CC       transcription; R-loops are composed of a DNA:RNA hybrid and the
+CC       associated non-template single-stranded DNA (PubMed:28076779).
+CC       {ECO:0000269|PubMed:18425142, ECO:0000269|PubMed:28076779}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + H2O = ADP + H(+) + phosphate; Xref=Rhea:RHEA:13065,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:15378, ChEBI:CHEBI:30616,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:456216; EC=3.6.4.13;
+CC         Evidence={ECO:0000305};
+CC   -!- SUBUNIT: The phosphorylated form (by SRPK2) is a component of the
+CC       U4/U6-U5 tri-snRNP complex composed of the U4, U6 and U5 snRNAs and at
+CC       least PRPF3, PRPF4, PRPF6, PRPF8, PRPF31, SNRNP200, TXNL4A, WDR57,
+CC       SNRNP40, DDX23, CD2BP2, PPIH, SNU13, EFTUD2, SART1 and USP39
+CC       (PubMed:16723661, PubMed:9409622). Identified in the spliceosome C
+CC       complex (PubMed:11991638). Interacts with ERBB4 (PubMed:20858735).
+CC       Interacts with ERCC6 (PubMed:26030138). {ECO:0000269|PubMed:11991638,
+CC       ECO:0000269|PubMed:16723661, ECO:0000269|PubMed:20858735,
+CC       ECO:0000269|PubMed:26030138, ECO:0000269|PubMed:9409622}.
+CC   -!- INTERACTION:
+CC       Q9BUQ8; Q96DI7: SNRNP40; NbExp=2; IntAct=EBI-540096, EBI-538492;
+CC       Q9BUQ8; P54274: TERF1; NbExp=2; IntAct=EBI-540096, EBI-710997;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:20858735,
+CC       ECO:0000269|PubMed:28076779, ECO:0000269|PubMed:9409622}. Chromosome
+CC       {ECO:0000269|PubMed:28076779}. Note=During transcription, accumulates
+CC       at chromatin loci where unscheduled R-loops form and colocalizes with
+CC       paused 'Ser-5'-phosphorlyated POLR2A/RNA polymerase II and kinase
+CC       SRPK2. {ECO:0000269|PubMed:28076779}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9BUQ8-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BUQ8-2; Sequence=VSP_056575, VSP_056576;
+CC   -!- PTM: In vitro phosphorylated by CLK1 and U1 snRNP-associated protein
+CC       kinase (PubMed:9409622). Phosphorylated by SRPK2 and this
+CC       phosphorylation is required for its association with the tri-snRNP
+CC       (U4/U6-U5 tri-small nuclear ribonucleoproteins) and subsequent
+CC       spliceosomal B complex formation (PubMed:18425142). May be
+CC       phosphorylated by SRPK2 on Ser residues in the SR domain; the
+CC       phosphorylation is required for the removal of inappropriate R-loops
+CC       during transcription (PubMed:28076779). {ECO:0000269|PubMed:18425142,
+CC       ECO:0000269|PubMed:28076779, ECO:0000269|PubMed:9409622}.
+CC   -!- SIMILARITY: Belongs to the DEAD box helicase family. DDX23/PRP28
+CC       subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF026402; AAB87902.1; -; mRNA.
+DR   EMBL; AK294877; BAG57976.1; -; mRNA.
+DR   EMBL; AK312379; BAG35297.1; -; mRNA.
+DR   EMBL; AC117498; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471111; EAW58011.1; -; Genomic_DNA.
+DR   EMBL; BC002366; AAH02366.1; -; mRNA.
+DR   CCDS; CCDS8770.1; -. [Q9BUQ8-1]
+DR   RefSeq; NP_004809.2; NM_004818.2. [Q9BUQ8-1]
+DR   PDB; 3JCR; EM; 7.00 A; F=1-820.
+DR   PDB; 4NHO; X-ray; 2.00 A; A=338-820.
+DR   PDB; 6AH0; EM; 5.70 A; X=1-820.
+DR   PDB; 6QW6; EM; 2.92 A; 5X=1-820.
+DR   PDB; 6QX9; EM; 3.28 A; 5X=1-820.
+DR   PDBsum; 3JCR; -.
+DR   PDBsum; 4NHO; -.
+DR   PDBsum; 6AH0; -.
+DR   PDBsum; 6QW6; -.
+DR   PDBsum; 6QX9; -.
+DR   AlphaFoldDB; Q9BUQ8; -.
+DR   SMR; Q9BUQ8; -.
+DR   BioGRID; 114811; 463.
+DR   ComplexPortal; CPX-2391; U4/U6.U5 small nuclear ribonucleoprotein complex.
+DR   CORUM; Q9BUQ8; -.
+DR   DIP; DIP-34974N; -.
+DR   IntAct; Q9BUQ8; 73.
+DR   MINT; Q9BUQ8; -.
+DR   STRING; 9606.ENSP00000310723; -.
+DR   GlyGen; Q9BUQ8; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9BUQ8; -.
+DR   MetOSite; Q9BUQ8; -.
+DR   PhosphoSitePlus; Q9BUQ8; -.
+DR   SwissPalm; Q9BUQ8; -.
+DR   BioMuta; DDX23; -.
+DR   DMDM; 160385708; -.
+DR   EPD; Q9BUQ8; -.
+DR   jPOST; Q9BUQ8; -.
+DR   MassIVE; Q9BUQ8; -.
+DR   MaxQB; Q9BUQ8; -.
+DR   PaxDb; Q9BUQ8; -.
+DR   PeptideAtlas; Q9BUQ8; -.
+DR   ProteomicsDB; 4180; -.
+DR   ProteomicsDB; 79121; -. [Q9BUQ8-1]
+DR   Antibodypedia; 13695; 216 antibodies from 24 providers.
+DR   DNASU; 9416; -.
+DR   Ensembl; ENST00000308025.8; ENSP00000310723.2; ENSG00000174243.11. [Q9BUQ8-1]
+DR   Ensembl; ENST00000547135.5; ENSP00000446770.1; ENSG00000174243.11. [Q9BUQ8-2]
+DR   GeneID; 9416; -.
+DR   KEGG; hsa:9416; -.
+DR   MANE-Select; ENST00000308025.8; ENSP00000310723.2; NM_004818.3; NP_004809.2.
+DR   UCSC; uc001rsm.4; human. [Q9BUQ8-1]
+DR   AGR; HGNC:17347; -.
+DR   CTD; 9416; -.
+DR   DisGeNET; 9416; -.
+DR   GeneCards; DDX23; -.
+DR   HGNC; HGNC:17347; DDX23.
+DR   HPA; ENSG00000174243; Low tissue specificity.
+DR   MIM; 612172; gene.
+DR   neXtProt; NX_Q9BUQ8; -.
+DR   OpenTargets; ENSG00000174243; -.
+DR   PharmGKB; PA134934941; -.
+DR   VEuPathDB; HostDB:ENSG00000174243; -.
+DR   eggNOG; KOG0333; Eukaryota.
+DR   GeneTree; ENSGT00940000155606; -.
+DR   HOGENOM; CLU_003041_11_0_1; -.
+DR   InParanoid; Q9BUQ8; -.
+DR   OMA; KKFNFEW; -.
+DR   OrthoDB; 5487240at2759; -.
+DR   PhylomeDB; Q9BUQ8; -.
+DR   TreeFam; TF300527; -.
+DR   PathwayCommons; Q9BUQ8; -.
+DR   Reactome; R-HSA-72163; mRNA Splicing - Major Pathway.
+DR   Reactome; R-HSA-72165; mRNA Splicing - Minor Pathway.
+DR   SignaLink; Q9BUQ8; -.
+DR   SIGNOR; Q9BUQ8; -.
+DR   BioGRID-ORCS; 9416; 675 hits in 1166 CRISPR screens.
+DR   ChiTaRS; DDX23; human.
+DR   GeneWiki; DDX23; -.
+DR   GenomeRNAi; 9416; -.
+DR   Pharos; Q9BUQ8; Tbio.
+DR   PRO; PR:Q9BUQ8; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; Q9BUQ8; protein.
+DR   Bgee; ENSG00000174243; Expressed in calcaneal tendon and 199 other tissues.
+DR   ExpressionAtlas; Q9BUQ8; baseline and differential.
+DR   Genevisible; Q9BUQ8; HS.
+DR   GO; GO:0071013; C:catalytic step 2 spliceosome; IDA:UniProtKB.
+DR   GO; GO:0000785; C:chromatin; IDA:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0046540; C:U4/U6 x U5 tri-snRNP complex; IDA:MGI.
+DR   GO; GO:0005682; C:U5 snRNP; IDA:HGNC-UCL.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016887; F:ATP hydrolysis activity; IEA:RHEA.
+DR   GO; GO:0003723; F:RNA binding; HDA:UniProtKB.
+DR   GO; GO:0003724; F:RNA helicase activity; TAS:Reactome.
+DR   GO; GO:0000354; P:cis assembly of pre-catalytic spliceosome; IC:HGNC-UCL.
+DR   GO; GO:0000398; P:mRNA splicing, via spliceosome; IBA:GO_Central.
+DR   GO; GO:0062176; P:R-loop processing; IDA:UniProtKB.
+DR   GO; GO:0008380; P:RNA splicing; TAS:ProtInc.
+DR   GO; GO:0000375; P:RNA splicing, via transesterification reactions; TAS:UniProtKB.
+DR   CDD; cd17945; DEADc_DDX23; 1.
+DR   CDD; cd18787; SF2_C_DEAD; 1.
+DR   DisProt; DP02332; -.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 2.
+DR   InterPro; IPR011545; DEAD/DEAH_box_helicase_dom.
+DR   InterPro; IPR014001; Helicase_ATP-bd.
+DR   InterPro; IPR001650; Helicase_C.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR000629; RNA-helicase_DEAD-box_CS.
+DR   InterPro; IPR014014; RNA_helicase_DEAD_Q_motif.
+DR   PANTHER; PTHR47958; ATP-DEPENDENT RNA HELICASE DBP3; 1.
+DR   PANTHER; PTHR47958:SF56; RNA HELICASE; 1.
+DR   Pfam; PF00270; DEAD; 1.
+DR   Pfam; PF00271; Helicase_C; 1.
+DR   SMART; SM00487; DEXDc; 1.
+DR   SMART; SM00490; HELICc; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   PROSITE; PS00039; DEAD_ATP_HELICASE; 1.
+DR   PROSITE; PS51192; HELICASE_ATP_BIND_1; 1.
+DR   PROSITE; PS51194; HELICASE_CTER; 1.
+DR   PROSITE; PS51195; Q_MOTIF; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; ATP-binding; Chromosome;
+KW   Direct protein sequencing; Helicase; Hydrolase; Isopeptide bond;
+KW   mRNA processing; mRNA splicing; Nucleotide-binding; Nucleus;
+KW   Phosphoprotein; Reference proteome; Spliceosome; Ubl conjugation.
+FT   CHAIN           1..820
+FT                   /note="Probable ATP-dependent RNA helicase DDX23"
+FT                   /id="PRO_0000055128"
+FT   DOMAIN          422..627
+FT                   /note="Helicase ATP-binding"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   DOMAIN          651..799
+FT                   /note="Helicase C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00542"
+FT   REGION          1..244
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           391..419
+FT                   /note="Q motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00552"
+FT   MOTIF           549..552
+FT                   /note="DEAD box"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   COMPBIAS        1..40
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        41..61
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        62..244
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         435..442
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00541"
+FT   MOD_RES         14
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231,
+FT                   ECO:0007744|PubMed:21406692"
+FT   MOD_RES         16
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:20068231"
+FT   MOD_RES         107
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   MOD_RES         109
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692"
+FT   CROSSLNK        686
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        811
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         107..108
+FT                   /note="SL -> RH (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_056575"
+FT   VAR_SEQ         109..820
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_056576"
+FT   CONFLICT        137
+FT                   /note="P -> L (in Ref. 1; AAB87902)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        281
+FT                   /note="D -> E (in Ref. 1; AAB87902)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        309
+FT                   /note="L -> F (in Ref. 1; AAB87902)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           357..359
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           362..364
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           367..377
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          379..385
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   TURN            393..395
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           400..409
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           416..425
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   TURN            426..428
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          431..434
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           441..455
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           458..461
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          470..474
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           478..492
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           493..495
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          499..502
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          504..506
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           508..516
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          520..524
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           526..534
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          545..550
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           551..556
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           560..567
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           572..574
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           580..583
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           585..593
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           595..597
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          601..607
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           611..620
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          625..629
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           635..638
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          639..645
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           648..650
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           651..660
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          667..670
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           674..686
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          691..693
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           704..712
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          717..720
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          734..740
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           745..752
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           753..755
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          757..760
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   STRAND          763..768
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           770..775
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           776..784
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           793..796
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+FT   HELIX           799..801
+FT                   /evidence="ECO:0007829|PDB:4NHO"
+SQ   SEQUENCE   820 AA;  95583 MW;  01DD5BCF8BFBA2DB CRC64;
+     MAGELADKKD RDASPSKEER KRSRTPDRER DRDRDRKSSP SKDRKRHRSR DRRRGGSRSR
+     SRSRSKSAER ERRHKERERD KERDRNKKDR DRDKDGHRRD KDRKRSSLSP GRGKDFKSRK
+     DRDSKKDEED EHGDKKPKAQ PLSLEELLAK KKAEEEAEAK PKFLSKAERE AEALKRRQQE
+     VEERQRMLEE ERKKRKQFQD LGRKMLEDPQ ERERRERRER MERETNGNED EEGRQKIREE
+     KDKSKELHAI KERYLGGIKK RRRTRHLNDR KFVFEWDASE DTSIDYNPLY KERHQVQLLG
+     RGFIAGIDLK QQKREQSRFY GDLMEKRRTL EEKEQEEARL RKLRKKEAKQ RWDDRHWSQK
+     KLDEMTDRDW RIFREDYSIT TKGGKIPNPI RSWKDSSLPP HILEVIDKCG YKEPTPIQRQ
+     AIPIGLQNRD IIGVAETGSG KTAAFLIPLL VWITTLPKID RIEESDQGPY AIILAPTREL
+     AQQIEEETIK FGKPLGIRTV AVIGGISRED QGFRLRMGCE IVIATPGRLI DVLENRYLVL
+     SRCTYVVLDE ADRMIDMGFE PDVQKILEHM PVSNQKPDTD EAEDPEKMLA NFESGKHKYR
+     QTVMFTATMP PAVERLARSY LRRPAVVYIG SAGKPHERVE QKVFLMSESE KRKKLLAILE
+     QGFDPPIIIF VNQKKGCDVL AKSLEKMGYN ACTLHGGKGQ EQREFALSNL KAGAKDILVA
+     TDVAGRGIDI QDVSMVVNYD MAKNIEDYIH RIGRTGRAGK SGVAITFLTK EDSAVFYELK
+     QAILESPVSS CPPELANHPD AQHKPGTILT KKRREETIFA
+//

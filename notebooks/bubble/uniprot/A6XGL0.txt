@@ -1,0 +1,212 @@
+ID   YJEN3_HUMAN             Reviewed;         299 AA.
+AC   A6XGL0; A6XGK9; Q4G1C0;
+DT   02-SEP-2008, integrated into UniProtKB/Swiss-Prot.
+DT   21-AUG-2007, sequence version 1.
+DT   28-JUN-2023, entry version 112.
+DE   RecName: Full=YjeF N-terminal domain-containing protein 3 {ECO:0000305};
+DE            Short=YjeF_N3;
+DE            Short=hYjeF_N3;
+DE   AltName: Full=ApoA-I-binding protein 2 {ECO:0000250|UniProtKB:Q1LVI2};
+GN   Name=YJEFN3; Synonyms=AIBP2 {ECO:0000250|UniProtKB:Q1LVI2};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2).
+RA   Yu Z., Zheng Z., Tang T., Fu Y.;
+RT   "A computer system platform used to predict novel genes and some proteins
+RT   similar to apolipoprotein a1 binding protein.";
+RL   Submitted (JUN-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=17533573; DOI=10.1055/s-2007-977699;
+RA   Rudolph C., Sigruener A., Hartmann A., Orso E., Bals-Pratsch M.,
+RA   Gronwald W., Seifert B., Kalbitzer H.R., Verdorfer I., Luetjens C.M.,
+RA   Ortmann O., Bornstein S.R., Schmitz G.;
+RT   "ApoA-I-binding protein (AI-BP) and its homologues hYjeF_N2 and hYjeF_N3
+RT   comprise the YjeF_N domain protein family in humans with a role in
+RT   spermiogenesis and oogenesis.";
+RL   Horm. Metab. Res. 39:322-335(2007).
+RN   [6]
+RP   INTERACTION WITH APOA1.
+RX   PubMed=23719382; DOI=10.1038/nature12166;
+RA   Fang L., Choi S.H., Baek J.S., Liu C., Almazan F., Ulrich F., Wiesner P.,
+RA   Taleb A., Deer E., Pattison J., Torres-Vazquez J., Li A.C., Miller Y.I.;
+RT   "Control of angiogenesis by AIBP-mediated cholesterol efflux.";
+RL   Nature 498:118-122(2013).
+CC   -!- FUNCTION: May accelerate cholesterol efflux from endothelial cells to
+CC       high-density lipoprotein (HDL) and thereby regulates angiogenesis. May
+CC       orchestrate hematopoietic stem and progenitor cell emergence from the
+CC       hemogenic endothelium, a type of specialized endothelium manifesting
+CC       hematopoietic potential. YJEFN3-mediated cholesterol efflux activates
+CC       endothelial SREBF2, the master transcription factor for cholesterol
+CC       biosynthesis, which in turn transactivates NOTCH and promotes
+CC       hematopoietic stem and progenitor cell emergence (By similarity). May
+CC       play a role in spermiogenesis and oogenesis (PubMed:17533573).
+CC       {ECO:0000250|UniProtKB:Q1LVI2, ECO:0000269|PubMed:17533573}.
+CC   -!- SUBUNIT: Interacts with APOA1 (PubMed:23719382). Binds to HDL
+CC       (PubMed:17533573). {ECO:0000269|PubMed:17533573,
+CC       ECO:0000269|PubMed:23719382}.
+CC   -!- INTERACTION:
+CC       A6XGL0; P28062-2: PSMB8; NbExp=3; IntAct=EBI-13070200, EBI-372312;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=A6XGL0-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=A6XGL0-2; Sequence=VSP_035170;
+CC   -!- TISSUE SPECIFICITY: Expressed in theca cells in ovary and in Leydig
+CC       cells in testis (at protein level). Also expressed in brain and mammary
+CC       gland. {ECO:0000269|PubMed:17533573}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BC020948; Type=Frameshift; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; DQ778080; ABI63344.1; -; mRNA.
+DR   EMBL; DQ778079; ABI63349.1; -; mRNA.
+DR   EMBL; AC011448; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471106; EAW84827.1; -; Genomic_DNA.
+DR   EMBL; BC020948; -; NOT_ANNOTATED_CDS; mRNA.
+DR   CCDS; CCDS42530.1; -. [A6XGL0-1]
+DR   CCDS; CCDS54236.1; -. [A6XGL0-2]
+DR   RefSeq; NP_001177257.1; NM_001190328.1. [A6XGL0-2]
+DR   RefSeq; NP_940939.2; NM_198537.3. [A6XGL0-1]
+DR   AlphaFoldDB; A6XGL0; -.
+DR   SMR; A6XGL0; -.
+DR   BioGRID; 131931; 16.
+DR   IntAct; A6XGL0; 1.
+DR   STRING; 9606.ENSP00000426964; -.
+DR   iPTMnet; A6XGL0; -.
+DR   PhosphoSitePlus; A6XGL0; -.
+DR   BioMuta; YJEFN3; -.
+DR   MassIVE; A6XGL0; -.
+DR   PaxDb; A6XGL0; -.
+DR   PeptideAtlas; A6XGL0; -.
+DR   ProteomicsDB; 1760; -. [A6XGL0-1]
+DR   ProteomicsDB; 1761; -. [A6XGL0-2]
+DR   Antibodypedia; 54853; 10 antibodies from 7 providers.
+DR   DNASU; 374887; -.
+DR   Ensembl; ENST00000436027.9; ENSP00000398520.2; ENSG00000250067.12. [A6XGL0-2]
+DR   Ensembl; ENST00000514277.6; ENSP00000426964.1; ENSG00000250067.12. [A6XGL0-1]
+DR   GeneID; 374887; -.
+DR   KEGG; hsa:374887; -.
+DR   MANE-Select; ENST00000514277.6; ENSP00000426964.1; NM_198537.4; NP_940939.2.
+DR   UCSC; uc002nmt.3; human. [A6XGL0-1]
+DR   AGR; HGNC:24785; -.
+DR   CTD; 374887; -.
+DR   DisGeNET; 374887; -.
+DR   GeneCards; YJEFN3; -.
+DR   HGNC; HGNC:24785; YJEFN3.
+DR   HPA; ENSG00000250067; Group enriched (brain, testis).
+DR   MIM; 618607; gene.
+DR   neXtProt; NX_A6XGL0; -.
+DR   OpenTargets; ENSG00000250067; -.
+DR   PharmGKB; PA164727608; -.
+DR   VEuPathDB; HostDB:ENSG00000250067; -.
+DR   eggNOG; KOG2585; Eukaryota.
+DR   GeneTree; ENSGT00390000007227; -.
+DR   HOGENOM; CLU_024853_3_0_1; -.
+DR   InParanoid; A6XGL0; -.
+DR   OMA; HSCAMAV; -.
+DR   OrthoDB; 1493at2759; -.
+DR   PhylomeDB; A6XGL0; -.
+DR   TreeFam; TF300197; -.
+DR   PathwayCommons; A6XGL0; -.
+DR   SignaLink; A6XGL0; -.
+DR   BioGRID-ORCS; 374887; 69 hits in 1154 CRISPR screens.
+DR   ChiTaRS; YJEFN3; human.
+DR   GenomeRNAi; 374887; -.
+DR   Pharos; A6XGL0; Tdark.
+DR   PRO; PR:A6XGL0; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; A6XGL0; protein.
+DR   Bgee; ENSG00000250067; Expressed in putamen and 96 other tissues.
+DR   ExpressionAtlas; A6XGL0; baseline and differential.
+DR   Genevisible; A6XGL0; HS.
+DR   GO; GO:0052856; F:NADHX epimerase activity; IBA:GO_Central.
+DR   GO; GO:0071425; P:hematopoietic stem cell proliferation; ISS:UniProtKB.
+DR   GO; GO:0006869; P:lipid transport; IEA:UniProtKB-KW.
+DR   GO; GO:0031580; P:membrane raft distribution; ISS:UniProtKB.
+DR   GO; GO:0016525; P:negative regulation of angiogenesis; ISS:UniProtKB.
+DR   GO; GO:0010874; P:regulation of cholesterol efflux; ISS:UniProtKB.
+DR   GO; GO:0008593; P:regulation of Notch signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0002040; P:sprouting angiogenesis; ISS:UniProtKB.
+DR   Gene3D; 3.40.50.10260; YjeF N-terminal domain; 1.
+DR   InterPro; IPR004443; YjeF_N_dom.
+DR   InterPro; IPR036652; YjeF_N_dom_sf.
+DR   InterPro; IPR032976; YJEFN_prot_NAXE-like.
+DR   PANTHER; PTHR13232; NAD(P)H-HYDRATE EPIMERASE; 1.
+DR   PANTHER; PTHR13232:SF12; YJEF N-TERMINAL DOMAIN-CONTAINING PROTEIN 3; 1.
+DR   Pfam; PF03853; YjeF_N; 1.
+DR   SUPFAM; SSF64153; YjeF N-terminal domain-like; 1.
+DR   PROSITE; PS51385; YJEF_N; 1.
+DR   TIGRFAMs; TIGR00197; yjeF_nterm; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Lipid transport; Reference proteome; Transport.
+FT   CHAIN           1..299
+FT                   /note="YjeF N-terminal domain-containing protein 3"
+FT                   /id="PRO_0000348461"
+FT   DOMAIN          74..287
+FT                   /note="YjeF N-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00719"
+FT   VAR_SEQ         20..69
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.1"
+FT                   /id="VSP_035170"
+FT   VARIANT         213
+FT                   /note="A -> T (in dbSNP:rs58031491)"
+FT                   /id="VAR_061989"
+FT   CONFLICT        293
+FT                   /note="T -> A (in Ref. 4; BC020948)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   299 AA;  32585 MW;  5B708900DEBF6CCE CRC64;
+     MSSAAGPDPS EAPEERHFLR ALELQPPLAD MGRAELSSNA TTSLVQRRKQ AWGRQSWLEQ
+     IWNAGPVCQS TAEAAALERE LLEDYRFGRQ QLVELCGHAS AVAVTKAFPL PALSRKQRTV
+     LVVCGPEQNG AVGLVCARHL RVFEYEPTIF YPTRSLDLLH RDLTTQCEKM DIPFLSYLPT
+     EVQLINEAYG LVVDAVLGPG VEPGEVGGPC TRALATLKLL SIPLVSLDIP SGWDAETGSD
+     SEDGLRPDVL VSLAAPKRCA GRFSGRHHFV AGRFVPDDVR RKFALRLPGY TGTDCVAAL
+//

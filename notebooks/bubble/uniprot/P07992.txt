@@ -1,0 +1,619 @@
+ID   ERCC1_HUMAN             Reviewed;         297 AA.
+AC   P07992; B2RC01; B3KRR0; Q7Z7F5; Q96S40;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1988, sequence version 1.
+DT   28-JUN-2023, entry version 212.
+DE   RecName: Full=DNA excision repair protein ERCC-1;
+GN   Name=ERCC1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=2420469; DOI=10.1016/0092-8674(86)90014-0;
+RA   van Duin M., de Wit J., Odijk H., Westerveld A., Yasui A., Koken M.H.M.,
+RA   Hoeijmakers J.H.J., Bootsma D.;
+RT   "Molecular characterization of the human excision repair gene ERCC-1: cDNA
+RT   cloning and amino acid homology with the yeast DNA repair gene RAD10.";
+RL   Cell 44:913-923(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3034490; DOI=10.1101/sqb.1986.051.01.012;
+RA   Hoeijmakers J.H.J., van Duin M., Westerveld A., Yasui A., Bootsma D.;
+RT   "Identification of DNA repair genes in the human genome.";
+RL   Cold Spring Harb. Symp. Quant. Biol. 51:91-101(1986).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=9360634; DOI=10.1016/s1383-5726(97)00004-6;
+RA   Yu J.J., Mu C.J., Lee K.B., Okamoto A., Reed E.L., Bostick-Bruton F.,
+RA   Mitchell K.C., Reed E.;
+RT   "A nucleotide polymorphism in ERCC1 in human ovarian cancer cell lines and
+RT   tumor tissues.";
+RL   Mutat. Res. 382:13-20(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2).
+RA   Hisatomi H., Nagao K., Ishikawa H., Yokoyama Y., Ishihara Y., Hikiji K.,
+RA   Iizuka T.;
+RT   "Human excision repair protein 1, transcript variant, mRNA.";
+RL   Submitted (AUG-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT THR-266.
+RG   NIEHS SNPs program;
+RL   Submitted (MAY-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 4).
+RC   TISSUE=Cerebellum;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 3).
+RC   TISSUE=Lung, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [11]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [12]
+RP   FUNCTION (ISOFORMS 1; 2; 3 AND 4), SUBCELLULAR LOCATION (ISOFORMS 1; 2; 3
+RP   AND 4), AND SUBUNIT (ISOFORMS 1; 2; 3 AND 4).
+RX   PubMed=24036546; DOI=10.4161/cc.26309;
+RA   Friboulet L., Postel-Vinay S., Sourisseau T., Adam J., Stoclin A.,
+RA   Ponsonnailles F., Dorvault N., Commo F., Saulnier P., Salome-Desmoulez S.,
+RA   Pottier G., Andre F., Kroemer G., Soria J.C., Olaussen K.A.;
+RT   "ERCC1 function in nuclear excision and interstrand crosslink repair
+RT   pathways is mediated exclusively by the ERCC1-202 isoform.";
+RL   Cell Cycle 12:3298-3306(2013).
+RN   [13]
+RP   ALTERNATIVE SPLICING.
+RX   PubMed=23514287; DOI=10.1056/nejmoa1214271;
+RA   Friboulet L., Olaussen K.A., Pignon J.P., Shepherd F.A., Tsao M.S.,
+RA   Graziano S., Kratzke R., Douillard J.Y., Seymour L., Pirker R.,
+RA   Filipits M., Andre F., Solary E., Ponsonnailles F., Robin A., Stoclin A.,
+RA   Dorvault N., Commo F., Adam J., Vanhecke E., Saulnier P., Thomale J.,
+RA   Le Chevalier T., Dunant A., Rousseau V., Le Teuff G., Brambilla E.,
+RA   Soria J.C.;
+RT   "ERCC1 isoform expression and DNA repair in non-small-cell lung cancer.";
+RL   N. Engl. J. Med. 368:1101-1110(2013).
+RN   [14]
+RP   INTERACTION WITH USP45 AND ERCC4, UBIQUITINATION, AND DEUBIQUITINATION BY
+RP   USP45.
+RX   PubMed=25538220; DOI=10.15252/embj.201489184;
+RA   Perez-Oliva A.B., Lachaud C., Szyniarowski P., Munoz I., Macartney T.,
+RA   Hickson I., Rouse J., Alessi D.R.;
+RT   "USP45 deubiquitylase controls ERCC1-XPF endonuclease-mediated DNA damage
+RT   responses.";
+RL   EMBO J. 34:326-343(2015).
+RN   [15]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-21; LYS-37 AND LYS-243, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+RN   [16]
+RP   INTERACTION WITH ERCC4, AND MUTAGENESIS OF ASP-221; LEU-223; MET-224;
+RP   GLU-225; LEU-227 AND GLU-228.
+RX   PubMed=32034146; DOI=10.1038/s41467-020-14564-x;
+RA   Wang J., He H., Chen B., Jiang G., Cao L., Jiang H., Zhang G., Chen J.,
+RA   Huang J., Yang B., Zhou C., Liu T.;
+RT   "Acetylation of XPF by TIP60 facilitates XPF-ERCC1 complex assembly and
+RT   activation.";
+RL   Nat. Commun. 11:786-786(2020).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 96-227, X-RAY CRYSTALLOGRAPHY (2.7
+RP   ANGSTROMS) OF 96-220-296 IN COMPLEX WIRH ERCC4, AND SUBUNIT.
+RX   PubMed=16076955; DOI=10.1073/pnas.0504341102;
+RA   Tsodikov O.V., Enzlin J.H., Scharer O.D., Ellenberger T.;
+RT   "Crystal structure and DNA binding functions of ERCC1, a subunit of the DNA
+RT   structure-specific endonuclease XPF-ERCC1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:11236-11241(2005).
+RN   [18]
+RP   STRUCTURE BY NMR OF 220-297 IN COMPLEX WIRH ERCC4, AND SUBUNIT.
+RX   PubMed=16338413; DOI=10.1016/j.str.2005.08.014;
+RA   Tripsianes K., Folkers G., Ab E., Das D., Odijk H., Jaspers N.G.,
+RA   Hoeijmakers J.H., Kaptein R., Boelens R.;
+RT   "The structure of the human ERCC1/XPF interaction domains reveals a
+RT   complementary role for the two proteins in nucleotide excision repair.";
+RL   Structure 13:1849-1858(2005).
+RN   [19]
+RP   VARIANT COFS4 LEU-231, CHARACTERIZATION OF VARIANT COFS4 LEU-231, FUNCTION,
+RP   AND SUBUNIT.
+RX   PubMed=17273966; DOI=10.1086/512486;
+RA   Jaspers N.G.J., Raams A., Silengo M.C., Wijgers N., Niedernhofer L.J.,
+RA   Robinson A.R., Giglia-Mari G., Hoogstraten D., Kleijer W.J.,
+RA   Hoeijmakers J.H.J., Vermeulen W.;
+RT   "First reported patient with human ERCC1 deficiency has cerebro-oculo-
+RT   facio-skeletal syndrome with a mild defect in nucleotide excision repair
+RT   and severe developmental failure.";
+RL   Am. J. Hum. Genet. 80:457-466(2007).
+RN   [20]
+RP   VARIANT COFS4 LEU-231, CHARACTERIZATION OF VARIANT COFS4 LEU-231, FUNCTION,
+RP   AND INTERACTION WITH ERCC4.
+RX   PubMed=23623389; DOI=10.1016/j.ajhg.2013.04.007;
+RA   Kashiyama K., Nakazawa Y., Pilz D.T., Guo C., Shimada M., Sasaki K.,
+RA   Fawcett H., Wing J.F., Lewin S.O., Carr L., Li T.S., Yoshiura K., Utani A.,
+RA   Hirano A., Yamashita S., Greenblatt D., Nardo T., Stefanini M.,
+RA   McGibbon D., Sarkany R., Fassihi H., Takahashi Y., Nagayama Y.,
+RA   Mitsutake N., Lehmann A.R., Ogi T.;
+RT   "Malfunction of nuclease ERCC1-XPF results in diverse clinical
+RT   manifestations and causes Cockayne syndrome, xeroderma pigmentosum, and
+RT   Fanconi anemia.";
+RL   Am. J. Hum. Genet. 92:807-819(2013).
+CC   -!- FUNCTION: [Isoform 1]: Non-catalytic component of a structure-specific
+CC       DNA repair endonuclease responsible for the 5'-incision during DNA
+CC       repair. Responsible, in conjunction with SLX4, for the first step in
+CC       the repair of interstrand cross-links (ICL). Participates in the
+CC       processing of anaphase bridge-generating DNA structures, which consist
+CC       in incompletely processed DNA lesions arising during S or G2 phase, and
+CC       can result in cytokinesis failure. Also required for homology-directed
+CC       repair (HDR) of DNA double-strand breaks, in conjunction with SLX4.
+CC       {ECO:0000269|PubMed:17273966, ECO:0000269|PubMed:23623389,
+CC       ECO:0000269|PubMed:24036546}.
+CC   -!- FUNCTION: [Isoform 2]: Not functional in the nucleotide excision repair
+CC       pathway. {ECO:0000305|PubMed:24036546}.
+CC   -!- FUNCTION: [Isoform 3]: Not functional in the nucleotide excision repair
+CC       pathway. {ECO:0000305|PubMed:24036546}.
+CC   -!- FUNCTION: [Isoform 4]: Not functional in the nucleotide excision repair
+CC       pathway. {ECO:0000305|PubMed:24036546}.
+CC   -!- SUBUNIT: Heterodimer composed of ERCC1 isoform 1 and ERCC4/XPF
+CC       (PubMed:16076955, PubMed:16338413, PubMed:24036546, PubMed:25538220,
+CC       PubMed:32034146). Interacts with USP45 (PubMed:25538220).
+CC       {ECO:0000269|PubMed:16076955, ECO:0000269|PubMed:16338413,
+CC       ECO:0000269|PubMed:24036546, ECO:0000269|PubMed:25538220,
+CC       ECO:0000269|PubMed:32034146}.
+CC   -!- SUBUNIT: [Isoform 2]: Does not interact with ERCC4/XPF.
+CC       {ECO:0000269|PubMed:24036546}.
+CC   -!- SUBUNIT: [Isoform 3]: Does not interact with ERCC4/XPF.
+CC       {ECO:0000269|PubMed:24036546}.
+CC   -!- SUBUNIT: [Isoform 4]: Does not interact with ERCC4/XPF.
+CC       {ECO:0000269|PubMed:24036546}.
+CC   -!- INTERACTION:
+CC       P07992; P00533: EGFR; NbExp=21; IntAct=EBI-750962, EBI-297353;
+CC       P07992; Q92889: ERCC4; NbExp=13; IntAct=EBI-750962, EBI-2370770;
+CC       P07992; Q13064: MKRN3; NbExp=3; IntAct=EBI-750962, EBI-2340269;
+CC       P07992; Q6NSB6: MKRN3; NbExp=3; IntAct=EBI-750962, EBI-10195599;
+CC       P07992; Q8IY92: SLX4; NbExp=6; IntAct=EBI-750962, EBI-2370740;
+CC       P07992; Q96GJ1: TRMT2B; NbExp=3; IntAct=EBI-750962, EBI-10195625;
+CC       P07992; Q96S82: UBL7; NbExp=4; IntAct=EBI-750962, EBI-348604;
+CC       P07992; Q8N6Y0: USHBP1; NbExp=3; IntAct=EBI-750962, EBI-739895;
+CC       P07992; Q9H9H4: VPS37B; NbExp=4; IntAct=EBI-750962, EBI-4400866;
+CC       P07992; P23025: XPA; NbExp=7; IntAct=EBI-750962, EBI-295222;
+CC       P07992-3; O95995: GAS8; NbExp=3; IntAct=EBI-12699417, EBI-1052570;
+CC       P07992-3; Q96S82: UBL7; NbExp=3; IntAct=EBI-12699417, EBI-348604;
+CC       P07992-3; P23025: XPA; NbExp=3; IntAct=EBI-12699417, EBI-295222;
+CC   -!- SUBCELLULAR LOCATION: [Isoform 1]: Nucleus
+CC       {ECO:0000269|PubMed:24036546}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 2]: Cytoplasm
+CC       {ECO:0000269|PubMed:24036546}. Nucleus {ECO:0000269|PubMed:24036546}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 3]: Nucleus
+CC       {ECO:0000269|PubMed:24036546}.
+CC   -!- SUBCELLULAR LOCATION: [Isoform 4]: Nucleus
+CC       {ECO:0000269|PubMed:24036546}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=1; Synonyms=202;
+CC         IsoId=P07992-1; Sequence=Displayed;
+CC       Name=2; Synonyms=203;
+CC         IsoId=P07992-2; Sequence=VSP_042727;
+CC       Name=3; Synonyms=201;
+CC         IsoId=P07992-3; Sequence=VSP_043455;
+CC       Name=4; Synonyms=204;
+CC         IsoId=P07992-4; Sequence=VSP_053474;
+CC   -!- PTM: Ubiquitinated with both 'Lys-48' and 'Lys-63' linkages
+CC       (PubMed:25538220). Deubiquitinated by USP45 (PubMed:25538220).
+CC       {ECO:0000269|PubMed:25538220}.
+CC   -!- DISEASE: Cerebro-oculo-facio-skeletal syndrome 4 (COFS4) [MIM:610758]:
+CC       A disorder of prenatal onset characterized by microcephaly, congenital
+CC       cataracts, facial dysmorphism, neurogenic arthrogryposis, growth
+CC       failure and severe psychomotor retardation. COFS is considered to be
+CC       part of the nucleotide-excision repair disorders spectrum that include
+CC       also xeroderma pigmentosum, trichothiodystrophy and Cockayne syndrome.
+CC       {ECO:0000269|PubMed:17273966, ECO:0000269|PubMed:23623389}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- SIMILARITY: Belongs to the ERCC1/RAD10/SWI10 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/40481/ERCC1";
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/ercc1/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M13194; AAA52394.1; -; mRNA.
+DR   EMBL; M26163; AAA52395.1; -; Genomic_DNA.
+DR   EMBL; M28650; AAA35810.1; -; mRNA.
+DR   EMBL; AF001925; AAC16253.1; -; mRNA.
+DR   EMBL; AB069681; BAB62810.1; -; mRNA.
+DR   EMBL; BT019806; AAV38609.1; -; mRNA.
+DR   EMBL; AF512555; AAM34796.1; -; Genomic_DNA.
+DR   EMBL; AK092039; BAG52472.1; -; mRNA.
+DR   EMBL; AK314884; BAG37398.1; -; mRNA.
+DR   EMBL; AC092309; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC138128; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC138534; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC139353; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471126; EAW57349.1; -; Genomic_DNA.
+DR   EMBL; BC008930; AAH08930.1; -; mRNA.
+DR   EMBL; BC052813; AAH52813.1; -; mRNA.
+DR   CCDS; CCDS12662.1; -. [P07992-1]
+DR   CCDS; CCDS12663.1; -. [P07992-3]
+DR   CCDS; CCDS54279.1; -. [P07992-2]
+DR   PIR; A32875; A24781.
+DR   RefSeq; NP_001159521.1; NM_001166049.1. [P07992-2]
+DR   RefSeq; NP_001974.1; NM_001983.3. [P07992-1]
+DR   RefSeq; NP_973730.1; NM_202001.2. [P07992-3]
+DR   RefSeq; XP_005258691.1; XM_005258634.1.
+DR   RefSeq; XP_005258692.1; XM_005258635.2.
+DR   RefSeq; XP_005258693.1; XM_005258636.4.
+DR   RefSeq; XP_011524912.1; XM_011526610.2.
+DR   RefSeq; XP_016881948.1; XM_017026459.1.
+DR   RefSeq; XP_016881949.1; XM_017026460.1.
+DR   RefSeq; XP_016881950.1; XM_017026461.1.
+DR   RefSeq; XP_016881951.1; XM_017026462.1.
+DR   RefSeq; XP_016881952.1; XM_017026463.1.
+DR   RefSeq; XP_016881953.1; XM_017026464.1.
+DR   RefSeq; XP_016881954.1; XM_017026465.1.
+DR   RefSeq; XP_016881955.1; XM_017026466.1.
+DR   PDB; 1Z00; NMR; -; A=220-297.
+DR   PDB; 2A1I; X-ray; 1.90 A; A=96-227.
+DR   PDB; 2A1J; X-ray; 2.70 A; B=220-296.
+DR   PDB; 2JNW; NMR; -; A=96-214.
+DR   PDB; 2JPD; NMR; -; A=96-219.
+DR   PDB; 2MUT; NMR; -; A=220-297.
+DR   PDB; 6SXA; EM; 3.60 A; G=1-297.
+DR   PDB; 6SXB; EM; 7.90 A; G=1-297.
+DR   PDBsum; 1Z00; -.
+DR   PDBsum; 2A1I; -.
+DR   PDBsum; 2A1J; -.
+DR   PDBsum; 2JNW; -.
+DR   PDBsum; 2JPD; -.
+DR   PDBsum; 2MUT; -.
+DR   PDBsum; 6SXA; -.
+DR   PDBsum; 6SXB; -.
+DR   AlphaFoldDB; P07992; -.
+DR   BMRB; P07992; -.
+DR   SMR; P07992; -.
+DR   BioGRID; 108379; 57.
+DR   ComplexPortal; CPX-478; ERCC1-XPF endonuclease complex. [P07992-1]
+DR   CORUM; P07992; -.
+DR   DIP; DIP-24235N; -.
+DR   IntAct; P07992; 26.
+DR   MINT; P07992; -.
+DR   STRING; 9606.ENSP00000013807; -.
+DR   BindingDB; P07992; -.
+DR   ChEMBL; CHEMBL3883316; -.
+DR   iPTMnet; P07992; -.
+DR   PhosphoSitePlus; P07992; -.
+DR   BioMuta; ERCC1; -.
+DR   DMDM; 119538; -.
+DR   EPD; P07992; -.
+DR   jPOST; P07992; -.
+DR   MassIVE; P07992; -.
+DR   MaxQB; P07992; -.
+DR   PaxDb; P07992; -.
+DR   PeptideAtlas; P07992; -.
+DR   ProteomicsDB; 3611; -.
+DR   ProteomicsDB; 52055; -. [P07992-1]
+DR   ProteomicsDB; 52056; -. [P07992-2]
+DR   ProteomicsDB; 52057; -. [P07992-3]
+DR   Antibodypedia; 3826; 1468 antibodies from 44 providers.
+DR   DNASU; 2067; -.
+DR   Ensembl; ENST00000013807.9; ENSP00000013807.4; ENSG00000012061.16. [P07992-3]
+DR   Ensembl; ENST00000300853.8; ENSP00000300853.3; ENSG00000012061.16. [P07992-1]
+DR   Ensembl; ENST00000340192.11; ENSP00000345203.6; ENSG00000012061.16. [P07992-2]
+DR   Ensembl; ENST00000423698.6; ENSP00000394875.2; ENSG00000012061.16. [P07992-4]
+DR   Ensembl; ENST00000589165.5; ENSP00000468035.1; ENSG00000012061.16. [P07992-1]
+DR   GeneID; 2067; -.
+DR   KEGG; hsa:2067; -.
+DR   MANE-Select; ENST00000300853.8; ENSP00000300853.3; NM_001983.4; NP_001974.1.
+DR   UCSC; uc002pbs.3; human. [P07992-1]
+DR   AGR; HGNC:3433; -.
+DR   CTD; 2067; -.
+DR   DisGeNET; 2067; -.
+DR   GeneCards; ERCC1; -.
+DR   GeneReviews; ERCC1; -.
+DR   HGNC; HGNC:3433; ERCC1.
+DR   HPA; ENSG00000012061; Low tissue specificity.
+DR   MalaCards; ERCC1; -.
+DR   MIM; 126380; gene.
+DR   MIM; 610758; phenotype.
+DR   neXtProt; NX_P07992; -.
+DR   OpenTargets; ENSG00000012061; -.
+DR   Orphanet; 90322; Cockayne syndrome type 2.
+DR   Orphanet; 1466; COFS syndrome.
+DR   PharmGKB; PA155; -.
+DR   VEuPathDB; HostDB:ENSG00000012061; -.
+DR   eggNOG; KOG2841; Eukaryota.
+DR   GeneTree; ENSGT00390000011275; -.
+DR   InParanoid; P07992; -.
+DR   OMA; LNPDYIC; -.
+DR   OrthoDB; 12065at2759; -.
+DR   PhylomeDB; P07992; -.
+DR   TreeFam; TF101231; -.
+DR   PathwayCommons; P07992; -.
+DR   Reactome; R-HSA-5685938; HDR through Single Strand Annealing (SSA).
+DR   Reactome; R-HSA-5696395; Formation of Incision Complex in GG-NER.
+DR   Reactome; R-HSA-5696400; Dual Incision in GG-NER.
+DR   Reactome; R-HSA-6782135; Dual incision in TC-NER.
+DR   Reactome; R-HSA-6783310; Fanconi Anemia Pathway.
+DR   SignaLink; P07992; -.
+DR   SIGNOR; P07992; -.
+DR   BioGRID-ORCS; 2067; 103 hits in 1167 CRISPR screens.
+DR   ChiTaRS; ERCC1; human.
+DR   EvolutionaryTrace; P07992; -.
+DR   GeneWiki; ERCC1; -.
+DR   GenomeRNAi; 2067; -.
+DR   Pharos; P07992; Tbio.
+DR   PRO; PR:P07992; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; P07992; protein.
+DR   Bgee; ENSG00000012061; Expressed in apex of heart and 199 other tissues.
+DR   ExpressionAtlas; P07992; baseline and differential.
+DR   Genevisible; P07992; HS.
+DR   GO; GO:0000781; C:chromosome, telomeric region; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070522; C:ERCC4-ERCC1 complex; IDA:BHF-UCL.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0000109; C:nucleotide-excision repair complex; IDA:UniProtKB.
+DR   GO; GO:0000110; C:nucleotide-excision repair factor 1 complex; IDA:UniProtKB.
+DR   GO; GO:0003684; F:damaged DNA binding; IDA:UniProtKB.
+DR   GO; GO:1990841; F:promoter-specific chromatin binding; IEA:Ensembl.
+DR   GO; GO:0003697; F:single-stranded DNA binding; IDA:UniProtKB.
+DR   GO; GO:0001094; F:TFIID-class transcription factor complex binding; IEA:Ensembl.
+DR   GO; GO:0008283; P:cell population proliferation; IEA:Ensembl.
+DR   GO; GO:0008340; P:determination of adult lifespan; IEA:Ensembl.
+DR   GO; GO:0006281; P:DNA repair; IMP:MGI.
+DR   GO; GO:0006303; P:double-strand break repair via nonhomologous end joining; IMP:BHF-UCL.
+DR   GO; GO:0048568; P:embryonic organ development; IEA:Ensembl.
+DR   GO; GO:0048009; P:insulin-like growth factor receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0036297; P:interstrand cross-link repair; IEA:Ensembl.
+DR   GO; GO:0045190; P:isotype switching; IEA:Ensembl.
+DR   GO; GO:0008584; P:male gonad development; IEA:Ensembl.
+DR   GO; GO:0006312; P:mitotic recombination; IMP:UniProtKB.
+DR   GO; GO:0035264; P:multicellular organism growth; IEA:Ensembl.
+DR   GO; GO:1905765; P:negative regulation of protection from non-homologous end joining at telomere; IMP:BHF-UCL.
+DR   GO; GO:0032205; P:negative regulation of telomere maintenance; IMP:UniProtKB.
+DR   GO; GO:0006289; P:nucleotide-excision repair; IDA:ComplexPortal.
+DR   GO; GO:0048477; P:oogenesis; IEA:Ensembl.
+DR   GO; GO:1904431; P:positive regulation of t-circle formation; ISS:BHF-UCL.
+DR   GO; GO:0060261; P:positive regulation of transcription initiation by RNA polymerase II; IEA:Ensembl.
+DR   GO; GO:0035166; P:post-embryonic hemopoiesis; IEA:Ensembl.
+DR   GO; GO:0000720; P:pyrimidine dimer repair by nucleotide-excision repair; IEA:Ensembl.
+DR   GO; GO:0090399; P:replicative senescence; IEA:Ensembl.
+DR   GO; GO:0046686; P:response to cadmium ion; IEA:Ensembl.
+DR   GO; GO:0035902; P:response to immobilization stress; IEA:Ensembl.
+DR   GO; GO:0007584; P:response to nutrient; IEA:Ensembl.
+DR   GO; GO:0006979; P:response to oxidative stress; IMP:UniProtKB.
+DR   GO; GO:0009744; P:response to sucrose; IEA:Ensembl.
+DR   GO; GO:0010165; P:response to X-ray; IEA:Ensembl.
+DR   GO; GO:0007283; P:spermatogenesis; IEA:Ensembl.
+DR   GO; GO:0006949; P:syncytium formation; IEA:Ensembl.
+DR   GO; GO:0090656; P:t-circle formation; ISS:BHF-UCL.
+DR   GO; GO:0061819; P:telomeric DNA-containing double minutes formation; IMP:BHF-UCL.
+DR   GO; GO:0009650; P:UV protection; IEA:Ensembl.
+DR   GO; GO:0070914; P:UV-damage excision repair; IBA:GO_Central.
+DR   CDD; cd22325; ERCC1_C-like; 1.
+DR   Gene3D; 3.40.50.10130; -; 1.
+DR   Gene3D; 1.10.150.20; 5' to 3' exonuclease, C-terminal subdomain; 1.
+DR   IDEAL; IID00364; -.
+DR   InterPro; IPR047260; ERCC1-like_central_dom.
+DR   InterPro; IPR004579; ERCC1/RAD10/SWI10.
+DR   InterPro; IPR011335; Restrct_endonuc-II-like.
+DR   InterPro; IPR010994; RuvA_2-like.
+DR   PANTHER; PTHR12749:SF0; DNA EXCISION REPAIR PROTEIN ERCC-1; 1.
+DR   PANTHER; PTHR12749; EXCISION REPAIR CROSS-COMPLEMENTING 1 ERCC1; 1.
+DR   Pfam; PF14520; HHH_5; 1.
+DR   Pfam; PF03834; Rad10; 1.
+DR   SUPFAM; SSF52980; Restriction endonuclease-like; 1.
+DR   SUPFAM; SSF47781; RuvA domain 2-like; 1.
+DR   TIGRFAMs; TIGR00597; rad10; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Cataract; Cytoplasm;
+KW   DNA damage; DNA repair; DNA-binding; Isopeptide bond; Nucleus;
+KW   Reference proteome; Ubl conjugation.
+FT   CHAIN           1..297
+FT                   /note="DNA excision repair protein ERCC-1"
+FT                   /id="PRO_0000087006"
+FT   DNA_BIND        134..156
+FT                   /evidence="ECO:0000255"
+FT   REGION          1..39
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          220..297
+FT                   /note="HhH2, dimerization with ERCC4/XPF"
+FT                   /evidence="ECO:0000269|PubMed:16338413"
+FT   MOTIF           17..23
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         1
+FT                   /note="N-acetylmethionine"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   CROSSLNK        21
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        37
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        243
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         36..107
+FT                   /note="Missing (in isoform 4)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_053474"
+FT   VAR_SEQ         235..258
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|Ref.4"
+FT                   /id="VSP_042727"
+FT   VAR_SEQ         282..297
+FT                   /note="ARRLFDVLHEPFLKVP -> VRALGKNPRSWGKERAPNKHNLRPQSFKVKKE
+FT                   PKTRHSGFRL (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_043455"
+FT   VARIANT         231
+FT                   /note="F -> L (in COFS4; does not alter interaction with
+FT                   ERCC4/XPF; dbSNP:rs121913028)"
+FT                   /evidence="ECO:0000269|PubMed:17273966,
+FT                   ECO:0000269|PubMed:23623389"
+FT                   /id="VAR_032776"
+FT   VARIANT         266
+FT                   /note="A -> T (in dbSNP:rs3212977)"
+FT                   /evidence="ECO:0000269|Ref.5"
+FT                   /id="VAR_019167"
+FT   MUTAGEN         221
+FT                   /note="D->A: Impaired interaction with ERCC4."
+FT                   /evidence="ECO:0000269|PubMed:32034146"
+FT   MUTAGEN         223
+FT                   /note="L->A: Impaired interaction with ERCC4."
+FT                   /evidence="ECO:0000269|PubMed:32034146"
+FT   MUTAGEN         224
+FT                   /note="M->A: Impaired interaction with ERCC4."
+FT                   /evidence="ECO:0000269|PubMed:32034146"
+FT   MUTAGEN         225
+FT                   /note="E->A: Impaired interaction with ERCC4."
+FT                   /evidence="ECO:0000269|PubMed:32034146"
+FT   MUTAGEN         227
+FT                   /note="L->A: Impaired interaction with ERCC4."
+FT                   /evidence="ECO:0000269|PubMed:32034146"
+FT   MUTAGEN         228
+FT                   /note="E->A: Impaired interaction with ERCC4."
+FT                   /evidence="ECO:0000269|PubMed:32034146"
+FT   CONFLICT        53
+FT                   /note="A -> P (in Ref. 6; BAG37398)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          101..103
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   HELIX           105..107
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   HELIX           111..115
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   STRAND          121..123
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   STRAND          127..133
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   STRAND          136..142
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   HELIX           143..148
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   HELIX           152..160
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   STRAND          163..172
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   STRAND          175..177
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   HELIX           179..192
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   STRAND          195..201
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   HELIX           202..213
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   HELIX           222..226
+FT                   /evidence="ECO:0007829|PDB:2A1I"
+FT   STRAND          242..244
+FT                   /evidence="ECO:0007829|PDB:1Z00"
+FT   HELIX           247..257
+FT                   /evidence="ECO:0007829|PDB:2A1J"
+FT   HELIX           260..264
+FT                   /evidence="ECO:0007829|PDB:2A1J"
+FT   HELIX           268..272
+FT                   /evidence="ECO:0007829|PDB:2A1J"
+FT   STRAND          274..276
+FT                   /evidence="ECO:0007829|PDB:2A1J"
+FT   HELIX           280..290
+FT                   /evidence="ECO:0007829|PDB:2A1J"
+FT   STRAND          293..295
+FT                   /evidence="ECO:0007829|PDB:1Z00"
+SQ   SEQUENCE   297 AA;  32562 MW;  6FCE3615732349E5 CRC64;
+     MDPGKDKEGV PQPSGPPARK KFVIPLDEDE VPPGVAKPLF RSTQSLPTVD TSAQAAPQTY
+     AEYAISQPLE GAGATCPTGS EPLAGETPNQ ALKPGAKSNS IIVSPRQRGN PVLKFVRNVP
+     WEFGDVIPDY VLGQSTCALF LSLRYHNLHP DYIHGRLQSL GKNFALRVLL VQVDVKDPQQ
+     ALKELAKMCI LADCTLILAW SPEEAGRYLE TYKAYEQKPA DLLMEKLEQD FVSRVTECLT
+     TVKSVNKTDS QTLLTTFGSL EQLIAASRED LALCPGLGPQ KARRLFDVLH EPFLKVP
+//

@@ -1,0 +1,853 @@
+ID   AOC3_HUMAN              Reviewed;         763 AA.
+AC   Q16853; B2RCI5; K7ESB3; L0L8N9; Q45F94;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   28-JUN-2023, entry version 212.
+DE   RecName: Full=Membrane primary amine oxidase;
+DE            EC=1.4.3.21 {ECO:0000269|PubMed:19588076};
+DE   AltName: Full=Copper amine oxidase;
+DE   AltName: Full=HPAO;
+DE   AltName: Full=Semicarbazide-sensitive amine oxidase;
+DE            Short=SSAO;
+DE   AltName: Full=Vascular adhesion protein 1;
+DE            Short=VAP-1;
+GN   Name=AOC3; Synonyms=VAP1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Placenta;
+RX   PubMed=8972912; DOI=10.1016/s0378-1119(96)00387-3;
+RA   Zhang X., McIntire W.S.;
+RT   "Cloning and sequencing of a copper-containing, topaquinone-containing
+RT   monoamine oxidase from human placenta.";
+RL   Gene 179:279-286(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), PARTIAL PROTEIN SEQUENCE, FUNCTION,
+RP   SELF-ASSOCIATION, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RC   TISSUE=Lung;
+RX   PubMed=9653080; DOI=10.1084/jem.188.1.17;
+RA   Smith D.J., Salmi M., Bono P., Hellman J., Leu T., Jalkanen S.;
+RT   "Cloning of vascular adhesion protein 1 reveals a novel multifunctional
+RT   adhesion molecule.";
+RL   J. Exp. Med. 188:17-27(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=14585497; DOI=10.1016/s0378-1119(03)00753-4;
+RA   Zhang Q., Mashima Y., Noda S., Imamura Y., Kudoh J., Shimizu N.,
+RA   Nishiyama T., Umeda S., Oguchi Y., Tanaka Y., Iwata T.;
+RT   "Characterization of AOC2 gene encoding a copper-binding amine oxidase
+RT   expressed specifically in retina.";
+RL   Gene 318:45-53(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), FUNCTION, SUBUNIT, ALTERNATIVE
+RP   SPLICING, AND TISSUE SPECIFICITY.
+RX   PubMed=23349812; DOI=10.1371/journal.pone.0054151;
+RA   Kaitaniemi S., Gron K., Elovaara H., Salmi M., Jalkanen S., Elima K.;
+RT   "Functional modulation of vascular adhesion protein-1 by a novel splice
+RT   variant.";
+RL   PLoS ONE 8:E54151-E54151(2013).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 3).
+RC   TISSUE=Placenta;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS ARG-5; TYR-167; THR-371;
+RP   SER-408; HIS-426; TRP-441; THR-582; SER-700 AND VAL-749.
+RG   NIEHS SNPs program;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=PNS;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 79-90 AND 123-132.
+RC   TISSUE=Adipocyte;
+RX   PubMed=15242332; DOI=10.1042/bj20040647;
+RA   Aboulaich N., Vainonen J.P., Stralfors P., Vener A.V.;
+RT   "Vectorial proteomics reveal targeting, phosphorylation and specific
+RT   fragmentation of polymerase I and transcript release factor (PTRF) at the
+RT   surface of caveolae in human adipocytes.";
+RL   Biochem. J. 383:237-248(2004).
+RN   [10]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-592; ASN-618 AND ASN-666.
+RC   TISSUE=Plasma;
+RX   PubMed=16335952; DOI=10.1021/pr0502065;
+RA   Liu T., Qian W.-J., Gritsenko M.A., Camp D.G. II, Monroe M.E., Moore R.J.,
+RA   Smith R.D.;
+RT   "Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+RT   hydrazide chemistry, and mass spectrometry.";
+RL   J. Proteome Res. 4:2070-2080(2005).
+RN   [11]
+RP   FUNCTION, TISSUE SPECIFICITY, AND INDUCTION.
+RX   PubMed=17400359; DOI=10.1016/j.biochi.2007.02.013;
+RA   Bour S., Daviaud D., Gres S., Lefort C., Prevot D., Zorzano A.,
+RA   Wabitsch M., Saulnier-Blache J.-S., Valet P., Carpene C.;
+RT   "Adipogenesis-related increase of semicarbazide-sensitive amine oxidase and
+RT   monoamine oxidase in human adipocytes.";
+RL   Biochimie 89:916-925(2007).
+RN   [12]
+RP   FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, SUBUNIT, MUTAGENESIS OF MET-211;
+RP   TYR-394 AND LEU-469, AND CATALYTIC ACTIVITY.
+RX   PubMed=19588076; DOI=10.1007/s00018-009-0076-5;
+RA   Kaitaniemi S., Elovaara H., Groen K., Kidron H., Liukkonen J., Salminen T.,
+RA   Salmi M., Jalkanen S., Elima K.;
+RT   "The unique substrate specificity of human AOC2, a semicarbazide-sensitive
+RT   amine oxidase.";
+RL   Cell. Mol. Life Sci. 66:2743-2757(2009).
+RN   [13]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-137; ASN-294; ASN-592; ASN-618
+RP   AND ASN-666.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [14]
+RP   GLYCOSYLATION AT ASN-592.
+RX   PubMed=19139490; DOI=10.1074/mcp.m800504-mcp200;
+RA   Jia W., Lu Z., Fu Y., Wang H.P., Wang L.H., Chi H., Yuan Z.F., Zheng Z.B.,
+RA   Song L.N., Han H.H., Liang Y.M., Wang J.L., Cai Y., Zhang Y.K., Deng Y.L.,
+RA   Ying W.T., He S.M., Qian X.H.;
+RT   "A strategy for precise and large scale identification of core fucosylated
+RT   glycoproteins.";
+RL   Mol. Cell. Proteomics 8:913-923(2009).
+RN   [15] {ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1}
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) IN COMPLEX WITH CALCIUM; COPPER AND
+RP   SUBSTRATE, DISULFIDE BONDS, TOPAQUINONE AT TYR-471, AND GLYCOSYLATION AT
+RP   ASN-137; THR-212; ASN-232; ASN-294; ASN-592; ASN-618 AND ASN-666.
+RX   PubMed=16046623; DOI=10.1110/ps.051438105;
+RA   Airenne T.T., Nymalm Y., Kidron H., Smith D.J., Pihlavisto M., Salmi M.,
+RA   Jalkanen S., Johnson M.S., Salminen T.A.;
+RT   "Crystal structure of the human vascular adhesion protein-1: unique
+RT   structural features with functional implications.";
+RL   Protein Sci. 14:1964-1974(2005).
+CC   -!- FUNCTION: Cell adhesion protein that participates in lymphocyte
+CC       extravasation and recirculation by mediating the binding of lymphocytes
+CC       to peripheral lymph node vascular endothelial cells in an L-selectin-
+CC       independent fashion. Has semicarbazide-sensitive (SSAO) monoamine
+CC       oxidase activity. May play a role in adipogenesis.
+CC       {ECO:0000269|PubMed:17400359, ECO:0000269|PubMed:19588076,
+CC       ECO:0000269|PubMed:23349812, ECO:0000269|PubMed:9653080}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=an aliphatic amine + H2O + O2 = an aldehyde + H2O2 + NH4(+);
+CC         Xref=Rhea:RHEA:16153, ChEBI:CHEBI:15377, ChEBI:CHEBI:15379,
+CC         ChEBI:CHEBI:16240, ChEBI:CHEBI:17478, ChEBI:CHEBI:28938,
+CC         ChEBI:CHEBI:58001; EC=1.4.3.21;
+CC         Evidence={ECO:0000269|PubMed:19588076};
+CC   -!- COFACTOR:
+CC       Name=Cu cation; Xref=ChEBI:CHEBI:23378;
+CC         Evidence={ECO:0000269|PubMed:16046623};
+CC       Note=Binds 1 copper ion per subunit. {ECO:0000269|PubMed:16046623};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108;
+CC         Evidence={ECO:0000269|PubMed:16046623};
+CC       Note=Binds 2 calcium ions per subunit. {ECO:0000269|PubMed:16046623};
+CC   -!- COFACTOR:
+CC       Name=L-topaquinone; Xref=ChEBI:CHEBI:79027;
+CC         Evidence={ECO:0000269|PubMed:16046623};
+CC       Note=Contains 1 topaquinone per subunit. {ECO:0000269|PubMed:16046623};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.94 mM for 2-phenylethylamine {ECO:0000269|PubMed:19588076};
+CC         KM=0.67 mM for methylamine {ECO:0000269|PubMed:19588076};
+CC   -!- SUBUNIT: Homodimer; disulfide-linked. Can heterodimerize with isoform 2
+CC       leading to reduced surface expression. Forms a heterodimer with AOC2.
+CC       {ECO:0000269|PubMed:16046623, ECO:0000269|PubMed:19588076,
+CC       ECO:0000269|PubMed:23349812}.
+CC   -!- INTERACTION:
+CC       Q16853; Q3SXY8: ARL13B; NbExp=3; IntAct=EBI-3921628, EBI-11343438;
+CC       Q16853; O95484: CLDN9; NbExp=3; IntAct=EBI-3921628, EBI-18341636;
+CC       Q16853; Q7Z7G2: CPLX4; NbExp=3; IntAct=EBI-3921628, EBI-18013275;
+CC       Q16853; Q96BA8: CREB3L1; NbExp=3; IntAct=EBI-3921628, EBI-6942903;
+CC       Q16853; Q6PI48: DARS2; NbExp=3; IntAct=EBI-3921628, EBI-3917045;
+CC       Q16853; Q8TBE3: FNDC9; NbExp=3; IntAct=EBI-3921628, EBI-12142257;
+CC       Q16853; Q7Z5P4: HSD17B13; NbExp=3; IntAct=EBI-3921628, EBI-18053395;
+CC       Q16853; P42858: HTT; NbExp=3; IntAct=EBI-3921628, EBI-466029;
+CC       Q16853; O43765: SGTA; NbExp=3; IntAct=EBI-3921628, EBI-347996;
+CC       Q16853; Q16623: STX1A; NbExp=3; IntAct=EBI-3921628, EBI-712466;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:9653080};
+CC       Single-pass type II membrane protein {ECO:0000269|PubMed:9653080}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q16853-1; Sequence=Displayed;
+CC       Name=2; Synonyms=VAP-1Delta3;
+CC         IsoId=Q16853-2; Sequence=VSP_053751, VSP_053752;
+CC       Name=3;
+CC         IsoId=Q16853-3; Sequence=VSP_055201;
+CC   -!- TISSUE SPECIFICITY: Strongly expressed on the high endothelial venules
+CC       of peripheral lymph nodes and on hepatic endothelia. Also highly
+CC       expressed in appendix, lung and small intestine. Expressed also in
+CC       adipose tissue, in bone marrow, colon, heart, kidney, ovary, pancreas,
+CC       placenta, prostate, skeletal muscle, spleen and testis. Isoform 2 seems
+CC       to be the predominant transcript in fetal kidneys, fetal cartilage and
+CC       fetal tonsils. The highest relative expression of isoform 2 occurs in
+CC       skeletal muscle, heart, pancreas, kidney, and lung.
+CC       {ECO:0000269|PubMed:17400359, ECO:0000269|PubMed:23349812,
+CC       ECO:0000269|PubMed:9653080}.
+CC   -!- INDUCTION: Up-regulated during in vitro adipocyte differentiation.
+CC       {ECO:0000269|PubMed:17400359}.
+CC   -!- PTM: Topaquinone (TPQ) is generated by copper-dependent autoxidation of
+CC       a specific tyrosyl residue. {ECO:0000269|PubMed:16046623}.
+CC   -!- PTM: N- and O-glycosylated. {ECO:0000269|PubMed:16046623,
+CC       ECO:0000269|PubMed:16335952, ECO:0000269|PubMed:19139490,
+CC       ECO:0000269|PubMed:19159218}.
+CC   -!- MISCELLANEOUS: [Isoform 2]: Devoid of the semicarbazide-sensitive amine
+CC       oxidase (SSAO) activity. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the copper/topaquinone oxidase family.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/aoc3/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U39447; AAC50919.1; -; mRNA.
+DR   EMBL; AF067406; AAC25170.1; -; mRNA.
+DR   EMBL; AB050502; BAB18866.1; -; Genomic_DNA.
+DR   EMBL; JX020506; AGB67480.1; -; mRNA.
+DR   EMBL; AK025727; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; AK315129; BAG37582.1; -; mRNA.
+DR   EMBL; DQ143944; AAZ38716.1; -; Genomic_DNA.
+DR   EMBL; AC016889; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC050549; AAH50549.1; -; mRNA.
+DR   CCDS; CCDS11444.1; -. [Q16853-1]
+DR   CCDS; CCDS62198.1; -. [Q16853-3]
+DR   CCDS; CCDS74071.1; -. [Q16853-2]
+DR   PIR; JC5234; JC5234.
+DR   RefSeq; NP_001264660.1; NM_001277731.1. [Q16853-2]
+DR   RefSeq; NP_001264661.1; NM_001277732.1. [Q16853-3]
+DR   RefSeq; NP_003725.1; NM_003734.3. [Q16853-1]
+DR   PDB; 1PU4; X-ray; 3.20 A; A/B=1-763.
+DR   PDB; 1US1; X-ray; 2.90 A; A/B=1-763.
+DR   PDB; 2C10; X-ray; 2.50 A; A/B/C/D=29-763.
+DR   PDB; 2C11; X-ray; 2.90 A; A/B/C/D=29-763.
+DR   PDB; 2Y73; X-ray; 2.60 A; A/B=1-763.
+DR   PDB; 2Y74; X-ray; 2.95 A; A/B=1-763.
+DR   PDB; 3ALA; X-ray; 2.90 A; A/B/C/D/E/F/G=33-763.
+DR   PDB; 4BTW; X-ray; 2.80 A; A/B=27-763.
+DR   PDB; 4BTX; X-ray; 2.78 A; A/B=27-763.
+DR   PDB; 4BTY; X-ray; 3.10 A; A/B=27-763.
+DR   PDBsum; 1PU4; -.
+DR   PDBsum; 1US1; -.
+DR   PDBsum; 2C10; -.
+DR   PDBsum; 2C11; -.
+DR   PDBsum; 2Y73; -.
+DR   PDBsum; 2Y74; -.
+DR   PDBsum; 3ALA; -.
+DR   PDBsum; 4BTW; -.
+DR   PDBsum; 4BTX; -.
+DR   PDBsum; 4BTY; -.
+DR   AlphaFoldDB; Q16853; -.
+DR   SMR; Q16853; -.
+DR   BioGRID; 114192; 58.
+DR   IntAct; Q16853; 19.
+DR   STRING; 9606.ENSP00000312326; -.
+DR   BindingDB; Q16853; -.
+DR   ChEMBL; CHEMBL3437; -.
+DR   DrugBank; DB04334; 6-hydroxydopa quinone.
+DR   DrugBank; DB01275; Hydralazine.
+DR   DrugBank; DB00780; Phenelzine.
+DR   DrugCentral; Q16853; -.
+DR   GuidetoPHARMACOLOGY; 2767; -.
+DR   GlyConnect; 1502; 9 N-Linked glycans (4 sites).
+DR   GlyCosmos; Q16853; 8 sites, 9 glycans.
+DR   GlyGen; Q16853; 8 sites, 8 N-linked glycans (3 sites), 1 O-linked glycan (1 site).
+DR   iPTMnet; Q16853; -.
+DR   PhosphoSitePlus; Q16853; -.
+DR   BioMuta; AOC3; -.
+DR   DMDM; 2501336; -.
+DR   jPOST; Q16853; -.
+DR   MassIVE; Q16853; -.
+DR   PaxDb; Q16853; -.
+DR   PeptideAtlas; Q16853; -.
+DR   ProteomicsDB; 61105; -. [Q16853-1]
+DR   ABCD; Q16853; 8 sequenced antibodies.
+DR   Antibodypedia; 611; 490 antibodies from 39 providers.
+DR   DNASU; 8639; -.
+DR   Ensembl; ENST00000308423.7; ENSP00000312326.1; ENSG00000131471.7. [Q16853-1]
+DR   Ensembl; ENST00000591562.1; ENSP00000468632.1; ENSG00000131471.7. [Q16853-3]
+DR   Ensembl; ENST00000613571.1; ENSP00000484312.1; ENSG00000131471.7. [Q16853-2]
+DR   Ensembl; ENST00000617500.4; ENSP00000477686.1; ENSG00000131471.7. [Q16853-3]
+DR   GeneID; 8639; -.
+DR   KEGG; hsa:8639; -.
+DR   MANE-Select; ENST00000308423.7; ENSP00000312326.1; NM_003734.4; NP_003725.1.
+DR   UCSC; uc002ibv.6; human. [Q16853-1]
+DR   AGR; HGNC:550; -.
+DR   CTD; 8639; -.
+DR   DisGeNET; 8639; -.
+DR   GeneCards; AOC3; -.
+DR   HGNC; HGNC:550; AOC3.
+DR   HPA; ENSG00000131471; Tissue enhanced (adipose).
+DR   MIM; 603735; gene.
+DR   neXtProt; NX_Q16853; -.
+DR   OpenTargets; ENSG00000131471; -.
+DR   PharmGKB; PA24840; -.
+DR   VEuPathDB; HostDB:ENSG00000131471; -.
+DR   eggNOG; KOG1186; Eukaryota.
+DR   GeneTree; ENSGT00950000183207; -.
+DR   HOGENOM; CLU_015739_1_0_1; -.
+DR   InParanoid; Q16853; -.
+DR   OMA; CMFEIDK; -.
+DR   OrthoDB; 5490352at2759; -.
+DR   PhylomeDB; Q16853; -.
+DR   TreeFam; TF314750; -.
+DR   BRENDA; 1.4.3.21; 2681.
+DR   PathwayCommons; Q16853; -.
+DR   Reactome; R-HSA-211945; Phase I - Functionalization of compounds.
+DR   SABIO-RK; Q16853; -.
+DR   SignaLink; Q16853; -.
+DR   BioGRID-ORCS; 8639; 11 hits in 1147 CRISPR screens.
+DR   ChiTaRS; AOC3; human.
+DR   EvolutionaryTrace; Q16853; -.
+DR   GeneWiki; AOC3; -.
+DR   GenomeRNAi; 8639; -.
+DR   Pharos; Q16853; Tchem.
+DR   PRO; PR:Q16853; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q16853; protein.
+DR   Bgee; ENSG00000131471; Expressed in blood vessel layer and 176 other tissues.
+DR   ExpressionAtlas; Q16853; baseline and differential.
+DR   Genevisible; Q16853; HS.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005769; C:early endosome; IDA:CACAO.
+DR   GO; GO:0005783; C:endoplasmic reticulum; IDA:CACAO.
+DR   GO; GO:0005794; C:Golgi apparatus; IDA:CACAO.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0005902; C:microvillus; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0005507; F:copper ion binding; IDA:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:UniProtKB.
+DR   GO; GO:0008131; F:primary amine oxidase activity; IDA:UniProtKB.
+DR   GO; GO:0046982; F:protein heterodimerization activity; IPI:UniProtKB.
+DR   GO; GO:0048038; F:quinone binding; IDA:UniProtKB.
+DR   GO; GO:0052593; F:tryptamine:oxygen oxidoreductase (deaminating) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009308; P:amine metabolic process; IDA:UniProtKB.
+DR   GO; GO:0007155; P:cell adhesion; IDA:UniProtKB.
+DR   GO; GO:0006954; P:inflammatory response; TAS:UniProtKB.
+DR   GO; GO:1902283; P:negative regulation of primary amine oxidase activity; IDA:UniProtKB.
+DR   GO; GO:0046677; P:response to antibiotic; IDA:UniProtKB.
+DR   Gene3D; 3.10.450.40; -; 2.
+DR   Gene3D; 2.70.98.20; Copper amine oxidase, catalytic domain; 1.
+DR   InterPro; IPR000269; Cu_amine_oxidase.
+DR   InterPro; IPR015798; Cu_amine_oxidase_C.
+DR   InterPro; IPR036460; Cu_amine_oxidase_C_sf.
+DR   InterPro; IPR016182; Cu_amine_oxidase_N-reg.
+DR   InterPro; IPR015800; Cu_amine_oxidase_N2.
+DR   InterPro; IPR015802; Cu_amine_oxidase_N3.
+DR   PANTHER; PTHR10638; COPPER AMINE OXIDASE; 1.
+DR   PANTHER; PTHR10638:SF85; MEMBRANE PRIMARY AMINE OXIDASE; 1.
+DR   Pfam; PF01179; Cu_amine_oxid; 1.
+DR   Pfam; PF02727; Cu_amine_oxidN2; 1.
+DR   Pfam; PF02728; Cu_amine_oxidN3; 1.
+DR   PRINTS; PR00766; CUDAOXIDASE.
+DR   SUPFAM; SSF49998; Amine oxidase catalytic domain; 1.
+DR   SUPFAM; SSF54416; Amine oxidase N-terminal region; 2.
+DR   PROSITE; PS01164; COPPER_AMINE_OXID_1; 1.
+DR   PROSITE; PS01165; COPPER_AMINE_OXID_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Calcium; Cell adhesion; Cell membrane;
+KW   Copper; Direct protein sequencing; Disulfide bond; Glycoprotein; Membrane;
+KW   Metal-binding; Oxidoreductase; Reference proteome; Signal-anchor; TPQ;
+KW   Transmembrane; Transmembrane helix.
+FT   CHAIN           1..763
+FT                   /note="Membrane primary amine oxidase"
+FT                   /id="PRO_0000064102"
+FT   TOPO_DOM        1..5
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        6..26
+FT                   /note="Helical; Signal-anchor for type II membrane protein"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        27..763
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   ACT_SITE        386
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000250|UniProtKB:P19801"
+FT   ACT_SITE        471
+FT                   /note="Schiff-base intermediate with substrate; via
+FT                   topaquinone"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2Y73"
+FT   BINDING         384..394
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0007744|PDB:4BTY"
+FT   BINDING         468..473
+FT                   /ligand="substrate"
+FT                   /evidence="ECO:0000250|UniProtKB:P19801"
+FT   BINDING         520
+FT                   /ligand="Cu cation"
+FT                   /ligand_id="ChEBI:CHEBI:23378"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         522
+FT                   /ligand="Cu cation"
+FT                   /ligand_id="ChEBI:CHEBI:23378"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         529
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         530
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         531
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         572
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         638
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C11"
+FT   BINDING         641
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007744|PDB:4BTW"
+FT   BINDING         663
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         665
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         667
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         673
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         674
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   BINDING         684
+FT                   /ligand="Cu cation"
+FT                   /ligand_id="ChEBI:CHEBI:23378"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   MOD_RES         471
+FT                   /note="2',4',5'-topaquinone"
+FT                   /evidence="ECO:0007744|PDB:1PU4"
+FT   CARBOHYD        137
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0000269|PubMed:19159218, ECO:0007744|PDB:1PU4,
+FT                   ECO:0007744|PDB:1US1, ECO:0007744|PDB:2C10,
+FT                   ECO:0007744|PDB:2C11, ECO:0007744|PDB:2Y73,
+FT                   ECO:0007744|PDB:2Y74, ECO:0007744|PDB:3ALA,
+FT                   ECO:0007744|PDB:4BTW, ECO:0007744|PDB:4BTX,
+FT                   ECO:0007744|PDB:4BTY"
+FT   CARBOHYD        212
+FT                   /note="O-linked (GalNAc...) threonine"
+FT                   /evidence="ECO:0000305|PubMed:16046623"
+FT   CARBOHYD        232
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0007744|PDB:1PU4, ECO:0007744|PDB:1US1,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:3ALA, ECO:0007744|PDB:4BTW,
+FT                   ECO:0007744|PDB:4BTX, ECO:0007744|PDB:4BTY"
+FT   CARBOHYD        294
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0000269|PubMed:19159218, ECO:0007744|PDB:2C10,
+FT                   ECO:0007744|PDB:2C11, ECO:0007744|PDB:4BTY"
+FT   CARBOHYD        592
+FT                   /note="N-linked (GlcNAc...) (complex) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0000269|PubMed:16335952, ECO:0000269|PubMed:19139490,
+FT                   ECO:0000269|PubMed:19159218, ECO:0007744|PDB:2C10,
+FT                   ECO:0007744|PDB:2C11, ECO:0007744|PDB:2Y73,
+FT                   ECO:0007744|PDB:2Y74, ECO:0007744|PDB:3ALA,
+FT                   ECO:0007744|PDB:4BTW, ECO:0007744|PDB:4BTX,
+FT                   ECO:0007744|PDB:4BTY"
+FT   CARBOHYD        618
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0000269|PubMed:16335952, ECO:0000269|PubMed:19159218,
+FT                   ECO:0007744|PDB:4BTW, ECO:0007744|PDB:4BTX"
+FT   CARBOHYD        666
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16046623,
+FT                   ECO:0000269|PubMed:16335952, ECO:0000269|PubMed:19159218,
+FT                   ECO:0007744|PDB:2C10, ECO:0007744|PDB:2C11,
+FT                   ECO:0007744|PDB:2Y73, ECO:0007744|PDB:2Y74,
+FT                   ECO:0007744|PDB:4BTW, ECO:0007744|PDB:4BTX,
+FT                   ECO:0007744|PDB:4BTY"
+FT   DISULFID        198..199
+FT                   /evidence="ECO:0000269|PubMed:16046623"
+FT   DISULFID        404..430
+FT                   /evidence="ECO:0000250|UniProtKB:P19801"
+FT   DISULFID        734..741
+FT                   /evidence="ECO:0000269|PubMed:16046623"
+FT   DISULFID        748
+FT                   /note="Interchain"
+FT                   /evidence="ECO:0000269|PubMed:16046623"
+FT   VAR_SEQ         1..543
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_055201"
+FT   VAR_SEQ         630..634
+FT                   /note="YQLAV -> IWWPG (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:23349812"
+FT                   /id="VSP_053751"
+FT   VAR_SEQ         635..763
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:23349812"
+FT                   /id="VSP_053752"
+FT   VARIANT         5
+FT                   /note="T -> R (in dbSNP:rs33954211)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025035"
+FT   VARIANT         78
+FT                   /note="R -> Q (in dbSNP:rs402680)"
+FT                   /id="VAR_052603"
+FT   VARIANT         167
+FT                   /note="H -> Y (in dbSNP:rs2228470)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025027"
+FT   VARIANT         171
+FT                   /note="V -> M (in dbSNP:rs408038)"
+FT                   /id="VAR_052604"
+FT   VARIANT         203
+FT                   /note="H -> R (in dbSNP:rs630079)"
+FT                   /id="VAR_052605"
+FT   VARIANT         317
+FT                   /note="Y -> H (in dbSNP:rs438287)"
+FT                   /id="VAR_012064"
+FT   VARIANT         329
+FT                   /note="R -> Q (in dbSNP:rs2229595)"
+FT                   /id="VAR_024343"
+FT   VARIANT         371
+FT                   /note="I -> T (in dbSNP:rs35097308)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025028"
+FT   VARIANT         408
+FT                   /note="A -> S (in dbSNP:rs35643019)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025029"
+FT   VARIANT         426
+FT                   /note="R -> H (in dbSNP:rs33986943)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025030"
+FT   VARIANT         441
+FT                   /note="R -> W (in dbSNP:rs2229596)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025031"
+FT   VARIANT         582
+FT                   /note="A -> T (in dbSNP:rs34987927)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025032"
+FT   VARIANT         700
+FT                   /note="G -> S (in dbSNP:rs477207)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025033"
+FT   VARIANT         749
+FT                   /note="A -> V (in dbSNP:rs34012919)"
+FT                   /evidence="ECO:0000269|Ref.6"
+FT                   /id="VAR_025034"
+FT   MUTAGEN         211
+FT                   /note="M->V: Increased activity towards 2-phenylethylamine,
+FT                   and decreased activity towards methylamine; when associated
+FT                   with N-394 and G-469."
+FT                   /evidence="ECO:0000269|PubMed:19588076"
+FT   MUTAGEN         394
+FT                   /note="Y->N: Increased activity towards 2-phenylethylamine,
+FT                   and decreased activity towards methylamine; when associated
+FT                   with V-211 and G-469."
+FT                   /evidence="ECO:0000269|PubMed:19588076"
+FT   MUTAGEN         469
+FT                   /note="L->G: Increased activity towards 2-phenylethylamine,
+FT                   and decreased activity towards methylamine; when associated
+FT                   with V-211 and N-394."
+FT                   /evidence="ECO:0000269|PubMed:19588076"
+FT   HELIX           65..78
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          83..85
+FT                   /evidence="ECO:0007829|PDB:3ALA"
+FT   HELIX           86..88
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          93..102
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           106..115
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          123..130
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          132..135
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          137..144
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          146..148
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          151..154
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           156..160
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           166..168
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           173..185
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           188..191
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           192..199
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            203..206
+FT                   /evidence="ECO:0007829|PDB:2C11"
+FT   STRAND          208..211
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          217..219
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          224..231
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          234..236
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           238..240
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          242..250
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          253..255
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           256..258
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          260..266
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          269..272
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           274..282
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            283..285
+FT                   /evidence="ECO:0007829|PDB:4BTW"
+FT   TURN            298..300
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          314..316
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          318..320
+FT                   /evidence="ECO:0007829|PDB:4BTW"
+FT   STRAND          322..326
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          329..342
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            343..345
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          346..354
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          357..372
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           377..380
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          383..385
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           386..388
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            391..394
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            400..402
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          408..421
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          423..445
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          447..449
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          451..468
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          471..479
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            481..483
+FT                   /evidence="ECO:0007829|PDB:4BTY"
+FT   STRAND          485..493
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          497..499
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          506..512
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          515..518
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          520..530
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          534..551
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          554..569
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           572..575
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          577..581
+FT                   /evidence="ECO:0007829|PDB:4BTW"
+FT   STRAND          585..594
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          600..608
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          617..619
+FT                   /evidence="ECO:0007829|PDB:2C11"
+FT   HELIX           622..629
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          630..636
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            647..651
+FT                   /evidence="ECO:0007829|PDB:2Y73"
+FT   STRAND          653..655
+FT                   /evidence="ECO:0007829|PDB:1US1"
+FT   HELIX           660..663
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          670..684
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           688..690
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          700..713
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           715..718
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   STRAND          723..729
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   TURN            734..736
+FT                   /evidence="ECO:0007829|PDB:2C10"
+FT   HELIX           738..741
+FT                   /evidence="ECO:0007829|PDB:2Y73"
+FT   HELIX           742..745
+FT                   /evidence="ECO:0007829|PDB:2C10"
+SQ   SEQUENCE   763 AA;  84622 MW;  58AD55605EC9D228 CRC64;
+     MNQKTILVLL ILAVITIFAL VCVLLVGRGG DGGEPSQLPH CPSVSPSAQP WTHPGQSQLF
+     ADLSREELTA VMRFLTQRLG PGLVDAAQAR PSDNCVFSVE LQLPPKAAAL AHLDRGSPPP
+     AREALAIVFF GRQPQPNVSE LVVGPLPHPS YMRDVTVERH GGPLPYHRRP VLFQEYLDID
+     QMIFNRELPQ ASGLLHHCCF YKHRGRNLVT MTTAPRGLQS GDRATWFGLY YNISGAGFFL
+     HHVGLELLVN HKALDPARWT IQKVFYQGRY YDSLAQLEAQ FEAGLVNVVL IPDNGTGGSW
+     SLKSPVPPGP APPLQFYPQG PRFSVQGSRV ASSLWTFSFG LGAFSGPRIF DVRFQGERLV
+     YEISLQEALA IYGGNSPAAM TTRYVDGGFG MGKYTTPLTR GVDCPYLATY VDWHFLLESQ
+     APKTIRDAFC VFEQNQGLPL RRHHSDLYSH YFGGLAETVL VVRSMSTLLN YDYVWDTVFH
+     PSGAIEIRFY ATGYISSAFL FGATGKYGNQ VSEHTLGTVH THSAHFKVDL DVAGLENWVW
+     AEDMVFVPMA VPWSPEHQLQ RLQVTRKLLE MEEQAAFLVG SATPRYLYLA SNHSNKWGHP
+     RGYRIQMLSF AGEPLPQNSS MARGFSWERY QLAVTQRKEE EPSSSSVFNQ NDPWAPTVDF
+     SDFINNETIA GKDLVAWVTA GFLHIPHAED IPNTVTVGNG VGFFLRPYNF FDEDPSFYSA
+     DSIYFRGDQD AGACEVNPLA CLPQAAACAP DLPAFSHGGF SHN
+//

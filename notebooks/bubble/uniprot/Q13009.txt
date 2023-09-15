@@ -1,0 +1,717 @@
+ID   TIAM1_HUMAN             Reviewed;        1591 AA.
+AC   Q13009; B7ZLR6; F5GZ53; Q17RT7;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   10-JUL-2007, sequence version 2.
+DT   28-JUN-2023, entry version 202.
+DE   RecName: Full=Rho guanine nucleotide exchange factor TIAM1 {ECO:0000305|PubMed:25684205};
+DE   AltName: Full=T-lymphoma invasion and metastasis-inducing protein 1 {ECO:0000250|UniProtKB:Q60610};
+DE            Short=TIAM-1 {ECO:0000250|UniProtKB:Q60610};
+GN   Name=TIAM1 {ECO:0000303|PubMed:7731688, ECO:0000312|HGNC:HGNC:11805};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT HIS-844.
+RC   TISSUE=Fetal brain;
+RX   PubMed=7731688;
+RA   Habets G.G.M., van der Kammen R.A., Stam J.C., Michiels F., Collard J.G.;
+RT   "Sequence of the human invasion-inducing TIAM1 gene, its conservation in
+RT   evolution and its expression in tumor cell lines of different tissue
+RT   origin.";
+RL   Oncogene 10:1371-1376(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10830953; DOI=10.1038/35012518;
+RA   Hattori M., Fujiyama A., Taylor T.D., Watanabe H., Yada T., Park H.-S.,
+RA   Toyoda A., Ishii K., Totoki Y., Choi D.-K., Groner Y., Soeda E., Ohki M.,
+RA   Takagi T., Sakaki Y., Taudien S., Blechschmidt K., Polley A., Menzel U.,
+RA   Delabar J., Kumpf K., Lehmann R., Patterson D., Reichwald K., Rump A.,
+RA   Schillhabel M., Schudy A., Zimmermann W., Rosenthal A., Kudoh J.,
+RA   Shibuya K., Kawasaki K., Asakawa S., Shintani A., Sasaki T., Nagamine K.,
+RA   Mitsuyama S., Antonarakis S.E., Minoshima S., Shimizu N., Nordsiek G.,
+RA   Hornischer K., Brandt P., Scharfe M., Schoen O., Desario A., Reichelt J.,
+RA   Kauer G., Bloecker H., Ramser J., Beck A., Klages S., Hennig S.,
+RA   Riesselmann L., Dagand E., Wehrmeyer S., Borzym K., Gardiner K.,
+RA   Nizetic D., Francis F., Lehrach H., Reinhardt R., Yaspo M.-L.;
+RT   "The DNA sequence of human chromosome 21.";
+RL   Nature 405:311-319(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2), AND VARIANT
+RP   VAL-1023.
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   INTERACTION WITH RAC.
+RC   TISSUE=Brain;
+RX   PubMed=7753201; DOI=10.1038/375338a0;
+RA   Michiels F., Habets G.G.M., Stam J.C., van der Kammen R.A., Collard J.G.;
+RT   "A role for Rac in Tiam1-induced membrane ruffling and invasion.";
+RL   Nature 375:338-340(1995).
+RN   [5]
+RP   CHROMOSOMAL LOCATION.
+RX   PubMed=7736788; DOI=10.1159/000133989;
+RA   Habets G.G.M., van der Kammen R.A., Jenkins N.A., Gilbert D.J.,
+RA   Copeland N.G., Hagemeijer A., Collard J.G.;
+RT   "The invasion-inducing TIAM1 gene maps to human chromosome band 21q22 and
+RT   mouse chromosome 16.";
+RL   Cytogenet. Cell Genet. 70:48-51(1995).
+RN   [6]
+RP   INTERACTION WITH BAIAP2.
+RX   PubMed=15899863; DOI=10.1128/mcb.25.11.4602-4614.2005;
+RA   Connolly B.A., Rice J., Feig L.A., Buchsbaum R.J.;
+RT   "Tiam1-IRSp53 complex formation directs specificity of rac-mediated actin
+RT   cytoskeleton regulation.";
+RL   Mol. Cell. Biol. 25:4602-4614(2005).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J., Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in a
+RT   refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-231, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19369195; DOI=10.1074/mcp.m800588-mcp200;
+RA   Oppermann F.S., Gnad F., Olsen J.V., Hornberger R., Greff Z., Keri G.,
+RA   Mann M., Daub H.;
+RT   "Large-scale proteomics analysis of the human kinome.";
+RL   Mol. Cell. Proteomics 8:1751-1764(2009).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-231, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19690332; DOI=10.1126/scisignal.2000007;
+RA   Mayya V., Lundgren D.H., Hwang S.-I., Rezaul K., Wu L., Eng J.K.,
+RA   Rodionov V., Han D.K.;
+RT   "Quantitative phosphoproteomic analysis of T cell receptor signaling
+RT   reveals system-wide modulation of protein-protein interactions.";
+RL   Sci. Signal. 2:RA46-RA46(2009).
+RN   [10]
+RP   SUBCELLULAR LOCATION, AND SUBUNIT.
+RX   PubMed=20332120; DOI=10.1242/jcs.059329;
+RA   Lampugnani M.G., Orsenigo F., Rudini N., Maddaluno L., Boulday G.,
+RA   Chapon F., Dejana E.;
+RT   "CCM1 regulates vascular-lumen organization by inducing endothelial
+RT   polarity.";
+RL   J. Cell Sci. 123:1073-1080(2010).
+RN   [11]
+RP   INTERACTION WITH EPHA8.
+RX   PubMed=20496116; DOI=10.1007/s10059-010-0075-2;
+RA   Yoo S., Shin J., Park S.;
+RT   "EphA8-ephrinA5 signaling and clathrin-mediated endocytosis is regulated by
+RT   Tiam-1, a Rac-specific guanine nucleotide exchange factor.";
+RL   Mol. Cells 29:603-609(2010).
+RN   [12]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-231, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [13]
+RP   FUNCTION, UBIQUITINATION AT LYS-1404 AND LYS-1420, AND MUTAGENESIS OF
+RP   LYS-1404 AND LYS-1420.
+RX   PubMed=25684205; DOI=10.1016/j.molcel.2014.12.040;
+RA   Genau H.M., Huber J., Baschieri F., Akutsu M., Doetsch V., Farhan H.,
+RA   Rogov V., Behrends C.;
+RT   "CUL3-KBTBD6/KBTBD7 ubiquitin ligase cooperates with GABARAP proteins to
+RT   spatially restrict TIAM1-RAC1 signaling.";
+RL   Mol. Cell 57:995-1010(2015).
+RN   [14]
+RP   STRUCTURE BY NMR OF 835-935.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the PDZ domain of T-cell lymphoma invasion and
+RT   metastasis 1 variant.";
+RL   Submitted (JUN-2006) to the PDB data bank.
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.30 ANGSTROMS) OF 841-930 IN COMPLEX WITH SYNTHETIC
+RP   MODEL PEPTIDE, FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH SDC1
+RP   AND CNTNAP4.
+RX   PubMed=20361982; DOI=10.1016/j.jmb.2010.03.047;
+RA   Shepherd T.R., Klaus S.M., Liu X., Ramaswamy S., DeMali K.A., Fuentes E.J.;
+RT   "The Tiam1 PDZ domain couples to Syndecan1 and promotes cell-matrix
+RT   adhesion.";
+RL   J. Mol. Biol. 398:730-746(2010).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (1.98 ANGSTROMS) OF 429-702, AND INTERACTION WITH
+RP   PARD3.
+RX   PubMed=23832200; DOI=10.1107/s1744309113014206;
+RA   Joshi M., Gakhar L., Fuentes E.J.;
+RT   "High-resolution structure of the Tiam1 PHn-CC-Ex domain.";
+RL   Acta Crystallogr. F 69:744-752(2013).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) OF 841-930 IN COMPLEX WITH SDC1,
+RP   MUTAGENESIS OF LYS-879 AND LYS-912, AND INTERACTION WITH CNTNAP4; SDC1 AND
+RP   SDC3.
+RX   PubMed=23395182; DOI=10.1016/j.str.2013.01.004;
+RA   Liu X., Shepherd T.R., Murray A.M., Xu Z., Fuentes E.J.;
+RT   "The structure of the Tiam1 PDZ domain/ phospho-syndecan1 complex reveals a
+RT   ligand conformation that modulates protein dynamics.";
+RL   Structure 21:342-354(2013).
+RN   [18]
+RP   VARIANTS [LARGE SCALE ANALYSIS] CYS-678 AND VAL-1339.
+RX   PubMed=16959974; DOI=10.1126/science.1133427;
+RA   Sjoeblom T., Jones S., Wood L.D., Parsons D.W., Lin J., Barber T.D.,
+RA   Mandelker D., Leary R.J., Ptak J., Silliman N., Szabo S., Buckhaults P.,
+RA   Farrell C., Meeh P., Markowitz S.D., Willis J., Dawson D., Willson J.K.V.,
+RA   Gazdar A.F., Hartigan J., Wu L., Liu C., Parmigiani G., Park B.H.,
+RA   Bachman K.E., Papadopoulos N., Vogelstein B., Kinzler K.W.,
+RA   Velculescu V.E.;
+RT   "The consensus coding sequences of human breast and colorectal cancers.";
+RL   Science 314:268-274(2006).
+RN   [19]
+RP   VARIANT HIS-1007.
+RX   PubMed=22100072; DOI=10.1016/j.ajhg.2011.10.011;
+RA   Aldahmesh M.A., Mohamed J.Y., Alkuraya H.S., Verma I.C., Puri R.D.,
+RA   Alaiya A.A., Rizzo W.B., Alkuraya F.S.;
+RT   "Recessive mutations in ELOVL4 cause ichthyosis, intellectual disability,
+RT   and spastic quadriplegia.";
+RL   Am. J. Hum. Genet. 89:745-750(2011).
+RN   [20]
+RP   VARIANTS NEDLDS CYS-23; VAL-328; ARG-382; PHE-862; VAL-1339 AND GLU-1547,
+RP   AND INVOLVEMENT IN NEDLDS.
+RX   PubMed=35240055; DOI=10.1016/j.ajhg.2022.01.020;
+RA   Lu S., Hernan R., Marcogliese P.C., Huang Y., Gertler T.S., Akcaboy M.,
+RA   Liu S., Chung H.L., Pan X., Sun X., Oguz M.M., Oztoprak U.,
+RA   de Baaij J.H.F., Ivanisevic J., McGinnis E., Guillen Sacoto M.J.,
+RA   Chung W.K., Bellen H.J.;
+RT   "Loss-of-function variants in TIAM1 are associated with developmental
+RT   delay, intellectual disability, and seizures.";
+RL   Am. J. Hum. Genet. 109:571-586(2022).
+CC   -!- FUNCTION: Guanyl-nucleotide exchange factor that activates RHO-like
+CC       proteins and connects extracellular signals to cytoskeletal activities.
+CC       Activates RAC1, CDC42, and to a lesser extent RHOA and their downstream
+CC       signaling to regulate processes like cell adhesion and cell migration.
+CC       {ECO:0000269|PubMed:20361982, ECO:0000269|PubMed:25684205}.
+CC   -!- SUBUNIT: Component of the Par polarity complex, composed of at least
+CC       phosphorylated PRKCZ, PARD3 and TIAM1. Interacts with NTRK2; mediates
+CC       the activation of RAC1 by BDNF. Interacts with MAPK8IP2 and CD44 (By
+CC       similarity). Interacts with BAIAP2. Interacts with EPHA8; regulates
+CC       clathrin-mediated endocytosis of EPHA8. Interacts with PARD3. Interacts
+CC       (via PDZ domain) with CNTNAP4, SDC1 and SDC3 (via C-terminus).
+CC       {ECO:0000250, ECO:0000269|PubMed:15899863, ECO:0000269|PubMed:20332120,
+CC       ECO:0000269|PubMed:20361982, ECO:0000269|PubMed:20496116,
+CC       ECO:0000269|PubMed:23395182, ECO:0000269|PubMed:23832200,
+CC       ECO:0000269|PubMed:7753201}.
+CC   -!- INTERACTION:
+CC       Q13009; O14936: CASK; NbExp=2; IntAct=EBI-1050007, EBI-1215506;
+CC       Q13009; Q9C0A0-1: CNTNAP4; NbExp=2; IntAct=EBI-1050007, EBI-16035743;
+CC       Q13009; P18827: SDC1; NbExp=5; IntAct=EBI-1050007, EBI-2855248;
+CC       Q13009; P54763: Ephb2; Xeno; NbExp=3; IntAct=EBI-1050007, EBI-537711;
+CC   -!- SUBCELLULAR LOCATION: Cell junction. Cell membrane; Peripheral membrane
+CC       protein; Cytoplasmic side. Note=Detected at the boundary between cells
+CC       with actin-rich protrusions (By similarity). Presence of KRIT1, CDH5
+CC       and RAP1B is required for its localization to the cell junction.
+CC       {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q13009-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q13009-2; Sequence=VSP_055865, VSP_055866;
+CC   -!- TISSUE SPECIFICITY: Found in virtually all analyzed tumor cell lines
+CC       including B- and T-lymphomas, neuroblastomas, melanomas and carcinomas.
+CC   -!- DOMAIN: The first PH domain mediates interaction with membranes
+CC       enriched in phosphoinositides. {ECO:0000250}.
+CC   -!- PTM: Ubiquitinated. Undergoes 'Lys-48' ubiquitination at Lys-1404 and
+CC       Lys-1420 by a CUL3(KBTBD6/7) E3 ubiquitin ligase complex composed of
+CC       CUL3, RBX1, KBTBD6 and KBTBD7. 'Lys-48' ubiquitination at Lys-1404 and
+CC       Lys-1420 triggers proteasomal degradation (PubMed:25684205).
+CC       Ubiquitination at Lys-1404 and Lys-1420 by CUL3(KBTBD6/7) also requires
+CC       the membrane-associated protein GABARAP and may therefore be spatially
+CC       restricted within the cell (PubMed:25684205).
+CC       {ECO:0000269|PubMed:25684205}.
+CC   -!- DISEASE: Neurodevelopmental disorder with language delay and seizures
+CC       (NEDLDS) [MIM:619908]: An autosomal recessive disorder characterized by
+CC       global developmental delay, intellectual disability, speech delay, and
+CC       seizures. Additional features may include axial hypotonia, peripheral
+CC       hypertonia, hypothyroidism, and non-specific dysmorphic features or
+CC       brain imaging abnormalities. {ECO:0000269|PubMed:35240055}. Note=The
+CC       disease may be caused by variants affecting the gene represented in
+CC       this entry.
+CC   -!- SIMILARITY: Belongs to the TIAM family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology and
+CC       Haematology;
+CC       URL="https://atlasgeneticsoncology.org/gene/42557/TIAM1";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U16296; AAA98443.1; -; mRNA.
+DR   EMBL; AP000246; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000247; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000248; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000249; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000250; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000251; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AP000563; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC117192; AAI17193.1; -; mRNA.
+DR   EMBL; BC117196; AAI17197.1; -; mRNA.
+DR   EMBL; BC143980; AAI43981.1; -; mRNA.
+DR   CCDS; CCDS13609.1; -. [Q13009-1]
+DR   RefSeq; NP_003244.2; NM_003253.2. [Q13009-1]
+DR   RefSeq; XP_005261094.1; XM_005261037.1.
+DR   RefSeq; XP_005261095.1; XM_005261038.2.
+DR   RefSeq; XP_011528013.1; XM_011529711.1.
+DR   RefSeq; XP_011528014.1; XM_011529712.1.
+DR   RefSeq; XP_011528015.1; XM_011529713.1.
+DR   RefSeq; XP_016883936.1; XM_017028447.1.
+DR   RefSeq; XP_016883937.1; XM_017028448.1.
+DR   RefSeq; XP_016883938.1; XM_017028449.1.
+DR   RefSeq; XP_016883939.1; XM_017028450.1.
+DR   RefSeq; XP_016883940.1; XM_017028451.1.
+DR   RefSeq; XP_016883941.1; XM_017028452.1.
+DR   RefSeq; XP_016883942.1; XM_017028453.1.
+DR   PDB; 2D8I; NMR; -; A=835-935.
+DR   PDB; 3KZD; X-ray; 1.30 A; A=841-930.
+DR   PDB; 3KZE; X-ray; 1.80 A; A/B/C=841-930.
+DR   PDB; 4GVC; X-ray; 1.54 A; A=841-930.
+DR   PDB; 4GVD; X-ray; 1.85 A; A/B=841-930.
+DR   PDB; 4K2O; X-ray; 2.15 A; A=429-702.
+DR   PDB; 4K2P; X-ray; 1.98 A; A/B/C/D=429-702.
+DR   PDB; 4NXP; X-ray; 2.30 A; A=841-930.
+DR   PDB; 4NXQ; X-ray; 2.10 A; A/B/C=841-930.
+DR   PDB; 4NXR; X-ray; 1.90 A; A=841-930.
+DR   PDBsum; 2D8I; -.
+DR   PDBsum; 3KZD; -.
+DR   PDBsum; 3KZE; -.
+DR   PDBsum; 4GVC; -.
+DR   PDBsum; 4GVD; -.
+DR   PDBsum; 4K2O; -.
+DR   PDBsum; 4K2P; -.
+DR   PDBsum; 4NXP; -.
+DR   PDBsum; 4NXQ; -.
+DR   PDBsum; 4NXR; -.
+DR   AlphaFoldDB; Q13009; -.
+DR   BMRB; Q13009; -.
+DR   SMR; Q13009; -.
+DR   BioGRID; 112930; 149.
+DR   CORUM; Q13009; -.
+DR   DIP; DIP-38309N; -.
+DR   ELM; Q13009; -.
+DR   IntAct; Q13009; 30.
+DR   MINT; Q13009; -.
+DR   STRING; 9606.ENSP00000286827; -.
+DR   ChEMBL; CHEMBL3232697; -.
+DR   GlyGen; Q13009; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q13009; -.
+DR   PhosphoSitePlus; Q13009; -.
+DR   BioMuta; TIAM1; -.
+DR   DMDM; 152031709; -.
+DR   EPD; Q13009; -.
+DR   jPOST; Q13009; -.
+DR   MassIVE; Q13009; -.
+DR   MaxQB; Q13009; -.
+DR   PaxDb; Q13009; -.
+DR   PeptideAtlas; Q13009; -.
+DR   ProteomicsDB; 24940; -.
+DR   ProteomicsDB; 59099; -. [Q13009-1]
+DR   Antibodypedia; 4172; 232 antibodies from 30 providers.
+DR   DNASU; 7074; -.
+DR   Ensembl; ENST00000286827.7; ENSP00000286827.3; ENSG00000156299.15. [Q13009-1]
+DR   Ensembl; ENST00000455508.2; ENSP00000388217.2; ENSG00000156299.15. [Q13009-2]
+DR   Ensembl; ENST00000541036.6; ENSP00000441570.2; ENSG00000156299.15. [Q13009-1]
+DR   GeneID; 7074; -.
+DR   KEGG; hsa:7074; -.
+DR   MANE-Select; ENST00000541036.6; ENSP00000441570.2; NM_001353694.2; NP_001340623.1.
+DR   UCSC; uc002yow.2; human. [Q13009-1]
+DR   AGR; HGNC:11805; -.
+DR   CTD; 7074; -.
+DR   DisGeNET; 7074; -.
+DR   GeneCards; TIAM1; -.
+DR   HGNC; HGNC:11805; TIAM1.
+DR   HPA; ENSG00000156299; Tissue enriched (brain).
+DR   MalaCards; TIAM1; -.
+DR   MIM; 600687; gene.
+DR   MIM; 619908; phenotype.
+DR   neXtProt; NX_Q13009; -.
+DR   OpenTargets; ENSG00000156299; -.
+DR   Orphanet; 528084; Non-specific syndromic intellectual disability.
+DR   PharmGKB; PA36514; -.
+DR   VEuPathDB; HostDB:ENSG00000156299; -.
+DR   eggNOG; KOG3519; Eukaryota.
+DR   GeneTree; ENSGT00940000156294; -.
+DR   HOGENOM; CLU_000494_3_0_1; -.
+DR   InParanoid; Q13009; -.
+DR   OMA; QMQFYVP; -.
+DR   OrthoDB; 25601at2759; -.
+DR   PhylomeDB; Q13009; -.
+DR   TreeFam; TF319686; -.
+DR   PathwayCommons; Q13009; -.
+DR   Reactome; R-HSA-193648; NRAGE signals death through JNK.
+DR   Reactome; R-HSA-3928662; EPHB-mediated forward signaling.
+DR   Reactome; R-HSA-3928665; EPH-ephrin mediated repulsion of cells.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-8980692; RHOA GTPase cycle.
+DR   Reactome; R-HSA-9013148; CDC42 GTPase cycle.
+DR   Reactome; R-HSA-9013149; RAC1 GTPase cycle.
+DR   Reactome; R-HSA-9013404; RAC2 GTPase cycle.
+DR   Reactome; R-HSA-9013423; RAC3 GTPase cycle.
+DR   Reactome; R-HSA-9032845; Activated NTRK2 signals through CDK5.
+DR   SignaLink; Q13009; -.
+DR   SIGNOR; Q13009; -.
+DR   BioGRID-ORCS; 7074; 22 hits in 1161 CRISPR screens.
+DR   ChiTaRS; TIAM1; human.
+DR   EvolutionaryTrace; Q13009; -.
+DR   GenomeRNAi; 7074; -.
+DR   Pharos; Q13009; Tbio.
+DR   PRO; PR:Q13009; -.
+DR   Proteomes; UP000005640; Chromosome 21.
+DR   RNAct; Q13009; protein.
+DR   Bgee; ENSG00000156299; Expressed in cerebellar vermis and 198 other tissues.
+DR   ExpressionAtlas; Q13009; baseline and differential.
+DR   Genevisible; Q13009; HS.
+DR   GO; GO:0044291; C:cell-cell contact zone; IDA:UniProtKB.
+DR   GO; GO:0005911; C:cell-cell junction; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0031234; C:extrinsic component of cytoplasmic side of plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0045202; C:synapse; IBA:GO_Central.
+DR   GO; GO:0005085; F:guanyl-nucleotide exchange factor activity; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0019900; F:kinase binding; IPI:ParkinsonsUK-UCL.
+DR   GO; GO:0008289; F:lipid binding; IEA:UniProtKB-KW.
+DR   GO; GO:0090630; P:activation of GTPase activity; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0016477; P:cell migration; IMP:UniProtKB.
+DR   GO; GO:0007160; P:cell-matrix adhesion; IMP:UniProtKB.
+DR   GO; GO:0048013; P:ephrin receptor signaling pathway; TAS:Reactome.
+DR   GO; GO:0050772; P:positive regulation of axonogenesis; IBA:GO_Central.
+DR   GO; GO:0030335; P:positive regulation of cell migration; IDA:BHF-UCL.
+DR   GO; GO:0008284; P:positive regulation of cell population proliferation; IDA:BHF-UCL.
+DR   GO; GO:0010718; P:positive regulation of epithelial to mesenchymal transition; NAS:BHF-UCL.
+DR   GO; GO:0032092; P:positive regulation of protein binding; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0065003; P:protein-containing complex assembly; IDA:ParkinsonsUK-UCL.
+DR   GO; GO:0016601; P:Rac protein signal transduction; IMP:UniProtKB.
+DR   GO; GO:1904338; P:regulation of dopaminergic neuron differentiation; ISS:ParkinsonsUK-UCL.
+DR   GO; GO:0010717; P:regulation of epithelial to mesenchymal transition; IDA:BHF-UCL.
+DR   GO; GO:2000050; P:regulation of non-canonical Wnt signaling pathway; ISS:ParkinsonsUK-UCL.
+DR   GO; GO:0051056; P:regulation of small GTPase mediated signal transduction; TAS:Reactome.
+DR   GO; GO:0007264; P:small GTPase mediated signal transduction; IBA:GO_Central.
+DR   GO; GO:0060071; P:Wnt signaling pathway, planar cell polarity pathway; NAS:ParkinsonsUK-UCL.
+DR   CDD; cd00992; PDZ_signaling; 1.
+DR   CDD; cd01230; PH1_Tiam1_2; 1.
+DR   CDD; cd01255; PH2_Tiam1_2; 1.
+DR   CDD; cd00160; RhoGEF; 1.
+DR   Gene3D; 2.30.42.10; -; 1.
+DR   Gene3D; 6.10.140.680; -; 1.
+DR   Gene3D; 1.20.900.10; Dbl homology (DH) domain; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 2.
+DR   InterPro; IPR035899; DBL_dom_sf.
+DR   InterPro; IPR000219; DH-domain.
+DR   InterPro; IPR001331; GDS_CDC24_CS.
+DR   InterPro; IPR001478; PDZ.
+DR   InterPro; IPR036034; PDZ_sf.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR003116; RBD_dom.
+DR   InterPro; IPR043537; Tiam1/Tiam2/Sif.
+DR   InterPro; IPR040655; TIAM1_CC-Ex.
+DR   PANTHER; PTHR46001:SF1; RHO GUANINE NUCLEOTIDE EXCHANGE FACTOR TIAM1; 1.
+DR   PANTHER; PTHR46001; TIAM (MAMMALIAN TUMOR INVASION AND METASTASIS FACTOR) HOMOLOG; 1.
+DR   Pfam; PF00595; PDZ; 1.
+DR   Pfam; PF00169; PH; 2.
+DR   Pfam; PF02196; RBD; 1.
+DR   Pfam; PF00621; RhoGEF; 1.
+DR   Pfam; PF18385; Tiam_CC_Ex; 1.
+DR   SMART; SM00228; PDZ; 1.
+DR   SMART; SM00233; PH; 2.
+DR   SMART; SM00455; RBD; 1.
+DR   SMART; SM00325; RhoGEF; 1.
+DR   SUPFAM; SSF48065; DBL homology domain (DH-domain); 1.
+DR   SUPFAM; SSF50156; PDZ domain-like; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 2.
+DR   PROSITE; PS00741; DH_1; 1.
+DR   PROSITE; PS50010; DH_2; 1.
+DR   PROSITE; PS50106; PDZ; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+DR   PROSITE; PS50898; RBD; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell junction; Cell membrane; Epilepsy;
+KW   Guanine-nucleotide releasing factor; Intellectual disability;
+KW   Isopeptide bond; Lipid-binding; Lipoprotein; Membrane; Myristate;
+KW   Phosphoprotein; Reference proteome; Repeat; Ubl conjugation.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           2..1591
+FT                   /note="Rho guanine nucleotide exchange factor TIAM1"
+FT                   /id="PRO_0000080976"
+FT   DOMAIN          434..549
+FT                   /note="PH 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   DOMAIN          765..832
+FT                   /note="RBD"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00262"
+FT   DOMAIN          845..908
+FT                   /note="PDZ"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00143"
+FT   DOMAIN          1040..1234
+FT                   /note="DH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00062"
+FT   DOMAIN          1261..1397
+FT                   /note="PH 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   REGION          1..78
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          298..379
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          393..422
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          939..1034
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1456..1482
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        9..23
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        24..45
+FT                   /note="Basic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        48..74
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        298..327
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        340..379
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        958..977
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1011..1032
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1458..1473
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         231
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:19369195,
+FT                   ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:21406692"
+FT   MOD_RES         356
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q60610"
+FT   MOD_RES         358
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q60610"
+FT   MOD_RES         695
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q60610"
+FT   MOD_RES         829
+FT                   /note="Phosphotyrosine; by NTRK2"
+FT                   /evidence="ECO:0000250|UniProtKB:Q60610"
+FT   MOD_RES         1323
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q60610"
+FT   MOD_RES         1519
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q60610"
+FT   LIPID           2
+FT                   /note="N-myristoyl glycine"
+FT                   /evidence="ECO:0000255"
+FT   CROSSLNK        1404
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:25684205"
+FT   CROSSLNK        1420
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:25684205"
+FT   VAR_SEQ         715..739
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_055865"
+FT   VAR_SEQ         797..831
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_055866"
+FT   VARIANT         23
+FT                   /note="R -> C (in NEDLDS; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:35240055"
+FT                   /id="VAR_087427"
+FT   VARIANT         247
+FT                   /note="G -> R (in dbSNP:rs2070418)"
+FT                   /id="VAR_051991"
+FT   VARIANT         247
+FT                   /note="G -> V (in dbSNP:rs2070417)"
+FT                   /id="VAR_051992"
+FT   VARIANT         328
+FT                   /note="G -> V (in NEDLDS; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:35240055"
+FT                   /id="VAR_087428"
+FT   VARIANT         382
+FT                   /note="G -> R (in NEDLDS; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:35240055"
+FT                   /id="VAR_087429"
+FT   VARIANT         678
+FT                   /note="R -> C (in a colorectal cancer sample; somatic
+FT                   mutation; dbSNP:rs1192824496)"
+FT                   /evidence="ECO:0000269|PubMed:16959974"
+FT                   /id="VAR_035977"
+FT   VARIANT         844
+FT                   /note="Q -> H (in dbSNP:rs16987932)"
+FT                   /evidence="ECO:0000269|PubMed:7731688"
+FT                   /id="VAR_051993"
+FT   VARIANT         862
+FT                   /note="L -> F (in NEDLDS; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:35240055"
+FT                   /id="VAR_087430"
+FT   VARIANT         1007
+FT                   /note="R -> H (in dbSNP:rs77092908)"
+FT                   /evidence="ECO:0000269|PubMed:22100072"
+FT                   /id="VAR_067424"
+FT   VARIANT         1023
+FT                   /note="D -> V (in dbSNP:rs75483199)"
+FT                   /evidence="ECO:0000269|PubMed:15489334"
+FT                   /id="VAR_071102"
+FT   VARIANT         1339
+FT                   /note="A -> V (in a colorectal cancer sample and NEDLDS;
+FT                   somatic mutation; unknown pathological significance;
+FT                   dbSNP:rs1319513413)"
+FT                   /evidence="ECO:0000269|PubMed:16959974,
+FT                   ECO:0000269|PubMed:35240055"
+FT                   /id="VAR_035978"
+FT   VARIANT         1547
+FT                   /note="A -> E (in NEDLDS; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:35240055"
+FT                   /id="VAR_087431"
+FT   MUTAGEN         879
+FT                   /note="K->E: Strongly reduces affinity for SDC1."
+FT                   /evidence="ECO:0000269|PubMed:23395182"
+FT   MUTAGEN         912
+FT                   /note="K->E: Strongly reduces affinity for SDC1."
+FT                   /evidence="ECO:0000269|PubMed:23395182"
+FT   MUTAGEN         1404
+FT                   /note="K->R: Decreased ubiquitination and increased
+FT                   abundance."
+FT                   /evidence="ECO:0000269|PubMed:25684205"
+FT   MUTAGEN         1420
+FT                   /note="K->R: Decreased ubiquitination and increased
+FT                   abundance."
+FT                   /evidence="ECO:0000269|PubMed:25684205"
+FT   CONFLICT        24..25
+FT                   /note="KH -> ND (in Ref. 1; AAA98443)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        247
+FT                   /note="G -> M (in Ref. 1; AAA98443)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        881
+FT                   /note="T -> I (in Ref. 3; AAI43981)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        951
+FT                   /note="G -> D (in Ref. 1; AAA98443)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1018
+FT                   /note="S -> N (in Ref. 1; AAA98443)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1040..1041
+FT                   /note="KL -> NV (in Ref. 1; AAA98443)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        1148
+FT                   /note="S -> I (in Ref. 1; AAA98443)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          435..449
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   TURN            450..452
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          453..456
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          463..470
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          473..477
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          481..483
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          492..496
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          501..504
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          512..518
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          520..522
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          524..528
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   HELIX           532..554
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   HELIX           559..587
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   TURN            588..590
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   HELIX           594..629
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   HELIX           636..640
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   HELIX           645..654
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   HELIX           659..667
+FT                   /evidence="ECO:0007829|PDB:4K2P"
+FT   STRAND          842..849
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   HELIX           850..852
+FT                   /evidence="ECO:0007829|PDB:4NXR"
+FT   TURN            855..858
+FT                   /evidence="ECO:0007829|PDB:3KZE"
+FT   STRAND          859..865
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   STRAND          867..870
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   STRAND          872..878
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   HELIX           883..886
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   STRAND          894..898
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   HELIX           903..905
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   HELIX           908..916
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+FT   STRAND          917..926
+FT                   /evidence="ECO:0007829|PDB:3KZD"
+SQ   SEQUENCE   1591 AA;  177508 MW;  0DAFBEE9A84B3452 CRC64;
+     MGNAESQHVE HEFYGEKHAS LGRKHTSRSL RLSHKTRRTR HASSGKVIHR NSEVSTRSSS
+     TPSIPQSLAE NGLEPFSQDG TLEDFGSPIW VDRVDMGLRP VSYTDSSVTP SVDSSIVLTA
+     ASVQSMPDTE ESRLYGDDAT YLAEGGRRQH SYTSNGPTFM ETASFKKKRS KSADIWREDS
+     LEFSLSDLSQ EHLTSNEEIL GSAEEKDCEE ARGMETRASP RQLSTCQRAN SLGDLYAQKN
+     SGVTANGGPG SKFAGYCRNL VSDIPNLANH KMPPAAAEET PPYSNYNTLP CRKSHCLSEG
+     ATNPQISHSN SMQGRRAKTT QDVNAGEGSE FADSGIEGAT TDTDLLSRRS NATNSSYSPT
+     TGRAFVGSDS GSSSTGDAAR QGVYENFRRE LEMSTTNSES LEEAGSAHSD EQSSGTLSSP
+     GQSDILLTAA QGTVRKAGAL AVKNFLVHKK NKKVESATRR KWKHYWVSLK GCTLFFYESD
+     GRSGIDHNSI PKHAVWVENS IVQAVPEHPK KDFVFCLSNS LGDAFLFQTT SQTELENWIT
+     AIHSACATAV ARHHHKEDTL RLLKSEIKKL EQKIDMDEKM KKMGEMQLSS VTDSKKKKTI
+     LDQIFVWEQN LEQFQMDLFR FRCYLASLQG GELPNPKRLL AFASRPTKVA MGRLGIFSVS
+     SFHALVAART GETGVRRRTQ AMSRSASKRR SRFSSLWGLD TTSKKKQGRP SINQVFGEGT
+     EAVKKSLEGI FDDIVPDGKR EKEVVLPNVH QHNPDCDIWV HEYFTPSWFC LPNNQPALTV
+     VRPGDTARDT LELICKTHQL DHSAHYLRLK FLIENKMQLY VPQPEEDIYE LLYKEIEICP
+     KVTQSIHIEK SDTAADTYGF SLSSVEEDGI RRLYVNSVKE TGLASKKGLK AGDEILEINN
+     RAADALNSSM LKDFLSQPSL GLLVRTYPEL EEGVELLESP PHRVDGPADL GESPLAFLTS
+     NPGHSLCSEQ GSSAETAPEE TEGPDLESSD ETDHSSKSTE QVAAFCRSLH EMNPSDQSPS
+     PQDSTGPQLA TMRQLSDADK LRKVICELLE TERTYVKDLN CLMERYLKPL QKETFLTQDE
+     LDVLFGNLTE MVEFQVEFLK TLEDGVRLVP DLEKLEKVDQ FKKVLFSLGG SFLYYADRFK
+     LYSAFCASHT KVPKVLVKAK TDTAFKAFLD AQNPKQQHSS TLESYLIKPI QRILKYPLLL
+     RELFALTDAE SEEHYHLDVA IKTMNKVASH INEMQKIHEE FGAVFDQLIA EQTGEKKEVA
+     DLSMGDLLLH TTVIWLNPPA SLGKWKKEPE LAAFVFKTAV VLVYKDGSKQ KKKLVGSHRL
+     SIYEDWDPFR FRHMIPTEAL QVRALASADA EANAVCEIVH VKSESEGRPE RVFHLCCSSP
+     ESRKDFLKAV HSILRDKHRR QLLKTESLPS SQQYVPFGGK RLCALKGARP AMSRAVSAPS
+     KSLGRRRRRL ARNRFTIDSD AVSASSPEKE SQQPPGGGDT DRWVEEQFDL AQYEEQDDIK
+     ETDILSDDDE FCESVKGASV DRDLQERLQA TSISQRERGR KTLDSHASRM AQLKKQAALS
+     GINGGLESAS EEVIWVRRED FAPSRKLNTE I
+//

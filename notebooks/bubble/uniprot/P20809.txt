@@ -1,0 +1,335 @@
+ID   IL11_HUMAN              Reviewed;         199 AA.
+AC   P20809; B4DQV5; Q96EB4;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1991, sequence version 1.
+DT   28-JUN-2023, entry version 196.
+DE   RecName: Full=Interleukin-11 {ECO:0000305};
+DE            Short=IL-11;
+DE   AltName: Full=Adipogenesis inhibitory factor {ECO:0000303|PubMed:1828438};
+DE            Short=AGIF {ECO:0000303|PubMed:1828438};
+DE   AltName: INN=Oprelvekin;
+DE   Flags: Precursor;
+GN   Name=IL11 {ECO:0000312|HGNC:HGNC:5966};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=2145578; DOI=10.1073/pnas.87.19.7512;
+RA   Paul S.R., Bennett F., Calvetti J.A., Kelleher K., Wood C.R.,
+RA   O'Hara R.M. Jr., Leary A.C., Sibley B.S., Clark S.C., Williams D.A.,
+RA   Yang Y.-C.;
+RT   "Molecular cloning of a cDNA encoding interleukin 11, a stromal cell-
+RT   derived lymphopoietic and hematopoietic cytokine.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:7512-7516(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND SUBCELLULAR LOCATION.
+RC   TISSUE=Bone marrow;
+RX   PubMed=1828438; DOI=10.1016/0014-5793(91)80587-s;
+RA   Kawashima I., Ohsumi J., Mita-Honjo K., Shimoda-Takano K., Ishikawa H.,
+RA   Sakakibara S., Miyadai K., Takiguchi Y.;
+RT   "Molecular cloning of cDNA encoding adipogenesis inhibitory factor and
+RT   identity with interleukin-11.";
+RL   FEBS Lett. 283:199-202(1991).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 1).
+RX   PubMed=1386338; DOI=10.1016/0888-7543(92)90158-o;
+RA   McKinley D., Wu Q., Yang-Feng T., Yang Y.C.;
+RT   "Genomic sequence and chromosomal location of human interleukin-11 gene
+RT   (IL11).";
+RL   Genomics 13:814-819(1992).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 1), AND VARIANTS MET-108 AND
+RP   HIS-112.
+RG   SeattleSNPs variation discovery resource;
+RL   Submitted (DEC-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Prostate;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   FUNCTION, SUBUNIT, AND MUTAGENESIS OF HIS-182 AND ASP-186.
+RX   PubMed=12919066; DOI=10.1042/bj20030459;
+RA   Harmegnies D., Wang X.M., Vandenbussche P., Leon A., Vusio P.,
+RA   Groetzinger J., Jacques Y., Goormaghtigh E., Devreese B., Content J.;
+RT   "Characterization of a potent human interleukin-11 agonist.";
+RL   Biochem. J. 375:23-32(2003).
+RN   [9]
+RP   FUNCTION, AND SUBUNIT.
+RX   PubMed=30279168; DOI=10.1126/scisignal.aar7388;
+RA   Lamertz L., Rummel F., Polz R., Baran P., Hansen S., Waetzig G.H.,
+RA   Moll J.M., Floss D.M., Scheller J.;
+RT   "Soluble gp130 prevents interleukin-6 and interleukin-11 cluster signaling
+RT   but not intracellular autocrine responses.";
+RL   Sci. Signal. 11:0-0(2018).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.09 ANGSTROMS) OF 23-199.
+RX   PubMed=25195742; DOI=10.1107/s1399004714012267;
+RA   Putoczki T.L., Dobson R.C., Griffin M.D.W.;
+RT   "The structure of human interleukin-11 reveals receptor-binding site
+RT   features and structural differences from interleukin-6.";
+RL   Acta Crystallogr. D 70:2277-2285(2014).
+CC   -!- FUNCTION: Cytokine that stimulates the proliferation of hematopoietic
+CC       stem cells and megakaryocyte progenitor cells and induces megakaryocyte
+CC       maturation resulting in increased platelet production (PubMed:2145578).
+CC       Also promotes the proliferation of hepatocytes in response to liver
+CC       damage. Binding to its receptor formed by IL6ST and IL11RA activates a
+CC       signaling cascade that promotes cell proliferation (PubMed:12919066).
+CC       Signaling leads to the activation of intracellular protein kinases and
+CC       the phosphorylation of STAT3. The interaction with the membrane-bound
+CC       IL11RA and IL6ST stimulates 'classic signaling', whereas the binding of
+CC       IL11 and soluble IL11RA to IL6ST stimulates 'trans-signaling'
+CC       (PubMed:30279168). {ECO:0000250|UniProtKB:P47873,
+CC       ECO:0000269|PubMed:12919066, ECO:0000269|PubMed:2145578,
+CC       ECO:0000269|PubMed:30279168}.
+CC   -!- SUBUNIT: Interacts with IL11RA to associate with IL6ST, giving rise to
+CC       a multimeric signaling complex. {ECO:0000269|PubMed:12919066,
+CC       ECO:0000269|PubMed:30279168}.
+CC   -!- INTERACTION:
+CC       P20809; P43364: MAGEA11; NbExp=4; IntAct=EBI-751694, EBI-739552;
+CC       P20809; P43364-2: MAGEA11; NbExp=3; IntAct=EBI-751694, EBI-10178634;
+CC       P20809; P25815: S100P; NbExp=2; IntAct=EBI-751694, EBI-743700;
+CC       P20809; Q9UHD9: UBQLN2; NbExp=3; IntAct=EBI-751694, EBI-947187;
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:1828438,
+CC       ECO:0000269|PubMed:2145578}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P20809-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P20809-2; Sequence=VSP_046936;
+CC   -!- PHARMACEUTICAL: Available under the name Neumega (Wyeth). Used for the
+CC       prevention of severe thrombocytopenia and the reduction of the need for
+CC       platelet transfusion following myelosuppressive chemotherapy.
+CC   -!- SIMILARITY: Belongs to the IL-6 superfamily. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Neumega; Note=Clinical information on Neumega;
+CC       URL="https://www.drugs.com/cdi/neumega.html";
+CC   -!- WEB RESOURCE: Name=Wikipedia; Note=Interleukin-11 entry;
+CC       URL="https://en.wikipedia.org/wiki/Interleukin_11";
+CC   -!- WEB RESOURCE: Name=SeattleSNPs;
+CC       URL="http://pga.gs.washington.edu/data/il11/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M57765; AAA59132.1; -; mRNA.
+DR   EMBL; X58377; CAA41266.1; -; mRNA.
+DR   EMBL; AY207429; AAO13493.1; -; Genomic_DNA.
+DR   EMBL; AK298973; BAG61067.1; -; mRNA.
+DR   EMBL; AC020922; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC012506; AAH12506.1; -; mRNA.
+DR   CCDS; CCDS12923.1; -. [P20809-1]
+DR   CCDS; CCDS59423.1; -. [P20809-2]
+DR   PIR; A42830; B38285.
+DR   RefSeq; NP_000632.1; NM_000641.3. [P20809-1]
+DR   RefSeq; NP_001254647.1; NM_001267718.1. [P20809-2]
+DR   PDB; 4MHL; X-ray; 2.09 A; A=23-199.
+DR   PDB; 6O4O; X-ray; 1.62 A; A=32-199.
+DR   PDBsum; 4MHL; -.
+DR   PDBsum; 6O4O; -.
+DR   AlphaFoldDB; P20809; -.
+DR   SMR; P20809; -.
+DR   BioGRID; 109803; 13.
+DR   DIP; DIP-3775N; -.
+DR   IntAct; P20809; 4.
+DR   STRING; 9606.ENSP00000264563; -.
+DR   iPTMnet; P20809; -.
+DR   PhosphoSitePlus; P20809; -.
+DR   BioMuta; IL11; -.
+DR   DMDM; 124294; -.
+DR   MassIVE; P20809; -.
+DR   PaxDb; P20809; -.
+DR   PeptideAtlas; P20809; -.
+DR   ProteomicsDB; 53795; -. [P20809-1]
+DR   Antibodypedia; 19559; 503 antibodies from 37 providers.
+DR   DNASU; 3589; -.
+DR   Ensembl; ENST00000264563.7; ENSP00000264563.1; ENSG00000095752.7. [P20809-1]
+DR   Ensembl; ENST00000585513.1; ENSP00000467355.1; ENSG00000095752.7. [P20809-1]
+DR   Ensembl; ENST00000590625.5; ENSP00000465705.1; ENSG00000095752.7. [P20809-2]
+DR   GeneID; 3589; -.
+DR   KEGG; hsa:3589; -.
+DR   MANE-Select; ENST00000264563.7; ENSP00000264563.1; NM_000641.4; NP_000632.1.
+DR   UCSC; uc002qks.3; human. [P20809-1]
+DR   AGR; HGNC:5966; -.
+DR   CTD; 3589; -.
+DR   DisGeNET; 3589; -.
+DR   GeneCards; IL11; -.
+DR   HGNC; HGNC:5966; IL11.
+DR   HPA; ENSG00000095752; Low tissue specificity.
+DR   MIM; 147681; gene.
+DR   neXtProt; NX_P20809; -.
+DR   OpenTargets; ENSG00000095752; -.
+DR   PharmGKB; PA29781; -.
+DR   VEuPathDB; HostDB:ENSG00000095752; -.
+DR   eggNOG; ENOG502RZVA; Eukaryota.
+DR   GeneTree; ENSGT00390000007165; -.
+DR   HOGENOM; CLU_119797_0_0_1; -.
+DR   InParanoid; P20809; -.
+DR   OMA; WAYRAFI; -.
+DR   OrthoDB; 4636833at2759; -.
+DR   PhylomeDB; P20809; -.
+DR   TreeFam; TF337294; -.
+DR   PathwayCommons; P20809; -.
+DR   Reactome; R-HSA-6788467; IL-6-type cytokine receptor ligand interactions.
+DR   SignaLink; P20809; -.
+DR   SIGNOR; P20809; -.
+DR   BioGRID-ORCS; 3589; 11 hits in 1142 CRISPR screens.
+DR   ChiTaRS; IL11; human.
+DR   GeneWiki; Interleukin_11; -.
+DR   GenomeRNAi; 3589; -.
+DR   Pharos; P20809; Tbio.
+DR   PRO; PR:P20809; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; P20809; protein.
+DR   Bgee; ENSG00000095752; Expressed in islet of Langerhans and 120 other tissues.
+DR   ExpressionAtlas; P20809; baseline and differential.
+DR   Genevisible; P20809; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProt.
+DR   GO; GO:0005125; F:cytokine activity; IDA:UniProt.
+DR   GO; GO:0008083; F:growth factor activity; IDA:UniProtKB.
+DR   GO; GO:0005142; F:interleukin-11 receptor binding; NAS:UniProtKB.
+DR   GO; GO:0030183; P:B cell differentiation; NAS:UniProtKB.
+DR   GO; GO:0008283; P:cell population proliferation; IEA:Ensembl.
+DR   GO; GO:0045444; P:fat cell differentiation; NAS:UniProtKB.
+DR   GO; GO:0038154; P:interleukin-11-mediated signaling pathway; IDA:UniProt.
+DR   GO; GO:0030219; P:megakaryocyte differentiation; NAS:UniProtKB.
+DR   GO; GO:0046888; P:negative regulation of hormone secretion; IDA:MGI.
+DR   GO; GO:0008284; P:positive regulation of cell population proliferation; IDA:UniProtKB.
+DR   GO; GO:0043410; P:positive regulation of MAPK cascade; IDA:MGI.
+DR   GO; GO:0033138; P:positive regulation of peptidyl-serine phosphorylation; IDA:MGI.
+DR   GO; GO:0050731; P:positive regulation of peptidyl-tyrosine phosphorylation; IDA:MGI.
+DR   GO; GO:0045944; P:positive regulation of transcription by RNA polymerase II; IDA:MGI.
+DR   Gene3D; 1.20.1250.10; -; 1.
+DR   InterPro; IPR009079; 4_helix_cytokine-like_core.
+DR   InterPro; IPR020438; IL-11.
+DR   InterPro; IPR020412; IL-11_mml.
+DR   PANTHER; PTHR16922; INTERLEUKIN 11; 1.
+DR   PANTHER; PTHR16922:SF0; INTERLEUKIN-11; 1.
+DR   Pfam; PF07400; IL11; 1.
+DR   PRINTS; PR01943; INTLKN11MAML.
+DR   PRINTS; PR01927; INTRLEUKIN11.
+DR   SUPFAM; SSF47266; 4-helical cytokines; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cytokine; Growth factor;
+KW   Pharmaceutical; Reference proteome; Secreted; Signal.
+FT   SIGNAL          1..21
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           22..199
+FT                   /note="Interleukin-11"
+FT                   /id="PRO_0000015618"
+FT   REGION          182..190
+FT                   /note="Important for interaction with IL11RA and for the
+FT                   stimulation of cell proliferation"
+FT                   /evidence="ECO:0000305"
+FT   SITE            168
+FT                   /note="Important for interaction with IL6ST and for the
+FT                   stimulation of cell proliferation"
+FT                   /evidence="ECO:0000250|UniProtKB:P47873"
+FT   VAR_SEQ         1..79
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:14702039"
+FT                   /id="VSP_046936"
+FT   VARIANT         108
+FT                   /note="V -> M (in dbSNP:rs4252576)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_016313"
+FT   VARIANT         112
+FT                   /note="R -> H (in dbSNP:rs4252548)"
+FT                   /evidence="ECO:0000269|Ref.4"
+FT                   /id="VAR_016314"
+FT   MUTAGEN         182
+FT                   /note="H->V: Increases affinity for IL11RA and stimulation
+FT                   of cell proliferation."
+FT                   /evidence="ECO:0000269|PubMed:12919066"
+FT   MUTAGEN         186
+FT                   /note="D->A: Strongly increases affinity for IL11RA and
+FT                   stimulation of cell proliferation."
+FT                   /evidence="ECO:0000269|PubMed:12919066"
+FT   MUTAGEN         186
+FT                   /note="D->V: Increases affinity for IL11RA and stimulation
+FT                   of cell proliferation."
+FT                   /evidence="ECO:0000269|PubMed:12919066"
+FT   CONFLICT        175
+FT                   /note="H -> L (in Ref. 7; AAH12506)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           35..63
+FT                   /evidence="ECO:0007829|PDB:6O4O"
+FT   HELIX           87..89
+FT                   /evidence="ECO:0007829|PDB:6O4O"
+FT   HELIX           90..114
+FT                   /evidence="ECO:0007829|PDB:6O4O"
+FT   HELIX           117..122
+FT                   /evidence="ECO:0007829|PDB:6O4O"
+FT   HELIX           125..146
+FT                   /evidence="ECO:0007829|PDB:6O4O"
+FT   HELIX           167..196
+FT                   /evidence="ECO:0007829|PDB:6O4O"
+SQ   SEQUENCE   199 AA;  21429 MW;  F292BF8B34F4096D CRC64;
+     MNCVCRLVLV VLSLWPDTAV APGPPPGPPR VSPDPRAELD STVLLTRSLL ADTRQLAAQL
+     RDKFPADGDH NLDSLPTLAM SAGALGALQL PGVLTRLRAD LLSYLRHVQW LRRAGGSSLK
+     TLEPELGTLQ ARLDRLLRRL QLLMSRLALP QPPPDPPAPP LAPPSSAWGG IRAAHAILGG
+     LHLTLDWAVR GLLLLKTRL
+//

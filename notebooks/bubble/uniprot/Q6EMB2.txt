@@ -1,0 +1,528 @@
+ID   TTLL5_HUMAN             Reviewed;        1281 AA.
+AC   Q6EMB2; B9EGH8; B9EGH9; Q9BUB0; Q9H0G4; Q9H7W2; Q9P1V5; Q9UPZ4;
+DT   21-FEB-2006, integrated into UniProtKB/Swiss-Prot.
+DT   16-JUN-2009, sequence version 3.
+DT   28-JUN-2023, entry version 144.
+DE   RecName: Full=Tubulin polyglutamylase TTLL5 {ECO:0000250|UniProtKB:Q8CHB8};
+DE            EC=6.3.2.- {ECO:0000250|UniProtKB:Q8CHB8};
+DE   AltName: Full=SRC1 and TIF2-associated modulatory protein {ECO:0000303|PubMed:17116691};
+DE            Short=STAMP protein {ECO:0000303|PubMed:17116691};
+DE   AltName: Full=Tubulin--tyrosine ligase-like protein 5;
+GN   Name=TTLL5 {ECO:0000312|HGNC:HGNC:19963};
+GN   Synonyms=KIAA0998, STAMP {ECO:0000303|PubMed:17116691};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, SUBCELLULAR LOCATION,
+RP   INTERACTION WITH NCOA1 AND NCOA2, TISSUE SPECIFICITY, AND VARIANTS VAL-149
+RP   AND SER-1267.
+RC   TISSUE=Testis;
+RX   PubMed=17116691; DOI=10.1128/mcb.01360-06;
+RA   He Y., Simons S.S. Jr.;
+RT   "STAMP, a novel predicted factor assisting TIF2 actions in glucocorticoid
+RT   receptor-mediated induction and repression.";
+RL   Mol. Cell. Biol. 27:1467-1485(2007).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12508121; DOI=10.1038/nature01348;
+RA   Heilig R., Eckenberg R., Petit J.-L., Fonknechten N., Da Silva C.,
+RA   Cattolico L., Levy M., Barbe V., De Berardinis V., Ureta-Vidal A.,
+RA   Pelletier E., Vico V., Anthouard V., Rowen L., Madan A., Qin S., Sun H.,
+RA   Du H., Pepin K., Artiguenave F., Robert C., Cruaud C., Bruels T.,
+RA   Jaillon O., Friedlander L., Samson G., Brottier P., Cure S., Segurens B.,
+RA   Aniere F., Samain S., Crespeau H., Abbasi N., Aiach N., Boscus D.,
+RA   Dickhoff R., Dors M., Dubois I., Friedman C., Gouyvenoux M., James R.,
+RA   Madan A., Mairey-Estrada B., Mangenot S., Martins N., Menard M., Oztas S.,
+RA   Ratcliffe A., Shaffer T., Trask B., Vacherie B., Bellemere C., Belser C.,
+RA   Besnard-Gonnet M., Bartol-Mavel D., Boutard M., Briez-Silla S.,
+RA   Combette S., Dufosse-Laurent V., Ferron C., Lechaplais C., Louesse C.,
+RA   Muselet D., Magdelenat G., Pateau E., Petit E., Sirvain-Trukniewicz P.,
+RA   Trybou A., Vega-Czarny N., Bataille E., Bluet E., Bordelais I., Dubois M.,
+RA   Dumont C., Guerin T., Haffray S., Hammadi R., Muanga J., Pellouin V.,
+RA   Robert D., Wunderle E., Gauguet G., Roy A., Sainte-Marthe L., Verdier J.,
+RA   Verdier-Discala C., Hillier L.W., Fulton L., McPherson J., Matsuda F.,
+RA   Wilson R., Scarpelli C., Gyapay G., Wincker P., Saurin W., Quetier F.,
+RA   Waterston R., Hood L., Weissenbach J.;
+RT   "The DNA sequence and analysis of human chromosome 14.";
+RL   Nature 421:601-607(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANT VAL-149.
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Testis;
+RX   PubMed=11230166; DOI=10.1101/gr.gr1547r;
+RA   Wiemann S., Weil B., Wellenreuther R., Gassenhuber J., Glassl S.,
+RA   Ansorge W., Boecher M., Bloecker H., Bauersachs S., Blum H., Lauber J.,
+RA   Duesterhoeft A., Beyer A., Koehrer K., Strack N., Mewes H.-W.,
+RA   Ottenwaelder B., Obermaier B., Tampe J., Heubner D., Wambutt R., Korn B.,
+RA   Klein M., Poustka A.;
+RT   "Towards a catalog of human genes and proteins: sequencing and analysis of
+RT   500 novel complete protein coding human cDNAs.";
+RL   Genome Res. 11:422-435(2001).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 3), AND VARIANT
+RP   VAL-149.
+RC   TISSUE=Brain, Testis, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 24-1281 (ISOFORM 3).
+RC   TISSUE=Teratocarcinoma;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 56-1281 (ISOFORM 1), AND VARIANTS
+RP   VAL-149 AND SER-1267.
+RC   TISSUE=Brain;
+RX   PubMed=10231032; DOI=10.1093/dnares/6.1.63;
+RA   Nagase T., Ishikawa K., Suyama M., Kikuno R., Hirosawa M., Miyajima N.,
+RA   Tanaka A., Kotani H., Nomura N., Ohara O.;
+RT   "Prediction of the coding sequences of unidentified human genes. XIII. The
+RT   complete sequences of 100 new cDNA clones from brain which code for large
+RT   proteins in vitro.";
+RL   DNA Res. 6:63-70(1999).
+RN   [9]
+RP   FUNCTION.
+RX   PubMed=22493317; DOI=10.1091/mbc.e11-11-0931;
+RA   Backer C.B., Gutzman J.H., Pearson C.G., Cheeseman I.M.;
+RT   "CSAP localizes to polyglutamylated microtubules and promotes proper cilia
+RT   function and zebrafish development.";
+RL   Mol. Biol. Cell 23:2122-2130(2012).
+RN   [10]
+RP   INVOLVEMENT IN CORD19, VARIANT CORD19 LYS-543, SUBCELLULAR LOCATION, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=24791901; DOI=10.1016/j.ajhg.2014.04.003;
+RG   UCL-Exomes Consortium;
+RA   Sergouniotis P.I., Chakarova C., Murphy C., Becker M., Lenassi E., Arno G.,
+RA   Lek M., MacArthur D.G., Bhattacharya S.S., Moore A.T., Holder G.E.,
+RA   Robson A.G., Wolfrum U., Webster A.R., Plagnol V.;
+RT   "Biallelic variants in TTLL5, encoding a tubulin glutamylase, cause retinal
+RT   dystrophy.";
+RL   Am. J. Hum. Genet. 94:760-769(2014).
+RN   [11]
+RP   DOMAIN, AND MUTAGENESIS OF 467-LYS--LYS-473.
+RX   PubMed=25959773; DOI=10.1016/j.cell.2015.04.003;
+RA   Garnham C.P., Vemu A., Wilson-Kubalek E.M., Yu I., Szyk A., Lander G.C.,
+RA   Milligan R.A., Roll-Mecak A.;
+RT   "Multivalent microtubule recognition by tubulin tyrosine ligase-like family
+RT   glutamylases.";
+RL   Cell 161:1112-1123(2015).
+CC   -!- FUNCTION: Polyglutamylase which modifies tubulin, generating
+CC       polyglutamate side chains on the gamma-carboxyl group of specific
+CC       glutamate residues within the C-terminal tail of tubulin.
+CC       Preferentially mediates ATP-dependent initiation step of the
+CC       polyglutamylation reaction over the elongation step. Preferentially
+CC       modifies the alpha-tubulin tail over a beta-tail (By similarity).
+CC       Required for CCSAP localization to both polyglutamylated spindle and
+CC       cilia microtubules (PubMed:22493317). Increases the effects of
+CC       transcriptional coactivator NCOA2/TIF2 in glucocorticoid receptor-
+CC       mediated repression and induction and in androgen receptor-mediated
+CC       induction (PubMed:17116691). {ECO:0000250|UniProtKB:Q8CHB8,
+CC       ECO:0000269|PubMed:17116691, ECO:0000269|PubMed:22493317}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=ATP + L-glutamate + L-glutamyl-[protein] = ADP + gamma-L-
+CC         glutamyl-L-glutamyl-[protein] + H(+) + phosphate;
+CC         Xref=Rhea:RHEA:60144, Rhea:RHEA-COMP:10208, Rhea:RHEA-COMP:15517,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:29973, ChEBI:CHEBI:29985,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:43474, ChEBI:CHEBI:143622,
+CC         ChEBI:CHEBI:456216; Evidence={ECO:0000250|UniProtKB:Q8CHB8};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:60145;
+CC         Evidence={ECO:0000250|UniProtKB:Q8CHB8};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=(L-glutamyl)(n)-gamma-L-glutamyl-L-glutamyl-[protein] + ATP +
+CC         L-glutamate = (L-glutamyl)(n+1)-gamma-L-glutamyl-L-glutamyl-[protein]
+CC         + ADP + H(+) + phosphate; Xref=Rhea:RHEA:60148, Rhea:RHEA-COMP:15519,
+CC         Rhea:RHEA-COMP:15675, ChEBI:CHEBI:15378, ChEBI:CHEBI:29985,
+CC         ChEBI:CHEBI:30616, ChEBI:CHEBI:43474, ChEBI:CHEBI:143623,
+CC         ChEBI:CHEBI:456216; Evidence={ECO:0000250|UniProtKB:Q8CHB8};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:60149;
+CC         Evidence={ECO:0000250|UniProtKB:Q8CHB8};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000250|UniProtKB:A4Q9E8};
+CC   -!- SUBUNIT: Interacts with the transcriptional coactivators NCOA1/SRC-1
+CC       and NCOA2/TIF2. {ECO:0000269|PubMed:17116691}.
+CC   -!- SUBCELLULAR LOCATION: Cell projection, cilium
+CC       {ECO:0000269|PubMed:24791901}. Cytoplasm, cytoskeleton, cilium basal
+CC       body {ECO:0000250|UniProtKB:Q8CHB8}. Nucleus
+CC       {ECO:0000269|PubMed:17116691}. Cytoplasm {ECO:0000269|PubMed:17116691}.
+CC       Note=Localized to the base of the connecting cilium between the basal
+CC       body and the adjacent daughter centriole of the cilium. In osteosarcoma
+CC       cells, found in both cytoplasm and nucleus in the absence of steroid
+CC       but located exclusively in the nucleus in the presence of steroid.
+CC       {ECO:0000250|UniProtKB:Q8CHB8, ECO:0000269|PubMed:24791901}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=3;
+CC       Name=1;
+CC         IsoId=Q6EMB2-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q6EMB2-2; Sequence=VSP_037453, VSP_037456, VSP_037457;
+CC       Name=3;
+CC         IsoId=Q6EMB2-3; Sequence=VSP_037454, VSP_037455;
+CC   -!- TISSUE SPECIFICITY: Expressed in the retina, found in the rod and cone
+CC       photoreceptors (at protein level). Widely expressed with highest levels
+CC       in heart and skeletal muscle and low levels in other tissues.
+CC       {ECO:0000269|PubMed:17116691, ECO:0000269|PubMed:24791901}.
+CC   -!- DOMAIN: The flexible c-MTBD (cationic microtubule binding domain)
+CC       region mediates binding to microtubules. It is positively charged and
+CC       becomes ordered when bound to microtubules: it interacts with a
+CC       negatively charged patch on tubulin. The presence of positive charges
+CC       in the c-MTBD region is essential for proper binding.
+CC       {ECO:0000250|UniProtKB:Q6ZT98, ECO:0000269|PubMed:25959773}.
+CC   -!- DOMAIN: Arg-186 is the main determinant for regioselectivity, which
+CC       segregates between initiases and elongases in all tubulin--tyrosine
+CC       ligase family. A glutamine residue at this position is found in
+CC       elongases TTLL6, TTLL9, TTLL11, TTLL13, TTLL10 and favors glutamate-
+CC       chain elongation, whereas an arginine residue is found in initiases
+CC       TTLL2, TTLL4, TTLL5, TTLL3, TTLL8 and favors initiation.
+CC       {ECO:0000250|UniProtKB:A4Q9E8}.
+CC   -!- DISEASE: Cone-rod dystrophy 19 (CORD19) [MIM:615860]: A form of cone-
+CC       rod dystrophy, an inherited retinal dystrophy characterized by retinal
+CC       pigment deposits visible on fundus examination, predominantly in the
+CC       macular region, and initial loss of cone photoreceptors followed by rod
+CC       degeneration. This leads to decreased visual acuity and sensitivity in
+CC       the central visual field, followed by loss of peripheral vision. Severe
+CC       loss of vision occurs earlier than in retinitis pigmentosa, due to cone
+CC       photoreceptors degenerating at a higher rate than rod photoreceptors.
+CC       {ECO:0000269|PubMed:24791901}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the tubulin--tyrosine ligase family.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAF23275.2; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=AAP75557.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY237126; AAP75557.1; ALT_INIT; mRNA.
+DR   EMBL; AC007182; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC009399; AAF23275.2; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AF107885; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471061; EAW81247.1; -; Genomic_DNA.
+DR   EMBL; CR533554; CAG38585.1; -; mRNA.
+DR   EMBL; AL136808; CAB66742.1; -; mRNA.
+DR   EMBL; BC002766; AAH02766.2; -; mRNA.
+DR   EMBL; BC136472; AAI36473.1; -; mRNA.
+DR   EMBL; BC136473; AAI36474.1; -; mRNA.
+DR   EMBL; AK024259; BAB14862.1; -; mRNA.
+DR   EMBL; AB023215; BAA76842.1; -; mRNA.
+DR   CCDS; CCDS32124.1; -. [Q6EMB2-1]
+DR   RefSeq; NP_055887.3; NM_015072.4. [Q6EMB2-1]
+DR   AlphaFoldDB; Q6EMB2; -.
+DR   SMR; Q6EMB2; -.
+DR   BioGRID; 116721; 53.
+DR   IntAct; Q6EMB2; 25.
+DR   MINT; Q6EMB2; -.
+DR   STRING; 9606.ENSP00000298832; -.
+DR   GlyCosmos; Q6EMB2; 1 site, 1 glycan.
+DR   GlyGen; Q6EMB2; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q6EMB2; -.
+DR   PhosphoSitePlus; Q6EMB2; -.
+DR   BioMuta; TTLL5; -.
+DR   DMDM; 239938834; -.
+DR   EPD; Q6EMB2; -.
+DR   jPOST; Q6EMB2; -.
+DR   MassIVE; Q6EMB2; -.
+DR   MaxQB; Q6EMB2; -.
+DR   PaxDb; Q6EMB2; -.
+DR   PeptideAtlas; Q6EMB2; -.
+DR   ProteomicsDB; 66285; -. [Q6EMB2-1]
+DR   ProteomicsDB; 66286; -. [Q6EMB2-2]
+DR   ProteomicsDB; 66287; -. [Q6EMB2-3]
+DR   Antibodypedia; 25856; 65 antibodies from 13 providers.
+DR   DNASU; 23093; -.
+DR   Ensembl; ENST00000286650.9; ENSP00000286650.5; ENSG00000119685.20. [Q6EMB2-3]
+DR   Ensembl; ENST00000298832.14; ENSP00000298832.9; ENSG00000119685.20. [Q6EMB2-1]
+DR   Ensembl; ENST00000556893.5; ENSP00000452524.1; ENSG00000119685.20. [Q6EMB2-2]
+DR   GeneID; 23093; -.
+DR   KEGG; hsa:23093; -.
+DR   MANE-Select; ENST00000298832.14; ENSP00000298832.9; NM_015072.5; NP_055887.3.
+DR   UCSC; uc001xrw.3; human. [Q6EMB2-1]
+DR   AGR; HGNC:19963; -.
+DR   CTD; 23093; -.
+DR   DisGeNET; 23093; -.
+DR   GeneCards; TTLL5; -.
+DR   HGNC; HGNC:19963; TTLL5.
+DR   HPA; ENSG00000119685; Tissue enhanced (testis).
+DR   MalaCards; TTLL5; -.
+DR   MIM; 612268; gene.
+DR   MIM; 615860; phenotype.
+DR   neXtProt; NX_Q6EMB2; -.
+DR   OpenTargets; ENSG00000119685; -.
+DR   Orphanet; 1872; Cone rod dystrophy.
+DR   PharmGKB; PA164742694; -.
+DR   VEuPathDB; HostDB:ENSG00000119685; -.
+DR   eggNOG; KOG2156; Eukaryota.
+DR   eggNOG; KOG2157; Eukaryota.
+DR   GeneTree; ENSGT00940000162939; -.
+DR   HOGENOM; CLU_1034260_0_0_1; -.
+DR   InParanoid; Q6EMB2; -.
+DR   OrthoDB; 7265at2759; -.
+DR   PhylomeDB; Q6EMB2; -.
+DR   TreeFam; TF313087; -.
+DR   PathwayCommons; Q6EMB2; -.
+DR   Reactome; R-HSA-8955332; Carboxyterminal post-translational modifications of tubulin.
+DR   SignaLink; Q6EMB2; -.
+DR   BioGRID-ORCS; 23093; 16 hits in 1159 CRISPR screens.
+DR   ChiTaRS; TTLL5; human.
+DR   GenomeRNAi; 23093; -.
+DR   Pharos; Q6EMB2; Tbio.
+DR   PRO; PR:Q6EMB2; -.
+DR   Proteomes; UP000005640; Chromosome 14.
+DR   RNAct; Q6EMB2; protein.
+DR   Bgee; ENSG00000119685; Expressed in left testis and 205 other tissues.
+DR   ExpressionAtlas; Q6EMB2; baseline and differential.
+DR   Genevisible; Q6EMB2; HS.
+DR   GO; GO:0005813; C:centrosome; IDA:UniProtKB.
+DR   GO; GO:0005929; C:cilium; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005874; C:microtubule; IEA:UniProtKB-KW.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; IDA:HPA.
+DR   GO; GO:0005524; F:ATP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0015631; F:tubulin binding; IBA:GO_Central.
+DR   GO; GO:0070740; F:tubulin-glutamic acid ligase activity; ISS:UniProtKB.
+DR   GO; GO:0000226; P:microtubule cytoskeleton organization; IBA:GO_Central.
+DR   GO; GO:0018095; P:protein polyglutamylation; IBA:GO_Central.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IMP:MGI.
+DR   Gene3D; 3.30.470.20; ATP-grasp fold, B domain; 1.
+DR   InterPro; IPR004344; TTL/TTLL_fam.
+DR   PANTHER; PTHR12241; TUBULIN POLYGLUTAMYLASE; 1.
+DR   PANTHER; PTHR12241:SF145; TUBULIN POLYGLUTAMYLASE TTLL5; 1.
+DR   Pfam; PF03133; TTL; 1.
+DR   SUPFAM; SSF56059; Glutathione synthetase ATP-binding domain-like; 1.
+DR   PROSITE; PS51221; TTL; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; ATP-binding; Cell projection; Cilium;
+KW   Cone-rod dystrophy; Cytoplasm; Cytoskeleton; Disease variant; Ligase;
+KW   Magnesium; Metal-binding; Microtubule; Nucleotide-binding; Nucleus;
+KW   Reference proteome; Transcription.
+FT   CHAIN           1..1281
+FT                   /note="Tubulin polyglutamylase TTLL5"
+FT                   /id="PRO_0000223341"
+FT   DOMAIN          62..407
+FT                   /note="TTL"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00568"
+FT   REGION          378..488
+FT                   /note="c-MTBD region"
+FT                   /evidence="ECO:0000269|PubMed:25959773"
+FT   REGION          577..614
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1072..1114
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1199..1281
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        582..604
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1072..1112
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        1236..1281
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         180
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         186..187
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         186
+FT                   /ligand="a protein"
+FT                   /ligand_id="ChEBI:CHEBI:16541"
+FT                   /ligand_part="L-glutamate residue"
+FT                   /ligand_part_id="ChEBI:CHEBI:29973"
+FT                   /ligand_part_note="L-glutamate acceptor residue in protein
+FT                   target"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         208..211
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         221..223
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         247
+FT                   /ligand="L-glutamate"
+FT                   /ligand_id="ChEBI:CHEBI:29985"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         268..269
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         270
+FT                   /ligand="L-glutamate"
+FT                   /ligand_id="ChEBI:CHEBI:29985"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         271
+FT                   /ligand="L-glutamate"
+FT                   /ligand_id="ChEBI:CHEBI:29985"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         293
+FT                   /ligand="L-glutamate"
+FT                   /ligand_id="ChEBI:CHEBI:29985"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         353
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         366
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         366
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         368
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   BINDING         384
+FT                   /ligand="L-glutamate"
+FT                   /ligand_id="ChEBI:CHEBI:29985"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   SITE            186
+FT                   /note="Essential for specifying initiation versus
+FT                   elongation step of the polyglutamylase activity"
+FT                   /evidence="ECO:0000250|UniProtKB:A4Q9E8"
+FT   VAR_SEQ         1..462
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230166, ECO:0000303|Ref.5"
+FT                   /id="VSP_037453"
+FT   VAR_SEQ         248..269
+FT                   /note="FATVRYDQGAKNIRNQFMHLTN -> KCNWKMGNTMDKRRLPIYVQVL (in
+FT                   isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_037454"
+FT   VAR_SEQ         270..1281
+FT                   /note="Missing (in isoform 3)"
+FT                   /evidence="ECO:0000303|PubMed:14702039,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_037455"
+FT   VAR_SEQ         516
+FT                   /note="D -> DRGNPRRSLLTGRT (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230166, ECO:0000303|Ref.5"
+FT                   /id="VSP_037456"
+FT   VAR_SEQ         1247..1281
+FT                   /note="KGSSAEGQLNGLQSSLNPAAFVPITSSTDPAHTKI -> NTRFRSSFQNYLW
+FT                   YFFQAVS (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:11230166, ECO:0000303|Ref.5"
+FT                   /id="VSP_037457"
+FT   VARIANT         149
+FT                   /note="A -> V (in dbSNP:rs2303345)"
+FT                   /evidence="ECO:0000269|PubMed:10231032,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:17116691,
+FT                   ECO:0000269|Ref.3"
+FT                   /id="VAR_057895"
+FT   VARIANT         203
+FT                   /note="E -> D (in dbSNP:rs17856074)"
+FT                   /id="VAR_057896"
+FT   VARIANT         543
+FT                   /note="E -> K (in CORD19; dbSNP:rs199882533)"
+FT                   /evidence="ECO:0000269|PubMed:24791901"
+FT                   /id="VAR_071327"
+FT   VARIANT         592
+FT                   /note="A -> T (in dbSNP:rs11848004)"
+FT                   /id="VAR_057897"
+FT   VARIANT         1223
+FT                   /note="A -> S (in dbSNP:rs10130991)"
+FT                   /id="VAR_057898"
+FT   VARIANT         1231
+FT                   /note="P -> T (in dbSNP:rs11844617)"
+FT                   /id="VAR_057899"
+FT   VARIANT         1267
+FT                   /note="F -> S (in dbSNP:rs1133834)"
+FT                   /evidence="ECO:0000269|PubMed:10231032,
+FT                   ECO:0000269|PubMed:17116691"
+FT                   /id="VAR_057900"
+FT   MUTAGEN         467..473
+FT                   /note="KVLRRVK->DVLDDVD: Decreased binding to microtubules
+FT                   and polyglutamylase activity."
+FT                   /evidence="ECO:0000269|PubMed:25959773"
+SQ   SEQUENCE   1281 AA;  143577 MW;  01441AFE6925AEDF CRC64;
+     MPIVMARDLE ETASSSEDEE VISQEDHPCI MWTGGCRRIP VLVFHADAIL TKDNNIRVIG
+     ERYHLSYKIV RTDSRLVRSI LTAHGFHEVH PSSTDYNLMW TGSHLKPFLL RTLSEAQKVN
+     HFPRSYELTR KDRLYKNIIR MQHTHGFKAF HILPQTFLLP AEYAEFCNSY SKDRGPWIVK
+     PVASSRGRGV YLINNPNQIS LEENILVSRY INNPLLIDDF KFDVRLYVLV TSYDPLVIYL
+     YEEGLARFAT VRYDQGAKNI RNQFMHLTNY SVNKKSGDYV SCDDPEVEDY GNKWSMSAML
+     RYLKQEGRDT TALMAHVEDL IIKTIISAEL AIATACKTFV PHRSSCFELY GFDVLIDSTL
+     KPWLLEVNLS PSLACDAPLD LKIKASMISD MFTVVGFVCQ DPAQRASTRP IYPTFESSRR
+     NPFQKPQRCR PLSASDAEMK NLVGSAREKG PGKLGGSVLG LSMEEIKVLR RVKEENDRRG
+     GFIRIFPTSE TWEIYGSYLE HKTSMNYMLA TRLFQDRMTA DGAPELKIES LNSKAKLHAA
+     LYERKLLSLE VRKRRRRSSR LRAMRPKYPV ITQPAEMNVK TETESEEEEE VALDNEDEEQ
+     EASQEESAGF LRENQAKYTP SLTALVENTP KENSMKVREW NNKGGHCCKL ETQELEPKFN
+     LMQILQDNGN LSKMQARIAF SAYLQHVQIR LMKDSGGQTF SASWAAKEDE QMELVVRFLK
+     RASNNLQHSL RMVLPSRRLA LLERRRILAH QLGDFIIVYN KETEQMAEKK SKKKVEEEEE
+     DGVNMENFQE FIRQASEAEL EEVLTFYTQK NKSASVFLGT HSKISKNNNN YSDSGAKGDH
+     PETIMEEVKI KPPKQQQTTE IHSDKLSRFT TSAEKEAKLV YSNSSSGPTA TLQKIPNTHL
+     SSVTTSDLSP GPCHHSSLSQ IPSAIPSMPH QPTILLNTVS ASASPCLHPG AQNIPSPTGL
+     PRCRSGSHTI GPFSSFQSAA HIYSQKLSRP SSAKAGSCYL NKHHSGIAKT QKEGEDASLY
+     SKRYNQSMVT AELQRLAEKQ AARQYSPSSH INLLTQQVTN LNLATGIINR SSASAPPTLR
+     PIISPSGPTW STQSDPQAPE NHSSSPGSRS LQTGGFAWEG EVENNVYSQA TGVVPQHKYH
+     PTAGSYQLQF ALQQLEQQKL QSRQLLDQSR ARHQAIFGSQ TLPNSNLWTM NNGAGCRISS
+     ATASGQKPTT LPQKVVPPPS SCASLVPKPP PNHEQVLRRA TSQKASKGSS AEGQLNGLQS
+     SLNPAAFVPI TSSTDPAHTK I
+//

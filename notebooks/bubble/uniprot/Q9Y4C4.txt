@@ -1,0 +1,387 @@
+ID   MFHA1_HUMAN             Reviewed;        1052 AA.
+AC   Q9Y4C4; Q96CI0;
+DT   23-OCT-2007, integrated into UniProtKB/Swiss-Prot.
+DT   18-MAY-2010, sequence version 2.
+DT   28-JUN-2023, entry version 156.
+DE   RecName: Full=Malignant fibrous histiocytoma-amplified sequence 1 {ECO:0000305};
+DE   AltName: Full=Malignant fibrous histiocytoma-amplified sequence with leucine-rich tandem repeats 1 {ECO:0000303|PubMed:9973190};
+GN   Name=MFHAS1 {ECO:0000312|HGNC:HGNC:16982};
+GN   Synonyms=MASL1 {ECO:0000303|PubMed:9973190};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, AND VARIANT PRO-892.
+RC   TISSUE=Fetal brain;
+RX   PubMed=9973190;
+RA   Sakabe T., Shinomiya T., Mori T., Ariyama Y., Fukuda Y., Fujiwara T.,
+RA   Nakamura Y., Inazawa J.;
+RT   "Identification of a novel gene, MASL1, within an amplicon at 8p23.1
+RT   detected in malignant fibrous histiocytomas by comparative genomic
+RT   hybridization.";
+RL   Cancer Res. 59:511-515(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16421571; DOI=10.1038/nature04406;
+RA   Nusbaum C., Mikkelsen T.S., Zody M.C., Asakawa S., Taudien S., Garber M.,
+RA   Kodira C.D., Schueler M.G., Shimizu A., Whittaker C.A., Chang J.L.,
+RA   Cuomo C.A., Dewar K., FitzGerald M.G., Yang X., Allen N.R., Anderson S.,
+RA   Asakawa T., Blechschmidt K., Bloom T., Borowsky M.L., Butler J., Cook A.,
+RA   Corum B., DeArellano K., DeCaprio D., Dooley K.T., Dorris L. III,
+RA   Engels R., Gloeckner G., Hafez N., Hagopian D.S., Hall J.L., Ishikawa S.K.,
+RA   Jaffe D.B., Kamat A., Kudoh J., Lehmann R., Lokitsang T., Macdonald P.,
+RA   Major J.E., Matthews C.D., Mauceli E., Menzel U., Mihalev A.H.,
+RA   Minoshima S., Murayama Y., Naylor J.W., Nicol R., Nguyen C., O'Leary S.B.,
+RA   O'Neill K., Parker S.C.J., Polley A., Raymond C.K., Reichwald K.,
+RA   Rodriguez J., Sasaki T., Schilhabel M., Siddiqui R., Smith C.L.,
+RA   Sneddon T.P., Talamas J.A., Tenzin P., Topham K., Venkataraman V., Wen G.,
+RA   Yamazaki S., Young S.K., Zeng Q., Zimmer A.R., Rosenthal A., Birren B.W.,
+RA   Platzer M., Shimizu N., Lander E.S.;
+RT   "DNA sequence and analysis of human chromosome 8.";
+RL   Nature 439:331-335(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 383-1052, AND VARIANT PRO-892.
+RC   TISSUE=B-cell;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   DISEASE, AND CHROMOSOMAL TRANSLOCATION WITH 14Q21 ELEMENT.
+RX   PubMed=14691450; DOI=10.1038/sj.onc.1207352;
+RA   Tagawa H., Karnan S., Kasugai Y., Tuzuki S., Suzuki R., Hosokawa Y.,
+RA   Seto M.;
+RT   "MASL1, a candidate oncogene found in amplification at 8p23.1, is
+RT   translocated in immunoblastic B-cell lymphoma cell line OCI-LY8.";
+RL   Oncogene 23:2576-2581(2004).
+RN   [5]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-601, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [6]
+RP   INDUCTION.
+RX   PubMed=20616063; DOI=10.1073/pnas.1000093107;
+RA   Ng A.C., Eisenberg J.M., Heath R.J., Huett A., Robinson C.M., Nau G.J.,
+RA   Xavier R.J.;
+RT   "Human leucine-rich repeat proteins: a genome-wide bioinformatic
+RT   categorization and functional analysis in innate immunity.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:4631-4638(2011).
+RN   [7]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY
+RP   [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+RN   [8]
+RP   FUNCTION, INTERACTION WITH RAF1, TISSUE SPECIFICITY, INDUCTION, AND
+RP   MUTAGENESIS OF 414-LEU--ARG-556 AND SER-450.
+RX   PubMed=23327923; DOI=10.1182/blood-2011-10-385252;
+RA   Kumkhaek C., Aerbajinai W., Liu W., Zhu J., Uchida N., Kurlander R.,
+RA   Hsieh M.M., Tisdale J.F., Rodgers G.P.;
+RT   "MASL1 induces erythroid differentiation in human erythropoietin-dependent
+RT   CD34+ cells through the Raf/MEK/ERK pathway.";
+RL   Blood 121:3216-3227(2013).
+RN   [9]
+RP   GTP-BINDING, INTERACTION WITH HSPD1, SUBCELLULAR LOCATION, AND MUTAGENESIS
+RP   OF LYS-443.
+RX   PubMed=24286120; DOI=10.1111/febs.12593;
+RA   Dihanich S., Civiero L., Manzoni C., Mamais A., Bandopadhyay R.,
+RA   Greggio E., Lewis P.A.;
+RT   "GTP binding controls complex formation by the human ROCO protein MASL1.";
+RL   FEBS J. 281:261-274(2014).
+RN   [10]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=26599367; DOI=10.1371/journal.pone.0143662;
+RA   Zhong J., Shi Q.Q., Zhu M.M., Shen J., Wang H.H., Ma D., Miao C.H.;
+RT   "MFHAS1 is associated with sepsis and stimulates TLR2/NF-kappaB signaling
+RT   pathway following negative regulation.";
+RL   PLoS ONE 10:E0143662-E0143662(2015).
+RN   [11]
+RP   FUNCTION, INTERACTION WITH PJA2, UBIQUITINATION BY PJA2, AND REGION.
+RX   PubMed=28471450; DOI=10.1038/cddis.2017.102;
+RA   Zhong J., Wang H., Chen W., Sun Z., Chen J., Xu Y., Weng M., Shi Q., Ma D.,
+RA   Miao C.;
+RT   "Ubiquitylation of MFHAS1 by the ubiquitin ligase praja2 promotes M1
+RT   macrophage polarization by activating JNK and p38 pathways.";
+RL   Cell Death Dis. 8:E2763-E2763(2017).
+RN   [12]
+RP   FUNCTION, INTERACTION WITH PPP2CA AND PPP2R2A, AND REGION.
+RX   PubMed=28609714; DOI=10.1016/j.molimm.2017.06.017;
+RA   Shi Q., Xiong B., Zhong J., Wang H., Ma D., Miao C.;
+RT   "MFHAS1 suppresses TLR4 signaling pathway via induction of PP2A C subunit
+RT   cytoplasm translocation and inhibition of c-Jun dephosphorylation at
+RT   Thr239.";
+RL   Mol. Immunol. 88:79-88(2017).
+RN   [13]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=29168081; DOI=10.1007/s10753-017-0696-0;
+RA   Wang H.H., Sun P.F., Chen W.K., Zhong J., Shi Q.Q., Weng M.L., Ma D.,
+RA   Miao C.H.;
+RT   "High Glucose Stimulates Expression of MFHAS1 to Mitigate Inflammation via
+RT   Akt/HO-1 Pathway in Human Umbilical Vein Endothelial Cells.";
+RL   Inflammation 41:400-408(2018).
+CC   -!- FUNCTION: Probable GTP-binding protein (PubMed:24286120). Functions in
+CC       innate immunity and more specifically the inflammatory response as a
+CC       regulator of the Toll-like receptor TLR2 and TLR4 signaling pathways
+CC       (PubMed:26599367, PubMed:28471450, PubMed:28609714). Negatively
+CC       regulates the part of the TLR4 signaling pathway that leads to the
+CC       activation of the transcription factor AP-1. By retaining the
+CC       phosphatase complex PP2A into the cytoplasm, prevents the
+CC       dephosphorylation of the AP-1 subunit JUN which is required for proper
+CC       activation of the transcription factor (PubMed:28609714). Both inhibits
+CC       and activates the TLR2-dependent signaling pathway (PubMed:26599367).
+CC       Positively regulates the TLR2 signaling pathway to activate
+CC       specifically the downstream p38 and JNK MAP kinases and promote the
+CC       polarization of macrophages toward the pro-inflammatory M1 phenotype
+CC       (PubMed:28471450). It may also play a role in the regulation of
+CC       inflammation induced by high glucose through the PKB/AKT signaling
+CC       pathway (PubMed:29168081). Also involved in erythrocyte differentiation
+CC       through activation of the ERK1/ERK2 signaling pathway
+CC       (PubMed:23327923). {ECO:0000269|PubMed:23327923,
+CC       ECO:0000269|PubMed:24286120, ECO:0000269|PubMed:26599367,
+CC       ECO:0000269|PubMed:28471450, ECO:0000269|PubMed:28609714,
+CC       ECO:0000269|PubMed:29168081}.
+CC   -!- SUBUNIT: Interacts with RAF1 (PubMed:23327923). Interacts with HSPD1
+CC       (PubMed:24286120). Interacts with PPP2CA; retains PPP2CA into the
+CC       cytoplasm and excludes it from the nucleus (PubMed:28609714). Interacts
+CC       with PPP2R2A; the interaction is direct (PubMed:28609714). Interacts
+CC       with PJA2 (PubMed:28471450). {ECO:0000269|PubMed:23327923,
+CC       ECO:0000269|PubMed:24286120, ECO:0000269|PubMed:28471450,
+CC       ECO:0000269|PubMed:28609714}.
+CC   -!- INTERACTION:
+CC       Q9Y4C4; P10809: HSPD1; NbExp=3; IntAct=EBI-2864441, EBI-352528;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:24286120}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed. Overexpressed in malignant
+CC       fibrous histiocytomas (PubMed:9973190). Expressed in red blood cells
+CC       (at protein level) (PubMed:23327923). {ECO:0000269|PubMed:23327923,
+CC       ECO:0000269|PubMed:9973190}.
+CC   -!- INDUCTION: Up-regulated during erythroid cells differentiation (at
+CC       protein level) (PubMed:23327923). Up-regulated upon Toll-like receptor
+CC       TLR2 stimulation (PubMed:26599367). Up-regulated in macrophages upon M.
+CC       tuberculosis infection (PubMed:20616063). Up-regulated upon sepsis
+CC       (PubMed:26599367). Up-regulated by glucose (PubMed:29168081).
+CC       {ECO:0000269|PubMed:20616063, ECO:0000269|PubMed:23327923,
+CC       ECO:0000269|PubMed:26599367, ECO:0000269|PubMed:29168081}.
+CC   -!- PTM: Ubiquitinated. Ubiquitination by PJA2 does not lead MFHAS1 to
+CC       proteasomal degradation but positively regulates its function in
+CC       polarization of macrophages. {ECO:0000269|PubMed:28471450}.
+CC   -!- DISEASE: Note=A chromosomal aberration involving MFHAS1 may be a cause
+CC       of B-cell lymphoma. Translocation t(8;14)(p23.1;q21) with a cryptic
+CC       exon named '14q21 element'. The resulting fusion protein named
+CC       'chimeric MASL1' is tumorigenic in nude mice.
+CC       {ECO:0000269|PubMed:14691450}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AB016816; BAA74737.1; -; mRNA.
+DR   EMBL; AC090567; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC014226; AAH14226.2; -; mRNA.
+DR   CCDS; CCDS34844.1; -.
+DR   RefSeq; NP_004216.2; NM_004225.2.
+DR   AlphaFoldDB; Q9Y4C4; -.
+DR   SMR; Q9Y4C4; -.
+DR   BioGRID; 114681; 128.
+DR   IntAct; Q9Y4C4; 94.
+DR   MINT; Q9Y4C4; -.
+DR   STRING; 9606.ENSP00000276282; -.
+DR   GlyGen; Q9Y4C4; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; Q9Y4C4; -.
+DR   PhosphoSitePlus; Q9Y4C4; -.
+DR   BioMuta; MFHAS1; -.
+DR   DMDM; 296437367; -.
+DR   EPD; Q9Y4C4; -.
+DR   jPOST; Q9Y4C4; -.
+DR   MassIVE; Q9Y4C4; -.
+DR   MaxQB; Q9Y4C4; -.
+DR   PaxDb; Q9Y4C4; -.
+DR   PeptideAtlas; Q9Y4C4; -.
+DR   ProteomicsDB; 86160; -.
+DR   Antibodypedia; 65867; 28 antibodies from 9 providers.
+DR   DNASU; 9258; -.
+DR   Ensembl; ENST00000276282.7; ENSP00000276282.6; ENSG00000147324.11.
+DR   GeneID; 9258; -.
+DR   KEGG; hsa:9258; -.
+DR   MANE-Select; ENST00000276282.7; ENSP00000276282.6; NM_004225.3; NP_004216.2.
+DR   UCSC; uc003wsj.2; human.
+DR   AGR; HGNC:16982; -.
+DR   CTD; 9258; -.
+DR   DisGeNET; 9258; -.
+DR   GeneCards; MFHAS1; -.
+DR   HGNC; HGNC:16982; MFHAS1.
+DR   HPA; ENSG00000147324; Low tissue specificity.
+DR   MIM; 605352; gene.
+DR   neXtProt; NX_Q9Y4C4; -.
+DR   OpenTargets; ENSG00000147324; -.
+DR   PharmGKB; PA30773; -.
+DR   VEuPathDB; HostDB:ENSG00000147324; -.
+DR   eggNOG; KOG0619; Eukaryota.
+DR   GeneTree; ENSGT00940000158928; -.
+DR   HOGENOM; CLU_320767_0_0_1; -.
+DR   InParanoid; Q9Y4C4; -.
+DR   OMA; IVCPKNG; -.
+DR   OrthoDB; 5352941at2759; -.
+DR   PhylomeDB; Q9Y4C4; -.
+DR   TreeFam; TF351429; -.
+DR   PathwayCommons; Q9Y4C4; -.
+DR   SignaLink; Q9Y4C4; -.
+DR   BioGRID-ORCS; 9258; 12 hits in 1154 CRISPR screens.
+DR   ChiTaRS; MFHAS1; human.
+DR   GenomeRNAi; 9258; -.
+DR   Pharos; Q9Y4C4; Tbio.
+DR   PRO; PR:Q9Y4C4; -.
+DR   Proteomes; UP000005640; Chromosome 8.
+DR   RNAct; Q9Y4C4; protein.
+DR   Bgee; ENSG00000147324; Expressed in saphenous vein and 185 other tissues.
+DR   Genevisible; Q9Y4C4; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IDA:UniProtKB.
+DR   GO; GO:0051721; F:protein phosphatase 2A binding; IDA:UniProtKB.
+DR   GO; GO:0031625; F:ubiquitin protein ligase binding; IPI:UniProtKB.
+DR   GO; GO:0030218; P:erythrocyte differentiation; IMP:UniProtKB.
+DR   GO; GO:0006954; P:inflammatory response; IMP:UniProtKB.
+DR   GO; GO:0045087; P:innate immune response; IMP:UniProtKB.
+DR   GO; GO:0050728; P:negative regulation of inflammatory response; IMP:UniProtKB.
+DR   GO; GO:0035308; P:negative regulation of protein dephosphorylation; IMP:UniProtKB.
+DR   GO; GO:1900181; P:negative regulation of protein localization to nucleus; IMP:UniProtKB.
+DR   GO; GO:0034136; P:negative regulation of toll-like receptor 2 signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0034144; P:negative regulation of toll-like receptor 4 signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0070374; P:positive regulation of ERK1 and ERK2 cascade; IMP:UniProtKB.
+DR   GO; GO:0046330; P:positive regulation of JNK cascade; IMP:UniProtKB.
+DR   GO; GO:1900745; P:positive regulation of p38MAPK cascade; IMP:UniProtKB.
+DR   GO; GO:0051897; P:positive regulation of protein kinase B signaling; IMP:UniProtKB.
+DR   GO; GO:0034137; P:positive regulation of toll-like receptor 2 signaling pathway; IMP:UniProtKB.
+DR   GO; GO:0043030; P:regulation of macrophage activation; IMP:UniProtKB.
+DR   GO; GO:0034121; P:regulation of toll-like receptor signaling pathway; IEA:Ensembl.
+DR   Gene3D; 3.40.50.300; P-loop containing nucleotide triphosphate hydrolases; 1.
+DR   Gene3D; 3.80.10.10; Ribonuclease Inhibitor; 2.
+DR   Gene3D; 3.30.70.1390; ROC domain from the Parkinson's disease-associated leucine-rich repeat kinase 2; 1.
+DR   InterPro; IPR001611; Leu-rich_rpt.
+DR   InterPro; IPR003591; Leu-rich_rpt_typical-subtyp.
+DR   InterPro; IPR032675; LRR_dom_sf.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   InterPro; IPR020859; ROC_dom.
+DR   PANTHER; PTHR48051; -; 1.
+DR   PANTHER; PTHR48051:SF1; NON-SPECIFIC SERINE/THREONINE PROTEIN KINASE-RELATED; 1.
+DR   Pfam; PF13855; LRR_8; 3.
+DR   Pfam; PF08477; Roc; 1.
+DR   PRINTS; PR00019; LEURICHRPT.
+DR   SMART; SM00364; LRR_BAC; 11.
+DR   SMART; SM00365; LRR_SD22; 5.
+DR   SMART; SM00369; LRR_TYP; 13.
+DR   SUPFAM; SSF52058; L domain-like; 1.
+DR   SUPFAM; SSF52540; P-loop containing nucleoside triphosphate hydrolases; 1.
+DR   SUPFAM; SSF82615; Polo-box domain; 1.
+DR   PROSITE; PS51450; LRR; 12.
+DR   PROSITE; PS51424; ROC; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Chromosomal rearrangement; Cytoplasm; GTP-binding; Immunity;
+KW   Inflammatory response; Innate immunity; Leucine-rich repeat;
+KW   Nucleotide-binding; Reference proteome; Repeat;
+KW   Signal transduction inhibitor; Tumor suppressor; Ubl conjugation.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   CHAIN           2..1052
+FT                   /note="Malignant fibrous histiocytoma-amplified sequence 1"
+FT                   /id="PRO_0000308609"
+FT   REPEAT          64..85
+FT                   /note="LRR 1"
+FT   REPEAT          88..109
+FT                   /note="LRR 2"
+FT   REPEAT          112..133
+FT                   /note="LRR 3"
+FT   REPEAT          136..157
+FT                   /note="LRR 4"
+FT   REPEAT          159..180
+FT                   /note="LRR 5"
+FT   REPEAT          182..203
+FT                   /note="LRR 6"
+FT   REPEAT          205..226
+FT                   /note="LRR 7"
+FT   REPEAT          228..249
+FT                   /note="LRR 8"
+FT   REPEAT          251..272
+FT                   /note="LRR 9"
+FT   REPEAT          274..296
+FT                   /note="LRR 10"
+FT   REPEAT          297..318
+FT                   /note="LRR 11"
+FT   REPEAT          320..341
+FT                   /note="LRR 12"
+FT   REPEAT          343..364
+FT                   /note="LRR 13"
+FT   DOMAIN          403..649
+FT                   /note="Roc"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00758"
+FT   REGION          64..649
+FT                   /note="Required for interaction with PPP2R2A"
+FT                   /evidence="ECO:0000269|PubMed:28609714"
+FT   REGION          64..364
+FT                   /note="Required for interaction with PJA2"
+FT                   /evidence="ECO:0000269|PubMed:28471450"
+FT   SITE            1000..1001
+FT                   /note="Breakpoint for translocation to form chimeric MASL1"
+FT   MOD_RES         2
+FT                   /note="N-acetylalanine"
+FT                   /evidence="ECO:0007744|PubMed:22814378"
+FT   MOD_RES         601
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   VARIANT         163
+FT                   /note="L -> V (in dbSNP:rs34984230)"
+FT                   /id="VAR_036846"
+FT   VARIANT         892
+FT                   /note="L -> P (in dbSNP:rs429433)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:9973190"
+FT                   /id="VAR_036847"
+FT   MUTAGEN         414..556
+FT                   /note="Missing: Dominant negative effect on the ERK1/ERK2
+FT                   signaling pathway and EPO-induced erythroid
+FT                   differentiation."
+FT                   /evidence="ECO:0000269|PubMed:23327923"
+FT   MUTAGEN         443
+FT                   /note="K->A: Loss of GTP-binding."
+FT                   /evidence="ECO:0000269|PubMed:24286120"
+FT   MUTAGEN         450
+FT                   /note="S->A: Dominant negative effect on the ERK1/ERK2
+FT                   signaling pathway and EPO-induced erythroid
+FT                   differentiation."
+FT                   /evidence="ECO:0000269|PubMed:23327923"
+FT   CONFLICT        529
+FT                   /note="H -> N (in Ref. 1; BAA74737)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   1052 AA;  116950 MW;  D68AB60DEC5F6653 CRC64;
+     MAGMDSGNLK TARLWRDAAL RARKLRSNLR QLTLTAAGAC PGAGADALES PASPQLVLPA
+     NLGDIEALNL GNNGLEEVPE GLGSALGSLR VLVLRRNRFA RLPPAVAELG HHLTELDVSH
+     NRLTALGAEV VSALRELRKL NLSHNQLPAL PAQLGALAHL EELDVSFNRL AHLPDSLSCL
+     SRLRTLDVDH NQLTAFPRQL LQLVALEELD VSSNRLRGLP EDISALRALK ILWLSGAELG
+     TLPAGFCELA SLESLMLDNN GLQALPAQFS CLQRLKMLNL SSNLFEEFPA ALLPLAGLEE
+     LYLSRNQLTS VPSLISGLGR LLTLWLDNNR IRYLPDSIVE LTGLEELVLQ GNQIAVLPDH
+     FGQLSRVGLW KIKDNPLIQP PYEVCMKGIP YIAAYQKELA HSQPAVQPRL KLLLMGHKAA
+     GKTLLRHCLT EERVEGCPGG GDKEKCYPPS PPPVSKGIEV TSWTADASRG LRFIVYDLAG
+     DESYEVIQPF FLSPGALYVL VVNLATYEPR HFPTTVGSFL HRVGARVPHA VVCIVGTHAD
+     LCGERELEEK CLDIHRQIAL QEKHDAEGLS RLAKVVDEAL ARDFELRSAS PHAAYYGVSD
+     KNLRRRKAHF QYLLNHRLQI LSPVLPVSCR DPRHLRRLRD KLLSVAEHRE IFPNLHRVLP
+     RSWQVLEELH FQPPQAQRLW LSWWDSARLG LQAGLTEDRL QSALSYLHES GKLLYFEDSP
+     ALKEHVFHNL TRLIDILNVF FQRDPSLLLH KLLLGTSGEG KAEGESSPPM ARSTPSQELL
+     RATQLHQYVE GFLLHGLLPA HVIRLLLKPH VQAQQDLQLL LELLEKMGLC YCLNKPKGKP
+     LNGSTAWYKF PCYVQNEVPH AEAWINGTNL AGQSFVAEQL QIEYSFPFTF PLGLFARYSV
+     QINSHVVHRS DGKFQIFAYR GKVPVVVSYR PARGVLQPDT LSIASHASLP NIWTAWQAIT
+     PLVEELNVLL QEWPGLHYTV HILCSKCLKR GSPNPHAFPG ELLSQPRPEG VAEIICPKNG
+     SERVNVALVY PPTPTVISPC SKKNVGEKHR NQ
+//

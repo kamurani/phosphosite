@@ -1,0 +1,292 @@
+ID   K1C25_HUMAN             Reviewed;         450 AA.
+AC   Q7Z3Z0;
+DT   04-DEC-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2003, sequence version 1.
+DT   28-JUN-2023, entry version 148.
+DE   RecName: Full=Keratin, type I cytoskeletal 25;
+DE   AltName: Full=Cytokeratin-25;
+DE            Short=CK-25;
+DE   AltName: Full=Keratin-25;
+DE            Short=K25;
+DE   AltName: Full=Keratin-25A;
+DE            Short=K25A;
+DE   AltName: Full=Type I inner root sheath-specific keratin-K25irs1;
+GN   Name=KRT25 {ECO:0000312|HGNC:HGNC:30839};
+GN   Synonyms=KRT25A {ECO:0000312|EMBL:CAD91904.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1] {ECO:0000305, ECO:0000312|EMBL:CAD91904.1}
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   TISSUE=Scalp {ECO:0000312|EMBL:CAD91904.1};
+RX   PubMed=15617563; DOI=10.1111/j.1432-0436.2004.07209006.x;
+RA   Rogers M.A., Winter H., Langbein L., Bleiler R., Schweizer J.;
+RT   "The human type I keratin gene family: characterization of new hair
+RT   follicle specific members and evaluation of the chromosome 17q21.2 gene
+RT   domain.";
+RL   Differentiation 72:527-540(2004).
+RN   [2] {ECO:0000312|EMBL:EAW60676.1}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000305}
+RP   TISSUE SPECIFICITY.
+RX   PubMed=16874310; DOI=10.1038/sj.jid.5700494;
+RA   Langbein L., Rogers M.A., Praetzel-Wunder S., Helmke B., Schirmacher P.,
+RA   Schweizer J.;
+RT   "K25 (K25irs1), K26 (K25irs2), K27 (K25irs3), and K28 (K25irs4) represent
+RT   the type I inner root sheath keratins of the human hair follicle.";
+RL   J. Invest. Dermatol. 126:2377-2386(2006).
+RN   [4]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-442, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=18669648; DOI=10.1073/pnas.0805139105;
+RA   Dephoure N., Zhou C., Villen J., Beausoleil S.A., Bakalarski C.E.,
+RA   Elledge S.J., Gygi S.P.;
+RT   "A quantitative atlas of mitotic phosphorylation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:10762-10767(2008).
+RN   [5]
+RP   VARIANT ARWH3 PRO-317.
+RX   PubMed=26160856; DOI=10.1136/jmedgenet-2015-103255;
+RA   Ansar M., Raza S.I., Lee K., Irfanullah X., Shahi S., Acharya A., Dai H.,
+RA   Smith J.D., Shendure J., Bamshad M.J., Nickerson D.A., Santos-Cortez R.L.,
+RA   Ahmad W., Leal S.M.;
+RT   "A homozygous missense variant in type I keratin KRT25 causes autosomal
+RT   recessive woolly hair.";
+RL   J. Med. Genet. 52:676-680(2015).
+RN   [6]
+RP   VARIANT ARWH3 LEU-238, CHARACTERIZATION OF VARIANT ARWH3 LEU-238, FUNCTION,
+RP   AND SUBUNIT.
+RX   PubMed=26902920; DOI=10.1016/j.jid.2016.01.037;
+RA   Zernov N.V., Skoblov M.Y., Marakhonov A.V., Shimomura Y., Vasilyeva T.A.,
+RA   Konovalov F.A., Abrukova A.V., Zinchenko R.A.;
+RT   "Autosomal recessive hypotrichosis with woolly hair caused by a mutation in
+RT   the keratin 25 gene expressed in hair follicles.";
+RL   J. Invest. Dermatol. 136:1097-1105(2016).
+RN   [7]
+RP   VARIANT ARWH3 ARG-376, CHARACTERIZATION OF VARIANT ARWH3 ARG-376, AND
+RP   SUBUNIT.
+RX   PubMed=28899683; DOI=10.1016/j.jid.2017.08.035;
+RA   Yu X., Chen F., Ni C., Zhang G., Zheng L., Zhang J., Li C., Sandilands A.,
+RA   Yao Z., Li M.;
+RT   "A missense mutation within the helix termination motif of KRT25 causes
+RT   autosomal dominant woolly hair/hypotrichosis.";
+RL   J. Invest. Dermatol. 138:230-233(2018).
+CC   -!- FUNCTION: Essential for the proper assembly of type I and type II
+CC       keratin protein complexes and formation of keratin intermediate
+CC       filaments in the inner root sheath (irs) (By similarity). Plays a role
+CC       in the cytoskeleton organization (PubMed:26902920).
+CC       {ECO:0000250|UniProtKB:Q8VCW2, ECO:0000269|PubMed:26902920}.
+CC   -!- SUBUNIT: Heterodimer of a type I and a type II keratin
+CC       (PubMed:26902920). Heterodimer with type II keratin KRT5 leading to the
+CC       formation of keratin intermediate filament (KIF) network
+CC       (PubMed:28899683). Interacts with KRT6A to form filaments (By
+CC       similarity). {ECO:0000250|UniProtKB:Q8VCW2,
+CC       ECO:0000269|PubMed:26902920, ECO:0000269|PubMed:28899683, ECO:0000305}.
+CC   -!- INTERACTION:
+CC       Q7Z3Z0; O14964: HGS; NbExp=3; IntAct=EBI-11980019, EBI-740220;
+CC       Q7Z3Z0; P04264: KRT1; NbExp=3; IntAct=EBI-11980019, EBI-298429;
+CC       Q7Z3Z0; P35908: KRT2; NbExp=5; IntAct=EBI-11980019, EBI-1247312;
+CC       Q7Z3Z0; P12035: KRT3; NbExp=3; IntAct=EBI-11980019, EBI-2430095;
+CC       Q7Z3Z0; P19013: KRT4; NbExp=3; IntAct=EBI-11980019, EBI-2371606;
+CC       Q7Z3Z0; P13647: KRT5; NbExp=3; IntAct=EBI-11980019, EBI-702187;
+CC       Q7Z3Z0; P02538: KRT6A; NbExp=3; IntAct=EBI-11980019, EBI-702198;
+CC       Q7Z3Z0; P04259: KRT6B; NbExp=3; IntAct=EBI-11980019, EBI-740907;
+CC       Q7Z3Z0; P48668: KRT6C; NbExp=3; IntAct=EBI-11980019, EBI-2564105;
+CC       Q7Z3Z0; Q3SY84: KRT71; NbExp=5; IntAct=EBI-11980019, EBI-2952676;
+CC       Q7Z3Z0; Q14CN4: KRT72; NbExp=3; IntAct=EBI-11980019, EBI-1221280;
+CC       Q7Z3Z0; Q7RTS7: KRT74; NbExp=5; IntAct=EBI-11980019, EBI-968660;
+CC       Q7Z3Z0; O95678: KRT75; NbExp=3; IntAct=EBI-11980019, EBI-2949715;
+CC       Q7Z3Z0; Q01546: KRT76; NbExp=3; IntAct=EBI-11980019, EBI-2952745;
+CC       Q7Z3Z0; Q8N1N4: KRT78; NbExp=3; IntAct=EBI-11980019, EBI-1056564;
+CC       Q7Z3Z0; Q5XKE5: KRT79; NbExp=3; IntAct=EBI-11980019, EBI-2514135;
+CC       Q7Z3Z0; P05787: KRT8; NbExp=3; IntAct=EBI-11980019, EBI-297852;
+CC       Q7Z3Z0; P78385: KRT83; NbExp=3; IntAct=EBI-11980019, EBI-10221390;
+CC       Q7Z3Z0; P78386: KRT85; NbExp=5; IntAct=EBI-11980019, EBI-1049371;
+CC       Q7Z3Z0; O43790: KRT86; NbExp=3; IntAct=EBI-11980019, EBI-9996498;
+CC       Q7Z3Z0; Q8NDC4: MORN4; NbExp=3; IntAct=EBI-11980019, EBI-10269566;
+CC       Q7Z3Z0; O60437: PPL; NbExp=3; IntAct=EBI-11980019, EBI-368321;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q8VCW2}.
+CC   -!- TISSUE SPECIFICITY: Strongly expressed in skin and scalp, and weak
+CC       expression observed in thymus and tongue. In the hair follicle,
+CC       expressed in Henle layer, Huxley layer and in the inner root sheath
+CC       cuticle of the hair follicle. Expression extends from the bulb region
+CC       up to the point of differentiation into the three layers. Also present
+CC       in the medulla of beard hair (at protein level).
+CC       {ECO:0000269|PubMed:15617563, ECO:0000269|PubMed:16874310}.
+CC   -!- DISEASE: Woolly hair autosomal recessive 3 (ARWH3) [MIM:616760]: A hair
+CC       shaft disorder characterized by fine and tightly curled hair. Compared
+CC       to normal curly hair that is observed in some populations, woolly hair
+CC       grows slowly and stops growing after a few inches. Under light
+CC       microscopy, woolly hair shows some structural anomalies, including
+CC       trichorrhexis nodosa and tapered ends. Some individuals may present
+CC       with hypotrichosis. {ECO:0000269|PubMed:26160856,
+CC       ECO:0000269|PubMed:26902920, ECO:0000269|PubMed:28899683}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- MISCELLANEOUS: There are two types of cytoskeletal and microfibrillar
+CC       keratin: I (acidic; 40-55 kDa) and II (neutral to basic; 56-70 kDa).
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the intermediate filament family.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01188}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ564204; CAD91904.1; -; mRNA.
+DR   EMBL; CH471152; EAW60676.1; -; Genomic_DNA.
+DR   CCDS; CCDS11373.1; -.
+DR   RefSeq; NP_853512.1; NM_181534.3.
+DR   AlphaFoldDB; Q7Z3Z0; -.
+DR   SMR; Q7Z3Z0; -.
+DR   BioGRID; 127044; 28.
+DR   ComplexPortal; CPX-5665; Keratin-25 - Keratin-71 dimer complex.
+DR   IntAct; Q7Z3Z0; 22.
+DR   STRING; 9606.ENSP00000310573; -.
+DR   iPTMnet; Q7Z3Z0; -.
+DR   PhosphoSitePlus; Q7Z3Z0; -.
+DR   SwissPalm; Q7Z3Z0; -.
+DR   BioMuta; KRT25; -.
+DR   DMDM; 74723316; -.
+DR   jPOST; Q7Z3Z0; -.
+DR   MassIVE; Q7Z3Z0; -.
+DR   PaxDb; Q7Z3Z0; -.
+DR   PeptideAtlas; Q7Z3Z0; -.
+DR   ProteomicsDB; 69098; -.
+DR   Antibodypedia; 57604; 117 antibodies from 19 providers.
+DR   DNASU; 147183; -.
+DR   Ensembl; ENST00000312150.5; ENSP00000310573.4; ENSG00000204897.7.
+DR   GeneID; 147183; -.
+DR   KEGG; hsa:147183; -.
+DR   MANE-Select; ENST00000312150.5; ENSP00000310573.4; NM_181534.4; NP_853512.1.
+DR   UCSC; uc002hve.3; human.
+DR   AGR; HGNC:30839; -.
+DR   CTD; 147183; -.
+DR   DisGeNET; 147183; -.
+DR   GeneCards; KRT25; -.
+DR   HGNC; HGNC:30839; KRT25.
+DR   HPA; ENSG00000204897; Tissue enriched (skin).
+DR   MalaCards; KRT25; -.
+DR   MIM; 616646; gene.
+DR   MIM; 616760; phenotype.
+DR   neXtProt; NX_Q7Z3Z0; -.
+DR   OpenTargets; ENSG00000204897; -.
+DR   Orphanet; 170; Woolly hair.
+DR   PharmGKB; PA134977088; -.
+DR   VEuPathDB; HostDB:ENSG00000204897; -.
+DR   eggNOG; ENOG502SKJN; Eukaryota.
+DR   GeneTree; ENSGT00940000161994; -.
+DR   HOGENOM; CLU_012560_8_3_1; -.
+DR   InParanoid; Q7Z3Z0; -.
+DR   OMA; TGNSCGI; -.
+DR   OrthoDB; 4640531at2759; -.
+DR   PhylomeDB; Q7Z3Z0; -.
+DR   TreeFam; TF332742; -.
+DR   PathwayCommons; Q7Z3Z0; -.
+DR   Reactome; R-HSA-6805567; Keratinization.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; Q7Z3Z0; -.
+DR   BioGRID-ORCS; 147183; 12 hits in 1140 CRISPR screens.
+DR   GenomeRNAi; 147183; -.
+DR   Pharos; Q7Z3Z0; Tbio.
+DR   PRO; PR:Q7Z3Z0; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; Q7Z3Z0; protein.
+DR   Bgee; ENSG00000204897; Expressed in upper arm skin and 56 other tissues.
+DR   Genevisible; Q7Z3Z0; HS.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0045095; C:keratin filament; IPI:ComplexPortal.
+DR   GO; GO:0046982; F:protein heterodimerization activity; IDA:UniProtKB.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0007010; P:cytoskeleton organization; IDA:UniProtKB.
+DR   GO; GO:0030855; P:epithelial cell differentiation; IBA:GO_Central.
+DR   GO; GO:0042633; P:hair cycle; IDA:UniProtKB.
+DR   GO; GO:0031069; P:hair follicle morphogenesis; IBA:GO_Central.
+DR   GO; GO:0045109; P:intermediate filament organization; IBA:GO_Central.
+DR   Gene3D; 1.20.5.170; -; 1.
+DR   Gene3D; 1.20.5.500; Single helix bin; 1.
+DR   Gene3D; 1.20.5.1160; Vasodilator-stimulated phosphoprotein; 1.
+DR   InterPro; IPR039008; IF_rod_dom.
+DR   InterPro; IPR002957; Keratin_I.
+DR   PANTHER; PTHR23239; INTERMEDIATE FILAMENT; 1.
+DR   PANTHER; PTHR23239:SF160; KERATIN, TYPE I CYTOSKELETAL 25; 1.
+DR   Pfam; PF00038; Filament; 1.
+DR   PRINTS; PR01248; TYPE1KERATIN.
+DR   SMART; SM01391; Filament; 1.
+DR   SUPFAM; SSF64593; Intermediate filament protein, coiled coil region; 2.
+DR   PROSITE; PS51842; IF_ROD_2; 1.
+PE   1: Evidence at protein level;
+KW   Coiled coil; Cytoplasm; Disease variant; Hypotrichosis;
+KW   Intermediate filament; Keratin; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..450
+FT                   /note="Keratin, type I cytoskeletal 25"
+FT                   /id="PRO_0000312691"
+FT   DOMAIN          79..394
+FT                   /note="IF rod"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01188"
+FT   REGION          1..78
+FT                   /note="Head"
+FT                   /evidence="ECO:0000255"
+FT   REGION          1..20
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          79..114
+FT                   /note="Coil 1A"
+FT                   /evidence="ECO:0000255"
+FT   REGION          115..136
+FT                   /note="Linker 1"
+FT                   /evidence="ECO:0000255"
+FT   REGION          137..228
+FT                   /note="Coil 1B"
+FT                   /evidence="ECO:0000255"
+FT   REGION          229..251
+FT                   /note="Linker 12"
+FT                   /evidence="ECO:0000255"
+FT   REGION          252..390
+FT                   /note="Coil 2"
+FT                   /evidence="ECO:0000255"
+FT   REGION          391..450
+FT                   /note="Tail"
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         442
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18669648"
+FT   VARIANT         54
+FT                   /note="S -> L (in dbSNP:rs12951399)"
+FT                   /id="VAR_049786"
+FT   VARIANT         238
+FT                   /note="V -> L (in ARWH3; reduces keratin intermediate
+FT                   filamen formation; impairs cytoskeleton assembly;
+FT                   dbSNP:rs879253749)"
+FT                   /evidence="ECO:0000269|PubMed:26902920"
+FT                   /id="VAR_076303"
+FT   VARIANT         317
+FT                   /note="L -> P (in ARWH3; dbSNP:rs766783183)"
+FT                   /evidence="ECO:0000269|PubMed:26160856"
+FT                   /id="VAR_076304"
+FT   VARIANT         376
+FT                   /note="L -> R (in ARWH3; disruption of keratin intermediate
+FT                   filament formation formed via heterodimerization with
+FT                   KRT5)"
+FT                   /evidence="ECO:0000269|PubMed:28899683"
+FT                   /id="VAR_079711"
+SQ   SEQUENCE   450 AA;  49318 MW;  12AB5BF74BA426FF CRC64;
+     MSLRLSSASR RSCPRPTTGS LRLYGGGTSF GTGNSCGISG IGSGFSSAFG GSSSGGNTGG
+     GNPCAGFTVN ERGLLSGNEK VTMQNLNDRL ASYLDSVHAL EEANADLEQK IKGWYEKFGP
+     GSCRGLDHDY SRYFPIIDDL KNQIIASTTS NANAVLQIDN ARLTADDFRL KYENELALHQ
+     SVEADVNGLR RVLDEITLCR TDLEIQYETL SEEMTYLKKN HKEEMQVLQC AAGGNVNVEM
+     NAAPGVDLTV LLNNMRAEYE ALAEQNRRDA EAWFNEKSAS LQQQISEDVG ATTSARNELT
+     EMKRTLQTLE IELQSLLATK HSLECSLTET ESNYCAQLAQ IQAQIGALEE QLHQVRTETE
+     GQKLEYEQLL DIKLHLEKEI ETYCLLIGGD DGACKSGGYK SKDYGSGNVG SQVKDPAKAI
+     VVKKVLEEVD QRSKILTTRL HSLEEKSQSN
+//

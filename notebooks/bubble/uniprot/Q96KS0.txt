@@ -1,0 +1,644 @@
+ID   EGLN2_HUMAN             Reviewed;         407 AA.
+AC   Q96KS0; A8K5S0; Q8WWY4; Q9BV14;
+DT   16-JUN-2003, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   28-JUN-2023, entry version 187.
+DE   RecName: Full=Prolyl hydroxylase EGLN2 {ECO:0000305};
+DE            EC=1.14.11.- {ECO:0000269|PubMed:11595184, ECO:0000269|PubMed:12039559, ECO:0000269|PubMed:15925519, ECO:0000269|PubMed:17114296, ECO:0000269|PubMed:23932902};
+DE   AltName: Full=Egl nine homolog 2 {ECO:0000305};
+DE            EC=1.14.11.29 {ECO:0000255|PROSITE-ProRule:PRU00805, ECO:0000269|PubMed:11595184, ECO:0000269|PubMed:12039559, ECO:0000269|PubMed:15925519};
+DE   AltName: Full=Estrogen-induced tag 6 {ECO:0000303|PubMed:11850811};
+DE            Short=EIT-6 {ECO:0000303|PubMed:11850811};
+DE   AltName: Full=HPH-3;
+DE   AltName: Full=Hypoxia-inducible factor prolyl hydroxylase 1;
+DE            Short=HIF-PH1;
+DE            Short=HIF-prolyl hydroxylase 1;
+DE            Short=HPH-1;
+DE   AltName: Full=Prolyl hydroxylase domain-containing protein 1 {ECO:0000303|PubMed:11595184};
+DE            Short=PHD1 {ECO:0000303|PubMed:11595184};
+GN   Name=EGLN2 {ECO:0000312|HGNC:HGNC:14660};
+GN   Synonyms=EIT6 {ECO:0000303|PubMed:11850811};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM P43).
+RX   PubMed=11574160; DOI=10.1016/s0378-1119(01)00633-3;
+RA   Taylor M.S.;
+RT   "Characterization and comparative analysis of the EGLN gene family.";
+RL   Gene 275:125-132(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM P43), AND INDUCTION.
+RC   TISSUE=Mammary cancer;
+RX   PubMed=11850811; DOI=10.1038/sj.onc.1205113;
+RA   Seth P., Krop I., Porter D., Polyak K.;
+RT   "Novel estrogen and tamoxifen induced genes identified by SAGE (Serial
+RT   Analysis of Gene Expression).";
+RL   Oncogene 21:836-843(2002).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM P43).
+RC   TISSUE=Fetal brain;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM P43).
+RC   TISSUE=Endometrium;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J., Lamerdin J.E.,
+RA   Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M., Aerts A.,
+RA   Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E., Caenepeel S.,
+RA   Carrano A.V., Caoile C., Chan Y.M., Christensen M., Cleland C.A.,
+RA   Copeland A., Dalin E., Dehal P., Denys M., Detter J.C., Escobar J.,
+RA   Flowers D., Fotopulos D., Garcia C., Georgescu A.M., Glavina T., Gomez M.,
+RA   Gonzales E., Groza M., Hammon N., Hawkins T., Haydu L., Ho I., Huang W.,
+RA   Israni S., Jett J., Kadner K., Kimball H., Kobayashi A., Larionov V.,
+RA   Leem S.-H., Lopez F., Lou Y., Lowry S., Malfatti S., Martinez D.,
+RA   McCready P.M., Medina C., Morgan J., Nelson K., Nolan M., Ovcharenko I.,
+RA   Pitluck S., Pollard M., Popkie A.P., Predki P., Quan G., Ramirez L.,
+RA   Rash S., Retterer J., Rodriguez A., Rogers S., Salamov A., Salazar A.,
+RA   She X., Smith D., Slezak T., Solovyev V., Thayer N., Tice H., Tsai M.,
+RA   Ustaszewska A., Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J.,
+RA   Dubchak I., Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM P43).
+RC   TISSUE=Lung, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   REVIEW.
+RX   PubMed=11595178; DOI=10.1016/s0092-8674(01)00518-9;
+RA   Semenza G.L.;
+RT   "HIF-1, O(2), and the 3 PHDs: how animal cells signal hypoxia to the
+RT   nucleus.";
+RL   Cell 107:1-3(2001).
+RN   [9]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND MUTAGENESIS OF HIS-358.
+RX   PubMed=11595184; DOI=10.1016/s0092-8674(01)00507-4;
+RA   Epstein A.C.R., Gleadle J.M., McNeill L.A., Hewitson K.S., O'Rourke J.,
+RA   Mole D.R., Mukherji M., Metzen E., Wilson M.I., Dhanda A., Tian Y.M.,
+RA   Masson N., Hamilton D.L., Jaakkola P., Barstead R., Hodgkin J.,
+RA   Maxwell P.H., Pugh C.W., Schofield C.J., Ratcliffe P.J.;
+RT   "C. elegans EGL-9 and mammalian homologs define a family of dioxygenases
+RT   that regulate HIF by prolyl hydroxylation.";
+RL   Cell 107:43-54(2001).
+RN   [10]
+RP   SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=12163023; DOI=10.1016/s0006-291x(02)00862-8;
+RA   Oehme F., Ellinghaus P., Kolkhof P., Smith T.J., Ramakrishnan S.,
+RA   Huetter J., Schramm M., Flamme I.;
+RT   "Overexpression of PH-4, a novel putative proline 4-hydroxylase, modulates
+RT   activity of hypoxia-inducible transcription factors.";
+RL   Biochem. Biophys. Res. Commun. 296:343-349(2002).
+RN   [11]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND MUTAGENESIS OF HIS-297; ASP-299; HIS-358
+RP   AND ARG-367.
+RX   PubMed=12039559; DOI=10.1016/s0960-894x(02)00219-6;
+RA   McNeill L.A., Hewitson K.S., Gleadle J.M., Horsfall L.E., Oldham N.J.,
+RA   Maxwell P.H., Pugh C.W., Ratcliffe P.J., Schofield C.J.;
+RT   "The use of dioxygen by HIF prolyl hydroxylase (PHD1).";
+RL   Bioorg. Med. Chem. Lett. 12:1547-1550(2002).
+RN   [12]
+RP   FUNCTION, AND SUBSTRATE RECOGNITION MOTIF.
+RX   PubMed=12181324; DOI=10.1074/jbc.m206955200;
+RA   Huang J., Zhao Q., Mooney S.M., Lee F.S.;
+RT   "Sequence determinants in hypoxia-inducible factor-1alpha for hydroxylation
+RT   by the prolyl hydroxylases PHD1, PHD2, and PHD3.";
+RL   J. Biol. Chem. 277:39792-39800(2002).
+RN   [13]
+RP   SUBCELLULAR LOCATION, AND INDUCTION.
+RX   PubMed=12615973; DOI=10.1242/jcs.00318;
+RA   Metzen E., Berchner-Pfannschmidt U., Stengel P., Marxsen J.H., Stolze I.,
+RA   Klinger M., Huang W.Q., Wotzlaw C., Hellwig-Burgel T., Jelkmann W.,
+RA   Acker H., Fandrey J.;
+RT   "Intracellular localisation of human HIF-1 alpha hydroxylases: implications
+RT   for oxygen sensing.";
+RL   J. Cell Sci. 116:1319-1326(2003).
+RN   [14]
+RP   INDUCTION, AND SUBSTRATE SPECIFICITY.
+RX   PubMed=15247232; DOI=10.1074/jbc.m406026200;
+RA   Appelhoff R.J., Tian Y.M., Raval R.R., Turley H., Harris A.L., Pugh C.W.,
+RA   Ratcliffe P.J., Gleadle J.M.;
+RT   "Differential function of the prolyl hydroxylases PHD1, PHD2, and PHD3 in
+RT   the regulation of hypoxia-inducible factor.";
+RL   J. Biol. Chem. 279:38458-38465(2004).
+RN   [15]
+RP   CATALYTIC ACTIVITY, COFACTOR, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RC   TISSUE=Liver;
+RX   PubMed=15925519; DOI=10.1016/j.pep.2005.03.036;
+RA   Cobb R.R., McClary J., Manzana W., Finster S., Larsen B., Blasko E.,
+RA   Pearson J., Biancalana S., Kauser K., Bringmann P., Light D.R., Schirm S.;
+RT   "Cloning and characterization of the rat HIF-1 alpha prolyl-4-hydroxylase-1
+RT   gene.";
+RL   Protein Expr. Purif. 42:295-304(2005).
+RN   [16]
+RP   FUNCTION, INTERACTION WITH SIAH2, ALTERNATIVE INITIATION, INDUCTION, AND
+RP   MUTAGENESIS OF MET-1 AND MET-34.
+RX   PubMed=16509823; DOI=10.1042/bj20051996;
+RA   Tian Y.M., Mole D.R., Ratcliffe P.J., Gleadle J.M.;
+RT   "Characterization of different isoforms of the HIF prolyl hydroxylase PHD1
+RT   generated by alternative initiation.";
+RL   Biochem. J. 397:179-186(2006).
+RN   [17]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=17114296; DOI=10.1073/pnas.0602235103;
+RA   Cummins E.P., Berra E., Comerford K.M., Ginouves A., Fitzgerald K.T.,
+RA   Seeballuck F., Godson C., Nielsen J.E., Moynagh P., Pouyssegur J.,
+RA   Taylor C.T.;
+RT   "Prolyl hydroxylase-1 negatively regulates IkappaB kinase-beta, giving
+RT   insight into hypoxia-induced NFkappaB activity.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:18154-18159(2006).
+RN   [18]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=19631610; DOI=10.1016/j.bbrc.2009.07.090;
+RA   Steinhoff A., Pientka F.K., Mockel S., Kettelhake A., Hartmann E.,
+RA   Kohler M., Depping R.;
+RT   "Cellular oxygen sensing: Importins and exportins are mediators of
+RT   intracellular localisation of prolyl-4-hydroxylases PHD1 and PHD2.";
+RL   Biochem. Biophys. Res. Commun. 387:705-711(2009).
+RN   [19]
+RP   SUBCELLULAR LOCATION, FUNCTION, MOTIF, AND MUTAGENESIS OF LYS-102; ARG-106;
+RP   ARG-113; ARG-119 AND ARG-134.
+RX   PubMed=19339211; DOI=10.1016/j.bbamcr.2009.01.014;
+RA   Yasumoto K., Kowata Y., Yoshida A., Torii S., Sogawa K.;
+RT   "Role of the intracellular localization of HIF-prolyl hydroxylases.";
+RL   Biochim. Biophys. Acta 1793:792-797(2009).
+RN   [20]
+RP   SUBSTRATE SPECIFICITY, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=21410436; DOI=10.1042/bj20101201;
+RA   Pappalardi M.B., McNulty D.E., Martin J.D., Fisher K.E., Jiang Y.,
+RA   Burns M.C., Zhao H., Ho T., Sweitzer S., Schwartz B., Annan R.S.,
+RA   Copeland R.A., Tummino P.J., Luo L.;
+RT   "Biochemical characterization of human HIF hydroxylases using HIF protein
+RT   substrates that contain all three hydroxylation sites.";
+RL   Biochem. J. 436:363-369(2011).
+RN   [21]
+RP   INTERACTION WITH LIMD1; WTIP AND AJUBA.
+RX   PubMed=22286099; DOI=10.1038/ncb2424;
+RA   Foxler D.E., Bridge K.S., James V., Webb T.M., Mee M., Wong S.C., Feng Y.,
+RA   Constantin-Teodosiu D., Petursdottir T.E., Bjornsson J., Ingvarsson S.,
+RA   Ratcliffe P.J., Longmore G.D., Sharp T.V.;
+RT   "The LIMD1 protein bridges an association between the prolyl hydroxylases
+RT   and VHL to repress HIF-1 activity.";
+RL   Nat. Cell Biol. 14:201-208(2012).
+RN   [22]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=23932902; DOI=10.1016/j.devcel.2013.06.014;
+RA   Moser S.C., Bensaddek D., Ortmann B., Maure J.F., Mudie S., Blow J.J.,
+RA   Lamond A.I., Swedlow J.R., Rocha S.;
+RT   "PHD1 links cell-cycle progression to oxygen sensing through hydroxylation
+RT   of the centrosomal protein Cep192.";
+RL   Dev. Cell 26:381-392(2013).
+RN   [23]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-130, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [24] {ECO:0007744|PDB:5V1B}
+RP   X-RAY CRYSTALLOGRAPHY (2.49 ANGSTROMS) OF 167-403 IN COMPLEX WITH INHIBITOR
+RP   AND IRON, AND COFACTOR.
+RX   PubMed=28594552; DOI=10.1021/acs.jmedchem.7b00352;
+RA   Ahmed S., Ayscough A., Barker G.R., Canning H.E., Davenport R., Downham R.,
+RA   Harrison D., Jenkins K., Kinsella N., Livermore D.G., Wright S.,
+RA   Ivetac A.D., Skene R., Wilkens S.J., Webster N.A., Hendrick A.G.;
+RT   "1,2,4-Triazolo-[1,5-a]pyridine HIF Prolylhydroxylase Domain-1 (PHD-1)
+RT   Inhibitors With a Novel Monodentate Binding Interaction.";
+RL   J. Med. Chem. 60:5663-5672(2017).
+CC   -!- FUNCTION: Prolyl hydroxylase that mediates hydroxylation of proline
+CC       residues in target proteins, such as ATF4, IKBKB, CEP192 and HIF1A
+CC       (PubMed:11595184, PubMed:12039559, PubMed:15925519, PubMed:16509823,
+CC       PubMed:17114296, PubMed:23932902). Target proteins are preferentially
+CC       recognized via a LXXLAP motif (PubMed:11595184, PubMed:12039559,
+CC       PubMed:15925519). Cellular oxygen sensor that catalyzes, under normoxic
+CC       conditions, the post-translational formation of 4-hydroxyproline in
+CC       hypoxia-inducible factor (HIF) alpha proteins (PubMed:11595184,
+CC       PubMed:12039559, PubMed:12181324, PubMed:15925519, PubMed:19339211).
+CC       Hydroxylates a specific proline found in each of the oxygen-dependent
+CC       degradation (ODD) domains (N-terminal, NODD, and C-terminal, CODD) of
+CC       HIF1A (PubMed:11595184, PubMed:12039559, PubMed:12181324,
+CC       PubMed:15925519). Also hydroxylates HIF2A (PubMed:11595184,
+CC       PubMed:12039559, PubMed:15925519). Has a preference for the CODD site
+CC       for both HIF1A and HIF2A (PubMed:11595184, PubMed:12039559,
+CC       PubMed:15925519). Hydroxylated HIFs are then targeted for proteasomal
+CC       degradation via the von Hippel-Lindau ubiquitination complex
+CC       (PubMed:11595184, PubMed:12039559, PubMed:15925519). Under hypoxic
+CC       conditions, the hydroxylation reaction is attenuated allowing HIFs to
+CC       escape degradation resulting in their translocation to the nucleus,
+CC       heterodimerization with HIF1B, and increased expression of hypoxy-
+CC       inducible genes (PubMed:11595184, PubMed:12039559, PubMed:15925519).
+CC       EGLN2 is involved in regulating hypoxia tolerance and apoptosis in
+CC       cardiac and skeletal muscle (PubMed:11595184, PubMed:12039559,
+CC       PubMed:15925519). Also regulates susceptibility to normoxic oxidative
+CC       neuronal death (PubMed:11595184, PubMed:12039559, PubMed:15925519).
+CC       Links oxygen sensing to cell cycle and primary cilia formation by
+CC       hydroxylating the critical centrosome component CEP192 which promotes
+CC       its ubiquitination and subsequent proteasomal degradation
+CC       (PubMed:23932902). Hydroxylates IKBKB, mediating NF-kappa-B activation
+CC       in hypoxic conditions (PubMed:17114296). Also mediates hydroxylation of
+CC       ATF4, leading to decreased protein stability of ATF4 (By similarity).
+CC       {ECO:0000250|UniProtKB:Q91YE2, ECO:0000269|PubMed:11595184,
+CC       ECO:0000269|PubMed:12039559, ECO:0000269|PubMed:12181324,
+CC       ECO:0000269|PubMed:15925519, ECO:0000269|PubMed:16509823,
+CC       ECO:0000269|PubMed:17114296, ECO:0000269|PubMed:19339211,
+CC       ECO:0000269|PubMed:23932902}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=2-oxoglutarate + L-prolyl-[protein] + O2 = CO2 + succinate +
+CC         trans-4-hydroxy-L-prolyl-[protein]; Xref=Rhea:RHEA:63484, Rhea:RHEA-
+CC         COMP:12408, Rhea:RHEA-COMP:16354, ChEBI:CHEBI:15379,
+CC         ChEBI:CHEBI:16526, ChEBI:CHEBI:16810, ChEBI:CHEBI:30031,
+CC         ChEBI:CHEBI:50342, ChEBI:CHEBI:61965;
+CC         Evidence={ECO:0000269|PubMed:11595184, ECO:0000269|PubMed:12039559,
+CC         ECO:0000269|PubMed:15925519, ECO:0000269|PubMed:17114296,
+CC         ECO:0000269|PubMed:23932902};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63485;
+CC         Evidence={ECO:0000269|PubMed:11595184, ECO:0000269|PubMed:12039559,
+CC         ECO:0000269|PubMed:15925519, ECO:0000269|PubMed:17114296,
+CC         ECO:0000269|PubMed:23932902};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=2-oxoglutarate + L-prolyl-[hypoxia-inducible factor alpha
+CC         subunit] + O2 = CO2 + succinate + trans-4-hydroxy-L-prolyl-[hypoxia-
+CC         inducible factor alpha subunit]; Xref=Rhea:RHEA:48400, Rhea:RHEA-
+CC         COMP:12093, Rhea:RHEA-COMP:12094, ChEBI:CHEBI:15379,
+CC         ChEBI:CHEBI:16526, ChEBI:CHEBI:16810, ChEBI:CHEBI:30031,
+CC         ChEBI:CHEBI:50342, ChEBI:CHEBI:61965; EC=1.14.11.29;
+CC         Evidence={ECO:0000269|PubMed:11595184, ECO:0000269|PubMed:12039559,
+CC         ECO:0000269|PubMed:15925519};
+CC   -!- COFACTOR:
+CC       Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU00805, ECO:0000269|PubMed:15925519,
+CC         ECO:0000269|PubMed:28594552, ECO:0007744|PDB:5V1B};
+CC       Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00805, ECO:0000269|PubMed:15925519,
+CC       ECO:0000269|PubMed:28594552, ECO:0007744|PDB:5V1B};
+CC   -!- COFACTOR:
+CC       Name=L-ascorbate; Xref=ChEBI:CHEBI:38290;
+CC         Evidence={ECO:0000269|PubMed:15925519};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=20 uM for HIF1A DLDLEMLAPYIPMDDDFQL peptide (at pH 7.5 and 37
+CC         degrees Celsius) {ECO:0000269|PubMed:15925519};
+CC         KM=50 uM for L-ascorbate (at pH 7.5 and 37 degrees Celsius)
+CC         {ECO:0000269|PubMed:15925519};
+CC         KM=1 uM for Fe(2+) (at pH 7.5 and 37 degrees Celsius)
+CC         {ECO:0000269|PubMed:15925519};
+CC   -!- SUBUNIT: Interacts (preferably isoform p40) with SIAH2; the interaction
+CC       targets both SIAH2 isoforms for proteasomal degradation in vitro
+CC       (PubMed:16509823). Interacts with LIMD1, WTIP and AJUBA
+CC       (PubMed:22286099). {ECO:0000269|PubMed:16509823,
+CC       ECO:0000269|PubMed:22286099}.
+CC   -!- INTERACTION:
+CC       Q96KS0; Q16665: HIF1A; NbExp=2; IntAct=EBI-726614, EBI-447269;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:12163023,
+CC       ECO:0000269|PubMed:12615973, ECO:0000269|PubMed:19339211,
+CC       ECO:0000269|PubMed:19631610}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative initiation; Named isoforms=2;
+CC       Name=p43; Synonyms=PHD1p43;
+CC         IsoId=Q96KS0-1; Sequence=Displayed;
+CC       Name=p40; Synonyms=PHD1p40;
+CC         IsoId=Q96KS0-2; Sequence=VSP_038836;
+CC   -!- TISSUE SPECIFICITY: Expressed in adult and fetal heart, brain, liver,
+CC       lung, skeletal muscle, and kidney. Also expressed in testis and
+CC       placenta. Highest levels in adult brain, placenta, lung, kidney, and
+CC       testis. Expressed in hormone responsive tissues, including normal and
+CC       cancerous mammary, ovarian and prostate epithelium.
+CC       {ECO:0000269|PubMed:12163023}.
+CC   -!- INDUCTION: By estrogen (PubMed:11850811). Induced by proteasomal
+CC       inhibitor MG132 (at protein level) (PubMed:16509823).
+CC       {ECO:0000269|PubMed:11850811, ECO:0000269|PubMed:16509823}.
+CC   -!- INDUCTION: [Isoform p43]: Induced by hypoxia leading to protein
+CC       stability. {ECO:0000269|PubMed:15247232}.
+CC   -!- INDUCTION: [Isoform p40]: Repressed by hypoxia.
+CC       {ECO:0000269|PubMed:15247232}.
+CC   -!- DOMAIN: The Beta(2)beta(3) 'finger-like' loop domain is important for
+CC       substrate (HIFs' CODD/NODD) selectivity.
+CC       {ECO:0000250|UniProtKB:Q9GZT9}.
+CC   -!- PTM: Ubiquitinated by SIAH1 and/or SIAH2 in response to the unfolded
+CC       protein response (UPR), leading to its degradation.
+CC       {ECO:0000250|UniProtKB:Q91YE2}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAH01723.1; Type=Erroneous initiation; Note=Extended N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ310544; CAC42510.1; -; mRNA.
+DR   EMBL; AY040565; AAK82943.1; -; mRNA.
+DR   EMBL; AK291385; BAF84074.1; -; mRNA.
+DR   EMBL; AL832506; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; AC008537; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471126; EAW57008.1; -; Genomic_DNA.
+DR   EMBL; BC001723; AAH01723.1; ALT_INIT; mRNA.
+DR   EMBL; BC036051; AAH36051.1; -; mRNA.
+DR   CCDS; CCDS12567.1; -. [Q96KS0-1]
+DR   RefSeq; NP_444274.1; NM_053046.3. [Q96KS0-1]
+DR   RefSeq; NP_542770.2; NM_080732.3. [Q96KS0-1]
+DR   PDB; 5V1B; X-ray; 2.49 A; A=167-403.
+DR   PDBsum; 5V1B; -.
+DR   AlphaFoldDB; Q96KS0; -.
+DR   SMR; Q96KS0; -.
+DR   BioGRID; 125184; 37.
+DR   CORUM; Q96KS0; -.
+DR   IntAct; Q96KS0; 8.
+DR   MINT; Q96KS0; -.
+DR   STRING; 9606.ENSP00000469686; -.
+DR   BindingDB; Q96KS0; -.
+DR   ChEMBL; CHEMBL3028; -.
+DR   DrugBank; DB00126; Ascorbic acid.
+DR   DrugBank; DB11682; Daprodustat.
+DR   DrugBank; DB04847; Roxadustat.
+DR   DrugBank; DB12255; Vadadustat.
+DR   DrugCentral; Q96KS0; -.
+DR   GuidetoPHARMACOLOGY; 2832; -.
+DR   GlyGen; Q96KS0; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q96KS0; -.
+DR   PhosphoSitePlus; Q96KS0; -.
+DR   BioMuta; EGLN2; -.
+DR   DMDM; 32129513; -.
+DR   MassIVE; Q96KS0; -.
+DR   MaxQB; Q96KS0; -.
+DR   PaxDb; Q96KS0; -.
+DR   PeptideAtlas; Q96KS0; -.
+DR   ProteomicsDB; 77112; -. [Q96KS0-1]
+DR   ProteomicsDB; 77113; -. [Q96KS0-2]
+DR   Antibodypedia; 66726; 475 antibodies from 32 providers.
+DR   DNASU; 112398; -.
+DR   Ensembl; ENST00000303961.9; ENSP00000307080.3; ENSG00000269858.6. [Q96KS0-1]
+DR   Ensembl; ENST00000406058.6; ENSP00000385253.1; ENSG00000269858.6. [Q96KS0-1]
+DR   Ensembl; ENST00000593726.5; ENSP00000469686.1; ENSG00000269858.6. [Q96KS0-1]
+DR   GeneID; 112398; -.
+DR   KEGG; hsa:112398; -.
+DR   MANE-Select; ENST00000303961.9; ENSP00000307080.3; NM_080732.4; NP_542770.2.
+DR   UCSC; uc002opg.5; human. [Q96KS0-1]
+DR   AGR; HGNC:14660; -.
+DR   CTD; 112398; -.
+DR   DisGeNET; 112398; -.
+DR   GeneCards; EGLN2; -.
+DR   HGNC; HGNC:14660; EGLN2.
+DR   HPA; ENSG00000269858; Low tissue specificity.
+DR   MIM; 606424; gene.
+DR   neXtProt; NX_Q96KS0; -.
+DR   OpenTargets; ENSG00000269858; -.
+DR   PharmGKB; PA27671; -.
+DR   VEuPathDB; HostDB:ENSG00000269858; -.
+DR   eggNOG; KOG3710; Eukaryota.
+DR   GeneTree; ENSGT00940000160655; -.
+DR   HOGENOM; CLU_063064_0_0_1; -.
+DR   InParanoid; Q96KS0; -.
+DR   OMA; SSKRPWA; -.
+DR   OrthoDB; 5358684at2759; -.
+DR   PhylomeDB; Q96KS0; -.
+DR   TreeFam; TF314595; -.
+DR   BioCyc; MetaCyc:ENSG00000171570-MON; -.
+DR   BRENDA; 1.14.11.2; 2681.
+DR   BRENDA; 1.14.11.29; 2681.
+DR   PathwayCommons; Q96KS0; -.
+DR   Reactome; R-HSA-1234176; Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha.
+DR   SignaLink; Q96KS0; -.
+DR   SIGNOR; Q96KS0; -.
+DR   BioGRID-ORCS; 112398; 159 hits in 1166 CRISPR screens.
+DR   GeneWiki; EGLN2; -.
+DR   GenomeRNAi; 112398; -.
+DR   Pharos; Q96KS0; Tclin.
+DR   PRO; PR:Q96KS0; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; Q96KS0; protein.
+DR   Bgee; ENSG00000269858; Expressed in left testis and 96 other tissues.
+DR   ExpressionAtlas; Q96KS0; baseline and differential.
+DR   Genevisible; Q96KS0; HS.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0016706; F:2-oxoglutarate-dependent dioxygenase activity; IDA:UniProtKB.
+DR   GO; GO:0008198; F:ferrous iron binding; IDA:UniProtKB.
+DR   GO; GO:0031418; F:L-ascorbic acid binding; IEA:UniProtKB-KW.
+DR   GO; GO:0019826; F:oxygen sensor activity; IDA:UniProtKB.
+DR   GO; GO:0031545; F:peptidyl-proline 4-dioxygenase activity; IDA:UniProtKB.
+DR   GO; GO:0045454; P:cell redox homeostasis; IDA:UniProtKB.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IBA:GO_Central.
+DR   GO; GO:0030520; P:intracellular estrogen receptor signaling pathway; NAS:UniProtKB.
+DR   GO; GO:0018401; P:peptidyl-proline hydroxylation to 4-hydroxy-L-proline; IDA:UniProtKB.
+DR   GO; GO:0045732; P:positive regulation of protein catabolic process; IDA:UniProtKB.
+DR   GO; GO:0001558; P:regulation of cell growth; NAS:UniProtKB.
+DR   GO; GO:0043523; P:regulation of neuron apoptotic process; IMP:UniProtKB.
+DR   GO; GO:0001666; P:response to hypoxia; IDA:UniProtKB.
+DR   Gene3D; 2.60.120.620; q2cbj1_9rhob like domain; 1.
+DR   InterPro; IPR005123; Oxoglu/Fe-dep_dioxygenase.
+DR   InterPro; IPR006620; Pro_4_hyd_alph.
+DR   InterPro; IPR044862; Pro_4_hyd_alph_FE2OG_OXY.
+DR   PANTHER; PTHR12907; EGL NINE HOMOLOG-RELATED; 1.
+DR   PANTHER; PTHR12907:SF6; PROLYL HYDROXYLASE EGLN2; 1.
+DR   Pfam; PF13640; 2OG-FeII_Oxy_3; 1.
+DR   SMART; SM00702; P4Hc; 1.
+DR   PROSITE; PS51471; FE2OG_OXY; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative initiation; Dioxygenase; Iron; Metal-binding;
+KW   Nucleus; Oxidoreductase; Phosphoprotein; Reference proteome;
+KW   Ubl conjugation; Vitamin C.
+FT   CHAIN           1..407
+FT                   /note="Prolyl hydroxylase EGLN2"
+FT                   /id="PRO_0000206664"
+FT   DOMAIN          278..376
+FT                   /note="Fe2OG dioxygenase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00805"
+FT   REGION          1..34
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          50..89
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          108..157
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          225..235
+FT                   /note="Beta(2)beta(3) 'finger-like' loop"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9GZT9"
+FT   MOTIF           89..134
+FT                   /note="Bipartite nuclear localization signal"
+FT                   /evidence="ECO:0000269|PubMed:19339211"
+FT   COMPBIAS        1..19
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        60..77
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         297
+FT                   /ligand="Fe cation"
+FT                   /ligand_id="ChEBI:CHEBI:24875"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00805,
+FT                   ECO:0000269|PubMed:28594552, ECO:0000312|PDB:5V1B"
+FT   BINDING         299
+FT                   /ligand="Fe cation"
+FT                   /ligand_id="ChEBI:CHEBI:24875"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00805,
+FT                   ECO:0000269|PubMed:28594552, ECO:0000312|PDB:5V1B"
+FT   BINDING         358
+FT                   /ligand="Fe cation"
+FT                   /ligand_id="ChEBI:CHEBI:24875"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00805,
+FT                   ECO:0000269|PubMed:28594552, ECO:0000312|PDB:5V1B"
+FT   BINDING         367
+FT                   /ligand="2-oxoglutarate"
+FT                   /ligand_id="ChEBI:CHEBI:16810"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00805"
+FT   MOD_RES         130
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         1..33
+FT                   /note="Missing (in isoform p40)"
+FT                   /evidence="ECO:0000305"
+FT                   /id="VSP_038836"
+FT   MUTAGEN         1
+FT                   /note="M->A: Leads to expression of isoform p40 only."
+FT                   /evidence="ECO:0000269|PubMed:16509823"
+FT   MUTAGEN         34
+FT                   /note="M->A: Leads to expression of isoform p43 only."
+FT                   /evidence="ECO:0000269|PubMed:16509823"
+FT   MUTAGEN         102
+FT                   /note="K->A: Retained in the nucleus."
+FT                   /evidence="ECO:0000269|PubMed:19339211"
+FT   MUTAGEN         106
+FT                   /note="R->A: Retained in the nucleus."
+FT                   /evidence="ECO:0000269|PubMed:19339211"
+FT   MUTAGEN         113
+FT                   /note="R->A: Retained in the nucleus."
+FT                   /evidence="ECO:0000269|PubMed:19339211"
+FT   MUTAGEN         119
+FT                   /note="R->A: Cytoplasmic and nuclear localization. Reduced
+FT                   transcriptional activity of HIF1A as for wild type."
+FT                   /evidence="ECO:0000269|PubMed:19339211"
+FT   MUTAGEN         134
+FT                   /note="R->A: Retained in the nucleus."
+FT                   /evidence="ECO:0000269|PubMed:19339211"
+FT   MUTAGEN         297
+FT                   /note="H->A: Eliminates hydroxylase activity."
+FT                   /evidence="ECO:0000269|PubMed:12039559"
+FT   MUTAGEN         299
+FT                   /note="D->A: Eliminates hydroxylase activity."
+FT                   /evidence="ECO:0000269|PubMed:12039559"
+FT   MUTAGEN         358
+FT                   /note="H->A: Eliminates hydroxylase activity."
+FT                   /evidence="ECO:0000269|PubMed:11595184,
+FT                   ECO:0000269|PubMed:12039559"
+FT   MUTAGEN         367
+FT                   /note="R->A: Eliminates hydroxylase activity."
+FT                   /evidence="ECO:0000269|PubMed:12039559"
+FT   MUTAGEN         367
+FT                   /note="R->K: Eliminates hydroxylase activity on a HIF1A
+FT                   peptide."
+FT                   /evidence="ECO:0000269|PubMed:12039559"
+FT   CONFLICT        176
+FT                   /note="R -> P (in Ref. 2; AAK82943)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           173..180
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   HELIX           182..188
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          190..195
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   HELIX           199..215
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          239..243
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   HELIX           251..265
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   TURN            266..269
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          270..273
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          282..287
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          294..297
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          305..313
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   HELIX           320..323
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          327..329
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          332..335
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          338..340
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          346..351
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          358..360
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          363..365
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   STRAND          367..375
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   HELIX           377..385
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+FT   HELIX           392..395
+FT                   /evidence="ECO:0007829|PDB:5V1B"
+SQ   SEQUENCE   407 AA;  43650 MW;  F172E9B0482C9CF3 CRC64;
+     MDSPCQPQPL SQALPQLPGS SSEPLEPEPG RARMGVESYL PCPLLPSYHC PGVPSEASAG
+     SGTPRATATS TTASPLRDGF GGQDGGELRP LQSEGAAALV TKGCQRLAAQ GARPEAPKRK
+     WAEDGGDAPS PSKRPWARQE NQEAEREGGM SCSCSSGSGE ASAGLMEEAL PSAPERLALD
+     YIVPCMRYYG ICVKDSFLGA ALGGRVLAEV EALKRGGRLR DGQLVSQRAI PPRSIRGDQI
+     AWVEGHEPGC RSIGALMAHV DAVIRHCAGR LGSYVINGRT KAMVACYPGN GLGYVRHVDN
+     PHGDGRCITC IYYLNQNWDV KVHGGLLQIF PEGRPVVANI EPLFDRLLIF WSDRRNPHEV
+     KPAYATRYAI TVWYFDAKER AAAKDKYQLA SGQKGVQVPV SQPPTPT
+//

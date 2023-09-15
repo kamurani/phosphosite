@@ -1,0 +1,245 @@
+ID   PCDC2_HUMAN             Reviewed;        1007 AA.
+AC   Q9Y5I4; Q2M3V1; Q9Y5F4;
+DT   27-APR-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1999, sequence version 1.
+DT   28-JUN-2023, entry version 177.
+DE   RecName: Full=Protocadherin alpha-C2;
+DE            Short=PCDH-alpha-C2;
+DE   Flags: Precursor;
+GN   Name=PCDHAC2;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS LONG AND SHORT).
+RC   TISSUE=Brain;
+RX   PubMed=10380929; DOI=10.1016/s0092-8674(00)80789-8;
+RA   Wu Q., Maniatis T.;
+RT   "A striking organization of a large family of human neural cadherin-like
+RT   cell adhesion genes.";
+RL   Cell 97:779-790(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM SHORT).
+RC   TISSUE=Cerebellum;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Potential calcium-dependent cell-adhesion protein. May be
+CC       involved in the establishment and maintenance of specific neuronal
+CC       connections in the brain.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Single-pass type I
+CC       membrane protein {ECO:0000250}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=Long;
+CC         IsoId=Q9Y5I4-1; Sequence=Displayed;
+CC       Name=Short;
+CC         IsoId=Q9Y5I4-2; Sequence=VSP_000701, VSP_000702;
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF152304; AAD43698.1; -; mRNA.
+DR   EMBL; AF152474; AAD43735.1; -; mRNA.
+DR   EMBL; CH471062; EAW62000.1; -; Genomic_DNA.
+DR   EMBL; BC104776; AAI04777.1; -; mRNA.
+DR   EMBL; BC105111; AAI05112.1; -; mRNA.
+DR   CCDS; CCDS4242.1; -. [Q9Y5I4-1]
+DR   RefSeq; NP_061722.1; NM_018899.5. [Q9Y5I4-1]
+DR   RefSeq; NP_114089.1; NM_031883.2. [Q9Y5I4-2]
+DR   AlphaFoldDB; Q9Y5I4; -.
+DR   SMR; Q9Y5I4; -.
+DR   BioGRID; 121074; 101.
+DR   IntAct; Q9Y5I4; 37.
+DR   STRING; 9606.ENSP00000289269; -.
+DR   GlyCosmos; Q9Y5I4; 4 sites, No reported glycans.
+DR   GlyGen; Q9Y5I4; 4 sites.
+DR   iPTMnet; Q9Y5I4; -.
+DR   PhosphoSitePlus; Q9Y5I4; -.
+DR   BioMuta; PCDHAC2; -.
+DR   DMDM; 13878435; -.
+DR   EPD; Q9Y5I4; -.
+DR   MassIVE; Q9Y5I4; -.
+DR   PaxDb; Q9Y5I4; -.
+DR   PeptideAtlas; Q9Y5I4; -.
+DR   ProteomicsDB; 86414; -. [Q9Y5I4-1]
+DR   ProteomicsDB; 86415; -. [Q9Y5I4-2]
+DR   TopDownProteomics; Q9Y5I4-2; -. [Q9Y5I4-2]
+DR   Antibodypedia; 35019; 177 antibodies from 24 providers.
+DR   DNASU; 56134; -.
+DR   Ensembl; ENST00000289269.7; ENSP00000289269.5; ENSG00000243232.6. [Q9Y5I4-1]
+DR   Ensembl; ENST00000615316.1; ENSP00000478629.1; ENSG00000243232.6. [Q9Y5I4-2]
+DR   GeneID; 56134; -.
+DR   KEGG; hsa:56134; -.
+DR   MANE-Select; ENST00000289269.7; ENSP00000289269.5; NM_018899.6; NP_061722.1.
+DR   UCSC; uc003lii.4; human. [Q9Y5I4-1]
+DR   AGR; HGNC:8677; -.
+DR   CTD; 56134; -.
+DR   DisGeNET; 56134; -.
+DR   GeneCards; PCDHAC2; -.
+DR   HGNC; HGNC:8677; PCDHAC2.
+DR   HPA; ENSG00000243232; Tissue enhanced (brain, parathyroid gland).
+DR   MIM; 604966; gene.
+DR   MIM; 606321; gene.
+DR   neXtProt; NX_Q9Y5I4; -.
+DR   OpenTargets; ENSG00000243232; -.
+DR   PharmGKB; PA33023; -.
+DR   VEuPathDB; HostDB:ENSG00000243232; -.
+DR   eggNOG; KOG3594; Eukaryota.
+DR   GeneTree; ENSGT00940000160554; -.
+DR   HOGENOM; CLU_006480_0_0_1; -.
+DR   InParanoid; Q9Y5I4; -.
+DR   OMA; AGICNWI; -.
+DR   OrthoDB; 4259465at2759; -.
+DR   PhylomeDB; Q9Y5I4; -.
+DR   TreeFam; TF332299; -.
+DR   PathwayCommons; Q9Y5I4; -.
+DR   SignaLink; Q9Y5I4; -.
+DR   SIGNOR; Q9Y5I4; -.
+DR   BioGRID-ORCS; 56134; 10 hits in 1097 CRISPR screens.
+DR   GeneWiki; PCDHAC2; -.
+DR   GenomeRNAi; 56134; -.
+DR   Pharos; Q9Y5I4; Tbio.
+DR   PRO; PR:Q9Y5I4; -.
+DR   Proteomes; UP000005640; Chromosome 5.
+DR   RNAct; Q9Y5I4; protein.
+DR   Bgee; ENSG00000243232; Expressed in cortical plate and 100 other tissues.
+DR   Genevisible; Q9Y5I4; HS.
+DR   GO; GO:0005886; C:plasma membrane; TAS:ProtInc.
+DR   GO; GO:0005509; F:calcium ion binding; IEA:InterPro.
+DR   GO; GO:0007155; P:cell adhesion; IBA:GO_Central.
+DR   GO; GO:0007156; P:homophilic cell adhesion via plasma membrane adhesion molecules; IEA:InterPro.
+DR   GO; GO:0007399; P:nervous system development; TAS:ProtInc.
+DR   CDD; cd11304; Cadherin_repeat; 6.
+DR   Gene3D; 2.60.40.60; Cadherins; 6.
+DR   InterPro; IPR002126; Cadherin-like_dom.
+DR   InterPro; IPR015919; Cadherin-like_sf.
+DR   InterPro; IPR032455; Cadherin_C.
+DR   InterPro; IPR031904; Cadherin_CBD.
+DR   InterPro; IPR020894; Cadherin_CS.
+DR   InterPro; IPR013164; Cadherin_N.
+DR   PANTHER; PTHR24028; CADHERIN-87A; 1.
+DR   PANTHER; PTHR24028:SF119; PROTOCADHERIN ALPHA-C2; 1.
+DR   Pfam; PF00028; Cadherin; 5.
+DR   Pfam; PF08266; Cadherin_2; 1.
+DR   Pfam; PF16492; Cadherin_C_2; 1.
+DR   Pfam; PF15974; Cadherin_tail; 1.
+DR   PRINTS; PR00205; CADHERIN.
+DR   SMART; SM00112; CA; 6.
+DR   SUPFAM; SSF49313; Cadherin-like; 6.
+DR   PROSITE; PS00232; CADHERIN_1; 5.
+DR   PROSITE; PS50268; CADHERIN_2; 6.
+PE   2: Evidence at transcript level;
+KW   Alternative splicing; Calcium; Cell adhesion; Cell membrane; Glycoprotein;
+KW   Membrane; Reference proteome; Repeat; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..42
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           43..1007
+FT                   /note="Protocadherin alpha-C2"
+FT                   /id="PRO_0000003912"
+FT   TOPO_DOM        43..708
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        709..729
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        730..1007
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          43..148
+FT                   /note="Cadherin 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          149..257
+FT                   /note="Cadherin 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          258..365
+FT                   /note="Cadherin 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          374..469
+FT                   /note="Cadherin 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          470..579
+FT                   /note="Cadherin 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   DOMAIN          594..691
+FT                   /note="Cadherin 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00043"
+FT   REPEAT          856..859
+FT                   /note="PXXP 1"
+FT   REPEAT          889..892
+FT                   /note="PXXP 2"
+FT   REPEAT          930..933
+FT                   /note="PXXP 3"
+FT   REPEAT          948..951
+FT                   /note="PXXP 4"
+FT   REGION          856..951
+FT                   /note="4 X 4 AA repeats of P-X-X-P"
+FT   REGION          885..1007
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        916..930
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        955..969
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        992..1007
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        280
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        436
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        586
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        657
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         856..884
+FT                   /note="PRQPNPDWRYSASLRAGMHSSVHLEEAGI -> VRQWSGGLLQTHAFVTHPP
+FT                   ISCDLALLSH (in isoform Short)"
+FT                   /evidence="ECO:0000303|PubMed:10380929,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_000701"
+FT   VAR_SEQ         885..1007
+FT                   /note="Missing (in isoform Short)"
+FT                   /evidence="ECO:0000303|PubMed:10380929,
+FT                   ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_000702"
+SQ   SEQUENCE   1007 AA;  109450 MW;  39BF2356923E3B67 CRC64;
+     MEQAGTRPAA TEHPRLRRPM PWLLLLPLLL LLLLLLPGPA ASQLRYSVPE EQAPGALVGN
+     VARALGLELR RLGPGCLRIN HLGAPSPRYL ELDLTSGALF VNERIDREAL CEQRPRCLLS
+     LEVLAHNPVA VSAVEVEILD INDNSPRFPR PNYQLQVSES VAPGARFHIE SAQDPDVGAN
+     SVQTYELSPS EHFELDLKPL QENSKVLELV LRKGLDREQA ALHHLVLTAV DGGIPARSGT
+     AQISVRVLDT NDNSPAFDQS TYRVQLREDS PPGTLVVKLN ASDPDEGSNG ELRYSLSSYT
+     SDRERQLFSI DASTGEVRVI GGLDYEEASS YQIYVQATDR GPVPMAGHCK VLVDIVDVND
+     NAPEVVLTDL YSPVPENATP NTIVAVLSVN DQDSGPNRKV SLGLEATLPF RLNGFGNSYT
+     LVVSGPLDRE RVAVYNITVT ATDGGIPQLT SLRTLKVEIS DINDNPPSFL EDSYSIYIQE
+     NNLPGVLLCT VQATDPDEKE NAEVTYSLLE REIQGLPVTS YVSINSASGS LYAVNSFDYE
+     KFREFFVTVE AQDKGSPPLS STVTANVYVV DMNDHAPHIL YPTSTNSSAA FEMVPRTAPA
+     GYLVTKVIAM DSDSGQNAWL FYHLAQTSDL DLFKVELHTG EIRTTRKMGD ESGSTFNLTV
+     VVRDNGEPSL SASVAITVAV VDRVSKILPD TQRHVKSPRT YSEITLYLII ALSTVSFIFL
+     LTIIILSIIK CYRYTAYGTA CCGGFCGVRE RSPAELYKQA NNNIDARIPH GLKVQPHFIE
+     VRGNGSLTKT YCYKACLTAG SGSDTFMFYN TGAQTGPGPS GAQAAVTDSR NLTGQSGQNA
+     GNLIILKNEA VSQNEPRQPN PDWRYSASLR AGMHSSVHLE EAGILRAGPG GPDQQWPTVS
+     SATPEPEAGE VSPPVGAGVN SNSWTFKYGP GNPKQSGPGE LPDKFIIPGS PAIISIRQEP
+     TNSQIDKSDF ITFGKKEETK KKKKKKKGNK TQEKKEKGNS TTDNSDQ
+//

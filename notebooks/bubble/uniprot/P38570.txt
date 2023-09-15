@@ -1,0 +1,440 @@
+ID   ITAE_HUMAN              Reviewed;        1179 AA.
+AC   P38570; Q17RS6; Q9NZU9;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   14-APR-2009, sequence version 3.
+DT   28-JUN-2023, entry version 199.
+DE   RecName: Full=Integrin alpha-E;
+DE   AltName: Full=HML-1 antigen;
+DE   AltName: Full=Integrin alpha-IEL;
+DE   AltName: Full=Mucosal lymphocyte 1 antigen;
+DE   AltName: CD_antigen=CD103;
+DE   Contains:
+DE     RecName: Full=Integrin alpha-E light chain;
+DE   Contains:
+DE     RecName: Full=Integrin alpha-E heavy chain;
+DE   Flags: Precursor;
+GN   Name=ITGAE;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 19-38 AND 179-188, AND
+RP   VARIANTS VAL-477; GLN-482 AND ALA-1019.
+RC   TISSUE=Leukemia, and Lymphocyte;
+RX   PubMed=8119947; DOI=10.1016/s0021-9258(17)37563-4;
+RA   Shaw S.K., Cepek K.L., Murphy E.A., Russell G.J., Brenner M.B.,
+RA   Parker C.M.;
+RT   "Molecular cloning of the human mucosal lymphocyte integrin alpha E
+RT   subunit. Unusual structure and restricted RNA distribution.";
+RL   J. Biol. Chem. 269:6016-6025(1994).
+RN   [2]
+RP   SEQUENCE REVISION TO 88-114.
+RA   Parker C.M.;
+RL   Submitted (MAR-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16625196; DOI=10.1038/nature04689;
+RA   Zody M.C., Garber M., Adams D.J., Sharpe T., Harrow J., Lupski J.R.,
+RA   Nicholson C., Searle S.M., Wilming L., Young S.K., Abouelleil A.,
+RA   Allen N.R., Bi W., Bloom T., Borowsky M.L., Bugalter B.E., Butler J.,
+RA   Chang J.L., Chen C.-K., Cook A., Corum B., Cuomo C.A., de Jong P.J.,
+RA   DeCaprio D., Dewar K., FitzGerald M., Gilbert J., Gibson R., Gnerre S.,
+RA   Goldstein S., Grafham D.V., Grocock R., Hafez N., Hagopian D.S., Hart E.,
+RA   Norman C.H., Humphray S., Jaffe D.B., Jones M., Kamal M., Khodiyar V.K.,
+RA   LaButti K., Laird G., Lehoczky J., Liu X., Lokyitsang T., Loveland J.,
+RA   Lui A., Macdonald P., Major J.E., Matthews L., Mauceli E., McCarroll S.A.,
+RA   Mihalev A.H., Mudge J., Nguyen C., Nicol R., O'Leary S.B., Osoegawa K.,
+RA   Schwartz D.C., Shaw-Smith C., Stankiewicz P., Steward C., Swarbreck D.,
+RA   Venkataraman V., Whittaker C.A., Yang X., Zimmer A.R., Bradley A.,
+RA   Hubbard T., Birren B.W., Rogers J., Lander E.S., Nusbaum C.;
+RT   "DNA sequence of human chromosome 17 and analysis of rearrangement in the
+RT   human lineage.";
+RL   Nature 440:1045-1049(2006).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANTS VAL-477; GLN-482 AND
+RP   ALA-1019.
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 53-1179, AND VARIANT TRP-950.
+RC   TISSUE=Fetal kidney;
+RX   PubMed=10673275; DOI=10.1101/gr.10.2.165;
+RA   Touchman J.W., Anikster Y., Dietrich N.L., Maduro V.V.B., McDowell G.,
+RA   Shotelersuk V., Bouffard G.G., Beckstrom-Sternberg S.M., Gahl W.A.,
+RA   Green E.D.;
+RT   "The genomic region encompassing the nephropathic cystinosis gene (CTNS):
+RT   complete sequencing of a 200-kb segment and discovery of a novel gene
+RT   within the common cystinosis-causing deletion.";
+RL   Genome Res. 10:165-173(2000).
+RN   [6]
+RP   INTERACTION WITH INTEGRIN BETA-7, AND INDUCTION.
+RX   PubMed=1542691; DOI=10.1073/pnas.89.5.1924;
+RA   Parker C.M., Cepek K.L., Russell G.J., Shaw S.K., Posnett D.N.,
+RA   Schwarting R., Brenner M.B.;
+RT   "A family of beta 7 integrins on human mucosal lymphocytes.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:1924-1928(1992).
+RN   [7]
+RP   MUTAGENESIS OF ASP-208 AND PHE-316.
+RX   PubMed=10837471; DOI=10.1074/jbc.m001228200;
+RA   Higgins J.M.G., Cernadas M., Tan K., Irie A., Wang J.-H., Takada Y.,
+RA   Brenner M.B.;
+RT   "The role of alpha and beta chains in ligand recognition by beta 7
+RT   integrins.";
+RL   J. Biol. Chem. 275:25652-25664(2000).
+CC   -!- FUNCTION: Integrin alpha-E/beta-7 is a receptor for E-cadherin. It
+CC       mediates adhesion of intra-epithelial T-lymphocytes to epithelial cell
+CC       monolayers.
+CC   -!- SUBUNIT: Heterodimer of an alpha and a beta subunit. The alpha subunit
+CC       is composed of a heavy and a light chains linked by a disulfide bond.
+CC       Alpha-E associates with beta-7.
+CC   -!- SUBCELLULAR LOCATION: Membrane; Single-pass type I membrane protein.
+CC   -!- TISSUE SPECIFICITY: Expressed on a subclass of T-lymphocytes known as
+CC       intra-epithelial lymphocytes which are located between mucosal
+CC       epithelial cells.
+CC   -!- INDUCTION: Integrin alpha-E/beta-7 is induced by TGFB1.
+CC       {ECO:0000269|PubMed:1542691}.
+CC   -!- DOMAIN: The integrin I-domain (insert) is a VWFA domain. Integrins with
+CC       I-domains do not undergo protease cleavage.
+CC   -!- SIMILARITY: Belongs to the integrin alpha chain family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L25851; AAB59359.2; -; mRNA.
+DR   EMBL; AC116914; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC113436; AAI13437.1; -; mRNA.
+DR   EMBL; BC117207; AAI17208.1; -; mRNA.
+DR   EMBL; AF168787; AAF43107.1; -; Genomic_DNA.
+DR   CCDS; CCDS32531.1; -.
+DR   PIR; A53213; A53213.
+DR   RefSeq; NP_002199.3; NM_002208.4.
+DR   AlphaFoldDB; P38570; -.
+DR   SMR; P38570; -.
+DR   BioGRID; 109888; 5.
+DR   ComplexPortal; CPX-1824; Integrin alphaE-beta7 complex.
+DR   CORUM; P38570; -.
+DR   IntAct; P38570; 2.
+DR   STRING; 9606.ENSP00000263087; -.
+DR   GlyCosmos; P38570; 11 sites, No reported glycans.
+DR   GlyGen; P38570; 11 sites.
+DR   iPTMnet; P38570; -.
+DR   PhosphoSitePlus; P38570; -.
+DR   BioMuta; ITGAE; -.
+DR   DMDM; 226694184; -.
+DR   CPTAC; CPTAC-5961; -.
+DR   EPD; P38570; -.
+DR   jPOST; P38570; -.
+DR   MassIVE; P38570; -.
+DR   PaxDb; P38570; -.
+DR   PeptideAtlas; P38570; -.
+DR   ProteomicsDB; 55300; -.
+DR   Antibodypedia; 10997; 1209 antibodies from 44 providers.
+DR   CPTC; P38570; 1 antibody.
+DR   DNASU; 3682; -.
+DR   Ensembl; ENST00000263087.9; ENSP00000263087.4; ENSG00000083457.12.
+DR   GeneID; 3682; -.
+DR   KEGG; hsa:3682; -.
+DR   MANE-Select; ENST00000263087.9; ENSP00000263087.4; NM_002208.5; NP_002199.3.
+DR   UCSC; uc002fwo.5; human.
+DR   AGR; HGNC:6147; -.
+DR   CTD; 3682; -.
+DR   DisGeNET; 3682; -.
+DR   GeneCards; ITGAE; -.
+DR   HGNC; HGNC:6147; ITGAE.
+DR   HPA; ENSG00000083457; Tissue enhanced (bone marrow, intestine, lung).
+DR   MIM; 604682; gene.
+DR   neXtProt; NX_P38570; -.
+DR   OpenTargets; ENSG00000083457; -.
+DR   PharmGKB; PA29947; -.
+DR   VEuPathDB; HostDB:ENSG00000083457; -.
+DR   eggNOG; KOG3637; Eukaryota.
+DR   GeneTree; ENSGT00940000161532; -.
+DR   HOGENOM; CLU_004111_0_0_1; -.
+DR   InParanoid; P38570; -.
+DR   OMA; FKRMQKP; -.
+DR   OrthoDB; 3816176at2759; -.
+DR   PhylomeDB; P38570; -.
+DR   TreeFam; TF105391; -.
+DR   PathwayCommons; P38570; -.
+DR   Reactome; R-HSA-216083; Integrin cell surface interactions.
+DR   SignaLink; P38570; -.
+DR   SIGNOR; P38570; -.
+DR   BioGRID-ORCS; 3682; 9 hits in 1163 CRISPR screens.
+DR   ChiTaRS; ITGAE; human.
+DR   GeneWiki; ITGAE; -.
+DR   GenomeRNAi; 3682; -.
+DR   Pharos; P38570; Tbio.
+DR   PRO; PR:P38570; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   RNAct; P38570; protein.
+DR   Bgee; ENSG00000083457; Expressed in oocyte and 206 other tissues.
+DR   ExpressionAtlas; P38570; baseline and differential.
+DR   Genevisible; P38570; HS.
+DR   GO; GO:0009897; C:external side of plasma membrane; IBA:GO_Central.
+DR   GO; GO:0008305; C:integrin complex; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0005178; F:integrin binding; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0033627; P:cell adhesion mediated by integrin; IBA:GO_Central.
+DR   GO; GO:0098609; P:cell-cell adhesion; IBA:GO_Central.
+DR   GO; GO:0007160; P:cell-matrix adhesion; IBA:GO_Central.
+DR   GO; GO:0007229; P:integrin-mediated signaling pathway; IBA:GO_Central.
+DR   CDD; cd01469; vWA_integrins_alpha_subunit; 1.
+DR   Gene3D; 1.20.5.930; Bicelle-embedded integrin alpha(iib) transmembrane segment; 1.
+DR   Gene3D; 2.130.10.130; Integrin alpha, N-terminal; 2.
+DR   Gene3D; 2.60.40.1460; Integrin domains. Chain A, domain 2; 1.
+DR   Gene3D; 2.60.40.1510; ntegrin, alpha v. Chain A, domain 3; 1.
+DR   Gene3D; 3.40.50.410; von Willebrand factor, type A domain; 1.
+DR   InterPro; IPR013517; FG-GAP.
+DR   InterPro; IPR013519; Int_alpha_beta-p.
+DR   InterPro; IPR000413; Integrin_alpha.
+DR   InterPro; IPR013649; Integrin_alpha-2.
+DR   InterPro; IPR018184; Integrin_alpha_C_CS.
+DR   InterPro; IPR028994; Integrin_alpha_N.
+DR   InterPro; IPR032695; Integrin_dom_sf.
+DR   InterPro; IPR002035; VWF_A.
+DR   InterPro; IPR036465; vWFA_dom_sf.
+DR   PANTHER; PTHR23220; INTEGRIN ALPHA; 1.
+DR   PANTHER; PTHR23220:SF79; INTEGRIN ALPHA-E; 1.
+DR   Pfam; PF01839; FG-GAP; 1.
+DR   Pfam; PF00357; Integrin_alpha; 1.
+DR   Pfam; PF08441; Integrin_alpha2; 1.
+DR   Pfam; PF00092; VWA; 1.
+DR   PRINTS; PR01185; INTEGRINA.
+DR   PRINTS; PR00453; VWFADOMAIN.
+DR   SMART; SM00191; Int_alpha; 4.
+DR   SMART; SM00327; VWA; 1.
+DR   SUPFAM; SSF69318; Integrin alpha N-terminal domain; 1.
+DR   SUPFAM; SSF69179; Integrin domains; 2.
+DR   SUPFAM; SSF53300; vWA-like; 1.
+DR   PROSITE; PS51470; FG_GAP; 5.
+DR   PROSITE; PS00242; INTEGRIN_ALPHA; 1.
+DR   PROSITE; PS50234; VWFA; 1.
+PE   1: Evidence at protein level;
+KW   Calcium; Cell adhesion; Cleavage on pair of basic residues;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein; Integrin;
+KW   Magnesium; Membrane; Metal-binding; Receptor; Reference proteome; Repeat;
+KW   Signal; Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..18
+FT                   /evidence="ECO:0000269|PubMed:8119947"
+FT   CHAIN           19..1179
+FT                   /note="Integrin alpha-E"
+FT                   /id="PRO_0000016283"
+FT   CHAIN           19..177
+FT                   /note="Integrin alpha-E light chain"
+FT                   /id="PRO_0000016284"
+FT   CHAIN           179..1177
+FT                   /note="Integrin alpha-E heavy chain"
+FT                   /id="PRO_0000016285"
+FT   TOPO_DOM        19..1124
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        1125..1147
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        1148..1179
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          22..79
+FT                   /note="FG-GAP 1"
+FT   REPEAT          80..138
+FT                   /note="FG-GAP 2"
+FT   DOMAIN          200..389
+FT                   /note="VWFA"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00219"
+FT   REPEAT          390..442
+FT                   /note="FG-GAP 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00803"
+FT   REPEAT          447..499
+FT                   /note="FG-GAP 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00803"
+FT   REPEAT          500..560
+FT                   /note="FG-GAP 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00803"
+FT   REPEAT          563..627
+FT                   /note="FG-GAP 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00803"
+FT   REPEAT          631..691
+FT                   /note="FG-GAP 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00803"
+FT   REGION          145..199
+FT                   /note="X-domain (extra domain)"
+FT   REGION          158..200
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           1150..1154
+FT                   /note="GFFKR motif"
+FT   COMPBIAS        158..184
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        185..200
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         522
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         524
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         526
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         530
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         586
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         588
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         590
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         594
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         654
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         656
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         658
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   BINDING         662
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /ligand_label="3"
+FT                   /evidence="ECO:0000250|UniProtKB:P08648"
+FT   CARBOHYD        49
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        271
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        321
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        444
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        726
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        782
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        857
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        934
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        954
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1065
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        1096
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        70..79
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        126..159
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        706..762
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        823..829
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        893..907
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        1008..1033
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        1041..1057
+FT                   /evidence="ECO:0000250"
+FT   VARIANT         360
+FT                   /note="D -> E"
+FT                   /id="VAR_008884"
+FT   VARIANT         477
+FT                   /note="I -> V (in dbSNP:rs220479)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:8119947"
+FT                   /id="VAR_054889"
+FT   VARIANT         482
+FT                   /note="R -> Q (in dbSNP:rs2272606)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:8119947"
+FT                   /id="VAR_054890"
+FT   VARIANT         892
+FT                   /note="Q -> H (in dbSNP:rs3744679)"
+FT                   /id="VAR_020037"
+FT   VARIANT         950
+FT                   /note="R -> W (in dbSNP:rs1716)"
+FT                   /evidence="ECO:0000269|PubMed:10673275"
+FT                   /id="VAR_034025"
+FT   VARIANT         1019
+FT                   /note="V -> A (in dbSNP:rs2976230)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:8119947"
+FT                   /id="VAR_054891"
+FT   VARIANT         1041
+FT                   /note="C -> S"
+FT                   /id="VAR_008885"
+FT   MUTAGEN         208
+FT                   /note="D->A: Loss of E-cadherin binding."
+FT                   /evidence="ECO:0000269|PubMed:10837471"
+FT   MUTAGEN         316
+FT                   /note="F->A: Loss of E-cadherin binding."
+FT                   /evidence="ECO:0000269|PubMed:10837471"
+SQ   SEQUENCE   1179 AA;  130159 MW;  6645F8FFF9A0F045 CRC64;
+     MWLFHTLLCI ASLALLAAFN VDVARPWLTP KGGAPFVLSS LLHQDPSTNQ TWLLVTSPRT
+     KRTPGPLHRC SLVQDEILCH PVEHVPIPKG RHRGVTVVRS HHGVLICIQV LVRRPHSLSS
+     ELTGTCSLLG PDLRPQAQAN FFDLENLLDP DARVDTGDCY SNKEGGGEDD VNTARQRRAL
+     EKEEEEDKEE EEDEEEEEAG TEIAIILDGS GSIDPPDFQR AKDFISNMMR NFYEKCFECN
+     FALVQYGGVI QTEFDLRDSQ DVMASLARVQ NITQVGSVTK TASAMQHVLD SIFTSSHGSR
+     RKASKVMVVL TDGGIFEDPL NLTTVINSPK MQGVERFAIG VGEEFKSART ARELNLIASD
+     PDETHAFKVT NYMALDGLLS KLRYNIISME GTVGDALHYQ LAQIGFSAQI LDERQVLLGA
+     VGAFDWSGGA LLYDTRSRRG RFLNQTAAAA ADAEAAQYSY LGYAVAVLHK TCSLSYIAGA
+     PRYKHHGAVF ELQKEGREAS FLPVLEGEQM GSYFGSELCP VDIDMDGSTD FLLVAAPFYH
+     VHGEEGRVYV YRLSEQDGSF SLARILSGHP GFTNARFGFA MAAMGDLSQD KLTDVAIGAP
+     LEGFGADDGA SFGSVYIYNG HWDGLSASPS QRIRASTVAP GLQYFGMSMA GGFDISGDGL
+     ADITVGTLGQ AVVFRSRPVV RLKVSMAFTP SALPIGFNGV VNVRLCFEIS SVTTASESGL
+     REALLNFTLD VDVGKQRRRL QCSDVRSCLG CLREWSSGSQ LCEDLLLMPT EGELCEEDCF
+     SNASVKVSYQ LQTPEGQTDH PQPILDRYTE PFAIFQLPYE KACKNKLFCV AELQLATTVS
+     QQELVVGLTK ELTLNINLTN SGEDSYMTSM ALNYPRNLQL KRMQKPPSPN IQCDDPQPVA
+     SVLIMNCRIG HPVLKRSSAH VSVVWQLEEN AFPNRTADIT VTVTNSNERR SLANETHTLQ
+     FRHGFVAVLS KPSIMYVNTG QGLSHHKEFL FHVHGENLFG AEYQLQICVP TKLRGLQVVA
+     VKKLTRTQAS TVCTWSQERA CAYSSVQHVE EWHSVSCVIA SDKENVTVAA EISWDHSEEL
+     LKDVTELQIL GEISFNKSLY EGLNAENHRT KITVVFLKDE KYHSLPIIIK GSVGGLLVLI
+     VILVILFKCG FFKRKYQQLN LESIRKAQLK SENLLEEEN
+//

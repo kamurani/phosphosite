@@ -1,0 +1,302 @@
+ID   TGM5_HUMAN              Reviewed;         720 AA.
+AC   O43548; O43549; Q0VF40; Q9UEZ4;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   28-JUN-2023, entry version 189.
+DE   RecName: Full=Protein-glutamine gamma-glutamyltransferase 5;
+DE            EC=2.3.2.13;
+DE   AltName: Full=Transglutaminase X;
+DE            Short=TG(X);
+DE            Short=TGX;
+DE            Short=TGase X;
+DE   AltName: Full=Transglutaminase-5;
+DE            Short=TGase-5;
+GN   Name=TGM5; Synonyms=TGMX;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS LONG AND SHORT).
+RC   TISSUE=Foreskin;
+RX   PubMed=9452468; DOI=10.1074/jbc.273.6.3452;
+RA   Aeschlimann D., Koeller M.K., Allen-Hoffmann B.L., Mosher D.F.;
+RT   "Isolation of a cDNA encoding a novel member of the transglutaminase gene
+RT   family from human keratinocytes. Detection and identification of
+RT   transglutaminase gene products based on reverse transcription-polymerase
+RT   chain reaction with degenerate primers.";
+RL   J. Biol. Chem. 273:3452-3460(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS SER-67 AND GLY-352.
+RX   PubMed=11390390; DOI=10.1074/jbc.m102553200;
+RA   Grenard P., Bates M.K., Aeschlimann D.;
+RT   "Evolution of transglutaminase genes: identification of a transglutaminase
+RT   gene cluster on human chromosome 15q15. Structure of the gene encoding
+RT   transglutaminase X and a novel gene family member, transglutaminase Z.";
+RL   J. Biol. Chem. 276:33066-33078(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM LONG).
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 2-16, SUBCELLULAR LOCATION, ACETYLATION AT ALA-2,
+RP   INDUCTION BY TPA AND CALCIUM, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=15290349; DOI=10.1007/s00726-004-0093-5;
+RA   Rufini A., Vilbois F., Paradisi A., Oddi S., Tartaglione R., Leta A.,
+RA   Bagetta G., Guerrieri P., Finazzi-Agro' A., Melino G., Candi E.;
+RT   "Transglutaminase 5 is acetylated at the N-terminal end.";
+RL   Amino Acids 26:425-430(2004).
+RN   [5]
+RP   VARIANT PSS2 CYS-113, VARIANT MET-109, CHARACTERIZATION OF VARIANT PSS2
+RP   CYS-113, AND CHARACTERIZATION OF VARIANT MET-109.
+RX   PubMed=16380904; DOI=10.1086/497707;
+RA   Cassidy A.J., van Steensel M.A.M., Steijlen P.M., van Geel M.,
+RA   van der Velden J., Morley S.M., Terrinoni A., Melino G., Candi E.,
+RA   McLean W.H.I.;
+RT   "A homozygous missense mutation in TGM5 abolishes epidermal
+RT   transglutaminase 5 activity and causes acral peeling skin syndrome.";
+RL   Am. J. Hum. Genet. 77:909-917(2005).
+CC   -!- FUNCTION: Catalyzes the cross-linking of proteins and the conjugation
+CC       of polyamines to proteins. Contributes to the formation of the
+CC       cornified cell envelope of keratinocytes.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=L-glutaminyl-[protein] + L-lysyl-[protein] = [protein]-L-
+CC         lysyl-N(6)-5-L-glutamyl-[protein] + NH4(+); Xref=Rhea:RHEA:54816,
+CC         Rhea:RHEA-COMP:9752, Rhea:RHEA-COMP:10207, Rhea:RHEA-COMP:14005,
+CC         ChEBI:CHEBI:28938, ChEBI:CHEBI:29969, ChEBI:CHEBI:30011,
+CC         ChEBI:CHEBI:138370; EC=2.3.2.13; Evidence={ECO:0000255|PROSITE-
+CC         ProRule:PRU10024};
+CC   -!- COFACTOR:
+CC       Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250};
+CC       Note=Binds 1 Ca(2+) ion per subunit. {ECO:0000250};
+CC   -!- INTERACTION:
+CC       O43548; P55212: CASP6; NbExp=3; IntAct=EBI-12027348, EBI-718729;
+CC       O43548; Q14451-3: GRB7; NbExp=3; IntAct=EBI-12027348, EBI-11991632;
+CC       O43548; O00291: HIP1; NbExp=3; IntAct=EBI-12027348, EBI-473886;
+CC       O43548; Q63ZY3: KANK2; NbExp=3; IntAct=EBI-12027348, EBI-2556193;
+CC       O43548; P13473-2: LAMP2; NbExp=3; IntAct=EBI-12027348, EBI-21591415;
+CC       O43548; Q6P4E2: LARP4; NbExp=3; IntAct=EBI-12027348, EBI-12079790;
+CC       O43548; P47929: LGALS7B; NbExp=3; IntAct=EBI-12027348, EBI-357504;
+CC       O43548; O75400-2: PRPF40A; NbExp=3; IntAct=EBI-12027348, EBI-5280197;
+CC       O43548; Q96IZ5: RBM41; NbExp=3; IntAct=EBI-12027348, EBI-740773;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:15290349}.
+CC       Note=Associated with intermediate filaments.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=Long;
+CC         IsoId=O43548-1; Sequence=Displayed;
+CC       Name=Short;
+CC         IsoId=O43548-2; Sequence=VSP_006415;
+CC   -!- TISSUE SPECIFICITY: Expressed in foreskin keratinocytes.
+CC   -!- INDUCTION: By 12-O-tetradecanoylphorbol-13-acetate (TPA) and calcium in
+CC       NHEK cells. {ECO:0000269|PubMed:15290349}.
+CC   -!- DISEASE: Peeling skin syndrome 2 (PSS2) [MIM:609796]: A non-
+CC       inflammatory and localized form of peeling skin syndrome, a
+CC       genodermatosis characterized by the continuous shedding of the outer
+CC       layers of the epidermis. In PSS2 patients, skin peeling is painless and
+CC       strictly limited to the dorsa of the hands and feet. It is accompanied
+CC       by painless erythema and spontaneous non-scarring healing.
+CC       Ultrastructural and histological analysis shows a level of blistering
+CC       high in the epidermis at the stratum granulosum-stratum corneum
+CC       junction. {ECO:0000269|PubMed:16380904}. Note=The disease is caused by
+CC       variants affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the transglutaminase superfamily.
+CC       Transglutaminase family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF035960; AAC02978.1; -; mRNA.
+DR   EMBL; AF035961; AAC02979.1; -; mRNA.
+DR   EMBL; AF206510; AAF23981.1; -; Genomic_DNA.
+DR   EMBL; AF206502; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; AF206503; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; AF206504; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; AF206505; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; AF206506; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; AF206507; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; AF206508; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; AF206509; AAF23981.1; JOINED; Genomic_DNA.
+DR   EMBL; BC119009; AAI19010.1; -; mRNA.
+DR   CCDS; CCDS32211.1; -. [O43548-2]
+DR   CCDS; CCDS32212.1; -. [O43548-1]
+DR   RefSeq; NP_004236.1; NM_004245.3. [O43548-2]
+DR   RefSeq; NP_963925.2; NM_201631.3. [O43548-1]
+DR   AlphaFoldDB; O43548; -.
+DR   SMR; O43548; -.
+DR   BioGRID; 114742; 46.
+DR   IntAct; O43548; 21.
+DR   STRING; 9606.ENSP00000220420; -.
+DR   DrugBank; DB00130; L-Glutamine.
+DR   GlyGen; O43548; 2 sites, 1 O-linked glycan (2 sites).
+DR   iPTMnet; O43548; -.
+DR   PhosphoSitePlus; O43548; -.
+DR   BioMuta; TGM5; -.
+DR   EPD; O43548; -.
+DR   jPOST; O43548; -.
+DR   MassIVE; O43548; -.
+DR   MaxQB; O43548; -.
+DR   PaxDb; O43548; -.
+DR   PeptideAtlas; O43548; -.
+DR   ProteomicsDB; 49043; -. [O43548-1]
+DR   ProteomicsDB; 49044; -. [O43548-2]
+DR   Antibodypedia; 23845; 216 antibodies from 27 providers.
+DR   DNASU; 9333; -.
+DR   Ensembl; ENST00000220420.10; ENSP00000220420.5; ENSG00000104055.17. [O43548-1]
+DR   Ensembl; ENST00000349114.8; ENSP00000220419.8; ENSG00000104055.17. [O43548-2]
+DR   GeneID; 9333; -.
+DR   KEGG; hsa:9333; -.
+DR   MANE-Select; ENST00000220420.10; ENSP00000220420.5; NM_201631.4; NP_963925.2.
+DR   UCSC; uc001zrd.2; human. [O43548-1]
+DR   AGR; HGNC:11781; -.
+DR   CTD; 9333; -.
+DR   DisGeNET; 9333; -.
+DR   GeneCards; TGM5; -.
+DR   HGNC; HGNC:11781; TGM5.
+DR   HPA; ENSG00000104055; Tissue enhanced (esophagus, skin).
+DR   MalaCards; TGM5; -.
+DR   MIM; 603805; gene.
+DR   MIM; 609796; phenotype.
+DR   neXtProt; NX_O43548; -.
+DR   OpenTargets; ENSG00000104055; -.
+DR   Orphanet; 263534; Acral peeling skin syndrome.
+DR   PharmGKB; PA36494; -.
+DR   VEuPathDB; HostDB:ENSG00000104055; -.
+DR   eggNOG; ENOG502QTRA; Eukaryota.
+DR   GeneTree; ENSGT01050000244866; -.
+DR   HOGENOM; CLU_013435_1_0_1; -.
+DR   InParanoid; O43548; -.
+DR   OMA; RSSWNNV; -.
+DR   OrthoDB; 5344745at2759; -.
+DR   PhylomeDB; O43548; -.
+DR   TreeFam; TF324278; -.
+DR   BRENDA; 2.3.2.13; 2681.
+DR   PathwayCommons; O43548; -.
+DR   Reactome; R-HSA-6809371; Formation of the cornified envelope.
+DR   SignaLink; O43548; -.
+DR   BioGRID-ORCS; 9333; 7 hits in 1136 CRISPR screens.
+DR   ChiTaRS; TGM5; human.
+DR   GenomeRNAi; 9333; -.
+DR   Pharos; O43548; Tbio.
+DR   PRO; PR:O43548; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; O43548; protein.
+DR   Bgee; ENSG00000104055; Expressed in skin of leg and 124 other tissues.
+DR   ExpressionAtlas; O43548; baseline and differential.
+DR   Genevisible; O43548; HS.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003810; F:protein-glutamine gamma-glutamyltransferase activity; IBA:GO_Central.
+DR   GO; GO:0008544; P:epidermis development; TAS:ProtInc.
+DR   GO; GO:0018149; P:peptide cross-linking; IBA:GO_Central.
+DR   GO; GO:0036211; P:protein modification process; TAS:ProtInc.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 3.
+DR   Gene3D; 3.90.260.10; Transglutaminase-like; 1.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   InterPro; IPR038765; Papain-like_cys_pep_sf.
+DR   InterPro; IPR002931; Transglutaminase-like.
+DR   InterPro; IPR036985; Transglutaminase-like_sf.
+DR   InterPro; IPR023608; Transglutaminase_animal.
+DR   InterPro; IPR013808; Transglutaminase_AS.
+DR   InterPro; IPR008958; Transglutaminase_C.
+DR   InterPro; IPR036238; Transglutaminase_C_sf.
+DR   InterPro; IPR001102; Transglutaminase_N.
+DR   PANTHER; PTHR11590; PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE; 1.
+DR   PANTHER; PTHR11590:SF38; PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE 5; 1.
+DR   Pfam; PF00927; Transglut_C; 2.
+DR   Pfam; PF01841; Transglut_core; 1.
+DR   Pfam; PF00868; Transglut_N; 1.
+DR   PIRSF; PIRSF000459; TGM_EBP42; 1.
+DR   SMART; SM00460; TGc; 1.
+DR   SUPFAM; SSF54001; Cysteine proteinases; 1.
+DR   SUPFAM; SSF81296; E set domains; 1.
+DR   SUPFAM; SSF49309; Transglutaminase, two C-terminal domains; 2.
+DR   PROSITE; PS00547; TRANSGLUTAMINASES; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Acyltransferase; Alternative splicing; Calcium; Cytoplasm;
+KW   Direct protein sequencing; Disease variant; Metal-binding;
+KW   Reference proteome; Transferase.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:15290349"
+FT   CHAIN           2..720
+FT                   /note="Protein-glutamine gamma-glutamyltransferase 5"
+FT                   /id="PRO_0000213713"
+FT   REGION          470..499
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        474..499
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   ACT_SITE        278
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10024"
+FT   ACT_SITE        337
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10024"
+FT   ACT_SITE        360
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10024"
+FT   BINDING         400
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         402
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         448
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         453
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         2
+FT                   /note="N-acetylalanine"
+FT                   /evidence="ECO:0000269|PubMed:15290349"
+FT   VAR_SEQ         64..145
+FT                   /note="Missing (in isoform Short)"
+FT                   /evidence="ECO:0000303|PubMed:9452468"
+FT                   /id="VSP_006415"
+FT   VARIANT         67
+FT                   /note="P -> S (in dbSNP:rs757598618)"
+FT                   /evidence="ECO:0000269|PubMed:11390390"
+FT                   /id="VAR_013248"
+FT   VARIANT         109
+FT                   /note="T -> M (in dbSNP:rs113463533)"
+FT                   /evidence="ECO:0000269|PubMed:16380904"
+FT                   /id="VAR_025848"
+FT   VARIANT         113
+FT                   /note="G -> C (in PSS2; completely abolishes the enzyme
+FT                   activity; dbSNP:rs112292549)"
+FT                   /evidence="ECO:0000269|PubMed:16380904"
+FT                   /id="VAR_025849"
+FT   VARIANT         352
+FT                   /note="A -> G (in dbSNP:rs28756768)"
+FT                   /evidence="ECO:0000269|PubMed:11390390"
+FT                   /id="VAR_013249"
+FT   VARIANT         504
+FT                   /note="V -> M (in dbSNP:rs7171797)"
+FT                   /id="VAR_052564"
+FT   VARIANT         521
+FT                   /note="Q -> R (in dbSNP:rs35985214)"
+FT                   /id="VAR_052565"
+SQ   SEQUENCE   720 AA;  80778 MW;  9CF68884B48BAE1C CRC64;
+     MAQGLEVALT DLQSSRNNVR HHTEEITVDH LLVRRGQAFN LTLYFRNRSF QPGLDNIIFV
+     VETGPLPDLA LGTRAVFSLA RHHSPSPWIA WLETNGATST EVSLCAPPTA AVGRYLLKIH
+     IDSFQGSVTA YQLGEFILLF NPWCPEDAVY LDSEPQRQEY VMNDYGFIYQ GSKNWIRPCP
+     WNYGQFEDKI IDICLKLLDK SLHFQTDPAT DCALRGSPVY VSRVVCAMIN SNDDNGVLNG
+     NWSENYTDGA NPAEWTGSVA ILKQWNATGC QPVRYGQCWV FAAVMCTVMR CLGIPTRVIT
+     NFDSGHDTDG NLIIDEYYDN TGRILGNKKK DTIWNFHVWN ECWMARKDLP PAYGGWQVLD
+     ATPQEMSNGV YCCGPASVRA IKEGEVDLNY DTPFVFSMVN ADCMSWLVQG GKEQKLHQDT
+     SSVGNFISTK SIQSDERDDI TENYKYEEGS LQERQVFLKA LQKLKARSFH GSQRGAELQP
+     SRPTSLSQDS PRSLHTPSLR PSDVVQVSLK FKLLDPPNMG QDICFVLLAL NMSSQFKDLK
+     VNLSAQSLLH DGSPLSPFWQ DTAFITLSPK EAKTYPCKIS YSQYSQYLST DKLIRISALG
+     EEKSSPEKIL VNKIITLSYP SITINVLGAA VVNQPLSIQV IFSNPLSEQV EDCVLTVEGS
+     GLFKKQQKVF LGVLKPQHQA SIILETVPFK SGQRQIQANM RSNKFKDIKG YRNVYVDFAL
+//

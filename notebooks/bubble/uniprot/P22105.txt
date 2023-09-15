@@ -1,0 +1,999 @@
+ID   TENX_HUMAN              Reviewed;        4244 AA.
+AC   P22105; P78530; P78531; Q08424; Q08AM0; Q08AM1; Q59GU7; Q5SQD3; Q5ST74;
+AC   Q7L8Q4; Q8N4R1; Q9NPK9; Q9UC10; Q9UC11; Q9UC12; Q9UC13; Q9UMG7;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   12-SEP-2018, sequence version 5.
+DT   28-JUN-2023, entry version 235.
+DE   RecName: Full=Tenascin-X {ECO:0000305};
+DE            Short=TN-X;
+DE   AltName: Full=Hexabrachion-like protein;
+DE   Flags: Precursor;
+GN   Name=TNXB {ECO:0000312|HGNC:HGNC:11976};
+GN   Synonyms=HXBL, TNX, TNXB1, TNXB2, XB;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM XB-SHORT).
+RC   TISSUE=Adrenal gland;
+RX   PubMed=8530023; DOI=10.1006/geno.1995.1128;
+RA   Tee M.K., Thomson A.A., Bristow J., Miller W.L.;
+RT   "Sequences promoting the transcription of the human XA gene overlapping
+RT   P450c21A correctly predict the presence of a novel, adrenal-specific,
+RT   truncated form of tenascin-X.";
+RL   Genomics 28:171-178(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANT GLU-2518.
+RX   PubMed=14656967; DOI=10.1101/gr.1736803;
+RA   Xie T., Rowen L., Aguado B., Ahearn M.E., Madan A., Qin S., Campbell R.D.,
+RA   Hood L.;
+RT   "Analysis of the gene-dense major histocompatibility complex class III
+RT   region and its comparison to mouse.";
+RL   Genome Res. 13:2621-2636(2003).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANTS ALA-302 AND
+RP   GLU-2518.
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM XB-SHORT).
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-747 (ISOFORM 5), AND NUCLEOTIDE SEQUENCE
+RP   [MRNA] OF 1605-1862 (ISOFORMS 3/4/5).
+RC   TISSUE=Leukocyte;
+RX   PubMed=7686164; DOI=10.1083/jcb.122.1.265;
+RA   Bristow J., Tee M.K., Gitelman S.E., Mellon S.H., Miller W.L.;
+RT   "Tenascin-X: a novel extracellular matrix protein encoded by the human XB
+RT   gene overlapping P450c21B.";
+RL   J. Cell Biol. 122:265-278(1993).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-23 (ISOFORMS 3/4/5).
+RC   TISSUE=Fetal adrenal gland;
+RX   PubMed=8923003; DOI=10.1093/hmg/5.11.1749;
+RA   Speek M., Barry F., Miller W.L.;
+RT   "Alternate promoters and alternate splicing of human tenascin-X, a gene
+RT   with 5' and 3' ends buried in other genes.";
+RL   Hum. Mol. Genet. 5:1749-1758(1996).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1061-1148; 2521-2607; 2627-2714 AND
+RP   2735-2821.
+RC   TISSUE=B-cell;
+RX   PubMed=1373119; DOI=10.1016/0888-7543(92)90438-x;
+RA   Matsumoto K., Arai M., Ishihara N., Ando A., Inoko H., Ikemura T.;
+RT   "Cluster of fibronectin type III repeats found in the human major
+RT   histocompatibility complex class III region shows the highest homology with
+RT   the repeats in an extracellular matrix protein, tenascin.";
+RL   Genomics 12:485-491(1992).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 1399-1407; 1438-1448; 2122-2130; 2438-2446; 2549-2557;
+RP   2763-2771; 2782-2799; 2979-2987; 3018-3028; 3193-3201; 3212-3229 AND
+RP   3232-3242 (ISOFORMS 3/4/5), PROTEIN SEQUENCE OF 3609-3621 AND 3633-3665
+RP   (ISOFORMS XB-SHORT/3/4/5), INTERACTION WITH TROPOELASTIN, AND DEVELOPMENTAL
+RP   STAGE.
+RX   PubMed=17263730; DOI=10.1111/j.1742-4658.2007.05671.x;
+RA   Egging D.F., Peeters A.C.T.M., Grebenchtchikov N., Geurts-Moespot A.,
+RA   Sweep C.G.J., den Heijer M., Schalkwijk J.;
+RT   "Identification and characterization of multiple species of tenascin-X in
+RT   human serum.";
+RL   FEBS J. 274:1280-1289(2007).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 3360-4244 (ISOFORMS 3/4/5).
+RC   TISSUE=Brain;
+RA   Totoki Y., Toyoda A., Takeda T., Sakaki Y., Tanaka A., Yokoyama S.,
+RA   Ohara O., Nagase T., Kikuno R.F.;
+RL   Submitted (MAR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 3425-4244 (ISOFORMS 3/4/5).
+RX   PubMed=2475872; DOI=10.1073/pnas.86.17.6582;
+RA   Morel Y., Bristow J., Gitelman S.E., Miller W.L.;
+RT   "Transcript encoded on the opposite strand of the human steroid 21-
+RT   hydroxylase/complement component C4 gene locus.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:6582-6586(1989).
+RN   [12]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-3920.
+RC   TISSUE=Plasma;
+RX   PubMed=16335952; DOI=10.1021/pr0502065;
+RA   Liu T., Qian W.-J., Gritsenko M.A., Camp D.G. II, Monroe M.E., Moore R.J.,
+RA   Smith R.D.;
+RT   "Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+RT   hydrazide chemistry, and mass spectrometry.";
+RL   J. Proteome Res. 4:2070-2080(2005).
+RN   [13]
+RP   FUNCTION, AND INTERACTION WITH COLLAGEN AND TROPOELASTIN.
+RX   PubMed=17033827; DOI=10.1007/s00403-006-0706-9;
+RA   Egging D.F., van den Berkmortel F., Taylor G., Bristow J., Schalkwijk J.;
+RT   "Interactions of human tenascin-X domains with dermal extracellular matrix
+RT   molecules.";
+RL   Arch. Dermatol. Res. 298:389-396(2007).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [15]
+RP   STRUCTURE BY NMR OF 3654-4024.
+RG   RIKEN structural genomics initiative (RSGI);
+RT   "Solution structure of the 29th, 31st and 33rd fibronectin type-III domains
+RT   of the human tenascin-X.";
+RL   Submitted (NOV-2005) to the PDB data bank.
+RN   [16]
+RP   INVOLVEMENT IN EDSCLL.
+RX   PubMed=11642233; DOI=10.1056/nejmoa002939;
+RA   Schalkwijk J., Zweers M.C., Steijlen P.M., Dean W.B., Taylor G.,
+RA   van Vlijmen I.M., van Haren B., Miller W.L., Bristow J.;
+RT   "A recessive form of the Ehlers-Danlos syndrome caused by tenascin-X
+RT   deficiency.";
+RL   N. Engl. J. Med. 345:1167-1175(2001).
+RN   [17]
+RP   VARIANTS EDSCLL TRP-29 AND MET-1108, AND VARIANT ILE-3988.
+RX   PubMed=15733269; DOI=10.1111/j.1399-0004.2005.00401.x;
+RA   Zweers M.C., Dean W.B., van Kuppevelt T.H., Bristow J., Schalkwijk J.;
+RT   "Elastic fiber abnormalities in hypermobility type Ehlers-Danlos syndrome
+RT   patients with tenascin-X mutations.";
+RL   Clin. Genet. 67:330-334(2005).
+RN   [18]
+RP   VARIANT EDSCLL CYS-4074.
+RX   PubMed=23768946; DOI=10.1016/j.nmd.2013.04.009;
+RA   Penisson-Besnier I., Allamand V., Beurrier P., Martin L., Schalkwijk J.,
+RA   van Vlijmen-Willems I., Gartioux C., Malfait F., Syx D., Macchi L.,
+RA   Marcorelles P., Arbeille B., Croue A., De Paepe A., Dubas F.;
+RT   "Compound heterozygous mutations of the TNXB gene cause primary myopathy.";
+RL   Neuromuscul. Disord. 23:664-669(2013).
+RN   [19]
+RP   VARIANTS VUR8 ARG-1244 AND ILE-3212.
+RX   PubMed=23620400; DOI=10.1681/asn.2012121148;
+RA   Gbadegesin R.A., Brophy P.D., Adeyemo A., Hall G., Gupta I.R., Hains D.,
+RA   Bartkowiak B., Rabinovich C.E., Chandrasekharappa S., Homstad A.,
+RA   Westreich K., Wu G., Liu Y., Holanda D., Clarke J., Lavin P., Selim A.,
+RA   Miller S., Wiener J.S., Ross S.S., Foreman J., Rotimi C., Winn M.P.;
+RT   "TNXB mutations can cause vesicoureteral reflux.";
+RL   J. Am. Soc. Nephrol. 24:1313-1322(2013).
+CC   -!- FUNCTION: Appears to mediate interactions between cells and the
+CC       extracellular matrix. Substrate-adhesion molecule that appears to
+CC       inhibit cell migration. Accelerates collagen fibril formation. May play
+CC       a role in supporting the growth of epithelial tumors.
+CC       {ECO:0000269|PubMed:17033827}.
+CC   -!- SUBUNIT: Homotrimer. Interacts with type I, III and V collagens and
+CC       tropoelastin via its 29th fibronectin type-III domain.
+CC       {ECO:0000269|PubMed:17033827, ECO:0000269|PubMed:17263730}.
+CC   -!- INTERACTION:
+CC       P22105; Q8N9N5: BANP; NbExp=4; IntAct=EBI-2821024, EBI-744695;
+CC       P22105-1; Q8N9N5-2: BANP; NbExp=3; IntAct=EBI-20753895, EBI-11524452;
+CC       P22105-1; P40199: CEACAM6; NbExp=3; IntAct=EBI-20753895, EBI-4314501;
+CC       P22105-1; P42858: HTT; NbExp=3; IntAct=EBI-20753895, EBI-466029;
+CC       P22105-1; P78424: POU6F2; NbExp=3; IntAct=EBI-20753895, EBI-12029004;
+CC       P22105-1; Q96PF1: TGM7; NbExp=3; IntAct=EBI-20753895, EBI-12029034;
+CC   -!- SUBCELLULAR LOCATION: Secreted, extracellular space, extracellular
+CC       matrix.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=4;
+CC       Name=4;
+CC         IsoId=P22105-3; Sequence=Displayed;
+CC       Name=3;
+CC         IsoId=P22105-1; Sequence=VSP_059794;
+CC       Name=XB-short; Synonyms=2;
+CC         IsoId=P22105-2; Sequence=VSP_059792;
+CC       Name=5;
+CC         IsoId=P22105-4; Sequence=VSP_059793, VSP_059794;
+CC   -!- TISSUE SPECIFICITY: Highly expressed in fetal adrenal, in fetal testis,
+CC       fetal smooth, striated and cardiac muscle. Isoform XB-short is only
+CC       expressed in the adrenal gland.
+CC   -!- DEVELOPMENTAL STAGE: Expression levels are lower in adults than in
+CC       children. {ECO:0000269|PubMed:17263730}.
+CC   -!- DISEASE: Ehlers-Danlos syndrome, classic-like (EDSCLL) [MIM:606408]: A
+CC       form of Ehlers-Danlos syndrome, a group of connective tissue disorders
+CC       characterized by skin hyperextensibility, articular hypermobility, and
+CC       tissue fragility. EDSCLL patients lack atrophic scars, a major
+CC       diagnostic criteria for classic Ehlers-Danlos syndrome. Delayed wound
+CC       healing is only present in a subset of patients. EDSCLL inheritance is
+CC       autosomal recessive. {ECO:0000269|PubMed:11642233,
+CC       ECO:0000269|PubMed:15733269, ECO:0000269|PubMed:23768946}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: Vesicoureteral reflux 8 (VUR8) [MIM:615963]: A disease
+CC       belonging to the group of congenital anomalies of the kidney and
+CC       urinary tract. It is characterized by the reflux of urine from the
+CC       bladder into the ureters and sometimes into the kidneys, and is a risk
+CC       factor for urinary tract infections. Primary disease results from a
+CC       developmental defect of the ureterovesical junction. In combination
+CC       with intrarenal reflux, the resulting inflammatory reaction may result
+CC       in renal injury or scarring, also called reflux nephropathy. Extensive
+CC       renal scarring impairs renal function and may predispose patients to
+CC       hypertension, proteinuria, renal insufficiency and end-stage renal
+CC       disease. {ECO:0000269|PubMed:23620400}. Note=The disease is caused by
+CC       variants affecting the gene represented in this entry.
+CC   -!- MISCELLANEOUS: [Isoform 4]: May be due to competing acceptor splice
+CC       site in exon 24.
+CC   -!- MISCELLANEOUS: [Isoform 5]: May be due to competing donor splice site
+CC       in exon 1. {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the tenascin family. {ECO:0000305}.
+CC   -!- CAUTION: There are two genes for TN-X: TNXA and TNXB. TNXA can
+CC       sometimes recombine with TNXB. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAB47488.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=AAB67981.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAB89296.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U24488; AAB41287.1; -; mRNA.
+DR   EMBL; AF019413; AAB67981.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; U89337; AAB47488.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AL049547; CAB89296.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AL049547; CAB89300.1; -; Genomic_DNA.
+DR   EMBL; AL645922; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL662828; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL662849; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL662884; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL772248; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471081; EAX03574.1; -; Genomic_DNA.
+DR   EMBL; BC033740; AAH33740.1; -; mRNA.
+DR   EMBL; BC125114; AAI25115.1; -; mRNA.
+DR   EMBL; BC125115; AAI25116.1; -; mRNA.
+DR   EMBL; BC130037; AAI30038.1; -; mRNA.
+DR   EMBL; X71923; CAA50739.1; -; mRNA.
+DR   EMBL; Y13782; CAA74109.1; -; mRNA.
+DR   EMBL; Y13783; CAA74110.1; -; Genomic_DNA.
+DR   EMBL; U52696; AAC50889.1; -; mRNA.
+DR   EMBL; AB209012; BAD92249.1; -; mRNA.
+DR   EMBL; M25813; AAA35884.1; -; mRNA.
+DR   CCDS; CCDS4736.1; -. [P22105-2]
+DR   CCDS; CCDS93886.1; -. [P22105-3]
+DR   PIR; A40701; A40701.
+DR   PIR; A42175; A42175.
+DR   PIR; B42175; B42175.
+DR   PIR; D42175; D42175.
+DR   RefSeq; NP_061978.6; NM_019105.6. [P22105-1]
+DR   RefSeq; NP_115859.2; NM_032470.3. [P22105-2]
+DR   PDB; 2CUH; NMR; -; A=3845-3946.
+DR   PDB; 2CUI; NMR; -; A=3654-3752.
+DR   PDB; 2CUM; NMR; -; A=3933-4024.
+DR   PDBsum; 2CUH; -.
+DR   PDBsum; 2CUI; -.
+DR   PDBsum; 2CUM; -.
+DR   SMR; P22105; -.
+DR   BioGRID; 113001; 45.
+DR   ComplexPortal; CPX-1014; Tenascin-X complex.
+DR   IntAct; P22105; 14.
+DR   MINT; P22105; -.
+DR   STRING; 9606.ENSP00000407685; -.
+DR   GlyConnect; 1794; 7 N-Linked glycans (3 sites).
+DR   GlyCosmos; P22105; 43 sites, 13 glycans.
+DR   GlyGen; P22105; 44 sites, 6 N-linked glycans (2 sites), 8 O-linked glycans (39 sites).
+DR   iPTMnet; P22105; -.
+DR   PhosphoSitePlus; P22105; -.
+DR   SwissPalm; P22105; -.
+DR   BioMuta; TNXB; -.
+DR   DMDM; 290457668; -.
+DR   CPTAC; non-CPTAC-2701; -.
+DR   EPD; P22105; -.
+DR   jPOST; P22105; -.
+DR   MassIVE; P22105; -.
+DR   MaxQB; P22105; -.
+DR   PaxDb; P22105; -.
+DR   PeptideAtlas; P22105; -.
+DR   ProteomicsDB; 53963; -. [P22105-1]
+DR   ProteomicsDB; 53964; -. [P22105-2]
+DR   ProteomicsDB; 53965; -. [P22105-3]
+DR   Antibodypedia; 3947; 260 antibodies from 31 providers.
+DR   DNASU; 7148; -.
+DR   Ensembl; ENST00000375244.7; ENSP00000364393.3; ENSG00000168477.20. [P22105-3]
+DR   Ensembl; ENST00000451343.4; ENSP00000407685.1; ENSG00000168477.20. [P22105-2]
+DR   Ensembl; ENST00000546684.2; ENSP00000447694.2; ENSG00000236236.9.
+DR   Ensembl; ENST00000550539.2; ENSP00000448326.2; ENSG00000229353.10.
+DR   Ensembl; ENST00000644971.2; ENSP00000496448.1; ENSG00000168477.20. [P22105-3]
+DR   GeneID; 7148; -.
+DR   KEGG; hsa:7148; -.
+DR   MANE-Select; ENST00000644971.2; ENSP00000496448.1; NM_001365276.2; NP_001352205.1.
+DR   UCSC; uc003nzg.1; human. [P22105-3]
+DR   AGR; HGNC:11976; -.
+DR   CTD; 7148; -.
+DR   DisGeNET; 7148; -.
+DR   GeneCards; TNXB; -.
+DR   GeneReviews; TNXB; -.
+DR   HGNC; HGNC:11976; TNXB.
+DR   HPA; ENSG00000168477; Tissue enhanced (adrenal).
+DR   MalaCards; TNXB; -.
+DR   MIM; 600985; gene.
+DR   MIM; 606408; phenotype.
+DR   MIM; 615963; phenotype.
+DR   neXtProt; NX_P22105; -.
+DR   OpenTargets; ENSG00000168477; -.
+DR   Orphanet; 230839; Classical-like Ehlers-Danlos syndrome type 1.
+DR   Orphanet; 289365; Familial vesicoureteral reflux.
+DR   PharmGKB; PA36662; -.
+DR   VEuPathDB; HostDB:ENSG00000168477; -.
+DR   eggNOG; KOG2579; Eukaryota.
+DR   GeneTree; ENSGT00940000155565; -.
+DR   HOGENOM; CLU_026380_0_0_1; -.
+DR   InParanoid; P22105; -.
+DR   OrthoDB; 4251562at2759; -.
+DR   TreeFam; TF329915; -.
+DR   PathwayCommons; P22105; -.
+DR   Reactome; R-HSA-3000178; ECM proteoglycans.
+DR   SignaLink; P22105; -.
+DR   BioGRID-ORCS; 7148; 16 hits in 1152 CRISPR screens.
+DR   ChiTaRS; TNXB; human.
+DR   EvolutionaryTrace; P22105; -.
+DR   GeneWiki; Tenascin_X; -.
+DR   GenomeRNAi; 7148; -.
+DR   Pharos; P22105; Tbio.
+DR   PRO; PR:P22105; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; P22105; protein.
+DR   Bgee; ENSG00000168477; Expressed in apex of heart and 96 other tissues.
+DR   ExpressionAtlas; P22105; baseline and differential.
+DR   Genevisible; P22105; HS.
+DR   GO; GO:0062023; C:collagen-containing extracellular matrix; HDA:BHF-UCL.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0031012; C:extracellular matrix; NAS:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; HDA:BHF-UCL.
+DR   GO; GO:0005615; C:extracellular space; HDA:BHF-UCL.
+DR   GO; GO:0090733; C:tenascin complex; ISO:ComplexPortal.
+DR   GO; GO:0005518; F:collagen binding; IEA:Ensembl.
+DR   GO; GO:0098633; F:collagen fibril binding; IDA:UniProtKB.
+DR   GO; GO:0005201; F:extracellular matrix structural constituent; ISS:BHF-UCL.
+DR   GO; GO:0008201; F:heparin binding; ISS:UniProtKB.
+DR   GO; GO:0005178; F:integrin binding; ISS:UniProtKB.
+DR   GO; GO:0030036; P:actin cytoskeleton organization; ISS:UniProtKB.
+DR   GO; GO:0007155; P:cell adhesion; ISS:UniProtKB.
+DR   GO; GO:0098609; P:cell-cell adhesion; IEA:Ensembl.
+DR   GO; GO:0007160; P:cell-matrix adhesion; IEA:Ensembl.
+DR   GO; GO:0030199; P:collagen fibril organization; IEA:Ensembl.
+DR   GO; GO:0032963; P:collagen metabolic process; IMP:UniProtKB.
+DR   GO; GO:0048251; P:elastic fiber assembly; IMP:UniProtKB.
+DR   GO; GO:0006631; P:fatty acid metabolic process; IEA:Ensembl.
+DR   GO; GO:0031175; P:neuron projection development; IBA:GO_Central.
+DR   GO; GO:1905935; P:positive regulation of cell fate determination; NAS:ComplexPortal.
+DR   GO; GO:0008284; P:positive regulation of cell population proliferation; ISO:ComplexPortal.
+DR   GO; GO:1904028; P:positive regulation of collagen fibril organization; IDA:ComplexPortal.
+DR   GO; GO:0010718; P:positive regulation of epithelial to mesenchymal transition; ISO:ComplexPortal.
+DR   GO; GO:0010862; P:positive regulation of pathway-restricted SMAD protein phosphorylation; ISO:ComplexPortal.
+DR   GO; GO:1901390; P:positive regulation of transforming growth factor beta activation; ISO:ComplexPortal.
+DR   GO; GO:0030511; P:positive regulation of transforming growth factor beta receptor signaling pathway; ISO:ComplexPortal.
+DR   GO; GO:1900748; P:positive regulation of vascular endothelial growth factor signaling pathway; ISO:ComplexPortal.
+DR   GO; GO:0030155; P:regulation of cell adhesion; ISO:ComplexPortal.
+DR   GO; GO:0045595; P:regulation of cell differentiation; NAS:ComplexPortal.
+DR   GO; GO:0030334; P:regulation of cell migration; ISO:ComplexPortal.
+DR   GO; GO:0043506; P:regulation of JUN kinase activity; IEA:Ensembl.
+DR   GO; GO:0006641; P:triglyceride metabolic process; IEA:Ensembl.
+DR   CDD; cd00054; EGF_CA; 5.
+DR   CDD; cd00063; FN3; 31.
+DR   CDD; cd00087; FReD; 1.
+DR   Gene3D; 3.90.215.10; Gamma Fibrinogen, chain A, domain 1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 31.
+DR   Gene3D; 2.10.25.10; Laminin; 17.
+DR   InterPro; IPR000742; EGF-like_dom.
+DR   InterPro; IPR013111; EGF_extracell.
+DR   InterPro; IPR041161; EGF_Tenascin.
+DR   InterPro; IPR036056; Fibrinogen-like_C.
+DR   InterPro; IPR014716; Fibrinogen_a/b/g_C_1.
+DR   InterPro; IPR002181; Fibrinogen_a/b/g_C_dom.
+DR   InterPro; IPR020837; Fibrinogen_CS.
+DR   InterPro; IPR003961; FN3_dom.
+DR   InterPro; IPR036116; FN3_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   PANTHER; PTHR46708; TENASCIN; 1.
+DR   PANTHER; PTHR46708:SF3; TENASCIN-X; 1.
+DR   Pfam; PF07974; EGF_2; 2.
+DR   Pfam; PF18720; EGF_Tenascin; 10.
+DR   Pfam; PF00147; Fibrinogen_C; 1.
+DR   Pfam; PF00041; fn3; 31.
+DR   SMART; SM00181; EGF; 18.
+DR   SMART; SM00186; FBG; 1.
+DR   SMART; SM00060; FN3; 32.
+DR   SUPFAM; SSF56496; Fibrinogen C-terminal domain-like; 1.
+DR   SUPFAM; SSF49265; Fibronectin type III; 29.
+DR   PROSITE; PS00022; EGF_1; 18.
+DR   PROSITE; PS01186; EGF_2; 19.
+DR   PROSITE; PS50026; EGF_3; 8.
+DR   PROSITE; PS00514; FIBRINOGEN_C_1; 1.
+DR   PROSITE; PS51406; FIBRINOGEN_C_2; 1.
+DR   PROSITE; PS50853; FN3; 32.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell adhesion; Coiled coil;
+KW   Direct protein sequencing; Disease variant; Disulfide bond;
+KW   EGF-like domain; Ehlers-Danlos syndrome; Extracellular matrix;
+KW   Glycoprotein; Reference proteome; Repeat; Secreted; Signal.
+FT   SIGNAL          1..23
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           24..4244
+FT                   /note="Tenascin-X"
+FT                   /id="PRO_0000007751"
+FT   DOMAIN          156..168
+FT                   /note="EGF-like 1; incomplete"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          183..213
+FT                   /note="EGF-like 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          214..244
+FT                   /note="EGF-like 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          245..275
+FT                   /note="EGF-like 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          276..306
+FT                   /note="EGF-like 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          307..337
+FT                   /note="EGF-like 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          338..368
+FT                   /note="EGF-like 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          369..399
+FT                   /note="EGF-like 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          400..430
+FT                   /note="EGF-like 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          431..461
+FT                   /note="EGF-like 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          462..492
+FT                   /note="EGF-like 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          493..523
+FT                   /note="EGF-like 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          524..554
+FT                   /note="EGF-like 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          555..585
+FT                   /note="EGF-like 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          586..616
+FT                   /note="EGF-like 15"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          617..647
+FT                   /note="EGF-like 16"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          648..679
+FT                   /note="EGF-like 17"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          684..714
+FT                   /note="EGF-like 18"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          715..746
+FT                   /note="EGF-like 19"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00076"
+FT   DOMAIN          959..1051
+FT                   /note="Fibronectin type-III 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1064..1153
+FT                   /note="Fibronectin type-III 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1161..1249
+FT                   /note="Fibronectin type-III 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1263..1352
+FT                   /note="Fibronectin type-III 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1374..1468
+FT                   /note="Fibronectin type-III 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1476..1572
+FT                   /note="Fibronectin type-III 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1574..1669
+FT                   /note="Fibronectin type-III 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1674..1764
+FT                   /note="Fibronectin type-III 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1778..1868
+FT                   /note="Fibronectin type-III 9"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1883..1971
+FT                   /note="Fibronectin type-III 10"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          1989..2089
+FT                   /note="Fibronectin type-III 11"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2097..2185
+FT                   /note="Fibronectin type-III 12"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2196..2296
+FT                   /note="Fibronectin type-III 13"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2305..2398
+FT                   /note="Fibronectin type-III 14"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2408..2502
+FT                   /note="Fibronectin type-III 15"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2519..2617
+FT                   /note="Fibronectin type-III 16"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2625..2723
+FT                   /note="Fibronectin type-III 17"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2733..2840
+FT                   /note="Fibronectin type-III 18"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2841..2939
+FT                   /note="Fibronectin type-III 19"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          2949..3042
+FT                   /note="Fibronectin type-III 20"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3062..3153
+FT                   /note="Fibronectin type-III 21"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3168..3260
+FT                   /note="Fibronectin type-III 22"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3264..3355
+FT                   /note="Fibronectin type-III 23"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3357..3446
+FT                   /note="Fibronectin type-III 24"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3451..3544
+FT                   /note="Fibronectin type-III 25"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3553..3647
+FT                   /note="Fibronectin type-III 26"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3657..3754
+FT                   /note="Fibronectin type-III 27"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3758..3847
+FT                   /note="Fibronectin type-III 28"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3848..3934
+FT                   /note="Fibronectin type-III 29"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          3935..4025
+FT                   /note="Fibronectin type-III 30"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00316"
+FT   DOMAIN          4021..4236
+FT                   /note="Fibrinogen C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00739"
+FT   REGION          27..57
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          169..189
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          926..956
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1340..1372
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1752..1777
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1968..1990
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2281..2304
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2495..2542
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2824..2847
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2933..2969
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          3536..3559
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          3636..3662
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           1666..1668
+FT                   /note="Cell attachment site"
+FT                   /evidence="ECO:0000255"
+FT   COMPBIAS        940..956
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        3643..3662
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   CARBOHYD        31
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        3855
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        3908
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        3920
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   CARBOHYD        4095
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        187..197
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        191..202
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        204..213
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        218..228
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        222..233
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        235..244
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        249..259
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        253..264
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        266..275
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        280..290
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        284..295
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        297..306
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        311..321
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        315..326
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        328..337
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        342..352
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        346..357
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        359..368
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        373..383
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        377..388
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        390..399
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        404..414
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        408..419
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        421..430
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        435..445
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        439..450
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        452..461
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        466..476
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        470..481
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        483..492
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        497..507
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        501..512
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        514..523
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        528..538
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        532..543
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        545..554
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        559..569
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        563..574
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        576..585
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        590..600
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        594..605
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        607..616
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        621..631
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        625..636
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        638..647
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        652..662
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        656..667
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        669..678
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        688..698
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        692..703
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        705..714
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        719..729
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        723..734
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        736..745
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        4030..4060
+FT                   /evidence="ECO:0000250"
+FT   DISULFID        4182..4195
+FT                   /evidence="ECO:0000250"
+FT   VAR_SEQ         1..3571
+FT                   /note="Missing (in isoform XB-short)"
+FT                   /id="VSP_059792"
+FT   VAR_SEQ         135
+FT                   /note="G -> GEQG (in isoform 5)"
+FT                   /id="VSP_059793"
+FT   VAR_SEQ         2823..2825
+FT                   /note="APE -> E (in isoform 3 and isoform 5)"
+FT                   /id="VSP_059794"
+FT   VARIANT         29
+FT                   /note="R -> W (in EDSCLL; dbSNP:rs368512272)"
+FT                   /evidence="ECO:0000269|PubMed:15733269"
+FT                   /id="VAR_046499"
+FT   VARIANT         302
+FT                   /note="T -> A (in dbSNP:rs1150752)"
+FT                   /evidence="ECO:0000269|PubMed:14574404"
+FT                   /id="VAR_044347"
+FT   VARIANT         511
+FT                   /note="R -> H (in dbSNP:rs204896)"
+FT                   /id="VAR_021908"
+FT   VARIANT         641
+FT                   /note="G -> C (in dbSNP:rs17201609)"
+FT                   /id="VAR_055781"
+FT   VARIANT         650
+FT                   /note="R -> H (in dbSNP:rs17201602)"
+FT                   /id="VAR_055782"
+FT   VARIANT         873
+FT                   /note="S -> A (in dbSNP:rs204900)"
+FT                   /id="VAR_055783"
+FT   VARIANT         1108
+FT                   /note="V -> M (in EDSCLL; dbSNP:rs121912575)"
+FT                   /evidence="ECO:0000269|PubMed:15733269"
+FT                   /id="VAR_046500"
+FT   VARIANT         1161
+FT                   /note="H -> R (in dbSNP:rs185819)"
+FT                   /id="VAR_024270"
+FT   VARIANT         1244
+FT                   /note="T -> R (in VUR8)"
+FT                   /evidence="ECO:0000269|PubMed:23620400"
+FT                   /id="VAR_072580"
+FT   VARIANT         1905
+FT                   /note="E -> K (in dbSNP:rs17207923)"
+FT                   /id="VAR_059276"
+FT   VARIANT         2301
+FT                   /note="P -> H (in dbSNP:rs2269428)"
+FT                   /id="VAR_020170"
+FT   VARIANT         2363
+FT                   /note="P -> H (in dbSNP:rs2269428)"
+FT                   /id="VAR_055784"
+FT   VARIANT         2412
+FT                   /note="P -> L (in dbSNP:rs12524664)"
+FT                   /id="VAR_059277"
+FT   VARIANT         2495
+FT                   /note="G -> S (in dbSNP:rs2269429)"
+FT                   /id="VAR_020171"
+FT   VARIANT         2518
+FT                   /note="G -> E (in dbSNP:rs1009382)"
+FT                   /evidence="ECO:0000269|PubMed:14574404,
+FT                   ECO:0000269|PubMed:14656967"
+FT                   /id="VAR_020172"
+FT   VARIANT         3212
+FT                   /note="V -> I (in VUR8; shows significantly impaired
+FT                   migration in a wound-healing assay; associated with
+FT                   decreased expression of phosphorylated PTK2 protein;
+FT                   dbSNP:rs1473257039)"
+FT                   /evidence="ECO:0000269|PubMed:23620400"
+FT                   /id="VAR_072581"
+FT   VARIANT         3988
+FT                   /note="L -> I (in dbSNP:rs7742632)"
+FT                   /evidence="ECO:0000269|PubMed:15733269"
+FT                   /id="VAR_046501"
+FT   VARIANT         4074
+FT                   /note="R -> C (in EDSCLL; dbSNP:rs587777682)"
+FT                   /evidence="ECO:0000269|PubMed:23768946"
+FT                   /id="VAR_072582"
+FT   CONFLICT        3791
+FT                   /note="Q -> L (in Ref. 5; AAH33740)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        3877
+FT                   /note="V -> I (in Ref. 5; AAI25115/AAI25116 and 10;
+FT                   BAD92249)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        3974
+FT                   /note="N -> T (in Ref. 5; AAI25115/AAI25116 and 10;
+FT                   BAD92249)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        3993
+FT                   /note="P -> G (in Ref. 1; AAB41287 and 11; AAA35884)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        4004
+FT                   /note="M -> T (in Ref. 5; AAI25116 and 10; BAD92249)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        4057
+FT                   /note="N -> I (in Ref. 5; AAI25115)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        4118
+FT                   /note="M -> I (in Ref. 1; AAB41287 and 11; AAA35884)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          3662..3665
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3671..3674
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3683..3690
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3695..3697
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3707..3712
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3717..3720
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3728..3736
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3738..3750
+FT                   /evidence="ECO:0007829|PDB:2CUI"
+FT   STRAND          3849..3852
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3857..3859
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3861..3866
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3873..3880
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3882..3884
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3887..3892
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3896..3900
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3905..3917
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3925..3931
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   TURN            3936..3938
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3939..3941
+FT                   /evidence="ECO:0007829|PDB:2CUH"
+FT   STRAND          3949..3954
+FT                   /evidence="ECO:0007829|PDB:2CUM"
+FT   STRAND          3961..3968
+FT                   /evidence="ECO:0007829|PDB:2CUM"
+FT   STRAND          3974..3979
+FT                   /evidence="ECO:0007829|PDB:2CUM"
+FT   STRAND          3984..3988
+FT                   /evidence="ECO:0007829|PDB:2CUM"
+FT   STRAND          3996..4005
+FT                   /evidence="ECO:0007829|PDB:2CUM"
+FT   STRAND          4013..4018
+FT                   /evidence="ECO:0007829|PDB:2CUM"
+SQ   SEQUENCE   4244 AA;  458388 MW;  45A3D29FDF133DBA CRC64;
+     MMPAQYALTS SLVLLVLLST ARAGPFSSRS NVTLPAPRPP PQPGGHTVGA GVGSPSSQLY
+     EHTVEGGEKQ VVFTHRINLP PSTGCGCPPG TEPPVLASEV QALRVRLEIL EELVKGLKEQ
+     CTGGCCPASA QAGTGQTDVR TLCSLHGVFD LSRCTCSCEP GWGGPTCSDP TDAEIPPSSP
+     PSASGSCPDD CNDQGRCVRG RCVCFPGYTG PSCGWPSCPG DCQGRGRCVQ GVCVCRAGFS
+     GPDCSQRSCP RGCSQRGRCE GGRCVCDPGY TGDDCGMRSC PRGCSQRGRC ENGRCVCNPG
+     YTGEDCGVRS CPRGCSQRGR CKDGRCVCDP GYTGEDCGTR SCPWDCGEGG RCVDGRCVCW
+     PGYTGEDCST RTCPRDCRGR GRCEDGECIC DTGYSGDDCG VRSCPGDCNQ RGRCEDGRCV
+     CWPGYTGTDC GSRACPRDCR GRGRCENGVC VCNAGYSGED CGVRSCPGDC RGRGRCESGR
+     CMCWPGYTGR DCGTRACPGD CRGRGRCVDG RCVCNPGFTG EDCGSRRCPG DCRGHGLCED
+     GVCVCDAGYS GEDCSTRSCP GGCRGRGQCL DGRCVCEDGY SGEDCGVRQC PNDCSQHGVC
+     QDGVCICWEG YVSEDCSIRT CPSNCHGRGR CEEGRCLCDP GYTGPTCATR MCPADCRGRG
+     RCVQGVCLCH VGYGGEDCGQ EEPPASACPG GCGPRELCRA GQCVCVEGFR GPDCAIQTCP
+     GDCRGRGECH DGSCVCKDGY AGEDCGEEVP TIEGMRMHLL EETTVRTEWT PAPGPVDAYE
+     IQFIPTTEGA SPPFTARVPS SASAYDQRGL APGQEYQVTV RALRGTSWGL PASKTITTMI
+     DGPQDLRVVA VTPTTLELGW LRPQAEVDRF VVSYVSAGNQ RVRLEVPPEA DGTLLTDLMP
+     GVEYVVTVTA ERGRAVSYPA SVRANTGSSP LGLLGTTDEP PPSGPSTTQG AQAPLLQQRP
+     QELGELRVLG RDETGRLRVV WTAQPDTFAY FQLRMRVPEG PGAHEEVLPG DVRQALVPPP
+     PPGTPYELSL HGVPPGGKPS DPIIYQGIMD KDEEKPGKSS GPPRLGELTV TDRTSDSLLL
+     RWTVPEGEFD SFVIQYKDRD GQPQVVPVEG PQRSAVITSL DPGRKYKFVL YGFVGKKRHG
+     PLVAEAKILP QSDPSPGTPP HLGNLWVTDP TPDSLHLSWT VPEGQFDTFM VQYRDRDGRP
+     QVVPVEGPER SFVVSSLDPD HKYRFTLFGI ANKKRYGPLT ADGTTAPERK EEPPRPEFLE
+     QPLLGELTVT GVTPDSLRLS WTVAQGPFDS FMVQYKDAQG QPQAVPVAGD ENEVTVPGLD
+     PDRKYKMNLY GLRGRQRVGP ESVVAKTAPQ EDVDETPSPT ELGTEAPESP EEPLLGELTV
+     TGSSPDSLSL FWTVPQGSFD SFTVQYKDRD GRPRAVRVGG KESEVTVGGL EPGHKYKMHL
+     YGLHEGQRVG PVSAVGVTAP QQEETPPATE SPLEPRLGEL TVTDVTPNSV GLSWTVPEGQ
+     FDSFIVQYKD KDGQPQVVPV AADQREVTVY NLEPERKYKM NMYGLHDGQR MGPLSVVIVT
+     APLPPAPATE ASKPPLEPRL GELTVTDITP DSVGLSWTVP EGEFDSFVVQ YKDRDGQPQV
+     VPVAADQREV TIPDLEPSRK YKFLLFGIQD GKRRSPVSVE AKTVARGDAS PGAPPRLGEL
+     WVTDPTPDSL RLSWTVPEGQ FDSFVVQFKD KDGPQVVPVE GHERSVTVTP LDAGRKYRFL
+     LYGLLGKKRH GPLTADGTTE ARSAMDDTGT KRPPKPRLGE ELQVTTVTQN SVGLSWTVPE
+     GQFDSFVVQY KDRDGQPQVV PVEGSLREVS VPGLDPAHRY KLLLYGLHHG KRVGPISAVA
+     ITAGREETET ETTAPTPPAP EPHLGELTVE EATSHTLHLS WMVTEGEFDS FEIQYTDRDG
+     QLQMVRIGGD RNDITLSGLE SDHRYLVTLY GFSDGKHVGP VHVEALTVPE EEKPSEPPTA
+     TPEPPIKPRL GELTVTDATP DSLSLSWTVP EGQFDHFLVQ YRNGDGQPKA VRVPGHEEGV
+     TISGLEPDHK YKMNLYGFHG GQRMGPVSVV GVTAAEEETP SPTEPSMEAP EPAEEPLLGE
+     LTVTGSSPDS LSLSWTVPQG RFDSFTVQYK DRDGRPQVVR VGGEESEVTV GGLEPGRKYK
+     MHLYGLHEGR RVGPVSAVGV TAPEEESPDA PLAKLRLGQM TVRDITSDSL SLSWTVPEGQ
+     FDHFLVQFKN GDGQPKAVRV PGHEDGVTIS GLEPDHKYKM NLYGFHGGQR VGPVSAVGLT
+     APGKDEEMAP ASTEPPTPEP PIKPRLEELT VTDATPDSLS LSWTVPEGQF DHFLVQYKNG
+     DGQPKATRVP GHEDRVTISG LEPDNKYKMN LYGFHGGQRV GPVSAIGVTA AEEETPSPTE
+     PSMEAPEPPE EPLLGELTVT GSSPDSLSLS WTVPQGRFDS FTVQYKDRDG RPQVVRVGGE
+     ESEVTVGGLE PGRKYKMHLY GLHEGRRVGP VSTVGVTAPQ EDVDETPSPT EPGTEAPGPP
+     EEPLLGELTV TGSSPDSLSL SWTVPQGRFD SFTVQYKDRD GRPQAVRVGG QESKVTVRGL
+     EPGRKYKMHL YGLHEGRRLG PVSAVGVTED EAETTQAVPT MTPEPPIKPR LGELTMTDAT
+     PDSLSLSWTV PEGQFDHFLV QYRNGDGQPK AVRVPGHEDG VTISGLEPDH KYKMNLYGFH
+     GGQRVGPISV IGVTAAEEET PSPTELSTEA PEPPEEPLLG ELTVTGSSPD SLSLSWTIPQ
+     GHFDSFTVQY KDRDGRPQVM RVRGEESEVT VGGLEPGRKY KMHLYGLHEG RRVGPVSTVG
+     VTAPEDEAET TQAVPTTTPE PPNKPRLGEL TVTDATPDSL SLSWMVPEGQ FDHFLVQYRN
+     GDGQPKVVRV PGHEDGVTIS GLEPDHKYKM NLYGFHGGQR VGPISVIGVT AAEEETPAPT
+     EPSTEAPEPP EEPLLGELTV TGSSPDSLSL SWTIPQGRFD SFTVQYKDRD GRPQVVRVRG
+     EESEVTVGGL EPGCKYKMHL YGLHEGQRVG PVSAVGVTAP KDEAETTQAV PTMTPEPPIK
+     PRLGELTVTD ATPDSLSLSW MVPEGQFDHF LVQYRNGDGQ PKAVRVPGHE DGVTISGLEP
+     DHKYKMNLYG FHGGQRVGPV SAIGVTEEET PSPTEPSTEA PEAPEEPLLG ELTVTGSSPD
+     SLSLSWTVPQ GRFDSFTVQY KDRDGQPQVV RVRGEESEVT VGGLEPGRKY KMHLYGLHEG
+     QRVGPVSTVG ITAPLPTPLP VEPRLGELAV AAVTSDSVGL SWTVAQGPFD SFLVQYRDAQ
+     GQPQAVPVSG DLRAVAVSGL DPARKYKFLL FGLQNGKRHG PVPVEARTAP DTKPSPRLGE
+     LTVTDATPDS VGLSWTVPEG EFDSFVVQYK DKDGRLQVVP VAANQREVTV QGLEPSRKYR
+     FLLYGLSGRK RLGPISADST TAPLEKELPP HLGELTVAEE TSSSLRLSWT VAQGPFDSFV
+     VQYRDTDGQP RAVPVAADQR TVTVEDLEPG KKYKFLLYGL LGGKRLGPVS ALGMTAPEED
+     TPAPELAPEA PEPPEEPRLG VLTVTDTTPD SMRLSWSVAQ GPFDSFVVQY EDTNGQPQAL
+     LVDGDQSKIL ISGLEPSTPY RFLLYGLHEG KRLGPLSAEG TTGLAPAGQT SEESRPRLSQ
+     LSVTDVTTSS LRLNWEAPPG AFDSFLLRFG VPSPSTLEPH PRPLLQRELM VPGTRHSAVL
+     RDLRSGTLYS LTLYGLRGPH KADSIQGTAR TLSPVLESPR DLQFSEIRET SAKVNWMPPP
+     SRADSFKVSY QLADGGEPQS VQVDGQARTQ KLQGLIPGAR YEVTVVSVRG FEESEPLTGF
+     LTTVPDGPTQ LRALNLTEGF AVLHWKPPQN PVDTYDVQVT APGAPPLQAE TPGSAVDYPL
+     HDLVLHTNYT ATVRGLRGPN LTSPASITFT TGLEAPRDLE AKEVTPRTAL LTWTEPPVRP
+     AGYLLSFHTP GGQNQEILLP GGITSHQLLG LFPSTSYNAR LQAMWGQSLL PPVSTSFTTG
+     GLRIPFPRDC GEEMQNGAGA SRTSTIFLNG NRERPLNVFC DMETDGGGWL VFQRRMDGQT
+     DFWRDWEDYA HGFGNISGEF WLGNEALHSL TQAGDYSMRV DLRAGDEAVF AQYDSFHVDS
+     AAEYYRLHLE GYHGTAGDSM SYHSGSVFSA RDRDPNSLLI SCAVSYRGAW WYRNCHYANL
+     NGLYGSTVDH QGVSWYHWKG FEFSVPFTEM KLRPRNFRSP AGGG
+//

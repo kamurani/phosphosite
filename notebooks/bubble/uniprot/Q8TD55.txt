@@ -1,0 +1,249 @@
+ID   PKHO2_HUMAN             Reviewed;         490 AA.
+AC   Q8TD55; Q7L4H4; Q8WYS8;
+DT   13-NOV-2007, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2002, sequence version 1.
+DT   28-JUN-2023, entry version 140.
+DE   RecName: Full=Pleckstrin homology domain-containing family O member 2;
+DE            Short=PH domain-containing family O member 2;
+DE   AltName: Full=Pleckstrin homology domain-containing family Q member 1;
+DE            Short=PH domain-containing family Q member 1;
+GN   Name=PLEKHO2; Synonyms=PLEKHQ1; ORFNames=PP9099;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Li N., Wan T., Zhang W., Cao X.;
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16572171; DOI=10.1038/nature04601;
+RA   Zody M.C., Garber M., Sharpe T., Young S.K., Rowen L., O'Neill K.,
+RA   Whittaker C.A., Kamal M., Chang J.L., Cuomo C.A., Dewar K.,
+RA   FitzGerald M.G., Kodira C.D., Madan A., Qin S., Yang X., Abbasi N.,
+RA   Abouelleil A., Arachchi H.M., Baradarani L., Birditt B., Bloom S.,
+RA   Bloom T., Borowsky M.L., Burke J., Butler J., Cook A., DeArellano K.,
+RA   DeCaprio D., Dorris L. III, Dors M., Eichler E.E., Engels R., Fahey J.,
+RA   Fleetwood P., Friedman C., Gearin G., Hall J.L., Hensley G., Johnson E.,
+RA   Jones C., Kamat A., Kaur A., Locke D.P., Madan A., Munson G., Jaffe D.B.,
+RA   Lui A., Macdonald P., Mauceli E., Naylor J.W., Nesbitt R., Nicol R.,
+RA   O'Leary S.B., Ratcliffe A., Rounsley S., She X., Sneddon K.M.B.,
+RA   Stewart S., Sougnez C., Stone S.M., Topham K., Vincent D., Wang S.,
+RA   Zimmer A.R., Birren B.W., Hood L., Lander E.S., Nusbaum C.;
+RT   "Analysis of the DNA sequence and duplication history of human chromosome
+RT   15.";
+RL   Nature 440:671-675(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 204-490, AND VARIANT SER-290.
+RX   PubMed=15498874; DOI=10.1073/pnas.0404089101;
+RA   Wan D., Gong Y., Qin W., Zhang P., Li J., Wei L., Zhou X., Li H., Qiu X.,
+RA   Zhong F., He L., Yu J., Yao G., Jiang H., Qian L., Yu Y., Shu H., Chen X.,
+RA   Xu H., Guo M., Pan Z., Chen Y., Ge C., Yang S., Gu J.;
+RT   "Large-scale cDNA transfection screening for genes related to cancer
+RT   development and progression.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:15724-15729(2004).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-311; SER-390 AND SER-468, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-164; SER-167; SER-273;
+RP   THR-311 AND SER-390, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+CC   -!- INTERACTION:
+CC       Q8TD55-2; P24863: CCNC; NbExp=3; IntAct=EBI-12905986, EBI-395261;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q8TD55-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q8TD55-2; Sequence=VSP_029212;
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAL55880.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF494534; AAM18053.1; -; mRNA.
+DR   EMBL; AC069368; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471082; EAW77697.1; -; Genomic_DNA.
+DR   EMBL; CH471082; EAW77699.1; -; Genomic_DNA.
+DR   EMBL; BC008744; AAH08744.2; -; mRNA.
+DR   EMBL; AF318373; AAL55880.1; ALT_INIT; mRNA.
+DR   CCDS; CCDS10196.1; -. [Q8TD55-1]
+DR   CCDS; CCDS73739.1; -. [Q8TD55-2]
+DR   RefSeq; NP_001181988.1; NM_001195059.1. [Q8TD55-2]
+DR   RefSeq; NP_079477.2; NM_025201.4. [Q8TD55-1]
+DR   AlphaFoldDB; Q8TD55; -.
+DR   SMR; Q8TD55; -.
+DR   BioGRID; 123215; 36.
+DR   IntAct; Q8TD55; 19.
+DR   MINT; Q8TD55; -.
+DR   STRING; 9606.ENSP00000326706; -.
+DR   CarbonylDB; Q8TD55; -.
+DR   GlyCosmos; Q8TD55; 1 site, 1 glycan.
+DR   GlyGen; Q8TD55; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q8TD55; -.
+DR   PhosphoSitePlus; Q8TD55; -.
+DR   BioMuta; PLEKHO2; -.
+DR   DMDM; 74739384; -.
+DR   EPD; Q8TD55; -.
+DR   jPOST; Q8TD55; -.
+DR   MassIVE; Q8TD55; -.
+DR   MaxQB; Q8TD55; -.
+DR   PaxDb; Q8TD55; -.
+DR   PeptideAtlas; Q8TD55; -.
+DR   ProteomicsDB; 74242; -. [Q8TD55-1]
+DR   ProteomicsDB; 74243; -. [Q8TD55-2]
+DR   Antibodypedia; 34926; 113 antibodies from 24 providers.
+DR   DNASU; 80301; -.
+DR   Ensembl; ENST00000323544.5; ENSP00000326706.4; ENSG00000241839.10. [Q8TD55-1]
+DR   Ensembl; ENST00000616065.4; ENSP00000483505.1; ENSG00000241839.10. [Q8TD55-2]
+DR   GeneID; 80301; -.
+DR   KEGG; hsa:80301; -.
+DR   MANE-Select; ENST00000323544.5; ENSP00000326706.4; NM_025201.5; NP_079477.2.
+DR   UCSC; uc002anv.4; human. [Q8TD55-1]
+DR   AGR; HGNC:30026; -.
+DR   CTD; 80301; -.
+DR   GeneCards; PLEKHO2; -.
+DR   HGNC; HGNC:30026; PLEKHO2.
+DR   HPA; ENSG00000241839; Tissue enhanced (lymphoid).
+DR   neXtProt; NX_Q8TD55; -.
+DR   OpenTargets; ENSG00000241839; -.
+DR   PharmGKB; PA162399756; -.
+DR   VEuPathDB; HostDB:ENSG00000241839; -.
+DR   eggNOG; ENOG502QVFF; Eukaryota.
+DR   GeneTree; ENSGT00530000063760; -.
+DR   HOGENOM; CLU_026551_3_0_1; -.
+DR   InParanoid; Q8TD55; -.
+DR   OMA; GHWKDRY; -.
+DR   OrthoDB; 5313759at2759; -.
+DR   PhylomeDB; Q8TD55; -.
+DR   TreeFam; TF333115; -.
+DR   PathwayCommons; Q8TD55; -.
+DR   Reactome; R-HSA-6798695; Neutrophil degranulation.
+DR   SignaLink; Q8TD55; -.
+DR   BioGRID-ORCS; 80301; 9 hits in 1151 CRISPR screens.
+DR   ChiTaRS; PLEKHO2; human.
+DR   GenomeRNAi; 80301; -.
+DR   Pharos; Q8TD55; Tdark.
+DR   PRO; PR:Q8TD55; -.
+DR   Proteomes; UP000005640; Chromosome 15.
+DR   RNAct; Q8TD55; protein.
+DR   Bgee; ENSG00000241839; Expressed in spleen and 153 other tissues.
+DR   Genevisible; Q8TD55; HS.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:1904813; C:ficolin-1-rich granule lumen; TAS:Reactome.
+DR   GO; GO:0071888; P:macrophage apoptotic process; IBA:GO_Central.
+DR   CDD; cd13317; PH_PLEKHO1_PLEKHO2; 1.
+DR   Gene3D; 2.30.29.30; Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB); 1.
+DR   InterPro; IPR011993; PH-like_dom_sf.
+DR   InterPro; IPR001849; PH_domain.
+DR   InterPro; IPR043448; PKHO1/2.
+DR   PANTHER; PTHR15871; PH DOMAIN-CONTAINING PROTEIN; 1.
+DR   PANTHER; PTHR15871:SF2; PLECKSTRIN HOMOLOGY DOMAIN-CONTAINING FAMILY O MEMBER 2; 1.
+DR   Pfam; PF00169; PH; 1.
+DR   SMART; SM00233; PH; 1.
+DR   SUPFAM; SSF50729; PH domain-like; 1.
+DR   PROSITE; PS50003; PH_DOMAIN; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Coiled coil; Phosphoprotein; Reference proteome.
+FT   CHAIN           1..490
+FT                   /note="Pleckstrin homology domain-containing family O
+FT                   member 2"
+FT                   /id="PRO_0000309483"
+FT   DOMAIN          18..119
+FT                   /note="PH"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00145"
+FT   REGION          173..402
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COILED          439..481
+FT                   /evidence="ECO:0000255"
+FT   MOD_RES         164
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         167
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         232
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8K124"
+FT   MOD_RES         235
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8K124"
+FT   MOD_RES         237
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8K124"
+FT   MOD_RES         238
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8K124"
+FT   MOD_RES         273
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:24275569"
+FT   MOD_RES         298
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q8K124"
+FT   MOD_RES         311
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         390
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163,
+FT                   ECO:0007744|PubMed:24275569"
+FT   MOD_RES         468
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:23186163"
+FT   VAR_SEQ         4..53
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_029212"
+FT   VARIANT         290
+FT                   /note="P -> S (in dbSNP:rs2010875)"
+FT                   /evidence="ECO:0000269|PubMed:15498874"
+FT                   /id="VAR_036964"
+SQ   SEQUENCE   490 AA;  53350 MW;  02099F6ECAFA8BF3 CRC64;
+     MEEEGVKEAG EKPRGAQMVD KAGWIKKSSG GLLGFWKDRY LLLCQAQLLV YENEDDQKCV
+     ETVELGSYEK CQDLRALLKR KHRFILLRSP GNKVSDIKFQ APTGEEKESW IKALNEGINR
+     GKNKAFDEVK VDKSCALEHV TRDRVRGGQR RRPPTRVHLK EVASAASDGL LRLDLDVPDS
+     GPPVFAPSNH VSEAQPRETP RPLMPPTKPF LAPETTSPGD RVETPVGERA PTPVSASSEV
+     SPESQEDSET PAEEDSGSEQ PPNSVLPDKL KVSWENPSPQ EAPAAESAEP SQAPCSETSE
+     AAPREGGKPP TPPPKILSEK LKASMGEMQA SGPPAPGTVQ VSVNGMDDSP EPAKPSQAEG
+     TPGTPPKDAT TSTALPPWDL PPQFHPRCSS LGDLLGEGPR HPLQPRERLY RAQLEVKVAS
+     EQTEKLLNKV LGSEPAPVSA ETLLSQAVEQ LRQATQVLQE MRDLGELSQE APGLREKRKE
+     LVTLYRRSAP
+//

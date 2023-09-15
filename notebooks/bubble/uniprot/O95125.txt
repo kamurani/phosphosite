@@ -1,0 +1,370 @@
+ID   ZN202_HUMAN             Reviewed;         648 AA.
+AC   O95125; B0LPH9; Q4JG21; Q9H1B9; Q9NSM4;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   16-MAY-2006, sequence version 4.
+DT   28-JUN-2023, entry version 205.
+DE   RecName: Full=Zinc finger protein 202;
+DE   AltName: Full=Zinc finger protein with KRAB and SCAN domains 10;
+GN   Name=ZNF202; Synonyms=ZKSCAN10;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS ALPHA AND BETA), AND VARIANT ALA-154.
+RC   TISSUE=Testis;
+RX   PubMed=9790754; DOI=10.1006/geno.1998.5419;
+RA   Monaco C., Helmer Citterich M., Caprini E., Vorechovsky I., Russo G.,
+RA   Croce C.M., Barbanti-Brodano G., Negrini M.;
+RT   "Molecular cloning and characterization of ZNF202: a new gene at 11q23.3
+RT   encoding testis-specific zinc finger proteins.";
+RL   Genomics 52:358-362(1998).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT ALA-154.
+RA   Langmann T., Porsch-Oezcueruemez M., Heimerl S., Andrikovics H.,
+RA   Schmitz G.;
+RT   "Genomic sequence analysis of the ZNF202 gene: relevance for lipid
+RT   parameters.";
+RL   Submitted (JUL-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS ALA-154 AND ALA-533.
+RG   SeattleSNPs variation discovery resource;
+RL   Submitted (JUN-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT ALA-154.
+RG   NHLBI resequencing and genotyping service (RS&G);
+RL   Submitted (DEC-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM BETA), AND VARIANT ALA-154.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 15-648 (ISOFORM BETA).
+RC   TISSUE=Mammary cancer;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [7]
+RP   CHARACTERIZATION.
+RX   PubMed=10748193; DOI=10.1074/jbc.m910152199;
+RA   Wagner S., Hess M.A., Ormonde-Hanson P., Malandro J., Hu H., Chen M.,
+RA   Kehrer R., Frodsham M., Schumacher C., Beluch M., Honer C., Skolnick M.,
+RA   Ballinger D., Bowen B.R.;
+RT   "A broad role for the zinc finger protein ZNF202 in human lipid
+RT   metabolism.";
+RL   J. Biol. Chem. 275:15685-15690(2000).
+RN   [8]
+RP   POSSIBLE FUNCTION.
+RX   PubMed=11279031; DOI=10.1074/jbc.m100218200;
+RA   Porsch-Oezcueruemez M., Langmann T., Heimerl S., Borsukova H.,
+RA   Kaminski W.E., Drobnik W., Honer C., Schumacher C., Schmitz G.;
+RT   "The zinc finger protein 202 (ZNF202) is a transcriptional repressor of ATP
+RT   binding cassette transporter A1 (ABCA1) and ABCG1 gene expression and a
+RT   modulator of cellular lipid efflux.";
+RL   J. Biol. Chem. 276:12427-12433(2001).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-466, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21406692; DOI=10.1126/scisignal.2001570;
+RA   Rigbolt K.T., Prokhorova T.A., Akimov V., Henningsen J., Johansen P.T.,
+RA   Kratchmarova I., Kassem M., Mann M., Olsen J.V., Blagoev B.;
+RT   "System-wide temporal characterization of the proteome and phosphoproteome
+RT   of human embryonic stem cell differentiation.";
+RL   Sci. Signal. 4:RS3-RS3(2011).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-466, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma, and Erythroleukemia;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [11]
+RP   SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-22; LYS-454; LYS-460; LYS-507 AND
+RP   LYS-521, AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=28112733; DOI=10.1038/nsmb.3366;
+RA   Hendriks I.A., Lyon D., Young C., Jensen L.J., Vertegaal A.C.,
+RA   Nielsen M.L.;
+RT   "Site-specific mapping of the human SUMO proteome reveals co-modification
+RT   with phosphorylation.";
+RL   Nat. Struct. Mol. Biol. 24:325-336(2017).
+CC   -!- FUNCTION: Transcriptional repressor that binds to elements found
+CC       predominantly in genes that participate in lipid metabolism. Among its
+CC       targets are structural components of lipoprotein particles
+CC       (apolipoproteins AIV, CIII, and E), enzymes involved in lipid
+CC       processing (lipoprotein lipase, lecithin cholesteryl ester
+CC       transferase), transporters involved in lipid homeostasis (ABCA1,
+CC       ABCG1), and several genes involved in processes related to energy
+CC       metabolism and vascular disease.
+CC   -!- SUBUNIT: Interacts with SDP1.
+CC   -!- INTERACTION:
+CC       O95125; Q9BWT7: CARD10; NbExp=3; IntAct=EBI-751960, EBI-3866279;
+CC       O95125; Q8NHQ1: CEP70; NbExp=3; IntAct=EBI-751960, EBI-739624;
+CC       O95125; Q96JC9: EAF1; NbExp=3; IntAct=EBI-751960, EBI-769261;
+CC       O95125; Q6A162: KRT40; NbExp=6; IntAct=EBI-751960, EBI-10171697;
+CC       O95125; P61968: LMO4; NbExp=4; IntAct=EBI-751960, EBI-2798728;
+CC       O95125; Q15013: MAD2L1BP; NbExp=3; IntAct=EBI-751960, EBI-712181;
+CC       O95125; P23508: MCC; NbExp=3; IntAct=EBI-751960, EBI-307531;
+CC       O95125; Q6FHY5: MEOX2; NbExp=3; IntAct=EBI-751960, EBI-16439278;
+CC       O95125; Q9H2K0: MTIF3; NbExp=3; IntAct=EBI-751960, EBI-3923617;
+CC       O95125; P41227: NAA10; NbExp=3; IntAct=EBI-751960, EBI-747693;
+CC       O95125; Q9BSU3: NAA11; NbExp=3; IntAct=EBI-751960, EBI-2585120;
+CC       O95125; Q9BWG6: SCNM1; NbExp=3; IntAct=EBI-751960, EBI-748391;
+CC       O95125; P49903: SEPHS1; NbExp=5; IntAct=EBI-751960, EBI-714091;
+CC       O95125; Q9Y2D8: SSX2IP; NbExp=3; IntAct=EBI-751960, EBI-2212028;
+CC       O95125; P15622-3: ZNF250; NbExp=3; IntAct=EBI-751960, EBI-10177272;
+CC       O95125; Q7Z4V0: ZNF438; NbExp=3; IntAct=EBI-751960, EBI-11962468;
+CC       O95125; Q9Y2P0: ZNF835; NbExp=3; IntAct=EBI-751960, EBI-5667516;
+CC       O95125; Q96EG3: ZNF837; NbExp=3; IntAct=EBI-751960, EBI-11962574;
+CC   -!- SUBCELLULAR LOCATION: Nucleus.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=Beta; Synonyms=2;
+CC         IsoId=O95125-1; Sequence=Displayed;
+CC       Name=Alpha; Synonyms=1;
+CC         IsoId=O95125-2; Sequence=VSP_006902;
+CC   -!- TISSUE SPECIFICITY: Highly expressed in testis. Also expressed in
+CC       breast carcinoma cell lines.
+CC   -!- WEB RESOURCE: Name=SeattleSNPs;
+CC       URL="http://pga.gs.washington.edu/data/znf202/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF027219; AAC79941.1; -; mRNA.
+DR   EMBL; AF027218; AAC79940.1; -; mRNA.
+DR   EMBL; AJ276177; CAC21447.1; -; Genomic_DNA.
+DR   EMBL; AJ276178; CAC21447.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ276179; CAC21447.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ276180; CAC21447.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ276181; CAC21447.1; JOINED; Genomic_DNA.
+DR   EMBL; AJ276182; CAC21447.1; JOINED; Genomic_DNA.
+DR   EMBL; DQ093962; AAY88738.1; -; Genomic_DNA.
+DR   EMBL; EU332869; ABY87558.1; -; Genomic_DNA.
+DR   EMBL; BC013382; AAH13382.1; -; mRNA.
+DR   EMBL; AL162031; CAB82384.1; -; mRNA.
+DR   CCDS; CCDS8443.1; -. [O95125-1]
+DR   PIR; T47156; T47156.
+DR   RefSeq; NP_001288708.1; NM_001301779.1. [O95125-1]
+DR   RefSeq; NP_001288709.1; NM_001301780.1. [O95125-1]
+DR   RefSeq; NP_001288748.1; NM_001301819.1. [O95125-2]
+DR   RefSeq; NP_003446.2; NM_003455.3. [O95125-1]
+DR   RefSeq; XP_005271716.1; XM_005271659.1. [O95125-1]
+DR   RefSeq; XP_005271717.1; XM_005271660.1. [O95125-1]
+DR   RefSeq; XP_005271718.1; XM_005271661.1. [O95125-1]
+DR   RefSeq; XP_005271721.1; XM_005271664.1.
+DR   RefSeq; XP_006718964.1; XM_006718901.2. [O95125-1]
+DR   RefSeq; XP_011541274.1; XM_011542972.1. [O95125-1]
+DR   RefSeq; XP_011541275.1; XM_011542973.1. [O95125-1]
+DR   RefSeq; XP_011541277.1; XM_011542975.1. [O95125-1]
+DR   RefSeq; XP_011541278.1; XM_011542976.1.
+DR   RefSeq; XP_016873757.1; XM_017018268.1. [O95125-1]
+DR   AlphaFoldDB; O95125; -.
+DR   SMR; O95125; -.
+DR   BioGRID; 113537; 31.
+DR   IntAct; O95125; 27.
+DR   STRING; 9606.ENSP00000337724; -.
+DR   iPTMnet; O95125; -.
+DR   PhosphoSitePlus; O95125; -.
+DR   BioMuta; ZNF202; -.
+DR   EPD; O95125; -.
+DR   jPOST; O95125; -.
+DR   MassIVE; O95125; -.
+DR   MaxQB; O95125; -.
+DR   PaxDb; O95125; -.
+DR   PeptideAtlas; O95125; -.
+DR   ProteomicsDB; 50655; -. [O95125-1]
+DR   ProteomicsDB; 50656; -. [O95125-2]
+DR   Antibodypedia; 32833; 187 antibodies from 19 providers.
+DR   DNASU; 7753; -.
+DR   Ensembl; ENST00000336139.8; ENSP00000337724.4; ENSG00000166261.11. [O95125-1]
+DR   Ensembl; ENST00000529691.1; ENSP00000433881.1; ENSG00000166261.11. [O95125-1]
+DR   Ensembl; ENST00000530393.6; ENSP00000432504.1; ENSG00000166261.11. [O95125-1]
+DR   GeneID; 7753; -.
+DR   KEGG; hsa:7753; -.
+DR   MANE-Select; ENST00000530393.6; ENSP00000432504.1; NM_003455.4; NP_003446.2.
+DR   UCSC; uc001pzd.2; human. [O95125-1]
+DR   AGR; HGNC:12994; -.
+DR   CTD; 7753; -.
+DR   DisGeNET; 7753; -.
+DR   GeneCards; ZNF202; -.
+DR   HGNC; HGNC:12994; ZNF202.
+DR   HPA; ENSG00000166261; Low tissue specificity.
+DR   MIM; 603430; gene.
+DR   neXtProt; NX_O95125; -.
+DR   OpenTargets; ENSG00000166261; -.
+DR   PharmGKB; PA37574; -.
+DR   VEuPathDB; HostDB:ENSG00000166261; -.
+DR   eggNOG; KOG1721; Eukaryota.
+DR   GeneTree; ENSGT00940000161189; -.
+DR   HOGENOM; CLU_002678_49_8_1; -.
+DR   InParanoid; O95125; -.
+DR   OMA; ELYLCNE; -.
+DR   OrthoDB; 5249345at2759; -.
+DR   PhylomeDB; O95125; -.
+DR   TreeFam; TF350829; -.
+DR   PathwayCommons; O95125; -.
+DR   Reactome; R-HSA-212436; Generic Transcription Pathway.
+DR   SignaLink; O95125; -.
+DR   SIGNOR; O95125; -.
+DR   BioGRID-ORCS; 7753; 24 hits in 1180 CRISPR screens.
+DR   ChiTaRS; ZNF202; human.
+DR   GeneWiki; ZNF202; -.
+DR   GenomeRNAi; 7753; -.
+DR   Pharos; O95125; Tbio.
+DR   PRO; PR:O95125; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   RNAct; O95125; protein.
+DR   Bgee; ENSG00000166261; Expressed in secondary oocyte and 134 other tissues.
+DR   ExpressionAtlas; O95125; baseline and differential.
+DR   Genevisible; O95125; HS.
+DR   GO; GO:0005694; C:chromosome; IDA:HPA.
+DR   GO; GO:0016604; C:nuclear body; IDA:HPA.
+DR   GO; GO:0005730; C:nucleolus; IDA:HPA.
+DR   GO; GO:0000981; F:DNA-binding transcription factor activity, RNA polymerase II-specific; IBA:GO_Central.
+DR   GO; GO:0001227; F:DNA-binding transcription repressor activity, RNA polymerase II-specific; IDA:NTNU_SB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000978; F:RNA polymerase II cis-regulatory region sequence-specific DNA binding; IDA:NTNU_SB.
+DR   GO; GO:0006629; P:lipid metabolic process; TAS:ProtInc.
+DR   GO; GO:0000122; P:negative regulation of transcription by RNA polymerase II; IDA:NTNU_SB.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IBA:GO_Central.
+DR   CDD; cd07765; KRAB_A-box; 1.
+DR   CDD; cd07936; SCAN; 1.
+DR   Gene3D; 6.10.140.140; -; 1.
+DR   Gene3D; 3.30.160.60; Classic Zinc Finger; 8.
+DR   Gene3D; 1.10.4020.10; DNA breaking-rejoining enzymes; 1.
+DR   InterPro; IPR001909; KRAB.
+DR   InterPro; IPR036051; KRAB_dom_sf.
+DR   InterPro; IPR003309; SCAN_dom.
+DR   InterPro; IPR038269; SCAN_sf.
+DR   InterPro; IPR036236; Znf_C2H2_sf.
+DR   InterPro; IPR013087; Znf_C2H2_type.
+DR   PANTHER; PTHR24381; ZINC FINGER PROTEIN; 1.
+DR   PANTHER; PTHR24381:SF278; ZINC FINGER PROTEIN 626; 1.
+DR   Pfam; PF01352; KRAB; 1.
+DR   Pfam; PF02023; SCAN; 1.
+DR   Pfam; PF00096; zf-C2H2; 7.
+DR   SMART; SM00349; KRAB; 1.
+DR   SMART; SM00431; SCAN; 1.
+DR   SMART; SM00355; ZnF_C2H2; 8.
+DR   SUPFAM; SSF57667; beta-beta-alpha zinc fingers; 4.
+DR   SUPFAM; SSF109640; KRAB domain (Kruppel-associated box); 1.
+DR   SUPFAM; SSF47353; Retrovirus capsid dimerization domain-like; 1.
+DR   PROSITE; PS50805; KRAB; 1.
+DR   PROSITE; PS50804; SCAN_BOX; 1.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 8.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 8.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; DNA-binding; Isopeptide bond; Metal-binding; Nucleus;
+KW   Phosphoprotein; Reference proteome; Repeat; Repressor; Transcription;
+KW   Transcription regulation; Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..648
+FT                   /note="Zinc finger protein 202"
+FT                   /id="PRO_0000047450"
+FT   DOMAIN          46..127
+FT                   /note="SCAN box"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00187"
+FT   DOMAIN          237..308
+FT                   /note="KRAB"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00119"
+FT   ZN_FING         397..419
+FT                   /note="C2H2-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         425..447
+FT                   /note="C2H2-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         481..503
+FT                   /note="C2H2-type 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         509..531
+FT                   /note="C2H2-type 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         537..559
+FT                   /note="C2H2-type 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         565..587
+FT                   /note="C2H2-type 6"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         593..615
+FT                   /note="C2H2-type 7"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   ZN_FING         621..643
+FT                   /note="C2H2-type 8"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00042"
+FT   REGION          146..221
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        161..185
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         466
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:21406692,
+FT                   ECO:0007744|PubMed:23186163"
+FT   CROSSLNK        22
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        454
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        460
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        507
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   CROSSLNK        521
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in SUMO2)"
+FT                   /evidence="ECO:0007744|PubMed:28112733"
+FT   VAR_SEQ         1..224
+FT                   /note="Missing (in isoform Alpha)"
+FT                   /evidence="ECO:0000303|PubMed:9790754"
+FT                   /id="VSP_006902"
+FT   VARIANT         154
+FT                   /note="V -> A (in dbSNP:rs1144507)"
+FT                   /evidence="ECO:0000269|PubMed:15489334,
+FT                   ECO:0000269|PubMed:9790754, ECO:0000269|Ref.2,
+FT                   ECO:0000269|Ref.3, ECO:0000269|Ref.4"
+FT                   /id="VAR_007818"
+FT   VARIANT         533
+FT                   /note="G -> A (in dbSNP:rs34111365)"
+FT                   /evidence="ECO:0000269|Ref.3"
+FT                   /id="VAR_023975"
+FT   CONFLICT        15
+FT                   /note="E -> P (in Ref. 6; CAB82384)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        205
+FT                   /note="Missing (in Ref. 2; CAC21447)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        278
+FT                   /note="S -> AA (in Ref. 2)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   648 AA;  74720 MW;  E738506D71DAFAE9 CRC64;
+     MATAVEPEDQ DLWEEEGILM VKLEDDFTCR PESVLQRDDP VLETSHQNFR RFRYQEAASP
+     REALIRLREL CHQWLRPERR TKEQILELLV LEQFLTVLPG ELQSWVRGQR PESGEEAVTL
+     VEGLQKQPRR PRRWVTVHVH GQEVLSEETV HLGVEPESPN ELQDPVQSST PEQSPEETTQ
+     SPDLGAPAEQ RPHQEEELQT LQESEVPVPE DPDLPAERSS GDSEMVALLT ALSQGLVTFK
+     DVAVCFSQDQ WSDLDPTQKE FYGEYVLEED CGIVVSLSFP IPRPDEISQV REEEPWVPDI
+     QEPQETQEPE ILSFTYTGDR SKDEEECLEQ EDLSLEDIHR PVLGEPEIHQ TPDWEIVFED
+     NPGRLNERRF GTNISQVNSF VNLRETTPVH PLLGRHHDCS VCGKSFTCNS HLVRHLRTHT
+     GEKPYKCMEC GKSYTRSSHL ARHQKVHKMN APYKYPLNRK NLEETSPVTQ AERTPSVEKP
+     YRCDDCGKHF RWTSDLVRHQ RTHTGEKPFF CTICGKSFSQ KSVLTTHQRI HLGGKPYLCG
+     ECGEDFSEHR RYLAHRKTHA AEELYLCSEC GRCFTHSAAF AKHLRGHASV RPCRCNECGK
+     SFSRRDHLVR HQRTHTGEKP FTCPTCGKSF SRGYHLIRHQ RTHSEKTS
+//
