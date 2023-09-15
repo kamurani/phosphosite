@@ -6,25 +6,18 @@ logging.basicConfig(filename='example.log', encoding='utf-8', level=logging.WARN
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-from pathlib import Path 
-import pandas as pd 
-import numpy as np
-
-from phosphosite.utils import aa1to3
-from typing import Union, List, Tuple, Dict, Optional
-from pathlib import Path
-
 import graphein 
 graphein.verbose(enabled=False)
 
-N = 30000
+import pandas as pd 
+import numpy as np
 
-def get_euc_dist(
-    arr1: np.ndarray, arr2: np.ndarray
-): 
-    """Get euclidean distance between two arrays."""
-    return np.sqrt(np.sum((arr1 - arr2) ** 2))
-    
+from typing import Union, List, Tuple, Dict, Optional
+from pathlib import Path
+from phosphosite.utils import aa1to3
+from phosphosite.utils.structure import get_euc_dist
+
+N = 30000
 
 def get_node_id(
     site: str, 
