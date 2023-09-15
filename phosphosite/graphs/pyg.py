@@ -60,7 +60,7 @@ def get_pyg_graph(
     # Setup config
     new_edge_funcs = {"edge_construction_functions": [
         partial(
-        add_distance_threshold, long_interaction_threshold=LONG_INTERACTION_THRESHOLD, threshold=NODE_DISTANCE_THRESHOLD)
+        add_distance_threshold, long_interaction_threshold=long_interaction_threshold, threshold=edge_threshold_distance)
     ]}
     config = ProteinGraphConfig(
         pdb_dir=pdb_dir,
@@ -75,17 +75,27 @@ def get_pyg_graph(
     )
 
     """Create graph"""
-    pdb_path = pdb_dir / filename_format.format(uniprot_id=uniprot_id)
+    pdb_path = Path(pdb_dir) / filename_format.format(uniprot_id=uniprot_id)
     g = construct_graph(config=config, path=pdb_path, verbose=False)
 
     # add embedding
-    emb = get_embedding(uniprot_id)
-    g = add_residue_embedding(g, emb, label="x")
+    try:
+        emb = get_embedding(uniprot_id)
+    except ValueError as e:
+        print(f"{uniprot_id}: {e}")
+        return None
 
+    try:
+        g = add_residue_embedding(g, emb, label="x")
+    except ValueError as e:
+        print(f"{uniprot_id}: {e}")
+        return None
+
+    
     columns = [
         "b_factor",
         #"coords",
-
+        "name",
         "edge_index",
         "x", # T5 per-residue embedding
 

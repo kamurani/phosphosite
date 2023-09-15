@@ -1,17 +1,21 @@
 """ML models for predicting phosphorylation sites."""
 
 # pytorch geometric and pytorch lightning
-from typing import Any
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import pytorch_lightning as pl
 
 from torch.utils.data import Dataset, DataLoader
-
 from torch_geometric.nn import GCNConv, GATConv, GATv2Conv, global_add_pool, global_mean_pool, global_max_pool, Sequential as PyGSequential
+from typing import Callable, List, Tuple, Union, Optional
 
-# pytorch lightning
-import pytorch_lightning as pl
+from torchmetrics import Accuracy
+accuracy = Accuracy(task="binary")
+
+from phosphosite.ml import calculate_masked_accuracy, calculate_masked_f1
+
 
 # import metrics from torch
 #from torchmetrics import Accuracy, Precision, Recall, F1, AUROC, ConfusionMatrix
@@ -20,6 +24,7 @@ import pytorch_lightning as pl
 from phosphosite.model.defaults import (
     SEQUENCE_EMBEDDING_SIZE,
 )
+from phosphosite.ml import MaskedBinaryCrossEntropy, MaskedMSELoss
 
 
 
@@ -49,6 +54,11 @@ class PhosphoGAT(pl.LightningModule):
         validation_dataset: Dataset = None,
         test_dataset: Dataset = None,
 
+        loss_func: Callable = MaskedBinaryCrossEntropy(),
+        accuracy: Callable = calculate_masked_accuracy,
+
+        prog_bar: bool = True,
+
     ) -> None:
         super().__init__()
         self.learning_rate = learning_rate
@@ -62,6 +72,12 @@ class PhosphoGAT(pl.LightningModule):
 
         self.out_heads = 1 
 
+        self.loss_func = loss_func
+        self.accuracy = accuracy
+
+        self.prog_bar = prog_bar
+
+        """Model parameters."""
         hidden_size = node_embedding_size // num_heads  
 
         out_size = hidden_size*num_heads # change this to be less perhaps?
@@ -138,6 +154,64 @@ class PhosphoGAT(pl.LightningModule):
         # Apply fully connected layers to each node
         x = self.classifier(x)
         return x
+    
+    def training_step(self, batch, batch_idx):
+        """Training step for the model.
+
+        Parameters
+        ----------
+        batch : torch_geometric.data.Batch
+            The batch of data.
+        batch_idx : int
+            The index of the batch.
+
+        Returns
+        -------
+        torch.Tensor
+            The loss tensor.
+
+        """
+        x = batch 
+        y = x.y 
+        mask = x.mask
+        y_hat = self(x)
+        loss = self.loss_func(y_hat, y, mask)
+        acc = self.accuracy(y_hat, y, mask)
+        self.log("train_loss", loss, prog_bar=self.prog_bar)
+        self.log("train_acc", acc, prog_bar=self.prog_bar)
+        return loss
+
+    def validation_step(self, batch, batch_idx):
+        x = batch
+        y = x.y
+        mask = x.mask
+        y_hat = self(x)
+        loss = self.loss_func(y_hat, y, mask)
+        acc = self.accuracy(y_hat, y, mask)
+        self.log("val_loss", loss, prog_bar=self.prog_bar)
+        self.log("val_acc", acc, prog_bar=self.prog_bar)
+
+    def test_step(self, batch, batch_idx):
+        x = batch
+        y = x.y
+        mask = x.mask
+        y_hat = self(x)
+        loss = self.loss_func(y_hat, y, mask)
+        acc = self.accuracy(y_hat, y, mask)
+
+        # F1 score
+        f1 = calculate_masked_f1(y_hat, y, mask, average="weighted")
+
+        self.log("test_loss", loss, prog_bar=self.prog_bar)
+        self.log("test_acc", acc, prog_bar=self.prog_bar)
+        self.log("test_f1", f1, prog_bar=self.prog_bar)
 
 
-
+    def configure_optimizers(self):
+        optim = torch.optim.Adam(self.parameters(), lr=self.learning_rate)
+        scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optim, patience=10, factor=0.5, verbose=True, mode="min")
+        return dict(
+            optimizer=optim,
+            lr_scheduler=scheduler,
+            monitor="train_loss",
+        )

@@ -21,7 +21,7 @@ def add_residue_embedding(
     
     """
     if embedding.shape[0] != len(G.nodes):
-        raise ValueError(f"Embedding shape {embedding.shape} does not match graph size {len(G.nodes)}.")
+        raise ValueError(f"{G.name}: Embedding shape {embedding.shape} does not match graph size {len(G.nodes)}.")
 
     # TODO: chain selection?
 
