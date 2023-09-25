@@ -3,6 +3,7 @@
 
 
 import torch_geometric
+import networkx as nx 
 
 from pathlib import Path
 from functools import partial
@@ -22,6 +23,54 @@ from graphein.ml.conversion import GraphFormatConvertor
 
 from phosphosite.protein.embeddings import get_embedding 
 from phosphosite.graphs.features import add_residue_embedding
+
+def add_per_residue_embedding(
+    g: nx.Graph, 
+    verbose: bool = False,
+    uniprot_id_attribute: str = "name",
+) -> nx.Graph:
+    """
+    Retrieve per-residue embedding from graph.
+
+    Uses uniprot_id to retrieve embedding from database.
+
+    Parameters
+    ----------
+    g : nx.Graph
+        Graph to add embedding to.
+    verbose : bool, optional
+        Whether to print verbose output, by default False
+    uniprot_id_attribute : str, optional
+        Name of the attribute in the original graph that contains 
+        the uniprot_id, by default "name".
+    
+    Returns
+    -------
+    nx.Graph
+        Graph with per-residue embedding added.
+    
+    Raises
+    ------
+    ValueError
+        If uniprot_id is not in graph.
+
+
+    """
+    uniprot_id = g.__getattribute__(uniprot_id_attribute)
+    # add embedding
+    try:
+        emb = get_embedding(uniprot_id)
+    except ValueError as e:
+        if verbose: print(f"{uniprot_id}: {e}")
+        return None
+
+    try:
+        g = add_residue_embedding(g, emb, label="x")
+    except ValueError as e:
+        if verbose: print(f"{uniprot_id}: {e}")
+        return None
+    
+    return g
 
 def get_pyg_graph(
     uniprot_id: str,

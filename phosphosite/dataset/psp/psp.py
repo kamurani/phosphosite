@@ -27,7 +27,6 @@ def load_dataset_file(
     if not Path(filepath).exists():
         raise ValueError(f"Filepath {filepath} does not exist.")
     
-    
     compression = "gzip" if str(filepath).endswith(".gz") else None
     dataset = pd.read_csv(
         filepath,
@@ -91,6 +90,48 @@ def filter_isoforms(
 
 
 phosphorylation = get_phosphorylation_dataset()
+
+def load_psp_alternate(
+    filepath: Path = PSP_DATASET_DIR / "Phosphorylation_site_dataset.gz",
+    include_columns: List[str] = None,
+):
+    df = load_dataset_file(filepath)
+    df = df[df.ORGANISM == "human"]
+    df.rename(columns={"ACC_ID": "uniprot_id", "MOD_RSD": "mod_rsd"}, inplace=True)
+    psp = df[["uniprot_id", "mod_rsd"]]
+
+    # only containing "-p"
+    psp = psp[psp.mod_rsd.str.contains("-p")]
+
+    # only containing S, T, Y
+    psp = psp[psp.mod_rsd.str.contains("S|T|Y")]
+
+    # remove isoforms 
+    psp["uniprot_id"] = psp.uniprot_id.str.split("-").str[0] 
+
+    # remove cases like Q9Y6M4_VAR_006
+    # i.e. filter out anything containing underscore 
+    psp = psp[~psp.uniprot_id.str.contains("_")]
+
+
+    """Add column for residue, position, and modification."""
+    # mod should be split on '-' and the last element
+    psp["mod"] = psp["mod_rsd"].str.split("-").str[-1]
+    psp["site"] = psp["mod_rsd"].str.split("-").str[0]
+    # separate columns for "res" and "pos" and "mod" 
+
+    psp["res"] = psp["site"].str[0]
+    psp["pos"] = psp["site"].str[1:].astype(int)
+
+
+    # reset index 
+    psp.reset_index(drop=True, inplace=True)
+
+    if include_columns is not None:
+        psp = psp[include_columns]
+    return psp
+
+psp_filtered = load_psp_alternate()
 
 
 

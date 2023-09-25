@@ -1,6 +1,6 @@
 """Classes for interacting with datasets."""
 
-from phosphosite.dataset.psp import PhosphoSequenceList, get_psp_regulatory_sites, phosphorylation
+from phosphosite.dataset.psp import PhosphoSequenceList, get_psp_regulatory_sites, phosphorylation, psp_filtered
 
 
 __all__ = [
@@ -9,3 +9,4 @@ __all__ = [
 ]
 
 phosphorylation
+psp_filtered
