@@ -1,6 +1,7 @@
 name: phosphosite
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - appnope=0.1.2
   - asttokens=2.0.5
