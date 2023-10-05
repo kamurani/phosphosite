@@ -105,7 +105,7 @@ class PhosphoGraphDataset(InMemoryDataset):
             if g is not None:
                 data_list.append(g)
                 successful.append(uniprot_id)
-                y_list_successful.append(self.y_list[i])
+                
 
     
         print(f"Successfully generated graphs for {len(successful)} out of {len(self.uniprot_ids)} proteins.")
