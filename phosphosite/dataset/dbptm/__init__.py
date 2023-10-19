@@ -18,7 +18,7 @@ def get_dbptm_phosphorylation():
         "evidence",
         "seq_window",
     ]
-
+    dbptm_phosphorylation["seq_window"] = dbptm_phosphorylation["seq_window"].astype(str)
     dbptm_phosphorylation["residue"] = dbptm_phosphorylation.apply(
         # Get middle residue of sequence window
         lambda x: x["seq_window"][int(len(x["seq_window"])/2)],
@@ -31,7 +31,6 @@ def get_dbptm_phosphorylation():
         return seq_window[round(len(seq_window)/2)]
 
     dbptm_phosphorylation["residue"] = dbptm_phosphorylation["seq_window"].apply(get_middle_residue)    
-
     return dbptm_phosphorylation
 
 dbptm_phosphorylation = get_dbptm_phosphorylation()

@@ -8,13 +8,15 @@ PHOSPHOSITE_DIR = PROJECT_ROOT_DIR / 'phosphosite'
 DATA_DIR        = PROJECT_ROOT_DIR / 'data'
 DATASET_DIR     = PROJECT_ROOT_DIR / 'datasets'
 PSP_DATASET_DIR = DATASET_DIR / 'psp'
+DBPTM_DATASET_DIR = DATASET_DIR / "dbptm"
 
 STRUCTURE_DIR   = DATA_DIR / 'structures'
 CIF_DIR         = STRUCTURE_DIR / 'alphafold' / 'cif'
 PAE_DIR         = STRUCTURE_DIR / 'alphafold' / 'pae'
 PDB_DIR         = STRUCTURE_DIR / 'alphafold' / 'pdb' # PDB format structures from AF database.
 SEQUENCE_DIR    = DATA_DIR / 'sequences'
-UNIPROT_SEQUENCE_PATH = DATA_DIR / "uniprot" / "sequences.fasta"
+UNIPROT_DIR     = DATA_DIR / 'uniprot'
+UNIPROT_SEQUENCE_PATH = UNIPROT_DIR / "UP000005640_9606.fasta" # Human proteome fasta file
 
 NOTEBOOK_DIR    = PROJECT_ROOT_DIR / 'notebooks' 
 

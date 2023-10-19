@@ -117,6 +117,8 @@ def process_af_data(
                         end_idx[i]),
                     note[i],
                     df['secondary_structure'])
+                
+        return df
         alphafold_annotation_l.append(df)
 
     alphafold_annotation = pd.concat(alphafold_annotation_l)
