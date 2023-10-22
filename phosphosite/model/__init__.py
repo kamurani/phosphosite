@@ -172,11 +172,23 @@ class PhosphoGAT(pl.LightningModule):
 
         """
         x = batch 
-        y = x.y 
-        mask = x.mask
-        # TODO: 
-        # update this to no longer use mask directly but use y_indexf
+        y_sparse = x.y 
+        y_index = x.y_index
+        y_index = y_index.to(torch.long)
         y_hat = self(x)
+
+        # Flatten 
+        y_hat = torch.flatten(y_hat)
+        y_sparse = torch.flatten(y_sparse)
+        y_index = torch.flatten(y_index)
+
+        # Use `y_index` to create mask 
+        mask = torch.zeros_like(y_hat)
+        mask[y_index] = 1
+        y = torch.zeros_like(y_hat)
+        y[y_index] = y_sparse
+
+
         loss = self.loss_func(y_hat, y, mask)
         acc = self.accuracy(y_hat, y, mask)
         self.log("train_loss", loss, prog_bar=self.prog_bar)
@@ -184,20 +196,44 @@ class PhosphoGAT(pl.LightningModule):
         return loss
 
     def validation_step(self, batch, batch_idx):
-        x = batch
-        y = x.y
-        mask = x.mask
+        x = batch 
+        y_sparse = x.y 
+        y_index = x.y_index
+        y_index = y_index.to(torch.long)
         y_hat = self(x)
+
+        # Flatten 
+        y_hat = torch.flatten(y_hat)
+        y_sparse = torch.flatten(y_sparse)
+        y_index = torch.flatten(y_index)
+        # Use `y_index` to create mask 
+        mask = torch.zeros_like(y_hat)
+        mask[y_index] = 1
+        y = torch.zeros_like(y_hat)
+        y[y_index] = y_sparse
+
         loss = self.loss_func(y_hat, y, mask)
         acc = self.accuracy(y_hat, y, mask)
         self.log("val_loss", loss, prog_bar=self.prog_bar)
         self.log("val_acc", acc, prog_bar=self.prog_bar)
 
     def test_step(self, batch, batch_idx):
-        x = batch
-        y = x.y
-        mask = x.mask
+        x = batch 
+        y_sparse = x.y 
+        y_index = x.y_index
+        y_index = y_index.to(torch.long)
         y_hat = self(x)
+        
+        # Flatten 
+        y_hat = torch.flatten(y_hat)
+        y_sparse = torch.flatten(y_sparse)
+        y_index = torch.flatten(y_index)
+        # Use `y_index` to create mask 
+        mask = torch.zeros_like(y_hat)
+        mask[y_index] = 1
+        y = torch.zeros_like(y_hat)
+        y[y_index] = y_sparse
+
         loss = self.loss_func(y_hat, y, mask)
         acc = self.accuracy(y_hat, y, mask)
 
