@@ -211,7 +211,10 @@ def main(
     trainer.fit(model, train_loader, valid_loader)
     
     # evaluate on the model with the best validation set
-    trainer.test(ckpt_path="best", test_dataloaders=test_loader)
+    if not dev: 
+        trainer.test(ckpt_path="best", dataloaders=test_loader)
+    else:
+        trainer.test(dataloaders=test_loader)
 
     
 
