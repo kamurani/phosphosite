@@ -23,6 +23,7 @@ NOTEBOOK_DIR    = PROJECT_ROOT_DIR / 'notebooks'
 UNIPROT_DATA_DIR = NOTEBOOK_DIR / "bubble" / "uniprot"  
 
 PHOSPHOSITE_PREDICT_DIR = NOTEBOOK_DIR / "phosphosite_prediction"
+INDEX_DICT_PATH = PHOSPHOSITE_PREDICT_DIR / "indexes_dict.json"     # default path for saving the dataset's index dictionary (i.e. pos/neg labels of protein graphs)
 
 CONFIG_FILE_PATH = NOTEBOOK_DIR / "config.yml"
 

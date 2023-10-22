@@ -174,6 +174,8 @@ class PhosphoGAT(pl.LightningModule):
         x = batch 
         y = x.y 
         mask = x.mask
+        # TODO: 
+        # update this to no longer use mask directly but use y_indexf
         y_hat = self(x)
         loss = self.loss_func(y_hat, y, mask)
         acc = self.accuracy(y_hat, y, mask)
