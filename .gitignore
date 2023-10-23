@@ -1,6 +1,16 @@
 # Notebooks 
 notebooks/config.yml
 
+# Data
+data/structures/alphafold/cif/*
+data/structures/alphafold/pdb/*
+
+data/structure_annotations/*
+data/sequence_embeddings/* 
+
+
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
