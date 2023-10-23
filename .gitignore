@@ -1,6 +1,14 @@
 # Notebooks 
 notebooks/config.yml
 
+notebooks/data/* 
+notebooks/bubble/results/*
+notebooks/bubble/uniprot/*
+
+notebooks/phosphosite_prediction/dataset/*
+notebooks/phosphosite_prediction/protein_graph_dataset/*
+
+
 # Data
 data/structures/alphafold/cif/*
 data/structures/alphafold/pdb/*
