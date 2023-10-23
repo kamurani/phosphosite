@@ -12,6 +12,7 @@ def get_dataloader_split(
     train_valid_ratio: float = 0.8,
     train_batch_size: int = 32,
     batch_size: int = 32,
+    num_workers: int = 0,
 ) -> Tuple[DataLoader, DataLoader, DataLoader]:
     """ 
     Splits a dataset into train, valid, test dataloaders.
@@ -28,6 +29,8 @@ def get_dataloader_split(
         Batch size for training, by default 32
     batch_size : int, optional
         Batch size for validation and testing, by default 32
+    num_workers : int, optional
+        Number of workers for dataloading, by default 8
     
     Returns
     -------
@@ -44,7 +47,12 @@ def get_dataloader_split(
     train_size = int(train_valid_ratio * len(train_dataset))
     train_dataset, valid_dataset = torch.utils.data.random_split(train_dataset, [train_size, len(train_dataset) - train_size])
 
-    train_loader = DataLoader(train_dataset, batch_size=train_batch_size, shuffle = True, drop_last = True)
-    valid_loader = DataLoader(valid_dataset, batch_size=batch_size) # 32
-    test_loader = DataLoader(test_dataset, batch_size=batch_size)   # 32
+    train_loader = DataLoader(
+        train_dataset, batch_size=train_batch_size, 
+        num_workers=num_workers, 
+        shuffle = True, drop_last = True, )
+    valid_loader = DataLoader(
+        valid_dataset, batch_size=batch_size, num_workers=num_workers) # 32
+    test_loader = DataLoader(
+        test_dataset, batch_size=batch_size, num_workers=num_workers,)   # 32
     return train_loader, valid_loader, test_loader
