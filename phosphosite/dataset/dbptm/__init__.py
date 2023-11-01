@@ -34,3 +34,17 @@ def get_dbptm_phosphorylation():
     return dbptm_phosphorylation
 
 dbptm_phosphorylation = get_dbptm_phosphorylation()
+
+########### KINASE SUBSTRATE PAIRS ###########
+
+kinase_dir = DBPTM_DATASET_DIR / "kinases"  
+
+import glob 
+
+for kinase_path in glob.glob(str(kinase_dir / "*.fasta")):
+    
+    # Get kinase name
+    pass 
+    # TODO: map this to uniprot_id 
+
+# TODO

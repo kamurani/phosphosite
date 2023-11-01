@@ -532,7 +532,9 @@ class PhosphositeGraphDataset(Dataset):
         ):
         if uniprot_ids is None:
             # Use everything provided in the label dictionary.
+
             uniprot_ids = list(y_label_map.keys())
+
         self.uniprot_ids = uniprot_ids
 
         self.examples: Dict[int, str] = dict(enumerate(self.uniprot_ids))
@@ -553,6 +555,8 @@ class PhosphositeGraphDataset(Dataset):
             self.chain_selection_map = None
 
         self.root = root
+        if y_label_map is None:
+            print(f"No `y_label_map` provided, assuming that `.pt` files already contain `y` and `y_index` attributes.")
         self.y_label_map = y_label_map
         # Configs
         self.config = graphein_config
@@ -718,11 +722,18 @@ class PhosphositeGraphDataset(Dataset):
         )
         assert uniprot_id == data.name, f"Uniprot ID '{uniprot_id}' does not match data.name '{data.name}' at index {idx}."
 
-        data.y_index    = self.y_label_map[uniprot_id]["idx"]
-        data.y          = self.y_label_map[uniprot_id]["y"]
+        # Dynamically add y and y_index if we need to. 
+
+        if self.y_label_map is not None:
+            # Add y and y_index to data
+            data.y_index    = self.y_label_map[uniprot_id]["idx"]
+            data.y          = self.y_label_map[uniprot_id]["y"]
+
+        # Assume that y, y_index has already been added if we were not given a y_label_map
 
         #data.phosphosite_index = torch.tensor(site_indexes, dtype=torch.long)
         # NOTE: not necessary to store any extra information.
+        
         return data
 
     def transform_graphein_graphs(self, graph: nx.Graph):

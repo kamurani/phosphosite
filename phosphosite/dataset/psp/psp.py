@@ -28,6 +28,7 @@ def load_dataset_file(
         raise ValueError(f"Filepath {filepath} does not exist.")
     
     compression = "gzip" if str(filepath).endswith(".gz") else None
+
     dataset = pd.read_csv(
         filepath,
         sep="\t",
@@ -70,6 +71,27 @@ def get_phosphorylation_dataset(
         phosphorylation = phosphorylation[~phosphorylation["ACC_ID"].str.contains("-")]
 
     return phosphorylation
+
+def get_kinase_dataset(
+    filepath: Union[str, Path] = PSP_DATASET_DIR / "Kinase_Substrate_Dataset.gz",
+) -> pd.DataFrame:
+    """Load the PhosphoSitePlus phosphorylation dataset."""
+    compression = "gzip" if str(filepath).endswith(".gz") else None
+
+    if compression is not None:
+        with open(filepath, "rb") as f:
+            dataset = pd.read_csv(
+                f,
+                sep="\t",
+                compression=compression,
+                low_memory=False,
+
+                # binary 
+                encoding="ISO-8859-1",
+                skiprows=3,
+            )
+        return dataset 
+    
 
 
 
